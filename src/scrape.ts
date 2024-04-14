@@ -1,6 +1,10 @@
 import { AnimeService, ApiError, OpenAPI } from "./api/index";
 import { delay } from "./utils";
 
+const yearsToScrape = 20;
+const limit = 400;
+const scrapeDelay = 1_000;
+
 const clientId = process.env.CLIENT_ID;
 
 if (!clientId) {
@@ -18,9 +22,6 @@ interface Metadata {
 }
 
 let metadata: Metadata = await Bun.file("state.json").json();
-
-const yearsToScrape = 20;
-const limit = 400;
 
 let hasReachedEnd = false;
 let lastYearToScrape = metadata.current_year + yearsToScrape;
@@ -78,7 +79,7 @@ yearLoop: while (year < lastYearToScrape) {
       offset += limit;
 
       console.debug("Waiting 3 seconds...");
-      await delay(3_000);
+      await delay(scrapeDelay);
     }
 
     season += 1;
