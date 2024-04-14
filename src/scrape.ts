@@ -78,7 +78,7 @@ yearLoop: while (year < lastYearToScrape) {
       hasNextPage = Boolean(res.paging?.next);
       offset += limit;
 
-      console.debug("Waiting 3 seconds...");
+      console.debug(`Waiting ${scrapeDelay}ms...`);
       await delay(scrapeDelay);
     }
 
