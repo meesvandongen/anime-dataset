@@ -1,0 +1,45 @@
+{
+  "id": 55920,
+  "title": "Ahiru-kun no Chiisana Bouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1110/137061.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1110/137061l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Duck's Little Adventure",
+    "ja": "アヒルくんの小さな冒険"
+  },
+  "start_date": "2023-07-08",
+  "end_date": "2023-07-08",
+  "synopsis": "",
+  "mean": 5.92,
+  "rank": 9931,
+  "popularity": 17596,
+  "num_list_users": 367,
+  "num_scoring_users": 166,
+  "nsfw": "white",
+  "created_at": "2023-07-11T05:52:49+00:00",
+  "updated_at": "2023-07-11T10:48:21+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 346,
+  "rating": "g",
+  "studios": []
+}

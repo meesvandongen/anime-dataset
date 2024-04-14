@@ -1,0 +1,60 @@
+{
+  "id": 52985,
+  "title": "Dekoboko Majo no Oyako Jijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1918/138185.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1918/138185l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Family Circumstances of the Mismatched Witches"
+    ],
+    "en": "The Family Circumstances of the Irregular Witch",
+    "ja": "でこぼこ魔女の親子事情"
+  },
+  "start_date": "2023-10-01",
+  "end_date": "2023-12-17",
+  "synopsis": "While walking through the forest one day, a witch named Alyssa finds a bush glowing with a magical aura. She discovers a baby who, although not a witch, possesses magic that is too strong for that of a mere human. As such, Alyssa decides to raise the child as her own, naming her Viola.\n\nSixteen years later, Viola is all grown up and now towers over her youthful mother, and her mature looks cause many to confuse their ages. Nevertheless, Alyssa adores her child despite Viola's possessive streak and tendency to drive away anyone she fears will take away her mother's love. Viola may not be sure where she came from, though she has all she needs in Alyssa and the plethora of Alyssa's friends who have come together to raise her. Under Alyssa's guidance, Viola will learn to master her magic and make her adoptive mother proud.\n\n[Written by MAL Rewrite]",
+  "mean": 6.8,
+  "rank": 5194,
+  "popularity": 3130,
+  "num_list_users": 49375,
+  "num_scoring_users": 16284,
+  "nsfw": "white",
+  "created_at": "2022-09-09T04:12:18+00:00",
+  "updated_at": "2023-12-15T14:06:56+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1257,
+      "name": "A-Real"
+    }
+  ]
+}

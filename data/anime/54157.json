@@ -1,0 +1,42 @@
+{
+  "id": 54157,
+  "title": "Napolitan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1310/132581.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1310/132581l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Neapolitan",
+      "Naporitan"
+    ],
+    "en": "",
+    "ja": "ナポリタン"
+  },
+  "start_date": "2022-05-25",
+  "end_date": "2022-05-25",
+  "synopsis": "Music video for the song Neapolitan by hitoriyoburanko.",
+  "popularity": 22051,
+  "num_list_users": 115,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2023-01-10T06:18:45+00:00",
+  "updated_at": "2023-11-27T18:57:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 227,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": 41119,
+  "title": "Kakuza Tousan Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1947/105578.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1947/105578l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "かくざ父さん"
+  },
+  "start_date": "2007-06-20",
+  "end_date": "2007-06-20",
+  "synopsis": "DVD specials of Kakuza Tousan. The first episode has a musician lemon and balloon fight for Touko's affection. The second episode has a French speaking sugar stick packet as the fiancé of an oddly young Touko.",
+  "rank": 15469,
+  "popularity": 21438,
+  "num_list_users": 139,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2020-01-23T08:54:24+00:00",
+  "updated_at": "2020-01-23T08:54:24+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 40540,
+  "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1438/105106l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sword Art Online: Alicization 3rd Season",
+      "Sword Art Online III 3rd Season",
+      "SAO Alicization 3rd Season",
+      "Sword Art Online 3 3rd Season",
+      "SAO 3 3rd Season",
+      "SAO III 3rd Season",
+      "Sword Art Online: Alicization - War of Underworld - The Last Season"
+    ],
+    "en": "Sword Art Online: Alicization - War of Underworld Part 2",
+    "ja": "ソードアート・オンライン アリシゼーション War of Underworld"
+  },
+  "start_date": "2020-07-12",
+  "end_date": "2020-09-20",
+  "synopsis": "The final battle against the Dark Territory drags on, as players from all over the world flood the Underworld's servers and plunge the Human Empire into utter chaos. Asuna Yuuki and her friends defend their new allies with everything they have, but their numbers are falling. Meanwhile, Alice Zuberg heads toward the World's End Altar while Gabriel \"Vecta\" Miller relentlessly pursues her.\n\nMeanwhile, members of Rath strategize a plan in an attempt to restore Kirito's damaged fluctlight. However, the intruders occupying the main control room have other plans. Surrounded by death and despair, when all hope seems to be lost, one voice reaches out to Kirito—a familiar one saying, \"I will always be by your side.\"\n\nSword Art Online: Alicization - War of Underworld 2nd Season is the epic conclusion to Akihiko Kayaba's dream of creating artificial human intelligence. Now it is up to Kirito and his friends to protect this collapsing world from the people that still think it is just a game.\n\n[Written by MAL Rewrite]",
+  "mean": 7.49,
+  "rank": 1875,
+  "popularity": 352,
+  "num_list_users": 612770,
+  "num_scoring_users": 354255,
+  "nsfw": "white",
+  "created_at": "2019-10-12T17:49:58+00:00",
+  "updated_at": "2023-09-22T08:00:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

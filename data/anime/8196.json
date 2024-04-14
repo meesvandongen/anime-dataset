@@ -1,0 +1,65 @@
+{
+  "id": 8196,
+  "title": "Kawasaki Frontale x Tentai Senshi Sunred 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/21809.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/21809l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tentai Senshi Sunred: Kawasaki Frontale 2",
+      "Kawasaki Frontale x Astro Fighter Sunred 2"
+    ],
+    "en": "",
+    "ja": "KAWASAKI Frontale×天体戦士サンレッド"
+  },
+  "start_date": "2010-03-05",
+  "end_date": "2010-03-05",
+  "synopsis": "The second collaboration between Kawasaki Frontale and Tentai Senshi Sunred.",
+  "mean": 5.72,
+  "rank": 10777,
+  "popularity": 14697,
+  "num_list_users": 683,
+  "num_scoring_users": 159,
+  "nsfw": "white",
+  "created_at": "2010-02-17T12:13:02+00:00",
+  "updated_at": "2016-08-16T05:16:59+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 88,
+      "name": "AIC ASTA"
+    }
+  ]
+}

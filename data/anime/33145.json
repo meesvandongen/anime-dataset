@@ -1,0 +1,41 @@
+{
+  "id": 33145,
+  "title": "Meitantei Conan: Nazo no Suisei Kaijuu wo Oe!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/81490.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/81490l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detective Conan: Chase the Mysterious Comet Monster!",
+    "ja": "名探偵コナン 謎のすい星怪獣を追え!"
+  },
+  "start_date": "2001-11-09",
+  "end_date": "2001-11-09",
+  "synopsis": "A short story about Conan and the Detective Boys.",
+  "mean": 6.45,
+  "rank": 7177,
+  "popularity": 9774,
+  "num_list_users": 3197,
+  "num_scoring_users": 833,
+  "nsfw": "white",
+  "created_at": "2016-04-07T21:48:06+00:00",
+  "updated_at": "2023-11-25T13:25:23+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 870,
+  "rating": "g",
+  "studios": []
+}

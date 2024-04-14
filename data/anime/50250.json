@@ -1,0 +1,53 @@
+{
+  "id": 50250,
+  "title": "Chiikawa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1783/121944.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ちいかわ"
+  },
+  "start_date": "2022-04-04",
+  "synopsis": "What's a Chiikawa? No one really knows, but everyone can see they're small, they're cute, and they're always having a fun time! Join them as they explore their surreal world with the sharp humor and clever antics that make the Chiikawa irresistible.\n\n(Source: HIDIVE, edited)",
+  "mean": 6.88,
+  "rank": 4830,
+  "popularity": 9392,
+  "num_list_users": 3616,
+  "num_scoring_users": 811,
+  "nsfw": "gray",
+  "created_at": "2021-10-28T11:37:30+00:00",
+  "updated_at": "2023-02-13T18:20:42+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "07:40"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

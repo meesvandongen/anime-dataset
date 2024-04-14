@@ -1,0 +1,60 @@
+{
+  "id": 5828,
+  "title": "Kishin Douji Zenki Gaiden: Anki Kitan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1468/92571.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1468/92571l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zenki: Anki Kitan"
+    ],
+    "en": "",
+    "ja": "鬼神童子ＺＥＮＫＩ外伝　黯鬼奇譚"
+  },
+  "start_date": "1997-03-21",
+  "end_date": "1997-03-21",
+  "synopsis": "In Kanoesaru village every 60 years mysterious murders happen. Every time seven 17 year old girls are killed. The villagers believe it is the work of a demon who once saved the village so they keep quiet about it. However the current head of the Ibuki family calls an exorcist to save her 2 daughters. What is the truth behind the murders in Kanoesaru village?\n\n(Source: AniDB)",
+  "mean": 6.45,
+  "rank": 7168,
+  "popularity": 10998,
+  "num_list_users": 2155,
+  "num_scoring_users": 713,
+  "nsfw": "white",
+  "created_at": "2009-01-02T09:35:17+00:00",
+  "updated_at": "2022-11-17T07:05:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1784,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

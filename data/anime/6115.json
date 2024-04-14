@@ -1,0 +1,64 @@
+{
+  "id": 6115,
+  "title": "Lupin III vs. Meitantei Conan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1849/134190.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1849/134190l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lupin Sansei vs Meitantei Conan"
+    ],
+    "en": "Lupin III vs. Detective Conan",
+    "ja": "ルパン三世 vs 名探偵コナン"
+  },
+  "start_date": "2009-03-27",
+  "end_date": "2009-03-27",
+  "synopsis": "In a country called Vesparand, a new mineral with super stealth properties has been discovered which attracts Lupin's attention. At the same time the untimely deaths of Queen Sakura and her son, Prince Gill, leave Princess Mira next in succession to the throne. During a trip to Japan, Princess Mira finds her double in Ran and takes the opportunity to trade places, which ends with Ran being spirited away to Vesparand with Conan, Zenigata, Kogoro Mouri, Lupin and Fujiko in tow. There they meet a waiting Jigen and solve the mystery of the deaths of the Queen and Prince.\n\n(Source: ANN) \n",
+  "mean": 7.76,
+  "rank": 1072,
+  "popularity": 3712,
+  "num_list_users": 35858,
+  "num_scoring_users": 18997,
+  "nsfw": "white",
+  "created_at": "2009-02-24T16:15:24+00:00",
+  "updated_at": "2023-12-29T03:05:37+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 6320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

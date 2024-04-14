@@ -1,0 +1,45 @@
+{
+  "id": 53805,
+  "title": "Akubi Neko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1642/131739.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1642/131739l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "あくび猫"
+  },
+  "start_date": "2010-02-01",
+  "end_date": "2010-02-01",
+  "synopsis": "Music video for the song Akubi Neko by Youmou & Ohana that was featured on NHK's Minna no Uta program.",
+  "popularity": 21631,
+  "num_list_users": 131,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2022-12-09T23:51:44+00:00",
+  "updated_at": "2022-12-10T09:50:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

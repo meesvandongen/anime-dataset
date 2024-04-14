@@ -1,0 +1,53 @@
+{
+  "id": 49665,
+  "title": "Blue Thermal",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1459/120217.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1459/120217l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Aonagi College Sports Festival Aviation Club",
+      "Blue Thermal: Aonagi Daigaku Taiiku-kai Koukuu-bu"
+    ],
+    "en": "",
+    "ja": "ブルーサーマル"
+  },
+  "start_date": "2022-03-04",
+  "end_date": "2022-03-04",
+  "synopsis": "Tamaki Tsuru joins Aonagi University in hopes of making friends, getting a boyfriend, and living a typical university student life. She decides to try out for the tennis club in order to make friends and avoid anything too athletic. But when she is distracted by a model glider during tryouts, Tamaki ends up hitting a tennis ball right at it, smashing it into pieces. Daisuke Sorachi, a member of the Aviation Club, demands that she pay for the damages.\n\nFollowing the incident, Aviation Club captain Jun Kuramochi tries to goad Tamaki into joining their club, but Tamaki refuses. Not wanting to lose a chance at recruiting a club member, Jun orchestrates a way for Tamaki to earn the money to repay her debts and gives her a boyfriend in the process. While she joins the club reluctantly, Jun seems to have other plans for their newest member.\n\n[Written by MAL Rewrite]",
+  "mean": 6.75,
+  "rank": 5451,
+  "popularity": 5838,
+  "num_list_users": 12391,
+  "num_scoring_users": 3107,
+  "nsfw": "white",
+  "created_at": "2021-08-26T14:12:24+00:00",
+  "updated_at": "2023-02-28T14:24:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 6180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

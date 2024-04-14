@@ -1,0 +1,44 @@
+{
+  "id": 52691,
+  "title": "(Mi) Liu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1799/126757.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1799/126757l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "St(r)ay",
+    "ja": "（迷）留"
+  },
+  "start_date": "2017-09-20",
+  "end_date": "2017-09-20",
+  "synopsis": "A camel, on a quest to find his missing wife in the desert, faces the dilemma of chasing his treasure or continuing his journey. It's the story of how someone recognizes the most important thing in life amid chaos caused by dementia.\n\n(Source: IMDB)",
+  "rank": 18051,
+  "popularity": 21575,
+  "num_list_users": 134,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2022-08-09T09:31:42+00:00",
+  "updated_at": "2022-08-10T05:59:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 512,
+  "rating": "pg_13",
+  "studios": []
+}

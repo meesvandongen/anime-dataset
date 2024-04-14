@@ -1,0 +1,44 @@
+{
+  "id": 10705,
+  "title": "Yasai no Yousei: N.Y.Salad",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1601/139671.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1601/139671l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "やさいのようせい N.Y.SALAD"
+  },
+  "start_date": "2007-04-05",
+  "end_date": "2007-05-17",
+  "synopsis": "It is based on N.Y.SALAD written by Yoshitaka Amano. It depicts lives of vegetable fairies at a kitchen in N. Y.",
+  "rank": 14942,
+  "popularity": 15714,
+  "num_list_users": 531,
+  "num_scoring_users": 118,
+  "nsfw": "white",
+  "created_at": "2011-05-15T15:54:23+00:00",
+  "updated_at": "2020-09-25T08:51:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 466,
+      "name": "Digital Media Lab"
+    }
+  ]
+}

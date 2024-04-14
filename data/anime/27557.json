@@ -1,0 +1,54 @@
+{
+  "id": 27557,
+  "title": "Ajisai no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/66759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/66759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Song of Hydrangea"
+    ],
+    "en": "",
+    "ja": "あじさいの唄"
+  },
+  "start_date": "2004-08-19",
+  "end_date": "2006-01-19",
+  "synopsis": "This is a heartwarming story about a family during the Edo era. The main character, Kuritaro, lives with his father and a stray dog. Despite his mother's death, he continues to live a cheerful life.\n\n(Source: AnimeNfo)",
+  "rank": 18121,
+  "popularity": 16068,
+  "num_list_users": 494,
+  "num_scoring_users": 86,
+  "nsfw": "white",
+  "created_at": "2014-09-13T21:12:51+00:00",
+  "updated_at": "2020-07-25T12:37:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "average_episode_duration": 3245,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

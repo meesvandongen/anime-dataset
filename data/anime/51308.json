@@ -1,0 +1,45 @@
+{
+  "id": 51308,
+  "title": "Yoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1807/121603.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1807/121603l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "YOKU"
+  },
+  "start_date": "2022-03-18",
+  "end_date": "2022-03-18",
+  "synopsis": "Music video directed by Mai Yoneyama for the song YOKU by Eve. The song is inspired by the KATE YOKU Collection makeup line from KATE TOKYO.",
+  "mean": 7.52,
+  "popularity": 11365,
+  "num_list_users": 1912,
+  "num_scoring_users": 1088,
+  "nsfw": "gray",
+  "created_at": "2022-03-18T10:35:29+00:00",
+  "updated_at": "2023-12-28T09:03:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 181,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1872,
+      "name": "P.I.C.S."
+    }
+  ]
+}

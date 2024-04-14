@@ -1,0 +1,72 @@
+{
+  "id": 50380,
+  "title": "Paripi Koumei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1970/122297l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Party People Koumei"
+    ],
+    "en": "Ya Boy Kongming!",
+    "ja": "パリピ孔明"
+  },
+  "start_date": "2022-04-05",
+  "end_date": "2022-06-21",
+  "synopsis": "Zhuge Kongming earned a reputation as one of the greatest tacticians of the Three Kingdoms period of third-century China. Having led his army through countless grueling victories, Kongming falls gravely ill during the Battle of Wuzhang Plains. The weariness and regret stemming from the seemingly never-ending war catch up to him, and as he draws his final breath, Kongming wishes that if he were to reincarnate, he would be reborn in a more peaceful era.\n\nHis wish comes true, and Kongming wakes up in modern-day Tokyo with a younger body and his memories intact. Thrust into an unfamiliar world, he finds his way into a nightclub and meets Eiko Tsukimi, an aspiring singer whose performance immediately captivates him. Pitying his confusion, Eiko takes Kongming under her wing and teaches him about the current world, which leads to Kongming's interest in contemporary music. Seeing Eiko's immense musical potential, Kongming vows to make the world recognize her and soon takes on the role of her manager.\n\nUnsurprisingly, the music industry is unforgiving to those who make even the slightest mistakes. Still, Kongming is determined to accomplish his goals—even if he must utilize the war stratagems he famously used in his previous life!\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.14,
+  "rank": 440,
+  "popularity": 832,
+  "num_list_users": 291784,
+  "num_scoring_users": 141571,
+  "nsfw": "white",
+  "created_at": "2021-11-17T14:17:55+00:00",
+  "updated_at": "2023-11-30T07:05:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 75,
+      "name": "Showbiz"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

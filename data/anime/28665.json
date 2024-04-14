@@ -1,0 +1,43 @@
+{
+  "id": 28665,
+  "title": "Nenga no Kizuna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/69179.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/69179l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "New Year's Card Bonds"
+    ],
+    "en": "",
+    "ja": "年賀のキヅナ"
+  },
+  "start_date": "2014-11-24",
+  "end_date": "2014-11-24",
+  "synopsis": "The video's story comes from greeting card website Nenga Aisatsujo's 6th annual contest, which asks participants to send in their heart-warming New Year's card memories. Sachiyo Okuno wrote the story and won the Japanese Postal Service Award, a new award this year.\n\n(Source: ANN)",
+  "mean": 5.69,
+  "rank": 10931,
+  "popularity": 15415,
+  "num_list_users": 570,
+  "num_scoring_users": 278,
+  "nsfw": "white",
+  "created_at": "2014-11-28T07:10:41+00:00",
+  "updated_at": "2014-11-28T15:10:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 270,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 36728,
+  "title": "Mameneko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1360/113120.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1360/113120l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "まめねこ"
+  },
+  "start_date": "2018-01-09",
+  "end_date": "2018-03-27",
+  "synopsis": "The series follows the daily lives of a naughty female cat named Azuki and a quiet male cat named Daizu who live with their owner, a 30 year old office lady, and her extended family, including an otaku elder brother and an adopted shiba inu dog who thinks he's a cat.\n\n(Source: Crunchyroll)",
+  "mean": 6.04,
+  "rank": 9380,
+  "popularity": 11786,
+  "num_list_users": 1642,
+  "num_scoring_users": 440,
+  "nsfw": "white",
+  "created_at": "2017-11-02T12:02:30+00:00",
+  "updated_at": "2022-03-02T22:19:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 210,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 856,
+      "name": "Charaction"
+    }
+  ]
+}

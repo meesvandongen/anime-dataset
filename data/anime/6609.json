@@ -1,0 +1,51 @@
+{
+  "id": 6609,
+  "title": "Pucca (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/15145.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/15145l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jjajang Sonyeo Ppukka"
+    ],
+    "en": "",
+    "ja": "짜장소녀 뿌까"
+  },
+  "start_date": "2006-09-18",
+  "end_date": "2007-05-14",
+  "synopsis": "Pucca is the young daughter of a Chinese noodle house owner and she is hopelessly in love with the ninja Garu. He tries desperately to avoid Pucca's advances and usually does not return her affection. This results in many comical situations as Pucca goes to great lengths just to steal a kiss from Garu. Expect to see lots of \"funny love\" antics involving everything from noodles to deadly ninjas.\n\n(Source: TV.com)",
+  "mean": 6.67,
+  "rank": 5896,
+  "popularity": 5086,
+  "num_list_users": 17799,
+  "num_scoring_users": 9418,
+  "nsfw": "white",
+  "created_at": "2009-06-12T23:48:58+00:00",
+  "updated_at": "2023-01-03T19:06:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 1380,
+  "rating": "g",
+  "studios": []
+}

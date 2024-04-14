@@ -1,0 +1,60 @@
+{
+  "id": 30803,
+  "title": "Planetarium Chibi Maruko-chan, Hoshi ni Negai wo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/74141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/74141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Planetarium Chibi Maruko-chan, Wish Upon a Star"
+    ],
+    "en": "",
+    "ja": "プラネタリウム　ちびまる子ちゃん　星にねがいを"
+  },
+  "start_date": "2015-07-18",
+  "end_date": "2015-07-18",
+  "synopsis": "The Konica Minolta \"Tenkuu\" Planetarium in Tokyo Skytree Town will run a Chibi Maruko-chan planetarium show from July 18 to August 31. The show, titled \"Planetarium Chibi Maruko-chan, Hoshi ni Negai wo\" (Planetarium Chibi Maruko-chan, Wish Upon a Star), celebrates the 25th anniversary of the Chibi Maruko-chan anime since it first aired in January 1990.\n\n(Source: ANN)",
+  "mean": 6.35,
+  "rank": 7749,
+  "popularity": 15391,
+  "num_list_users": 574,
+  "num_scoring_users": 113,
+  "nsfw": "white",
+  "created_at": "2015-05-20T07:11:10+00:00",
+  "updated_at": "2018-01-18T05:59:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1680,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

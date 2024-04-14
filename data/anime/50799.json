@@ -1,0 +1,63 @@
+{
+  "id": 50799,
+  "title": "Oshiri Tantei 6th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1569/120464.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1569/120464l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Butt Detective"
+    ],
+    "en": "",
+    "ja": "おしりたんてい"
+  },
+  "start_date": "2022-04-09",
+  "end_date": "2022-07-02",
+  "synopsis": "Sixth season of Oshiri Tantei.",
+  "rank": 17065,
+  "popularity": 18660,
+  "num_list_users": 291,
+  "num_scoring_users": 47,
+  "nsfw": "white",
+  "created_at": "2022-01-13T03:02:04+00:00",
+  "updated_at": "2022-08-31T08:46:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "09:00"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1200,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

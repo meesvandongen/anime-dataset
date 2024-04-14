@@ -1,0 +1,58 @@
+{
+  "id": 37902,
+  "title": "One Piece: Episode of Sorajima",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1533/92968.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1533/92968l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "One Piece: Episode of Skypiea",
+    "ja": "ONE PIECE エピソードオブ空島"
+  },
+  "start_date": "2018-08-25",
+  "end_date": "2018-08-25",
+  "synopsis": "The Straw Hats embark on a dangerous trip to the sky where their destination comes straight out of a fairytale. The island of Skypiea and its grand city of gold await among the clouds, but a clash of winged clans and a man who calls himself God won’t make things easy! Only Luffy can resist this God’s mighty power and light the mysteries of the past.\n\n(Source: Funimation)",
+  "mean": 7.18,
+  "rank": 3366,
+  "popularity": 4009,
+  "num_list_users": 30775,
+  "num_scoring_users": 13544,
+  "nsfw": "white",
+  "created_at": "2018-05-18T23:06:33+00:00",
+  "updated_at": "2023-12-29T02:18:36+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 6300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

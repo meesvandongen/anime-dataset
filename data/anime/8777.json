@@ -1,0 +1,62 @@
+{
+  "id": 8777,
+  "title": "Nobara no Julie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/24215.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/24215l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Roman Gekijou: Nobara no Julie",
+      "Famous Roman Music Theater: Julie of the Grass",
+      "Kirin Famous Songs Theater: Julie the Wild Rose"
+    ],
+    "en": "Julie the Wild Rose",
+    "ja": "野ばらのジュリー"
+  },
+  "start_date": "1979-01-04",
+  "end_date": "1979-04-05",
+  "synopsis": "Eleven-year-old Julie Braun lives in the lush green mountain pastures of Austria's Southern Tyrol. Her parents are killed by Italian soldiers, and she is sent to Vienna to live with her relatives, the Clementes. She befriends cousins Johan and Tanya but has trouble adjusting to life with Uncle Karl and Aunt Klara. As Austria is plunged into World War I, Karl is fired from his job at a glass factory, and Julie's new family is forced into a life of hardship.\n\n(Source: animevice.com)\n",
+  "mean": 6.28,
+  "rank": 8138,
+  "popularity": 13632,
+  "num_list_users": 936,
+  "num_scoring_users": 184,
+  "nsfw": "white",
+  "created_at": "2010-05-04T10:01:22+00:00",
+  "updated_at": "2015-02-06T13:17:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 1979,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 315,
+      "name": "DAX Production"
+    }
+  ]
+}

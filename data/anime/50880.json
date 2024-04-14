@@ -1,0 +1,44 @@
+{
+  "id": 50880,
+  "title": "Kobitos",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1736/120620.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1736/120620l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Kobitos",
+    "ja": "こびとす"
+  },
+  "start_date": "2015-06-15",
+  "end_date": "2015-06-15",
+  "synopsis": "",
+  "rank": 15692,
+  "popularity": 22046,
+  "num_list_users": 115,
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "created_at": "2022-01-21T19:49:32+00:00",
+  "updated_at": "2022-03-25T20:43:50+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 109,
+  "rating": "g",
+  "studios": []
+}

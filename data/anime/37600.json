@@ -1,0 +1,58 @@
+{
+  "id": 37600,
+  "title": "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1781/124589.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1781/124589l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "フレームアームズ・ガール ～きゃっきゃうふふなワンダーランド～"
+  },
+  "start_date": "2019-06-29",
+  "end_date": "2019-06-29",
+  "synopsis": "A compilation movie of the TV series containing a newly added footage.",
+  "mean": 5.89,
+  "rank": 10084,
+  "popularity": 8601,
+  "num_list_users": 4765,
+  "num_scoring_users": 583,
+  "nsfw": "white",
+  "created_at": "2018-03-25T06:25:23+00:00",
+  "updated_at": "2023-11-04T23:53:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 4954,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 218,
+      "name": "Zexcs"
+    },
+    {
+      "id": 1209,
+      "name": "Studio A-CAT"
+    }
+  ]
+}

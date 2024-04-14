@@ -1,0 +1,57 @@
+{
+  "id": 5640,
+  "title": "Tabidachi: Ami Shuushou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/11662.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/11662l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Departure: Ami, the Final Chapter",
+      "Departure: Ami, Final Chapter",
+      "Departure: Ami, Last Chapter",
+      "Departure: Ami's Final Chapter",
+      "Departure: Ami's Last Chapter",
+      "Cream Lemon: Ami's Journey",
+      "Ami's Journey"
+    ],
+    "en": "Departure: Ami, the Last Chapter",
+    "ja": "旅立ち　-亜美・終章-"
+  },
+  "start_date": "1986-06-21",
+  "end_date": "1986-06-21",
+  "synopsis": "Movie based on the Ami series of the Cream Lemon franchise. This movie was co-aired with Project A-Ko movie.",
+  "mean": 5.39,
+  "rank": 11893,
+  "popularity": 12024,
+  "num_list_users": 1517,
+  "num_scoring_users": 418,
+  "nsfw": "white",
+  "created_at": "2008-11-29T10:25:35+00:00",
+  "updated_at": "2021-08-24T10:34:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "spring"
+  },
+  "average_episode_duration": 2340,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 77,
+      "name": "APPP"
+    }
+  ]
+}

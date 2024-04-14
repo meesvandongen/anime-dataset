@@ -1,0 +1,55 @@
+{
+  "id": 6520,
+  "title": "Anime TV de Hakken! Tamagotchi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/63717.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/63717l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tamagotchi"
+    ],
+    "en": "Animated Tamagotchi Found on Television!",
+    "ja": "アニメ　ＴＶで発見！！　たまごっち"
+  },
+  "start_date": "1997-07-07",
+  "end_date": "1998-03-21",
+  "synopsis": "",
+  "mean": 6.27,
+  "rank": 8195,
+  "popularity": 14251,
+  "num_list_users": 785,
+  "num_scoring_users": 178,
+  "nsfw": "white",
+  "created_at": "2009-05-23T22:20:30+00:00",
+  "updated_at": "2020-11-24T07:10:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 27,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 1220,
+  "rating": "g",
+  "studios": []
+}

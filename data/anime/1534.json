@@ -1,0 +1,60 @@
+{
+  "id": 1534,
+  "title": "Futari wa Precure: Splash☆Star",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/7534.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/7534l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pretty Cure Splash Star"
+    ],
+    "en": "",
+    "ja": "ふたりはプリキュア Splash☆Star"
+  },
+  "start_date": "2006-02-05",
+  "end_date": "2007-01-28",
+  "synopsis": "During the summer festival five years ago, two girls met at a mysterious tree and saw two glowing spheres. Now, these two girls--Saki Hyuuga, ace pitcher on the school softball team; and Mai Mishou, who prefers sketching over stargazing--are chosen by the spirits of flowers (Flappy) and birds (Choppy) to restore the Seven Fountains and save their worlds from Dark Autumn. Together, they are the NEW Pretty Cure.\n\n(Source: ANN)",
+  "mean": 7.31,
+  "rank": 2680,
+  "popularity": 5537,
+  "num_list_users": 14153,
+  "num_scoring_users": 5789,
+  "nsfw": "white",
+  "created_at": "2006-10-03T22:52:38+00:00",
+  "updated_at": "2023-02-19T14:24:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 49,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

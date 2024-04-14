@@ -1,0 +1,64 @@
+{
+  "id": 41915,
+  "title": "Zuihou de Zhaohuan Shi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1736/123834.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1736/123834l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zui Hou De Zhao Huan Shi"
+    ],
+    "en": "The Last Summoner",
+    "ja": "最后的召唤师"
+  },
+  "start_date": "2022-04-26",
+  "end_date": "2022-07-05",
+  "synopsis": "A talented young cook's encounter with a hungry girl who popped up in his kitchen changes his ordinary life forever. Dora, a summoned spirit and a truly cute goddess, now calls him master. However, he is not interested at all and trying everything he could to get away from the ghostly figure. As fate would have it, when he becomes a summoner by accident, there is no turn back in life.\n\n(Source: MU)",
+  "mean": 6.57,
+  "rank": 6497,
+  "popularity": 2782,
+  "num_list_users": 61766,
+  "num_scoring_users": 12216,
+  "nsfw": "white",
+  "created_at": "2020-05-09T06:32:54+00:00",
+  "updated_at": "2023-02-13T21:34:51+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1370,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2048,
+      "name": "ASK Animation Studio"
+    }
+  ]
+}

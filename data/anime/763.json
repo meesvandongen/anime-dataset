@@ -1,0 +1,70 @@
+{
+  "id": 763,
+  "title": "Zoids",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1908/139655.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1908/139655l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zoids Classic",
+      "Zoids: Chaotic Century",
+      "Zoids: Guardian Forces"
+    ],
+    "en": "Zoids",
+    "ja": "ゾイド"
+  },
+  "start_date": "1999-09-04",
+  "end_date": "2000-12-23",
+  "synopsis": "In a remote desert on the Planet Zi, a boy named Van discovers an abandoned, dilapidated facility. Inside, he finds an opaque cocoon that breaks on its own, and a dinosaur-like robot known as an \"Organoid\" emerges from the shell. Van names the creature Zeke and claims it for himself, but a group of bandits come after him to seize the Organoid. The bandits are equipped with \"Zoids,\" beast-like mechanical units that are used for combat. Van is able to fend off his pursuers by reviving and fusing with an old Zoid dubbed the \"Shield Liger.\"\n\nVan returns to the facility with Zeke in tow and finds a new cocoon. He is ecstatic that he may have obtained another Organoid, but when the cocoon breaks, a girl emerges from it instead. Unaware of her origins, the girl only remembers that her name is Fiona and that she has to locate an object called the \"Zoid Eve.\" Determined to solve the mystery behind her existence, Fiona ventures out alongside Van and Zeke to uncover what the Zoid Eve truly is. The trio runs across many friends and foes in their adventure, encountering various dangers and experiencing slices of light-heartedness as they travel.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.37,
+  "rank": 2385,
+  "popularity": 3094,
+  "num_list_users": 50190,
+  "num_scoring_users": 26027,
+  "nsfw": "white",
+  "created_at": "2006-02-18T18:36:04+00:00",
+  "updated_at": "2022-04-14T13:44:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 67,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:00"
+  },
+  "source": "other",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

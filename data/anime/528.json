@@ -1,0 +1,72 @@
+{
+  "id": 528,
+  "title": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1513/140273.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1513/140273l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Pocket Monsters: Mewtwo Strikes Back",
+      "Pokémon Movie 1",
+      "Pokémon: The Origin of Mewtwo",
+      "Pokémon: The First Movie Kanzenban",
+      "Pokémon: The First Movie Complete Version"
+    ],
+    "en": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "ja": "ポケットモンスター ミュウツーの逆襲"
+  },
+  "start_date": "1998-07-18",
+  "end_date": "1998-07-18",
+  "synopsis": "Using the fossil of the Legendary Pokémon Mew, Team Rocket has created the first successful Pokémon clone. Named Mewtwo, the man-made Pokémon quickly becomes upset with the circumstances of its creation and goes on a rampage. It is soon approached by Sakaki, the leader of Team Rocket, and is manipulated into committing evil acts.\n\nRepulsed by the tricks of mankind and the cruelties it has suffered, Mewtwo isolates itself from everyone and plots against humans whilst trying to discover its true purpose in life. Disguising as the world's strongest Pokémon trainer, Mewtwo draws in the region's most powerful trainers who want to fight the new, mysterious opponent. With the fate of the world at stake, renowned trainers Satoshi, Takeshi, and Kasumi must battle against Mewtwo and defeat it before it brings about the downfall of humanity.\n\n[Written by MAL Rewrite]",
+  "mean": 7.65,
+  "rank": 1356,
+  "popularity": 909,
+  "num_list_users": 265388,
+  "num_scoring_users": 179112,
+  "nsfw": "white",
+  "created_at": "2006-01-05T16:56:34+00:00",
+  "updated_at": "2023-09-25T15:54:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 5100,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

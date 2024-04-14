@@ -1,0 +1,57 @@
+{
+  "id": 14941,
+  "title": "AKB0048: Next Stage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/44450.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/44450l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "AKB0048 2nd Season",
+      "AKB0048 Second Season"
+    ],
+    "en": "AKB0048: Next Stage",
+    "ja": "AKB0048 next stage"
+  },
+  "start_date": "2013-01-06",
+  "end_date": "2013-03-31",
+  "synopsis": "In the year since the 77th generation understudies joined AKB0048, the Deep Galactic Trade Organization [DGTO] and DES have stepped up their attacks on entertainment. In response, AKB0048 brings back the general elections and the center nova position. The understudies are now thrusted into a new competition directly against the successors. But as AKB0048 brings back policies not seen since Acchan's disappearance, a new more powerful enemy is quietly moving behind the scenes.\n\n(Source: ANN)",
+  "mean": 7.63,
+  "rank": 1408,
+  "popularity": 3674,
+  "num_list_users": 36854,
+  "num_scoring_users": 19963,
+  "nsfw": "white",
+  "created_at": "2012-07-25T19:26:40+00:00",
+  "updated_at": "2022-04-09T20:01:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

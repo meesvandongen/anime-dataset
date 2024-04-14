@@ -1,0 +1,69 @@
+{
+  "id": 5262,
+  "title": "Shugo Chara!! Doki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/10645.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/10645l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shugo Chara Ninenme",
+      "Shugo Chara! Second Year"
+    ],
+    "en": "Shugo Chara!! Doki",
+    "ja": "しゅごキャラ！！どきっ"
+  },
+  "start_date": "2008-10-04",
+  "end_date": "2009-09-25",
+  "synopsis": "Amu Hinamori and the Seiyo Elementary Guardians continue their quest to seek out and purify X Eggs while in pursuit of the elusive Embryo—an egg said to be able to grant any wish. However, the Guardians must secure the Embryo before it falls into the hands of the nefarious Easter Corporation. As part of their plan to lure out the Embryo, Easter hires Lulu de Morcerf, an aloof girl whose ruby necklace gives her the ability to convert Heart Eggs into Mystery Eggs.\n\nThese strange Mystery Eggs cannot be purified as easily as X Eggs, and they can force its owner to undergo a Character Transformation. With this growing threat, the Guardians must track down its source and put a stop to them before the matter gets out of hand. Facing insurmountable pressure from these two new objectives, will the Guardians be able to recover the Embryo while also dealing with the Mystery Eggs?\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2169,
+  "popularity": 2022,
+  "num_list_users": 103667,
+  "num_scoring_users": 55169,
+  "nsfw": "white",
+  "created_at": "2008-09-16T08:14:07+00:00",
+  "updated_at": "2023-05-08T11:57:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "09:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 28235,
+  "title": "Indie Anibox: Selma Danbaekjil Coffee",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/68279.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/68279l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wanted",
+      "Love is Protein",
+      "Watashi no Coffee Samurai: Jihanki Teki na Kareshi",
+      "My Coffee Samurai: A Vending Machine Boyfriend",
+      "A Coffee Vending Machine and Its Sword"
+    ],
+    "en": "Indie Anibox: Selma's Protein Coffee",
+    "ja": "인디애니박스: 셀마의 단백질 커피"
+  },
+  "start_date": "2008-06-20",
+  "end_date": "2008-06-20",
+  "synopsis": "The 2008 animated omnibus Indie Anibox: Selma's Protein Coffee consists of three inventive short films from up-and-coming directors. Kim Woon Ki's kooky mystery thriller \"Wanted\" is set in a peaceful village suddenly disrupted by heavy rainfall and the appearance of a strange old woman named Selma. Yeon Sang Ho's 3-D animation \"Love is Protein\" is an inventive black comedy about three poor roommates who break their piggy banks to order fried chicken - only to discover their prospective meal is the son of a weeping chicken. Jang Hyung Yoon's surreal \"A Coffee Vending Machine and Its Sword\" follows a swordsman who reincarnates as a coffee vending machine and falls in love at first sight with the maintenance girl.\n\n(Source: YesAsia)",
+  "mean": 5.93,
+  "rank": 9895,
+  "popularity": 9602,
+  "num_list_users": 3385,
+  "num_scoring_users": 1334,
+  "nsfw": "white",
+  "created_at": "2014-11-01T18:41:36+00:00",
+  "updated_at": "2022-01-30T15:35:56+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "average_episode_duration": 4500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1173,
+      "name": "Studio Dadashow"
+    }
+  ]
+}

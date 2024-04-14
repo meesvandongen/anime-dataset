@@ -1,0 +1,70 @@
+{
+  "id": 34544,
+  "title": "Koutetsujou no Kabaneri Movie 3: Unato Kessen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1749/99713.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1749/99713l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kabaneri of the Iron Fortress: The Battle of Unato",
+    "ja": "甲鉄城のカバネリ～海門決戦～"
+  },
+  "start_date": "2019-05-10",
+  "end_date": "2019-05-10",
+  "synopsis": "Half a year has passed. Arriving in the Iron Fortress, Ikoma and Mumei set foot in Unato: another ravaged zone that fell into the grip of the deadly Kabane.\n\nIn this war-torn zone, the group fends off more dangerous Kabane that are attacking with patterns they had never seen before. The Iron Fortress crew eventually meet up with a survival group which requests their aid in reclaiming the zone. The newly forged alliance ventures deeper into the area of the castle and investigates the peculiar case of these new Kabane. But their search for answers unearths truths that are far more horrifying than they imagined. Forced to confront the reality behind the Kabane, Ikoma, Mumei, and their allies come to realize the despair buried within Unato.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.69,
+  "rank": 1246,
+  "popularity": 1691,
+  "num_list_users": 132419,
+  "num_scoring_users": 64497,
+  "nsfw": "white",
+  "created_at": "2016-12-15T14:03:29+00:00",
+  "updated_at": "2023-11-03T08:02:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 4935,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

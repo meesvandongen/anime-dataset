@@ -1,0 +1,46 @@
+{
+  "id": 37402,
+  "title": "No Game No Life: Zero - Manner Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1278/122850.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1278/122850l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "No Game, No Life: Zero - Manner Movie",
+    "ja": "ノーゲーム・ノーライフ ゼロ マナー映像"
+  },
+  "start_date": "2017-07-15",
+  "end_date": "2017-07-15",
+  "synopsis": "Short theater manners animation shown before main movie.",
+  "mean": 6.79,
+  "rank": 5234,
+  "popularity": 4005,
+  "num_list_users": 30897,
+  "num_scoring_users": 11042,
+  "nsfw": "white",
+  "created_at": "2018-02-28T02:31:03+00:00",
+  "updated_at": "2022-04-03T18:56:37+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 151,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 443,
+      "name": "Studio PuYUKAI"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 13517,
+  "title": "Ryuugajou Nanana no Maizoukin PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/47725.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/47725l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Nanana's Buried Treasure",
+    "ja": "龍ヶ嬢七々々の埋蔵金"
+  },
+  "start_date": "2011-12-26",
+  "end_date": "2011-12-26",
+  "synopsis": "Promotion video for Kazuma Ootorino's light novel Ryuugajou Nanana no Maizoukin, commissioned by Enterbrain after Ootorino won the 13th Entertainment Awards Grand Prize (Entame Taishou) from the publisher's light novel department.",
+  "mean": 6.55,
+  "popularity": 5552,
+  "num_list_users": 14073,
+  "num_scoring_users": 3735,
+  "nsfw": "white",
+  "created_at": "2012-03-26T16:14:46+00:00",
+  "updated_at": "2023-12-26T15:15:33+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 174,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

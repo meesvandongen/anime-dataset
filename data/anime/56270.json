@@ -1,0 +1,56 @@
+{
+  "id": 56270,
+  "title": "Yogoe Mecard Wangma",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1372/137761.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1372/137761l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ghost Mecard Wangma",
+    "ja": "요괴메카드 왕마"
+  },
+  "start_date": "2019-08-26",
+  "end_date": "2019-10-21",
+  "synopsis": "",
+  "rank": 15016,
+  "popularity": 20740,
+  "num_list_users": 174,
+  "num_scoring_users": 34,
+  "nsfw": "white",
+  "created_at": "2023-08-13T10:14:23+00:00",
+  "updated_at": "2023-10-24T18:51:36+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "pg",
+  "studios": []
+}

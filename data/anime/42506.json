@@ -1,0 +1,62 @@
+{
+  "id": 42506,
+  "title": "World Witches Hasshin Shimasu!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1132/110412.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1132/110412l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "World Witches Take Off!",
+    "ja": "ワールドウィッチーズ発進しますっ！"
+  },
+  "start_date": "2021-01-13",
+  "end_date": "2021-03-31",
+  "synopsis": "Countries all over the world formed an alliance to counter the emerging enemy of mankind \"Neuroi,\" whom only girls with special powers could counter. However, the Neuroi never appeared. Instead of fighting, the witches spend their days idly. This time following not only unit 501, but also unit 502 known as \"Brave Witches!\" The 2nd volume of the comical daily drama of the witches who do not fight Neuroi begins!\n\n(Source: MAL News)",
+  "mean": 6.46,
+  "rank": 7107,
+  "popularity": 5927,
+  "num_list_users": 11895,
+  "num_scoring_users": 3192,
+  "nsfw": "white",
+  "created_at": "2020-07-21T12:14:02+00:00",
+  "updated_at": "2023-01-15T16:01:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:45"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2085,
+      "name": "Acca effe"
+    },
+    {
+      "id": 2086,
+      "name": "Giga Production"
+    }
+  ]
+}

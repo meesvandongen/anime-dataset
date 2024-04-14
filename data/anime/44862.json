@@ -1,0 +1,50 @@
+{
+  "id": 44862,
+  "title": "San Xiaoqiang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1510/128442.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1510/128442l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Super Three"
+    ],
+    "en": "",
+    "ja": "三小强"
+  },
+  "start_date": "2014-04-04",
+  "end_date": "2014-04-04",
+  "synopsis": "",
+  "rank": 17685,
+  "popularity": 24381,
+  "num_list_users": 73,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2020-12-18T05:08:54+00:00",
+  "updated_at": "2022-09-25T10:28:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 4646,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 4509,
+  "title": "Captain Future: Kareinaru Taiyokei Race",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/8631.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/8631l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Captain Future Kareinaru Taiyoukei Race",
+      "Captain Future: The Great Race in the Solar System"
+    ],
+    "en": "",
+    "ja": "キャプテンフューチャー・華麗なる太陽系レース"
+  },
+  "start_date": "1978-12-31",
+  "end_date": "1978-12-31",
+  "synopsis": "Sequel of Captain Future.",
+  "mean": 5.99,
+  "rank": 9618,
+  "popularity": 13189,
+  "num_list_users": 1056,
+  "num_scoring_users": 377,
+  "nsfw": "white",
+  "created_at": "2008-05-16T15:06:19+00:00",
+  "updated_at": "2020-05-14T21:35:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1978,
+    "season": "fall"
+  },
+  "average_episode_duration": 3480,
+  "rating": "pg_13",
+  "studios": []
+}

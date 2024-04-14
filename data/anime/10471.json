@@ -1,0 +1,60 @@
+{
+  "id": 10471,
+  "title": "Ie Naki Ko Remy Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/28750.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/28750l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ie Naki Ko Rémi Specials",
+      "Ienaki Ko Remy Specials",
+      "Homeless Child Remi",
+      "Remi",
+      "Nobody's Girl"
+    ],
+    "en": "",
+    "ja": "家なき子レミ"
+  },
+  "start_date": "1997-06-01",
+  "end_date": "1997-06-01",
+  "synopsis": "Three unaired episodes that conclude Ie Naki Ko Remy's story.",
+  "mean": 7.42,
+  "rank": 2201,
+  "popularity": 10363,
+  "num_list_users": 2627,
+  "num_scoring_users": 1171,
+  "nsfw": "white",
+  "created_at": "2011-03-19T10:51:32+00:00",
+  "updated_at": "2023-11-26T23:08:15+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 1418,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

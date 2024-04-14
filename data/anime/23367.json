@@ -1,0 +1,53 @@
+{
+  "id": 23367,
+  "title": "Kitaku-bu Katsudou Kiroku: Miniature Theater",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/60367.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/60367l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kitakubu Katsudou Kiroku: Chibi Theater",
+      "Kitakubu Katsudou Kiroku Specials"
+    ],
+    "en": "",
+    "ja": "帰宅部活動記録 ちび劇場"
+  },
+  "start_date": "2013-10-23",
+  "end_date": "2013-12-18",
+  "synopsis": "Unaired \"Miniature Theater\" (the specials inserted at the end of the main episodes) included in the Kitakubu Katsudou Kiroku DVD/BD volumes 2, 3 and 4.\n",
+  "mean": 6.26,
+  "rank": 8277,
+  "popularity": 10568,
+  "num_list_users": 2456,
+  "num_scoring_users": 975,
+  "nsfw": "white",
+  "created_at": "2014-03-23T19:23:57+00:00",
+  "updated_at": "2022-11-21T05:23:39+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

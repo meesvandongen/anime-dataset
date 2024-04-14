@@ -1,0 +1,58 @@
+{
+  "id": 37232,
+  "title": "Merc Storia: Mukiryoku no Shounen to Bin no Naka no Shoujo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1394/95704.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1394/95704l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Merc Storia: The Apathetic Boy and the Girl in a Bottle",
+    "ja": "メルクストーリア -無気力少年と瓶の中の少女-"
+  },
+  "start_date": "2018-10-11",
+  "end_date": "2018-12-27",
+  "synopsis": "Merc Storia takes places in a world where humans and monsters coexist. The protagonist, Yuu, is a healer apprentice and possesses the ability to tame monsters. In a quest to regain the memories of Merc, a girl confined in a bottle, the pair embarks on a journey.\n\n(Source: MAL News)",
+  "mean": 6.51,
+  "rank": 6830,
+  "popularity": 3991,
+  "num_list_users": 31158,
+  "num_scoring_users": 9303,
+  "nsfw": "white",
+  "created_at": "2018-01-31T09:46:31+00:00",
+  "updated_at": "2022-02-20T06:18:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 354,
+      "name": "Encourage Films"
+    }
+  ]
+}

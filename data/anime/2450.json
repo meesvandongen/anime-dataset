@@ -1,0 +1,57 @@
+{
+  "id": 2450,
+  "title": "Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1824/94859.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1824/94859l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Crayon Shin-chan: Arashi wo Yobu Mouretsu! Otona Teikoku Gyakushuu",
+      "Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back"
+    ],
+    "en": "",
+    "ja": "映画　クレヨンしんちゃん　嵐を呼ぶモーレツ！オトナ帝国の逆襲"
+  },
+  "start_date": "2001-04-21",
+  "end_date": "2001-04-21",
+  "synopsis": "Adult people all over Japan had been captivated by 20th Century Expo, theme parks that reenacted good old days of the 1970s (the last days of Japan's high economic growth). One day the adults disappeared into the theme parks, leaving their children abandoned. That was a plot by \"Yesterday Once More,\" an organization who despises the 21st century and tries to bring Japan back to the 20th century with the dreams and hopes. Shinnosuke and his parents, Hiroshi and Misae, fight against the plot of \"Yesterday Once More\" in order to live together with family in the 21st century.\n\n(Source: Manabu Tsuribe)",
+  "mean": 7.89,
+  "rank": 793,
+  "popularity": 6268,
+  "num_list_users": 10357,
+  "num_scoring_users": 5649,
+  "nsfw": "white",
+  "created_at": "2007-05-06T16:13:54+00:00",
+  "updated_at": "2022-04-16T00:08:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 5340,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

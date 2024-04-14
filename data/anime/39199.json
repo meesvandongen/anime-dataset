@@ -1,0 +1,68 @@
+{
+  "id": 39199,
+  "title": "Katsute Kami Datta Kemono-tachi e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1109/101230.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1109/101230l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "To the Abandoned Sacred Beasts"
+    ],
+    "en": "To the Abandoned Sacred Beasts",
+    "ja": "かつて神だった獣たちへ"
+  },
+  "start_date": "2019-07-01",
+  "end_date": "2019-09-16",
+  "synopsis": "With the initiation of the Patrian civil war came the creation of half-beast, half-human soldiers—a development of the outnumbered Northerners in a desperate attempt to counter the overwhelming Southern forces. Able to quickly dominate battlefields and achieve victory with ease, the soldiers' godlike abilities earned them the name \"Incarnates.\" However, as the war raged on, the Incarnates encountered a problem involving the beasts inside them that they were unable to rectify by ordinary means. \n\nOnce the war was over, mysteries and accounts of the Incarnates submitting to the misfortune of their war days surfaced. Aware of the horrors they faced during the war, Special Sergeant Major and former captain of the Incarnates Hank Henriette becomes a Beast Hunter—those who take the lives of Incarnates who have succumbed to the issues they experienced on the battlefields. \n\nAfter witnessing her father, a former Incarnate soldier, meet his end at the hands of one such Beast Hunter, Nancy Schaal Bancroft resolves to hunt the man who took her father's life. However, Nancy's eye-opening encounter with the Beast Hunter influences her to instead seek the reason behind her father's death and the Incarnates' problematic existence in society.\n\n[Written by MAL Rewrite]",
+  "mean": 6.4,
+  "rank": 7442,
+  "popularity": 1662,
+  "num_list_users": 134809,
+  "num_scoring_users": 54141,
+  "nsfw": "white",
+  "created_at": "2019-02-05T02:46:11+00:00",
+  "updated_at": "2024-04-13T07:03:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

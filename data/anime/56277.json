@@ -1,0 +1,52 @@
+{
+  "id": 56277,
+  "title": "Hello Carbot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1729/137768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1729/137768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "헬로 카봇"
+  },
+  "start_date": "2014-08-02",
+  "end_date": "2015-02-28",
+  "synopsis": "",
+  "rank": 20010,
+  "popularity": 23309,
+  "num_list_users": 89,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2023-08-13T11:19:10+00:00",
+  "updated_at": "2023-08-16T13:49:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": []
+}

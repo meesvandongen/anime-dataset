@@ -1,0 +1,56 @@
+{
+  "id": 20499,
+  "title": "Maji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/54431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/54431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hon-maji-Ki",
+      "Honki!",
+      "For Real"
+    ],
+    "en": "",
+    "ja": "本気(マジ)!"
+  },
+  "start_date": "1990-02-03",
+  "end_date": "1991-12-13",
+  "synopsis": "Maji is a young hood in the Nagisa criminal organization whose name is synonymous with loyalty and truth. While driving away thugs, he meets and falls for local high school girl, Kumiko; however, complications ensue when he and his group run into the rival Kikuchi gang looking for trouble. Based on the first four volumes of the gang chivalry manga by Ayumi Tachihara.\n\n(Source: ANN)",
+  "rank": 16165,
+  "popularity": 15683,
+  "num_list_users": 536,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2013-09-13T11:57:23+00:00",
+  "updated_at": "2014-06-18T20:57:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "average_episode_duration": 3000,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

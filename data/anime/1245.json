@@ -1,0 +1,70 @@
+{
+  "id": 1245,
+  "title": "Shihaisha no Tasogare",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/4277.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/4277l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Twilight Of The Dark Master",
+    "ja": "支配者の黄昏"
+  },
+  "start_date": "1998-01-21",
+  "end_date": "1998-01-21",
+  "synopsis": "Since the beginning of time, monstrous Demons and noble Guardians have battled for Earth - the everlasting gift of the one great Mother, creator of all life. A deep hatred burns between Demon and Guardian; the Guardians prevented the Demons from destroying humanity and the world itself.\n\nEons later, Neo-Shinjuku City: few Demons or Guardians remain to continue their epic war. Humans rule the Earth, with no real memory of either Demons or Guardians. Yet deep within the dark underworld of the city, one supreme Demon is alive and plotting to subjugate mankind. Only one Guardian is left to do battle, and the fate of the human race is at stake.\n\nBased on the Graphic Novel\n\"Twilight of the Dark Master (Shihaisha no Tasogare)\" (Shinshokan) by Saki Okuse\n\n(Source: DVD Back Cover)",
+  "mean": 5.8,
+  "rank": 10458,
+  "popularity": 5998,
+  "num_list_users": 11569,
+  "num_scoring_users": 4251,
+  "nsfw": "white",
+  "created_at": "2006-08-04T19:46:15+00:00",
+  "updated_at": "2022-02-06T12:25:28+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2758,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2892,
+  "title": "Hakushon Daimaou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1249/134561.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1249/134561l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Genie Family"
+    ],
+    "en": "Bob in the Bottle",
+    "ja": "ハクション大魔王"
+  },
+  "start_date": "1969-10-05",
+  "end_date": "1970-09-27",
+  "synopsis": "One day Kan-chan finds a magic bottle in the attic. Whenever someone sneezes, a genie named Hakushon Daimaou is brought out and must grant any wish of whoever sneezed until he or she sneezes again. Sometimes, however, he accidentally fails and only causes trouble instead of granting any wishes.",
+  "mean": 6.17,
+  "rank": 8716,
+  "popularity": 10894,
+  "num_list_users": 2234,
+  "num_scoring_users": 929,
+  "nsfw": "white",
+  "created_at": "2007-07-31T14:53:29+00:00",
+  "updated_at": "2022-08-16T14:59:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1969,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

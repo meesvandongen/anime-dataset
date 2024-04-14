@@ -1,0 +1,54 @@
+{
+  "id": 51680,
+  "title": "Cool Doji Danshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1123/134677.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1123/134677l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Play It Cool, Guys",
+    "ja": "クールドジ男子"
+  },
+  "start_date": "2022-10-11",
+  "end_date": "2023-03-28",
+  "synopsis": "Despite their distinctive personalities, Souma Shiki, Hayate Ichikura, Shun Futami, and Takayuki Mima all have one thing in common: though naturally clumsy, the four disguise their embarrassment from tiny slip-ups by maintaining a composed demeanor. However, it is actually the guys' airheaded natures that makes the girls' hearts throb. No matter what happens in their daily lives, the boys do their best not to lose their cool!\n\n[Written by MAL Rewrite]",
+  "mean": 7.87,
+  "rank": 852,
+  "popularity": 2196,
+  "num_list_users": 91174,
+  "num_scoring_users": 26472,
+  "nsfw": "white",
+  "created_at": "2022-04-22T10:51:33+00:00",
+  "updated_at": "2023-04-02T18:56:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 680,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 659,
+  "title": "Azumanga Daiou: Gekijou Tanpen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1147/133613.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1147/133613l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Azumanga Daiou: The Very Short Movie"
+    ],
+    "en": "Azumanga Daioh: The Very Short Movie",
+    "ja": "あずまんが大王（劇場短編）"
+  },
+  "start_date": "2001-12-25",
+  "end_date": "2001-12-25",
+  "synopsis": "In this short movie featuring familiar characters from Azumanga Daioh, Osaka is yet again having a strange dream of Chiyo-Chan's pigtails being posessed. As Chiyo-Chan's pigtails bounce out of the window, who knows if young Chiyo will ever be happy again.\n\n(Source: ANN)",
+  "mean": 7.04,
+  "rank": 4100,
+  "popularity": 3358,
+  "num_list_users": 43482,
+  "num_scoring_users": 24211,
+  "nsfw": "white",
+  "created_at": "2006-02-02T16:29:32+00:00",
+  "updated_at": "2023-02-20T20:13:49+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 369,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

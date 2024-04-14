@@ -1,0 +1,52 @@
+{
+  "id": 7654,
+  "title": "Tokyo Magnitude 8.0 Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/18435.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/18435l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tokyo Magnitude 8.0 Special"
+    ],
+    "en": "",
+    "ja": "東京マグニチュード8.0"
+  },
+  "start_date": "2009-12-11",
+  "end_date": "2009-12-11",
+  "synopsis": "Recap special of Tokyo Magnitude 8.0.",
+  "mean": 7.06,
+  "rank": 4006,
+  "popularity": 6662,
+  "num_list_users": 8932,
+  "num_scoring_users": 2990,
+  "nsfw": "white",
+  "created_at": "2009-12-04T19:52:35+00:00",
+  "updated_at": "2021-11-26T02:28:37+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 3079,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    },
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

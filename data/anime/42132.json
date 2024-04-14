@@ -1,0 +1,56 @@
+{
+  "id": 42132,
+  "title": "Benghuai Xinghe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1465/107843.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1465/107843l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Beng Huai Xinghe"
+    ],
+    "en": "Galaxy Devastator",
+    "ja": "崩坏星河"
+  },
+  "start_date": "2019-05-05",
+  "end_date": "2019-07-14",
+  "synopsis": "",
+  "mean": 6.04,
+  "rank": 9409,
+  "popularity": 15329,
+  "num_list_users": 581,
+  "num_scoring_users": 130,
+  "nsfw": "white",
+  "created_at": "2020-06-02T13:18:21+00:00",
+  "updated_at": "2022-01-02T08:32:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 1073,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2061,
+      "name": "Kaca Entertainment"
+    }
+  ]
+}

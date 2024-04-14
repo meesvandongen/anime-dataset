@@ -1,0 +1,43 @@
+{
+  "id": 51486,
+  "title": "Shinya Haikai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1764/122185.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1764/122185l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Wandering Late at Night",
+    "ja": "深夜徘徊"
+  },
+  "start_date": "2021-02-12",
+  "end_date": "2021-02-12",
+  "synopsis": "Animated music video for the song Shinya Haikai by Shannon feat. GUMI.",
+  "popularity": 20531,
+  "num_list_users": 186,
+  "num_scoring_users": 98,
+  "nsfw": "white",
+  "created_at": "2022-03-31T23:15:45+00:00",
+  "updated_at": "2022-04-01T08:22:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 174,
+  "rating": "pg_13",
+  "studios": []
+}

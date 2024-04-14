@@ -1,0 +1,68 @@
+{
+  "id": 37515,
+  "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1336/95168.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1336/95168l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Made in Abyss Movie 2: Wandering Twilight"
+    ],
+    "en": "Made in Abyss: Wandering Twilight",
+    "ja": "劇場版総集編【後編】メイドインアビス 放浪する黄昏"
+  },
+  "start_date": "2019-01-18",
+  "end_date": "2019-01-18",
+  "synopsis": "The movie is a compilation of episodes 9-13 of the 2017 television series. Riko and Reg descend to the third layer where Riko has her first experience of the Curse. They descend to the fourth layer where Riko's arm is injured by an Orbed Piercer and Reg tries to save her. Nanachi comes to their aid and saves Riko's poisoned arm. In return Nanachi asks Reg to kill her immortal companion Mitty. Nanachi then joins Riko and Reg in their quest to reach the bottom of the Abyss.\n\n(Source: Wikipedia)",
+  "mean": 8.37,
+  "rank": 197,
+  "popularity": 1642,
+  "num_list_users": 137344,
+  "num_scoring_users": 55580,
+  "nsfw": "white",
+  "created_at": "2018-03-19T02:04:55+00:00",
+  "updated_at": "2024-03-06T12:43:39+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 6338,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

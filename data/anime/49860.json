@@ -1,0 +1,50 @@
+{
+  "id": 49860,
+  "title": "Umisea",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1910/117800.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1910/117800l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "UMISEA"
+  },
+  "start_date": "2021-09-15",
+  "end_date": "2021-09-18",
+  "synopsis": "Short animation series for Minato Aqua, Hoshou Marine, Gawr Gura, and Ninomae Ina'nis' collab.",
+  "mean": 6.95,
+  "rank": 4486,
+  "popularity": 9076,
+  "num_list_users": 4040,
+  "num_scoring_users": 2136,
+  "nsfw": "white",
+  "created_at": "2021-09-19T15:10:45+00:00",
+  "updated_at": "2024-01-04T02:13:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 270,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2167,
+      "name": "Hololive Production"
+    }
+  ]
+}

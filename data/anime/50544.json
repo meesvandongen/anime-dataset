@@ -1,0 +1,50 @@
+{
+  "id": 50544,
+  "title": "Long She Yanyi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1789/122655.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1789/122655l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon's Disciple",
+    "ja": "龙蛇演义"
+  },
+  "start_date": "2022-01-28",
+  "end_date": "2022-04-29",
+  "synopsis": "Under the guidance of Tang Zichen, a master of martial arts, Wang Chao, a frail young man with a strong sense of justice, embarks on the road of traditional martial arts and goes all the way to surpass himself. He experienced the spirit of martial arts practitioners who use martial arts to stop stances and convince people with morality, and also carry forward traditional martial arts and promote righteousness.\n\n(Source: bilibili)",
+  "mean": 7.11,
+  "rank": 3766,
+  "popularity": 12736,
+  "num_list_users": 1201,
+  "num_scoring_users": 344,
+  "nsfw": "gray",
+  "created_at": "2021-12-06T15:47:21+00:00",
+  "updated_at": "2022-05-13T09:35:58+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1169,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2206,
+      "name": "Xuni Ying Ye"
+    }
+  ]
+}

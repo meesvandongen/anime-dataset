@@ -1,0 +1,39 @@
+{
+  "id": 55416,
+  "title": "Kagirinaku Haiiro e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1024/136061.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1024/136061l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Infinitely Grey",
+    "ja": "限りなく灰色へ"
+  },
+  "start_date": "2021-02-26",
+  "end_date": "2021-02-26",
+  "synopsis": "Music video for the song Kagirinaku Haiiro e by Len Kagamine.",
+  "popularity": 22045,
+  "num_list_users": 115,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2023-05-24T00:15:15+00:00",
+  "updated_at": "2023-06-17T11:12:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 274,
+  "rating": "pg_13",
+  "studios": []
+}

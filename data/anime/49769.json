@@ -1,0 +1,50 @@
+{
+  "id": 49769,
+  "title": "Togemeku Spica",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1301/117553.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1301/117553l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "A Stinging Spica",
+    "ja": "トゲめくスピカ"
+  },
+  "start_date": "2019-12",
+  "end_date": "2019-12",
+  "synopsis": "Animated music video for the song A Stinging Spica by Polkadot Stingray. This animation was produced by Kamikaze Douga and aired exclusively on NHK's program \"Minna no Uta\" from December 2019 to January 2020.",
+  "popularity": 20837,
+  "num_list_users": 169,
+  "num_scoring_users": 74,
+  "nsfw": "white",
+  "created_at": "2021-09-06T20:05:14+00:00",
+  "updated_at": "2021-10-02T19:59:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 295,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 437,
+      "name": "Kamikaze Douga"
+    }
+  ]
+}

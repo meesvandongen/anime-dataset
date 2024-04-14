@@ -1,0 +1,77 @@
+{
+  "id": 22877,
+  "title": "Seireitsukai no Blade Dance",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/63031.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/63031l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seirei Tsukai no Kenbu",
+      "Bladedance of Elementalers"
+    ],
+    "en": "Blade Dance of the Elementalers",
+    "ja": "精霊使いの剣舞〈ブレイドダンス〉"
+  },
+  "start_date": "2014-07-14",
+  "end_date": "2014-09-29",
+  "synopsis": "On his way to Areishia Spirit Academy, Kamito Kazehaya runs into a naked Claire Rouge, a student who had been bathing as part of a purification ceremony. She had been preparing to form a contract with a powerful spirit in order to acquire more power as an \"elementalist.\" Her efforts are wasted, however, when Kamito ends up with the spirit despite the fact that only shrine maidens can become elementalists. Yet to be discouraged, Claire then announces that Kamito must become her contracted spirit instead!\n\nAfter reaching the school grounds, Kamito escapes from Claire and meets Headmaster Greyworth Ciel Mais, who invites him to enroll at the academy. Although his life at Areishia will be far from easy as the only male student among the shrine princesses-in-training, he begrudgingly accepts in exchange for information about his former contracted spirit, Restia Ashdoll. Adding on to that, he also must fulfill Greyworth's main request: to win in the Blade Dance, a battle festival occurring in two months, where he will face the strongest elementalist rumored to be contracted with a darkness spirit.\n\n[Written by MAL Rewrite]",
+  "mean": 6.68,
+  "rank": 5875,
+  "popularity": 644,
+  "num_list_users": 365204,
+  "num_scoring_users": 187064,
+  "nsfw": "white",
+  "created_at": "2014-02-28T21:39:36+00:00",
+  "updated_at": "2022-11-13T08:33:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "20:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

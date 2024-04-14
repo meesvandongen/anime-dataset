@@ -1,0 +1,51 @@
+{
+  "id": 3388,
+  "title": "Majokko Megu-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/53681.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/53681l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Witch Girl Meg",
+      "Witch Girl Megu",
+      "Majokko Meg-chan",
+      "Little Meg the Witch Girl"
+    ],
+    "en": "",
+    "ja": "魔女っ子メグちゃん"
+  },
+  "start_date": "1974-04-01",
+  "end_date": "1975-09-29",
+  "synopsis": "Megu is sent to Earth in her early teens, she is adopted by Mammi Kanzaki, a former witch who gave up her royal ambitions to wed a mortal. Mammi bewitches her husband and their two children, Rabi and Apo, into believing that Megu has always been the eldest child of the family. Under Mammi's tutelage, Megu learns to control both her abilities and impulses in order to prove her worthiness for the crown. This Rite-of-Passage subtext is continued throughout the series.\n\n(Source: ANN)",
+  "mean": 6.9,
+  "rank": 4727,
+  "popularity": 9388,
+  "num_list_users": 3622,
+  "num_scoring_users": 853,
+  "nsfw": "white",
+  "created_at": "2007-11-10T14:29:03+00:00",
+  "updated_at": "2023-09-18T04:39:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 72,
+  "start_season": {
+    "year": 1974,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

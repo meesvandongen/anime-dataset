@@ -1,0 +1,66 @@
+{
+  "id": 38860,
+  "title": "Bakumatsu Crisis",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1979/100451.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1979/100451l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Renai Bakumatsu Kareshi Gaiden",
+      "Bakumatsu Second Season",
+      "Bakumatsu 2nd Season"
+    ],
+    "en": "",
+    "ja": "BAKUMATSU ~恋愛幕末カレシ 外伝~ クライシス"
+  },
+  "start_date": "2019-04-05",
+  "end_date": "2019-06-21",
+  "synopsis": "The Bakumatsu was an era in which the souls of young men burned with anxiety for their country's future. Takasugi Shinsaku, a soldier of fortune from Choshu, sneaks aboard a government ship with his comrade Katsura Kogorou in search of a mysterious \"timepiece\" with the power to manipulate time that he fears the government wishes to keep for themselves. Rather than allow such power to fall into the wrong hands, Takasugi plans to destroy the artifact, but having obtained it, the artifact is quickly stolen, forcing the pair to follow the mysterious thief to the seat of government in Kyoto. However, when they arrive in the capital, they discover that the government has been overthrown and the deity Susanoo now reigns in its place. The streets of the city and the people in them are much different than Takasugi and Katsura remembered. The times may have changed but their mission hasn't - Takasugi and Katsura resolve to reset time and save their nation from the nefarious forces trying to hijack it.\n\n(Source: Tokyo Otaku Mode)",
+  "mean": 5.71,
+  "rank": 10820,
+  "popularity": 5844,
+  "num_list_users": 12360,
+  "num_scoring_users": 2272,
+  "nsfw": "white",
+  "created_at": "2018-12-20T19:39:53+00:00",
+  "updated_at": "2023-08-28T04:36:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:58"
+  },
+  "source": "game",
+  "average_episode_duration": 1445,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

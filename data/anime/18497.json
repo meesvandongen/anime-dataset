@@ -1,0 +1,66 @@
+{
+  "id": 18497,
+  "title": "Yozakura Quartet: Hana no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/52563.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/52563l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "夜桜四重奏 ～ハナノウタ～"
+  },
+  "start_date": "2013-10-06",
+  "end_date": "2013-12-29",
+  "synopsis": "Hundreds of years ago, the borders between the worlds of humans and youkai temporarily overlapped, resulting in many residents of both crossing over to the other side. In the years since this event, the city of Sakurashin has become a central hub for all inter-dimensional affairs—a result of both the sacred Seven Pillars around the city serving as a beacon for the youkai, and the efforts of the Hiizumi Life Counseling Office in keeping the townsfolk happy. This office is composed of Hime Yarizakura, the young mayor of the city; satori Ao Nanami, who can read people's minds; half-youkai Kotoha Isone, who can summon anything by speaking a word; oni siblings, Kyousuke and Touka Kishi; and the office director Akina Hiizumi, who inherited his family's ability to force youkai back to their world.\n\nBesides volunteer and arbitration work, the Life Counseling Office also suppresses any Strikes: rare occurrences where humans are suddenly infused with youkai powers and go on a rampage. But the appearance of a sinister man signals trouble as Strikes become increasingly common, political rivals make their moves, and malicious individuals descend upon the city. As the self-appointed defenders of Sakurashin, it's up to the Life Counseling Office to protect the idyllic city they call home!\n\n[Written by MAL Rewrite]",
+  "mean": 7.45,
+  "rank": 2053,
+  "popularity": 1754,
+  "num_list_users": 125080,
+  "num_scoring_users": 37427,
+  "nsfw": "white",
+  "created_at": "2013-04-25T13:49:33+00:00",
+  "updated_at": "2022-04-14T20:17:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

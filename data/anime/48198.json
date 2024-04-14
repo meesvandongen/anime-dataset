@@ -1,0 +1,43 @@
+{
+  "id": 48198,
+  "title": "Magic Adventures: The Crystal of Dark",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1898/115326.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1898/115326l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magic Adventures: The Crystal of Dark",
+    "ja": "매직 어드벤처-더 크리스탈 오브 다크"
+  },
+  "start_date": "2016-09-24",
+  "end_date": "2017-10-14",
+  "synopsis": "",
+  "rank": 16144,
+  "popularity": 21297,
+  "num_list_users": 146,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2021-02-21T09:58:46+00:00",
+  "updated_at": "2021-05-30T19:02:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "average_episode_duration": 0,
+  "rating": "pg",
+  "studios": []
+}

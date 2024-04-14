@@ -1,0 +1,54 @@
+{
+  "id": 58272,
+  "title": "Boku no Tsuma wa Kanjou ga Nai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1409/141705.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1409/141705l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Wife Has No Emotion",
+    "ja": "僕の妻は感情がない"
+  },
+  "start_date": "2024-07",
+  "synopsis": "Takuma is a single guy who does nothing but go to work and come home. Too tired to do chores, he decides to get a robot to cook and keep house. \"Mina-chan\" is such a good housekeeper, Takuma jokes that she should become his wife. Mina takes Takuma's joke seriously, and slowly the two start doing more things together, like having a picnic outside. As time goes by, Takuma starts to fall for Mina, but can a human and a robot ever have an equal, loving relationship?\n\n(Source: Seven Seas Entertainment)",
+  "popularity": 7762,
+  "num_list_users": 6147,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-03-01T03:35:52+00:00",
+  "updated_at": "2024-03-01T11:17:09+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 53860,
+  "title": "Ryuukyuu Timeline: Mirai Shoujo to Inishie no Ou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1591/131864.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1591/131864l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ryukyu Timeline: The Girl from Future and the Ancient King",
+    "ja": "琉球タイムライン -未来少女と古の王-"
+  },
+  "start_date": "2021-03-08",
+  "end_date": "2021-03-08",
+  "synopsis": "A historical fantasy that unfolds a mysterious story between a high-school girl from Urasoe and Satto, the king of the Ryukyu Kingdom.\n\n(Source: AniDB)",
+  "mean": 5.69,
+  "rank": 10937,
+  "popularity": 13132,
+  "num_list_users": 1074,
+  "num_scoring_users": 294,
+  "nsfw": "white",
+  "created_at": "2022-12-15T18:28:53+00:00",
+  "updated_at": "2022-12-16T09:35:52+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 527,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2311,
+      "name": "Gyorai Eizo Inc."
+    }
+  ]
+}

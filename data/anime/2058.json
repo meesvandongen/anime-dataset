@@ -1,0 +1,68 @@
+{
+  "id": 2058,
+  "title": "Delpower X Bakuhatsu Miracle Genki!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1447/94000.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1447/94000l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Del Power X"
+    ],
+    "en": "",
+    "ja": "デルパワーＸ爆発みらくる元気！"
+  },
+  "start_date": "1986-12-21",
+  "end_date": "1986-12-21",
+  "synopsis": "Manami is your typical schoolgirl, despite the odd machines her grandfather is always building. One day, though, an odd evil robot comes to attack Minami's school, and commits the ultimate offense of threatening her friends... and ruining her lunch. Now, she will stop at nothing to return order to the world in her grandpa's newest creation: the mecha Del Power X.",
+  "mean": 5.34,
+  "rank": 12037,
+  "popularity": 11548,
+  "num_list_users": 1794,
+  "num_scoring_users": 777,
+  "nsfw": "white",
+  "created_at": "2007-03-09T23:46:17+00:00",
+  "updated_at": "2020-09-12T04:30:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 2520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1157,
+      "name": "Big Bang"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 43702,
+  "title": "Doraon Yeongung Hong Gildong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1142/109978.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1142/109978l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Returned Hero Hong Gildong"
+    ],
+    "en": "",
+    "ja": "돌아온 영웅 홍길동"
+  },
+  "start_date": "1995-12-24",
+  "end_date": "1995-12-24",
+  "synopsis": "",
+  "rank": 19299,
+  "popularity": 20780,
+  "num_list_users": 172,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2020-10-28T10:37:33+00:00",
+  "updated_at": "2020-10-28T10:37:33+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "average_episode_duration": 4562,
+  "rating": "pg",
+  "studios": []
+}

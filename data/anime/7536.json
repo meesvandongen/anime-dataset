@@ -1,0 +1,61 @@
+{
+  "id": 7536,
+  "title": "Soukou Kihei Votoms: Pailsen Files Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/18067.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/18067l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soukou Kihei Votoms: Pailsen Files - Gekijouban",
+      "Armored Trooper Votoms: Pailsen Files the Movie"
+    ],
+    "en": "",
+    "ja": "装甲騎兵ボトムズ ペールゼン・ファイルズ 劇場版"
+  },
+  "start_date": "2009-01-17",
+  "end_date": "2009-01-17",
+  "synopsis": "Alternative release of Armored Trooper Votoms: Pailsen Files OVA. Was aired 2 years later. Created by the original staff of the series, with an all new story about the end of the 100 year war.\n",
+  "mean": 6.57,
+  "rank": 6483,
+  "popularity": 11367,
+  "num_list_users": 1910,
+  "num_scoring_users": 609,
+  "nsfw": "white",
+  "created_at": "2009-11-16T13:35:25+00:00",
+  "updated_at": "2020-06-29T19:42:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 7096,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 229,
+      "name": "The Answer Studio"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 9088,
+  "title": "Saiyuuki Gaiden",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/75818.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/75818l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saiyuki Gaiden"
+    ],
+    "en": "",
+    "ja": "最遊記外伝"
+  },
+  "start_date": "2011-03-25",
+  "end_date": "2011-11-25",
+  "synopsis": "In their former lives, 500 years before Genjyo Sanzo and his crew of misfits began their journey west, they were gods, but being godly didn't make them act any more divine. When Goku flies into a murderous rage after seeing his best friend die, Heaven's had enough and wants him dead! But Konzen Douji, Field Marshal Tenpou, and General Kenren are willing to do anything to protect Goku, even if it means turning all of Heaven against them.\n\n(source: Sentai Filmworks)",
+  "mean": 7.78,
+  "rank": 1025,
+  "popularity": 5602,
+  "num_list_users": 13801,
+  "num_scoring_users": 4512,
+  "nsfw": "white",
+  "created_at": "2010-06-30T02:11:32+00:00",
+  "updated_at": "2023-08-02T03:45:18+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1743,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 521,
+      "name": "Anpro"
+    }
+  ]
+}

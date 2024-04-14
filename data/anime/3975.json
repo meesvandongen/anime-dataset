@@ -1,0 +1,57 @@
+{
+  "id": 3975,
+  "title": "Uchi no 3 Shimai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1631/104991.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1631/104991l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uchi no 3Shimai",
+      "Uchi no San Shimai"
+    ],
+    "en": "",
+    "ja": "うちの3姉妹"
+  },
+  "start_date": "2008-04-08",
+  "end_date": "2010-03-30",
+  "synopsis": "The daily life of the Motsumoto family. The three sisters, Fuu, Suu, and Chii, follow what happens on a daily basis. Mother and Father have to deal with them sometimes, but they're used to it.",
+  "mean": 6.27,
+  "rank": 8245,
+  "popularity": 14112,
+  "num_list_users": 823,
+  "num_scoring_users": 172,
+  "nsfw": "white",
+  "created_at": "2008-02-21T16:02:31+00:00",
+  "updated_at": "2021-02-11T18:00:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 102,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 1404,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    },
+    {
+      "id": 999,
+      "name": "Studio Animal"
+    }
+  ]
+}

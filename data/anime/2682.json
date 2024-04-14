@@ -1,0 +1,56 @@
+{
+  "id": 2682,
+  "title": "Aoki Densetsu Shoot! (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1453/96649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1453/96649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Aoki Densetsu Shoot! (1994)",
+      "Blue Legend Shoot! (1994)"
+    ],
+    "en": "Blue Legend Shoot!",
+    "ja": "蒼き伝説　シュート！"
+  },
+  "start_date": "1994-12-04",
+  "end_date": "1994-12-04",
+  "synopsis": "Frankfurt Youth team (Kubo's team while he was in Germany) comes to Japan to play a series of friendly matches. Frankfurt Captain Rudy wanted to see why Kubo left Germany to form a team in Japan so he challenges Kakegawa High to a match. ",
+  "mean": 6.71,
+  "rank": 5670,
+  "popularity": 10039,
+  "num_list_users": 2910,
+  "num_scoring_users": 1156,
+  "nsfw": "white",
+  "created_at": "2007-06-18T17:30:30+00:00",
+  "updated_at": "2024-03-06T10:54:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "average_episode_duration": 1551,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

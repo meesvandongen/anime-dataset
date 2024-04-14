@@ -1,0 +1,54 @@
+{
+  "id": 3816,
+  "title": "Idol Fight Suchie-Pai 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/68999.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/68999l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Idol Fight Suchie-Pai",
+      "Idol Janshi Suchi-Pai",
+      "Suchi Pai"
+    ],
+    "en": "Idol Fighter Su-Chi-Pai",
+    "ja": "アイドルファイト　スーチーパイ２"
+  },
+  "start_date": "1996-04-20",
+  "end_date": "1996-04-20",
+  "synopsis": "Once every century, the legendary mahjong dials called the \"Legendary Pai\" show themselves to the world, and if you collect them all it will grant you any wish. They show up in the form of evil monsters and you must defeat all 10 to obtain this chance. So, a Bunny Alien, A Maid-Dominatrix, A Cyborg, A girl form the world of magic and a transforming super hero all must fight these monsters along with themselves to grant the wish that they want to come true.",
+  "mean": 4.33,
+  "rank": 13166,
+  "popularity": 10987,
+  "num_list_users": 2167,
+  "num_scoring_users": 892,
+  "nsfw": "white",
+  "created_at": "2008-01-30T19:09:26+00:00",
+  "updated_at": "2022-03-09T22:52:25+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 39,
+      "name": "Daume"
+    }
+  ]
+}

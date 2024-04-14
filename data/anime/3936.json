@@ -1,0 +1,60 @@
+{
+  "id": 3936,
+  "title": "Personal Computer Travel Tanteidan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/69747.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/69747l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Superbook: Bible Stories"
+    ],
+    "en": "Superbook 2",
+    "ja": "パソコントラベル探偵団"
+  },
+  "start_date": "1983-04-04",
+  "end_date": "1983-09-26",
+  "synopsis": "The book fell onto a computer keyboard, giving anybody the ability to see into the past from Sho's home via the monitor. Ruffles, Chris' dog, managed to get lost in time, prompting Zenmaijikake and Sho's cousin Hisashi to search for her. Sho and Azusa kept watch and control of the computer from the present. The older children also had a hard time trying to keep what happened a secret from Sho's parents.\n\n(Source: Wikipedia)",
+  "mean": 6.02,
+  "rank": 9511,
+  "popularity": 12438,
+  "num_list_users": 1323,
+  "num_scoring_users": 447,
+  "nsfw": "white",
+  "created_at": "2008-02-17T03:33:07+00:00",
+  "updated_at": "2021-10-29T14:37:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1983,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

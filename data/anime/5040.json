@@ -1,0 +1,68 @@
+{
+  "id": 5040,
+  "title": "One Outs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/21065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/21065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ONE OUTS Nobody wins, but I!"
+    ],
+    "en": "One Outs",
+    "ja": "ワンナウツ"
+  },
+  "start_date": "2008-10-08",
+  "end_date": "2009-04-01",
+  "synopsis": "Toua Tokuchi is a prodigy when it comes to both baseball and gambling. Pitching nothing but mediocre fastballs, he has made a name for himself by attaining 499 consecutive victories in the game of One Outs: a one-on-one showdown between a pitcher and a batter. Despite his remarkable abilities, however, Tokuchi sees the sport as nothing more than a way to make some quick money.\n\nWhen Hiromichi Kojima, a legendary hitter for the struggling Saikyou Saitama Lycaons, witnesses Tokuchi's skills firsthand, he realizes that the man might be exactly what the team needs to get out of their slump. Determined to recruit Tokuchi no matter what, Kojima places his own career on the line and defeats Tokuchi at his own specialty—One Outs.\n\nForced to become a Lycaon, Tokuchi soon finds himself at odds with the team's owner, Tsuneo Saikawa. After Saikawa refuses to give him a reasonable salary, Tokuchi proposes a special contract: pitching an out will earn him five million yen, but giving up a run will cost him fifty million. With every game having the potential to either make or break him, Tokuchi must outwit all who stand in his way.\n\n[Written by MAL Rewrite]",
+  "mean": 8.33,
+  "rank": 235,
+  "popularity": 1011,
+  "num_list_users": 238206,
+  "num_scoring_users": 115510,
+  "nsfw": "white",
+  "created_at": "2008-08-07T21:53:26+00:00",
+  "updated_at": "2024-03-06T12:20:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

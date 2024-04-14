@@ -1,0 +1,45 @@
+{
+  "id": 51237,
+  "title": "Anata no wo Uchi ga Eigakan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1377/130047.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1377/130047l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Netflix CM"
+    ],
+    "en": "Your House is a Movie Theater",
+    "ja": "あなたのおうちが映画館"
+  },
+  "start_date": "2022-03-10",
+  "end_date": "2022-03-10",
+  "synopsis": "A short animation that rethinks Netflix as a commercial that was broadcast on TV stations in the late 1970s and early 1980s, complete with Showa-style aesthetics. ",
+  "popularity": 20656,
+  "num_list_users": 179,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2022-03-11T22:42:18+00:00",
+  "updated_at": "2023-12-30T09:10:00+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 28,
+  "rating": "g",
+  "studios": []
+}

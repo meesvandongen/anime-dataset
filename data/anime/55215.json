@@ -1,0 +1,43 @@
+{
+  "id": 55215,
+  "title": "Yume ja Nai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1823/135705.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1823/135705l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "夢じゃない"
+  },
+  "start_date": "1997-04-23",
+  "end_date": "1997-04-23",
+  "synopsis": "Music video for the song Yume ja Nai by Spitz.",
+  "popularity": 22161,
+  "num_list_users": 112,
+  "num_scoring_users": 65,
+  "nsfw": "white",
+  "created_at": "2023-05-02T17:13:43+00:00",
+  "updated_at": "2023-05-02T18:54:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 278,
+  "rating": "g",
+  "studios": []
+}

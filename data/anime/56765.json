@@ -1,0 +1,66 @@
+{
+  "id": 56765,
+  "title": "Zhengjing Shao Zhu de Xingfu Shenghuo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1189/138796.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1189/138796l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Little Master's Better Life",
+    "ja": "正经少主的幸福生活"
+  },
+  "start_date": "2023-10-22",
+  "end_date": "2023-12-31",
+  "synopsis": "In the wild world, human beings are small, but not humble. Whether it is Shennong and his people in the human domain, or the various clans in Beiye, they are working hard and developing vigorously in their own way. Although he will be bewitched and suppressed by the Star God, he will also launch a tenacious resistance to the Star God in order to protect his tribe, his relatives and bloodline. \n\n(Source: Bilibili, translated)",
+  "mean": 6.92,
+  "rank": 4615,
+  "popularity": 13237,
+  "num_list_users": 1042,
+  "num_scoring_users": 237,
+  "nsfw": "white",
+  "created_at": "2023-09-28T02:59:50+00:00",
+  "updated_at": "2023-12-31T07:44:32+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1431,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1667,
+      "name": "Foch Films"
+    },
+    {
+      "id": 2068,
+      "name": "Ai Si Animation Studio"
+    }
+  ]
+}

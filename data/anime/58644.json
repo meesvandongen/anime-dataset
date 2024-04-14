@@ -1,0 +1,51 @@
+{
+  "id": 58644,
+  "title": "Yozakura-san Chi no Mini Sakusen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1275/142552.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1275/142552l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mission: Yozakura Family Mini Anime",
+      "Yozakura-san Chi no Daisakusen Mini Anime"
+    ],
+    "en": "Mini Mission: Yozakura Family",
+    "ja": "夜桜さんちのミニ作戦"
+  },
+  "start_date": "2024-04-11",
+  "synopsis": "A comedy series featuring the Yozakura Family's life.",
+  "rank": 15070,
+  "popularity": 22576,
+  "num_list_users": 101,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2024-04-11T11:20:37+00:00",
+  "updated_at": "2024-04-11T18:50:41+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

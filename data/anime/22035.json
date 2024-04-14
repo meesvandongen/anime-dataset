@@ -1,0 +1,48 @@
+{
+  "id": 22035,
+  "title": "Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/57819.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/57819l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "それいけ! アンパンマン リリカル☆マジカルまほうの学校"
+  },
+  "start_date": "1994-07-20",
+  "end_date": "1994-07-20",
+  "synopsis": "",
+  "mean": 6.32,
+  "rank": 7872,
+  "popularity": 16392,
+  "num_list_users": 462,
+  "num_scoring_users": 128,
+  "nsfw": "white",
+  "created_at": "2014-01-09T08:00:16+00:00",
+  "updated_at": "2014-01-10T09:12:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "average_episode_duration": 3600,
+  "rating": "pg",
+  "studios": []
+}

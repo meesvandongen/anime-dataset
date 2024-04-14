@@ -1,0 +1,64 @@
+{
+  "id": 23251,
+  "title": "Gugure! Kokkuri-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/65665.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/65665l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "GuguKoku"
+    ],
+    "en": "GUGURE! KOKKURI-SAN",
+    "ja": "繰繰れ！コックリさん"
+  },
+  "start_date": "2014-10-06",
+  "end_date": "2014-12-22",
+  "synopsis": "Gugure! Kokkuri-san is an eccentric comedy centered around the self-proclaimed doll, Kohina Ichimatsu. Her uneventful life goes from plain to absurd when she summons a fox spirit by the name of Kokkuri-san. But contrary to popular belief, he is not the omniscient, answer-granting spirit from the legend anymore. The loss of believers in modern society has rendered him powerless.\n\nUpon meeting the bizarre girl who summoned him, Kokkuri-san is shocked to discover that Kohina not only lives alone, but survives on just cup ramen! Filled with concern for the young girl, he takes it upon himself to ensure that Kohina has proper meals and lives a decent life. Thus begin Kokkuri-san's less-than-hopeful endeavors and their peculiar life together.\n\n[Written by MAL Rewrite]",
+  "mean": 7.55,
+  "rank": 1685,
+  "popularity": 1301,
+  "num_list_users": 183069,
+  "num_scoring_users": 79845,
+  "nsfw": "white",
+  "created_at": "2014-03-20T08:28:11+00:00",
+  "updated_at": "2022-04-17T19:10:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:05"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1467,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

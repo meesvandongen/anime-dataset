@@ -1,0 +1,52 @@
+{
+  "id": 53961,
+  "title": "Nintama Rantarou: Hoshi ni Chikatta Yuujou Monogatari no Dan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1565/132045.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1565/132045l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "忍たま乱太郎 ～星に誓った友情物語の段～"
+  },
+  "start_date": "2001-06-03",
+  "end_date": "2001-06-03",
+  "synopsis": "",
+  "rank": 16873,
+  "popularity": 22552,
+  "num_list_users": 101,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2022-12-24T01:33:06+00:00",
+  "updated_at": "2022-12-24T11:35:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1680,
+  "rating": "g",
+  "studios": []
+}

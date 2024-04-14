@@ -1,0 +1,59 @@
+{
+  "id": 51937,
+  "title": "Xingji Yi You",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1488/124099.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1488/124099l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Interstellar Tour"
+    ],
+    "en": "Interstellar Wanderer",
+    "ja": "星际一游"
+  },
+  "start_date": "2022-04-18",
+  "end_date": "2022-06-27",
+  "synopsis": "",
+  "rank": 14795,
+  "popularity": 20104,
+  "num_list_users": 210,
+  "num_scoring_users": 49,
+  "nsfw": "white",
+  "created_at": "2022-05-26T17:01:16+00:00",
+  "updated_at": "2022-07-05T16:52:32+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 590,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2802,
+      "name": "Yudubai Animation"
+    }
+  ]
+}

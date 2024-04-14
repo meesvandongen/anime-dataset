@@ -1,0 +1,44 @@
+{
+  "id": 41453,
+  "title": "Noctambulist",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1886/106623.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1886/106623l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Noctambulist"
+  },
+  "start_date": "2019-06-04",
+  "end_date": "2019-06-04",
+  "synopsis": "A music video for matryoshka's Noctambulist, directed by Susumu Yamaguchi. The song itself was released in 2012 as part of their album, Laideronnette.",
+  "mean": 6.21,
+  "popularity": 18457,
+  "num_list_users": 304,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2020-03-14T14:09:15+00:00",
+  "updated_at": "2020-08-18T08:36:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 439,
+  "rating": "g",
+  "studios": []
+}

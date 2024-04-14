@@ -1,0 +1,52 @@
+{
+  "id": 19397,
+  "title": "Zettai Bouei Leviathan: Mini Takibi Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/52413.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/52413l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zettai Bouei Leviathan Campfire Short"
+    ],
+    "en": "",
+    "ja": "絶対防衛レヴィアタン ミニ焚き火劇場"
+  },
+  "start_date": "2013-07-07",
+  "end_date": "2013-09-30",
+  "synopsis": "A new special mini corner airing after the rebroadcast version of TV series.",
+  "mean": 5.87,
+  "rank": 10145,
+  "popularity": 11106,
+  "num_list_users": 2085,
+  "num_scoring_users": 729,
+  "nsfw": "white",
+  "created_at": "2013-07-08T11:18:44+00:00",
+  "updated_at": "2019-01-03T15:39:30+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 260,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 27465,
+  "title": "Pororo Hanguk-e Wass-eoyo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/66631.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/66631l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pororo Hangug-e Wass-eoyo",
+      "Ppololoui Hangugdaemoheom"
+    ],
+    "en": "Pororo Goes to Korea",
+    "ja": "뽀로로가 한국에 왔어요"
+  },
+  "start_date": "2013-03-07",
+  "end_date": "2013-03-07",
+  "synopsis": "Korean Culture and Information Service, Ministry of Culture, Sports and Tourism commissioned a Pororo short to promote Korean travel to English speaking youths across the world and to domestic youths to explore their own country.\n\nThe is the first Pororo work to feature humans. The story is split into 4 chunks for the single episode.",
+  "mean": 5.67,
+  "rank": 11012,
+  "popularity": 17167,
+  "num_list_users": 397,
+  "num_scoring_users": 126,
+  "nsfw": "white",
+  "created_at": "2014-09-08T17:06:06+00:00",
+  "updated_at": "2022-11-01T19:46:19+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 890,
+  "rating": "g",
+  "studios": []
+}

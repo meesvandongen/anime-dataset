@@ -1,0 +1,47 @@
+{
+  "id": 55176,
+  "title": "Too Good feat. CHENLE of NCT",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1695/135666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1695/135666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Too Good feat. CHENLE of NCT",
+    "ja": "Too Good (feat. CHENLE 천러 of NCT)"
+  },
+  "start_date": "2021-02-04",
+  "end_date": "2021-02-04",
+  "synopsis": "Music video for IMLAY's song Too Good feat. CHENLE of NCT.",
+  "popularity": 22367,
+  "num_list_users": 105,
+  "num_scoring_users": 58,
+  "nsfw": "white",
+  "created_at": "2023-04-29T20:48:45+00:00",
+  "updated_at": "2023-04-30T09:41:50+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 227,
+  "rating": "g",
+  "studios": []
+}

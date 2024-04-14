@@ -1,0 +1,39 @@
+{
+  "id": 57473,
+  "title": "Orb",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1610/140202.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1610/140202l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "オーブ"
+  },
+  "start_date": "2020-06-13",
+  "end_date": "2020-06-13",
+  "synopsis": "Music video for the song Orb by nano.RIPE.",
+  "popularity": 24222,
+  "num_list_users": 75,
+  "num_scoring_users": 39,
+  "nsfw": "white",
+  "created_at": "2023-12-07T07:16:56+00:00",
+  "updated_at": "2023-12-07T07:16:56+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 204,
+  "rating": "g",
+  "studios": []
+}

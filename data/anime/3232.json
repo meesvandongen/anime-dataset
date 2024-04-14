@@ -1,0 +1,71 @@
+{
+  "id": 3232,
+  "title": "Bannou Bunka Neko-Musume Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/5124.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/5124l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nuku Nuku Special",
+      "Nuku Nuku hourou!? Akemashite Suteraremashita",
+      "Nuku Nuku Abandoned? Happy New Year, I've Been Thrown Out",
+      "Nuku Nuku Special, Koisuru Nuku Nuku! Valentine wa dare n tame n",
+      "Nuku Nuku Falls in Love! Who's the Valentine for?"
+    ],
+    "en": "",
+    "ja": "万能文化猫娘"
+  },
+  "start_date": "1999-08-01",
+  "end_date": "1999-08-01",
+  "synopsis": "Special episodes that take place between episodes 10 & 11 of the TV series.",
+  "mean": 6.36,
+  "rank": 7655,
+  "popularity": 11149,
+  "num_list_users": 2056,
+  "num_scoring_users": 766,
+  "nsfw": "white",
+  "created_at": "2007-10-17T10:11:06+00:00",
+  "updated_at": "2020-07-25T22:45:39+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1999,
+    "season": "summer"
+  },
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

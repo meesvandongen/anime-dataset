@@ -1,0 +1,37 @@
+{
+  "id": 10759,
+  "title": "Kintarou",
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "金太郎"
+  },
+  "start_date": "1918-03-16",
+  "end_date": "1918-03-16",
+  "synopsis": "",
+  "mean": 5.77,
+  "rank": 10566,
+  "popularity": 15212,
+  "num_list_users": 598,
+  "num_scoring_users": 135,
+  "nsfw": "white",
+  "created_at": "2011-05-25T12:06:13+00:00",
+  "updated_at": "2011-05-26T09:15:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1918,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

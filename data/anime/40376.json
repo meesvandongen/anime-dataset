@@ -1,0 +1,48 @@
+{
+  "id": 40376,
+  "title": "Terrace House x Craft Boss",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1903/102918.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1903/102918l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Suntory",
+      "Milk Tea Coming"
+    ],
+    "en": "",
+    "ja": "テラスハウス×クラフトボス"
+  },
+  "start_date": "2019-08-30",
+  "end_date": "2019-08-30",
+  "synopsis": "A Suntory advertisement featuring popular beverages (from the Craft Boss brand) as anime characters in their twenties. The ad is a collaboration with the latest season of the Terrace House reality TV show series, which follows the lives of three men and three women who live in the same house and get to know each each other. \n\nThe first animated video introduces five of the six characters planned to feature in Suntory's ad campaign. \n\n(Source: ANN)",
+  "mean": 5.68,
+  "popularity": 16541,
+  "num_list_users": 448,
+  "num_scoring_users": 128,
+  "nsfw": "white",
+  "created_at": "2019-09-05T04:57:15+00:00",
+  "updated_at": "2023-12-26T21:19:07+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 100,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2311,
+      "name": "Gyorai Eizo Inc."
+    }
+  ]
+}

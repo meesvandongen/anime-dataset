@@ -1,0 +1,44 @@
+{
+  "id": 48245,
+  "title": "Porong Porong Pororo 7",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1029/130303.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1029/130303l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pororo the Little Penguin 7",
+    "ja": "뽀롱뽀롱 뽀로로 7"
+  },
+  "start_date": "2020-11-23",
+  "end_date": "2021-02-16",
+  "synopsis": "",
+  "rank": 17274,
+  "popularity": 21833,
+  "num_list_users": 123,
+  "num_scoring_users": 27,
+  "nsfw": "white",
+  "created_at": "2021-02-22T05:10:50+00:00",
+  "updated_at": "2022-11-01T19:57:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "g",
+  "studios": []
+}

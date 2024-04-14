@@ -1,0 +1,50 @@
+{
+  "id": 27997,
+  "title": "Kaitou Tenshi Twin Angel: Kyunkyun☆Tokimeki Paradise!! OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/67849.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/67849l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "快盗天使ツインエンジェル キュンキュン☆ときめきパラダイス!! OVA"
+  },
+  "start_date": "2014-12-28",
+  "end_date": "2014-12-28",
+  "synopsis": "The OVA will be pre-sold during the Comiket 87 starting on December 28, 2014, regular retail distribution of the limited edition package will start on January 30, 2015.",
+  "mean": 6.04,
+  "rank": 9375,
+  "popularity": 11797,
+  "num_list_users": 1636,
+  "num_scoring_users": 386,
+  "nsfw": "white",
+  "created_at": "2014-10-18T21:17:32+00:00",
+  "updated_at": "2023-09-24T01:56:55+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

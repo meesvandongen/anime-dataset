@@ -1,0 +1,70 @@
+{
+  "id": 44074,
+  "title": "Shiguang Dailiren",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "時光代理人",
+      "Jikou Dairinin",
+      "Shi Guang Dai Li Ren"
+    ],
+    "en": "Link Click",
+    "ja": "时光代理人"
+  },
+  "start_date": "2021-04-30",
+  "end_date": "2021-07-09",
+  "synopsis": "It is said that a picture is worth a thousand words. In this case, it holds an infinite amount of secrets. These are secrets that only Cheng Xiaoshi and Lu Guang are able to find. In a small shop called \"Time Photo Studio,\" the two friends provide a special service: using their extraordinary powers that let them enter photographs, they jump into pictures brought to them by clients in order to grant their wishes. Through the eyes of the photographer, they live through the events surrounding the picture and try to decipher how to solve their client's request.\n\nBut every time they jump into a picture, they take a great risk. One wrong move and they could alter the future of the person who took the picture... and possibly countless other events too. So when the events they are forced to live through in these pictures start to become personal, it will take the utmost strength to push their feelings aside and focus on accomplishing the task they were paid to do.\n\n[Written by MAL Rewrite]",
+  "mean": 8.68,
+  "rank": 60,
+  "popularity": 648,
+  "num_list_users": 362341,
+  "num_scoring_users": 136279,
+  "nsfw": "white",
+  "created_at": "2020-11-21T15:26:51+00:00",
+  "updated_at": "2023-10-12T08:13:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1438,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1774,
+      "name": "LAN Studio"
+    }
+  ]
+}

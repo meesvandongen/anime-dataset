@@ -1,0 +1,69 @@
+{
+  "id": 40221,
+  "title": "Kami no Tou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1702/106229l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sin-ui Tap",
+      "신의 탑"
+    ],
+    "en": "Tower of God",
+    "ja": "神之塔 -Tower of God-"
+  },
+  "start_date": "2020-04-02",
+  "end_date": "2020-06-25",
+  "synopsis": "There is a tower that summons chosen people called \"Regulars\" with the promise of granting their deepest desires. Whether it be wealth, fame, authority, or something that surpasses them all—everything awaits those who reach the top.\n\nTwenty-Fifth Bam is a boy who had only known a dark cave, a dirty cloth, and an unreachable light his entire life. So when a girl named Rachel came to him through the light, his entire world changed. Becoming close friends with Rachel, he learned various things about the outside world from her. But when Rachel says she must leave him to climb the Tower, his world shatters around him. Vowing to follow after her no matter what it takes, he sets his sight on the tower, and a miracle occurs.\n\nThus begins the journey of Bam, a young boy who was not chosen by the Tower but opened its gates by himself. They call his kind \"Irregulars\"—beings that have shaken the very foundation of the Tower each time they set foot inside it.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.55,
+  "rank": 1691,
+  "popularity": 180,
+  "num_list_users": 921709,
+  "num_scoring_users": 535978,
+  "nsfw": "white",
+  "created_at": "2019-08-06T05:08:28+00:00",
+  "updated_at": "2024-01-14T07:37:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1434,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 31737,
+  "title": "Gakusen Toshi Asterisk 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/79107.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/79107l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Academy Battle City Asterisk"
+    ],
+    "en": "The Asterisk War Season 2",
+    "ja": "学戦都市アスタリスク"
+  },
+  "start_date": "2016-04-02",
+  "end_date": "2016-06-18",
+  "synopsis": "Gakusen Toshi Asterisk 2nd Season continues the story of Genestella students Ayato Amagiri and Julis-Alexia von Riessfeld, who have progressed to the next round of the Phoenix Festa after a long and strenuous battle with sisters Irene and Priscilla Urzaiz.\n\nDespite Julis and Ayato's best attempts, the fact that Ayato's powers have been sealed is no longer a secret. Now at a major disadvantage, the duo must come up with a plan if they are to have any hope of winning the Phoenix Festa. Only one thing is for sure: the troubles heading their way are only going to get more insurmountable from here on.\n\n[Written by MAL Rewrite]",
+  "mean": 6.99,
+  "rank": 4330,
+  "popularity": 520,
+  "num_list_users": 435050,
+  "num_scoring_users": 255149,
+  "nsfw": "white",
+  "created_at": "2015-09-29T03:46:17+00:00",
+  "updated_at": "2022-11-11T20:19:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

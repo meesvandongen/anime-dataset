@@ -1,0 +1,49 @@
+{
+  "id": 51060,
+  "title": "Rapport",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1101/121000.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1101/121000l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Rapport",
+    "ja": "Rapport"
+  },
+  "start_date": "2021-11-23",
+  "end_date": "2021-11-23",
+  "synopsis": "Official music video for the song Rapport by Tatsuya Kitani.",
+  "mean": 6.14,
+  "popularity": 18692,
+  "num_list_users": 289,
+  "num_scoring_users": 157,
+  "nsfw": "white",
+  "created_at": "2022-02-17T03:51:17+00:00",
+  "updated_at": "2022-03-25T19:20:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 219,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1972,
+      "name": "HOTZIPANG"
+    }
+  ]
+}

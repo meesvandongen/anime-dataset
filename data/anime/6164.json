@@ -1,0 +1,61 @@
+{
+  "id": 6164,
+  "title": "Aoi Hana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/80255.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/80255l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Aoihana",
+      "Blue Flower"
+    ],
+    "en": "Sweet Blue Flowers",
+    "ja": "青い花"
+  },
+  "start_date": "2009-07-02",
+  "end_date": "2009-09-10",
+  "synopsis": "Shy and soft-spoken Fumi Manjoume and upfront and caring Akira Okudaira were best friends in elementary school, but this changed when Fumi and her family moved away. Years later, Fumi moves back to her hometown after being accepted at Matsuoka Girls’ High School. She finally reunites with Akira, who is going to attend Fujigatani Girls’ Academy. Despite their reunion, their relationship isn't the same as it was years ago.\n\nAs soon as Fumi starts attending school, popular senior Yasuko Sugimoto takes notice of her and flatters her more than any other underclassmen. After running to Akira for help so many times before, Fumi must figure out who she is as a person instead of standing in someone else’s shadow.  However, that doesn’t stop Akira from wanting her friendship with Fumi to be as it once was. Will the girls be able to conquer the high school stage of growing up before it pulls them apart?\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.09,
+  "rank": 3868,
+  "popularity": 2070,
+  "num_list_users": 100294,
+  "num_scoring_users": 36652,
+  "nsfw": "white",
+  "created_at": "2009-03-09T15:48:11+00:00",
+  "updated_at": "2023-09-07T08:17:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "02:08"
+  },
+  "source": "manga",
+  "average_episode_duration": 1374,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 37064,
+  "title": "Jiiji no e Tegami: Grandfather's Letter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/89906.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/89906l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Jiji no e Tegami: Grandfather's Letter"
+    ],
+    "en": "",
+    "ja": "じーじのえてがみ 〜グランドファザーズ・レター〜"
+  },
+  "start_date": "2007-12-02",
+  "end_date": "2007-12-02",
+  "synopsis": "A young boy receives colorful fun letters from his grandfather with hand drawn pictures.",
+  "popularity": 19827,
+  "num_list_users": 227,
+  "num_scoring_users": 102,
+  "nsfw": "white",
+  "created_at": "2018-01-06T22:59:25+00:00",
+  "updated_at": "2022-02-19T08:38:41+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 143,
+  "rating": "g",
+  "studios": []
+}

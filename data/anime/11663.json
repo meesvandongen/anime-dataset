@@ -1,0 +1,65 @@
+{
+  "id": 11663,
+  "title": "Hakuouki OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/32507.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/32507l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hakuoki OVA",
+      "Hakuouki Shinsengumi Kitan OVA"
+    ],
+    "en": "",
+    "ja": "薄桜鬼"
+  },
+  "start_date": "2011-03",
+  "end_date": "2011-03",
+  "synopsis": "Two short OVA of Hakuouki distributed to those who purchased all six volumes of the DVD. A fandisc game \"Hakuoki Zuisouroku\" and an official parody \"Hakuoki SSL (a high school parody)\" were animated.",
+  "mean": 7.4,
+  "rank": 2268,
+  "popularity": 5562,
+  "num_list_users": 13999,
+  "num_scoring_users": 5031,
+  "nsfw": "white",
+  "created_at": "2011-09-21T11:41:07+00:00",
+  "updated_at": "2022-04-06T09:18:38+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 510,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

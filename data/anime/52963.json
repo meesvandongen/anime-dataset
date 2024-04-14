@@ -1,0 +1,40 @@
+{
+  "id": 52963,
+  "title": "Readymade",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1772/127705.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1772/127705l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Readymade",
+    "ja": "レディメイド"
+  },
+  "start_date": "2020-12-24",
+  "end_date": "2020-12-24",
+  "synopsis": "Music video for the song Readymade by Ado.",
+  "mean": 7.26,
+  "popularity": 14373,
+  "num_list_users": 760,
+  "num_scoring_users": 461,
+  "nsfw": "white",
+  "created_at": "2022-09-06T13:50:56+00:00",
+  "updated_at": "2022-09-06T18:29:30+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": []
+}

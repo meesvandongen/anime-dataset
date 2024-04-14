@@ -1,0 +1,51 @@
+{
+  "id": 38052,
+  "title": "WiSH VOYAGE",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1050/93297.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1050/93297l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "IDOLiSH7: WiSH VOYAGE"
+    ],
+    "en": "",
+    "ja": "アイドリッシュセブン『WiSH VOYAGE IDOLiSH7』"
+  },
+  "start_date": "2018-07-01",
+  "end_date": "2018-07-01",
+  "synopsis": "Official music video for IDOLiSH7's song WiSH VOYAGE also released on the album of the same name.",
+  "mean": 7.03,
+  "popularity": 11345,
+  "num_list_users": 1924,
+  "num_scoring_users": 909,
+  "nsfw": "white",
+  "created_at": "2018-07-23T00:12:31+00:00",
+  "updated_at": "2023-10-17T00:38:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 211,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 437,
+      "name": "Kamikaze Douga"
+    }
+  ]
+}

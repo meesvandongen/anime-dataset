@@ -1,0 +1,48 @@
+{
+  "id": 28109,
+  "title": "Kuzuryuugawa to Shounen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/68023.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/68023l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Boy & A Great River",
+    "ja": "九頭竜川と少年"
+  },
+  "start_date": "1998-10",
+  "end_date": "1998-10",
+  "synopsis": "An educational film about the Kuzuryuu River in Japan. It starts out in the Meiji Era where the villages along it kept getting plagued by floods. The villagers prayed for it to stop but it did nothing. A young boy who lost his childhood friend to the floods grows up into a man and decides to take matters into his own hands. He starts constructing an embankment which leads to a village-wide project which spread to other villages along the river.",
+  "rank": 15897,
+  "popularity": 17773,
+  "num_list_users": 353,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2014-10-24T11:53:16+00:00",
+  "updated_at": "2014-10-24T11:53:16+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
+}

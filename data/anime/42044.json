@@ -1,0 +1,58 @@
+{
+  "id": 42044,
+  "title": "Minegishi-san wa Ootsu-kun ni Tabesasetai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1415/127116.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1415/127116l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "峰岸さんは大津くんに食べさせたい"
+  },
+  "start_date": "2020-05-22",
+  "end_date": "2020-06-12",
+  "synopsis": "Salaryman Ootsu is frustrated by the fact that his coworker Minegishi is flawless in every way. Minegishi is not only an exquisite and amiable man, but he also thrives at work—simply put, he is the ideal man! However, Minegishi finds his innermost happiness by feeding Ootsu tasty meals. In his daily attempts to fill both his coworker's stomach and heart, Minegishi concocts various schemes to lure Ootsu into eating with delight.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.12,
+  "rank": 8982,
+  "popularity": 10154,
+  "num_list_users": 2794,
+  "num_scoring_users": 1076,
+  "nsfw": "gray",
+  "created_at": "2020-05-22T07:50:50+00:00",
+  "updated_at": "2023-02-04T01:05:57+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 110,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    }
+  ]
+}

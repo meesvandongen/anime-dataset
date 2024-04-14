@@ -1,0 +1,47 @@
+{
+  "id": 12561,
+  "title": "Benkei tai Ushiwaka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/35189.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/35189l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Benkei vs Ushiwaka"
+    ],
+    "en": "",
+    "ja": "べんけい対ウシワカ"
+  },
+  "start_date": "1939-07",
+  "end_date": "1939-07",
+  "synopsis": "Benkei tai Ushiwaka is a short animated Japanese film made in 1939 by Kenzō Masaoka. It is based on the legendary encounter between Saitō Musashibō Benkei, who was collecting swords for the Buddha, and Minamoto no Yoshitsune, who was called Ushiwaka in his youth.\n\n(Source: Wikipedia)",
+  "mean": 5.25,
+  "rank": 12250,
+  "popularity": 12132,
+  "num_list_users": 1463,
+  "num_scoring_users": 741,
+  "nsfw": "white",
+  "created_at": "2011-12-29T02:25:30+00:00",
+  "updated_at": "2020-08-19T21:27:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1939,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 792,
+  "rating": "g",
+  "studios": []
+}

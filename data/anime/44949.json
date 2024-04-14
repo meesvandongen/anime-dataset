@@ -1,0 +1,45 @@
+{
+  "id": 44949,
+  "title": "Si Du Chishui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1307/128329.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1307/128329l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Crossing Chishui He for Four Times"
+    ],
+    "en": "",
+    "ja": "四渡赤水"
+  },
+  "start_date": "2016-10-14",
+  "end_date": "2016-10-14",
+  "synopsis": "",
+  "rank": 13466,
+  "popularity": 24160,
+  "num_list_users": 75,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2020-12-19T04:45:59+00:00",
+  "updated_at": "2022-09-24T13:54:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "average_episode_duration": 5100,
+  "rating": "g",
+  "studios": []
+}

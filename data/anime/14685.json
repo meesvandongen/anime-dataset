@@ -1,0 +1,49 @@
+{
+  "id": 14685,
+  "title": "Onegai☆Teacher: Reminiscence Disc",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/39945.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/39945l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "おねがい☆ティーチャー Reminiscenceディスク"
+  },
+  "start_date": "2003-03-28",
+  "end_date": "2003-03-28",
+  "synopsis": "An hour long OVA summarizing the plot of the original Onegai Teacher series. Also bundled with the BD box release of Onegai Teacher.",
+  "mean": 6.65,
+  "rank": 6038,
+  "popularity": 8349,
+  "num_list_users": 5151,
+  "num_scoring_users": 1821,
+  "nsfw": "white",
+  "created_at": "2012-07-02T02:23:19+00:00",
+  "updated_at": "2021-10-30T04:26:35+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 3437,
+  "rating": "pg_13",
+  "studios": []
+}

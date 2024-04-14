@@ -1,0 +1,70 @@
+{
+  "id": 49533,
+  "title": "Uchi no Shishou wa Shippo ga Nai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1289/127754.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1289/127754l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Master Has No Tail",
+    "ja": "うちの師匠はしっぽがない"
+  },
+  "start_date": "2022-09-30",
+  "end_date": "2022-12-23",
+  "synopsis": "The beginning of the Taishou era spelled the end of the tanuki's tricks. These raccoon dogs, who are able to transform into human beings, used to love fooling humans until advanced technology rendered their endeavors futile. However, Mameda, a young tanuki girl, has not given up on this tradition, and—resolved to follow in her father's footsteps—travels to Osaka in hopes of duping people.\n\nAs others in her village predicted, Mameda fails to deceive a single person, and she is even hunted down by an angry crowd. After finding refuge in a theater, she stumbles upon a rakugo performance given by a master of the art, Bunko Daikokutei. Fascinated by the vivid images created by the rakugoka's acting, Mameda becomes enamored with this style of storytelling and decides to become Bunko's apprentice!\n\nDespite her initial reluctance to take a disciple, Bunko begins to teach Mameda rakugo after witnessing the young tanuki's perseverance. Between undertaking a taiko apprenticeship, handling her work at the theater, and memorizing plays, Mameda needs to give her all if she ever plans to master the only art that still has a chance to fool people.\n\n[Written by MAL Rewrite]",
+  "mean": 6.73,
+  "rank": 5583,
+  "popularity": 4436,
+  "num_list_users": 24624,
+  "num_scoring_users": 7048,
+  "nsfw": "white",
+  "created_at": "2021-08-03T12:25:22+00:00",
+  "updated_at": "2022-12-30T21:31:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 30714,
+  "title": "Owaranai Seraph",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/76505.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/76505l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Owari no Seraph Omake",
+      "Owari no Seraph: Owaranai Seraph"
+    ],
+    "en": "Seraph of the Endless",
+    "ja": "終わらないセラフ"
+  },
+  "start_date": "2015-06-24",
+  "end_date": "2015-09-26",
+  "synopsis": "Specials included in the Blu-ray and DVD releases.",
+  "mean": 7.34,
+  "rank": 2549,
+  "popularity": 2168,
+  "num_list_users": 93545,
+  "num_scoring_users": 40506,
+  "nsfw": "white",
+  "created_at": "2015-05-02T13:46:03+00:00",
+  "updated_at": "2023-10-09T06:42:24+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 9,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 130,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

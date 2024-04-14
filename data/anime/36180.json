@@ -1,0 +1,45 @@
+{
+  "id": 36180,
+  "title": "Clock Lock Works",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/87397.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/87397l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Clock Lock Works",
+    "ja": "clock lock works"
+  },
+  "start_date": "2009-11-27",
+  "end_date": "2009-11-27",
+  "synopsis": "Music video for Kenshi Yonezu's song Clock Lock Works animated by Minakata Laboratory.",
+  "mean": 5.26,
+  "popularity": 16608,
+  "num_list_users": 442,
+  "num_scoring_users": 234,
+  "nsfw": "white",
+  "created_at": "2017-08-21T22:35:28+00:00",
+  "updated_at": "2017-09-10T19:27:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "music",
+  "average_episode_duration": 261,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1725,
+      "name": "Minakata Laboratory"
+    }
+  ]
+}

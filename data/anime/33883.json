@@ -1,0 +1,52 @@
+{
+  "id": 33883,
+  "title": "Chao You Bing",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1034/90492.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1034/90492l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chao You Bing: Zhi Yongzhe Chuanshuo",
+      "Chao Youbing"
+    ],
+    "en": "",
+    "ja": "超有病"
+  },
+  "start_date": "2014-04-25",
+  "end_date": "2014-08-20",
+  "synopsis": "A collection of animation that highlights the Sickness (increasing stupidity) that is plaguing this generation: Chao You Bing",
+  "mean": 5.36,
+  "rank": 11987,
+  "popularity": 8666,
+  "num_list_users": 4662,
+  "num_scoring_users": 937,
+  "nsfw": "white",
+  "created_at": "2016-08-17T03:00:05+00:00",
+  "updated_at": "2021-08-02T10:39:05+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 503,
+  "rating": "r",
+  "studios": []
+}

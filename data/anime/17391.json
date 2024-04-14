@@ -1,0 +1,65 @@
+{
+  "id": 17391,
+  "title": "Senyuu. Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/51475.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/51475l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Senyuu. Episode 1.1",
+      "Senyu. Specials"
+    ],
+    "en": "",
+    "ja": "戦勇。"
+  },
+  "start_date": "2013-04-24",
+  "end_date": "2013-11-22",
+  "synopsis": "Unaired episodes of Senyuu. released with BD/DVD volumes.\n\n1. Yuusha, Nagurareru. / Nise Panda no Seitai (Vol. 1)\n2. Shitsujichou no Tabi Sono 1 (Vol. 2)\n3. Shitsujichou no Tabi Sono 2 (Vol. 3)\n4. Gakuen Senyuu.: Seishun Monogatari (Vol. 4)",
+  "mean": 6.98,
+  "rank": 4399,
+  "popularity": 5046,
+  "num_list_users": 18139,
+  "num_scoring_users": 9578,
+  "nsfw": "white",
+  "created_at": "2013-02-06T12:56:01+00:00",
+  "updated_at": "2022-02-26T14:02:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 334,
+      "name": "Ordet"
+    },
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

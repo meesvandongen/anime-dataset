@@ -1,0 +1,52 @@
+{
+  "id": 52227,
+  "title": "iichiko Story",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1274/124927.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1274/124927l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "iichiko Story",
+    "ja": "iichiko story"
+  },
+  "start_date": "2021-06-24",
+  "synopsis": "Animated commercials for the iichiko beverage company.",
+  "rank": 20336,
+  "popularity": 20615,
+  "num_list_users": 182,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2022-06-27T18:02:58+00:00",
+  "updated_at": "2022-07-01T08:29:22+00:00",
+  "media_type": "special",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1575,
+      "name": "DR Movie"
+    },
+    {
+      "id": 1639,
+      "name": "Chiptune"
+    }
+  ]
+}

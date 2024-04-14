@@ -1,0 +1,79 @@
+{
+  "id": 2294,
+  "title": "Kidou Senshi Gundam SEED Destiny Special Edition",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1009/139349.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1009/139349l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kudakareta Sekai",
+      "The Broken World",
+      "Sorezore no Ken",
+      "Respective Swords",
+      "Sadame no Goka",
+      "The Hell Fire of Destiny",
+      "Jiyuu no Daishou",
+      "The Cost of Freedom"
+    ],
+    "en": "Mobile Suit Gundam SEED Destiny Special Edition",
+    "ja": "機動戦士ガンダムSEED DESTINYスペシャルエディション"
+  },
+  "start_date": "2006-05-02",
+  "end_date": "2006-05-02",
+  "synopsis": "Four TV Specials compiled from Kidou Senshi Gundam SEED Destiny series.\n\n1. The Broken World (Kudakareta Sekai)\n2. Respective Swords (Sorezore no Ken)\n3. The Hell Fire of Destiny (Sadame no Goka)\n4. The Cost of Freedom (Jiyuu no Daishou)\n\nLike the three specials of Gundam Seed, these specials feature new or changed scenes of the TV series. However unlike the TV series, which was told in the points of view of main characters Shinn Asuka and Kira Yamato, the Special Edition was told through the eyes of Athrun Zala, giving the movies a much more neutral point of view.\n\n(Source: Wikipedia)",
+  "mean": 7.22,
+  "rank": 3165,
+  "popularity": 5965,
+  "num_list_users": 11721,
+  "num_scoring_users": 4906,
+  "nsfw": "white",
+  "created_at": "2007-04-13T21:45:06+00:00",
+  "updated_at": "2024-02-04T16:17:37+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

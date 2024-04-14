@@ -1,0 +1,57 @@
+{
+  "id": 16419,
+  "title": "Dokidoki! Precure",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/46363.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/46363l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Doki Doki! Precure",
+      "Doki Doki! Pretty Cure"
+    ],
+    "en": "Glitter Force Doki Doki",
+    "ja": "ドキドキ! プリキュア"
+  },
+  "start_date": "2013-02-03",
+  "end_date": "2014-01-26",
+  "synopsis": "Middle schooler Mana Aida is known for her vivid passion and kind-hearted disposition, especially by her friends Rikka Hishikawa and Alice Yotsuba. While the girls are on a school field trip, otherworldly villains from the \"Trump Kingdom\" appear and create giant monsters from the civilians' selfish desires to cause havoc. \n\nIn the midst of finding a way to stop the destruction, Mana encounters \"Cure Sword,\" a mysterious Precure warrior. As Cure Sword engages in combat with the monsters, Mana meets Cure Sword's fairy allies, who tell her that she also has the ability to transform into a warrior herself. When Trump Kingdom's invaders begin to outnumber Cure Sword, Mana takes to the battleground with resolve. She partners with Sharuru, one of the fairies, and transforms into \"Cure Heart\"—the Precure of Love. \n\nIn her attempts to ally with Cure Sword, Mana ends up pulling Rikka and Alice into the fray, whom each partner with a fairy ally to transform into \"Cure Diamond\" and \"Cure Rosetta,\" respectively. Together, they battle against the Trump Kingdom invaders to protect the love in the world from being destroyed.\n\n[Written by MAL Rewrite]",
+  "mean": 6.74,
+  "rank": 5523,
+  "popularity": 4229,
+  "num_list_users": 27301,
+  "num_scoring_users": 12754,
+  "nsfw": "white",
+  "created_at": "2012-11-28T20:23:25+00:00",
+  "updated_at": "2023-01-08T06:01:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 49,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1480,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

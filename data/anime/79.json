@@ -1,0 +1,74 @@
+{
+  "id": 79,
+  "title": "Shuffle!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1290/133860.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1290/133860l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Shuffle!",
+    "ja": "SHUFFLE! (シャッフル!)"
+  },
+  "start_date": "2005-07-08",
+  "end_date": "2006-01-06",
+  "synopsis": "In present times, Gods and Demons coexist together with Humans after the door between each of these worlds had opened. Tsuchimi Rin is a normal young high school student attending Verbena Academy, spending his days living peacefully with his childhood friend Kaede. Unexpectedly, one day the King of Gods, the King of Demons and their families move into be Rin's next door neighbors. Apparently the daughter of the Gods, Sia, and the daughter of the demons, Nerine, are both deeply in love with Rin after having met him in the past. Along with his playful friendship with upperclassmen Asa and his encounter with the silent but cute Primula, Rin has much on his hands dealing with the affections of each of these girls. Based on the eroge by Navel.",
+  "mean": 7.02,
+  "rank": 4228,
+  "popularity": 866,
+  "num_list_users": 278897,
+  "num_scoring_users": 135801,
+  "nsfw": "gray",
+  "created_at": "2005-11-11T13:23:04+00:00",
+  "updated_at": "2023-09-19T10:21:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:30"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1450,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 163,
+      "name": "asread."
+    }
+  ]
+}

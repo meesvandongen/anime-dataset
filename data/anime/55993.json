@@ -1,0 +1,66 @@
+{
+  "id": 55993,
+  "title": "Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1690/137149.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1690/137149l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "A Record of Mortal's Journey to Immortality: Speeding in the Sea of Stars",
+    "ja": "凡人修仙传 星海飞驰篇 序章"
+  },
+  "start_date": "2023-07-30",
+  "end_date": "2023-08-20",
+  "synopsis": "",
+  "mean": 7.64,
+  "rank": 1371,
+  "popularity": 12952,
+  "num_list_users": 1134,
+  "num_scoring_users": 510,
+  "nsfw": "white",
+  "created_at": "2023-07-15T05:51:21+00:00",
+  "updated_at": "2023-08-25T14:31:06+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1409,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2065,
+      "name": "Original Force"
+    },
+    {
+      "id": 2471,
+      "name": "Wonder Cat Animation"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 15897,
+  "title": "Picchipichi Shizuku-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/47085.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/47085l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぴっちぴち♪しずくちゃん"
+  },
+  "start_date": "2012-10-05",
+  "end_date": "2013-09-27",
+  "synopsis": "Third season of Pururun! Shizuku-chan.",
+  "rank": 17204,
+  "popularity": 17029,
+  "num_list_users": 408,
+  "num_scoring_users": 68,
+  "nsfw": "white",
+  "created_at": "2012-10-11T05:05:56+00:00",
+  "updated_at": "2021-04-19T01:44:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "08:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 900,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

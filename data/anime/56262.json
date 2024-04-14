@@ -1,0 +1,47 @@
+{
+  "id": 56262,
+  "title": "Super Wings the Movie: Maximum Speed",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1421/137757.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1421/137757l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Super Wings: Maximum Speed",
+    "ja": "극장판 슈퍼윙스: 맥시멈 스피드"
+  },
+  "start_date": "2023-07-20",
+  "synopsis": "",
+  "rank": 13655,
+  "popularity": 22163,
+  "num_list_users": 111,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2023-08-13T08:30:07+00:00",
+  "updated_at": "2023-08-13T16:06:22+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5340,
+  "rating": "pg",
+  "studios": []
+}

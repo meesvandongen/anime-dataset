@@ -1,0 +1,55 @@
+{
+  "id": 2651,
+  "title": "Doraemon: Kaette Kita Doraemon (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/74057.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/74057l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Come Home Doraemon"
+    ],
+    "en": "Doraemon: Doraemon Comes Back (Movie)",
+    "ja": "ドラえもん 帰ってきたドラえもん"
+  },
+  "start_date": "1998-03-07",
+  "end_date": "1998-03-07",
+  "synopsis": "Nobita is running from an angry Gian, though is quickly able to escape when Gian trips. Nobita asks Doraemon for a gadget to fight back, but Doraemon instead snaps at him; Doraemon tells Nobita that he must return to the 22nd century, and won’t be returning. \n\n(Source: Doraemon Wiki)",
+  "mean": 6.9,
+  "rank": 4711,
+  "popularity": 10277,
+  "num_list_users": 2698,
+  "num_scoring_users": 1239,
+  "nsfw": "white",
+  "created_at": "2007-06-17T19:33:04+00:00",
+  "updated_at": "2024-01-22T12:45:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "winter"
+  },
+  "average_episode_duration": 1620,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

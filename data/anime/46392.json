@@ -1,0 +1,52 @@
+{
+  "id": 46392,
+  "title": "Fengyun Qi Dui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1275/123800.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1275/123800l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fengyunwonderful Team",
+    "ja": "风云奇队"
+  },
+  "start_date": "2011-06",
+  "end_date": "2011-08",
+  "synopsis": "",
+  "rank": 19535,
+  "popularity": 22290,
+  "num_list_users": 108,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2021-01-19T10:24:27+00:00",
+  "updated_at": "2022-05-15T10:04:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 690,
+  "rating": "pg",
+  "studios": []
+}

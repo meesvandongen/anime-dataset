@@ -1,0 +1,49 @@
+{
+  "id": 7048,
+  "title": "Crush Gear Nitro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1925/94230.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1925/94230l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クラッシュギアNitro"
+  },
+  "start_date": "2003-02-02",
+  "end_date": "2004-01-25",
+  "synopsis": "Story about a young boy name: Mahha Masaru, who dreamt of having a crush gear fight with the others even though he doesn't have his very own crush gear!\n\nOne day,  a sudden chance came to him and he got the legendary crush gear which look similer to the one that was used by Kouya Marino and finally he can go and paticipate in his own crush gear fight with his friends and foe!! ",
+  "mean": 5.99,
+  "rank": 9620,
+  "popularity": 11512,
+  "num_list_users": 1815,
+  "num_scoring_users": 707,
+  "nsfw": "white",
+  "created_at": "2009-08-20T09:30:13+00:00",
+  "updated_at": "2022-11-06T09:22:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2003,
+    "season": "winter"
+  },
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 4136,
+  "title": "Penguin Musume♥Heart",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/8270.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/8270l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Penguin Girl"
+    ],
+    "en": "Penguin Musume♥Heart",
+    "ja": "ペンギン娘♥はぁと"
+  },
+  "start_date": "2008-04-19",
+  "end_date": "2008-11-14",
+  "synopsis": "Sakura Nankyoku is a total otaku. Due to a fluke, she gets elected as her class' Student Council President. Everything takes off from there into a series of crazy misadventures revolving around Sakura, her family, and her classmates.\n\n(Source: ANN)",
+  "mean": 6.7,
+  "rank": 5730,
+  "popularity": 5115,
+  "num_list_users": 17444,
+  "num_scoring_users": 6455,
+  "nsfw": "white",
+  "created_at": "2008-03-20T21:58:51+00:00",
+  "updated_at": "2023-11-03T21:36:01+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 714,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 78,
+      "name": "Picture Magic"
+    }
+  ]
+}

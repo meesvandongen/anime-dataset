@@ -1,0 +1,46 @@
+{
+  "id": 8812,
+  "title": "Alice SOS",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/24323.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/24323l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アリスＳＯＳ"
+  },
+  "start_date": "1998-04-06",
+  "end_date": "1999-01-28",
+  "synopsis": "Takashi loves reading books and especially loves \"Alice's Adventures in Wonderland\". One day, he buys some used books, and he finds one book thrown in. When Takashi opens the book, \"the God of Math\" M-1 appeared. Takashi is told that Alice is kidnapped, and he's asked to rescue her by M-1. And Takashi goes on an adventure in Wonderland to rescue Alice. \n\n(Source: ANN) ",
+  "mean": 6.1,
+  "rank": 9085,
+  "popularity": 11084,
+  "num_list_users": 2098,
+  "num_scoring_users": 301,
+  "nsfw": "white",
+  "created_at": "2010-05-12T06:42:43+00:00",
+  "updated_at": "2021-08-23T01:54:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 28,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1185,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

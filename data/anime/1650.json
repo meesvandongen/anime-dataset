@@ -1,0 +1,81 @@
+{
+  "id": 1650,
+  "title": "Uchuu Senkan Yamato",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1908/94946.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1908/94946l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Space Battleship Yamato",
+      "Space Cruiser Yamato"
+    ],
+    "en": "Star Blazers: The Quest for Iscandar",
+    "ja": "宇宙戦艦ヤマト"
+  },
+  "start_date": "1974-10-06",
+  "end_date": "1975-03-30",
+  "synopsis": "In the year 2199, Earth is a mere shell of its former glory after a vicious bombardment by the Gamilas Empire. The inhabitants have been forced underground to escape the irradiated surface, but the deadly radiation inches closer and closer to the retreating population. With only one year before complete and utter extermination, time is fast running out and hope is in short supply.\n\nSo far, any attempt to escape or retaliate has been instantly annihilated by the alien empire—until an emergency transmission from the planet Iscandar in a neighboring galaxy offers a glimmer of hope to save the doomed planet. Covertly, Earth's Self Defense Force constructs a faster than light engine for a journey to Iscandar. Armed with new weapons and a determined crew of fearless navy men, the World War II era battleship Yamato is reborn as Space Battleship Yamato. She and her crew set out on a perilous journey across the stars to save their home and the entire human race.\n\n[Written by MAL Rewrite]",
+  "mean": 7.63,
+  "rank": 1404,
+  "popularity": 4118,
+  "num_list_users": 28953,
+  "num_scoring_users": 7660,
+  "nsfw": "white",
+  "created_at": "2006-11-10T01:25:47+00:00",
+  "updated_at": "2023-01-26T03:19:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1974,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "19:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

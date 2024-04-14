@@ -1,0 +1,61 @@
+{
+  "id": 52199,
+  "title": "One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1059/124766.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1059/124766l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Special",
+      "One Piece Recap"
+    ],
+    "en": "One Piece: A Comprehensive Anatomy! The Legend of Kozuki Oden!",
+    "ja": "大徹底解剖！光月おでん伝説！"
+  },
+  "start_date": "2022-06-26",
+  "end_date": "2022-06-26",
+  "synopsis": "Alongside Yamato, Momonosuke Kozuki recounts the great adventures of his father Oden—a renowned daimyo revered throughout the Land of Wano. From the days of Oden's youth to his last moments of glory, Momonosuke comes to understand the hardships and personal growth that his father experienced to eventually become the man he was.\n\n[Written by MAL Rewrite]",
+  "mean": 6.51,
+  "rank": 6834,
+  "popularity": 8676,
+  "num_list_users": 4639,
+  "num_scoring_users": 2132,
+  "nsfw": "white",
+  "created_at": "2022-06-24T18:11:16+00:00",
+  "updated_at": "2023-12-29T02:19:24+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 21085,
+  "title": "Witch Craft Works",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1949/112982.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1949/112982l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Witchcraft Works"
+    ],
+    "en": "Witch Craft Works",
+    "ja": "ウィッチクラフトワークス"
+  },
+  "start_date": "2014-01-05",
+  "end_date": "2014-03-23",
+  "synopsis": "Even though they shared the same bus every morning and sat next to each other in class, Ayaka Kagari, the \"Princess\" of Tougetsu High School, was nothing more than an unreachable idol for Honoka Takamiya. The horde of students who worshipped the \"Princess\" was merely a nuisance to Honoka, living his lazy, regular high school life.\n\nEverything seemed perfectly normal until, one day, Honoka is attacked out of the blue by a mysterious witch. To his surprise, Ayaka saves his life, revealing herself to be a fire witch on a covert mission to protect Honoka.\n\nFrom that fateful day, the ordinary life of Honoka is turned upside down as he is thrown into the war between the Workshop Witches, who strive to protect the citizens, and the Tower Witches, who desire to steal a power hidden within him.\n\n[Written by MAL Rewrite]",
+  "mean": 6.99,
+  "rank": 4350,
+  "popularity": 688,
+  "num_list_users": 339765,
+  "num_scoring_users": 159360,
+  "nsfw": "white",
+  "created_at": "2013-11-01T06:52:22+00:00",
+  "updated_at": "2023-09-04T11:29:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

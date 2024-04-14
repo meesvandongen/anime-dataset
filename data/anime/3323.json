@@ -1,0 +1,58 @@
+{
+  "id": 3323,
+  "title": "Kite Liberator",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/10228.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/10228l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "KITE LIBERATOR (カイト リベレイター)"
+  },
+  "start_date": "2008-03-21",
+  "end_date": "2008-03-21",
+  "synopsis": "In the previous series \"Kite,\" a killer—Sawa—suddenly disappears after she avenges her parents' death, and no one knows where she is.\n\nSeveral years later, a figure dances airily on the dark side of a big city. She is an angel of death, killing her victim gracefully and disappearing.\n\nMonaka is a normal high school student, though this quiet and modest life has a darker side. An angel of death is Monaka's other persona.",
+  "mean": 6.23,
+  "rank": 8431,
+  "popularity": 3953,
+  "num_list_users": 31790,
+  "num_scoring_users": 14228,
+  "nsfw": "white",
+  "created_at": "2007-10-29T21:10:34+00:00",
+  "updated_at": "2022-04-18T01:10:21+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 3480,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

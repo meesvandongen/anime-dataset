@@ -1,0 +1,39 @@
+{
+  "id": 58273,
+  "title": "Watashi no Saigo no Hi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1360/141724.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1360/141724l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Last Day",
+    "ja": "私の最後の日"
+  },
+  "start_date": "2022-03-10",
+  "end_date": "2022-03-10",
+  "synopsis": "Music video for the song Watashi no Saigo no Hi by Yourness.",
+  "popularity": 24404,
+  "num_list_users": 72,
+  "num_scoring_users": 36,
+  "nsfw": "white",
+  "created_at": "2024-03-01T05:13:15+00:00",
+  "updated_at": "2024-03-02T08:51:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 329,
+  "rating": "g",
+  "studios": []
+}

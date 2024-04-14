@@ -1,0 +1,56 @@
+{
+  "id": 3877,
+  "title": "Sasurai no Shoujo Nell",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1496/101490.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1496/101490l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Little Nell"
+    ],
+    "en": "Nell the Wandering Girl",
+    "ja": "さすらいの少女ネル"
+  },
+  "start_date": "1979-10-25",
+  "end_date": "1980-04-24",
+  "synopsis": "Nell is a young girl living with her grandfather, Mr Trent, the owner of a shop in London. As he couldn't payback a loan he made, he has to flee with Nell. They decide to search for Nell's mother, who is living somewhere in Great Britain...",
+  "mean": 6.42,
+  "rank": 7370,
+  "popularity": 11511,
+  "num_list_users": 1815,
+  "num_scoring_users": 416,
+  "nsfw": "white",
+  "created_at": "2008-02-05T01:12:11+00:00",
+  "updated_at": "2021-10-20T19:16:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1979,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "18:45"
+  },
+  "source": "novel",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 315,
+      "name": "DAX Production"
+    }
+  ]
+}

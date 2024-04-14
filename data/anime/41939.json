@@ -1,0 +1,45 @@
+{
+  "id": 41939,
+  "title": "Halzion",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1236/107471.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1236/107471l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ハルジオン"
+  },
+  "start_date": "2020-05-11",
+  "end_date": "2020-05-11",
+  "synopsis": "",
+  "mean": 7.15,
+  "popularity": 12529,
+  "num_list_users": 1283,
+  "num_scoring_users": 793,
+  "nsfw": "white",
+  "created_at": "2020-05-11T20:39:22+00:00",
+  "updated_at": "2021-10-22T10:57:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 204,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2570,
+      "name": "Ijigen Tokyo"
+    }
+  ]
+}

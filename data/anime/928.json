@@ -1,0 +1,60 @@
+{
+  "id": 928,
+  "title": "Transformers Galaxy Force",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/87406.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/87406l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Galaxy Force"
+    ],
+    "en": "Transformers Cybertron",
+    "ja": "トランスフォーマー ギャラクシーフォース"
+  },
+  "start_date": "2005-01-08",
+  "end_date": "2005-12-31",
+  "synopsis": "Forced to abandon their home planet of Cybertron due to the threat of a black hole, Optimus Prime prepares to lead his Autobot warriors to Earth. Just as they are leaving, the Autobots are confronted by Vector Prime, who warns them of the threat to the galaxy if the four Cyber Planet Keys are not gathered in time. However, Megatron has plans of his own for the universe. As they embark on the search, they travel to new planets which are inhabited by different Transformer races as well as the Autobots who lead these planets.",
+  "mean": 6.67,
+  "rank": 5907,
+  "popularity": 7578,
+  "num_list_users": 6536,
+  "num_scoring_users": 3378,
+  "nsfw": "white",
+  "created_at": "2006-04-21T21:01:01+00:00",
+  "updated_at": "2022-11-23T21:04:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "08:00"
+  },
+  "source": "other",
+  "average_episode_duration": 1494,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

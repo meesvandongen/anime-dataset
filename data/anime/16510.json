@@ -1,0 +1,48 @@
+{
+  "id": 16510,
+  "title": "Shin Shounan Bakusouzoku Arakure Knight",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/44652.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/44652l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Shonan Bakusozoku Arakure Knight",
+      "Arakure Knight"
+    ],
+    "en": "",
+    "ja": "新・湘南爆走族 荒くれKNIGHT"
+  },
+  "start_date": "1997-09-12",
+  "end_date": "1998-09-11",
+  "synopsis": "",
+  "mean": 5.9,
+  "rank": 9993,
+  "popularity": 13995,
+  "num_list_users": 852,
+  "num_scoring_users": 133,
+  "nsfw": "white",
+  "created_at": "2012-12-07T11:26:54+00:00",
+  "updated_at": "2021-12-26T16:54:38+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2466,
+  "rating": "r+",
+  "studios": []
+}

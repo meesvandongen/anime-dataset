@@ -1,0 +1,54 @@
+{
+  "id": 9166,
+  "title": "Attack No.1: Namida no Sekai Senshuken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1490/135448.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1490/135448l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Attack No.1 Movie 3"
+    ],
+    "en": "",
+    "ja": "アタックNo.1 涙の世界選手権"
+  },
+  "start_date": "1970-12-19",
+  "end_date": "1970-12-19",
+  "synopsis": "The third Attack No.1 recap film. This covers the championship arc in New York where the All Japan team plays against the Soviet Union.",
+  "mean": 6.27,
+  "rank": 8197,
+  "popularity": 13253,
+  "num_list_users": 1036,
+  "num_scoring_users": 309,
+  "nsfw": "white",
+  "created_at": "2010-07-09T23:11:06+00:00",
+  "updated_at": "2021-10-16T20:25:57+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1970,
+    "season": "fall"
+  },
+  "average_episode_duration": 3300,
+  "rating": "pg_13",
+  "studios": []
+}

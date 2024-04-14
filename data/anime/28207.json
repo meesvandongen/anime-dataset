@@ -1,0 +1,56 @@
+{
+  "id": 28207,
+  "title": "Ketsuekigata-kun! 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/70069.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/70069l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ketsuekigata-kun! Second Season"
+    ],
+    "en": "",
+    "ja": "血液型くん！2"
+  },
+  "start_date": "2015-01-08",
+  "end_date": "2015-03-26",
+  "synopsis": "A-gata-kun, B-gata-kun, O-gata-kun, and AB-gata-kun are back again to explore more cultural stereotypes associated with blood type! With assistance from their feminine counterparts, the blood types delve into a range of topics related to relationships, such as one's own charms, how to react to a mediocre gift, and... How to properly hide adult content on a computer? Whether they are stranded on an uninhabited island or sharing a dorm room together, no two blood types will react the same way to any of these humorous yet relatable situations.\n\n[Written by MAL Rewrite]",
+  "mean": 6.38,
+  "rank": 7580,
+  "popularity": 8299,
+  "num_list_users": 5237,
+  "num_scoring_users": 2587,
+  "nsfw": "white",
+  "created_at": "2014-10-30T09:52:52+00:00",
+  "updated_at": "2022-01-01T20:09:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:55"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 128,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    },
+    {
+      "id": 1271,
+      "name": "Assez Finaud Fabric"
+    }
+  ]
+}

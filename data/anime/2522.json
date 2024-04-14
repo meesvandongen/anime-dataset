@@ -1,0 +1,62 @@
+{
+  "id": 2522,
+  "title": "Rakushou! Hyper Doll",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/29206.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/29206l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hyperdoll: Mew & Mica the Easy Fighter",
+      "Rakusho! Hyper Doll",
+      "Hyper Dolls"
+    ],
+    "en": "",
+    "ja": "楽勝! ハイパードール"
+  },
+  "start_date": "1995-09-25",
+  "end_date": "1995-11-25",
+  "synopsis": "Mew and Mica are alien androids sent by their boss to defend the Earth. Unfortunately for our planet, they are the laziest superheroines you will ever meet. Now most superheroes would drop whatever they're doing, transform, and proceed to kick monsters' butts... but these two would do no such thing. Mew and Mica just can't let their duties interfere with their ice cream, arguments, or whatever activities they happen to be engaged in at the time. When they are not Hyper Dolls they seem to be just ordinary, rather cute school girls, lusted after by the boys.\n(Source: ANN)",
+  "mean": 5.88,
+  "rank": 10125,
+  "popularity": 9901,
+  "num_list_users": 3059,
+  "num_scoring_users": 1223,
+  "nsfw": "white",
+  "created_at": "2007-05-25T18:58:09+00:00",
+  "updated_at": "2021-04-28T03:58:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1995,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1652,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 110,
+      "name": "Triangle Staff"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 52752,
+  "title": "Aoharu Snatch",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1164/127006.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1164/127006l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アオハルスナッチ"
+  },
+  "start_date": "2023-02-17",
+  "synopsis": "",
+  "mean": 5.86,
+  "popularity": 10416,
+  "num_list_users": 2591,
+  "num_scoring_users": 721,
+  "nsfw": "gray",
+  "created_at": "2022-08-14T21:20:12+00:00",
+  "updated_at": "2022-08-17T06:37:51+00:00",
+  "media_type": "ova",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1200,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2530,
+      "name": "Blue bread"
+    }
+  ]
+}

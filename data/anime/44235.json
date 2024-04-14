@@ -1,0 +1,58 @@
+{
+  "id": 44235,
+  "title": "Pui Pui Molcar",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1484/119197.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1484/119197l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "PUI PUI モルカー"
+  },
+  "start_date": "2021-01-05",
+  "end_date": "2021-03-23",
+  "synopsis": "Due to an adorable evolutionary miracle, guinea pigs have become furry automobiles known as \"Molcars.\" Now, drivers can enjoy the fluffy interior of their vehicles while fulfilling their every transportation need. However,  Molcars are not simply lettuce-fueled machines; they are also sentient creatures with their own worries and desires. Whether in their drivers' presence or among each other, these motorized rodents are swept up into many wild and eventful situations—the likes of which only a Molcar could wind up in.\n\n[Written by MAL Rewrite]",
+  "mean": 8,
+  "rank": 639,
+  "popularity": 5225,
+  "num_list_users": 16513,
+  "num_scoring_users": 9897,
+  "nsfw": "white",
+  "created_at": "2020-11-30T20:39:04+00:00",
+  "updated_at": "2024-01-23T03:42:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "07:30"
+  },
+  "source": "other",
+  "average_episode_duration": 160,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

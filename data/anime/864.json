@@ -1,0 +1,58 @@
+{
+  "id": 864,
+  "title": "Kidou Senshi Gundam SEED MSV Astray",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/864.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/864l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Gundam SEED MSV Astray",
+    "ja": "機動戦士ガンダムSEED MSV ASTRAY"
+  },
+  "start_date": "2004-03-01",
+  "end_date": "2004-07-01",
+  "synopsis": "In the first short, Lowe Gear and the Junk Guild make a stop at an mobile suit parts auction on Earth where Lowe purchases a head taken from a modified BuCUE suit which, when attached to the arm of his Red Frame Astray, acts as a dual beam saber. Lowe tries to decrypt some combat data contained in the head, but is shortly engaged by, and goes into combat with, several ZAFT suits including a CGUE DEEP Arms. In the second short, Blue Frame pilot Gai Murakamo engages and, with the help of his fellow Serpent Tail mercenaries, traps a GINN High Mobility Type. He then faces off with the legendary Edward Harrelson, who pilots a Sword Calamity Gundam and has just finished destroying a fleet of ZAFT ships.\n\n(Source: ANN)",
+  "mean": 6.32,
+  "rank": 7916,
+  "popularity": 5736,
+  "num_list_users": 12975,
+  "num_scoring_users": 5876,
+  "nsfw": "white",
+  "created_at": "2006-04-11T21:01:26+00:00",
+  "updated_at": "2022-11-07T16:37:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 329,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

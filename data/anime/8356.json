@@ -1,0 +1,56 @@
+{
+  "id": 8356,
+  "title": "Himitsukessha Taka no Tsume The Movie II: Watashi wo Aishita Kuro Oolong-Cha",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/22015.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/22015l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eagle Talon The Movie 2",
+      "Himitsukessha Taka no Tsume The Movie 2: Watashi wo Aishita Kuro Oolong-Cha"
+    ],
+    "en": "",
+    "ja": "秘密結社鷹の爪 THE MOVIE II　私を愛した黒烏龍茶"
+  },
+  "start_date": "2008-05-31",
+  "end_date": "2008-05-31",
+  "synopsis": "The second Eagle Talon movie.",
+  "mean": 5.36,
+  "rank": 11989,
+  "popularity": 15346,
+  "num_list_users": 579,
+  "num_scoring_users": 149,
+  "nsfw": "white",
+  "created_at": "2010-03-11T05:39:26+00:00",
+  "updated_at": "2018-02-18T08:14:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

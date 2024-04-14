@@ -1,0 +1,60 @@
+{
+  "id": 1824,
+  "title": "Hadashi no Gen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1873/98756.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1873/98756l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gen of Hiroshima"
+    ],
+    "en": "Barefoot Gen",
+    "ja": "はだしのゲン"
+  },
+  "start_date": "1983-07-21",
+  "end_date": "1983-07-21",
+  "synopsis": "In 1945, World War II is at its peak. As Japanese cities are fire-bombed and the nation is cornered by US forces, Japan is collapsing under the immense pressure. Gen Nakaoka, a bold, free-spirited young boy, lives in Hiroshima. Struggling with wartime scarcity and barely making ends meet, Gen and his family are hopeful that the conflict will soon end with Japan's imminent defeat and their city unscathed.\n\nHowever, unbeknownst to them, their fate is already sealed with the impending dropping of \"Little Boy,\" the US atomic bomb set to cause the devastating cataclysm that will forever change Japanese society.\n\n[Written by MAL Rewrite]",
+  "mean": 7.77,
+  "rank": 1045,
+  "popularity": 2982,
+  "num_list_users": 54376,
+  "num_scoring_users": 20736,
+  "nsfw": "white",
+  "created_at": "2007-01-06T20:00:36+00:00",
+  "updated_at": "2024-02-06T22:05:48+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 4980,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

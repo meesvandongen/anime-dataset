@@ -1,0 +1,61 @@
+{
+  "id": 8358,
+  "title": "Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/22017.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/22017l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Crayon Shin-chan: Action Kamen vs. Haigure Maou",
+      "Crayon Shin-chan: Action Kamen vs. Haigure Devil"
+    ],
+    "en": "",
+    "ja": "映画 クレヨンしんちゃん　アクション仮面ＶＳハイグレ魔王"
+  },
+  "start_date": "1993-07-24",
+  "end_date": "1993-07-24",
+  "synopsis": "By finding a rare Action Kamen card, Shinnosuke Nohara and his family end up being chosen to go to a parallel world and help foil an alien invasion that is occurring over there. \n\n(Source: ANN) ",
+  "mean": 7.03,
+  "rank": 4178,
+  "popularity": 6655,
+  "num_list_users": 8967,
+  "num_scoring_users": 5451,
+  "nsfw": "white",
+  "created_at": "2010-03-11T05:55:32+00:00",
+  "updated_at": "2022-04-13T02:46:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "summer"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 5580,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

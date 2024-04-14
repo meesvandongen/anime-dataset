@@ -1,0 +1,58 @@
+{
+  "id": 43735,
+  "title": "Cue!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1039/120173.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1039/120173l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "CUE!"
+  },
+  "start_date": "2022-01-08",
+  "end_date": "2022-06-25",
+  "synopsis": "As a new agency, AiRBLUE's roster consists of voice actresses with absolutely no experience. Expecting to hone their skills and build courage at a gradual pace, the girls are taken aback when the head of their agency, Masaki Ootori, announces that they will be partaking in an audition for Bloomball—a popular sports manga receiving an anime adaptation. Despite all odds being stacked against them, each of the girls is now presented with a momentous chance to make their debut in the unrelenting world of voice acting. \n\n[Written by MAL Rewrite]",
+  "mean": 6.79,
+  "rank": 5272,
+  "popularity": 4349,
+  "num_list_users": 25834,
+  "num_scoring_users": 7556,
+  "nsfw": "white",
+  "created_at": "2020-11-01T11:25:52+00:00",
+  "updated_at": "2023-07-27T19:57:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 75,
+      "name": "Showbiz"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "game",
+  "average_episode_duration": 1441,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    },
+    {
+      "id": 894,
+      "name": "Graphinica"
+    }
+  ]
+}

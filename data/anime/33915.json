@@ -1,0 +1,46 @@
+{
+  "id": 33915,
+  "title": "Kitty-chan wo Sagase! Toyama-shi Stamp Rally",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1598/131619.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1598/131619l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Toyama City Stamp Rally: The Search for Hello Kitty!",
+    "ja": "キティちゃんを探せ！富山市スタンプラリー"
+  },
+  "start_date": "2016-07-20",
+  "end_date": "2016-07-20",
+  "synopsis": "Kitty-chan briefly goes missing.",
+  "mean": 5.21,
+  "rank": 12345,
+  "popularity": 15300,
+  "num_list_users": 584,
+  "num_scoring_users": 176,
+  "nsfw": "white",
+  "created_at": "2016-08-21T03:06:59+00:00",
+  "updated_at": "2016-08-21T03:07:34+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 137,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

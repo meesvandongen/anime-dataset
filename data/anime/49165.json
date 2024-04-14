@@ -1,0 +1,54 @@
+{
+  "id": 49165,
+  "title": "Bright: Samurai Soul",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1024/119043.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1024/119043l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bright: Samurai Soul",
+    "ja": "ブライト: サムライソウル"
+  },
+  "start_date": "2021-10-12",
+  "end_date": "2021-10-12",
+  "synopsis": "In the early years of Japan's Meiji Restoration, a human ronin must unite with an orc assassin to save an elf orphan from their common adversary.\n\n(Source: Netflix)",
+  "mean": 5.36,
+  "rank": 11985,
+  "popularity": 8219,
+  "num_list_users": 5377,
+  "num_scoring_users": 2015,
+  "nsfw": "white",
+  "created_at": "2021-06-11T04:13:32+00:00",
+  "updated_at": "2022-04-01T15:42:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4800,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2265,
+      "name": "ARECT"
+    }
+  ]
+}

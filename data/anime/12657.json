@@ -1,0 +1,50 @@
+{
+  "id": 12657,
+  "title": "Tongari Boushi no Memole: Marielle no Housekibako",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1847/120637.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1847/120637l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Memoru in the Pointed Hat: Marielle's Jewelbox",
+      "Tongari Boushi no Memoru: Marielle no Housekibako",
+      "Wee Wendy"
+    ],
+    "en": "",
+    "ja": "とんがり帽子のメモル マリエルの宝石箱"
+  },
+  "start_date": "1985-07-21",
+  "end_date": "1985-07-21",
+  "synopsis": "Marielle is a young girl currently living in a remote house deep in the mountains between Switzerland and France to recover her health. The story is told through the memories of her adventures with Memoru, a tiny alien girl who lives on a nearby island. Her people are gnome-like beings who are stuck on Earth after their spaceship crashed here.",
+  "mean": 6.42,
+  "rank": 7380,
+  "popularity": 14409,
+  "num_list_users": 752,
+  "num_scoring_users": 204,
+  "nsfw": "white",
+  "created_at": "2012-01-09T11:08:45+00:00",
+  "updated_at": "2023-10-06T08:24:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 4500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

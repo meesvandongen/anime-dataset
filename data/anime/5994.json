@@ -1,0 +1,53 @@
+{
+  "id": 5994,
+  "title": "Midoriyama Koukou Koushien-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/75589.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/75589l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Midoriyama Koukou Koushien hen"
+    ],
+    "en": "",
+    "ja": "緑山高校 甲子園編"
+  },
+  "start_date": "1989-09-25",
+  "end_date": "1990-12-16",
+  "synopsis": "The story of students of a baseball team from Midoriyama High School, who will participate in the 66th National Championship Tournament of Senior High School Baseball in Japan. ",
+  "rank": 16425,
+  "popularity": 15181,
+  "num_list_users": 604,
+  "num_scoring_users": 115,
+  "nsfw": "white",
+  "created_at": "2009-01-30T21:49:39+00:00",
+  "updated_at": "2013-04-11T15:09:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "average_episode_duration": 2520,
+  "rating": "pg_13",
+  "studios": []
+}

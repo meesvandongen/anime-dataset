@@ -1,0 +1,52 @@
+{
+  "id": 4991,
+  "title": "Wakakusa Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/60945.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/60945l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Little Women (1980)"
+    ],
+    "en": "Little Women",
+    "ja": "若草物語"
+  },
+  "start_date": "1980-05-03",
+  "end_date": "1980-05-03",
+  "synopsis": "This is a TV special based on the novel, Little Women, by Louisa May Alcott.  It covers a year in the lives of four sisters, Meg, Jo, Beth, and Amy as their father is away fighting in the American Civil War.",
+  "mean": 6.16,
+  "rank": 8769,
+  "popularity": 12400,
+  "num_list_users": 1337,
+  "num_scoring_users": 445,
+  "nsfw": "white",
+  "created_at": "2008-07-30T10:13:10+00:00",
+  "updated_at": "2024-02-06T16:22:49+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1980,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 4080,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

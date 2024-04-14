@@ -1,0 +1,60 @@
+{
+  "id": 53618,
+  "title": "Wan Jie Zhizun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1027/131166.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1027/131166l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Emperor of Myriad Realms",
+      "Myriad Realm Supreme"
+    ],
+    "en": "",
+    "ja": "万界至尊"
+  },
+  "start_date": "2022-11-24",
+  "end_date": "2023-05-03",
+  "synopsis": "Seven years ago, Chu Yunfei was struck by a dramatic change in his family and was stranded in the Pill King Valley in Zhongzhou. He returned to his homeland to take revenge and vowed to find out the truth.",
+  "mean": 6.27,
+  "rank": 8247,
+  "popularity": 14684,
+  "num_list_users": 687,
+  "num_scoring_users": 162,
+  "nsfw": "white",
+  "created_at": "2022-11-16T03:40:57+00:00",
+  "updated_at": "2023-09-28T14:58:32+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "average_episode_duration": 656,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2042,
+      "name": "Ruo Hong Culture"
+    }
+  ]
+}

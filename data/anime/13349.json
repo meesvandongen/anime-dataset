@@ -1,0 +1,64 @@
+{
+  "id": 13349,
+  "title": "Chouyaku Hyakuninisshu: Uta Koi.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/42007.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/42007l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Utakoi."
+    ],
+    "en": "Utakoi",
+    "ja": "超訳百人一首 うた恋い。"
+  },
+  "start_date": "2012-07-03",
+  "end_date": "2012-09-25",
+  "synopsis": "Uta Koi tells the \"super-liberal interpretation\" of the Hyakuninisshu anthology compiled during Japan's Heian period of 100 romantic poems from 100 different poets such as The Tale of Genji's Murasaki Shikibu.",
+  "mean": 7.43,
+  "rank": 2122,
+  "popularity": 4055,
+  "num_list_users": 29900,
+  "num_scoring_users": 8646,
+  "nsfw": "white",
+  "created_at": "2012-03-20T01:48:27+00:00",
+  "updated_at": "2023-06-28T18:03:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 333,
+      "name": "TYO Animations"
+    }
+  ]
+}

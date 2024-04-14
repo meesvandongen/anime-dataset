@@ -1,0 +1,54 @@
+{
+  "id": 3754,
+  "title": "Tongari Boushi no Memole",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/36819.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/36819l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Memoru in the Pointed Hat",
+      "Tongari Boushi no Memoru",
+      "Wee Wendy"
+    ],
+    "en": "",
+    "ja": "とんがり帽子のメモル"
+  },
+  "start_date": "1984-03-03",
+  "end_date": "1985-03-03",
+  "synopsis": "Memoru is one of 245 people who came to earth from the Riruru Star when their ship had an emergency crash-landing on earth. Memoru's people have such tiny bodies that they could stand on a human's palm. One day she hears lovely music, and she follows its source and comes upon a huge house she hasn't seen before to find a girl taller than her playing on the piano. Memoru visited her again secretly with her friends Popitu, Rupangu, and Pi, but the human girl, Marielle, seemed sick and likely to die any moment. Feeling sad for the girl, Memoru's tear drops on the girl's lips. The girl gets better and a strong friendship starts between them. \n\n(Source: ANN)",
+  "mean": 7.23,
+  "rank": 3118,
+  "popularity": 9750,
+  "num_list_users": 3221,
+  "num_scoring_users": 1134,
+  "nsfw": "white",
+  "created_at": "2008-01-21T19:19:20+00:00",
+  "updated_at": "2023-09-18T00:45:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 1984,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1468,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

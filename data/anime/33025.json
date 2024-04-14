@@ -1,0 +1,72 @@
+{
+  "id": 33025,
+  "title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/82164.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/82164l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Ginga Kikoutai Majestic Prince"
+    ],
+    "en": "Majestic Prince The Movie: Genetic Awakening",
+    "ja": "劇場版 銀河機攻隊 マジェスティックプリンス 覚醒の遺伝子"
+  },
+  "start_date": "2016-11-04",
+  "end_date": "2016-11-04",
+  "synopsis": "The alien Wulgaru's last assault against humanity was foiled by the heroic actions of the genetically enhanced humans known as the Evolved Children in their advanced AHSMB battle armor, but now a new attack has been launched against Earth under an even deadlier champion, Diorna, created from the fusion of DNA from two Wulgaru Royals.\n\nUnfortunately, Izuru Hitachi, the leader of Team Rabbits who defeated the Wulgaru Royal Jiart, is still out of action and recovering, so the task of marshalling the Majestic Princes and stopping Diorna falls upon the unready shoulders of Toshikazu Asagi. Together with the remaining members of Team Rabbits and the recently created Team Fawn, it’s up to Asagi to hold the line against the most ruthless adversary yet.\n\n\n(Source: Anilist)",
+  "mean": 7.13,
+  "rank": 3655,
+  "popularity": 7388,
+  "num_list_users": 6941,
+  "num_scoring_users": 2491,
+  "nsfw": "white",
+  "created_at": "2016-03-26T02:37:10+00:00",
+  "updated_at": "2021-12-20T13:34:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 4674,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1109,
+      "name": "Orange"
+    },
+    {
+      "id": 1569,
+      "name": "Seven Arcs Pictures"
+    }
+  ]
+}

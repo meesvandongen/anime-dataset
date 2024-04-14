@@ -1,0 +1,39 @@
+{
+  "id": 58100,
+  "title": "Hakushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1337/141364.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1337/141364l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "白紙"
+  },
+  "start_date": "2020-12-13",
+  "end_date": "2020-12-13",
+  "synopsis": "Music video for the song Hakushi by Natsuki Aoya.",
+  "popularity": 25370,
+  "num_list_users": 61,
+  "num_scoring_users": 29,
+  "nsfw": "white",
+  "created_at": "2024-02-12T14:38:12+00:00",
+  "updated_at": "2024-02-23T13:02:52+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 166,
+  "rating": "pg_13",
+  "studios": []
+}

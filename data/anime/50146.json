@@ -1,0 +1,46 @@
+{
+  "id": 50146,
+  "title": "Sokkuri Oyako",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1035/118836.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1035/118836l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Just Like Mother and Daughter"
+    ],
+    "en": "",
+    "ja": "そっくり母娘"
+  },
+  "start_date": "1992-08",
+  "end_date": "1992-08",
+  "synopsis": "A music video that aired as part of NHK's Minna no Uta program. The song is by Fusako Amachi.",
+  "popularity": 20954,
+  "num_list_users": 162,
+  "num_scoring_users": 88,
+  "nsfw": "white",
+  "created_at": "2021-10-15T03:04:40+00:00",
+  "updated_at": "2021-11-22T19:52:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 152,
+  "rating": "g",
+  "studios": []
+}

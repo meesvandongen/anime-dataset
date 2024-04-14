@@ -1,0 +1,42 @@
+{
+  "id": 41976,
+  "title": "Chanbara Johnny",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1202/131524.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1202/131524l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chambara Johnny",
+      "Swordfighting Johnny"
+    ],
+    "en": "",
+    "ja": "チャンバラジョニー feat. 初音ミク"
+  },
+  "start_date": "2015-12-16",
+  "end_date": "2015-12-16",
+  "synopsis": "Music video for the song Chanbara Johnny from DECO*27.",
+  "popularity": 20566,
+  "num_list_users": 184,
+  "num_scoring_users": 100,
+  "nsfw": "white",
+  "created_at": "2020-05-13T23:30:28+00:00",
+  "updated_at": "2022-11-28T09:47:49+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 207,
+  "rating": "pg_13",
+  "studios": []
+}

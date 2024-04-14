@@ -1,0 +1,39 @@
+{
+  "id": 57561,
+  "title": "Barber Shop feat. Aohi Rame",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1671/140429.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1671/140429l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "BARBER SHOP feat.青妃らめ"
+  },
+  "start_date": "2023-12-15",
+  "end_date": "2023-12-15",
+  "synopsis": "Music video for the song Barber Shop by FAKE TYPE., featuring Aohi Rame.",
+  "popularity": 23980,
+  "num_list_users": 78,
+  "num_scoring_users": 38,
+  "nsfw": "white",
+  "created_at": "2023-12-18T00:08:56+00:00",
+  "updated_at": "2024-01-13T09:14:40+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 172,
+  "rating": "pg_13",
+  "studios": []
+}

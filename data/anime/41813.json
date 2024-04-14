@@ -1,0 +1,53 @@
+{
+  "id": 41813,
+  "title": "Kaijuu Step Wandabada 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1934/109054.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1934/109054l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "かいじゅうステップ ワンダバダ"
+  },
+  "start_date": "2020-09-25",
+  "end_date": "2021-03-26",
+  "synopsis": "Second season of Kaijuu Step Wandabada.",
+  "rank": 15406,
+  "popularity": 19499,
+  "num_list_users": 243,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2020-04-28T08:31:48+00:00",
+  "updated_at": "2021-03-28T14:47:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:20"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 472,
+      "name": "Usagi Ou"
+    }
+  ]
+}

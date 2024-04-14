@@ -1,0 +1,40 @@
+{
+  "id": 50371,
+  "title": "Ca' Foscari Cinema",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1005/119436.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1005/119436l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ベネチア大学映画先付"
+  },
+  "start_date": "2011-02-09",
+  "end_date": "2011-02-09",
+  "synopsis": "Shinya Tsukamoto’s animated promo for the Ca' Foscari Cinema in Venice.\n\n(Source: Letterboxd)",
+  "rank": 18684,
+  "popularity": 20402,
+  "num_list_users": 193,
+  "num_scoring_users": 89,
+  "nsfw": "white",
+  "created_at": "2021-11-15T10:29:06+00:00",
+  "updated_at": "2022-02-28T20:58:52+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 24,
+  "rating": "r+",
+  "studios": []
+}

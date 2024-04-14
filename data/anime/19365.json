@@ -1,0 +1,72 @@
+{
+  "id": 19365,
+  "title": "Samurai Flamenco",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/54319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/54319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Samumenco"
+    ],
+    "en": "Samurai Flamenco",
+    "ja": "サムライフラメンコ"
+  },
+  "start_date": "2013-10-11",
+  "end_date": "2014-03-28",
+  "synopsis": "\"A hero will never give up, never hide, never be defeated and never accept evil!\"\n\nFirmly believing these words, Masayoshi Hazama has been obsessed with superhero shows since childhood. By day, he earns his living as a famous model, and by night, he becomes the gallant hero Samurai Flamenco. Armed with only his superhero costume, he seeks to bring justice to the city and faces anybody who tries to break the law—even rebellious juveniles and people who litter on the street.\n\nMasayoshi's heroic antics later catch the attention of the public, leading to the fateful discovery of his identity by policeman Hidenori Gotou. Although initially telling Masayoshi to leave the crime-busting activities to the police, Gotou ends up joining him in his antics. However, things soon escalate from preventing littering and petty thefts to bizarre adventures that involve even the fate of the world. Together with their newfound comrades, Masayoshi and Gotou embark on a battle with the world and themselves in order to find the true meaning of being a hero—with or without superpowers.\n\n[Written by MAL Rewrite]",
+  "mean": 6.88,
+  "rank": 4810,
+  "popularity": 1708,
+  "num_list_users": 130891,
+  "num_scoring_users": 47976,
+  "nsfw": "white",
+  "created_at": "2013-07-05T14:34:03+00:00",
+  "updated_at": "2024-03-30T00:41:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:20"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    }
+  ]
+}

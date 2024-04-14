@@ -1,0 +1,40 @@
+{
+  "id": 50008,
+  "title": "Aitsura Zenin Dousoukai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1701/118525.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1701/118525l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Inside Joke",
+    "ja": "あいつら全員同窓会"
+  },
+  "start_date": "2021-06-18",
+  "end_date": "2021-06-18",
+  "synopsis": "Music video animated by Hamono Eirina for the song Aitsura Zenin Dousoukai by Zutomayo.",
+  "mean": 6.28,
+  "popularity": 15765,
+  "num_list_users": 525,
+  "num_scoring_users": 286,
+  "nsfw": "white",
+  "created_at": "2021-10-04T06:56:08+00:00",
+  "updated_at": "2022-02-20T11:33:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 255,
+  "rating": "g",
+  "studios": []
+}

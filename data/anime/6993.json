@@ -1,0 +1,49 @@
+{
+  "id": 6993,
+  "title": "Koneko no Rakugaki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1937/121362.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1937/121362l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kitten's Scribbling",
+      "Kitty's Graffiti"
+    ],
+    "en": "",
+    "ja": "こねこのらくがき"
+  },
+  "start_date": "1957-05-13",
+  "end_date": "1957-05-13",
+  "synopsis": "Yasuji Mori's short about a kitten drawing pictures on a wall.",
+  "mean": 5.76,
+  "rank": 10618,
+  "popularity": 10885,
+  "num_list_users": 2240,
+  "num_scoring_users": 1133,
+  "nsfw": "white",
+  "created_at": "2009-08-15T23:04:38+00:00",
+  "updated_at": "2021-11-14T14:46:16+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1957,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 780,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 51305,
+  "title": "FLCL: Shoegaze",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1540/121528.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1540/121528l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2023-10-01",
+  "end_date": "2023-10-15",
+  "synopsis": "The anime will take place 10 years after FLCL Alternative and will center on a high school boy and girl.",
+  "mean": 6.18,
+  "rank": 8649,
+  "popularity": 5015,
+  "num_list_users": 18470,
+  "num_scoring_users": 3337,
+  "nsfw": "gray",
+  "created_at": "2022-03-18T02:08:17+00:00",
+  "updated_at": "2023-10-15T18:53:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 1567,
+      "name": "Nut"
+    },
+    {
+      "id": 2034,
+      "name": "Akatsuki"
+    }
+  ]
+}

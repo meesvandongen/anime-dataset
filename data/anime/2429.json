@@ -1,0 +1,58 @@
+{
+  "id": 2429,
+  "title": "Unico: Mahou no Shima e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1850/110746.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1850/110746l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Fantastic Adventure of Unico 2",
+      "Unico Movie 2",
+      "Unico: To the Magic Island"
+    ],
+    "en": "Unico in the Island of Magic",
+    "ja": "ユニコ 魔法の島へ"
+  },
+  "start_date": "1983-07-16",
+  "end_date": "1983-07-16",
+  "synopsis": "Based on \"Unico and the Kingdom of the Sun,\" which was newly written as a theater version, this animated film features a battle between the wizard Kukuruku and Unico. Kukuruku builds a castle using dolls transformed from men as building parts. The story revolves around the sorrow and terror of men who have been transfigured into dolls, and a girl named Cherry who wishes to recover the kindness in her brother, who is a student of Kukuruku. This work reminds us of the fact that \"transformation\" or \"transfiguration\" - favorite themes of Tezuka Osamu - involves not only material aspects, but also man's immaterial heart.\n\n(Source: Tezuka Osamu's Website)",
+  "mean": 7.11,
+  "rank": 3778,
+  "popularity": 9538,
+  "num_list_users": 3450,
+  "num_scoring_users": 1538,
+  "nsfw": "white",
+  "created_at": "2007-05-05T22:37:09+00:00",
+  "updated_at": "2022-03-07T07:55:42+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

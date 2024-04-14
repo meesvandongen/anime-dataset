@@ -1,0 +1,66 @@
+{
+  "id": 8228,
+  "title": "Jigoku Sensei Nube: Gozen 0 Ji Nube Shisu!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1416/98422.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1416/98422l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hell Teacher Nube: 0 a.m. Nube Dead",
+    "ja": "地獄先生ぬ～べ～　午前0時ぬ～べ～死す！！"
+  },
+  "start_date": "1997-03-08",
+  "end_date": "1997-03-08",
+  "synopsis": "New student comes to Nube class. His name is Jun and he's a lonely boy who loves clowns very much. His only friend is a Pierre - clown in the mirror. And one night Pierre gives Jun a mask with strange abilities. At that point Jun starts to act strange and lot of accidents occur in the school.",
+  "mean": 6.84,
+  "rank": 5014,
+  "popularity": 10541,
+  "num_list_users": 2481,
+  "num_scoring_users": 900,
+  "nsfw": "white",
+  "created_at": "2010-02-21T19:02:27+00:00",
+  "updated_at": "2020-11-22T20:39:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2700,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

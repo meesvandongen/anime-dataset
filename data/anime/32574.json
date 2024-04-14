@@ -1,0 +1,64 @@
+{
+  "id": 32574,
+  "title": "Kekkai Sensen: Ousama no Restaurant no Ousama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1595/126930.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1595/126930l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kekkai Sensen OVA"
+    ],
+    "en": "Blood Blockade Battlefront OVA",
+    "ja": "血界戦線 王様のレストランの王様"
+  },
+  "start_date": "2016-06-03",
+  "end_date": "2016-06-03",
+  "synopsis": "For a rare occasion, the members of Libra have come out of the shadows to dine with an important guest: a royal next in line for the crown of his country. To show their visitor the finest that Hellsalem's Lot has to offer, the group decides to dine at Molzzogazza, the cream of the crop as far as restaurants go in the city.\n\nAs the success of this dinner may prove to be beneficial to Libra, Steven A. Starphase mounts the pressure on the team to be on its best behavior and avoid screw-ups. However, Steven has made one oversight. Molzzogazza, famous for its cuisine's indescribable and transcendent flavors, serves food so good that most people lose their minds eating it. Though the ragtag team may do their best to be cordial, the food is sure to unwind their composure, threatening the success of the dinner and leaving them unaware of an oncoming threat to the restaurant.\n\n[Written by MAL Rewrite]",
+  "mean": 7.37,
+  "rank": 2402,
+  "popularity": 3400,
+  "num_list_users": 42587,
+  "num_scoring_users": 19750,
+  "nsfw": "white",
+  "created_at": "2016-01-21T07:57:59+00:00",
+  "updated_at": "2023-04-12T11:00:47+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

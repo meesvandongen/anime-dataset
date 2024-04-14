@@ -1,0 +1,60 @@
+{
+  "id": 37993,
+  "title": "Watashi ni Tenshi ga Maiorita!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1778/100470.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1778/100470l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wataten"
+    ],
+    "en": "WataTen! An Angel Flew Down to Me",
+    "ja": "私に天使が舞い降りた！"
+  },
+  "start_date": "2019-01-08",
+  "end_date": "2019-03-26",
+  "synopsis": "College student Miyako Hoshino is quite shy around other people. She mostly spends her time in her room making cosplay outfits. When her fifth-grade sister Hinata brings her classmate Hana Shirosaki home, Miyako instantly becomes captivated with Hana's cuteness. \n\nMiyako tries to do various things, ranging from making Hana wear cosplay dresses to giving her sweets. This gives Hana a bad impression of her at first, but Miyako will do anything to grow closer to the angel who has descended before her.\n\n[Written by MAL Rewrite]",
+  "mean": 7.27,
+  "rank": 2896,
+  "popularity": 1179,
+  "num_list_users": 202595,
+  "num_scoring_users": 83288,
+  "nsfw": "gray",
+  "created_at": "2018-07-21T03:55:27+00:00",
+  "updated_at": "2023-10-03T00:56:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "22:00"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

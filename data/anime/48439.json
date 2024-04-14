@@ -1,0 +1,40 @@
+{
+  "id": 48439,
+  "title": "Boy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1650/113376.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1650/113376l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Boy"
+  },
+  "start_date": "2021-03-09",
+  "end_date": "2021-03-09",
+  "synopsis": "Music video for Kazuyoshi Saito's digital single \"Boy\" directed by Naoki Urasawa.",
+  "mean": 6.63,
+  "popularity": 13224,
+  "num_list_users": 1045,
+  "num_scoring_users": 603,
+  "nsfw": "white",
+  "created_at": "2021-03-10T14:36:17+00:00",
+  "updated_at": "2022-02-26T08:39:07+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 316,
+  "rating": "g",
+  "studios": []
+}

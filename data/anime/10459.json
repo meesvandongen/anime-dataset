@@ -1,0 +1,48 @@
+{
+  "id": 10459,
+  "title": "Puu-Neko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/28722.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/28722l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuruani"
+    ],
+    "en": "Poo-Neko",
+    "ja": "プ～ねこ"
+  },
+  "start_date": "2011-04-13",
+  "end_date": "2011-06-22",
+  "synopsis": "Based on a four-panel manga, Puu-Neko is about \"jobless (puu)\" cats and Momoyama Momoko, who can talk with them. According to the author, 98% of cats are jobless.",
+  "mean": 5.82,
+  "rank": 10388,
+  "popularity": 12845,
+  "num_list_users": 1164,
+  "num_scoring_users": 161,
+  "nsfw": "white",
+  "created_at": "2011-03-15T21:15:38+00:00",
+  "updated_at": "2022-03-16T22:25:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

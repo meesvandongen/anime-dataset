@@ -1,0 +1,53 @@
+{
+  "id": 52948,
+  "title": "Never Lose, My Rule",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1841/127623.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1841/127623l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "NEVER LOSE, MY RULE"
+  },
+  "start_date": "2022-08-30",
+  "end_date": "2022-08-30",
+  "synopsis": "Official music video for the song Never Lose, My Rule by ŹOOĻ, released in celebration of the group's anniversary.",
+  "mean": 6.38,
+  "popularity": 16732,
+  "num_list_users": 432,
+  "num_scoring_users": 218,
+  "nsfw": "white",
+  "created_at": "2022-09-02T22:49:35+00:00",
+  "updated_at": "2023-10-17T00:48:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 130,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2067,
+      "name": "Flat Studio"
+    }
+  ]
+}

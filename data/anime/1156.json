@@ -1,0 +1,60 @@
+{
+  "id": 1156,
+  "title": "I: Wish You Were Here",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1610/94731.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1610/94731l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Anata ga Koko ni Itehoshii"
+    ],
+    "en": "Zaion: I Wish You Were Here",
+    "ja": "i -wish you were here- ～あなたがここにいてほしい～"
+  },
+  "start_date": "2001-10-04",
+  "end_date": "2001-11-24",
+  "synopsis": "In the future, a meteor crashes into Earth and brings with it a virulent form of life. This virus is known as M34 and attacks humans, turning them into vicious monsters. Most of the human population is wiped out, thus government agencies are formed to fight the virus. One of the groups, NOA, inserts nanomachines into the bodies of its soldiers; these machines allow them to transform and fight off the infected. Unfortunately, the virus mutates and becomes too strong for NOA to handle. Now the fate of the world rests in the hands of 16-year-old girl with the power to defeat the virus.\n\n(Source: AniDB)",
+  "mean": 5.98,
+  "rank": 9690,
+  "popularity": 6187,
+  "num_list_users": 10720,
+  "num_scoring_users": 3989,
+  "nsfw": "white",
+  "created_at": "2006-07-06T03:24:06+00:00",
+  "updated_at": "2024-02-04T16:12:58+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1620,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

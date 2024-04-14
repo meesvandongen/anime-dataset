@@ -1,0 +1,39 @@
+{
+  "id": 57352,
+  "title": "Outro: Cross the Line",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1413/141574.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1413/141574l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Outro: Cross the Line"
+  },
+  "start_date": "2021-01-10",
+  "end_date": "2021-01-10",
+  "synopsis": "Music video for ENHYPEN's Outro: Cross the Line.",
+  "popularity": 26419,
+  "num_list_users": 52,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2023-11-28T01:45:43+00:00",
+  "updated_at": "2024-02-22T21:09:44+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 31598,
+  "title": "Luger Code 1951",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/81651.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/81651l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ルガーコード 1951"
+  },
+  "start_date": "2016-10-15",
+  "end_date": "2016-10-15",
+  "synopsis": "The story follows a young genius university professor who is able to learn any language. He is asked to decipher a code used in wireless communication: the Luger Code, developed by werewolves, enemies to mankind. Startled to find that he cannot decipher the code and desperate to study it, the professor embarks on a journey to capture a living werewolf to aid him.\n\n(Source: LiveChart)",
+  "mean": 6.42,
+  "rank": 7360,
+  "popularity": 4710,
+  "num_list_users": 21340,
+  "num_scoring_users": 8039,
+  "nsfw": "white",
+  "created_at": "2015-09-12T19:42:08+00:00",
+  "updated_at": "2021-11-14T02:32:03+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1520,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

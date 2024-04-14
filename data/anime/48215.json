@@ -1,0 +1,50 @@
+{
+  "id": 48215,
+  "title": "Haerowa Toremi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1948/126940.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1948/126940l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Turtle Hero"
+    ],
+    "en": "Hero & Amy",
+    "ja": "해로와 토레미"
+  },
+  "start_date": "2002-01-18",
+  "end_date": "2002-08-20",
+  "synopsis": "",
+  "rank": 19864,
+  "popularity": 22397,
+  "num_list_users": 105,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2021-02-21T17:11:05+00:00",
+  "updated_at": "2022-08-12T14:34:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1520,
+  "rating": "pg",
+  "studios": []
+}

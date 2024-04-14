@@ -1,0 +1,45 @@
+{
+  "id": 45595,
+  "title": "Baten Kaitos",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1074/110968.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1074/110968l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Eternal Wings",
+    "ja": "BATEN KAITOS (バテンカイトス)"
+  },
+  "start_date": "2021-03-28",
+  "end_date": "2021-09-01",
+  "synopsis": "Animated music video project directed by Waboku, collaborating with the studio A-1 Pictures, plus the musical talents Eve and Myuk.\n\nThe list of released videos included in this entry are as follows:\nVol. 1: Myuk - Mahou (Myuk - 魔法), Mar 28, 2021.\nVol. 2: Myuk - Sion (Myuk - シオン), Sep 1, 2021.\n\nNote: The song featured in the first music video was originally used as the ending theme in the anime Yakusoku no Neverland 2. The song featured in the second music video was originally used as the ending theme in the anime NIGHT HEAD 2041.\n\n(Source: Anilist)",
+  "mean": 6.73,
+  "popularity": 13440,
+  "num_list_users": 987,
+  "num_scoring_users": 369,
+  "nsfw": "white",
+  "created_at": "2020-12-29T07:41:19+00:00",
+  "updated_at": "2023-03-21T10:56:48+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 234,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

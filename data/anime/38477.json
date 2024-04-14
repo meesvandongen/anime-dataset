@@ -1,0 +1,43 @@
+{
+  "id": 38477,
+  "title": "Start no Aizu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1701/95346.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1701/95346l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hibiki Ao",
+      "Ao Hibiki"
+    ],
+    "en": "Start Signal",
+    "ja": "スタートの合図"
+  },
+  "start_date": "2018-10-07",
+  "end_date": "2018-10-07",
+  "synopsis": "Ao Hibiki is a virtual youtuber. Her character was signed on by the Avex Inc. as a musician for a radio program on August 23, 2018. This is the official music video created under the company's label. Avex stated on their official YouTube channel that if Ao doesn't get 1 million views, they will drop her from the radio program.\n\n(Source: Avex's Official YouTube channel)",
+  "mean": 5.26,
+  "popularity": 17935,
+  "num_list_users": 339,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2018-10-07T00:51:58+00:00",
+  "updated_at": "2018-11-18T11:24:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 164,
+  "rating": "g",
+  "studios": []
+}

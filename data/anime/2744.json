@@ -1,0 +1,54 @@
+{
+  "id": 2744,
+  "title": "Potemayo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/25944.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/25944l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぽてまよ"
+  },
+  "start_date": "2007-07-07",
+  "end_date": "2007-09-22",
+  "synopsis": "Sunao Moriyama finds a strange but cute creature that he names Potemayo. Potemayo starts following him everywhere, usually riding on top of his head. His discovery becomes the center of attention in his class at school. Soon after, a similar creature appears, and is named Guchuko by one of Sunao's classmates. However, Guchuko doesn't seem to be as good-natured as Potemayo.\n\n(Source: ANN)",
+  "mean": 7.28,
+  "rank": 2857,
+  "popularity": 5166,
+  "num_list_users": 16995,
+  "num_scoring_users": 6566,
+  "nsfw": "white",
+  "created_at": "2007-06-27T01:33:36+00:00",
+  "updated_at": "2022-04-07T20:33:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

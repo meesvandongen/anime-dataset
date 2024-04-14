@@ -1,0 +1,60 @@
+{
+  "id": 10372,
+  "title": "Kamisama Dolls",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1001/98636.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1001/98636l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kami-sama Dolls"
+    ],
+    "en": "Kamisama Dolls",
+    "ja": "神様ドォルズ"
+  },
+  "start_date": "2011-07-06",
+  "end_date": "2011-09-28",
+  "synopsis": "When Kyouhei moves to Tokyo, he thinks he's left his old life behind. But when he discovers a bloody corpse, he also discovers that the past isn't easily left behind, especially when the past is as unusual as Kyouhei's. You see, back in his home town, Kyouhei was a \"seki,\" an individual able to control \"kakashi,\" ancient wooden \"gods\" capable of incredible feats, with his mind. Now there's a kakashi loose in Tokyo, and it just may be up to Kyouhei to stop it AND its seki in Kamisama Dolls!\n\n(Source: Sentai Filmworks, edited)",
+  "mean": 7,
+  "rank": 4287,
+  "popularity": 2524,
+  "num_list_users": 72633,
+  "num_scoring_users": 30926,
+  "nsfw": "white",
+  "created_at": "2011-02-19T17:38:39+00:00",
+  "updated_at": "2023-08-27T22:00:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 51821,
+  "title": "Shu Ling Ji 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1750/123793.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1750/123793l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "书灵记"
+  },
+  "start_date": "2022-05-18",
+  "end_date": "2022-11-30",
+  "synopsis": "",
+  "rank": 13396,
+  "popularity": 19355,
+  "num_list_users": 252,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2022-05-15T05:50:46+00:00",
+  "updated_at": "2023-04-22T18:28:57+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 60,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

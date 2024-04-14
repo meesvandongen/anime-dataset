@@ -1,0 +1,39 @@
+{
+  "id": 48257,
+  "title": "Sup Sog Chingu Seutonijeu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1762/115556.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1762/115556l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Stonyz",
+    "ja": "숲 속 친구 스토니즈"
+  },
+  "start_date": "2019-11-20",
+  "end_date": "2020-02-13",
+  "synopsis": "",
+  "rank": 13649,
+  "popularity": 21333,
+  "num_list_users": 144,
+  "num_scoring_users": 24,
+  "nsfw": "white",
+  "created_at": "2021-02-22T07:14:03+00:00",
+  "updated_at": "2021-06-06T13:41:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "average_episode_duration": 0,
+  "rating": "pg",
+  "studios": []
+}

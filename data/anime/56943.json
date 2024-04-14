@@ -1,0 +1,44 @@
+{
+  "id": 56943,
+  "title": "Jomji: Zombi Jibangi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1296/139171.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1296/139171l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "ZOMFAT: Zombie Fat Movie",
+    "ja": "좀지: 좀비 지방이"
+  },
+  "start_date": "2020-06-30",
+  "end_date": "2020-06-30",
+  "synopsis": "",
+  "rank": 20605,
+  "popularity": 24447,
+  "num_list_users": 72,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2023-10-18T11:01:30+00:00",
+  "updated_at": "2023-11-03T09:12:11+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": []
+}

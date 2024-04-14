@@ -1,0 +1,64 @@
+{
+  "id": 1187,
+  "title": "DNA² OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/4537.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/4537l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dokokade Nakushita Aitsuno Aitsu (1995)"
+    ],
+    "en": "",
+    "ja": "D・N・A2～何処かで失くしたあいつのアイツ～ (1995)"
+  },
+  "start_date": "1995-02-21",
+  "end_date": "1995-06-25",
+  "synopsis": "Junta's great granddaughter goes back in time in order to make Junta stay as the Mega-Playboy so she can continue to exist. Along with her comes an old man with the intention of making Junta stay as the Mega-Playboy forever for his own purposes.When Junta starts getting attacked, he has no choice but to return to being the Mega-Playboy in order to protect his loved ones.",
+  "mean": 6.49,
+  "rank": 6961,
+  "popularity": 5689,
+  "num_list_users": 13264,
+  "num_scoring_users": 7024,
+  "nsfw": "white",
+  "created_at": "2006-07-06T06:47:56+00:00",
+  "updated_at": "2022-11-06T09:32:44+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

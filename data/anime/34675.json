@@ -1,0 +1,68 @@
+{
+  "id": 34675,
+  "title": "Chou Yuu Sekai: Being the Reality",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/83712.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/83712l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chao You Shijie"
+    ],
+    "en": "World of Super Sand Box: Being the Reality",
+    "ja": "超游世界 -BEING THE REALITY-"
+  },
+  "start_date": "2017-01-12",
+  "end_date": "2017-06-08",
+  "synopsis": "A hot-blooded high school teen, a mysterious female swordsman, and an unpredictable dark emo girl. It's impossible to distinguish between reality and the game world! What kind of conspiracy is awaiting them in this super journey of the world!\n\n(Source: MAL News)",
+  "mean": 6.13,
+  "rank": 8927,
+  "popularity": 4909,
+  "num_list_users": 19458,
+  "num_scoring_users": 3937,
+  "nsfw": "white",
+  "created_at": "2017-01-03T03:54:15+00:00",
+  "updated_at": "2022-03-29T15:22:46+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 808,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    },
+    {
+      "id": 1593,
+      "name": "Success Corp."
+    }
+  ]
+}

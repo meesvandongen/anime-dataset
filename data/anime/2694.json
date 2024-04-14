@@ -1,0 +1,76 @@
+{
+  "id": 2694,
+  "title": "Hidamari no Ki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1344/110484.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1344/110484l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A Tree in a Sunny Place"
+    ],
+    "en": "Tree in the Sun",
+    "ja": "陽だまりの樹"
+  },
+  "start_date": "2000-04-05",
+  "end_date": "2000-09-20",
+  "synopsis": "A story set in the mid-1800's about a young doctor who has been trained in Western-style medicine and a young samurai who is trying to live up to the old traditions of his class and culture. The story is actually based upon real people - the doctor, Ryo-an, was Tezuka's great grandfather.\n\nDuring the Second Year of Ansei (1855) in Edo's Koishigawa are two young men, Manjiro Ibutani and Ryoan Tezuka. Ibutani is a low-ranking samurai who is a gifted swordsman and has a straightforward and strong sense of justice. Tezuka has a more carefree attitude. He has an eye for the ladies, but he is passionate about becoming a doctor. The two opposite characters come of age during the backdrop of the turbulent end of the Tokugawa Period (1600-1868 CE).\n\n(Source: AnimeNfo) ",
+  "mean": 7.12,
+  "rank": 3737,
+  "popularity": 8766,
+  "num_list_users": 4515,
+  "num_scoring_users": 745,
+  "nsfw": "white",
+  "created_at": "2007-06-22T21:05:15+00:00",
+  "updated_at": "2022-10-12T08:58:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2000,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:50"
+  },
+  "source": "manga",
+  "average_episode_duration": 1415,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

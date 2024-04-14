@@ -1,0 +1,60 @@
+{
+  "id": 6095,
+  "title": "Azuki-chan the Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/45236.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/45236l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Azuki-chan: White Valentine ♥ Koi no Chance ga Yatte Kita!!"
+    ],
+    "en": "",
+    "ja": "あずきちゃん ホワイト・バレンタイン♥ 恋のチャンスがやってきた!!"
+  },
+  "start_date": "1995-12-23",
+  "end_date": "1995-12-23",
+  "synopsis": "It's Valentines' Day, the girls are thinking about the chocolate to give to their love.  Youko is having a party on the Valentines' Day.  The girls refused her invite, but found out that their love are going to her party, even Azuki-chan's brother is going!\n\nYunosuke-kun gave Azuki-chan a chance to give chocolate to him before Youko's party.  Will she be successful in making a chocolate?  Will Yunosuke-kun receive her love?",
+  "mean": 6.19,
+  "rank": 8625,
+  "popularity": 12872,
+  "num_list_users": 1157,
+  "num_scoring_users": 417,
+  "nsfw": "white",
+  "created_at": "2009-02-20T16:36:38+00:00",
+  "updated_at": "2021-06-09T14:10:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

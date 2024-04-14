@@ -1,0 +1,57 @@
+{
+  "id": 32222,
+  "title": "Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/86783.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/86783l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Youkai Watch 3",
+      "Youkai Watch: the Movie: The Flying Whale and the Grand Adventure of the Double Worlds, Meow!"
+    ],
+    "en": "",
+    "ja": "映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！"
+  },
+  "start_date": "2016-12-17",
+  "end_date": "2016-12-17",
+  "synopsis": "When a giant flying whale suddenly appears over Sakura New Town and its sound is heard the Yo-Kai undergo a transformation. The characters soon realize that as a result they have become corporeal and exist in a material world. This is the third film in the Yok-Kai Watch series based on the hit game.\n\n(Source: IMDb)",
+  "mean": 6.22,
+  "rank": 8473,
+  "popularity": 11499,
+  "num_list_users": 1824,
+  "num_scoring_users": 660,
+  "nsfw": "white",
+  "created_at": "2015-12-06T08:12:25+00:00",
+  "updated_at": "2021-11-18T05:31:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 57031,
+  "title": "Vampire Dormitory",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1375/141863.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1375/141863l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Vampire Danshiryou",
+      "A Vampire Lives in the Dormitory"
+    ],
+    "en": "",
+    "ja": "ヴァンパイア男子寮"
+  },
+  "start_date": "2024-04-07",
+  "synopsis": "Mito Yamamoto is a beautiful man, so much so that women swarm the restaurant he works at daily. When the restaurant owner decides that he has had enough, he fires Mito, leaving him unemployed and with no place to call home.\n\nSoon after, Mito happens upon a cafe and receives a cut on the hand from broken glass. A strange man named Ruka Saotome takes Mito aside to presumably tend to the injury, but instead, he licks away Mito's blood, remarking that it tastes disgusting before asking Mito to leave. Later that night, Mito accidentally slips off the roof of a building and is caught by Ruka, who reveals himself to be a vampire.\n\nRuka explains that a man's blood tastes disgusting, and the blood of someone unloved has an even worse flavor. However, Ruka cannot drink from girls, so he has been looking for a beautiful boy to become his thrall. He proposes that Mito fill this role and that he allow Ruka's affections to \"ripen\" his blood. Mito accepts and begins living with Ruka in the Hijirigaoka Boys' Academy dormitory. However, there is just one problem in all this: Mito is actually a girl!\n\n[Written by MAL Rewrite]",
+  "mean": 6.38,
+  "rank": 7544,
+  "popularity": 4680,
+  "num_list_users": 21751,
+  "num_scoring_users": 1488,
+  "nsfw": "white",
+  "created_at": "2023-10-30T09:07:51+00:00",
+  "updated_at": "2024-04-07T15:49:21+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 81,
+      "name": "Crossdressing"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 478,
+      "name": "Studio Blanc."
+    }
+  ]
+}

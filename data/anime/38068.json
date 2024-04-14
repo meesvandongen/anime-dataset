@@ -1,0 +1,53 @@
+{
+  "id": 38068,
+  "title": "Poputepipikku Kinen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1826/129554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1826/129554l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "JRA x Poputepipikku",
+      "JRA x Pop Team Epic"
+    ],
+    "en": "Pop Team Epic Kinen",
+    "ja": "ポプテピ記念"
+  },
+  "start_date": "2018-06-14",
+  "end_date": "2018-06-14",
+  "synopsis": "This is a 2:15 (4:30 including the rerun) short created to promote the (JRA) Japan Racing Association's Umabi service.\n\nThe short is interactive originally, insofar as you can create your own character who will then appear in the audience at given points in the short. This video uses the default character provided.\n\nVAs used in the short:\n\nFirst half:\nPopuko: Mikako Komatsu\nPipimi: Sumire Uesaka\n\nSecond half:\nPopuko: Ryuusei Nakao\nPipimi: Norio Wakamoto\n\nThis is the same combination of VAs that was used for episode 3 of the TV series.\n\n(Source: MyaaSubs)",
+  "mean": 6.31,
+  "rank": 7962,
+  "popularity": 7743,
+  "num_list_users": 6195,
+  "num_scoring_users": 2190,
+  "nsfw": "white",
+  "created_at": "2018-07-24T21:49:04+00:00",
+  "updated_at": "2021-12-24T08:18:44+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 135,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1045,
+      "name": "Space Neko Company"
+    }
+  ]
+}

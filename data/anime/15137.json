@@ -1,0 +1,43 @@
+{
+  "id": 15137,
+  "title": "Entotsuya Peroo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/69013.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/69013l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chimney Sweep Pero"
+    ],
+    "en": "",
+    "ja": "煙突屋ペロー"
+  },
+  "start_date": "1930-04-13",
+  "end_date": "1930-04-13",
+  "synopsis": "Tale of the chimney sweep, Peroo. ",
+  "mean": 5.19,
+  "rank": 12376,
+  "popularity": 14580,
+  "num_list_users": 710,
+  "num_scoring_users": 285,
+  "nsfw": "white",
+  "created_at": "2012-08-12T08:53:20+00:00",
+  "updated_at": "2019-07-22T03:47:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1930,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1372,
+  "rating": "g",
+  "studios": []
+}

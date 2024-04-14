@@ -1,0 +1,68 @@
+{
+  "id": 9348,
+  "title": "Chibi Maruko-chan: Watashi no Suki na Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1300/97263.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1300/97263l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chibi Maruko-chan: My Favorite Song"
+    ],
+    "en": "",
+    "ja": "ちびまる子ちゃん わたしの好きな歌"
+  },
+  "start_date": "1992-12-19",
+  "end_date": "1992-12-19",
+  "synopsis": "Sakura Momoko's teacher assigns the third grade to draw an image based on their favorite song to enter a contest. Momoko loves a song she recently learned during her music class and is anxious to make a good drawing based on it. On her way to meet her relatives in Shizuoka, she meets Shouko Kimura, a university student who occasionally draws portraits at the local train station and plans to also participate in an art contest. Fascinated by her illustrations, Sakura meets Kimura once again. Shouko is enchanted by Momoko's sympathy and honesty. They quickly become friends and end up inspiring each other in their own way.\n\n(Source: ANN) ",
+  "mean": 7.19,
+  "rank": 3309,
+  "popularity": 10978,
+  "num_list_users": 2172,
+  "num_scoring_users": 788,
+  "nsfw": "white",
+  "created_at": "2010-08-10T16:07:32+00:00",
+  "updated_at": "2022-04-17T02:11:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5580,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

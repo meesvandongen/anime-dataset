@@ -1,0 +1,48 @@
+{
+  "id": 35980,
+  "title": "Oh! 96-kku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/86950.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/86950l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Oh! Kuyuujuuroku-kku",
+      "Oh! Clock"
+    ],
+    "en": "Oh! Crock",
+    "ja": "OH!96ック"
+  },
+  "start_date": "2016-01-04",
+  "end_date": "2016-01-04",
+  "synopsis": "A Takaharu Shimizu original work about different hours of the day and what you do during them.",
+  "mean": 5.39,
+  "rank": 11918,
+  "popularity": 18249,
+  "num_list_users": 318,
+  "num_scoring_users": 134,
+  "nsfw": "white",
+  "created_at": "2017-07-21T08:41:49+00:00",
+  "updated_at": "2017-08-05T03:03:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 57,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1865,
+  "title": "Getsumen to Heiki Mina",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/1865.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/1865l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Getsumen Usagi Heiki Miina",
+      "Lunar Bunny Weapon Mina",
+      "Getsumen to Heiki Miina"
+    ],
+    "en": "",
+    "ja": "月面兎兵器ミーナ"
+  },
+  "start_date": "2007-01-14",
+  "end_date": "2007-03-25",
+  "synopsis": "An animated spin-off from the Densha Otoko (Trainman) TV drama.\n\nIn the drama, actor Itoh Atsushi plays the otaku Yamada, whose main love in life is the Mina anime, a cutesy busty heroine with floppy rabbit ears and carrots sticking out her rear.\n\nMina itself is a character homage which triggers back to the Daicon Animation done by GAINAX where a similar nameless bunny girl appeared. Densha Otoko futher featured an opening with scenes which were appearing back in the Daicon Animation.\n\n(Source: AniDB)",
+  "mean": 6.29,
+  "rank": 8093,
+  "popularity": 6805,
+  "num_list_users": 8506,
+  "num_scoring_users": 2333,
+  "nsfw": "white",
+  "created_at": "2007-01-20T19:53:08+00:00",
+  "updated_at": "2024-01-08T16:51:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2007,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

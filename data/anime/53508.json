@@ -1,0 +1,43 @@
+{
+  "id": 53508,
+  "title": "Yuki Terai in Virtual Hawaii",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1532/130422.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1532/130422l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "テライユキinバーチャルハワイ"
+  },
+  "start_date": "2001-08-10",
+  "end_date": "2001-08-10",
+  "synopsis": "Yuki visits Hawaii.",
+  "rank": 15111,
+  "popularity": 21445,
+  "num_list_users": 139,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2022-11-03T19:16:05+00:00",
+  "updated_at": "2022-12-20T11:00:55+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 982,
+  "studios": []
+}

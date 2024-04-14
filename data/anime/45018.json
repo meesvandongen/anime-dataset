@@ -1,0 +1,44 @@
+{
+  "id": 45018,
+  "title": "Dan Jihua Da Dianying",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1143/129928.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1143/129928l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "蛋计划 大电影"
+  },
+  "start_date": "2017-01-20",
+  "end_date": "2017-01-20",
+  "synopsis": "",
+  "rank": 19116,
+  "popularity": 24553,
+  "num_list_users": 70,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2020-12-19T15:56:32+00:00",
+  "updated_at": "2022-10-28T15:14:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 4920,
+  "rating": "pg",
+  "studios": []
+}

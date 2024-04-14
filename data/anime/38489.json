@@ -1,0 +1,78 @@
+{
+  "id": 38489,
+  "title": "Feng Yu Zhou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1090/95412.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1090/95412l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "画江湖之风语咒",
+      "Hua Jianghu Zhi Feng Yu Zhou",
+      "A Portrait of Jianghu: The Wind Guardians"
+    ],
+    "en": "The Wind Guardians",
+    "ja": "风语咒"
+  },
+  "start_date": "2018-08-03",
+  "end_date": "2018-08-03",
+  "synopsis": "Legends tell the story of Sacred Guardians called Shalen who tried to protect the lands from 4 beasts from another world by using the power of fire, metal, water, wood and earth. However, the beasts were too powerful even for them until a new power was found - the wind spell. The spirits of the beasts were sealed and peace was restored in the human world. Ever-since, people born with a special mark on their hand become Shalen who should protect everyone in the human world.\n\nLang Ming is a young blind boy who has an exceptional hearing. While he lives with his mother in Xiaoyanggang and tries to make money, his town is attacked by a demon and his mother disappears. Lang is ready to do everything in order to find her so he makes a deal with a strange girl, he later calls Little Goblin. This marks the beginning of an epic adventure which will change Lang Ming's life forever.",
+  "mean": 6.84,
+  "rank": 5008,
+  "popularity": 11739,
+  "num_list_users": 1672,
+  "num_scoring_users": 575,
+  "nsfw": "white",
+  "created_at": "2018-10-08T13:58:28+00:00",
+  "updated_at": "2021-02-03T18:54:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 6300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2281,
+      "name": "Rocen"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 48121,
+  "title": "Taikong Xiongmao Yingxiong Dansheng",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1929/115243.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1929/115243l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Space Panda",
+    "ja": "太空熊猫英雄诞生"
+  },
+  "start_date": "2020-12-19",
+  "end_date": "2020-12-19",
+  "synopsis": "",
+  "rank": 13718,
+  "popularity": 21334,
+  "num_list_users": 144,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2021-02-20T09:44:28+00:00",
+  "updated_at": "2021-05-29T14:42:16+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4560,
+  "rating": "pg",
+  "studios": []
+}

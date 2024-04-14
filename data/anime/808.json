@@ -1,0 +1,80 @@
+{
+  "id": 808,
+  "title": "Bakuretsu Hunters OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1267/97321.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1267/97321l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ganso Bakuretsu Hunters"
+    ],
+    "en": "Sorcerer Hunters",
+    "ja": "元祖　爆れつハンター"
+  },
+  "start_date": "1996-12-21",
+  "end_date": "1997-04-23",
+  "synopsis": "On the \"Spooner Continent\", a valiant group of Sorcerer Hunters are the people's last line of defense against the evil dark magiks unleashed periodically by those who can't control it. Saving the world and looking sexy while doing it!\n\n(Source: AniDB)",
+  "mean": 6.44,
+  "rank": 7230,
+  "popularity": 7281,
+  "num_list_users": 7187,
+  "num_scoring_users": 2736,
+  "nsfw": "white",
+  "created_at": "2006-03-10T13:10:23+00:00",
+  "updated_at": "2022-02-28T14:00:22+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1700,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

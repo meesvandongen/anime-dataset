@@ -1,0 +1,64 @@
+{
+  "id": 850,
+  "title": "Gakuen Heaven",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/70143.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/70143l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Boy's Love Scramble"
+    ],
+    "en": "Gakuen Heaven",
+    "ja": "学園ヘヴン"
+  },
+  "start_date": "2006-04-01",
+  "end_date": "2006-06-24",
+  "synopsis": "Itou Keita, an average guy, is shocked when he's invited to attend the elite institution, \"Bell Liberty Academy.\" Unnerved by the mystery, he's further distracted by the school's social dynamics. In a sea of amazing young men, Keita struggles to find out what makes him unique, and how he can possibly deserve to be treated as an equal by the boys of BL. Lacking any particular ability, just why has Itou been welcomed into the privileged world of the talented and the beautiful? \n\nAlong the way, he develops intense relationships with the almost everyone at school but he is terribly drawn to the friendly, over-caring but very mysterious classmate, Kazuki Endou.",
+  "mean": 6.46,
+  "rank": 7126,
+  "popularity": 2624,
+  "num_list_users": 67843,
+  "num_scoring_users": 31739,
+  "nsfw": "white",
+  "created_at": "2006-04-07T21:38:25+00:00",
+  "updated_at": "2024-01-11T01:22:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 122,
+      "name": "Tokyo Kids"
+    }
+  ]
+}

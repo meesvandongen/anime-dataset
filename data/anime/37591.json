@@ -1,0 +1,50 @@
+{
+  "id": 37591,
+  "title": "Houkago Midnighters: Short Movies Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1086/131785.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1086/131785l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "After School Midnighters: Short Movies Season 2"
+    ],
+    "en": "",
+    "ja": "放課後ミッドナイターズ ショートムービーズ Season2"
+  },
+  "start_date": "2018-05-23",
+  "end_date": "2018-05-23",
+  "synopsis": "",
+  "rank": 20188,
+  "popularity": 18912,
+  "num_list_users": 276,
+  "num_scoring_users": 58,
+  "nsfw": "white",
+  "created_at": "2018-03-24T10:10:40+00:00",
+  "updated_at": "2022-12-10T09:32:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "average_episode_duration": 1711,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2414,
+      "name": "MontBlanc Pictures"
+    }
+  ]
+}

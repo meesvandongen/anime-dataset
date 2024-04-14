@@ -1,0 +1,54 @@
+{
+  "id": 29361,
+  "title": "Kareshi wa Hammerhead Shark",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/70657.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/70657l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Boyfriend Hammerhead Shark"
+    ],
+    "en": "",
+    "ja": "かれしはハンマーヘッドシャーク"
+  },
+  "start_date": "2019-02-06",
+  "end_date": "2019-02-06",
+  "synopsis": "",
+  "popularity": 18145,
+  "num_list_users": 324,
+  "num_scoring_users": 76,
+  "nsfw": "white",
+  "created_at": "2015-01-10T07:35:35+00:00",
+  "updated_at": "2022-01-02T10:43:16+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
+}

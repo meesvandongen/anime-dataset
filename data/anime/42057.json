@@ -1,0 +1,56 @@
+{
+  "id": 42057,
+  "title": "Kyoshin to Hyouka no Shiro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1297/111211.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1297/111211l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Giant Gods and the Ice Flower Castle"
+    ],
+    "en": "Shiro, the Giant, and the Castle of Ice",
+    "ja": "巨神と氷華の城"
+  },
+  "start_date": "2020-08-08",
+  "end_date": "2020-12-19",
+  "synopsis": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...\n\n(Source: ANN)",
+  "mean": 5.64,
+  "rank": 11128,
+  "popularity": 9549,
+  "num_list_users": 3431,
+  "num_scoring_users": 1141,
+  "nsfw": "white",
+  "created_at": "2020-05-23T19:41:51+00:00",
+  "updated_at": "2022-04-12T10:22:30+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 79,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1843,
+      "name": "TriF Studio"
+    }
+  ]
+}

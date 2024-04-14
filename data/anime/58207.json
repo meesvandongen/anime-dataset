@@ -1,0 +1,39 @@
+{
+  "id": 58207,
+  "title": "Nekokaburi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1476/141584.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1476/141584l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "猫被り"
+  },
+  "start_date": "2022-04-01",
+  "end_date": "2022-04-01",
+  "synopsis": "Music video for the song Nekokaburi by Keina Suda.",
+  "popularity": 24781,
+  "num_list_users": 67,
+  "num_scoring_users": 32,
+  "nsfw": "white",
+  "created_at": "2024-02-23T08:47:30+00:00",
+  "updated_at": "2024-02-23T13:10:44+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": []
+}

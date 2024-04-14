@@ -1,0 +1,60 @@
+{
+  "id": 25635,
+  "title": "Space☆Dandy Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/65313.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/65313l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Space Dandy Picture Drama"
+    ],
+    "en": "",
+    "ja": "スペース☆ダンディ ピクチャードラマ"
+  },
+  "start_date": "2014-07-25",
+  "end_date": "2014-08-27",
+  "synopsis": "Picture drama episodes included on the Blu-ray/DVD volume four and five.",
+  "mean": 6.11,
+  "rank": 9011,
+  "popularity": 8147,
+  "num_list_users": 5500,
+  "num_scoring_users": 1543,
+  "nsfw": "white",
+  "created_at": "2014-07-29T19:16:51+00:00",
+  "updated_at": "2022-04-13T12:08:14+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 330,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

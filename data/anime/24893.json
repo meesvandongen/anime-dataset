@@ -1,0 +1,69 @@
+{
+  "id": 24893,
+  "title": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/72712.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/72712l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Knights of Sidonia: War of the Ninth Planet",
+      "Sidonia no Kishi: Dai-kyuu Wakusei Seneki"
+    ],
+    "en": "Knights of Sidonia: Battle for Planet Nine",
+    "ja": "シドニアの騎士 第九惑星戦役"
+  },
+  "start_date": "2015-04-11",
+  "end_date": "2015-06-27",
+  "synopsis": "After barely escaping a collision with a gigantic Gauna at the cost of many human lives, Kobayashi—the captain of the spaceship Sidonia—is prompted to change her political paradigm. Once she seizes full power, Kobayashi aims to eradicate the Gaunas from the Lem system where former Sidonians have recently established a colony. Her ambition is justified by two breakthroughs: the development of highly effective, long-range anti-Gauna weapons, and the creation of Tsumugi Shiraui—the first human-Gauna chimera possessing great destructive power.\n\nFacing hostility toward chimeras and her uncertain large-scale military expedition, Kobayashi enlists the help of the new elite pilot Nagate Tanikaze. Due to his personal experiences with Shizuka Hoshijiro and Benisuzume's placenta, Tanikaze soon develops a close bond with Tsumugi. As the final battle against humanity's most formidable opponent approaches, Tanikaze tries to enjoy the last days of peace with his friend Izana Shinatose—all while Kobayashi secretly pursues the development of an experimental weapon that could very well lead to the complete destruction of Sidonia.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.72,
+  "rank": 1174,
+  "popularity": 1831,
+  "num_list_users": 118863,
+  "num_scoring_users": 63684,
+  "nsfw": "white",
+  "created_at": "2014-06-26T21:52:44+00:00",
+  "updated_at": "2022-06-17T20:06:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1023,
+      "name": "Polygon Pictures"
+    }
+  ]
+}

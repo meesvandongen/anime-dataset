@@ -1,0 +1,45 @@
+{
+  "id": 41500,
+  "title": "Cobalt Memories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1220/106603.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1220/106603l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "コバルトメモリーズ"
+  },
+  "start_date": "2017-09-16",
+  "end_date": "2017-09-16",
+  "synopsis": "",
+  "mean": 6.01,
+  "popularity": 17668,
+  "num_list_users": 361,
+  "num_scoring_users": 186,
+  "nsfw": "white",
+  "created_at": "2020-03-22T05:49:29+00:00",
+  "updated_at": "2021-03-06T08:35:47+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 268,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2244,
+      "name": "Studio Gohan"
+    }
+  ]
+}

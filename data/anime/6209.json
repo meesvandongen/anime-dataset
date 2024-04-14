@@ -1,0 +1,69 @@
+{
+  "id": 6209,
+  "title": "Macross 7 Plus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/13816.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/13816l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Macross 7 Special",
+      "Macross 7 P*L*U*S"
+    ],
+    "en": "",
+    "ja": "マクロス7ぷらす"
+  },
+  "start_date": "1995-01-21",
+  "end_date": "1996-01-25",
+  "synopsis": "A series of 2-3 minute shorts revealing the everyday life of some characters, back-story of others, and the occasional music video. Originally included as extras on the Macross 7 VHS and laserdisc releases.",
+  "mean": 6.79,
+  "rank": 5227,
+  "popularity": 7249,
+  "num_list_users": 7263,
+  "num_scoring_users": 2952,
+  "nsfw": "white",
+  "created_at": "2009-03-17T22:03:29+00:00",
+  "updated_at": "2024-03-06T12:52:36+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 56856,
+  "title": "Ichi, Ni, San, ...",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1140/141761.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1140/141761l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "一、二、三、・・・"
+  },
+  "start_date": "1962-08",
+  "end_date": "1962-08",
+  "synopsis": "Music video for the song Ichi, Ni, San, ... by Toshie Kusunoki that was featured on NHK's Minna no Uta program. It is considered to be lost media.",
+  "popularity": 25784,
+  "num_list_users": 58,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2023-10-06T04:54:37+00:00",
+  "updated_at": "2023-10-06T04:54:37+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1962,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

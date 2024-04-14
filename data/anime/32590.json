@@ -1,0 +1,50 @@
+{
+  "id": 32590,
+  "title": "Taeng-gu & Ulasyong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/78247.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/78247l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tangoo & Ullashong"
+    ],
+    "en": "",
+    "ja": "탱구와 울라숑"
+  },
+  "start_date": "2001-03-23",
+  "end_date": "2001-10-12",
+  "synopsis": "The series follows a boy named Tangoo and a robot named Ullashong.",
+  "rank": 13695,
+  "popularity": 17936,
+  "num_list_users": 339,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2016-01-24T14:37:39+00:00",
+  "updated_at": "2021-11-30T02:32:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1360,
+  "rating": "pg",
+  "studios": []
+}

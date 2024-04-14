@@ -1,0 +1,67 @@
+{
+  "id": 2363,
+  "title": "Pokemon Side Stories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1231/141945.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1231/141945l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokemon Housoukyoku",
+      "Shuukan Pokemon Housoukyoku",
+      "Pokemon Hoso",
+      "Pocket Monsters Housoukyoku"
+    ],
+    "en": "Pokémon Chronicles",
+    "ja": "ポケットモンスター サイドストーリー"
+  },
+  "start_date": "2002-12-03",
+  "end_date": "2004-09-28",
+  "synopsis": "While Satoshi continues on his quest to become the best, many others will experience their own unique journey through the Pokémon world—researchers, professors, Gym Leaders, Team Rocket members, Trainers, and even Pokémon. Some are familiar faces and others are strangers at first, but what they all have in common is a love of adventure—especially when it involves Pokémon!\n\n(Source: Official site)",
+  "mean": 6.88,
+  "rank": 4805,
+  "popularity": 3899,
+  "num_list_users": 32595,
+  "num_scoring_users": 16424,
+  "nsfw": "white",
+  "created_at": "2007-04-27T20:36:38+00:00",
+  "updated_at": "2023-12-15T10:20:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2003,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "19:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1200,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

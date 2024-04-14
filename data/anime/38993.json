@@ -1,0 +1,65 @@
+{
+  "id": 38993,
+  "title": "Karakai Jouzu no Takagi-san 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1393/107033.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1393/107033l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Skilled Teaser Takagi-san 2nd Season",
+      "Karakai Jouzu no Takagi-san Second Season"
+    ],
+    "en": "Teasing Master Takagi-san 2",
+    "ja": "からかい上手の高木さん2"
+  },
+  "start_date": "2019-07-07",
+  "end_date": "2019-09-22",
+  "synopsis": "Even after spending a considerable amount of time with Takagi, Nishikata is still struggling to find a perfect plan to defeat the expert teaser. A battle of wits, a contest of physical prowess, a test of courage—any strategy he employs to expose her weaknesses is to no avail. On the contrary, Nishikata's pitiful attempts only reveal more of his own flaws, which Takagi takes advantage of to become increasingly daring in her teasing attempts. To make things worse for Nishikata, rumors about him and Takagi may have spread in class due to the frequent interactions between them.\n\nHowever, the optimistic Nishikata believes that wisdom comes with age and that as the days go by, his experience with her constant teasing will eventually bear fruit, leading him to the awaited moment of victory. Thus, Nishikata continues to strive for the seemingly impossible—to outsmart Takagi and make her blush with embarrassment.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.04,
+  "rank": 571,
+  "popularity": 709,
+  "num_list_users": 331835,
+  "num_scoring_users": 181434,
+  "nsfw": "white",
+  "created_at": "2019-01-09T07:18:50+00:00",
+  "updated_at": "2023-08-09T21:11:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1417,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

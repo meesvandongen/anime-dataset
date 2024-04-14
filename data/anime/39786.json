@@ -1,0 +1,40 @@
+{
+  "id": 39786,
+  "title": "Tejime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1194/100915.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1194/100915l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tejime",
+    "ja": "TEJIME"
+  },
+  "start_date": "2019-04-30",
+  "end_date": "2019-04-30",
+  "synopsis": "With a track inspired by Tejime, a Japanese custom of ceremonial rhythmic hand clapping, HIFANA gives thanks and bids farewell to the Heisei era (1989-2019), a time when the transition from analog to digital gave rise to so many new and innovative means of expression. This is their first new song in 9 years.\n\n(Source: YouTube)",
+  "mean": 5.3,
+  "popularity": 17322,
+  "num_list_users": 386,
+  "num_scoring_users": 194,
+  "nsfw": "white",
+  "created_at": "2019-05-05T19:41:11+00:00",
+  "updated_at": "2019-05-05T19:41:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 216,
+  "rating": "g",
+  "studios": []
+}

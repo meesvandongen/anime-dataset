@@ -1,0 +1,62 @@
+{
+  "id": 37254,
+  "title": "Last Period: Owarinaki Rasen no Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1710/95065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1710/95065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Last Period: The Journey to the End of the Despair",
+    "ja": "ラストピリオド -終わりなき螺旋の物語-"
+  },
+  "start_date": "2018-04-12",
+  "end_date": "2018-06-28",
+  "synopsis": "\"Period\" is how magic users called who beat \"Spiral\"—monsters that were summoned from isolation. Due to the rise of these beings, 14-year-old apprentice Period Haru, who is a part of the Eighth Arc-end Division, is called to break the cycle and cast himself into the endless battle. However, a mysterious thievery occurred and sank the division into bankruptcy, forcing Haru and his other comrades have to leave their headquarters. To rebuild a branch, they have to overcome quest after quest.\n\n(Source: MAL News)",
+  "mean": 6.36,
+  "rank": 7678,
+  "popularity": 3574,
+  "num_list_users": 38944,
+  "num_scoring_users": 11302,
+  "nsfw": "white",
+  "created_at": "2018-02-04T04:21:21+00:00",
+  "updated_at": "2022-03-27T15:13:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

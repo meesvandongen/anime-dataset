@@ -1,0 +1,58 @@
+{
+  "id": 1638,
+  "title": "Peter Pan no Bouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1845/104533.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1845/104533l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai Meisaku Gekijou",
+      "Peter Pan no Boken",
+      "Adventures of Peter Pan"
+    ],
+    "en": "Peter Pan & Wendy",
+    "ja": "ピーターパンの冒険"
+  },
+  "start_date": "1989-01-15",
+  "end_date": "1989-12-24",
+  "synopsis": "Wendy and her two little brothers are brought to the land of adventures, Neverland, by Peter pan, a boy who will never grow up. In Neverland they encounter exciting events and meet with little fairies, mermaids, Indians, and pirates. Required to act as a mother, Wendy never has a moments peace with all that is happening around her, including breath-taking fights with pirates. Later in the series, they set off to find a buried treasure with a map that they obtain from the pirates.\n\n(Source: AnimeNfo)",
+  "mean": 6.78,
+  "rank": 5316,
+  "popularity": 8524,
+  "num_list_users": 4900,
+  "num_scoring_users": 2050,
+  "nsfw": "white",
+  "created_at": "2006-11-07T19:04:44+00:00",
+  "updated_at": "2021-06-15T17:23:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 41,
+  "start_season": {
+    "year": 1989,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "19:30"
+  },
+  "source": "book",
+  "average_episode_duration": 1380,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

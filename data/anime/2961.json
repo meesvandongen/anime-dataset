@@ -1,0 +1,60 @@
+{
+  "id": 2961,
+  "title": "Digimon Adventure Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/72452.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/72452l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Digimon Adventure Movie"
+    ],
+    "en": "Digimon: The Movie",
+    "ja": "デジモンアドベンチャー 劇場版"
+  },
+  "start_date": "1999-03-06",
+  "end_date": "1999-03-06",
+  "synopsis": "A brother and sister discover the digital world is more than 1s and 0s when a living creature arrives out of the family computer. The adventures of a group of children start with the appearance of a Digital Monster in the real world.\n\n(Source: ANN) ",
+  "mean": 7.6,
+  "rank": 1501,
+  "popularity": 1901,
+  "num_list_users": 113280,
+  "num_scoring_users": 72832,
+  "nsfw": "white",
+  "created_at": "2007-08-10T04:02:07+00:00",
+  "updated_at": "2022-04-17T03:05:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1215,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

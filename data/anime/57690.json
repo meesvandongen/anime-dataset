@@ -1,0 +1,43 @@
+{
+  "id": 57690,
+  "title": "Sunbeams",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1903/140682.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1903/140682l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "sunbeams"
+  },
+  "start_date": "2023-12-30",
+  "end_date": "2023-12-30",
+  "synopsis": "Music video for the song Sunbeams by Elira Pendora.",
+  "popularity": 22420,
+  "num_list_users": 104,
+  "num_scoring_users": 45,
+  "nsfw": "white",
+  "created_at": "2023-12-31T12:05:02+00:00",
+  "updated_at": "2024-01-13T09:13:07+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 209,
+  "rating": "pg_13",
+  "studios": []
+}

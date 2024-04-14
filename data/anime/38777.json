@@ -1,0 +1,55 @@
+{
+  "id": 38777,
+  "title": "Jujutsu Kaisen Official PVs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1792/96959.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1792/96959l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sorcery Fight Official PVs"
+    ],
+    "en": "Jujutsu Kaisen Official PVs",
+    "ja": "呪術廻戦 公式PV"
+  },
+  "start_date": "2018-12-03",
+  "end_date": "2018-12-08",
+  "synopsis": "Just where do Curses, the fiendish spirits invisible to normal humans, come from? What is Sukuna Ryoumen, whose very existence grips the Jujutsu world in fear? And who exactly is Yuuji Itadori, the boy who recently became the center of attention in Jujutsu society?\n\nNo need to fear, for Satoru Gojou, the strongest Jujutsu sorcerer, has the answers! From the new sorcerers in training to the enemies they face, Gojou provides all you need to know about Jujutsu and the inner workings of the institution who protect us from Curses: the Tokyo Prefectural Jujutsu High School.\n\n[Written by MAL Rewrite]",
+  "mean": 7.62,
+  "popularity": 3072,
+  "num_list_users": 51082,
+  "num_scoring_users": 14410,
+  "nsfw": "white",
+  "created_at": "2018-12-03T21:21:53+00:00",
+  "updated_at": "2023-12-27T16:26:05+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 104,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1687,
+      "name": "Yokohama Animation Lab"
+    }
+  ]
+}

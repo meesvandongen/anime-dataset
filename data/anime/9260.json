@@ -1,0 +1,60 @@
+{
+  "id": 9260,
+  "title": "Kizumonogatari I: Tekketsu-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1783/112810.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1783/112810l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koyomi Vamp"
+    ],
+    "en": "Kizumonogatari Part 1: Iron-Blooded",
+    "ja": "傷物語〈Ⅰ鉄血篇〉"
+  },
+  "start_date": "2016-01-08",
+  "end_date": "2016-01-08",
+  "synopsis": "During Koyomi Araragi's second year at Naoetsu Private High School, he has a chance encounter with Tsubasa Hanekawa, the top honor student in his class. When they strike up a conversation, Hanekawa mentions a shocking rumor: a vampire with beautiful blonde hair and freezing cold eyes has been seen lurking around town.\n\nHappy to have made a new friend, Araragi writes off the rumor and goes about the rest of his evening in a carefree manner. However, on his way home, he stumbles across splatters of blood leading down the stairs to the subway. His curiosity pushes him to investigate further, so he follows the gruesome pools into the depths of the station. \n\nWhen he arrives at the source of the blood, he is terrified by what he sees—the rumored blonde vampire herself, completely dismembered. After she calls for his help, Araragi must make a decision, one which carries the potential to change his life forever.\n\n[Written by MAL Rewrite]",
+  "mean": 8.36,
+  "rank": 210,
+  "popularity": 420,
+  "num_list_users": 528827,
+  "num_scoring_users": 284058,
+  "nsfw": "white",
+  "created_at": "2010-07-28T12:46:24+00:00",
+  "updated_at": "2023-09-10T04:31:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 3840,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 53199,
+  "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1023/134768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1023/134768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Gundam: The Witch from Mercury Season 2",
+    "ja": "機動戦士ガンダム 水星の魔女"
+  },
+  "start_date": "2023-04-09",
+  "end_date": "2023-07-02",
+  "synopsis": "After surviving a brutal terrorist attack on Plant Quetta, Suletta Mercury returns to dueling at the Asticassia School of Technology, while Miorine Rembran sits at her injured father's side, waiting to see if he will recover. As the residents of Earth House are preoccupied with their respective troubles, two members of Dawn of Fold—the perpetrators of the attack—secretly infiltrate the school, putting Suletta and her friends at risk.\n\nAt the same time, Prospera, Suletta's mother, approaches Miorine to propose the continuation of \"Quiet Zero\"—a project headed by Miorine's father that can allegedly end all war. Prospera seems to be another political figure with hidden, opposing motives, and whether she truly has Suletta's well-being at heart remains to be seen.\n\n[Written by MAL Rewrite]",
+  "mean": 7.94,
+  "rank": 712,
+  "popularity": 2266,
+  "num_list_users": 86797,
+  "num_scoring_users": 47846,
+  "nsfw": "white",
+  "created_at": "2022-09-29T09:10:04+00:00",
+  "updated_at": "2023-05-27T05:24:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

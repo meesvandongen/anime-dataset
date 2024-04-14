@@ -1,0 +1,62 @@
+{
+  "id": 32866,
+  "title": "Brave Witches",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/81854.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/81854l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Brave Witches",
+    "ja": "第502統合戦闘航空団 ブレイブウィッチーズ"
+  },
+  "start_date": "2016-10-06",
+  "end_date": "2016-12-29",
+  "synopsis": "As humanity's war with the Neuroi—a mysterious, hostile alien race possessing weapons of unparalleled power—continues being fought across Europe and Africa, a new fighter squadron is formed. The 502nd Joint Fighter Wing, also known as the Brave Witches, operates on the eastern front, scouring the icy vastness of Orussia in search of alien invaders.\n\nHowever, one of the Brave Witches' members suffers severe injuries on her way to the squadron's headquarters, rendering her unable to participate in any operations. As a result, her sister, Hikari Karibuchi, volunteers to take her place. Though not possessing any special abilities or significant magical powers, she is determined to live up to the expectations of her new comrades and prove herself worthy of the name of a Witch.\n\n[Written by MAL Rewrite]",
+  "mean": 6.8,
+  "rank": 5192,
+  "popularity": 2828,
+  "num_list_users": 59947,
+  "num_scoring_users": 21169,
+  "nsfw": "white",
+  "created_at": "2016-03-01T07:59:58+00:00",
+  "updated_at": "2022-04-12T09:19:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:35"
+  },
+  "source": "original",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

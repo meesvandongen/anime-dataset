@@ -1,0 +1,51 @@
+{
+  "id": 36811,
+  "title": "Kusakeiba",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/89014.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/89014l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Camptown Races"
+    ],
+    "en": "",
+    "ja": "草競馬"
+  },
+  "start_date": "1971-06-03",
+  "end_date": "1971-06-03",
+  "synopsis": "A Minna no Uta version of the classic English song \"Camptown Races.\"",
+  "mean": 5.16,
+  "popularity": 18055,
+  "num_list_users": 329,
+  "num_scoring_users": 145,
+  "nsfw": "white",
+  "created_at": "2017-11-15T11:57:44+00:00",
+  "updated_at": "2017-12-29T16:21:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1971,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 134,
+  "rating": "g",
+  "studios": []
+}

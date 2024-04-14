@@ -1,0 +1,41 @@
+{
+  "id": 47368,
+  "title": "Da Xing Zuo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1967/129610.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1967/129610l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "All About Zodiacs"
+    ],
+    "en": "",
+    "ja": "大星作"
+  },
+  "start_date": "2016-08-18",
+  "synopsis": "",
+  "rank": 19072,
+  "popularity": 24529,
+  "num_list_users": 71,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2021-02-03T15:45:30+00:00",
+  "updated_at": "2022-10-22T09:12:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": []
+}

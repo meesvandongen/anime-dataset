@@ -1,0 +1,65 @@
+{
+  "id": 8145,
+  "title": "Gegege no Kitarou: Nippon Bakuretsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/20485.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/20485l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Spooky Kitaro: Japan Explodes!!",
+    "ja": "劇場版 ゲゲゲの鬼太郎 日本爆裂!!"
+  },
+  "start_date": "2008-12-20",
+  "end_date": "2008-12-20",
+  "synopsis": "Movie based on the 2007 TV anime with an original plot.",
+  "mean": 6.59,
+  "rank": 6359,
+  "popularity": 12434,
+  "num_list_users": 1324,
+  "num_scoring_users": 399,
+  "nsfw": "white",
+  "created_at": "2010-02-11T20:11:30+00:00",
+  "updated_at": "2020-06-15T21:06:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "average_episode_duration": 4980,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

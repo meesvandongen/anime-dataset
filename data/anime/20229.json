@@ -1,0 +1,50 @@
+{
+  "id": 20229,
+  "title": "Makkuro na Obentou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/53839.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/53839l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Makkuro na Obento",
+      "Burnt Lunchbox",
+      "Burnt Rice",
+      "Charred Lunchbox",
+      "The Lunch Box"
+    ],
+    "en": "",
+    "ja": "まっ黒なおべんとう"
+  },
+  "start_date": "1990-06-12",
+  "end_date": "1990-06-12",
+  "synopsis": "On the 6th of August, 1945, an atomic bomb was dropped on the city of Hiroshima. A young boy, Shigeru, left home for his job as a building excavator that morning, carrying a bento made by his mother, only to never return home again. Before long, his mother managed to find Shigeru's remains, and she noticed the completely black and carbonized bento box next to them. \n\nThis is an anime adaptation of the original book, \"Makkuro na Obentou (The Charred Lunchbox)\" written by Kodama Tatsuharu and illustrated by Kitajima Shinpei. The bento box that becomes the focus of the story is actually on display in the Hiroshima Peace Memorial Museum.\n\n(Source: AniDB)",
+  "rank": 16174,
+  "popularity": 15963,
+  "num_list_users": 506,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2013-08-20T09:21:16+00:00",
+  "updated_at": "2013-08-20T09:21:16+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "spring"
+  },
+  "source": "book",
+  "average_episode_duration": 3000,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": 974,
+  "title": "Dead Leaves",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1827/112657.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1827/112657l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dead Leaves",
+    "ja": "デッド　リーブス"
+  },
+  "start_date": "2004-01-16",
+  "end_date": "2004-01-16",
+  "synopsis": "Shortly after waking up in an unknown street with no clothes or memories, Retro and Pandy team up and begin a life of thrill chasing and violence. Retro's wild antics and Pandy's carefree personality make them the perfect partners in crime to cause mayhem wherever they strike.\n\nWhen an accidental mistake lands them behind bars, Retro and Pandy are sent to Dead Leaves—a high-security prison on the Moon. Once there, they soon discover that the other inmates are clones, all products of genetic mutation experiments. With nothing better to do, they escape from their cell and lead a prison break with the other captives. Armed with a crew of mutants and a hunger for havoc, the chaotic duo begins their wacky escape.\n\n[Written by MAL Rewrite]",
+  "mean": 7.2,
+  "rank": 3245,
+  "popularity": 2156,
+  "num_list_users": 94069,
+  "num_scoring_users": 41690,
+  "nsfw": "white",
+  "created_at": "2006-05-15T06:06:49+00:00",
+  "updated_at": "2023-09-27T05:01:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 3132,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

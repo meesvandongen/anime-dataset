@@ -1,0 +1,62 @@
+{
+  "id": 2526,
+  "title": "Kirara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1335/94553.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1335/94553l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "KIRARA"
+  },
+  "start_date": "2000-09-21",
+  "end_date": "2000-09-21",
+  "synopsis": "Twenty-four-year-old Kirara is on her way to her wedding when she is killed in a car accident. However her love for her fiance is so strong that she is permitted to return to earth as a ghost to see him. But she is sent back 8 years in time, to when she and her fiancé first met. However her own meddling in the past may make her 16 year-old-self turn away from her would-be fiance.",
+  "mean": 6.05,
+  "rank": 9356,
+  "popularity": 8017,
+  "num_list_users": 5700,
+  "num_scoring_users": 2194,
+  "nsfw": "white",
+  "created_at": "2007-05-25T19:09:38+00:00",
+  "updated_at": "2021-02-02T21:29:13+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2340,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

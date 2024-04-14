@@ -1,0 +1,46 @@
+{
+  "id": 43762,
+  "title": "Hula Fulla Dance",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1874/117582.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1874/117582l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hula Fulla Dance",
+    "ja": "フラ・フラダンス"
+  },
+  "start_date": "2021-12-03",
+  "end_date": "2021-12-03",
+  "synopsis": "Natsunagi Hiwa, a novice, jumps into the world of Hula Girl after her sister.\n\n(Source: MAL News)",
+  "mean": 6.26,
+  "rank": 8273,
+  "popularity": 8689,
+  "num_list_users": 4616,
+  "num_scoring_users": 728,
+  "nsfw": "gray",
+  "created_at": "2020-11-05T09:17:10+00:00",
+  "updated_at": "2023-01-07T23:28:00+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 6536,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 34665,
+  "title": "Kemy Lang Buka Chaka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/83626.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/83626l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kemy & Buka, Chaka",
+    "ja": "깨미랑 부카채카"
+  },
+  "start_date": "2009-02-23",
+  "end_date": "2010-02-10",
+  "synopsis": "This anime is a fusion of 3D CGI and live-action. Majority of the episodes are Kemy, Buka, and Chaka in their animated club house but other parts of the episodes are the characters imposed on live footage of nature. The program solves various questions by looking at the world with the vision of infants who are still immature in the world.",
+  "rank": 15568,
+  "popularity": 19365,
+  "num_list_users": 251,
+  "num_scoring_users": 58,
+  "nsfw": "white",
+  "created_at": "2017-01-01T01:02:45+00:00",
+  "updated_at": "2017-01-01T01:02:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 156,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "09:25"
+  },
+  "source": "original",
+  "average_episode_duration": 581,
+  "rating": "g",
+  "studios": []
+}

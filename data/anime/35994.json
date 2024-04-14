@@ -1,0 +1,69 @@
+{
+  "id": 35994,
+  "title": "Satsuriku no Tenshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1862/95624l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Angel of Massacre",
+      "Angel of Slaughter"
+    ],
+    "en": "Angels of Death",
+    "ja": "殺戮の天使"
+  },
+  "start_date": "2018-07-06",
+  "end_date": "2018-10-26",
+  "synopsis": "With dead and lifeless eyes, Rachel Gardner wishes only to die. Waking up in the basement of a building, she has no idea how or why she's there. She stumbles across a bandaged murderer named Zack, who is trying to escape. After promising to kill her as soon as he is free, Rachel and Zack set out to ascend through the building floor by floor until they escape.\n\nHowever, as they progress upward, they meet more twisted people, and all of them seem familiar with Rachel. What is her connection to the building, and why was she placed in it? Facing a new boss on each floor, can Rachel and Zack both achieve their wishes?\n\n[Written by MAL Rewrite]",
+  "mean": 6.96,
+  "rank": 4465,
+  "popularity": 302,
+  "num_list_users": 669792,
+  "num_scoring_users": 316429,
+  "nsfw": "white",
+  "created_at": "2017-07-24T09:51:44+00:00",
+  "updated_at": "2022-11-04T21:54:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "20:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

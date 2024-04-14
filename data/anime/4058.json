@@ -1,0 +1,64 @@
+{
+  "id": 4058,
+  "title": "Makyou Gaiden Le Deus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1449/96410.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1449/96410l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Makyo Gaiden Le Deus",
+      "Demon Frontier Legend Le Deus",
+      "Demon Legend Le Deus",
+      "Radius",
+      "Makyou Gaiden LeDeus"
+    ],
+    "en": "Ladius",
+    "ja": "魔境外伝レ・ディウス"
+  },
+  "start_date": "1987-12-01",
+  "end_date": "1987-12-01",
+  "synopsis": "In a post-apocalyptic world, the treasure hunter Riot and his pretty sidekicks are searching for Eyes of Zalem, which they hope will guide them to Rido, the treasure of a long-lost Quall civilization. A limitless energy source, the Rido has the power to even restore life; but unfortunately for Riot, the evil Demsters are after it too. (from ANN)",
+  "mean": 5.5,
+  "rank": 11577,
+  "popularity": 10644,
+  "num_list_users": 2409,
+  "num_scoring_users": 936,
+  "nsfw": "white",
+  "created_at": "2008-03-06T03:00:08+00:00",
+  "updated_at": "2020-06-14T00:09:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 2880,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

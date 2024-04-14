@@ -1,0 +1,54 @@
+{
+  "id": 41807,
+  "title": "Get Up! Get Live! #Geragera",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1523/108199.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1523/108199l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "GETUP! GETLIVE! #げらげら"
+  },
+  "start_date": "2020-07-11",
+  "end_date": "2020-09-12",
+  "synopsis": "The story of the \"voice actor x 2D entertainer\" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)",
+  "mean": 5.55,
+  "rank": 11433,
+  "popularity": 12710,
+  "num_list_users": 1209,
+  "num_scoring_users": 143,
+  "nsfw": "white",
+  "created_at": "2020-04-27T04:50:23+00:00",
+  "updated_at": "2022-03-03T04:53:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:50"
+  },
+  "source": "other",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2063,
+      "name": "Spell Bound"
+    }
+  ]
+}

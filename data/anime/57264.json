@@ -1,0 +1,61 @@
+{
+  "id": 57264,
+  "title": "Bai Lian Cheng Shen 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1393/139861.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1393/139861l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Apotheosis 2nd Season",
+    "ja": "百炼成神 第二季"
+  },
+  "start_date": "2023-12-08",
+  "synopsis": "Second season of Bai Lian Cheng Shen.",
+  "mean": 7.15,
+  "rank": 3568,
+  "popularity": 14705,
+  "num_list_users": 682,
+  "num_scoring_users": 136,
+  "nsfw": "white",
+  "created_at": "2023-11-24T04:14:52+00:00",
+  "updated_at": "2023-11-24T09:31:08+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2636,
+      "name": "Qingxiang Culture"
+    }
+  ]
+}

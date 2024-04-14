@@ -1,0 +1,45 @@
+{
+  "id": 41707,
+  "title": "Chanto Kao ni Kaite Aru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1277/107073.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1277/107073l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ちゃんと顔に書いてある"
+  },
+  "start_date": "1987-10-01",
+  "end_date": "1987-10-01",
+  "synopsis": "Music video for the song Chanto Kao ni Kaite Aru by Japanese singer Iruka (Toshie Hosaka) that was featured on NHK's Minna no Uta program. The video was animated by Yasuhiko Suzuki.",
+  "popularity": 20345,
+  "num_list_users": 196,
+  "num_scoring_users": 97,
+  "nsfw": "white",
+  "created_at": "2020-04-17T03:33:55+00:00",
+  "updated_at": "2020-04-17T03:33:55+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": 33176,
+  "title": "Nyancos: Hello! Our Brilliant Future",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/79693.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/79693l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nyankosu"
+    ],
+    "en": "",
+    "ja": "ニャンコス Hello! Our Brilliant Future"
+  },
+  "start_date": "2003-12-17",
+  "end_date": "2003-12-17",
+  "synopsis": "Nyancos are UFO-riding cat women from space. They are whimsical, charming, and love all things beautiful and artistic as they watch worlds blossom. The OVA contains no dialogue, only background music. ",
+  "mean": 4.8,
+  "rank": 12880,
+  "popularity": 16497,
+  "num_list_users": 452,
+  "num_scoring_users": 165,
+  "nsfw": "white",
+  "created_at": "2016-04-11T04:45:34+00:00",
+  "updated_at": "2022-06-17T14:44:47+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1558,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1231,
+      "name": "OLM Digital"
+    }
+  ]
+}

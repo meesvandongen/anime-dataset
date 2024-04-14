@@ -1,0 +1,69 @@
+{
+  "id": 1420,
+  "title": "Lupin III: Russia yori Ai wo Komete",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/61697.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/61697l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lupin Sansei: Russia Yori Ai o Komete",
+      "Lupin III: From Russia With Love"
+    ],
+    "en": "Lupin III: From Siberia With Love",
+    "ja": "ルパン三世『ロシアより愛をこめて』"
+  },
+  "start_date": "1992-07-24",
+  "end_date": "1992-07-24",
+  "synopsis": "This time Lupin is after 500 tons of gold bullion that used to belong to the House of Romanov, the last rulers of the Russian Empire. His only clue is a code in an old book that a cipher machine has broken down to the words \"Bank of Liberty.\" As always, whenever Lupin's involved, the situation gets complicated. This adventure takes him through the USA and Russia, with loads of action and classic Lupin-style escapades along the way.\n\n(Source: AniDB)",
+  "mean": 6.67,
+  "rank": 5881,
+  "popularity": 7362,
+  "num_list_users": 6991,
+  "num_scoring_users": 2896,
+  "nsfw": "white",
+  "created_at": "2006-08-21T08:08:08+00:00",
+  "updated_at": "2023-12-27T07:14:45+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

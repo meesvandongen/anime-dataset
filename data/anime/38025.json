@@ -1,0 +1,50 @@
+{
+  "id": 38025,
+  "title": "Himitsukessha Taka no Tsume GG",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1227/93216.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1227/93216l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Frogman Show",
+      "Eagle Talon"
+    ],
+    "en": "",
+    "ja": "秘密結社 鷹の爪GG"
+  },
+  "start_date": "2018-07-19",
+  "synopsis": "A new season of Eagle Talon, this season focuses on current news stories in a panel-style show and will be distributed online. Eagle Talon still wants to conquer the world but they believe they have to understand the world first.\n\nFor example, the first episode talks about Starbucks deciding to remove plastic straws by 2020 which was announced publicly by the company a week before the Eagle Talon episode aired. ",
+  "rank": 20094,
+  "popularity": 16518,
+  "num_list_users": 451,
+  "num_scoring_users": 49,
+  "nsfw": "white",
+  "created_at": "2018-07-21T08:30:51+00:00",
+  "updated_at": "2021-01-31T15:17:24+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 113,
+  "rating": "g",
+  "studios": []
+}

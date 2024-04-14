@@ -1,0 +1,58 @@
+{
+  "id": 40332,
+  "title": "Kyochuu Rettou Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1721/119281.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1721/119281l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Island of Giant Insects Movie",
+    "ja": "劇場版 巨蟲列島"
+  },
+  "start_date": "2020-01-10",
+  "end_date": "2020-01-10",
+  "synopsis": "After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!\n\n(Source: MangaHelpers)",
+  "mean": 4.58,
+  "rank": 13064,
+  "popularity": 4466,
+  "num_list_users": 24274,
+  "num_scoring_users": 11476,
+  "nsfw": "white",
+  "created_at": "2019-08-31T02:45:01+00:00",
+  "updated_at": "2024-03-06T12:42:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 4583,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}

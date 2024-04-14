@@ -1,0 +1,46 @@
+{
+  "id": 29435,
+  "title": "Ongaku Sekai Ryokou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/70731.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/70731l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "World Tavel Music"
+    ],
+    "en": "",
+    "ja": "おんがく世界りょこう"
+  },
+  "start_date": "2011-03-07",
+  "end_date": "2014-09-19",
+  "synopsis": "Stop-motion animation using clay and puppets follows a musician and hit cat traveling the world and learning about music in different cultures while spreading their own songs.",
+  "rank": 17019,
+  "popularity": 18610,
+  "num_list_users": 294,
+  "num_scoring_users": 69,
+  "nsfw": "white",
+  "created_at": "2015-01-11T07:00:39+00:00",
+  "updated_at": "2024-02-29T06:52:17+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

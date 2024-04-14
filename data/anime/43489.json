@@ -1,0 +1,47 @@
+{
+  "id": 43489,
+  "title": "San Zhi Lang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1526/115751.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1526/115751l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Three Wolves"
+    ],
+    "en": "",
+    "ja": "三只狼"
+  },
+  "start_date": "1980-03",
+  "end_date": "1980-03",
+  "synopsis": "An old man goes to the market to sell some pork. However, on the way there, he is attacked by wolves on the mountain.",
+  "rank": 17688,
+  "popularity": 19570,
+  "num_list_users": 239,
+  "num_scoring_users": 86,
+  "nsfw": "white",
+  "created_at": "2020-10-19T13:00:33+00:00",
+  "updated_at": "2021-06-14T07:43:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1980,
+    "season": "winter"
+  },
+  "source": "book",
+  "average_episode_duration": 540,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 471,
+      "name": "Shanghai Animation Film Studio"
+    }
+  ]
+}

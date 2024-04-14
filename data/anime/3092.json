@@ -1,0 +1,65 @@
+{
+  "id": 3092,
+  "title": "Junjou Romantica",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/8811.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/8811l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Junjyou Romantica",
+      "Junjou Romantica: Pure Romance"
+    ],
+    "en": "Junjo Romantica",
+    "ja": "純情ロマンチカ"
+  },
+  "start_date": "2008-04-11",
+  "end_date": "2008-06-27",
+  "synopsis": "High school student Misaki Takahashi returns home to see his older brother being fondled by an unknown man. Bewildered by such a sight, Misaki finds out that the stranger is actually Akihiko Usami, a popular novelist and his brother's best friend. With the two of them slowly becoming acquainted, Akihiko ends up as Misaki's private tutor. However, after stumbling upon the author's latest boys-love novel, Misaki becomes uncertain whether or not to trust Akihiko regarding his friendship with the student's brother.\n\nElsewhere, Hiroki Kamijou, a university teacher of classical literature and Akihiko's friend, is grieving a failed romance. While on the edge of a mental breakdown, he meets student Nowaki Kusama, who wants his help for an upcoming exam. Despite denying Nowaki's request numerous times, Hiroki eventually lends him a hand. As the two get closer, more revelations about the student are made.\n\nFurthermore, when wealthy teenager Shinobu Takatsuki finds out that his older sister has divorced Hiroki's coworker You Miyagi, he immediately wants to date the same man—as he saved Shinobu from a robbery three years prior. Even so, You does not feel the same way and attempts to scare him off. However, the educator soon realizes that Shinobu will do anything for their destined romance.\n\nJunjou Romantica collects three love stories, narrating every couple's romance.\n\n[Written by MAL Rewrite]",
+  "mean": 7.48,
+  "rank": 1917,
+  "popularity": 948,
+  "num_list_users": 254988,
+  "num_scoring_users": 144977,
+  "nsfw": "white",
+  "created_at": "2007-09-06T20:10:31+00:00",
+  "updated_at": "2024-01-11T00:55:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

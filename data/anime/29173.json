@@ -1,0 +1,46 @@
+{
+  "id": 29173,
+  "title": "Tensai Banpaku Opening",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/70193.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/70193l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "TENSAI BANPAKU -GENIUS EXPO-"
+  },
+  "start_date": "2014-12-24",
+  "end_date": "2014-12-29",
+  "synopsis": "Two versions of opening animation for Tensai Banpaku Genius Expo directed by Mirai Mizue.",
+  "mean": 5.18,
+  "rank": 12390,
+  "popularity": 14193,
+  "num_list_users": 802,
+  "num_scoring_users": 397,
+  "nsfw": "white",
+  "created_at": "2014-12-31T14:29:10+00:00",
+  "updated_at": "2022-07-07T06:58:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1249,
+      "name": "Mirai Film"
+    }
+  ]
+}

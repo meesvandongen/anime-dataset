@@ -1,0 +1,40 @@
+{
+  "id": 57109,
+  "title": "Azur Lane 3rd Anniversary: Stars of the Port",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1652/139567.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1652/139567l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Azur Lane 3rd Anniversary: Stars of the Port"
+  },
+  "start_date": "2021-08-12",
+  "end_date": "2021-08-12",
+  "synopsis": "Le Malin and Dunkerque are presenting awards to different shipgirls for their dedication to the port. However, Le Malin might have a mishap?\n\n(Source: YouTube)",
+  "rank": 18313,
+  "popularity": 20583,
+  "num_list_users": 183,
+  "num_scoring_users": 65,
+  "nsfw": "white",
+  "created_at": "2023-11-10T06:11:02+00:00",
+  "updated_at": "2023-11-26T10:40:42+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 378,
+  "rating": "g",
+  "studios": []
+}

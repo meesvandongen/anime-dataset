@@ -1,0 +1,46 @@
+{
+  "id": 37072,
+  "title": "Naite Ita Onnanoko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/89916.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/89916l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "泣いていた女の子"
+  },
+  "start_date": "1979-04-03",
+  "end_date": "1979-04-03",
+  "synopsis": "A music piece about a girl who is sad waiting for her mother to come back from Tokyo.",
+  "mean": 5.41,
+  "popularity": 19206,
+  "num_list_users": 260,
+  "num_scoring_users": 124,
+  "nsfw": "white",
+  "created_at": "2018-01-07T03:46:44+00:00",
+  "updated_at": "2018-01-11T17:07:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 134,
+  "rating": "g",
+  "studios": []
+}

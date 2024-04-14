@@ -1,0 +1,49 @@
+{
+  "id": 50066,
+  "title": "Hajimari wa Kimi no Sora",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1357/118692.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1357/118692l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "始まりは君の空"
+  },
+  "start_date": "2021-04-07",
+  "end_date": "2021-04-07",
+  "synopsis": "Animated promotional video bundled with the release of idol unit Liella's first single, Hajimari wa Kimi no Sora.",
+  "mean": 7.05,
+  "popularity": 12423,
+  "num_list_users": 1327,
+  "num_scoring_users": 647,
+  "nsfw": "white",
+  "created_at": "2021-10-08T18:25:41+00:00",
+  "updated_at": "2022-03-21T04:45:57+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 396,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

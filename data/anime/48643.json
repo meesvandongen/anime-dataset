@@ -1,0 +1,68 @@
+{
+  "id": 48643,
+  "title": "Koi wa Sekai Seifuku no Ato de",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1347/120593.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1347/120593l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koiseka"
+    ],
+    "en": "Love After World Domination",
+    "ja": "恋は世界征服のあとで"
+  },
+  "start_date": "2022-04-08",
+  "end_date": "2022-06-24",
+  "synopsis": "Fudou Aikawa and Desumi Magahara have just started dating, but no one is allowed to know! Nicknamed \"Red Gelato,\" Fudou is the leader of \"Gelato 5,\" a group of heroes dedicated to protecting Japan. On the other hand, the \"Reaper Princess\" Desumi is one of the combatant leaders of \"Gekko,\" an evil secret society bent on world domination and considered Gelato 5's greatest foe. As they pretend to be mortal enemies, Fudou and Desumi sneak away from battle to spend time together.\n\nDespite their inexperience with romance, Fudou and Desumi strive to make their relationship work while avoiding suspicion from their comrades. With their loyalties divided between each other and their respective sides, the couple will have to stay on guard if they want to keep their love a secret from the rest of the world.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.41,
+  "rank": 2220,
+  "popularity": 1037,
+  "num_list_users": 232241,
+  "num_scoring_users": 98818,
+  "nsfw": "gray",
+  "created_at": "2021-04-02T11:15:27+00:00",
+  "updated_at": "2023-02-13T17:48:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

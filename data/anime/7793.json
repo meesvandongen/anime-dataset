@@ -1,0 +1,58 @@
+{
+  "id": 7793,
+  "title": "Ring ni Kakero 1: Kage Dou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/18864.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/18864l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Put It All in The Ring 1 Episode: Shadow Road",
+      "Ring ni Kakero 1: Shadow",
+      "Ring ni Kakero 1: Shadow-hen"
+    ],
+    "en": "",
+    "ja": "リングにかけろ1 影道編"
+  },
+  "start_date": "2010-04-02",
+  "end_date": "2010-06-17",
+  "synopsis": "After defeating Black Shaft's makeshift Team America, the Golden Japan Jr. team returns to training for the World Tournament that will be held in Tokyo. But during training the Shadow Clan, which uses boxing as an assassination technique, kidnaps Kiku in order to lure Ryuji and the others into a fight to see who's truly the better representatives of Japan's junior boxers.\n\n(Source: ANN)",
+  "mean": 6.57,
+  "rank": 6477,
+  "popularity": 11257,
+  "num_list_users": 1987,
+  "num_scoring_users": 501,
+  "nsfw": "white",
+  "created_at": "2009-12-30T17:14:21+00:00",
+  "updated_at": "2024-03-06T11:10:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

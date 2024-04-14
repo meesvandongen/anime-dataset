@@ -1,0 +1,53 @@
+{
+  "id": 23617,
+  "title": "Sore Ike! Anpanman: Ringo Boy to Minna no Negai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1227/119343.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1227/119343l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Anpanman: Apple Boy and Everyone's Hope",
+    "ja": "それいけ! アンパンマン りんごぼうやとみんなの願い"
+  },
+  "start_date": "2014-07-05",
+  "end_date": "2014-07-05",
+  "synopsis": "",
+  "mean": 6.35,
+  "rank": 7702,
+  "popularity": 16259,
+  "num_list_users": 474,
+  "num_scoring_users": 133,
+  "nsfw": "white",
+  "created_at": "2014-04-06T06:56:24+00:00",
+  "updated_at": "2015-02-07T19:55:43+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "average_episode_duration": 2760,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

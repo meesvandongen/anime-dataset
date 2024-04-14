@@ -1,0 +1,70 @@
+{
+  "id": 25681,
+  "title": "Kamisama Hajimemashita◎",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/69187.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/69187l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kamisama Hajimemashita 2nd Season",
+      "Kami-sama Hajimemashita 2nd Season",
+      "Kamisama Kiss 2nd Season"
+    ],
+    "en": "Kamisama Kiss Season 2",
+    "ja": "神様はじめました◎"
+  },
+  "start_date": "2015-01-06",
+  "end_date": "2015-03-31",
+  "synopsis": "Nanami Momozono and her familiars Tomoe and Mizuki have survived quite a few challenges since Nanami took up the mantle of Mikage Shrine's patron god. Naturally, the wind god Otohiko comes to invite Nanami to the Divine Assembly in Izumo, the home of the gods, and Nanami chooses to take Mizuki with her, leaving Tomoe to pose as her at school. However, she has an ulterior motive for attending the Divine Assembly: to discover the whereabouts of the missing Lord Mikage, the former god of the shrine. \n\nAfter her adventures in Izumo, Nanami meets Botanmaru, a tengu child looking for someone she knows all too well—tengu turned goth idol Shinjirou Kurama. Botanmaru needs Shinjirou, their prince, to return home to Mount Kurama and stop the tyranny of Jirou, who has taken over the rule of their hometown. However, Nanami soon discovers a force much darker than Jirou is at work on the mountain.\n\nAs a fledgling god becoming more accustomed to divinity, Nanami finds herself dealing with a tengu rebellion, her blooming feelings for Tomoe, and a strange man with ties to both Tomoe's past and Nanami's future.\n\n[Written by MAL Rewrite]",
+  "mean": 8.22,
+  "rank": 340,
+  "popularity": 557,
+  "num_list_users": 410329,
+  "num_scoring_users": 219833,
+  "nsfw": "white",
+  "created_at": "2014-08-01T08:02:39+00:00",
+  "updated_at": "2023-01-25T15:13:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "02:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 1435,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

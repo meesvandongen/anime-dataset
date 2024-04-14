@@ -1,0 +1,62 @@
+{
+  "id": 28915,
+  "title": "Hidamari Sketch x ☆☆☆ Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/70497.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/70497l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ひだまりスケッチ x ☆☆☆"
+  },
+  "start_date": "2012-09-26",
+  "end_date": "2012-09-26",
+  "synopsis": "Recap of Hidamari Sketch x ☆☆☆ series included on the limited edition Blu-Ray \"Hidamari Sketch Fan Disc / Mousugu! Hidamari Sketch x Honeycomb\". ",
+  "mean": 6.27,
+  "rank": 8216,
+  "popularity": 12115,
+  "num_list_users": 1474,
+  "num_scoring_users": 355,
+  "nsfw": "white",
+  "created_at": "2014-12-19T09:44:49+00:00",
+  "updated_at": "2023-09-12T22:26:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 4052,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

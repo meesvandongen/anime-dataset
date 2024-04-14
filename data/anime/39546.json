@@ -1,0 +1,54 @@
+{
+  "id": 39546,
+  "title": "Mukashibanashi Dokkiri Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1948/99820.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1948/99820l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yarisugi!!! Itazura-kun"
+    ],
+    "en": "",
+    "ja": "昔話ドッキリアニメ"
+  },
+  "start_date": "2019-02-09",
+  "end_date": "2019-05-16",
+  "synopsis": "CoroCoro Comic's Yarisugi!!! Itazura-kun, in honor of it's 3rd manga volume going on sale, received web shorts on CoroCoro Comic's official YouTube channel. Itazura-kun loves pranks and thinks about them 24/7. These web shorts are Itazura-kun's re-imagining of classic folktales such as Cinderella and Momotarou.",
+  "rank": 16660,
+  "popularity": 20550,
+  "num_list_users": 185,
+  "num_scoring_users": 37,
+  "nsfw": "white",
+  "created_at": "2019-03-16T06:59:33+00:00",
+  "updated_at": "2022-06-10T15:49:57+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 110,
+  "rating": "g",
+  "studios": []
+}

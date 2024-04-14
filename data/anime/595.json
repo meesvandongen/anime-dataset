@@ -1,0 +1,70 @@
+{
+  "id": 595,
+  "title": "X OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/83082.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/83082l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "X - Yochou",
+      "X OVA: Episode 0",
+      "X - An Omen"
+    ],
+    "en": "X: An Omen",
+    "ja": "X -エックス-第零話 予兆"
+  },
+  "start_date": "2001-08-25",
+  "end_date": "2001-08-25",
+  "synopsis": "In this prequel to the \"X\" TV series, a beautiful, young, bedridden dreamgazer named Kakyou remembers the life and death of a remarkable young woman whom he met in dreams. He also recounts his dreams of a tragic future in which the fate of the Earth will be decided.\n\n(Source: ANN)",
+  "mean": 6.78,
+  "rank": 5330,
+  "popularity": 5670,
+  "num_list_users": 13396,
+  "num_scoring_users": 6233,
+  "nsfw": "white",
+  "created_at": "2006-01-29T04:59:30+00:00",
+  "updated_at": "2023-09-19T02:55:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

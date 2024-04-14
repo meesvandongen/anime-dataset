@@ -1,0 +1,57 @@
+{
+  "id": 53835,
+  "title": "Unnamed Memory",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1143/142439.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1143/142439l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Unnamed Memory",
+    "ja": "Unnamed Memory"
+  },
+  "start_date": "2024-04-09",
+  "synopsis": "\"My wish as champion is for you to descend the tower and be my wife.\" Climbing a deadly tower, Oscar seeks the power of its master, the Witch of the Azure Moon. He hopes her incredible magic can break a curse that will kill any woman he takes for a wife. When the prince sees how beautiful Tinasha is, though, he has a better idea—since she's surely strong enough to survive his curse, she should just marry him instead! Tinasha isn't keen on the idea, but agrees to live with Oscar in the royal castle for a year while researching the spell placed on the prince. The witch's pretty face hides several lifetimes of dark secrets, however—secrets that begin resurfacing...\n\n(Source: Yen Press)",
+  "mean": 7.42,
+  "rank": 2180,
+  "popularity": 2822,
+  "num_list_users": 60089,
+  "num_scoring_users": 4582,
+  "nsfw": "white",
+  "created_at": "2022-12-13T11:20:42+00:00",
+  "updated_at": "2024-04-09T16:55:22+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1974,
+      "name": "ENGI"
+    }
+  ]
+}

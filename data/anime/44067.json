@@ -1,0 +1,59 @@
+{
+  "id": 44067,
+  "title": "Bai Yao Pu 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1898/115957.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1898/115957l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Manual of Hundred Demons 2nd Season"
+    ],
+    "en": "Fairies Albums 2",
+    "ja": "百妖谱 第二季"
+  },
+  "start_date": "2021-07-18",
+  "end_date": "2021-09-26",
+  "synopsis": "Second season of Bai Yao Pu.",
+  "mean": 7.31,
+  "rank": 2671,
+  "popularity": 9011,
+  "num_list_users": 4134,
+  "num_scoring_users": 1085,
+  "nsfw": "white",
+  "created_at": "2020-11-21T13:59:23+00:00",
+  "updated_at": "2021-11-20T17:30:22+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 1281,
+  "rating": "pg_13",
+  "studios": []
+}

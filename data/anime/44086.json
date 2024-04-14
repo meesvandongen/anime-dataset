@@ -1,0 +1,49 @@
+{
+  "id": 44086,
+  "title": "Prayer X",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1576/110329.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1576/110329l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Prayer X"
+  },
+  "start_date": "2018-08-06",
+  "end_date": "2018-08-06",
+  "synopsis": "Music video directed and animated by Ryoji Yamada for the song Prayer X by King Gnu\n\nIn the music video Prayer X, King Gnu takes an abstract and animated approach to mental health topics such as paranoia, anxiety, depression, and suicide. The setting is in a grey monotonous world where the main character is trapped inside a repetitive schedule which slowly drives him insane.\n\n(Source: JROCK NEWS)",
+  "mean": 7.08,
+  "popularity": 10524,
+  "num_list_users": 2496,
+  "num_scoring_users": 1434,
+  "nsfw": "white",
+  "created_at": "2020-11-22T13:52:48+00:00",
+  "updated_at": "2022-04-15T21:02:56+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 199,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2122,
+      "name": "PERIMETRON"
+    }
+  ]
+}

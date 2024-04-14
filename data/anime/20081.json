@@ -1,0 +1,54 @@
+{
+  "id": 20081,
+  "title": "Ijiwaru Baasan (1996)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/53519.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/53519l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Granny Mischief",
+      "Ijiwaru Baa-san"
+    ],
+    "en": "",
+    "ja": "いじわるばあさん"
+  },
+  "start_date": "1996-03-19",
+  "end_date": "1997-06-13",
+  "synopsis": "Grandma is a nasty and manipulative thing most of the time, causing endless trouble for her son-in-law and daughter, her grandchildren, and her neighbours.\n\n(Source: ANN)",
+  "rank": 20345,
+  "popularity": 17020,
+  "num_list_users": 409,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2013-08-12T13:54:26+00:00",
+  "updated_at": "2021-02-11T15:45:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 46,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:30"
+  },
+  "average_episode_duration": 1500,
+  "studios": [
+    {
+      "id": 191,
+      "name": "Eiken"
+    }
+  ]
+}

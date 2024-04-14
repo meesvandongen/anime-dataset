@@ -1,0 +1,45 @@
+{
+  "id": 38977,
+  "title": "On the Table",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1842/98176.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1842/98176l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "on the table",
+    "ja": "on the table"
+  },
+  "start_date": "2011-07-09",
+  "end_date": "2011-07-09",
+  "synopsis": "A psychedelic short animation by Masanobu Hiraoka.",
+  "mean": 5.4,
+  "rank": 11880,
+  "popularity": 16235,
+  "num_list_users": 476,
+  "num_scoring_users": 215,
+  "nsfw": "white",
+  "created_at": "2019-01-05T18:39:47+00:00",
+  "updated_at": "2020-03-15T19:42:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 186,
+  "rating": "g",
+  "studios": []
+}

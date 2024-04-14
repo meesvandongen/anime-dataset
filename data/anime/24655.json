@@ -1,0 +1,64 @@
+{
+  "id": 24655,
+  "title": "Date A Live Movie: Mayuri Judgment",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75466.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75466l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Date A Live"
+    ],
+    "en": "Date A Live Movie: Mayuri Judgement",
+    "ja": "劇場版 デート・ア・ライブ 万由里ジャッジメント"
+  },
+  "start_date": "2015-08-22",
+  "end_date": "2015-08-22",
+  "synopsis": "War(Date), resumes.\nThe peaceful days of Itsuka Shidou returned without having to save the Spirits from the relentless battle days. But, the peaceful days were interrupted by the emergence of a mysterious sphere emitting spiritual wave――as well as a mysterious girl who showed herself at the same time. What is her purpose of keeping an eye on Shidou……? The mission that had been entrusted to Shidou under the tense situation was, \n\n“Date all of the Spirits, and make them fall in love?!”\n\n――With the fate of humanity at stake, the war(date) resumes!\n\n(Source: Date A Live Wiki)",
+  "mean": 7.32,
+  "rank": 2624,
+  "popularity": 1168,
+  "num_list_users": 205607,
+  "num_scoring_users": 114316,
+  "nsfw": "white",
+  "created_at": "2014-06-13T17:50:48+00:00",
+  "updated_at": "2024-02-15T12:37:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 4320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1053,
+      "name": "Production IMS"
+    }
+  ]
+}

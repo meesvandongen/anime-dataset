@@ -1,0 +1,49 @@
+{
+  "id": 8450,
+  "title": "Guskou Budori no Denki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/22300.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/22300l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gusukobudori no Denki",
+      "Biography of Gusuko Budori"
+    ],
+    "en": "The Life of Guskou Budori",
+    "ja": "グスコーブドリの伝記"
+  },
+  "start_date": "1994-07-16",
+  "end_date": "1994-07-16",
+  "synopsis": "The Biography of Budori Gusko was the recipient of numerous awards including the Monbusho Selection. The original novella on which the film is based is one of Kenji Miyazawa's more famous works, alongside Matasaburo the Wind Imp, Gauche the Cellist and Night on the Galactic Railroad. The story follows the life of a young boy named Gusuko who lives in the countryside with his parents and little sister. A string of droughts and other natural disasters tear the family apart, and Gusuko is forced to leave home and seek his fortunes on his own. Driven by a desire to improve the quality of life of his poor countrymen, he eventually joins a group of scientists called the Iihatov Volcano Department, and there takes part in scientific projects to fight the natural disasters that drove him from his home.\n\n(Source: pelleas.net)",
+  "mean": 6.29,
+  "rank": 8095,
+  "popularity": 11663,
+  "num_list_users": 1722,
+  "num_scoring_users": 289,
+  "nsfw": "white",
+  "created_at": "2010-03-22T16:05:28+00:00",
+  "updated_at": "2020-03-26T18:38:01+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 5042,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 386,
+      "name": "Animaruya"
+    }
+  ]
+}

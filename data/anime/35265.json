@@ -1,0 +1,61 @@
+{
+  "id": 35265,
+  "title": "Monster Strike: Katsubou no Hate no Risoukyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/84955.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/84955l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Monster Strike 2 Episode 0",
+      "Monsuto Anime: Katsubou no Hate no Risoukyou"
+    ],
+    "en": "The Night Before Special: The Long-Awaited Utopia",
+    "ja": "モンストアニメ 渇望の果ての理想郷"
+  },
+  "start_date": "2017-03-25",
+  "end_date": "2017-03-25",
+  "synopsis": "Episode 0 of Monsuto Anime. It is the first item in the franchise to be completely animated in CG.\n\nThe big threat is passed, but the gang's still got little threats to handle. The monsters are becoming a part of daily life, but there's one big thing missing: Oragon. One day, a powerful monster appears in the middle of town. It's got Oragon inside!\n\n(Source: Crunchyroll)",
+  "mean": 5.98,
+  "rank": 9649,
+  "popularity": 10556,
+  "num_list_users": 2463,
+  "num_scoring_users": 767,
+  "nsfw": "white",
+  "created_at": "2017-03-26T01:13:35+00:00",
+  "updated_at": "2022-09-04T06:42:52+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 911,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    },
+    {
+      "id": 1687,
+      "name": "Yokohama Animation Lab"
+    }
+  ]
+}

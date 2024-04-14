@@ -1,0 +1,46 @@
+{
+  "id": 37528,
+  "title": "Decadence: Remix",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1423/91232.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1423/91232l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Decadence Animal Collective remix"
+    ],
+    "en": "Decadence-Remix-",
+    "ja": "Decadence-Remix-"
+  },
+  "start_date": "2012-04-14",
+  "end_date": "2012-04-14",
+  "synopsis": "Music video for Heavenstamp's Decadence (Animal Collective remix) song created by Rabbit MACHINE for their 2012 music video competition.",
+  "mean": 5.11,
+  "popularity": 15293,
+  "num_list_users": 585,
+  "num_scoring_users": 265,
+  "nsfw": "white",
+  "created_at": "2018-03-20T09:37:24+00:00",
+  "updated_at": "2021-10-28T02:37:54+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 253,
+  "rating": "g",
+  "studios": []
+}

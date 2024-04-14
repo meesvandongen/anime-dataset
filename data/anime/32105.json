@@ -1,0 +1,66 @@
+{
+  "id": 32105,
+  "title": "Sousei no Onmyouji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/79556.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/79556l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Twin Star Exorcists",
+    "ja": "双星の陰陽師"
+  },
+  "start_date": "2016-04-06",
+  "end_date": "2017-03-29",
+  "synopsis": "Magano, a parallel realm filled with monsters known as \"Kegare,\" is a place where exorcists deal with all impurities. Benio Adashino is a prodigy exorcist who is recognized for her strength and is summoned to Tokyo by the Exorcist Union. On her way, she plummets into the arms of Rokuro Enmadou, a young exorcist with a troubled past.\n\nBut the impurities of Magano do not rest. When these two exorcists witness a couple of children stolen by a Kegare, Benio rushes to save them, dragging Rokuro along with her into Magano. Engaged in a fight she is on the verge of being defeated in, Benio is saved by Rokuro, revealing himself capable of being her rival in talent.\n\nSousei no Onmyouji tells the story of two talented exorcists who are destined to become the \"Twin Star Exorcists\" and the prophesised parents of the Miko—the reincarnation of Abe no Seimei—who will cleanse the world of all impurities.\n\n[Written by MAL Rewrite]",
+  "mean": 7.3,
+  "rank": 2723,
+  "popularity": 430,
+  "num_list_users": 513244,
+  "num_scoring_users": 215640,
+  "nsfw": "white",
+  "created_at": "2015-11-20T00:18:00+00:00",
+  "updated_at": "2023-09-05T02:18:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 56979,
+  "title": "2-tsu no Yubiwa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1564/139285.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1564/139285l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Futatsu no Yubiwa",
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "２つのゆびわ"
+  },
+  "start_date": "2016-02-01",
+  "end_date": "2016-02-01",
+  "synopsis": "Music video for the song 2-tsu no Yubiwa by Megumi Sakata and Osamu Sakata that was featured on NHK's Minna no Uta program.",
+  "popularity": 23114,
+  "num_list_users": 91,
+  "num_scoring_users": 38,
+  "nsfw": "white",
+  "created_at": "2023-10-24T02:47:40+00:00",
+  "updated_at": "2023-10-24T02:47:40+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2846,
+      "name": "Studio Bingo"
+    }
+  ]
+}

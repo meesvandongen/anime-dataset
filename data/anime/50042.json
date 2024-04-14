@@ -1,0 +1,40 @@
+{
+  "id": 50042,
+  "title": "Yoru no Pierrot (TeddyLoid Remix)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1460/118600.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1460/118600l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "夜のピエロ（TeddyLoid Remix）"
+  },
+  "start_date": "2021-07-29",
+  "end_date": "2021-07-29",
+  "synopsis": "Music video directed by Kousuke Tsukagawa and Kouji Aramaki for the song Yoru no Pierrot (TeddyLoid Remix) by Ado. Remixed by Teddyloid, this music video was produced as a part of Google's \"I DISPLAY music.\" project.\n\n(Source: Anilist)",
+  "mean": 6.67,
+  "popularity": 14182,
+  "num_list_users": 805,
+  "num_scoring_users": 466,
+  "nsfw": "white",
+  "created_at": "2021-10-07T08:15:57+00:00",
+  "updated_at": "2021-10-10T13:01:45+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 226,
+  "rating": "g",
+  "studios": []
+}

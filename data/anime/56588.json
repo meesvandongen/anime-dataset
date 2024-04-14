@@ -1,0 +1,54 @@
+{
+  "id": 56588,
+  "title": "Ochibi-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1476/138339.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1476/138339l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "オチビサン"
+  },
+  "start_date": "2023-10-08",
+  "end_date": "2024-03-31",
+  "synopsis": "\"I can help you laugh, but I can't take away the tears you've shed.\" In Mametsubu-cho, a town somewhere in the ancient Japanese city of Kamakura, Ochibi-san lives a relaxed, easy life. With his friend Nazeni the dog, Jack the naughty kitten, and Pankui the hungry dog, Ochibi-san's year in Mametsubu-cho is filled with encounters and new discoveries! Flower-viewing in spring, swimming in summer, collecting leaves in fall, and eating yummy food in winter.\n\n(Source: Crunchyroll)",
+  "mean": 6.36,
+  "rank": 7687,
+  "popularity": 13997,
+  "num_list_users": 850,
+  "num_scoring_users": 202,
+  "nsfw": "white",
+  "created_at": "2023-09-08T09:02:19+00:00",
+  "updated_at": "2024-03-28T14:25:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 47,
+      "name": "Khara"
+    }
+  ]
+}

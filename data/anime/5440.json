@@ -1,0 +1,69 @@
+{
+  "id": 5440,
+  "title": "Ougon Yuusha Goldran",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/11118.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/11118l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ogon Yusha Gorudoran",
+      "Golden Brave Goldran"
+    ],
+    "en": "The Brave of Gold Goldran",
+    "ja": "黄金勇者ゴルドラン"
+  },
+  "start_date": "1995-02-04",
+  "end_date": "1996-01-27",
+  "synopsis": "Goldran follows the adventures of three young boys who are tasked with finding alien robot fighters, or Braves, that are sleeping in the form of crystals. Their major antagonist is the flamboyant and thoroughly incompetent Walter, and the villains that follow him are often similarly humorous. \n\n(Source: Wikipedia)",
+  "mean": 7.02,
+  "rank": 4222,
+  "popularity": 9968,
+  "num_list_users": 2976,
+  "num_scoring_users": 691,
+  "nsfw": "white",
+  "created_at": "2008-10-26T07:33:59+00:00",
+  "updated_at": "2022-11-23T21:05:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 48,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

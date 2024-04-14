@@ -1,0 +1,57 @@
+{
+  "id": 39014,
+  "title": "Free! Movie 3: Road to the World - Yume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1643/102220.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1643/102220l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Free! 3rd Season Movie",
+      "Free! Dive to the Future Movie"
+    ],
+    "en": "",
+    "ja": "劇場版 Free!-Road to the World-夢"
+  },
+  "start_date": "2019-07-05",
+  "end_date": "2019-07-05",
+  "synopsis": "Recap of the Free!: Dive to the Future TV series featuring new scenes.",
+  "mean": 7.73,
+  "rank": 1155,
+  "popularity": 4144,
+  "num_list_users": 28548,
+  "num_scoring_users": 7298,
+  "nsfw": "white",
+  "created_at": "2019-01-14T08:36:49+00:00",
+  "updated_at": "2022-04-22T19:35:34+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5964,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    },
+    {
+      "id": 929,
+      "name": "Animation Do"
+    }
+  ]
+}

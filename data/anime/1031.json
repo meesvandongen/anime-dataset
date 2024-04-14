@@ -1,0 +1,50 @@
+{
+  "id": 1031,
+  "title": "Hanare Toride no Yonna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/24282.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/24282l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Yonna in the Solitary Fortress",
+    "ja": "はなれ砦のヨナ"
+  },
+  "start_date": "2006-04-08",
+  "end_date": "2006-04-08",
+  "synopsis": "Yonna and Stan, brother and sister, live in isolation because of their special powers. There are enigmatic people who plot to use their power, in conflict with the king`s government, which is also planning to draw them onto their side. Intrigue surrounds Yonna, and now a new agent comes to see her.\n\n(Source: AniDB)",
+  "mean": 4.91,
+  "rank": 12764,
+  "popularity": 10147,
+  "num_list_users": 2800,
+  "num_scoring_users": 1266,
+  "nsfw": "white",
+  "created_at": "2006-06-01T18:58:23+00:00",
+  "updated_at": "2016-04-12T04:01:11+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1995,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
+}

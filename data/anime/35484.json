@@ -1,0 +1,62 @@
+{
+  "id": 35484,
+  "title": "Osake wa Fuufu ni Natte kara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1684/108627.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1684/108627l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Love is Like a Cocktail",
+    "ja": "お酒は夫婦になってから"
+  },
+  "start_date": "2017-10-04",
+  "end_date": "2017-12-27",
+  "synopsis": "Chisato Mizusawa is a calm and collected assistant office manager who apparently dislikes drinking alcohol. But she actually likes it and has a secret side to her that emerges only when drunk: her cute persona, which she only reveals to her husband, the bartender Sora. Each day when Chisato comes home, Sora takes care of his beloved wife, providing her with a good meal and a fresh drink. These drinks include Plum Splet, Irish Coffee, Orange Breeze, and many more tasty concoctions that she eagerly gulps down. But as much as she likes alcohol, she loves her kindhearted husband more. Together, they share a life that is filled with happiness—and the more-than-occasional cocktail.\n\n[Written by MAL Rewrite]",
+  "mean": 6.96,
+  "rank": 4462,
+  "popularity": 1116,
+  "num_list_users": 216388,
+  "num_scoring_users": 104242,
+  "nsfw": "white",
+  "created_at": "2017-04-28T18:54:20+00:00",
+  "updated_at": "2022-10-13T10:32:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1195,
+      "name": "Creators in Pack"
+    }
+  ]
+}

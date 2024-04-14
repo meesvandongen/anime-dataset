@@ -1,0 +1,68 @@
+{
+  "id": 15609,
+  "title": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/51459.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/51459l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kono Naka ni Hitori, Imouto ga Iru! OVA",
+      "Kono Naka ni Hitori, Imouto ga Iru! Episode 13",
+      "NakaImo, One of Them is My Younger Sister! OVA",
+      "Who is Imouto? OVA",
+      "NAKAIMO - My Little Sister Is Among Them! OVA"
+    ],
+    "en": "",
+    "ja": "この中に1人、妹がいる！兄、妹、恋人"
+  },
+  "start_date": "2013-03-27",
+  "end_date": "2013-03-27",
+  "synopsis": "Unaired 13th episode of the TV series.",
+  "mean": 6.7,
+  "rank": 5715,
+  "popularity": 3231,
+  "num_list_users": 46300,
+  "num_scoring_users": 24016,
+  "nsfw": "white",
+  "created_at": "2012-09-20T19:47:27+00:00",
+  "updated_at": "2022-03-31T04:49:57+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1423,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

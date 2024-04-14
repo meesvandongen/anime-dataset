@@ -1,0 +1,39 @@
+{
+  "id": 55423,
+  "title": "Dorothy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1786/136068.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1786/136068l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dorothy",
+    "ja": "ドロシー"
+  },
+  "start_date": "2022-08-05",
+  "end_date": "2022-08-05",
+  "synopsis": "Music video for Dorothy by KANKAN.",
+  "popularity": 21710,
+  "num_list_users": 128,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2023-05-24T00:53:32+00:00",
+  "updated_at": "2023-06-17T10:59:47+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 87,
+  "rating": "pg_13",
+  "studios": []
+}

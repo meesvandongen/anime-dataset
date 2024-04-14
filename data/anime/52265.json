@@ -1,0 +1,47 @@
+{
+  "id": 52265,
+  "title": "Chong Chu Diqiu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1219/124885.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1219/124885l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Rainbow Sea Fly High",
+    "ja": "冲出地球"
+  },
+  "start_date": "2022-07-16",
+  "end_date": "2022-07-16",
+  "synopsis": "",
+  "rank": 18912,
+  "popularity": 15274,
+  "num_list_users": 589,
+  "num_scoring_users": 66,
+  "nsfw": "white",
+  "created_at": "2022-06-30T04:22:30+00:00",
+  "updated_at": "2022-07-01T08:37:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "average_episode_duration": 6000,
+  "rating": "pg_13",
+  "studios": []
+}

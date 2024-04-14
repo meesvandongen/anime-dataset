@@ -1,0 +1,51 @@
+{
+  "id": 41280,
+  "title": "Anne's Secret Diary",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1774/105966.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1774/105966l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Name is Red-Haired Anne"
+    ],
+    "en": "",
+    "ja": "ANNE’s SECRET DIARY"
+  },
+  "start_date": "2019-06-28",
+  "end_date": "2019-06-28",
+  "synopsis": "Videos directed by mareykrap that were featured at the My Name is Red-Haired Anne art exhibition in Seoul, South Korea, which showcases the artistic talents of Korean artists through the imaginative retelling and reinterpretation of Anne of Green Gables. These videos were used for the 1st chapter of the exhibit titled \"A Poor Orphan Girl\".",
+  "mean": 5.97,
+  "rank": 9692,
+  "popularity": 17269,
+  "num_list_users": 390,
+  "num_scoring_users": 142,
+  "nsfw": "white",
+  "created_at": "2020-02-10T06:17:46+00:00",
+  "updated_at": "2020-02-10T06:17:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 249,
+  "rating": "pg_13",
+  "studios": []
+}

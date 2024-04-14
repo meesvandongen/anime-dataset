@@ -1,0 +1,40 @@
+{
+  "id": 26035,
+  "title": "Sweet Spot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/70331.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/70331l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スイートスポット"
+  },
+  "start_date": "1991-04-21",
+  "end_date": "1991-04-21",
+  "synopsis": "These \"amusing\" adventures of a golf-crazy Office Lady were based on a manga from Weekly Spa! magazine by Yutsuko Chudoji.\n\n(Source: The Anime Encyclopedia)",
+  "mean": 5.29,
+  "rank": 12150,
+  "popularity": 13567,
+  "num_list_users": 952,
+  "num_scoring_users": 310,
+  "nsfw": "white",
+  "created_at": "2014-08-19T05:53:43+00:00",
+  "updated_at": "2021-05-01T22:16:17+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "average_episode_duration": 2669,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": 32851,
+  "title": "Riding the Storm",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/78759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/78759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Riding the Storm"
+  },
+  "start_date": "2007-06-18",
+  "end_date": "2007-06-18",
+  "synopsis": "A music video for Cro-Magnon's song \"Riding the Storm\". ",
+  "mean": 4.95,
+  "popularity": 17627,
+  "num_list_users": 364,
+  "num_scoring_users": 182,
+  "nsfw": "white",
+  "created_at": "2016-02-29T00:36:30+00:00",
+  "updated_at": "2016-05-29T02:52:33+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 276,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1525,
+      "name": "Moss Design Unit"
+    }
+  ]
+}

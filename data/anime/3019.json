@@ -1,0 +1,73 @@
+{
+  "id": 3019,
+  "title": "Lupin III: Kiri no Elusive",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/34793.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/34793l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lupin III: Elusiveness of the Fog",
+      "Rupan Sansei: Kiri no Elusive"
+    ],
+    "en": "Lupin III: Elusiveness of the Fog",
+    "ja": "ルパン三世 霧のエリューシヴ"
+  },
+  "start_date": "2007-07-27",
+  "end_date": "2007-07-27",
+  "synopsis": "On the ocean floor, Lupin is once again seeking a treasure hoping to get on Fujiko's good side. As Zenigata chases them on sea and land, people around the gang begin to vanish mysteriously. The fog rolls in and Mamo Kyosuke appears in a burst of light; he claims to be from the future and seeks revenge on Lupin III for what Lupin XIII has done to him. Mamo hurls Lupin, Jigen, Goemon, and Zenigata 500 years into the past; as two warring factions fight over a legendary shrine dedicated to time travel, Lupin must find a way to survive the past to ensure his future.\n\n(Source: Lupin III Encyclopedia)\n\nThis movie is a remake of episode 13 in the original Lupin III series.",
+  "mean": 6.78,
+  "rank": 5310,
+  "popularity": 7664,
+  "num_list_users": 6355,
+  "num_scoring_users": 2511,
+  "nsfw": "white",
+  "created_at": "2007-08-20T16:51:58+00:00",
+  "updated_at": "2021-08-26T20:01:17+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

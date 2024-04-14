@@ -1,0 +1,62 @@
+{
+  "id": 31741,
+  "title": "Magi: Sinbad no Bouken (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/78783.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/78783l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magi: Adventure of Sinbad",
+    "ja": "マギ シンドバッドの冒険"
+  },
+  "start_date": "2016-04-16",
+  "end_date": "2016-07-02",
+  "synopsis": "In the small, impoverished Tison Village of the Parthevia Empire, a boy, Sinbad, is born to the jaded ex-soldier Badr and his kind-hearted wife Esra. His birth creates a radiant surge throughout the rukh, a declaration of a singularity to those who stand at the pinnacle of magical might: the \"Child of Destiny\" is here. Despite his country being plagued by economic instability and the repercussions of war, Sinbad leads a cheerful life—until a stranger's arrival shatters his peaceful world, and tragedy soon befalls him.\n\nYears later, mysterious edifices called \"dungeons\" have been erected all over the world. Rumored to contain great power and treasures, these dungeons piqued the interest of adventurers and armies alike; though to this day, none have returned therefrom. Sinbad, now 14, has grown into a charming and talented young boy. Inspired by the shocking events of his childhood and by his father's words, he yearns to begin exploring the world beyond his village. As though orchestrated by fate, Sinbad meets an enigmatic traveler named Yunan. Stirred by Sinbad's story and ambitions, Yunan directs him to a dungeon which he claims holds the power Sinbad needs to achieve his goals—the \"power of a king.\"\n\nMagi: Sinbad no Bouken tells the epic saga of Sinbad's early life as he travels the world, honing his skill and influence, while gathering allies and power to become the High King of the Seven Seas.\n\n[Written by MAL Rewrite]",
+  "mean": 7.84,
+  "rank": 897,
+  "popularity": 466,
+  "num_list_users": 480201,
+  "num_scoring_users": 259359,
+  "nsfw": "white",
+  "created_at": "2015-09-29T17:40:29+00:00",
+  "updated_at": "2022-04-17T01:30:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "02:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1087,
+      "name": "Lay-duce"
+    }
+  ]
+}

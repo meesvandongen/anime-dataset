@@ -1,0 +1,39 @@
+{
+  "id": 55820,
+  "title": "R.Yuk",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1401/136786.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1401/136786l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "リ・ユーク"
+  },
+  "start_date": "2020-11-22",
+  "end_date": "2020-11-22",
+  "synopsis": "Music video for the song R.Yuk by Kankan.",
+  "popularity": 22405,
+  "num_list_users": 105,
+  "num_scoring_users": 60,
+  "nsfw": "white",
+  "created_at": "2023-07-01T05:59:16+00:00",
+  "updated_at": "2023-07-02T06:20:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 110,
+  "rating": "pg_13",
+  "studios": []
+}

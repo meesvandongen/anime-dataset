@@ -1,0 +1,61 @@
+{
+  "id": 1530,
+  "title": "Kanon (2006)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1362/128746.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1362/128746l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kanon Remake",
+      "Kanon 2006"
+    ],
+    "en": "Kanon",
+    "ja": "カノン (2006)"
+  },
+  "start_date": "2006-10-06",
+  "end_date": "2007-03-16",
+  "synopsis": "As a young child, Aizawa Yuuichi had often visited his cousin in the city; however, something drastic happened to keep him away for seven long years. Now, Yuuichi returns, his memories of those days are simply gone.\n\nSettling into the wintry town, Yuuichi comes across several young girls, all of whom are connected to his past. As he befriends them and continues to interact with them, the long forgotten memories from his childhood begin to resurface...\n\n[Written by MAL Rewrite]",
+  "mean": 7.95,
+  "rank": 693,
+  "popularity": 889,
+  "num_list_users": 271687,
+  "num_scoring_users": 136833,
+  "nsfw": "white",
+  "created_at": "2006-10-01T20:09:53+00:00",
+  "updated_at": "2024-02-18T10:01:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:00"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

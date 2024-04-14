@@ -1,0 +1,43 @@
+{
+  "id": 54498,
+  "title": "Movin' feat. Maia Hirasawa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1587/133412.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1587/133412l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "MOVIN' feat. Maia Hirasawa"
+  },
+  "start_date": "2011-07-20",
+  "end_date": "2011-07-20",
+  "synopsis": "Music video for the song Movin' by SOIL&\"PIMP\"SESSIONS, featuring Maia Hirasawa.",
+  "popularity": 22347,
+  "num_list_users": 106,
+  "num_scoring_users": 55,
+  "nsfw": "white",
+  "created_at": "2023-02-16T06:59:19+00:00",
+  "updated_at": "2023-02-16T07:40:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 216,
+  "rating": "g",
+  "studios": []
+}

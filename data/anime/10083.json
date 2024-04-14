@@ -1,0 +1,72 @@
+{
+  "id": 10083,
+  "title": "Shiki Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1041/133313.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1041/133313l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Corpse Demon Specials"
+    ],
+    "en": "Shiki Specials",
+    "ja": "屍鬼"
+  },
+  "start_date": "2011-05-25",
+  "end_date": "2011-06-22",
+  "synopsis": "As the epidemic terrorizes the quiet secluded village of Sotoba, three women have found themselves amidst the escalating crisis. Nao Yasumori is tormented by visions of the deceased; Kanami Yano must keep a secret at risk of losing a loved one; and Motoko Maeda goes through insurmountable grief as the mysterious illness spreads throughout her family. \n\nWith rising tensions testing the limits of family relationships, even the smallest of mistakes can easily sever the ties that bind .\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.75,
+  "rank": 1096,
+  "popularity": 2554,
+  "num_list_users": 71255,
+  "num_scoring_users": 40223,
+  "nsfw": "white",
+  "created_at": "2010-12-23T20:50:41+00:00",
+  "updated_at": "2023-10-01T19:03:13+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 39,
+      "name": "Daume"
+    }
+  ]
+}

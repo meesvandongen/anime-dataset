@@ -1,0 +1,54 @@
+{
+  "id": 41564,
+  "title": "Hentatsu (TV) Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1554/107933.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1554/107933l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hentatsu (TV) Episode 12.5",
+      "Hentatsu (TV) Special",
+      "Oni to Neko to o-Cha to ka."
+    ],
+    "en": "",
+    "ja": "へんたつ"
+  },
+  "start_date": "2020-03-28",
+  "end_date": "2020-03-28",
+  "synopsis": "Short narrated recap of Hentatsu (TV).",
+  "mean": 5.15,
+  "rank": 12442,
+  "popularity": 13795,
+  "num_list_users": 896,
+  "num_scoring_users": 425,
+  "nsfw": "white",
+  "created_at": "2020-03-31T17:16:12+00:00",
+  "updated_at": "2024-02-06T16:56:32+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1560,
+      "name": "Yaoyorozu"
+    }
+  ]
+}

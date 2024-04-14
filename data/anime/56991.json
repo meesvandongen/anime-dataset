@@ -1,0 +1,48 @@
+{
+  "id": 56991,
+  "title": "DinoCore Evolution",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1214/139302.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1214/139302l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "다이노코어 에볼루션"
+  },
+  "start_date": "2018-03-17",
+  "end_date": "2018-06-16",
+  "synopsis": "",
+  "rank": 19226,
+  "popularity": 25001,
+  "num_list_users": 64,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2023-10-24T13:24:08+00:00",
+  "updated_at": "2023-10-24T15:48:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": []
+}

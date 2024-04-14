@@ -1,0 +1,44 @@
+{
+  "id": 35390,
+  "title": "Osekisho",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/85241.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/85241l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Official Residence",
+      "The Inspection Station"
+    ],
+    "en": "At the Border Checkpoint",
+    "ja": "お関所"
+  },
+  "start_date": "1930-05-20",
+  "end_date": "1930-05-20",
+  "synopsis": "A film about traveling artists arriving from Mishima and Odawara.",
+  "mean": 4.37,
+  "rank": 13155,
+  "popularity": 14597,
+  "num_list_users": 706,
+  "num_scoring_users": 352,
+  "nsfw": "white",
+  "created_at": "2017-04-11T07:52:53+00:00",
+  "updated_at": "2020-03-21T18:04:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1930,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 482,
+  "rating": "g",
+  "studios": []
+}

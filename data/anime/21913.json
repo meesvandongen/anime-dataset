@@ -1,0 +1,47 @@
+{
+  "id": 21913,
+  "title": "Kanbee-kun ga Yuku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/57663.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/57663l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "官兵衛くんがゆく"
+  },
+  "start_date": "2014-01-02",
+  "end_date": "2014-01-03",
+  "synopsis": "Kanbee-kun with Nobunaga, Hideyoshi, and Ieyasu in manga. They are popular characters from \"Rekishi Hiwa Historia,\" the history show.",
+  "rank": 15501,
+  "popularity": 19385,
+  "num_list_users": 250,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2014-01-03T09:27:36+00:00",
+  "updated_at": "2014-01-05T10:02:54+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "average_episode_duration": 120,
+  "rating": "pg",
+  "studios": []
+}

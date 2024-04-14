@@ -1,0 +1,62 @@
+{
+  "id": 38084,
+  "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1194/103420.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1194/103420l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+    "ja": "Fate/Grand Order -絶対魔獣戦線バビロニア-"
+  },
+  "start_date": "2019-10-05",
+  "end_date": "2020-03-21",
+  "synopsis": "A.D. 2016, the foundations of humanity have been incinerated by the Mage King Solomon. Chaldea, a secret mages organization with the mission to preserve humanity's future, foresaw mankind's extinction in 2015. Thus commenced the operation to repair the Singularities in history caused by Holy Grails dispersed across time and space—Operation Grand Order. \n\nUsing the Rayshift time travel technology, Chaldea's last master Ritsuka Fujimaru and his demi-servant Mash Kyrielight have traveled to and resolved six Singularities. Now, they depart for their most dangerous destination yet: a civilization in the Age of Gods, B.C. 2655 Mesopotamia. Ritsuka and Mash soon discover that Demonic Beasts roam the land, attacking people and towns. Amidst chaos and terror lies humanity's last defense—Uruk, a fortress city that acts as the frontline for the battle against the beasts. The battlefront is commanded by none other than King Gilgamesh, the King of Heroes, who sought aid from Heroic Spirits and took on the role of a mage to protect his city. \n\nAlong with Gilgamesh and the summoned servants, Ritsuka and Mash must protect Uruk against the magical beasts' onslaught and defeat the Three Goddess Alliance who aims to eradicate humankind; all the while, a greater threat looms over Uruk, preparing for its awakening.\n\n[Written by MAL Rewrite]",
+  "mean": 7.94,
+  "rank": 707,
+  "popularity": 860,
+  "num_list_users": 281106,
+  "num_scoring_users": 133479,
+  "nsfw": "white",
+  "created_at": "2018-07-29T07:59:55+00:00",
+  "updated_at": "2022-04-18T01:05:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 21,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

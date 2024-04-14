@@ -1,0 +1,48 @@
+{
+  "id": 42540,
+  "title": "Pittarazu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1243/108652.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1243/108652l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pittarazu Tarazu no Maki",
+      "Pittarazu Pinnomaki"
+    ],
+    "en": "",
+    "ja": "ぴったらず"
+  },
+  "start_date": "2014-03-04",
+  "end_date": "2014-06-03",
+  "synopsis": "A series of surreal dialogue-heavy sketches by comedy trio Tokyo03 featuring everyday objects.",
+  "rank": 17231,
+  "popularity": 20863,
+  "num_list_users": 167,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2020-07-25T20:17:45+00:00",
+  "updated_at": "2020-07-25T20:17:45+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 270,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

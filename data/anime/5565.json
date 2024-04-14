@@ -1,0 +1,45 @@
+{
+  "id": 5565,
+  "title": "Spiral Over",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/11515.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/11515l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スパイラル・オーヴァ"
+  },
+  "start_date": "1999-10-18",
+  "end_date": "1999-10-18",
+  "synopsis": "Based on the manga by Saitani Umetarou.",
+  "mean": 5.43,
+  "popularity": 12769,
+  "num_list_users": 1189,
+  "num_scoring_users": 310,
+  "nsfw": "gray",
+  "created_at": "2008-11-20T05:24:12+00:00",
+  "updated_at": "2011-04-22T22:36:03+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1740,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2330,
+      "name": "Meltdown"
+    }
+  ]
+}

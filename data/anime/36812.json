@@ -1,0 +1,45 @@
+{
+  "id": 36812,
+  "title": "Kyou mo Chappy End",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/89015.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/89015l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "きょうも茶ッピーエンド"
+  },
+  "start_date": "2002-12-02",
+  "end_date": "2002-12-02",
+  "synopsis": "Chappy is a portmanteau of Cha (Tea) and Happy. The song praises tea and how a warm cup can help improve your mood from a crummy day.",
+  "popularity": 20273,
+  "num_list_users": 200,
+  "num_scoring_users": 92,
+  "nsfw": "white",
+  "created_at": "2017-11-15T11:59:53+00:00",
+  "updated_at": "2017-11-15T11:59:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "g",
+  "studios": []
+}

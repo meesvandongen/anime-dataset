@@ -1,0 +1,63 @@
+{
+  "id": 8456,
+  "title": "Queen's Blade: Utsukushiki Toushi-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/34325.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/34325l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Queen's Blade OVA",
+      "Utsukushiki Toshi-tachi",
+      "Utsukushiki Toushi-tachi",
+      "Queen's Blade: Beautiful Fighters"
+    ],
+    "en": "Queen's Blade: Beautiful Warriors",
+    "ja": "クイーンズブレイド 美しき闘士たち"
+  },
+  "start_date": "2010-08-08",
+  "end_date": "2011-03-14",
+  "synopsis": "Queen's Blade OVA. Contains short stories from the lives of the warriors after the Queen's Blade competition.",
+  "mean": 6.53,
+  "rank": 6734,
+  "popularity": 4574,
+  "num_list_users": 22775,
+  "num_scoring_users": 8076,
+  "nsfw": "white",
+  "created_at": "2010-03-23T13:52:19+00:00",
+  "updated_at": "2023-02-16T10:59:28+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 1733,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

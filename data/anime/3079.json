@@ -1,0 +1,68 @@
+{
+  "id": 3079,
+  "title": "Aoki Ryuusei SPT Layzner",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1106/91083.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1106/91083l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Blue Meteor SPT Layzner",
+      "Layzner",
+      "SPT Layzner",
+      "Aoki Ryusei SPT Layzner",
+      "Layzner Super Powered Tracer"
+    ],
+    "en": "Blue Comet SPT Layzner",
+    "ja": "蒼き流星SPTレイズナー"
+  },
+  "start_date": "1985-10-03",
+  "end_date": "1986-06-26",
+  "synopsis": "The story takes place in an alternate reality based in the year 1996, where humanity is advanced enough to develop long-range space travel, as well as bases on both the Moon and Mars. However, the Cold War tensions between the United States and the Soviet Union have not ended; rather, they've escalated as both sides build military facilities in space, and the shadow of nuclear conflict looms over humanity, both on and off Earth.\n\nMeanwhile, on the Red Planet, an exchange program created by the United Nations to promote peace and understanding is about to begin; the \"Cosmic Culture Club,\" consisting of 16 boys and girls, as well as their instructor Elizabeth, arrives at the UN Mars base. Among the passengers is Anna a 14-year-old girl who serves as the narrator for the story.\n\nSuddenly, four unidentified humanoid robots classified as Super Powered Tracers are detected, engaged in fierce combat with each other. The UN base is caught in the crossfire and quickly destroyed, killing all but six members of the \"Cosmic Culture Club\"—Elizabeth, Arthur, Roan, David, Simone and Anna, and leaving them stranded on an inhospitable planet that has suddenly become a battlefield. As the battle ends, the lone SPT standing lands next to the terrified group and opens up revealing a pilot, who simply announces to them, \"Earth is at stake.\"",
+  "mean": 6.97,
+  "rank": 4418,
+  "popularity": 7389,
+  "num_list_users": 6940,
+  "num_scoring_users": 1726,
+  "nsfw": "white",
+  "created_at": "2007-09-05T04:27:33+00:00",
+  "updated_at": "2022-03-04T08:55:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 1985,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "17:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

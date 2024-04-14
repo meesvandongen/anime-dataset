@@ -1,0 +1,73 @@
+{
+  "id": 85,
+  "title": "Kidou Senshi Zeta Gundam",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/11153.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/11153l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kidou Senshi Z Gundam",
+      "Mobile Suit Z Gundam"
+    ],
+    "en": "Mobile Suit Zeta Gundam",
+    "ja": "機動戦士Ζガンダム"
+  },
+  "start_date": "1985-03-02",
+  "end_date": "1986-02-22",
+  "synopsis": "It is Universal Century 0087, and the One Year War between the Earth Federation and Principality of Zeon is over. The Earth Federation has created an elite task force, known as the Titans, who are responsible for hunting the remaining Zeon forces. However, the power-hungry Titans have shown themselves to be no better than Zeon, spurring the creation of a rebellious faction called the Anti-Earth Union Group (AEUG).\n \n17-year-old Kamille Bidan lives in the colony Green Noa, home to a Titan base. Kamille gets in trouble after assaulting a Titan officer, an event that coincides with an attack led by former Zeon ace Char Aznable, now known as AEUG pilot Quattro Bajeena. When Kamille steals a Titan's prototype Gundam, he soon finds himself in the middle of the dangerous conflict.\n\n[Written by MAL Rewrite]",
+  "mean": 7.91,
+  "rank": 763,
+  "popularity": 2458,
+  "num_list_users": 75483,
+  "num_scoring_users": 38618,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:41:34+00:00",
+  "updated_at": "2024-03-06T11:55:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 1985,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1461,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

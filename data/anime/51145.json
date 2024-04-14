@@ -1,0 +1,60 @@
+{
+  "id": 51145,
+  "title": "Pokemon Legends Arceus: Yuki Hodo Kishi Futaai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1364/123283.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1364/123283l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuki Hodokishi Futaai"
+    ],
+    "en": "Pokémon: Hisuian Snow",
+    "ja": "Pokémon LEGENDS アルセウス 雪ほどきし二藍"
+  },
+  "start_date": "2022-05-18",
+  "end_date": "2022-06-22",
+  "synopsis": "The anime tells the story of a boy named Akio and his encounter with a Hisuian Zorua. When he was younger, Akio's father taught him that people and Pokémon cannot live together. But Akio's interactions with the Zorua might offer a different lesson.\n\n(Source: The Pokémon Company)",
+  "mean": 7.41,
+  "rank": 2231,
+  "popularity": 5207,
+  "num_list_users": 16664,
+  "num_scoring_users": 6653,
+  "nsfw": "white",
+  "created_at": "2022-02-27T23:22:09+00:00",
+  "updated_at": "2022-12-13T15:23:59+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 611,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

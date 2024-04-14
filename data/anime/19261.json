@@ -1,0 +1,46 @@
+{
+  "id": 19261,
+  "title": "Gintama x Mameshiba",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1370/110954.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1370/110954l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare TV Special"
+    ],
+    "en": "",
+    "ja": "銀魂×豆しば"
+  },
+  "start_date": "2013-12-03",
+  "end_date": "2013-12-18",
+  "synopsis": "Gintama x Mameshiba aired as a commercial to promote the Gintama: Kanketsu-hen - Yorozuya yo Eien Nare movie.\n\nGintoki, Kagura, and Shipachi have turned into \"weird living creatures,\" parodying the short kids' anime Mameshiba that features sword bean-dog hybrid creatures.",
+  "mean": 6.72,
+  "popularity": 5486,
+  "num_list_users": 14457,
+  "num_scoring_users": 5606,
+  "nsfw": "white",
+  "created_at": "2013-06-27T20:28:29+00:00",
+  "updated_at": "2024-01-13T23:10:16+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 31,
+  "rating": "g",
+  "studios": []
+}

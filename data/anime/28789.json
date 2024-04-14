@@ -1,0 +1,52 @@
+{
+  "id": 28789,
+  "title": "3-gatsu no Lion meets Bump of Chicken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/69921.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/69921l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sangatsu no Lion meets Bump of Chicken",
+      "March Comes in Like a Lion meets Bump of Chicken",
+      "Lion of March meets Bump of Chicken"
+    ],
+    "en": "March comes in like a lion meets Bump of Chicken",
+    "ja": "3月のライオン meets BUMP OF CHICKEN"
+  },
+  "start_date": "2014-11-28",
+  "end_date": "2014-11-28",
+  "synopsis": "A CGI music video of Sangatsu no Lion set to Bump of Chicken's \"Fighter\" single. The website states that the collaboration started because the mangaka Umino Chika is a fan of Bump of Chicken and the members of Bump of Chicken are fans of Sangatsu no Lion. A special edition of the manga's 10th compiled volume shipped on November 28 with this single.\n\n(Source: ANN)",
+  "mean": 7.05,
+  "popularity": 5410,
+  "num_list_users": 14959,
+  "num_scoring_users": 7614,
+  "nsfw": "white",
+  "created_at": "2014-12-09T12:45:20+00:00",
+  "updated_at": "2023-12-23T07:09:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 357,
+  "rating": "g",
+  "studios": []
+}

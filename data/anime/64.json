@@ -1,0 +1,66 @@
+{
+  "id": 64,
+  "title": "Rozen Maiden",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1424/108431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1424/108431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Rozen Maiden",
+    "ja": "ローゼンメイデン"
+  },
+  "start_date": "2004-10-08",
+  "end_date": "2004-12-24",
+  "synopsis": "Traumatized by school, Jun Sakurada spends his days at home as a shut-in, purchasing things online, only to send them back before the free trial period ends. So when a note appears on his desk, asking whether or not he would wind something, he assumes it was something he ordered and carelessly circles \"yes,\" changing his life forever.\n \nA box arrives with a wind up doll inside, but this is no ordinary toy: after Jun winds her up, she begins walking and talking as if a normal person. With a haughty attitude, she introduces herself as Shinku, the fifth doll in the Rozen Maiden collection, a group of special dolls made by the legendary dollmaker Rozen. These sisters must battle each other in a competition called the Alice Game with the help of a human to ensure victory. The winner becomes Alice, a real girl who is worthy of meeting their creator.\n\nAs more sentient dolls end up taking residence in Jun's house, and a foe from Shinku's past makes her appearance, Jun's life becomes far more complicated than he ever thought possible.\n\n[Written by MAL Rewrite]",
+  "mean": 7.41,
+  "rank": 2233,
+  "popularity": 1169,
+  "num_list_users": 205170,
+  "num_scoring_users": 97701,
+  "nsfw": "white",
+  "created_at": "2005-11-11T12:52:12+00:00",
+  "updated_at": "2023-12-01T01:23:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

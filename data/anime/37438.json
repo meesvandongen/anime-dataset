@@ -1,0 +1,62 @@
+{
+  "id": 37438,
+  "title": "Ingress the Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1944/93421.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1944/93421l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "INGRESS THE ANIMATION"
+  },
+  "start_date": "2018-10-18",
+  "end_date": "2018-12-27",
+  "synopsis": "A project was launched where scientists discovered a mysterious substance that can interface directly with the human brain. This substance, called \"Exotic Matter (XM),\" has existed since ancient times, influencing human minds and the progress of humanity. In the wake of this discovery, a battle of powerful nations and corporate giants has been unleashed. Organizations across the globe have embarked on a secret race to exploit XM. It represents both an opportunity and a threat to humanity. Two Factions seeks to control the XM. The Enlightened view XM's power as a gift that enhances human experience and discovery. The Resistance sees XM as a hostile takeover of the human mind, choosing technology as humanity's best path forward. XM, and the mystery behind it lie at the center of this battle for the fate of humanity.\n\n2018—Now, a new struggle is about to unfold in Tokyo and across the globe. Dangerous and powerful forces seeking to exploit the potential of XM will collide. This groundbreaking project will mark the beginning of an epic augmented-reality experience combining the three elements of animation, location-based gaming, and the real world.\n\n(Source: MAL News)",
+  "mean": 6.28,
+  "rank": 8191,
+  "popularity": 4089,
+  "num_list_users": 29407,
+  "num_scoring_users": 9019,
+  "nsfw": "white",
+  "created_at": "2018-03-08T10:30:38+00:00",
+  "updated_at": "2024-01-17T04:40:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:55"
+  },
+  "source": "game",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1357,
+      "name": "Craftar Studios"
+    }
+  ]
+}

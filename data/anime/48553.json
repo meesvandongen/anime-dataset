@@ -1,0 +1,62 @@
+{
+  "id": 48553,
+  "title": "Akebi-chan no Sailor-fuku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1820/120520.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1820/120520l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Akebi's Sailor Uniform",
+    "ja": "明日ちゃんのセーラー服"
+  },
+  "start_date": "2022-01-09",
+  "end_date": "2022-03-27",
+  "synopsis": "Ever since she was young, Komichi Akebi has always adored sailor uniforms, even going so far as to ask her mother to sew one if she succeeds in getting into her mother's alma mater, Roubai Academy. And thus, when she gets accepted into the prestigious school, Komichi is ecstatic. However, much to her surprise, the middle school no longer uses sailor uniforms as its dress code—making Komichi stand out from her schoolmates. Despite this, Komichi is granted permission to continue wearing the traditional attire. \n\nWith renewed confidence, Komichi meets fascinating classmates as they experience school life together. Under the colorful shower of blossoming prospects, an exciting tomorrow awaits them!\n\n[Written by MAL Rewrite]",
+  "mean": 7.68,
+  "rank": 1266,
+  "popularity": 1306,
+  "num_list_users": 182666,
+  "num_scoring_users": 68987,
+  "nsfw": "white",
+  "created_at": "2021-03-26T04:14:11+00:00",
+  "updated_at": "2024-01-28T21:34:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

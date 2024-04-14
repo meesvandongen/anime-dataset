@@ -1,0 +1,56 @@
+{
+  "id": 19799,
+  "title": "Robot Girls Z",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/53141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/53141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "RGZ"
+    ],
+    "en": "Robot Girls Z",
+    "ja": "ロボットガールズＺ"
+  },
+  "start_date": "2014-01-04",
+  "end_date": "2014-03-02",
+  "synopsis": "The story revolves around a new team of \"Toei robot girls\" named \"Team Z\" that is made up of three girls based on Toei's Mazinger Z franchise: Mazinger Z, Great Mazinger, and UFO Robot Grendizer. Usually they perform in activities around Nerima ward in Tokyo to raise the awareness of the promising future energy source \"Photon Power\" (koushiryoku). However, there are times when \"Mechanical Beast\" team of girls emerge from the \"Subterranean Empire\" and attempt to steal the energy. Thus \"Team Z\" has to battle them to prevent this, though sometimes they just go and beat up the \"bad girls\" to relieve stress.\n\nPlease note that because in this particular case MAL lists airings, not episodes/chapters/parts, this show is considered to be 3 episodes and not 9. Each of the three airings consisted of three episodes for a total runtime of 27 minutes per airing. The duration on MAL reflects this.",
+  "mean": 6.47,
+  "rank": 7078,
+  "popularity": 4719,
+  "num_list_users": 21262,
+  "num_scoring_users": 7672,
+  "nsfw": "white",
+  "created_at": "2013-07-29T17:39:18+00:00",
+  "updated_at": "2023-11-07T08:45:47+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1620,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

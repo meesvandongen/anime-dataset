@@ -1,0 +1,51 @@
+{
+  "id": 22037,
+  "title": "Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/57821.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/57821l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "それいけ！アンパンマン ドキンちゃんのドキドキカレンダー"
+  },
+  "start_date": "1991-07-20",
+  "end_date": "1991-07-20",
+  "synopsis": "",
+  "rank": 13549,
+  "popularity": 17524,
+  "num_list_users": 371,
+  "num_scoring_users": 93,
+  "nsfw": "white",
+  "created_at": "2014-01-09T08:00:21+00:00",
+  "updated_at": "2021-08-31T07:59:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "summer"
+  },
+  "average_episode_duration": 3120,
+  "rating": "pg",
+  "studios": []
+}

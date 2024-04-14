@@ -1,0 +1,47 @@
+{
+  "id": 3259,
+  "title": "Lemon Angel (1988)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/5164.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/5164l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Midnight Anime: Lemon Angel"
+    ],
+    "en": "Lemon Angel (1988)",
+    "ja": "レモンエンジェル"
+  },
+  "start_date": "1988-02-03",
+  "end_date": "1988-03-30",
+  "synopsis": "The sequel of the Cream Lemon: Lemon Angel.  ",
+  "mean": 5.75,
+  "rank": 10675,
+  "popularity": 11066,
+  "num_list_users": 2111,
+  "num_scoring_users": 477,
+  "nsfw": "white",
+  "created_at": "2007-10-21T14:01:01+00:00",
+  "updated_at": "2021-03-31T15:37:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 9,
+  "start_season": {
+    "year": 1988,
+    "season": "winter"
+  },
+  "average_episode_duration": 180,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

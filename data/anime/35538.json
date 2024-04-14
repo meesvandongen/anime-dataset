@@ -1,0 +1,44 @@
+{
+  "id": 35538,
+  "title": "Kaiketsu Zorori no Dragon Taiji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/87336.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/87336l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kaiketsu Zorori OVA",
+    "ja": "かいけつゾロリ"
+  },
+  "start_date": "1989-11-28",
+  "end_date": "1989-11-28",
+  "synopsis": "The first anime adaptation of the Kaiketsu Zorori franchise. It adapted 3 of the picture book's stories. A 2nd OVA was planned to cover 3 more books but it was postponed and eventually cancelled.",
+  "rank": 15409,
+  "popularity": 17204,
+  "num_list_users": 394,
+  "num_scoring_users": 71,
+  "nsfw": "white",
+  "created_at": "2017-05-05T08:46:21+00:00",
+  "updated_at": "2019-12-06T23:54:05+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": []
+}

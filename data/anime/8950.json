@@ -1,0 +1,52 @@
+{
+  "id": 8950,
+  "title": "Akage no Anne: Green Gables e no Michi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1624/114184.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1624/114184l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Anne of Green Gables: Road to Green Gables"
+    ],
+    "en": "",
+    "ja": "赤毛のアン グリーンゲーブルズへの道"
+  },
+  "start_date": "2010-07-17",
+  "end_date": "2010-07-17",
+  "synopsis": "A recap film of the first 6 episodes of the TV series.\n\nAnne is an orphan full of imagination. When she arrives at her new home she learns that sometimes you have to be a sensible person too; at the same time her unique character changes, or at least attracts, the people around her. The story covers Anne's growth from about eleven to seventeen years old as she makes friends, goes to school and studies. At a difficult point in her life, Anne will have to make a hard choice and perhaps find a new dream. ",
+  "mean": 6.7,
+  "rank": 5755,
+  "popularity": 9648,
+  "num_list_users": 3334,
+  "num_scoring_users": 819,
+  "nsfw": "white",
+  "created_at": "2010-06-08T04:39:18+00:00",
+  "updated_at": "2022-10-12T06:41:00+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 5940,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 10113,
+  "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/28062.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/28062l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "横浜名物：男片山組！"
+  },
+  "start_date": "1991-08-25",
+  "end_date": "1992-03-25",
+  "synopsis": "The city of Yokohama has become a lawless district for biker gangs. One particular gang, the \"Crazy Babies\", have a 17 year old leader called Hiromi Katayama that is famous throughout the entire Kanagawa alliance as being a strong fighter with a devout sense of morality. However, when a young rookie by the name of Toshi Ikeda wants in, he swears to Katayama that he will uphold the ideals of the Crazy Babies and vows to not fight with anybody for his first probationary month within the gang or else forfeit his chance to join the gang.\n\nIkeda being the fiery young man he is, soon finds himself caught in the middle of a fight and unintentionally sparks off a feud between the gangs of Kanagawa and the dangerous Nagoya based group, The Dragon Star Crew, who have their eye on taking the whole of Kanto.\n\nCan Katayama defend Yokohama from the encroaching hoodlums?",
+  "mean": 5.8,
+  "rank": 10466,
+  "popularity": 14556,
+  "num_list_users": 715,
+  "num_scoring_users": 180,
+  "nsfw": "white",
+  "created_at": "2010-12-30T02:23:29+00:00",
+  "updated_at": "2021-01-28T20:30:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1991,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2991,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 37885,
+  "title": "Super Dragon Ball Heroes",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1480/92990.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1480/92990l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スーパードラゴンボールヒーローズ"
+  },
+  "start_date": "2018-07-01",
+  "synopsis": "In May 2018, V-Jump announced the promotional anime for Dragon Ball Heroes, a Japanese arcade and trading card game. The video game has been adapted to a Nintendo Switch port for western audiences, whilst the card game is released under the name \"Dragon Ball Super TCG\" and is combined with the other card game of the same name in japan. The anime is expected to be short and it is not expected to broadcast on TV. It has adapted the game's Prison Planet Arc, as long as the manga original arc \"Big Bang Mission\" and \"Ultra God Misson\", also fully detailed in the Heroes manga published in Saikyou Jump, although under 2 separate canons. They have never been published officially in English. The first episode debuted July 1, 2018 at Aeon Lake Town.",
+  "mean": 5.33,
+  "rank": 12064,
+  "popularity": 2478,
+  "num_list_users": 74736,
+  "num_scoring_users": 28733,
+  "nsfw": "white",
+  "created_at": "2018-05-17T10:50:27+00:00",
+  "updated_at": "2023-08-13T07:30:38+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 525,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    },
+    {
+      "id": 2845,
+      "name": "Dimps"
+    }
+  ]
+}

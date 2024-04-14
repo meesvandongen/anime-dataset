@@ -1,0 +1,62 @@
+{
+  "id": 11889,
+  "title": "The iDOLM@STER: 765 Pro to Iu Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/70521.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/70521l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Idolmaster Special",
+      "The iDOLM@STER ep 26",
+      "The Idolmaster ep 26"
+    ],
+    "en": "",
+    "ja": "アイドルマスター 765プロという物語"
+  },
+  "start_date": "2012-06-28",
+  "end_date": "2012-06-28",
+  "synopsis": "This special received a TV airing on June 17, 2012. The 9th Blu-ray volume containing episodes 24-26 was released on June 28, 2012.",
+  "mean": 7.45,
+  "rank": 2048,
+  "popularity": 4538,
+  "num_list_users": 23274,
+  "num_scoring_users": 11518,
+  "nsfw": "white",
+  "created_at": "2011-10-27T06:24:27+00:00",
+  "updated_at": "2021-04-28T21:07:16+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

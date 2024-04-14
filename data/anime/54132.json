@@ -1,0 +1,44 @@
+{
+  "id": 54132,
+  "title": "Won't Be Long",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1398/132535.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1398/132535l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "WON'T BE LONG"
+  },
+  "start_date": "2022-03-09",
+  "end_date": "2022-03-09",
+  "synopsis": "Music video for the song Won't Be Long by Zanpa. It is a cover of the song by Da Bubble Gum Brothers.",
+  "popularity": 21846,
+  "num_list_users": 122,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2023-01-08T07:29:00+00:00",
+  "updated_at": "2023-01-08T15:02:39+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "music",
+  "average_episode_duration": 308,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2676,
+      "name": "Pmats9 studio"
+    }
+  ]
+}

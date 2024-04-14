@@ -1,0 +1,54 @@
+{
+  "id": 40613,
+  "title": "Altered Carbon: Resleeved",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1879/106531.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1879/106531l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Altered Carbon: Resleeved",
+    "ja": "オルタード・カーボン: リスリーブド"
+  },
+  "start_date": "2020-03-19",
+  "end_date": "2020-03-19",
+  "synopsis": "Set in the same universe as the live-action series. This work will explore new elements of the story mythology. ",
+  "mean": 6.43,
+  "rank": 7302,
+  "popularity": 6352,
+  "num_list_users": 10049,
+  "num_scoring_users": 5824,
+  "nsfw": "white",
+  "created_at": "2019-10-23T06:20:02+00:00",
+  "updated_at": "2022-03-12T00:59:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 4405,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 298,
+      "name": "Anima"
+    }
+  ]
+}

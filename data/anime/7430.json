@@ -1,0 +1,77 @@
+{
+  "id": 7430,
+  "title": "Konjiki no Gash Bell!!: Ougon no Chichi wo Motsu Otoko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/32967.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/32967l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Konjiki no Gash Bell!!: 00F - The Man With the Golden Tits",
+      "Zatch Bell!: 00F - The Man With the Golden Tits"
+    ],
+    "en": "",
+    "ja": "金色のガッシュベル！！00F～黄金のチチをもつ男～"
+  },
+  "start_date": "2005-05-25",
+  "end_date": "2005-05-25",
+  "synopsis": "Folgore - 00F, the world's most ultimate spy is set on retrieving the stolen boobs. Watch as many of the characters from the original series (Konjiki no Gash Bell) are given life anew in this alternate setting.",
+  "mean": 6.4,
+  "rank": 7445,
+  "popularity": 9169,
+  "num_list_users": 3900,
+  "num_scoring_users": 1534,
+  "nsfw": "gray",
+  "created_at": "2009-10-31T15:35:29+00:00",
+  "updated_at": "2023-09-17T04:20:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1080,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

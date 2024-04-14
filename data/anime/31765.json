@@ -1,0 +1,60 @@
+{
+  "id": 31765,
+  "title": "Sword Art Online Movie: Ordinal Scale",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1557/123313.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1557/123313l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Sword Art Online"
+    ],
+    "en": "Sword Art Online the Movie: Ordinal Scale",
+    "ja": "劇場版 ソードアート・オンライン -オーディナル・スケール-"
+  },
+  "start_date": "2017-02-18",
+  "end_date": "2017-02-18",
+  "synopsis": "In 2026, four years after the infamous Sword Art Online incident, a revolutionary new form of technology has emerged: the Augma, a device that utilizes an Augmented Reality system. Unlike the Virtual Reality of the NerveGear and the Amusphere, it is perfectly safe and allows players to use it while they are conscious, creating an instant hit on the market. The most popular application for the Augma is the game Ordinal Scale, which immerses players in a fantasy role-playing game with player rankings and rewards.\n\nFollowing the new craze, Kirito's friends dive into the game, and despite his reservations about the system, Kirito eventually joins them. While at first it appears to be just fun and games, they soon find out that the game is not all that it seems...\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1661,
+  "popularity": 273,
+  "num_list_users": 726564,
+  "num_scoring_users": 451619,
+  "nsfw": "white",
+  "created_at": "2015-10-04T09:39:19+00:00",
+  "updated_at": "2022-04-18T02:18:32+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 7140,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

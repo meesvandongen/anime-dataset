@@ -1,0 +1,65 @@
+{
+  "id": 35507,
+  "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/86830.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/86830l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Welcome to the Classroom of the Elite",
+      "You-jitsu"
+    ],
+    "en": "Classroom of the Elite",
+    "ja": "ようこそ実力至上主義の教室へ"
+  },
+  "start_date": "2017-07-12",
+  "end_date": "2017-09-27",
+  "synopsis": "On the surface, Koudo Ikusei Senior High School is a utopia. The students enjoy an unparalleled amount of freedom, and it is ranked highly in Japan. However, the reality is less than ideal. Four classes, A through D, are ranked in order of merit, and only the top classes receive favorable treatment.\n\nKiyotaka Ayanokouji is a student of Class D, where the school dumps its worst. There he meets the unsociable Suzune Horikita, who believes she was placed in Class D by mistake and desires to climb all the way to Class A, and the seemingly amicable class idol Kikyou Kushida, whose aim is to make as many friends as possible.\n\nWhile class membership is permanent, class rankings are not; students in lower ranked classes can rise in rankings if they score better than those in the top ones. Additionally, in Class D, there are no bars on what methods can be used to get ahead. In this cutthroat school, can they prevail against the odds and reach the top?\n\n[Written by MAL Rewrite]",
+  "mean": 7.86,
+  "rank": 875,
+  "popularity": 104,
+  "num_list_users": 1264913,
+  "num_scoring_users": 798505,
+  "nsfw": "white",
+  "created_at": "2017-05-01T06:27:59+00:00",
+  "updated_at": "2024-01-11T05:25:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

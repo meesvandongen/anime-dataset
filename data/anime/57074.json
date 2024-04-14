@@ -1,0 +1,45 @@
+{
+  "id": 57074,
+  "title": "Mahou no Enogu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1989/139494.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1989/139494l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "魔法の絵の具"
+  },
+  "start_date": "1995-10-02",
+  "end_date": "1995-10-02",
+  "synopsis": "Music video for the song Mahou no Enogu by Eigo Kawashima and AMIRU that was featured on NHK's Minna no Uta program.",
+  "popularity": 25168,
+  "num_list_users": 63,
+  "num_scoring_users": 24,
+  "nsfw": "white",
+  "created_at": "2023-11-07T05:38:31+00:00",
+  "updated_at": "2023-11-07T09:20:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

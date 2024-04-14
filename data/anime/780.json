@@ -1,0 +1,65 @@
+{
+  "id": 780,
+  "title": "Meitantei Conan Movie 02: 14-banme no Target",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1900/94316.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1900/94316l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Detective Conan Movie 02: The Fourteenth Target",
+      "Meitantei Conan Movie 02: Jyuuyonbanme no Target"
+    ],
+    "en": "Case Closed Movie 02: The Fourteenth Target",
+    "ja": "名探偵コナン １４番目の標的"
+  },
+  "start_date": "1998-04-18",
+  "end_date": "1998-04-18",
+  "synopsis": "A mysterious attacker has appeared and is assaulting people whose names contain a number from the standard deck of cards in descending order. When Conan Edogawa points out that all the victims are related to the now famous detective Kogorou Mouri, suspicion immediately falls upon the recently released convict Jou Murakami, as Kogorou was the one responsible for his arrest ten years prior.\n\nWith potential victims still at risk, Conan and the police are determined to catch the culprit. As the case gradually unfolds, both Conan and his friend Ran Mouri learn more about her parents' separation and the truth on what transpired a decade ago.\n\n[Written by MAL Rewrite]",
+  "mean": 7.88,
+  "rank": 831,
+  "popularity": 2717,
+  "num_list_users": 64057,
+  "num_scoring_users": 39203,
+  "nsfw": "white",
+  "created_at": "2006-02-26T04:12:06+00:00",
+  "updated_at": "2023-12-29T13:33:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 5940,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

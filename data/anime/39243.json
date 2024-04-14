@@ -1,0 +1,49 @@
+{
+  "id": 39243,
+  "title": "Tadashii Itsuwari kara no Kishou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1494/99000.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1494/99000l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zuttomayo",
+      "Zutto Mayonaka de Ii no ni.",
+      "I Wish It Was Midnight All the Time.",
+      "Byoushin wo Kamu",
+      "Bite the Second Hand",
+      "Nouri Ue no Cracker",
+      "The Cracker on the Back of My Mind",
+      "Waking Up From a Correct Flasehood"
+    ],
+    "en": "",
+    "ja": "正しい偽りからの起床"
+  },
+  "start_date": "2018-06-04",
+  "end_date": "2018-10-02",
+  "synopsis": "Music videos for Byoushin wo Kamu and Nouri Ue no Cracker animated by the professional animator Waboku. The songs themselves were released on the album \"Tadashii Itsuwari kara no Kishou\" by the band \"Zutto Mayonaka de Ii no ni.\" on November 14, 2018.",
+  "mean": 6.67,
+  "popularity": 14823,
+  "num_list_users": 663,
+  "num_scoring_users": 353,
+  "nsfw": "white",
+  "created_at": "2019-02-11T11:01:24+00:00",
+  "updated_at": "2021-10-09T16:51:27+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 271,
+  "rating": "g",
+  "studios": []
+}

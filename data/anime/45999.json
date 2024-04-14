@@ -1,0 +1,41 @@
+{
+  "id": 45999,
+  "title": "Enen no Shouboutai Mini Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1339/111255.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1339/111255l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fire Force Mini Anime",
+    "ja": "炎炎ノ消防隊 ミニアニメ"
+  },
+  "start_date": "2021-01-08",
+  "end_date": "2021-07-30",
+  "synopsis": "Mini anime featuring chibi characters from Enen no Shouboutai, streamed on the official Twitter account.",
+  "mean": 6.14,
+  "rank": 8854,
+  "popularity": 5954,
+  "num_list_users": 11798,
+  "num_scoring_users": 2370,
+  "nsfw": "white",
+  "created_at": "2021-01-12T17:14:44+00:00",
+  "updated_at": "2022-04-10T15:58:42+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": []
+}

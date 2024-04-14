@@ -1,0 +1,54 @@
+{
+  "id": 36166,
+  "title": "Fireball Humorous",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/87385.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/87385l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ファイアボール ユーモラス"
+  },
+  "start_date": "2017-10-06",
+  "end_date": "2017-12-18",
+  "synopsis": "",
+  "mean": 5.73,
+  "rank": 10724,
+  "popularity": 9403,
+  "num_list_users": 3605,
+  "num_scoring_users": 1282,
+  "nsfw": "white",
+  "created_at": "2017-08-21T07:12:53+00:00",
+  "updated_at": "2021-09-20T07:23:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:55"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 444,
+      "name": "Jinnis Animation Studios"
+    }
+  ]
+}

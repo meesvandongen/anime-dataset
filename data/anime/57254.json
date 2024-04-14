@@ -1,0 +1,43 @@
+{
+  "id": 57254,
+  "title": "Byeol Tteol-eojinda (I Do)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1006/139846.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1006/139846l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Stars Fall (I Do)",
+    "ja": "별 떨어진다 (I Do)"
+  },
+  "start_date": "2023-09-08",
+  "end_date": "2023-09-08",
+  "synopsis": "Music video for D.O.'s song Stars Fall (I Do).",
+  "popularity": 23089,
+  "num_list_users": 92,
+  "num_scoring_users": 46,
+  "nsfw": "white",
+  "created_at": "2023-11-23T19:38:05+00:00",
+  "updated_at": "2023-11-26T11:44:27+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 167,
+  "rating": "g",
+  "studios": []
+}

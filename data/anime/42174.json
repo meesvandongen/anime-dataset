@@ -1,0 +1,62 @@
+{
+  "id": 42174,
+  "title": "Pokemon no Heisei-shi: Kayou Kara Mokuyou, Soshite Nichiyou e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1413/107932.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1413/107932l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Heisei Era of Pocket Monsters: From Tuesday to Thursday to Sunday",
+      "Pocket Monsters - The Heisei Era (New Year Special)",
+      "Pokemon Sun & Moon: New Year Special"
+    ],
+    "en": "",
+    "ja": "ポケットモンスターの平成史 ～火曜から木曜、そして日曜へ～"
+  },
+  "start_date": "2019-01-04",
+  "end_date": "2019-01-04",
+  "synopsis": "In this special, we will present carefully selected stories from the currently airing series Pocket Monsters Sun & Moon, as well as from the past series, picking from over 1000 episodes.\n\nWe will look back at the grand adventure Satoshi and Pikachu have been on from the beginning back in April 1997 all the way up till today.\n\nWe will also present precious, never-before-seen clips of Pokémon and characters that carry the fate of Pocket Monsters Sun & Moon.\n\n(Source: Serebii)",
+  "mean": 5.82,
+  "rank": 10386,
+  "popularity": 9861,
+  "num_list_users": 3100,
+  "num_scoring_users": 437,
+  "nsfw": "white",
+  "created_at": "2020-06-07T23:02:23+00:00",
+  "updated_at": "2021-06-14T06:15:39+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 2336,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 30431,
+  "title": "Anata mo Robot ni Nareru feat. Kamome Jidou Gasshoudan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/72808.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/72808l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "You Can Be A Robot, Too feat. Kamome Jido Gassyodan",
+    "ja": "あなたもロボットになれる feat. かもめ児童合唱団"
+  },
+  "start_date": "2014-10-21",
+  "end_date": "2014-10-21",
+  "synopsis": "An animated music video for Yura Yura Teikoku's song \"Anata mo Robot ni Nareru\" sung by the Kamome children's chorus to promote the original's 7inch Vinyl release on November 7th.",
+  "mean": 4.61,
+  "popularity": 15660,
+  "num_list_users": 538,
+  "num_scoring_users": 298,
+  "nsfw": "white",
+  "created_at": "2015-03-23T00:12:48+00:00",
+  "updated_at": "2016-01-13T19:25:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "average_episode_duration": 248,
+  "rating": "g",
+  "studios": []
+}

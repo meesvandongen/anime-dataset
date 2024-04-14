@@ -1,0 +1,58 @@
+{
+  "id": 44940,
+  "title": "World Trigger 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1617/117474.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1617/117474l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ワールドトリガー"
+  },
+  "start_date": "2021-10-10",
+  "end_date": "2022-01-23",
+  "synopsis": "At the Border Defense Agency's headquarters, the B-Rank Wars are underway as each team fights intensely to secure a spot in the upcoming Away Mission. Though Osamu Mikumo and the rest of Tamakoma-2 have pulled through thus far, the final rounds will require them to push far beyond the limits of their current abilities. Taking in a talented new member, the squad begins to train and develop new strategies, but, amid these efforts, the team is shaken by a heated dispute—one that could jeopardize their ticket to the Neighbor's dimension.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.26,
+  "rank": 311,
+  "popularity": 1868,
+  "num_list_users": 115700,
+  "num_scoring_users": 43936,
+  "nsfw": "white",
+  "created_at": "2020-12-19T03:48:41+00:00",
+  "updated_at": "2024-01-04T16:28:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

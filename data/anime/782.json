@@ -1,0 +1,66 @@
+{
+  "id": 782,
+  "title": "Gasaraki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1622/99582.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1622/99582l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Gasaraki",
+    "ja": "ガサラキ"
+  },
+  "start_date": "1998-10-04",
+  "end_date": "1999-03-28",
+  "synopsis": "The flames of war explode in the Middle East as two shadow forces unleash monstrous new weapons of mass destruction! But in a world in which giant robots are real, the most dangerous weapon of all lies buried within a human mind. Yuushirou, the fourth son of the mysterious and powerful Gouwa family, finds himself at the center of events that will change the future of mankind forever! Nothing can prepare the human race for what is about to be unleashed in Gasaraki!\n\n(Source: Sunrise)",
+  "mean": 6.64,
+  "rank": 6123,
+  "popularity": 4555,
+  "num_list_users": 23025,
+  "num_scoring_users": 5940,
+  "nsfw": "white",
+  "created_at": "2006-02-27T13:13:32+00:00",
+  "updated_at": "2022-04-14T15:27:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "09:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

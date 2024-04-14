@@ -1,0 +1,64 @@
+{
+  "id": 54616,
+  "title": "Potion-danomi de Ikinobimasu!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1182/138184.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1182/138184l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Poukin"
+    ],
+    "en": "I Shall Survive Using Potions!",
+    "ja": "ポーション頼みで生き延びます!"
+  },
+  "start_date": "2023-10-08",
+  "end_date": "2023-12-24",
+  "synopsis": "Kaoru Nagase died unexpectedly while walking home from her office job one night, and she suddenly finds herself in front of a man dressed in white. The man introduces himself as God and apologizes for his mistake that resulted in her untimely demise, vowing to make it up to Kaoru by reincarnating her into another world. The next world's goddess, Celestine, reforms Kaoru's body and gives her all the concessions she asks for: the body she had when she was 15, the ability to make potions with effects of her choice, and a box with infinite storage space, to name a few.\n\nBut soon, Kaoru realizes that, despite being told otherwise, this new medieval world doesn't have much in the way of magic, causing her potions to be highly sought after by greedy nobles. However, by using knowledge from her previous life, she just might find a way to survive in this world using her potions. \n\n[Written by MAL Rewrite]",
+  "mean": 6.54,
+  "rank": 6652,
+  "popularity": 3582,
+  "num_list_users": 38825,
+  "num_scoring_users": 19069,
+  "nsfw": "white",
+  "created_at": "2023-02-24T04:13:13+00:00",
+  "updated_at": "2023-11-26T05:52:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "02:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 755,
+      "name": "Jumondo"
+    }
+  ]
+}

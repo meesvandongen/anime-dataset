@@ -1,0 +1,57 @@
+{
+  "id": 1144,
+  "title": "Tenchi Muyou! in Love 2: Harukanaru Omoi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/61773.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/61773l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tenchi Muyo Movie 3: Tenchi Forever!",
+      "Tenchi Muyo in Love 2 - Distant Memories"
+    ],
+    "en": "Tenchi Forever!",
+    "ja": "天地無用！　ｉｎ　ＬＯＶＥ２　遥かなる想い"
+  },
+  "start_date": "1999-04-24",
+  "end_date": "1999-04-24",
+  "synopsis": "Tenchi runs off into the woods to spend some time alone after his friends have another argument. While lost in thought, he hears a voice coming from a camellia tree. Tenchi approaches it and vanishes through a portal.\n\nSix months later, Tenchi still has not returned home. Though most have given up the idea of ever finding him, his friends refuse to lose hope and have split up into two teams. Aeka and Ryoukou remain on Earth to investigate while Washuu, Sasami, Kiyone, and Mihoshi comb the rest of the galaxy in search.\n\nTheir efforts eventually pay off when Tenchi's energy is picked up on their radar. However, the happy reunion will have to wait as the girls gear up for their biggest challenge yet—Tenchi seems to have completely forgotten them and is living happily with another woman. Instead of solving their problems, finding Tenchi has left them with even more questions.\n\n[Written by MAL Rewrite]",
+  "mean": 7.2,
+  "rank": 3281,
+  "popularity": 5215,
+  "num_list_users": 16575,
+  "num_scoring_users": 7974,
+  "nsfw": "white",
+  "created_at": "2006-07-05T19:35:46+00:00",
+  "updated_at": "2023-10-11T10:04:52+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5700,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

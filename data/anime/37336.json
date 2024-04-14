@@ -1,0 +1,41 @@
+{
+  "id": 37336,
+  "title": "Hakodate Musical",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1925/90628.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1925/90628l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hakodate Musical Opening Video",
+    "ja": "ハコダテミュージカル"
+  },
+  "start_date": "2016-08-10",
+  "end_date": "2016-08-10",
+  "synopsis": "WOW Inc.'s first architectural project: \"Future Center Hakodate and Kids Plaza Hakodate\" opened in Hakodate, Hokkaido on October 15, 2016. It opened as a regional exchange center after two and half years of cooperation with Sony PCL.\n\nThe large LED display \"Media Wall\" was requested by the city at the time of project planning, and it features various animations on display. Ryou Inoue was invited to create a musical opening for the Media Wall.",
+  "mean": 4.77,
+  "rank": 12903,
+  "popularity": 18077,
+  "num_list_users": 329,
+  "num_scoring_users": 155,
+  "nsfw": "white",
+  "created_at": "2018-02-16T09:04:29+00:00",
+  "updated_at": "2018-03-19T17:37:02+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 35,
+  "rating": "g",
+  "studios": []
+}

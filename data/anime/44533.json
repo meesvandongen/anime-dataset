@@ -1,0 +1,44 @@
+{
+  "id": 44533,
+  "title": "Pao Fu Xiaojie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1536/122936.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1536/122936l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Miss Puff",
+    "ja": "泡芙小姐"
+  },
+  "start_date": "2011-04-01",
+  "end_date": "2011",
+  "synopsis": "",
+  "rank": 17137,
+  "popularity": 22104,
+  "num_list_users": 113,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2020-12-11T12:44:20+00:00",
+  "updated_at": "2022-04-19T06:05:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 798,
+  "rating": "pg_13",
+  "studios": []
+}

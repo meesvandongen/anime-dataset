@@ -1,0 +1,64 @@
+{
+  "id": 635,
+  "title": "Juubee-chan: Lovely Gantai no Himitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/60987.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/60987l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jubei-chan - Secret of the Lovely Eyepatch"
+    ],
+    "en": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch",
+    "ja": "十兵衛ちゃん ーラブリー眼帯の秘密"
+  },
+  "start_date": "1999-04-06",
+  "end_date": "1999-06-29",
+  "synopsis": "Jiyu Nanohana is an ordinary schoolgirl until she runs across a scatterbrained 300 year old samurai who tells her that she is the reincarnation of Yagyu Jubei. With the help of the \"Lovely Eyepatch\" she transforms into the legendary swordsman whenever she needs to use his awesome fighting ability, which she needs to do quite often as a rival clan is dead set on conquering Yagyu to satisfy an old family grudge.\n\n(Source: ANN)\n",
+  "mean": 6.72,
+  "rank": 5626,
+  "popularity": 4923,
+  "num_list_users": 19356,
+  "num_scoring_users": 7872,
+  "nsfw": "white",
+  "created_at": "2006-02-02T15:55:50+00:00",
+  "updated_at": "2022-12-13T12:54:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:15"
+  },
+  "source": "original",
+  "average_episode_duration": 1457,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

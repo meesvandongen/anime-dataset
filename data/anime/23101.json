@@ -1,0 +1,45 @@
+{
+  "id": 23101,
+  "title": "Kuraibito",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1441/104166.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1441/104166l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "With the Date",
+    "ja": "喰ヒ人"
+  },
+  "start_date": "2014-06-27",
+  "end_date": "2014-06-27",
+  "synopsis": "Based on the erotic game by Tinker Bell. ",
+  "mean": 6.02,
+  "popularity": 7359,
+  "num_list_users": 6999,
+  "num_scoring_users": 2769,
+  "nsfw": "gray",
+  "created_at": "2014-03-11T07:50:22+00:00",
+  "updated_at": "2022-03-19T11:56:23+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1800,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 365,
+      "name": "PoRO"
+    }
+  ]
+}

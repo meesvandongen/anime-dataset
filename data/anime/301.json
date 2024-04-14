@@ -1,0 +1,70 @@
+{
+  "id": 301,
+  "title": "Cinderella Boy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/89194.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/89194l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シンデレラボーイ"
+  },
+  "start_date": "2003-06-21",
+  "end_date": "2003-09-13",
+  "synopsis": "Ranma and his partner Rera run a detective agency in Giraffe City. An arranged accident leaves Rera and Ranma in an unfortunate state where the two detectives swap bodies at the stroke of midnight. With Ranma dissapearing and the beautiful Rera appearing. \n\n(Source: ANN)",
+  "mean": 6.3,
+  "rank": 8024,
+  "popularity": 7055,
+  "num_list_users": 7825,
+  "num_scoring_users": 2904,
+  "nsfw": "white",
+  "created_at": "2005-11-17T21:45:42+00:00",
+  "updated_at": "2023-02-06T08:51:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 65,
+      "name": "Magical Sex Shift"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2003,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "10:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

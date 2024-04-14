@@ -1,0 +1,57 @@
+{
+  "id": 54900,
+  "title": "Wind Breaker",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1438/141816.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1438/141816l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "WIND BREAKER"
+  },
+  "start_date": "2024-04-05",
+  "synopsis": "Haruka Sakura wants nothing to do with weaklings—he's only interested in the strongest of the strong. He's just started at Furin High School, a school of degenerates known only for their brawling strength—strength they use to protect their town from anyone who wishes it ill. But Haruka's not interested in being a hero or being part of any sort of team—he just wants to fight his way to the top!\n\n(Source: Kodansha USA)",
+  "mean": 7.95,
+  "rank": 702,
+  "popularity": 2055,
+  "num_list_users": 101177,
+  "num_scoring_users": 12013,
+  "nsfw": "white",
+  "created_at": "2023-03-30T09:11:19+00:00",
+  "updated_at": "2024-04-04T21:24:28+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:26"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1435,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

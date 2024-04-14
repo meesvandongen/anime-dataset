@@ -1,0 +1,43 @@
+{
+  "id": 57764,
+  "title": "Shinsei Kakumei Virtual Reality",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1927/140784.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1927/140784l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "神聖革命バーチャルリアリティ"
+  },
+  "start_date": "2022-05-16",
+  "end_date": "2022-05-16",
+  "synopsis": "Music video for the song Shinsei Kakumei Virtual Reality by KAF and VALIS.",
+  "popularity": 22648,
+  "num_list_users": 99,
+  "num_scoring_users": 52,
+  "nsfw": "white",
+  "created_at": "2024-01-07T07:11:11+00:00",
+  "updated_at": "2024-01-07T07:11:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 206,
+  "rating": "g",
+  "studios": []
+}

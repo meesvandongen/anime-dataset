@@ -1,0 +1,56 @@
+{
+  "id": 32933,
+  "title": "Xiao Yeyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/79020.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/79020l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Xiao Ye You"
+    ],
+    "en": "Little Yeyos",
+    "ja": "小夜游"
+  },
+  "start_date": "2014-03-12",
+  "end_date": "2014-03-12",
+  "synopsis": "Little Yeyos are seven little spirits living in the mythological Chinese spirit world who wander about only at night. The little intern is always the one who gets ignored and taunted, including today, when he gets kicked out of bed by the female Yeyo to turn off the alarm clock. But the discovery of a mysterious dot of light changes things...if only for a little while.\n\n(Source: Official Youtube page)",
+  "mean": 5.19,
+  "rank": 12387,
+  "popularity": 16347,
+  "num_list_users": 467,
+  "num_scoring_users": 212,
+  "nsfw": "white",
+  "created_at": "2016-03-16T05:34:51+00:00",
+  "updated_at": "2019-05-26T13:25:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 208,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1485,
+      "name": "Light Chaser Animation Studios"
+    }
+  ]
+}

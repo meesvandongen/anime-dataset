@@ -1,0 +1,70 @@
+{
+  "id": 59,
+  "title": "Chobits",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/24648.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/24648l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Chobits",
+    "ja": "ちょびっツ"
+  },
+  "start_date": "2002-04-03",
+  "end_date": "2002-09-25",
+  "synopsis": "When computers start to look like humans, can love remain the same?\n\nHideki Motosuwa is a young country boy who is studying hard to get into college. Coming from a poor background, he can barely afford the expenses, let alone the newest fad: Persocoms, personal computers that look exactly like human beings. One evening while walking home, he finds an abandoned Persocom. After taking her home and managing to activate her, she seems to be defective, as she can only say one word, \"Chii,\" which eventually becomes her name. Unlike other Persocoms, however, Chii cannot download information onto her hard drive, so Hideki decides to teach her about the world the old-fashioned way, while studying for his college entrance exams at the same time.\n\nAlong with his friends, Hideki tries to unravel the mystery of Chii, who may be a \"Chobit,\" an urban legend about special units that have real human emotions and thoughts, and love toward their owner. But can romance flourish between a Persocom and a human? \n\n[Written by MAL Rewrite]",
+  "mean": 7.4,
+  "rank": 2264,
+  "popularity": 464,
+  "num_list_users": 483085,
+  "num_scoring_users": 254477,
+  "nsfw": "white",
+  "created_at": "2005-11-11T06:09:54+00:00",
+  "updated_at": "2022-04-17T17:13:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "02:20"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

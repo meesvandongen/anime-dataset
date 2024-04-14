@@ -1,0 +1,63 @@
+{
+  "id": 5052,
+  "title": "Eightman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/73670.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/73670l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eight Man",
+      "Eitoman",
+      "8man",
+      "Tobor the Eighth Man"
+    ],
+    "en": "8 Man",
+    "ja": "エイトマン"
+  },
+  "start_date": "1963-11-07",
+  "end_date": "1964-12-24",
+  "synopsis": "A private investigator working a routine case involving stolen technology is mortally wounded. His only hope for survival comes from sacrificing his humanity to become 8Man—a powerful cyborg crime-fighter enhanced with a living human brain. Resurrected as the ultimate high-tech vigilante, it is up to 8Man to bring the lawless to justice and put an end to the escalating cycle of violence. A classic animated thriller that will leave you breathless.\n\n(Source: AnimeNfo)",
+  "mean": 6.08,
+  "rank": 9185,
+  "popularity": 11203,
+  "num_list_users": 2023,
+  "num_scoring_users": 542,
+  "nsfw": "white",
+  "created_at": "2008-08-09T15:55:44+00:00",
+  "updated_at": "2021-11-18T14:17:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 56,
+  "start_season": {
+    "year": 1963,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 489,
+      "name": "TCJ"
+    }
+  ]
+}

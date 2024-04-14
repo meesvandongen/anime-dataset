@@ -1,0 +1,79 @@
+{
+  "id": 40750,
+  "title": "Kaifuku Jutsushi no Yarinaoshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1301/110018l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaiyari"
+    ],
+    "en": "Redo of Healer",
+    "ja": "回復術士のやり直し"
+  },
+  "start_date": "2021-01-13",
+  "end_date": "2021-03-31",
+  "synopsis": "When Keyaru acquired his powers as a Hero who specialized in healing all injuries regardless of severity, it seemed that he would walk the path to a great future. But what awaited him instead was great agony; he was subjected to years of seemingly endless hellish torture and abuse. Keyaru's healing skills allowed him to secretly collect the memories and abilities of those he treated, gradually making him stronger than anyone else. But by the time he reached his full potential, it was far too late—he had already lost everything.\n\nDetermined to put his life back on track, Keyaru decided to unleash a powerful healing spell that rewound the entire world back to the time before he began to suffer his horrible fate. Equipped with the anguish of his past, he vows to redo everything in order to fulfill a new purpose—to exact revenge upon those who have wronged him.\n\n[Written by MAL Rewrite]",
+  "mean": 6.34,
+  "popularity": 379,
+  "num_list_users": 578754,
+  "num_scoring_users": 334766,
+  "nsfw": "white",
+  "created_at": "2019-11-21T05:38:22+00:00",
+  "updated_at": "2023-09-17T22:30:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

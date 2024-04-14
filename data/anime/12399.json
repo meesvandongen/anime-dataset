@@ -1,0 +1,52 @@
+{
+  "id": 12399,
+  "title": "Touyama Sakura Uchuu Chou: Yatsu no Na wa Gold",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1411/97692.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1411/97692l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Samurai Gold",
+      "Tooyama Sakura Uchuu Chou: Yatsu no Na wa Gold"
+    ],
+    "en": "",
+    "ja": "遠山桜宇宙帖・奴の名はゴールド"
+  },
+  "start_date": "1988-07-25",
+  "end_date": "1988-07-25",
+  "synopsis": "This science-fiction anime was inspired somewhat by the life of Kinshiro Toyama (1793-1855), who was first popularized in the 1893 kabuki play \"Toyama no Kinsan.\"",
+  "mean": 5.37,
+  "rank": 11973,
+  "popularity": 14304,
+  "num_list_users": 775,
+  "num_scoring_users": 224,
+  "nsfw": "white",
+  "created_at": "2011-12-17T03:35:39+00:00",
+  "updated_at": "2018-03-19T22:03:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "summer"
+  },
+  "average_episode_duration": 3540,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

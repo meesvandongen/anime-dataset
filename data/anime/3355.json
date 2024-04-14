@@ -1,0 +1,49 @@
+{
+  "id": 3355,
+  "title": "Fortune Dogs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1440/108318.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1440/108318l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ふぉうちゅんドッグす"
+  },
+  "start_date": "2002-07-04",
+  "end_date": "2003-03-29",
+  "synopsis": "A French Bulldog is adopted from the Happy Kennel by a girl named Ai and is given the name Alex. She tells him stories and reads to him from a book titled The Adventures of Freddy about dog who leaves home to find the Fortune Tree.\n\nHowever, he is separated from Ai when he mistakenly follows a girl wearing the same clothes as Ai on a bus. Adopting the name Freddy, after the hero in Ai's storybook, Alex begins his quest to return to Ai. But before he can return to his owner, Freddy and his new friends must find the Fortune Tree and save it from dying, otherwise all the humans in the world will lose their good will and no longer care about their pets.\n\n(Source: Wikipedia)",
+  "mean": 6.76,
+  "rank": 5429,
+  "popularity": 12322,
+  "num_list_users": 1368,
+  "num_scoring_users": 289,
+  "nsfw": "white",
+  "created_at": "2007-11-03T21:19:16+00:00",
+  "updated_at": "2021-05-03T16:34:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2002,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "studios": [
+    {
+      "id": 136,
+      "name": "Vega Entertainment"
+    }
+  ]
+}

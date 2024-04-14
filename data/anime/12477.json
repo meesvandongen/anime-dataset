@@ -1,0 +1,60 @@
+{
+  "id": 12477,
+  "title": "Sakasama no Patema",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/52415.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/52415l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sakasama no Patema"
+    ],
+    "en": "Patema Inverted",
+    "ja": "サカサマのパテマ"
+  },
+  "start_date": "2013-11-09",
+  "end_date": "2013-11-09",
+  "synopsis": "Patema is a plucky young girl from an underground civilization boasting an incredible network of tunnels. Inspired by a friend that mysteriously went missing, she is often reprimanded due to her constant excursions of these tunnels due to her royal status. After she enters what is known as the \"forbidden zone,\" she accidentally falls into a giant bottomless pit after being startled by a strange creature.\n\nFinding herself on the surface, a world literally turned upside down, she begins falling towards the sky only to be saved by Age, a discontented student of the totalitarian nation known as Aiga. The people of Aiga are taught to believe that \"Inverts,\" like Patema, are sinners that will be \"swallowed by the sky,\" but Age has resisted this propaganda and decides to protect his new friend. A chance meeting between two curious teenagers leads to an exploration of two unique worlds as they begin working together to unveil the secrets of their origins in Sakasama no Patema, a heart-warming film about overcoming differences in order to coexist.\n\n[Written by MAL Rewrite]",
+  "mean": 7.95,
+  "rank": 697,
+  "popularity": 836,
+  "num_list_users": 290093,
+  "num_scoring_users": 134616,
+  "nsfw": "white",
+  "created_at": "2011-12-23T21:20:01+00:00",
+  "updated_at": "2023-12-23T02:39:04+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 5930,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 84,
+      "name": "Studio Rikka"
+    },
+    {
+      "id": 559,
+      "name": "Purple Cow Studio Japan"
+    }
+  ]
+}

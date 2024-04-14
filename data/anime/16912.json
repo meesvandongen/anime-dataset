@@ -1,0 +1,45 @@
+{
+  "id": 16912,
+  "title": "gdgd Fairies 2 Episode 0",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/45336.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/45336l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "gdgd妖精s 第2期 #0(ゼロ)"
+  },
+  "start_date": "2012-12-28",
+  "end_date": "2012-12-28",
+  "synopsis": "Special in which the fairies hold a round table discussion. ",
+  "mean": 5.95,
+  "rank": 9817,
+  "popularity": 13730,
+  "num_list_users": 910,
+  "num_scoring_users": 292,
+  "nsfw": "white",
+  "created_at": "2012-12-28T08:28:56+00:00",
+  "updated_at": "2022-02-10T02:07:36+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 840,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": 5237,
+  "title": "Compiler Festa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/61471.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/61471l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Prepare to be Deleted"
+    ],
+    "en": "Compiler 2",
+    "ja": "COMPILER FESTA"
+  },
+  "start_date": "1995-12-21",
+  "end_date": "1995-12-21",
+  "synopsis": "Compiler and Assembler have been given 3 days to return the the 2-D world. If they do not return the council has sworn to destroy it. How will the they spend their last days on earth. Will they be able to confess their love. If only things were that simple. Now a mysterious character is eliminating other individuals from the 2-D world. Can Compiler and Assembler stop this new fiend and be together with those they love. \n\n(Source: ANN)",
+  "mean": 5.29,
+  "rank": 12160,
+  "popularity": 12375,
+  "num_list_users": 1350,
+  "num_scoring_users": 480,
+  "nsfw": "white",
+  "created_at": "2008-09-12T03:09:21+00:00",
+  "updated_at": "2020-06-26T21:09:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "average_episode_duration": 3000,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 24,
+      "name": "Studio Fantasia"
+    }
+  ]
+}

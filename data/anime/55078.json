@@ -1,0 +1,53 @@
+{
+  "id": 55078,
+  "title": "Bubble Bubble Cook 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1156/135467.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1156/135467l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bubble Bubble Cook 2nd Season",
+    "ja": "보글보글 쿡 2기"
+  },
+  "start_date": "2011-09",
+  "end_date": "2012-10",
+  "synopsis": "The second season of Bubble Bubble Cook.",
+  "rank": 18647,
+  "popularity": 23867,
+  "num_list_users": 80,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2023-04-22T07:28:09+00:00",
+  "updated_at": "2023-04-22T15:26:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2746,
+      "name": "Studio Vandal"
+    }
+  ]
+}

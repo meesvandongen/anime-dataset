@@ -1,0 +1,57 @@
+{
+  "id": 55809,
+  "title": "Xian Ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1542/136768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Renegade Immortal",
+    "ja": "仙逆"
+  },
+  "start_date": "2023-09-25",
+  "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
+  "mean": 7.77,
+  "rank": 1059,
+  "popularity": 11656,
+  "num_list_users": 1727,
+  "num_scoring_users": 455,
+  "nsfw": "white",
+  "created_at": "2023-06-30T13:34:11+00:00",
+  "updated_at": "2024-02-19T20:38:47+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 76,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2191,
+      "name": "BUILD DREAM"
+    }
+  ]
+}

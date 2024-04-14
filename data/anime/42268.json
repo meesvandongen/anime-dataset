@@ -1,0 +1,53 @@
+{
+  "id": 42268,
+  "title": "Shouxi Yu Ling Shi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1457/108134.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1457/108134l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chief Soul Manipulator",
+      "Chief Soul Master"
+    ],
+    "en": "",
+    "ja": "首席御灵师"
+  },
+  "start_date": "2020-06-20",
+  "end_date": "2020-10-24",
+  "synopsis": "Last century, Shi Dali was sealed for 100 years, but he accidentally discovered Qingqing, the celestial nine tails fox. He started his path to become Chief Soul Master, to find out the mistery of his origin and to protect the world.\n\n(Source: themoviedb)",
+  "mean": 6.39,
+  "rank": 7521,
+  "popularity": 12013,
+  "num_list_users": 1522,
+  "num_scoring_users": 405,
+  "nsfw": "white",
+  "created_at": "2020-06-20T14:46:57+00:00",
+  "updated_at": "2022-04-16T09:02:47+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 666,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2059,
+      "name": "Suoyi Technology"
+    }
+  ]
+}

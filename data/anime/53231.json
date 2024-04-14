@@ -1,0 +1,60 @@
+{
+  "id": 53231,
+  "title": "KJ File 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1416/132315.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1416/132315l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "KJ File Second Season"
+    ],
+    "en": "KJ File 2nd Season",
+    "ja": "KJファイル 第2期"
+  },
+  "start_date": "2023-01-09",
+  "end_date": "2023-04-03",
+  "synopsis": "Sequel to KJ File.",
+  "mean": 5.37,
+  "rank": 11961,
+  "popularity": 11506,
+  "num_list_users": 1820,
+  "num_scoring_users": 145,
+  "nsfw": "white",
+  "created_at": "2022-10-03T05:02:03+00:00",
+  "updated_at": "2023-03-18T20:38:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "02:35"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1169,
+      "name": "ILCA"
+    },
+    {
+      "id": 2438,
+      "name": "yell"
+    }
+  ]
+}

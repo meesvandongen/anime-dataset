@@ -1,0 +1,42 @@
+{
+  "id": 52931,
+  "title": "Kimi wa Tennen Shoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1629/127523.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1629/127523l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kimi wa Tennenshoku"
+    ],
+    "en": "",
+    "ja": "君は天然色"
+  },
+  "start_date": "2021-03-03",
+  "end_date": "2021-03-03",
+  "synopsis": "Music video for Eiichi Outaki's song Kimi wa Tennen Shoku celebrating its 40th Anniversary.\n\nThis song was used as the ending for the anime Kakushigoto, and also featured in the 6th episode of the 2nd season of Hibike! Euphonium.",
+  "mean": 5.99,
+  "popularity": 14383,
+  "num_list_users": 757,
+  "num_scoring_users": 347,
+  "nsfw": "white",
+  "created_at": "2022-08-30T18:58:24+00:00",
+  "updated_at": "2022-09-02T06:53:44+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "music",
+  "average_episode_duration": 289,
+  "rating": "g",
+  "studios": []
+}

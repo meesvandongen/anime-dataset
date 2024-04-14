@@ -1,0 +1,54 @@
+{
+  "id": 28263,
+  "title": "Honto ni Atta Gakkou Kaidan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/89844.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/89844l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hontou ni Atta Gakkou Kaidan"
+    ],
+    "en": "",
+    "ja": "ほんとにあった学校怪談"
+  },
+  "start_date": "1996-08-21",
+  "end_date": "1996-08-21",
+  "synopsis": "Three elementary school students investigate the mysterious events happening at school such as sightings of giant poisonous spiders and rumors of a ghost in the last stall of the girl's bathroom.",
+  "mean": 5.81,
+  "rank": 10429,
+  "popularity": 16474,
+  "num_list_users": 455,
+  "num_scoring_users": 107,
+  "nsfw": "white",
+  "created_at": "2014-11-04T08:38:46+00:00",
+  "updated_at": "2022-03-06T02:19:16+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": []
+}

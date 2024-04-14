@@ -1,0 +1,54 @@
+{
+  "id": 35960,
+  "title": "Kud Wafter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1575/113371.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1575/113371l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クドわふたー"
+  },
+  "start_date": "2020-11-28",
+  "end_date": "2020-11-28",
+  "synopsis": "Following an accident where Masato Inohara batted a baseball into the school's water main, the boys' dormitory is partially crippled. Until a plumber repairs the damage, the boys have to stay in the girls' dormitory. To determine which rooms they'll be assigned to, they draw tickets from a hat. Unfortunately, due to the limited capacity, some of the boys will have to go without a bed.\n\nOnce Riki Naoe draws his ticket, he gets one that forces him to stay in one of the less-than-cozy clubrooms. Seeing his hapless predicament, a nervous Kudryavka \"Kud\" Noumi musters enough courage to confront her feelings while asking Riki to sleep in her room instead. Despite the rest of the Little Busters incessantly teasing Kud and Riki about their relationship, he stays with her throughout the summer. As they share unforgettable experiences one after another, the two realize that they might want to be more than just friends.\n\n[Written by MAL Rewrite]",
+  "mean": 6.96,
+  "rank": 4450,
+  "popularity": 4873,
+  "num_list_users": 19886,
+  "num_scoring_users": 4182,
+  "nsfw": "white",
+  "created_at": "2017-07-19T01:37:06+00:00",
+  "updated_at": "2022-04-04T17:05:11+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 3055,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 14123,
+  "title": "Pokemon Black and White 2: Introduction Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/56333.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/56333l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pocket Monsters Black and White 2: Introduction Movie",
+      "Pokemon Best Wishes! 2 Introduction Movie"
+    ],
+    "en": "Pokémon Black and White 2: Introduction Movie",
+    "ja": "ポケットモンスターブラック２・ホワイト２"
+  },
+  "start_date": "2012-05-16",
+  "end_date": "2012-05-16",
+  "synopsis": "Promotional short for Pokemon Black and White 2.",
+  "mean": 7.39,
+  "popularity": 5051,
+  "num_list_users": 18097,
+  "num_scoring_users": 9986,
+  "nsfw": "white",
+  "created_at": "2012-05-16T01:16:52+00:00",
+  "updated_at": "2023-12-26T23:11:03+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 360,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

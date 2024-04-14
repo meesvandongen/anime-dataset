@@ -1,0 +1,65 @@
+{
+  "id": 51215,
+  "title": "Seijo no Maryoku wa Bannou desu Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1077/136855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1077/136855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seijo no Maryoku wa Bannou desu 2nd Season",
+      "The power of the saint is all around Season 2"
+    ],
+    "en": "The Saint's Magic Power is Omnipotent Season 2",
+    "ja": "聖女の魔力は万能です Season2"
+  },
+  "start_date": "2023-10-03",
+  "end_date": "2023-12-19",
+  "synopsis": "The king of Slantania has officially appointed Sei Takanashi as the Holy Saint—an omnipotent maiden summoned from another world to save the kingdom. After months of relentless fighting against monsters, Sei can finally relax and continue her study at the Medicinal Flora Research Institute. Although her relationship with Albert Hawke, the commander of the Third Order of Knights, gradually blossoms, her bachelorette status attracts unwanted attention from other men—much to Albert's dismay.\n\nMoreover, Tenyuu—one of the many princes from the faraway Zaidera Empire—has taken an interest in Slantania and its powerful healing potions. Given that Sei's identity is a national secret, she must lay low in the royal palace until Tenyuu satisfies his curiosity at the institute and returns to his country. Despite his unimpressive appearance, the foreign prince is far from clueless. He has come to Slantania for a clear reason, and Sei's unique skills may just hold the answer to his cryptic research.\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2167,
+  "popularity": 2423,
+  "num_list_users": 77453,
+  "num_scoring_users": 28843,
+  "nsfw": "white",
+  "created_at": "2022-03-10T03:51:02+00:00",
+  "updated_at": "2024-01-03T16:46:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 51,
+      "name": "Diomedéa"
+    }
+  ]
+}

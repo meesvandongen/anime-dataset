@@ -1,0 +1,63 @@
+{
+  "id": 53625,
+  "title": "Uchuu Senkan Yamato II: Yamato yo Eien Nare",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1109/131935.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1109/131935l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yamato 2 Complete Edition",
+      "Yamato 2 TV Special, Yamato 2 Compilation Movie"
+    ],
+    "en": "",
+    "ja": "宇宙戦艦ヤマトII ヤマトよ永遠なれ!"
+  },
+  "start_date": "1979-10-06",
+  "end_date": "1979-10-06",
+  "synopsis": "Recap TV special of Uchuu Senkan Yamato 2.",
+  "rank": 14122,
+  "popularity": 19815,
+  "num_list_users": 227,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2022-11-16T16:05:01+00:00",
+  "updated_at": "2022-12-19T08:51:28+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 5794,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": 36030,
+  "title": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1918/93715.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1918/93715l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "よい子のれきしアニメ おおきなカブ(株)"
+  },
+  "start_date": "2016-11-23",
+  "end_date": "2016-11-23",
+  "synopsis": "",
+  "mean": 5.85,
+  "rank": 10256,
+  "popularity": 13984,
+  "num_list_users": 854,
+  "num_scoring_users": 370,
+  "nsfw": "white",
+  "created_at": "2017-07-31T21:50:34+00:00",
+  "updated_at": "2021-08-15T23:02:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 526,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 47,
+      "name": "Khara"
+    }
+  ]
+}

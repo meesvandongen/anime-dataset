@@ -1,0 +1,68 @@
+{
+  "id": 40083,
+  "title": "Arifureta Shokugyou de Sekai Saikyou Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1634/102577.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1634/102577l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "From Common Job Class to the Strongest in the World"
+    ],
+    "en": "Arifureta: From Commonplace to World's Strongest Specials",
+    "ja": "ありふれた職業で世界最強"
+  },
+  "start_date": "2019-12-25",
+  "end_date": "2020-02-26",
+  "synopsis": "Unaired episodes included with the Blu-ray releases of Arifureta Shokugyou de Sekai Saikyou.  ",
+  "mean": 6.73,
+  "rank": 5590,
+  "popularity": 2560,
+  "num_list_users": 71159,
+  "num_scoring_users": 34088,
+  "nsfw": "white",
+  "created_at": "2019-07-10T05:50:56+00:00",
+  "updated_at": "2022-10-07T00:29:38+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 534,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 163,
+      "name": "asread."
+    },
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

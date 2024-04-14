@@ -1,0 +1,70 @@
+{
+  "id": 50265,
+  "title": "Spy x Family",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "SPY×FAMILY"
+  },
+  "start_date": "2022-04-09",
+  "end_date": "2022-06-25",
+  "synopsis": "Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise \"Twilight\" fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.\n\nIn the bustling Ostanian city of Berlint, Twilight dons the alias of \"Loid Forger,\" an esteemed psychiatrist. However, his true intention is to gather intelligence on prominent politician Donovan Desmond, who only appears rarely in public at his sons' school: the prestigious Eden Academy. Enlisting the help of unmarried city hall clerk Yor Briar to act as his wife and adopting the curious six-year-old orphan Anya as his daughter, Loid enacts his master plan. He will enroll Anya in Eden Academy, where Loid hopes she will excel and give him the opportunity to meet Donovan without arousing suspicion. \n\nUnfortunately for Loid, even a man of his talents has trouble playing the figure of a loving father and husband. And just like Loid is hiding his true identity, Yor—who is an underground assassin known as \"Thorn Princess\"—and Anya—an esper who can read people's minds—have no plans to disclose their own secrets either. Although this picture-perfect family is founded on deception, the Forgers gradually come to understand that the love they share for one another trumps all else.\n\n[Written by MAL Rewrite]",
+  "mean": 8.53,
+  "rank": 116,
+  "popularity": 70,
+  "num_list_users": 1541287,
+  "num_scoring_users": 945592,
+  "nsfw": "white",
+  "created_at": "2021-10-31T07:07:47+00:00",
+  "updated_at": "2023-04-02T18:29:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1449,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    },
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

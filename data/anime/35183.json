@@ -1,0 +1,62 @@
+{
+  "id": 35183,
+  "title": "Gurazeni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1365/95058.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1365/95058l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Gurazeni: Money Pitch",
+    "ja": "グラゼニ"
+  },
+  "start_date": "2018-04-06",
+  "end_date": "2018-06-22",
+  "synopsis": "This is the story of Natsunosuke Honda, a pro baseball player—a relief pitcher who has been playing pro in a team called Spiders for 8 years. The team operates as a highly-stratified society, where the player's performance determines his annual salary. Natsunosuke is one of the highest paid players in the game. He measures how good players are by how much money they make, and he intends to be on top and stay there, and as such is always looking for players to challenge and does everything to insure that he is better than they are.\n\n(Source: MAL News)",
+  "mean": 6.38,
+  "rank": 7570,
+  "popularity": 5913,
+  "num_list_users": 11982,
+  "num_scoring_users": 5003,
+  "nsfw": "white",
+  "created_at": "2017-03-18T21:17:09+00:00",
+  "updated_at": "2023-01-09T06:50:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1409,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

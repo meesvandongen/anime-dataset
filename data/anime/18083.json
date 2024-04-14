@@ -1,0 +1,46 @@
+{
+  "id": 18083,
+  "title": "Hello Kitty no Kurumi Wari Ningyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/48017.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/48017l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty's Animation Theater 7a"
+    ],
+    "en": "Hello Kitty in The Nutcracker",
+    "ja": "ハローキティのくるみ割り人形"
+  },
+  "start_date": "2001-10-26",
+  "end_date": "2001-10-26",
+  "synopsis": "Hello Kitty version of The Nutcracker.",
+  "mean": 5.83,
+  "rank": 10347,
+  "popularity": 15190,
+  "num_list_users": 602,
+  "num_scoring_users": 189,
+  "nsfw": "white",
+  "created_at": "2013-03-29T14:58:48+00:00",
+  "updated_at": "2015-07-09T08:28:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "average_episode_duration": 900,
+  "rating": "g",
+  "studios": []
+}

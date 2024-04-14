@@ -1,0 +1,46 @@
+{
+  "id": 51300,
+  "title": "SpoGomi: World Cup Exhibition Match-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1467/121515.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1467/121515l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "SpoGomi: World Cup Exhibition Match Arc",
+    "ja": "スポGOMI ワールドカップエキシビジョンマッチ編"
+  },
+  "start_date": "2022-03-17",
+  "end_date": "2022-03-17",
+  "synopsis": "In the near future, litter-picking has become a competitive sport as popular as soccer.\n\nAkari stands out the least in her class, but one day she meets Tokio—a charismatic SpoGomi competitor blessed with an overwhelming amount of talent and popularity. Thus starts a coming-of-age story that involves young people from around the world, united via SpoGomi and the aim to create towns, rivers and oceans free of garbage.\n\n(Source: Official Website)",
+  "mean": 5.5,
+  "rank": 11588,
+  "popularity": 14525,
+  "num_list_users": 724,
+  "num_scoring_users": 194,
+  "nsfw": "white",
+  "created_at": "2022-03-17T07:29:58+00:00",
+  "updated_at": "2022-04-20T16:57:29+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1711,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2413,
+      "name": "AION Studio"
+    }
+  ]
+}

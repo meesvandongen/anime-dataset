@@ -1,0 +1,44 @@
+{
+  "id": 56623,
+  "title": "Nui Story",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1421/138433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1421/138433l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぬいストーリー"
+  },
+  "start_date": "2023-10-07",
+  "synopsis": "",
+  "rank": 16928,
+  "popularity": 21686,
+  "num_list_users": 129,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2023-09-11T02:32:37+00:00",
+  "updated_at": "2023-09-11T06:36:08+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1762,
+      "name": "Piso Studio"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 2759,
+  "title": "Evangelion Movie 1: Jo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/74975.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/74975l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Evangelion Shin Gekijouban: Jo",
+      "Rebuild of Evangelion: 1.0 You Are (Not) Alone",
+      "Evangelion: 1.01 You Are (Not) Alone",
+      "Evangelion: 1.11 You Are (Not) Alone"
+    ],
+    "en": "Evangelion: 1.0 You Are (Not) Alone",
+    "ja": "ヱヴァンゲリヲン新劇場版:序"
+  },
+  "start_date": "2007-09-01",
+  "end_date": "2007-09-01",
+  "synopsis": "In a post-apocalyptic world, the last remaining human settlement in Japan is the heavily fortified city of Tokyo-3. Fourteen-year-old Shinji Ikari is brought to the headquarters of NERV, an underground organization lead by his estranged father, Gendou. He requests that Shinji become a pilot of an \"Evangelion,\" a colossal android built to fight against monstrous and destructive alien creatures known as \"Angels\" that wreak havoc on the planet and threaten the survival of the remaining human race.\n\nAlthough initially reluctant, Shinji is swayed by the idea of reconciling with his father, and agrees to aid in mankind's perilous endeavor against its alien threat, as the pilot of Evangelion Unit-01. Thrust into the midst of a dangerous battlefield, Shinji must find the necessary courage and resolve to face against the Angels' incursions before it is too late.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8,
+  "rank": 631,
+  "popularity": 386,
+  "num_list_users": 563762,
+  "num_scoring_users": 347481,
+  "nsfw": "white",
+  "created_at": "2007-07-02T04:54:51+00:00",
+  "updated_at": "2023-11-25T13:02:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 6061,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 47,
+      "name": "Khara"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 49618,
+  "title": "Shuumatsu no Walküre II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1213/124646.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1213/124646l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shuumatsu no Walküre 2nd Season",
+      "Record of Ragnarok 2nd Season",
+      "Shuumatsu no Valkyrie",
+      "Valkyrie of the End"
+    ],
+    "en": "Record of Ragnarok II",
+    "ja": "終末のワルキューレII"
+  },
+  "start_date": "2023-01-26",
+  "end_date": "2023-01-26",
+  "synopsis": "In a shocking turn of events, humanity has won its first battle in the Ragnarök tournament—a series of 13 fights that will decide the fate of mankind. Zeus, the head of gods, sends the demigod Heracles for the next round to avenge the humiliated Greek pantheon. To face this hero loved by gods and humans alike, the Valkyrie Brunhilde decides to use Heracles' complete moral opposite: the infamous serial killer Jack the Ripper—leaving human beings unsure who they should support.\n\nMeanwhile, tensions begin to rise between various divine pantheons, and rumors of a traitor jeopardize the unity of those who want to annihilate humanity. As the line between friend and foe becomes blurred, Brunhilde will do everything she can to make her machinations successful.\n\n[Written by MAL Rewrite]",
+  "mean": 7.51,
+  "rank": 1824,
+  "popularity": 1894,
+  "num_list_users": 113864,
+  "num_scoring_users": 64630,
+  "nsfw": "white",
+  "created_at": "2021-08-18T05:29:17+00:00",
+  "updated_at": "2024-03-06T12:46:05+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    },
+    {
+      "id": 894,
+      "name": "Graphinica"
+    }
+  ]
+}

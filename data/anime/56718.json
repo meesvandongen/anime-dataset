@@ -1,0 +1,43 @@
+{
+  "id": 56718,
+  "title": "Lapis no Oningyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1492/138650.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1492/138650l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ラピスのお人形"
+  },
+  "start_date": "2023-09-20",
+  "end_date": "2023-09-20",
+  "synopsis": "Music video directed by Naoki Arata for the song Lapis no Oningyou by Isekaijoucho.",
+  "popularity": 24005,
+  "num_list_users": 78,
+  "num_scoring_users": 37,
+  "nsfw": "white",
+  "created_at": "2023-09-22T17:33:41+00:00",
+  "updated_at": "2024-01-27T09:20:51+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "pg_13",
+  "studios": []
+}

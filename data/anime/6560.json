@@ -1,0 +1,58 @@
+{
+  "id": 6560,
+  "title": "Popee the Performer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1682/110199.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1682/110199l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Popee the Clown",
+    "ja": "POPEE the ぱフォーマー"
+  },
+  "start_date": "2000-01-03",
+  "end_date": "2001-12-28",
+  "synopsis": "Somewhere in the desert lies the Wolf Zirkus: a strange circus where Popee, a clown in a pink rabbit jumpsuit, shares the stage with Kedamono, a purple creature who wears a mask. Together, they juggle the whims of performing, practicing their acts, and poking fun at each other. In a world where anything seems possible, there is no telling what will happen next during this eccentric spectacle.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.24,
+  "rank": 3039,
+  "popularity": 6136,
+  "num_list_users": 10936,
+  "num_scoring_users": 4617,
+  "nsfw": "white",
+  "created_at": "2009-05-31T02:22:13+00:00",
+  "updated_at": "2023-09-01T02:52:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2000,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "20:53"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2812,
+      "name": "Zuiyo"
+    }
+  ]
+}

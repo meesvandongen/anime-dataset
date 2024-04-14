@@ -1,0 +1,51 @@
+{
+  "id": 41509,
+  "title": "Qing Chi Hong Xiaodou Ba! 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1669/106653.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1669/106653l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Qing Chi Hong Xiaodou Ba! Di San Ji"
+    ],
+    "en": "Beanie's Daily III",
+    "ja": "请吃红小豆吧! 第三季"
+  },
+  "start_date": "2020-01-12",
+  "end_date": "2020-04-05",
+  "synopsis": "",
+  "rank": 17413,
+  "popularity": 18743,
+  "num_list_users": 286,
+  "num_scoring_users": 71,
+  "nsfw": "white",
+  "created_at": "2020-03-24T09:38:43+00:00",
+  "updated_at": "2023-09-24T21:25:53+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 360,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2069,
+      "name": "Making Animation"
+    }
+  ]
+}

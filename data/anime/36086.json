@@ -1,0 +1,48 @@
+{
+  "id": 36086,
+  "title": "Toyoichi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/87208.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/87208l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lai Lai Lai Team",
+      "Toyokazu"
+    ],
+    "en": "Toyoichi",
+    "ja": "東洋一"
+  },
+  "start_date": "2014-08-02",
+  "end_date": "2014-08-02",
+  "synopsis": "Official music video for Lai Lai Lai Team's song Toyoichi which was included on the album of the same name. ",
+  "mean": 5.33,
+  "popularity": 18648,
+  "num_list_users": 291,
+  "num_scoring_users": 145,
+  "nsfw": "white",
+  "created_at": "2017-08-06T06:42:02+00:00",
+  "updated_at": "2017-09-21T13:05:41+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 225,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1717,
+      "name": "Onionskin"
+    }
+  ]
+}

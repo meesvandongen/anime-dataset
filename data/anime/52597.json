@@ -1,0 +1,44 @@
+{
+  "id": 52597,
+  "title": "Si Wuxie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1042/126475.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1042/126475l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "思无邪"
+  },
+  "start_date": "2022-07-09",
+  "end_date": "2022-09-17",
+  "synopsis": "",
+  "rank": 13471,
+  "popularity": 18793,
+  "num_list_users": 283,
+  "num_scoring_users": 70,
+  "nsfw": "white",
+  "created_at": "2022-08-04T09:34:12+00:00",
+  "updated_at": "2022-08-04T09:34:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 533,
+  "rating": "g",
+  "studios": []
+}

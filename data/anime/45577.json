@@ -1,0 +1,61 @@
+{
+  "id": 45577,
+  "title": "IDOLiSH7 Third Beat!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1646/115723.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1646/115723l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "IDOLiSH7 3rd Season",
+      "Idolish Seven 3rd Season"
+    ],
+    "en": "IDOLISH7 Third BEAT!",
+    "ja": "アイドリッシュセブン Third BEAT!"
+  },
+  "start_date": "2021-07-04",
+  "end_date": "2021-09-26",
+  "synopsis": "Nearing their first debut anniversary and with their popularity still on the rise, IDOLiSH7 set a date for a live tour to express their gratitude toward their fans. Meanwhile, the Black or White event draws closer—and as the previous year's winners—the group must prepare to take on the challengers. Looking to solidify their reputation in the world of idols, IDOLiSH7 are determined to come out victorious and settle the score once and for all with their rival, TRIGGER.\n\nWhile working around their packed schedules, IDOLiSH7, TRIGGER, and Re:vale meet powerful figures in the entertainment industry. In the midst of the hectic period, some members catch wind of a scandalous rumor regarding IDOLiSH7. As the members of IDOLiSH7 begin to worry about their image, their bonds are put to the test, all while a spiteful figure begins to carry out a certain plan behind the scenes.\n\n[Written by MAL Rewrite]",
+  "mean": 8.23,
+  "rank": 334,
+  "popularity": 4614,
+  "num_list_users": 22442,
+  "num_scoring_users": 7220,
+  "nsfw": "white",
+  "created_at": "2020-12-27T15:19:32+00:00",
+  "updated_at": "2023-10-17T00:48:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1103,
+      "name": "TROYCA"
+    }
+  ]
+}

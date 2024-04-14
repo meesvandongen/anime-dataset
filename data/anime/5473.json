@@ -1,0 +1,52 @@
+{
+  "id": 5473,
+  "title": "Tsuri Baka Nisshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1511/140779.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1511/140779l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fishing Fool Diary",
+      "Diary of a Fishing Fool"
+    ],
+    "en": "",
+    "ja": "釣りバカ日誌"
+  },
+  "start_date": "2002-11-02",
+  "end_date": "2003-09-13",
+  "synopsis": "Hamazaki Densuke (Hama-chan) is an unavaricious white-collar worker who does not have any interest in success and self-protection. Even though he incurs the wrath of his superior and stir ill feelings from his wife, Hama-chan prefers to take things at his own stride and goes fishing. He feels that there are more important things in life than work and enjoys the simple things in life such as fishing.\n\n(Source: ANN)",
+  "rank": 14034,
+  "popularity": 15278,
+  "num_list_users": 588,
+  "num_scoring_users": 111,
+  "nsfw": "white",
+  "created_at": "2008-11-06T13:31:17+00:00",
+  "updated_at": "2022-03-11T10:03:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 36,
+  "start_season": {
+    "year": 2002,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

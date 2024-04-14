@@ -1,0 +1,57 @@
+{
+  "id": 5386,
+  "title": "Miyamoto Musashi: Souken ni Haseru Yume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1871/134818.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1871/134818l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Musashi: The Dream of the Last Samurai",
+    "ja": "宮本武蔵 ―双剣に馳せる夢―"
+  },
+  "start_date": "2009-06-13",
+  "end_date": "2009-06-13",
+  "synopsis": "The film's story centers on Musashi Miyamoto, one of the most famous swordsmen in Japanese history. He pioneered the Hyouhou Niten Ichi-ryuu style of two-sword fighting and wrote The Book of Five Rings, a book that has been compared to Sun Tzu's The Art of War for its insight on tactics and strategy.",
+  "mean": 6.32,
+  "rank": 7928,
+  "popularity": 7453,
+  "num_list_users": 6806,
+  "num_scoring_users": 1815,
+  "nsfw": "white",
+  "created_at": "2008-10-14T19:18:27+00:00",
+  "updated_at": "2022-03-02T19:19:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "average_episode_duration": 4320,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

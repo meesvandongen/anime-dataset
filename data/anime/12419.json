@@ -1,0 +1,57 @@
+{
+  "id": 12419,
+  "title": "Guilty Crown: Kiseki - Reassortment",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/34931.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/34931l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Guilty Crown Tokubetsuhen: Reassortment",
+      "Guilty Crown Special: Reassortment"
+    ],
+    "en": "Guilty Crown Locus: Reassortment",
+    "ja": "ギルティクラウン 軌跡： Reassortment"
+  },
+  "start_date": "2012-01-03",
+  "end_date": "2012-01-03",
+  "synopsis": "A one-hour Noitamina special that recaptures the first 11 episodes of Guilty Crown. ",
+  "mean": 7.1,
+  "rank": 3802,
+  "popularity": 3571,
+  "num_list_users": 38987,
+  "num_scoring_users": 16192,
+  "nsfw": "white",
+  "created_at": "2011-12-18T10:08:16+00:00",
+  "updated_at": "2024-02-25T12:02:35+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 2880,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

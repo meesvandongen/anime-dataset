@@ -1,0 +1,46 @@
+{
+  "id": 38505,
+  "title": "Kunchi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1326/95530.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1326/95530l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kunchi",
+    "ja": "くんち"
+  },
+  "start_date": "2012-10-09",
+  "end_date": "2012-10-09",
+  "synopsis": "An early work of Saigo no Shudan, this movie is collaboration with the artist to-kichi. The motif is \"Nagasaki Kunchi\" which is the most famous festival in Nagasaki, Japan.\n",
+  "mean": 4.98,
+  "rank": 12697,
+  "popularity": 17658,
+  "num_list_users": 361,
+  "num_scoring_users": 154,
+  "nsfw": "white",
+  "created_at": "2018-10-11T04:45:15+00:00",
+  "updated_at": "2018-11-26T18:41:39+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 100,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1934,
+      "name": "Saigo no Shudan"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 41612,
+  "title": "Oshougatsuda yo! Pokemon Special!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1045/106871.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1045/106871l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "It's the New Year! Pocket Monsters Special!"
+    ],
+    "en": "",
+    "ja": "お正月だよ！ポケットモンスタースペシャル！"
+  },
+  "start_date": "1999-01-01",
+  "end_date": "1999-01-01",
+  "synopsis": "A recap special of the first seventy-seven episodes of the Pokemon anime.",
+  "mean": 5.92,
+  "rank": 9915,
+  "popularity": 14002,
+  "num_list_users": 847,
+  "num_scoring_users": 225,
+  "nsfw": "white",
+  "created_at": "2020-04-06T02:41:05+00:00",
+  "updated_at": "2023-07-26T07:34:57+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 5400,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

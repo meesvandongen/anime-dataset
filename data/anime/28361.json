@@ -1,0 +1,50 @@
+{
+  "id": 28361,
+  "title": "Kaseifu ga Ita.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/68495.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/68495l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Housekeeper Ita"
+    ],
+    "en": "",
+    "ja": "カセイフがイタ."
+  },
+  "start_date": "2014-09-03",
+  "end_date": "2014-12-27",
+  "synopsis": "OVA adaptation of the same name shoujo manga. Bundled with the November issue of the Ciao magazine. ",
+  "rank": 15530,
+  "popularity": 16360,
+  "num_list_users": 465,
+  "num_scoring_users": 202,
+  "nsfw": "white",
+  "created_at": "2014-11-10T22:50:20+00:00",
+  "updated_at": "2020-01-06T03:19:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 240,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 11281,
+  "title": "Keroro Gunsou: Mushakero Ohirome Sengoku Ranstar Dai Battle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/31327.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/31327l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "武者ケロ　お披露目！戦国ラン星大バトル！！"
+  },
+  "start_date": "2008-03-01",
+  "end_date": "2008-03-01",
+  "synopsis": "This was the 14-minute movie that was screened in theaters with Keroro Gunsou Movie 3. It became the prequel to the Mushakero in season 5 of the main Keroro Gunsou anime series. It takes place in Ranstar where the Keroro platoon are up against the Vipers. The whole setting of Ranstar is based on the Sengoku Era of Japan, and all characters are dressed in that fashion.",
+  "mean": 6.52,
+  "rank": 6740,
+  "popularity": 12043,
+  "num_list_users": 1509,
+  "num_scoring_users": 479,
+  "nsfw": "white",
+  "created_at": "2011-08-18T10:22:52+00:00",
+  "updated_at": "2021-01-23T21:32:23+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "average_episode_duration": 840,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

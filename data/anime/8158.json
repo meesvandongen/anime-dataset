@@ -1,0 +1,64 @@
+{
+  "id": 8158,
+  "title": "Gegege no Kitarou: Jigoku-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/90097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/90097l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gegege no Kitarou: Jigokuhen",
+      "Gegege no Kitarou: Jigoku Hen"
+    ],
+    "en": "",
+    "ja": "ゲゲゲの鬼太郎　地獄編"
+  },
+  "start_date": "1988-02-08",
+  "end_date": "1988-03-21",
+  "synopsis": "The origins of Kitarou.",
+  "mean": 6.29,
+  "rank": 8092,
+  "popularity": 12694,
+  "num_list_users": 1216,
+  "num_scoring_users": 284,
+  "nsfw": "white",
+  "created_at": "2010-02-12T16:50:13+00:00",
+  "updated_at": "2015-06-19T22:40:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 1988,
+    "season": "winter"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

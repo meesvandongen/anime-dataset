@@ -1,0 +1,52 @@
+{
+  "id": 29643,
+  "title": "6HP (Six Hearts Princess)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/72448.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/72448l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "6♥Princess",
+      "6 Princess"
+    ],
+    "en": "",
+    "ja": "6HP(シックスハートプリンセス)"
+  },
+  "start_date": "2016-12-30",
+  "synopsis": "",
+  "mean": 6,
+  "rank": 9564,
+  "popularity": 7800,
+  "num_list_users": 6077,
+  "num_scoring_users": 539,
+  "nsfw": "white",
+  "created_at": "2015-01-18T14:48:54+00:00",
+  "updated_at": "2023-12-27T14:13:20+00:00",
+  "media_type": "tv_special",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 931,
+      "name": "Poncotan"
+    }
+  ]
+}

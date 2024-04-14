@@ -1,0 +1,49 @@
+{
+  "id": 36642,
+  "title": "Kakusansei Million Arthur",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/88538.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/88538l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kaku-San-Sei Million Arthur",
+    "ja": "拡散性ミリオンアーサー"
+  },
+  "start_date": "2012-03-23",
+  "end_date": "2012-03-23",
+  "synopsis": "The animated opening for Square Enix's Kakusansei Million Arthur RPG mobile card game launched for iOS on April 9, 2012 and for Android on May 24, 2012. The mobile game was terminated on March 30, 2015.",
+  "mean": 5.48,
+  "rank": 11669,
+  "popularity": 13306,
+  "num_list_users": 1020,
+  "num_scoring_users": 324,
+  "nsfw": "white",
+  "created_at": "2017-10-21T08:08:51+00:00",
+  "updated_at": "2019-10-22T13:18:48+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "card_game",
+  "average_episode_duration": 94,
+  "rating": "g",
+  "studios": []
+}

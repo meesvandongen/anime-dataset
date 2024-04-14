@@ -1,0 +1,60 @@
+{
+  "id": 51252,
+  "title": "Spy Kyoushitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1491/132864.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1491/132864l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spy Room"
+    ],
+    "en": "Spy Classroom",
+    "ja": "スパイ教室"
+  },
+  "start_date": "2023-01-05",
+  "end_date": "2023-03-30",
+  "synopsis": "A decade ago, mankind witnessed the deadly potential of weapons caused by the Great War. To avoid another catastrophe, governments worldwide have resorted to espionage to fulfill their agendas.\n\nIn the Din Republic, Lily is an enthusiastic young girl who aspires to become a spy and serve her nation. However, she begins to doubt her abilities, as she struggles to perform well academically. Lily's passion is reignited when she is offered provisional graduation by joining the spy team Lamplight, which she eagerly accepts despite the enigmatic nature of the opportunity.\n\nUpon arriving at her destination, Lily is surprised to find six other girls waiting there, all of whom have faced their own academic difficulties as well. A mysterious man named Klaus soon appears and reveals they must complete an \"Impossible Mission\": to infiltrate the Galgad Empire after just one month of training. Although skeptical, the girls eventually agree to work together under Klaus' guidance—as this might be their only chance to prove their worth as spies.\n\n[Written by MAL Rewrite]",
+  "mean": 6.39,
+  "rank": 7524,
+  "popularity": 1582,
+  "num_list_users": 143636,
+  "num_scoring_users": 41233,
+  "nsfw": "white",
+  "created_at": "2022-03-13T12:29:20+00:00",
+  "updated_at": "2023-06-05T06:04:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1435,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

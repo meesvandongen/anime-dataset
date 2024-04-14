@@ -1,0 +1,74 @@
+{
+  "id": 37497,
+  "title": "Irozuku Sekai no Ashita kara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1424/93855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1424/93855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Iroduku: The World in Colors",
+    "ja": "色づく世界の明日から"
+  },
+  "start_date": "2018-10-06",
+  "end_date": "2018-12-29",
+  "synopsis": "Despite the kaleidoscopic magic ingrained in everyday life, Hitomi Tsukishiro's monochrome world is deprived of emotion and feeling. On a night as black and white as any other, amidst the fireworks spreading across the sky, Hitomi's grandmother Kohaku conjures a spell, for which she has been harnessing the moon's light for 60 years, to send Hitomi back in time to the year 2018 when Kohaku was in high school.\n\nHitomi's mission seems unclear, but her grandmother assures her that she will know when she gets there. Following a trip through time aboard a train driven by a strange yellow creature, Hitomi finds herself in stoic artist Yuito Aoi's room, and his drawings flood her world with color. What is Hitomi's purpose there, and why do Yuito's drawings return such breathtaking color to her drab world?\n\n[Written by MAL Rewrite]",
+  "mean": 7.52,
+  "rank": 1796,
+  "popularity": 704,
+  "num_list_users": 333215,
+  "num_scoring_users": 130964,
+  "nsfw": "white",
+  "created_at": "2018-03-16T11:02:58+00:00",
+  "updated_at": "2023-05-19T09:49:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "original",
+  "average_episode_duration": 1453,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

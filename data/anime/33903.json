@@ -1,0 +1,43 @@
+{
+  "id": 33903,
+  "title": "All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/87202.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/87202l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "SUNTORY x Osomatsu-san",
+      "Muttsu-ko-ryuu All-Free no Tanoshimi-kata"
+    ],
+    "en": "",
+    "ja": "オールフリー　この夏イチオシ物語キャンペーン告知動画"
+  },
+  "start_date": "2016-06-21",
+  "end_date": "2016-07-12",
+  "synopsis": "A collaboration between Suntory's All-Free a zero-alcohol/zero-calorie/zero-carb beverage tasting like beer and Osomatsu-san.",
+  "mean": 5.75,
+  "popularity": 10675,
+  "num_list_users": 2393,
+  "num_scoring_users": 706,
+  "nsfw": "white",
+  "created_at": "2016-08-20T19:03:56+00:00",
+  "updated_at": "2023-12-26T21:19:35+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 42,
+  "rating": "g",
+  "studios": []
+}

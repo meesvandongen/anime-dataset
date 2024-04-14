@@ -1,0 +1,51 @@
+{
+  "id": 57605,
+  "title": "Shinobanai! Crypto Ninja Sakuya: Ni no Maki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1394/140564.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1394/140564l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shinobanai! Crypto Ninja Sakuya Season 2"
+    ],
+    "en": "",
+    "ja": "忍ばない！クリプトニンジャ咲耶 弐ノ巻"
+  },
+  "start_date": "2024-01-11",
+  "end_date": "2024-03-28",
+  "synopsis": "",
+  "rank": 13335,
+  "popularity": 18313,
+  "num_list_users": 313,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2023-12-23T09:17:02+00:00",
+  "updated_at": "2024-03-17T00:14:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:10"
+  },
+  "source": "other",
+  "average_episode_duration": 210,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 866,
+      "name": "Fanworks"
+    }
+  ]
+}

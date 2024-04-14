@@ -1,0 +1,58 @@
+{
+  "id": 2889,
+  "title": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/7499.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/7499l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bleach the Movie: The DiamondDust Rebellion",
+    "ja": "劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸"
+  },
+  "start_date": "2007-12-22",
+  "end_date": "2007-12-22",
+  "synopsis": "Assigned to protect a royal procession transporting a powerful artifact called the \"Ouin,\" Squad 10 gathers in the human world as Captain Toushirou Hitsugaya and Lieutenant Rangiku Matsumoto observe the area cautiously. However, the caravan is suddenly struck by a group of assailants who wreak havoc on the procession, stealing the Ouin in the process. After a brief clash with one of the attackers, the distraught Hitsugaya pursues the escaping thieves, leaving behind Matsumoto and the disoriented squad. Following the incident, the Seireitei brands Hitsugaya a traitor for abandoning his post and puts Squad 10 on indefinite lockdown.\n\nIn the human world, Ichigo Kurosaki is investigating a spiritual abnormality when he stumbles across the injured Captain, but is caught off guard when Hitsugaya suddenly flees. Soon learning of the situation, Ichigo, Rukia Kuchiki, Renji Abarai, and Matsumoto set off to prove Hitsugaya's innocence and uncover the truth behind the theft of the Ouin. Meanwhile, a ghost from Hitsugaya's past haunts his thoughts as he chases down the true culprit.\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2188,
+  "popularity": 974,
+  "num_list_users": 248026,
+  "num_scoring_users": 148327,
+  "nsfw": "white",
+  "created_at": "2007-07-31T09:27:56+00:00",
+  "updated_at": "2022-04-13T17:48:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

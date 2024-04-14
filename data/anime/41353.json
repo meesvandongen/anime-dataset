@@ -1,0 +1,66 @@
+{
+  "id": 41353,
+  "title": "The God of High School",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1722/107269l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gat Obeu Hai Seukul",
+      "갓 오브 하이스쿨",
+      "GOHS"
+    ],
+    "en": "The God of High School",
+    "ja": "THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール"
+  },
+  "start_date": "2020-07-06",
+  "end_date": "2020-09-28",
+  "synopsis": "The \"God of High School\" tournament has begun, seeking out the greatest fighter among Korean high school students! All martial arts styles, weapons, means, and methods of attaining victory are permitted. The prize? One wish for anything desired by the winner.\n\nTaekwondo expert Jin Mo-Ri is invited to participate in the competition. There he befriends karate specialist Han Dae-Wi and swordswoman Yu Mi-Ra, who both have entered for their own personal reasons. Mo-Ri knows that no opponent will be the same and that the matches will be the most ruthless he has ever fought in his life. But instead of being worried, this prospect excites him beyond belief.\n\nA secret lies beneath the facade of a transparent test of combat prowess the tournament claims to be—one that has Korean political candidate Park Mu-Jin watching every fight with expectant, hungry eyes. Mo-Ri, Dae-Wi, and Mi-Ra are about to discover what it really means to become the God of High School.\n\n[Written by MAL Rewrite]",
+  "mean": 7.07,
+  "rank": 3941,
+  "popularity": 186,
+  "num_list_users": 908282,
+  "num_scoring_users": 516024,
+  "nsfw": "white",
+  "created_at": "2020-02-26T09:36:04+00:00",
+  "updated_at": "2024-01-14T07:51:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 25915,
+  "title": "Sakura Capusule",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/75512.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/75512l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sakura Capsule"
+    ],
+    "en": "",
+    "ja": "サクラカプセル"
+  },
+  "start_date": "2014-08-29",
+  "end_date": "2014-08-29",
+  "synopsis": "On a small hill in a neighbourhood in the outskirts of Tokyo, there was a little park. There were six close girls who always used to play there together since they were small.\n\nBut when they were fourth-graders, they had to change schools. The six of them made a \"promise to bury a time capsule\", but in the end they were not able to keep this promise and separated eventually. Four years later and grown up, they now live their own lives.\n\nWhile all of them have their own troubles and worries, the days pass and one day, a miracle happens to them.\n\n(Source: AniDB)",
+  "mean": 5.99,
+  "rank": 9637,
+  "popularity": 11842,
+  "num_list_users": 1613,
+  "num_scoring_users": 469,
+  "nsfw": "white",
+  "created_at": "2014-08-14T01:32:32+00:00",
+  "updated_at": "2021-04-24T17:51:57+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

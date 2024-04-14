@@ -1,0 +1,60 @@
+{
+  "id": 661,
+  "title": "Elf-ban Kakyuusei: Anata dake wo Mitsumete...",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/20194.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/20194l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kakyuusei: Elf Version"
+    ],
+    "en": "",
+    "ja": "エルフ版 下級生 あなただけを見つめて…"
+  },
+  "start_date": "1997-11-24",
+  "end_date": "1998-06-26",
+  "synopsis": "High school students Mizuho Yuuki and Miko Kamiyama are best friends. Miko likes fellow classmate Tohru Nagase. Mizuho is determined not to get in the way of their budding relationship. But underclassmate Ai Minamizato also likes Tohru. Tohru must decide which girl he likes the most. \n\n(Source: ANN)",
+  "mean": 6.11,
+  "rank": 9030,
+  "popularity": 9227,
+  "num_list_users": 3820,
+  "num_scoring_users": 1334,
+  "nsfw": "white",
+  "created_at": "2006-02-02T16:31:59+00:00",
+  "updated_at": "2022-01-27T22:35:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1676,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 2342,
+      "name": "PP Project"
+    }
+  ]
+}

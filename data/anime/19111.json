@@ -1,0 +1,66 @@
+{
+  "id": 19111,
+  "title": "Love Live! School Idol Project 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/59101.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/59101l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Love Live! School Idol Project 2",
+    "ja": "ラブライブ! School idol project 2期"
+  },
+  "start_date": "2014-04-06",
+  "end_date": "2014-06-29",
+  "synopsis": "Otonokizaka High School has been saved! Despite having to withdraw from the Love Live!, the efforts of μ's were able to garner enough interest in their school to prevent it from being shut down. What more, following the conclusion of the first, a second Love Live! is announced, this time on an even larger stage than before. Given a chance for redemption, the nine girls come together once more to sing their hearts out and claim victory.\n \nHowever, with the end of the school year approaching, the graduation of the third years draws near. As they attempt to reach the top of the Love Live!, they must also consider their future and choose what path the group will take. Though the question of whether to continue without the third years or disband weighs heavily on the minds of its members, μ's must quickly come to an answer with graduation right around the corner.\n \nLove Live! School Idol Project 2nd Season continues the story of the girls as they laugh, cry, sing, and dance in their journey to determine the future of their group and conquer the Love Live! in their last chance to win with all nine girls together.\n\n[Written by MAL Rewrite]",
+  "mean": 7.77,
+  "rank": 1050,
+  "popularity": 933,
+  "num_list_users": 258803,
+  "num_scoring_users": 150318,
+  "nsfw": "white",
+  "created_at": "2013-06-16T12:42:54+00:00",
+  "updated_at": "2023-01-26T04:18:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
+  },
+  "source": "other",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

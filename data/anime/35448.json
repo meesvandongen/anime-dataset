@@ -1,0 +1,50 @@
+{
+  "id": 35448,
+  "title": "Yo! Daitouryou Trap-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/85448.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/85448l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hey, President Trap-kun!",
+    "ja": "よ！大統領トラップくん"
+  },
+  "start_date": "2017-03-15",
+  "end_date": "2017-03-22",
+  "synopsis": "In an attempt to strengthen relations with foreign nations amongst international unrest, United States president Trap-kun decides to embrace Japan by enrolling at an ordinary high school as its newest transfer student. However, instead of learning about the nation’s rich culture, he uses his power and privilege to educate his new peers about himself. With a tremendous vocabulary, President Trap-kun raps about the struggles of his position and the multipurpose nature of his hair as he makes his way into the hearts of Japanese youth.\n\n[Written by MAL Rewrite]",
+  "mean": 3.58,
+  "rank": 13269,
+  "popularity": 7014,
+  "num_list_users": 7940,
+  "num_scoring_users": 4737,
+  "nsfw": "white",
+  "created_at": "2017-04-20T17:43:36+00:00",
+  "updated_at": "2022-03-24T14:39:06+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 44,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

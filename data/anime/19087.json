@@ -1,0 +1,56 @@
+{
+  "id": 19087,
+  "title": "Kaiketsu Tamagon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/51189.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/51189l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tamagon the Counselor",
+      "Eggzavier the Eggasaurus"
+    ],
+    "en": "",
+    "ja": "かいけつタマゴン"
+  },
+  "start_date": "1972-10-05",
+  "end_date": "1973-09-28",
+  "synopsis": "Tamagon is a cute monster who is fond of eggs. He acts as a counselor to those in trouble, asking only eggs in payment. He goes to work as soon as he has eaten his fee. However, despite his schemes, his service usually ends in total failure and he winds up being chased by his irate clients. Short as it is, this program is full of laughs and lively humour. \n\n(Source: AniDB)",
+  "mean": 6.07,
+  "rank": 9216,
+  "popularity": 16027,
+  "num_list_users": 498,
+  "num_scoring_users": 122,
+  "nsfw": "white",
+  "created_at": "2013-06-15T08:00:51+00:00",
+  "updated_at": "2013-06-15T08:00:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 195,
+  "start_season": {
+    "year": 1972,
+    "season": "fall"
+  },
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

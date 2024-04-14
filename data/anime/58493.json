@@ -1,0 +1,55 @@
+{
+  "id": 58493,
+  "title": "San Xiuzhi Wang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1419/142176.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1419/142176l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "散修之王"
+  },
+  "start_date": "2024-04-01",
+  "synopsis": "",
+  "rank": 17686,
+  "popularity": 21237,
+  "num_list_users": 149,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2024-03-21T17:29:26+00:00",
+  "updated_at": "2024-04-02T06:52:30+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 654,
+  "rating": "pg_13",
+  "studios": []
+}

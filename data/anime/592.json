@@ -1,0 +1,52 @@
+{
+  "id": 592,
+  "title": "PopoloCrois",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/27541.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/27541l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Popolocrois Monogatari - Hajimari no Bouken"
+    ],
+    "en": "",
+    "ja": "ポポロクロイス"
+  },
+  "start_date": "2003-10-05",
+  "end_date": "2004-03-28",
+  "synopsis": "Pinon, the boy who flows within his body, the blood of the three races (the Dragons, the fairies and the humans), is actually the son of the Courageous One, Pietro. Pinon's encounter with a mysterious animal, Pap, opens up the door to an adventurous journey. He befriends Luna and Marco on the way. However, when he learns that his adventure will determine the fate of PoPoLoCrois, Pinon hardens his heart and leaves his friends. Unknown to him, this is an introductory chapter to a new adventure and Pinon will realise that he must resolve the bigger crisis present in PoPoLoCrois. \n\n(Source: ANN)",
+  "mean": 6.88,
+  "rank": 4806,
+  "popularity": 10980,
+  "num_list_users": 2171,
+  "num_scoring_users": 696,
+  "nsfw": "white",
+  "created_at": "2006-01-26T10:00:34+00:00",
+  "updated_at": "2022-01-11T18:46:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1400,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

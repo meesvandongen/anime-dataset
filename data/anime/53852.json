@@ -1,0 +1,61 @@
+{
+  "id": 53852,
+  "title": "Li Shi Zhentan Shiwusuo: A Day in Lungmen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1641/131849.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1641/131849l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lee Tantei Jimusho",
+      "リー探偵事務所"
+    ],
+    "en": "Lee's Detective Agency: A Day in Lungmen",
+    "ja": "鲤氏侦探事务所"
+  },
+  "start_date": "2022-12-23",
+  "end_date": "2023-02-03",
+  "synopsis": "A mysterious man by the name of Lee dwells with Aak, Hung, and Waai Fu in the dark alleyways of Lungmen City. Styling themselves as Lee's Detective Agency, they strove to run errands, investigate mysteries, and mediate disputes for their neighbors. Herein lists a few of their actual yet strange cases to go with your tea.\n\n(Source: Crunchyroll)",
+  "mean": 6.52,
+  "rank": 6746,
+  "popularity": 8644,
+  "num_list_users": 4693,
+  "num_scoring_users": 1436,
+  "nsfw": "white",
+  "created_at": "2022-12-14T20:42:55+00:00",
+  "updated_at": "2023-05-22T11:25:47+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2652,
+      "name": "Gravity Well"
+    }
+  ]
+}

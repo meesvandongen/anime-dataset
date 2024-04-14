@@ -1,0 +1,66 @@
+{
+  "id": 399,
+  "title": "Seikai no Senki Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/2754.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/2754l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seikai no Senki Movie",
+      "Battle Flag of the Stars Special Edition",
+      "Seikai no Senki Tokubetsuhen"
+    ],
+    "en": "",
+    "ja": "星界の戦旗 特別編"
+  },
+  "start_date": "2001-07-04",
+  "end_date": "2001-07-04",
+  "synopsis": "A compilation of the Seikai no Senki Tokubetsuhens series with additional footage.",
+  "mean": 7.16,
+  "rank": 3518,
+  "popularity": 9526,
+  "num_list_users": 3472,
+  "num_scoring_users": 1245,
+  "nsfw": "white",
+  "created_at": "2005-12-23T18:27:39+00:00",
+  "updated_at": "2023-12-27T16:17:58+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 7200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 41651,
+  "title": "Mushiba no Kodomo no Tanjoubi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1496/106976.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1496/106976l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "虫歯のこどもの誕生日"
+  },
+  "start_date": "1978-10-06",
+  "end_date": "1978-10-06",
+  "synopsis": "Music video for the song Mushiba no Kodomo no Tanjoubi by Norihito Yoshida that was featured on NHK's Minna no Uta program. The video was animated by Tadahiko Horiguchi.",
+  "popularity": 20093,
+  "num_list_users": 211,
+  "num_scoring_users": 100,
+  "nsfw": "white",
+  "created_at": "2020-04-11T01:48:14+00:00",
+  "updated_at": "2020-04-11T01:48:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1978,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 142,
+  "rating": "g",
+  "studios": []
+}

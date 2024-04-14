@@ -1,0 +1,62 @@
+{
+  "id": 22273,
+  "title": "Selector Infected WIXOSS",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/70147.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/70147l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "selector infected WIXOSS",
+    "ja": "selector infected WIXOSS"
+  },
+  "start_date": "2014-04-04",
+  "end_date": "2014-06-20",
+  "synopsis": "Things are not always what they seem. This is especially true for Ruuko Kominato, when she receives a deck of cards for the popular card game WIXOSS, only to find a girl trapped inside her LRIG, or avatar card. Upon meeting others in the same situation, Ruuko discovers that she has now become a \"Selector,\" a player in a special version of WIXOSS where girls can battle each other for a chance to have their deepest desires come true. However, there is a catch. In contrast to the glory that awaits them after their victories, there is a cruel fate: if they lose three times, their lives will be destroyed.\n\nIn an ominous game filled with lies and deceit, Ruuko and her newfound friends must uncover the secrets behind WIXOSS and realize what is truly most important to them before it is too late.\n\n[Written by MAL Rewrite]",
+  "mean": 7.21,
+  "rank": 3205,
+  "popularity": 1528,
+  "num_list_users": 149957,
+  "num_scoring_users": 63490,
+  "nsfw": "white",
+  "created_at": "2014-01-27T09:23:54+00:00",
+  "updated_at": "2023-08-30T07:26:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:49"
+  },
+  "source": "card_game",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

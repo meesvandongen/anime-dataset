@@ -1,0 +1,48 @@
+{
+  "id": 54278,
+  "title": "Watashi no Hashtag ga Baenakute.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1954/132854.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1954/132854l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Hashtag Does Not Shine",
+      "Kyocera CM"
+    ],
+    "en": "",
+    "ja": "私のハッシュタグが映えなくて。"
+  },
+  "start_date": "2023-01-18",
+  "end_date": "2023-01-18",
+  "synopsis": "The story is set in a 'smart city' envisioned by Kyocera, where people express themselves through hashtags on overhead displays.\n\nYoshitoki has designed the original characters, and at first glance, you can see his style throughout the video. The female lead, Yume, closely resembles Shouko Nishimiya from A Silent Voice.\n\nUnlike Nishimiya, however, Yume lacks confidence and she constantly worries that her hashtag won't stand out. To overcome this, she comes up with a special hashtag known as a 'weird tag'.",
+  "mean": 6.06,
+  "popularity": 11338,
+  "num_list_users": 1931,
+  "num_scoring_users": 522,
+  "nsfw": "white",
+  "created_at": "2023-01-18T22:12:31+00:00",
+  "updated_at": "2024-02-20T23:12:27+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2424,
+      "name": "Bandai Namco Filmworks"
+    }
+  ]
+}

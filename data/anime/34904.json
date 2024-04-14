@@ -1,0 +1,65 @@
+{
+  "id": 34904,
+  "title": "Youjo Senki: Senkyou Houkoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/84328.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/84328l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Youjo Senki Episode 6.5",
+      "Youjo Senki Recap"
+    ],
+    "en": "Saga of Tanya the Evil: War Report",
+    "ja": "幼女戦記 第6.5話「戦況報告」"
+  },
+  "start_date": "2017-02-17",
+  "end_date": "2017-02-17",
+  "synopsis": "Recap of the first 6 episodes of Youjo Senki.",
+  "mean": 6.69,
+  "rank": 5820,
+  "popularity": 3659,
+  "num_list_users": 37174,
+  "num_scoring_users": 18905,
+  "nsfw": "white",
+  "created_at": "2017-02-10T15:10:29+00:00",
+  "updated_at": "2024-02-07T15:09:14+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1421,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1567,
+      "name": "Nut"
+    }
+  ]
+}

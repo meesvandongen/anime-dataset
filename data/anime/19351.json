@@ -1,0 +1,58 @@
+{
+  "id": 19351,
+  "title": "Nijiiro☆Prism Girl",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/58531.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/58531l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "にじいろ☆プリズムガール"
+  },
+  "start_date": "2013-08-03",
+  "end_date": "2013-11-30",
+  "synopsis": "The beautiful and tall Kohinata Nijika, a 6th grade kid who doesn't look her age and daughter of an office chief of a TV station, avoids the entertainment world since her mom, a legendary actress, died from a sickness. Hiding the truth about her family, Nijika keeps another secret. The fact that she's living with the prince-like actor, Ichinose Touya, may create a ruckus if it is discovered.\n\nRunning for another errand, Nijika, together with her pet Kapitama-kun, coincidentally run into a drama set that's lacking an actress due to food poisoning. She volunteers for the role and...",
+  "mean": 6.1,
+  "rank": 9066,
+  "popularity": 9234,
+  "num_list_users": 3814,
+  "num_scoring_users": 1647,
+  "nsfw": "white",
+  "created_at": "2013-07-04T21:32:58+00:00",
+  "updated_at": "2021-04-01T05:16:14+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

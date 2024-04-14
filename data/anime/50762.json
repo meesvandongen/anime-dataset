@@ -1,0 +1,50 @@
+{
+  "id": 50762,
+  "title": "Anata wo Hitokoto de Arawashite Kudasai: no Shitsumon ga Nigate da.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1336/120560.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1336/120560l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Anahito",
+      "AnaHito",
+      "\"Please Describe Yourself in One Word\": I'm Bad at the Question.",
+      "Kyocera CM"
+    ],
+    "en": "",
+    "ja": "『あなたを一言で表してください』の質問が苦手だ。"
+  },
+  "start_date": "2022-01-11",
+  "end_date": "2022-01-11",
+  "synopsis": "The anime depicts the \"smart city\" envisioned by Kyocera, where everyone can comfortably and safely live with the use of advanced technology, and it also depicts the worries of job seekers. The anime's title and theme reflect both the vexing issue of how to describe Kyocera's extensive business in just one word, and the mood of job seekers vexed by the interview question, \"If you had to describe yourself in one word, what would it be?\"\n\n(Source: ANN)",
+  "mean": 6.21,
+  "popularity": 11994,
+  "num_list_users": 1531,
+  "num_scoring_users": 513,
+  "nsfw": "white",
+  "created_at": "2022-01-06T19:39:45+00:00",
+  "updated_at": "2024-02-20T23:12:52+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 310,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

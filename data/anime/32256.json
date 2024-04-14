@@ -1,0 +1,65 @@
+{
+  "id": 32256,
+  "title": "Mahou no Tenshi Creamy Mami: Zutto Kitto Motto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/77435.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/77435l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "魔法の天使クリィミーマミ 「Zutto Kitto Motto」"
+  },
+  "start_date": "1998-03-25",
+  "end_date": "1998-03-25",
+  "synopsis": "A music clip made for the LD Mahou no Tenshi Creamy Mami Featherstar Box 1. It features an adult Yuu reminiscing about her past. ",
+  "mean": 5.97,
+  "popularity": 13685,
+  "num_list_users": 922,
+  "num_scoring_users": 375,
+  "nsfw": "white",
+  "created_at": "2015-12-08T06:00:13+00:00",
+  "updated_at": "2023-09-18T04:21:50+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 211,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

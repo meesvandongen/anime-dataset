@@ -1,0 +1,58 @@
+{
+  "id": 1508,
+  "title": "Sci-fi Harry",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/57605.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/57605l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sci-fi Harry",
+    "ja": "サイファイハリー"
+  },
+  "start_date": "2000-10-06",
+  "end_date": "2001-03-23",
+  "synopsis": "Harry is definitely not your average American teenager. Instead, he is the epitome of an \"alienated youth\"—friendless at school, extremely weird, and nervous to the point of paranoia. But a chance occurrence causes Harry to start to demonstrate what appear to be psychic powers—yet he neither believes in them nor consciously controls them.\n\nHowever, there are other ominous forces at work who do believe in Harry and attempt to make use of him in ways that are threatening and frightful.\n\n(Source: AniDB, edited)",
+  "mean": 6.14,
+  "rank": 8879,
+  "popularity": 6559,
+  "num_list_users": 9341,
+  "num_scoring_users": 2461,
+  "nsfw": "white",
+  "created_at": "2006-09-22T16:41:01+00:00",
+  "updated_at": "2021-12-27T04:22:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "02:09"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 77,
+      "name": "APPP"
+    }
+  ]
+}

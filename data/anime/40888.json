@@ -1,0 +1,48 @@
+{
+  "id": 40888,
+  "title": "Kidou Senshi Gakuen: Kaettekita G-Reco Koushien",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1861/105481.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1861/105481l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Academy: The Return of 'G-Reco Koushien'",
+    "ja": "モビルスーツ学園「帰ってきたＧ-レコ甲子園」"
+  },
+  "start_date": "2020-01-17",
+  "end_date": "2023-03-24",
+  "synopsis": "Short specials bundled with the Blu-ray volumes of the Gundam: G no Reconguista movies.",
+  "rank": 15609,
+  "popularity": 13905,
+  "num_list_users": 870,
+  "num_scoring_users": 79,
+  "nsfw": "white",
+  "created_at": "2019-12-15T19:24:16+00:00",
+  "updated_at": "2023-01-30T05:39:35+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": 29748,
+  "title": "Kabushiki Kaisha Zoo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/71660.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/71660l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ltd. Zoo",
+      "Kabushiki Gaisha Zoo"
+    ],
+    "en": "",
+    "ja": "株式会社ZOO"
+  },
+  "start_date": "2010-01-20",
+  "end_date": "2010-08-30",
+  "synopsis": "",
+  "rank": 15368,
+  "popularity": 18873,
+  "num_list_users": 278,
+  "num_scoring_users": 41,
+  "nsfw": "white",
+  "created_at": "2015-01-23T04:02:37+00:00",
+  "updated_at": "2015-02-01T09:24:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "pg",
+  "studios": []
+}

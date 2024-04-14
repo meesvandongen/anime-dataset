@@ -1,0 +1,54 @@
+{
+  "id": 35567,
+  "title": "Gundam Build Fighters: Battlogue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/87160.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/87160l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ガンダムビルドファイターズ バトローグ"
+  },
+  "start_date": "2017-08-04",
+  "end_date": "2017-12-08",
+  "synopsis": "This is a dynamic dream battle featuring many types of Gunpla skirmishing in all sorts of situations.\n\n(Source: gundam.info)",
+  "mean": 6.76,
+  "rank": 5434,
+  "popularity": 6890,
+  "num_list_users": 8319,
+  "num_scoring_users": 3986,
+  "nsfw": "white",
+  "created_at": "2017-05-11T01:41:10+00:00",
+  "updated_at": "2022-03-22T00:17:27+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 661,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

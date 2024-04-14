@@ -1,0 +1,64 @@
+{
+  "id": 764,
+  "title": "Zoids Shinseiki/Zero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1159/133229.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1159/133229l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zoids New Century/Zero",
+      "Zoids: New Century Zero"
+    ],
+    "en": "Zoids: New Century",
+    "ja": "ゾイド新世紀／ゼロ"
+  },
+  "start_date": "2001-01-06",
+  "end_date": "2001-06-30",
+  "synopsis": "Zoids—powerful animal-shaped combat mechs—are no longer used in warfare, but in organized sporting competitions. The Blitz Team, a group of pilots struggling to carve out a niche for themselves in the Zoid battling leagues, experience a stroke of luck when Bit Cloud, a vagrant junk dealer, wanders into their midst and proves himself capable of piloting the temperamental Liger Zero, a Zoid that refuses to let anyone else into its cockpit. Led by Bit and the Liger, the Blitz Team steadily make their way to the top—but along the way they attract the unwelcome attention of the Backdraft Group, an organization of Zoid pilots that operates outside the laws set down by the Zoid Battle Commission. The Backdraft want powerful Zoids to add to their ranks, and they have their eye on the Liger Zero...",
+  "mean": 7.32,
+  "rank": 2659,
+  "popularity": 4113,
+  "num_list_users": 29070,
+  "num_scoring_users": 15863,
+  "nsfw": "white",
+  "created_at": "2006-02-18T18:37:46+00:00",
+  "updated_at": "2022-12-13T12:44:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2001,
+    "season": "winter"
+  },
+  "average_episode_duration": 1460,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

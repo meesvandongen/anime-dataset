@@ -1,0 +1,65 @@
+{
+  "id": 3483,
+  "title": "Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/30539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/30539l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maison Ikkoku: Four Seasons Through the Passing Seasons",
+      "Maison Ikkoku: Through the Passing of the Seasons"
+    ],
+    "en": "",
+    "ja": "めぞん一刻～移りゆく季節の中で～"
+  },
+  "start_date": "1988-12-21",
+  "end_date": "1988-12-21",
+  "synopsis": "A recap of the Maison Ikkoku series that focuses on the relationship between Godai and Kyoko. The entire special is taken from footage of the TV series.",
+  "mean": 6.95,
+  "rank": 4510,
+  "popularity": 9374,
+  "num_list_users": 3641,
+  "num_scoring_users": 1256,
+  "nsfw": "white",
+  "created_at": "2007-11-27T15:20:16+00:00",
+  "updated_at": "2022-11-14T09:14:43+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

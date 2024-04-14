@@ -1,0 +1,46 @@
+{
+  "id": 33839,
+  "title": "Alice in Deadly School",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1614/110455.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1614/110455l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アリスインデッドリースクール"
+  },
+  "start_date": "2021-03-03",
+  "end_date": "2021-03-03",
+  "synopsis": "The story begins with the peaceful daily life of schoolgirls—which suddenly breaks down when former schoolmates become zombies. The story follows the actions taken by the girls left behind on the school roof.\n\n(Source: ANN)\n",
+  "mean": 5.17,
+  "rank": 12418,
+  "popularity": 4918,
+  "num_list_users": 19400,
+  "num_scoring_users": 4151,
+  "nsfw": "white",
+  "created_at": "2016-08-12T11:51:08+00:00",
+  "updated_at": "2023-01-19T22:34:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 2518,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 42193,
+  "title": "Munyeodo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1729/107956.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1729/107956l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mu-nyeo-do"
+    ],
+    "en": "The Shaman Sorceress",
+    "ja": "무녀도"
+  },
+  "start_date": "2018-10-06",
+  "end_date": "2018-10-06",
+  "synopsis": "Mohwa, who lives with her deaf daughter Nang-Yi, has been practicing Shamanism her entire life. One day, her son Wook-Yi returns home but as a converted Christian. This sparks conflict between mother and son which ends in a terrible tragedy that leads Nang-Yi to create a mysterious painting.\n\n(Source: Annecy)",
+  "rank": 16668,
+  "popularity": 19537,
+  "num_list_users": 241,
+  "num_scoring_users": 39,
+  "nsfw": "white",
+  "created_at": "2020-06-10T18:44:44+00:00",
+  "updated_at": "2021-03-31T16:01:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 5145,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1426,
+      "name": "Studio Meditation With a Pencil"
+    }
+  ]
+}

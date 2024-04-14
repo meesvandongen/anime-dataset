@@ -1,0 +1,55 @@
+{
+  "id": 38174,
+  "title": "Gakuen Senki Muryou: Yorinuki Muryou-san Girls Selection",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1676/93460.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1676/93460l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gakuen Senki Muryou Special"
+    ],
+    "en": "",
+    "ja": "よりぬきムリョウさん Girls Selection ~学園戦記ムリョウ特別編~"
+  },
+  "start_date": "2002-01-26",
+  "end_date": "2002-01-26",
+  "synopsis": "A recap Special of Gakuen Senki Muryou whose focus are the highlights of the female cast. In order: Nayuta Moriyama, Harumi Mineo, Futaba Murata, Setsuna Subaru, and Nayuta Moriyama (again). ",
+  "rank": 19625,
+  "popularity": 17113,
+  "num_list_users": 401,
+  "num_scoring_users": 74,
+  "nsfw": "white",
+  "created_at": "2018-08-12T15:13:47+00:00",
+  "updated_at": "2021-01-03T05:05:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 2400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

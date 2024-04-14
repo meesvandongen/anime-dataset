@@ -1,0 +1,58 @@
+{
+  "id": 48453,
+  "title": "Super Crooks",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1579/118015.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1579/118015l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Super Crooks",
+    "ja": "スーパー・クルックス"
+  },
+  "start_date": "2021-11-25",
+  "end_date": "2021-11-25",
+  "synopsis": "One last heist. That's what they all say, right? Just one final score, and everyone can retire and take up fishing. Thing is, the jails are filled with super villains who thought the same thing, and got busted. But the Heat's in a jam. He's run up the kind of gambling debt that - if he can't pay it back in cash - will be paid in blood. Nobody wants to see the most beloved supercrook of all time rubbed out by the mob - especially his biggest fan, Johnny Bolt. And Johnny's got a plan to help the Heat and make all his buddies disgustingly rich at the same time. Unfortunately for Johnny's recruits, they have to head to Spain and rob the world's most notorious super villain blind. And that's where things get tricky. \n\n(Source: Marvel Comics)",
+  "mean": 7.2,
+  "rank": 3279,
+  "popularity": 2328,
+  "num_list_users": 83223,
+  "num_scoring_users": 36814,
+  "nsfw": "white",
+  "created_at": "2021-03-12T13:23:27+00:00",
+  "updated_at": "2023-01-07T21:58:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 1507,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

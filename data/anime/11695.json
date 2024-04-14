@@ -1,0 +1,53 @@
+{
+  "id": 11695,
+  "title": "Ultraman Graffiti",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/32641.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/32641l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ウルトラマングラフィティ"
+  },
+  "start_date": "1990-10-25",
+  "end_date": "1990-10-25",
+  "synopsis": "Super deformed Ultraman shorts ",
+  "mean": 5.58,
+  "rank": 11349,
+  "popularity": 14544,
+  "num_list_users": 718,
+  "num_scoring_users": 184,
+  "nsfw": "white",
+  "created_at": "2011-09-24T11:05:54+00:00",
+  "updated_at": "2020-11-22T11:08:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1990,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 480,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 47250,
+  "title": "Jouran: The Princess of Snow and Blood",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1289/115673.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1289/115673l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Joran The Princess of Snow and Blood",
+    "ja": "擾乱 THE PRINCESS OF SNOW AND BLOOD"
+  },
+  "start_date": "2021-04-07",
+  "end_date": "2021-06-23",
+  "synopsis": "In 1931, the Tokugawa Shogunate remains in power, marking the 64th year of the Meiji era. Holding a monopoly over the newly discovered \"Dragon Vein,\" the government is leading Japan toward an advanced Edo period. During this time, an elite force of executioners called \"Nue\" is tasked with defending the Shogunate from a rebel institution known as the \"Kuchinawa.\"\n\nAs the owner of the Tsuyukasa Bookshop, Sawa Yukimura runs the store's day-to-day business inconspicuously. But behind the scenes, she seeks vengeance against the man who slaughtered her tribe and family. With a special ability to transform granted by her blue blood, Sawa joins Nue after being promised information regarding the target of her revenge: Janome, the leader of the Kuchinawa.\n\n[Written by MAL Rewrite]",
+  "mean": 6.1,
+  "rank": 9101,
+  "popularity": 2144,
+  "num_list_users": 94939,
+  "num_scoring_users": 29376,
+  "nsfw": "white",
+  "created_at": "2021-02-01T14:44:26+00:00",
+  "updated_at": "2023-01-13T15:55:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:29"
+  },
+  "source": "original",
+  "average_episode_duration": 1370,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1984,
+      "name": "Bakken Record"
+    }
+  ]
+}

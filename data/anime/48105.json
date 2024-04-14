@@ -1,0 +1,48 @@
+{
+  "id": 48105,
+  "title": "Shui Tun Tang Guan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1754/130365.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1754/130365l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "水豚汤馆"
+  },
+  "start_date": "2021-01-06",
+  "end_date": "2021-05-12",
+  "synopsis": "",
+  "rank": 13413,
+  "popularity": 23368,
+  "num_list_users": 87,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2021-02-20T08:34:39+00:00",
+  "updated_at": "2022-11-02T12:43:51+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 360,
+  "rating": "pg",
+  "studios": []
+}

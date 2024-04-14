@@ -1,0 +1,52 @@
+{
+  "id": 17659,
+  "title": "Gunnm 3D Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/47131.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/47131l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Battle Angel Alita 3D Special"
+    ],
+    "en": "",
+    "ja": "銃夢-3Dスペシャル-"
+  },
+  "start_date": "2000-08-18",
+  "end_date": "2000-08-18",
+  "synopsis": "A 3 minute 3D-CGI rendered movie clip included with volume 6 of the Gunnm: Complete Edition manga reprint. It showcases Alita in a Third League motorball race with players from two of her races such as \"Armor\" Togo, Degchalev, and Valdicci, and depicts events from both of those races.\n\n(Source: AniDB)",
+  "mean": 4.81,
+  "rank": 12869,
+  "popularity": 9462,
+  "num_list_users": 3539,
+  "num_scoring_users": 1529,
+  "nsfw": "white",
+  "created_at": "2013-03-02T23:45:11+00:00",
+  "updated_at": "2024-03-06T11:01:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 206,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 298,
+      "name": "Anima"
+    }
+  ]
+}

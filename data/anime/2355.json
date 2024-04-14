@@ -1,0 +1,66 @@
+{
+  "id": 2355,
+  "title": "Devilman: Yochou Sirene-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1362/106934.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1362/106934l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Devilman: The Demon Bird",
+    "ja": "デビルマン 妖鳥シレーヌ編"
+  },
+  "start_date": "1990-02-25",
+  "end_date": "1990-02-25",
+  "synopsis": "Demons exist and their power is beyond what humans can fathom. In fact they are so strong that humans do not stand a chance against them in a fight. \n\nThe only thing strong enough to defeat a demon is another demon and it is trough this logic that Ryo Asuka hatches the plan to have his good-hearted friend Akira Fudo possessed by a demon. If a person is of pure of heart then he might be able to control the demon that posses him and thereby acquire power equal to a demon. After raising some hell in a club the plan works and Akira is possessed by the powerful demon known as Amon. \n\nNow Akira is humanities sole champion of justice against the hidden demon menace that has plagued humanity since the dawn of time.\n\n(Source: ANN)",
+  "mean": 7.04,
+  "rank": 4107,
+  "popularity": 4530,
+  "num_list_users": 23352,
+  "num_scoring_users": 12808,
+  "nsfw": "white",
+  "created_at": "2007-04-26T01:07:19+00:00",
+  "updated_at": "2022-11-17T06:48:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 3423,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 234,
+      "name": "Oh! Production"
+    }
+  ]
+}

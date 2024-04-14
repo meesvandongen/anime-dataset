@@ -1,0 +1,40 @@
+{
+  "id": 29249,
+  "title": "Kiki to Lala no Mamatte Suteki!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1999/112553.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1999/112553l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "キキとララのママってすてき!"
+  },
+  "start_date": "1995-06-21",
+  "end_date": "1995-06-21",
+  "synopsis": "Lala finds a myserious egg that hatches into a baby dragon who they name Will. She and Kiki try to bring him up but Will grows far too big too fast and uses his dragon instincts which cause a lot of destruction. ",
+  "mean": 5.93,
+  "rank": 9899,
+  "popularity": 17124,
+  "num_list_users": 400,
+  "num_scoring_users": 117,
+  "nsfw": "white",
+  "created_at": "2015-01-04T12:33:43+00:00",
+  "updated_at": "2021-09-23T11:12:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "average_episode_duration": 1660,
+  "rating": "g",
+  "studios": []
+}

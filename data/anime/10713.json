@@ -1,0 +1,62 @@
+{
+  "id": 10713,
+  "title": "Towa no Quon 2: Konton no Ranbu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1159/112801.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1159/112801l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Towanoquon: Dancing Orchid in Chaos",
+    "ja": "トワノクオン 第２章 混沌の乱舞"
+  },
+  "start_date": "2011-07-16",
+  "end_date": "2011-07-16",
+  "synopsis": "After surviving their most recent battle, the Attractors based at Fantasium Garden work to integrate their new members. It is not long, however, before both the Attractors and the Custos notice a mysterious string of murders that all share a connection with flowers. Realizing that the culprit must be an Attractor, the Custos move in to eliminate their target while Quon Mitsuchi plans to save them. Will Quon be able to save an Attractor that is also a serial murderer, or will he ultimately waver in his values?\n\n[Written by MAL Rewrite]",
+  "mean": 7.31,
+  "rank": 2665,
+  "popularity": 3551,
+  "num_list_users": 39387,
+  "num_scoring_users": 20881,
+  "nsfw": "white",
+  "created_at": "2011-05-17T18:14:27+00:00",
+  "updated_at": "2022-09-30T06:45:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2880,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

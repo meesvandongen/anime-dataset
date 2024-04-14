@@ -1,0 +1,51 @@
+{
+  "id": 12139,
+  "title": "Wanpaku Tanteidan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/59651.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/59651l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Boy's Detective Team"
+    ],
+    "en": "",
+    "ja": "わんぱく探偵団"
+  },
+  "start_date": "1968-02-01",
+  "end_date": "1968-09-26",
+  "synopsis": "A group of young boys (plus a token girl and her little brother, the obligatory brat) form a detective club, pooling their talents for brain, brawn, invention, and driving skills to solve crimes in Tokyo. Much to the consternation of police chief Nakamura, they often succeed where the professionals fail.\n\n(Source: The Anime Encyclopedia)",
+  "mean": 6.39,
+  "rank": 7531,
+  "popularity": 13589,
+  "num_list_users": 945,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2011-11-23T13:29:31+00:00",
+  "updated_at": "2021-09-27T13:07:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 35,
+  "start_season": {
+    "year": 1968,
+    "season": "winter"
+  },
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3506,
+  "title": "Connected",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1974/111954.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1974/111954l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ayumi Hamasaki: Connected"
+    ],
+    "en": "Connected",
+    "ja": "Connected"
+  },
+  "start_date": "2002-01-01",
+  "end_date": "2002-01-01",
+  "synopsis": "Music video by Ayumi Hamasaki, created by Studio 4°C.",
+  "mean": 5.96,
+  "popularity": 8756,
+  "num_list_users": 4539,
+  "num_scoring_users": 2737,
+  "nsfw": "white",
+  "created_at": "2007-12-02T19:17:22+00:00",
+  "updated_at": "2023-12-06T19:22:45+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 207,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    }
+  ]
+}

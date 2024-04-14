@@ -1,0 +1,49 @@
+{
+  "id": 37028,
+  "title": "Panpaka Pants x Lala-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/89794.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/89794l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eigakan no Manner: Oshaberi wa Dame desu yo-hen",
+      "Game-ki wo Tatai Tari Yusuttari Shinai-hen",
+      "Medal wa wo Mise no Soto ni Mochidasanai-hen",
+      "Junban wo Mamotte Asobu-hen"
+    ],
+    "en": "",
+    "ja": "パンパカパンツ×ララちゃん"
+  },
+  "start_date": "2017-12-30",
+  "end_date": "2018-06-30",
+  "synopsis": "A three-way collaboration between Lalala Lala-chan, Panpaka Pants, and the Aeon Cinema movie theater company. \n\nThe first is a short promoting good theater etiquette and was screened at all Aeon Cinemas (the same day as the web release). Collaborative goods were sold at 422 Molly Fantasy stores (also owned by the Aeon conglomerate). Molly Fantasy stores had 3 unique collaboration episodes shown on TVs at the store front promoting good gaming etiquette.",
+  "rank": 17134,
+  "popularity": 18038,
+  "num_list_users": 331,
+  "num_scoring_users": 91,
+  "nsfw": "white",
+  "created_at": "2017-12-30T16:36:20+00:00",
+  "updated_at": "2022-03-23T14:54:38+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 40,
+  "rating": "g",
+  "studios": []
+}

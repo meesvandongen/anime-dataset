@@ -1,0 +1,43 @@
+{
+  "id": 25639,
+  "title": "Toilet no Kamisama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/65171.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/65171l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Toilet no Kami-sama",
+      "Toire no Kamisama"
+    ],
+    "en": "",
+    "ja": "トイレの神様"
+  },
+  "start_date": "2010-11-24",
+  "end_date": "2010-11-24",
+  "synopsis": "An animated music video by Daisuke Hashimoto for the song Toilet no Kamisama by Kana Uemura.",
+  "mean": 5.78,
+  "popularity": 16217,
+  "num_list_users": 478,
+  "num_scoring_users": 241,
+  "nsfw": "white",
+  "created_at": "2014-07-29T22:30:22+00:00",
+  "updated_at": "2021-08-25T11:09:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "music",
+  "average_episode_duration": 550,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": 975,
+  "title": "Yokohama Kaidashi Kikou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/23054.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/23054l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "YKK",
+      "Yokohama Shopping Log",
+      "Yokohama Shopping Trip"
+    ],
+    "en": "",
+    "ja": "ヨコハマ買い出し紀行"
+  },
+  "start_date": "1998-05-21",
+  "end_date": "1998-12-02",
+  "synopsis": "After a disaster leaves the world in a state of decline, the remaining human population lives out their lives peacefully and quietly in the twilight of the human age. Alpha Hatsuseno is an android who works at a cafe bordering Yokohama that rarely gets visitors, and is waiting for her owner to return.\n\nOne day, another android, the courier Kokone Takatsu, brings Alpha a package from her master. Inside is a camera, given to Alpha so she can take pictures to reminisce about.\n\nYokohama Kaidashi Kikou is a slow and contemplative anime that follows an android girl as she takes beautiful pictures and experiences touching moments, all amidst a calming sense of peace.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.42,
+  "rank": 2181,
+  "popularity": 3489,
+  "num_list_users": 40736,
+  "num_scoring_users": 14898,
+  "nsfw": "white",
+  "created_at": "2006-05-15T06:13:14+00:00",
+  "updated_at": "2022-04-17T21:08:39+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1740,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

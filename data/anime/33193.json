@@ -1,0 +1,53 @@
+{
+  "id": 33193,
+  "title": "Shi Wan Ge Leng Xiaohua",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/79764.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/79764l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Hundred Thousand Bad Jokes Season 1",
+      "Shi Wan Ge Leng Xiaohua Di Yii Ji"
+    ],
+    "en": "",
+    "ja": "十万个冷笑话第一季"
+  },
+  "start_date": "2012-07-11",
+  "end_date": "2013-08-01",
+  "synopsis": "One Hundred Thousand Bad Jokes is a parody series that references folktales, classic literature, and modern comics, films, and animation from a variety of countries and regions.",
+  "mean": 6.19,
+  "rank": 8609,
+  "popularity": 13904,
+  "num_list_users": 871,
+  "num_scoring_users": 240,
+  "nsfw": "white",
+  "created_at": "2016-04-16T08:38:43+00:00",
+  "updated_at": "2022-09-21T08:46:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1268,
+      "name": "L²Studio"
+    }
+  ]
+}

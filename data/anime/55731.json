@@ -1,0 +1,52 @@
+{
+  "id": 55731,
+  "title": "Wu Nao Monu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1386/136705.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1386/136705l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Brainless Witch"
+    ],
+    "en": "Agate",
+    "ja": "无脑魔女"
+  },
+  "start_date": "2023-07-04",
+  "end_date": "2023-10-03",
+  "synopsis": "Agate is a demon girl cursed with an eternal life. To forget the past, she throws half of her head into a deep valley and runs away. Unexpectedly, the tears flood the valley floor and form into a lake, triggering a flood in hell. Aloys, the Prince of Ghost comes to the Human World to find out the truth and finally finds the demon girl, starting a story of life and love.\n\n(Source: Bilibili YouTube)",
+  "mean": 6.68,
+  "rank": 5832,
+  "popularity": 8318,
+  "num_list_users": 5210,
+  "num_scoring_users": 795,
+  "nsfw": "white",
+  "created_at": "2023-06-21T05:30:44+00:00",
+  "updated_at": "2024-02-16T08:23:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 503,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2660,
+      "name": "Changchun Unity of Knowledge and Action Animation"
+    }
+  ]
+}

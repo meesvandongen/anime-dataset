@@ -1,0 +1,54 @@
+{
+  "id": 191,
+  "title": "Love Hina Christmas Special: Silent Eve",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/82467.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/82467l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Love Hina Christmas Movie",
+    "ja": "ラブひなクリスマススペシャル ～サイレント・イヴ～"
+  },
+  "start_date": "2000-12-25",
+  "end_date": "2000-12-25",
+  "synopsis": "As another round of preliminary tests approach for Keitaro, so does Christmas. And as the first Christmas of the millenium, there is a rumor that if one confesses his love on this special eve it will come true. Keitaro has decided what he needs to do on this Christmas eve, but being a retaker can he afford taking attention away from the tests on the same day...\n\nThe Winter has begun in Hinata. X-mas is coming up. There are rumors about this special christmas eve: If someone is going to confess his love on this christmas eve, any wish will come true. Keitaro decides to confess his love to Naru. But he isn't the only one confessing on this christmas eve...\n\n(Source: ANN)",
+  "mean": 7.31,
+  "rank": 2687,
+  "popularity": 2865,
+  "num_list_users": 58368,
+  "num_scoring_users": 35854,
+  "nsfw": "white",
+  "created_at": "2005-11-12T06:54:47+00:00",
+  "updated_at": "2024-02-04T16:27:04+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 2760,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

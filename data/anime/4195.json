@@ -1,0 +1,57 @@
+{
+  "id": 4195,
+  "title": "Kodomo no Jikan Ni Gakki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/39447.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/39447l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kodomo no Jikan: Second Term",
+      "Kodomo no Jikan OVA 3"
+    ],
+    "en": "",
+    "ja": "こどものじかん 2学期"
+  },
+  "start_date": "2009-02-20",
+  "end_date": "2009-07-24",
+  "synopsis": "The second season of Kodomo no Jikan.",
+  "mean": 7.03,
+  "rank": 4140,
+  "popularity": 3928,
+  "num_list_users": 32129,
+  "num_scoring_users": 17232,
+  "nsfw": "gray",
+  "created_at": "2008-03-30T04:47:44+00:00",
+  "updated_at": "2022-04-17T04:14:14+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 51,
+      "name": "Diomedéa"
+    }
+  ]
+}

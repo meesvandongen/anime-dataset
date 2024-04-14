@@ -1,0 +1,40 @@
+{
+  "id": 36183,
+  "title": "It Seems like a Frog",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/87401.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/87401l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "It seems like a frog",
+    "ja": "It seems like a frog"
+  },
+  "start_date": "2016-08-31",
+  "end_date": "2016-08-31",
+  "synopsis": "Official music video for Nisshoku Natsuko's song It Seems like a Frog which was also released on her 4th mini-album \"Gekirin Mania\".",
+  "mean": 5.2,
+  "popularity": 18557,
+  "num_list_users": 297,
+  "num_scoring_users": 150,
+  "nsfw": "white",
+  "created_at": "2017-08-22T03:54:43+00:00",
+  "updated_at": "2018-03-28T22:25:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 106,
+  "rating": "g",
+  "studios": []
+}

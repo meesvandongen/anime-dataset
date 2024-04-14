@@ -1,0 +1,60 @@
+{
+  "id": 743,
+  "title": "Umi ga Kikoeru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1498/131411.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1498/131411l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I Can Hear the Sea"
+    ],
+    "en": "The Ocean Waves",
+    "ja": "海がきこえる"
+  },
+  "start_date": "1993-05-05",
+  "end_date": "1993-05-05",
+  "synopsis": "In the city of Kouchi, high school student Taku Morisaki is going about his work when his friend Yutaka Matsuno calls and asks him to get to their school as soon as possible. Taku arrives, and Matsuno introduces him to Rikako Muto, a beautiful girl from Tokyo who recently transferred to their school. Although Rikako is academically and athletically gifted, her generally unpleasant attitude leaves her with virtually no friends outside of Matsuno and another girl from her class.\n\nAfter a chance encounter during their class trip, Taku suddenly finds himself more involved in Rikako's personal life, much to Matsuno's dismay. Struggling to balance his friendship with Matsuno and his own budding infatuation for Rikako, Taku must come to terms with his feelings and understand how a girl with a troubled past is having such a massive effect on his life.\n\n[Written by MAL Rewrite]",
+  "mean": 6.53,
+  "rank": 6681,
+  "popularity": 1659,
+  "num_list_users": 135107,
+  "num_scoring_users": 75617,
+  "nsfw": "white",
+  "created_at": "2006-02-17T23:41:01+00:00",
+  "updated_at": "2024-03-03T02:32:22+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 4320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

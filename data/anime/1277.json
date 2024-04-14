@@ -1,0 +1,61 @@
+{
+  "id": 1277,
+  "title": "Ys: Tenkuu no Shinden - Adol Christine no Bouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1984/110828.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1984/110828l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ys II",
+      "Ancient Books of Ys II"
+    ],
+    "en": "Ys II: Castle in the Heavens",
+    "ja": "Ys (イース) 天空の神殿 アドル=クリスティンの冒険"
+  },
+  "start_date": "1992-12-16",
+  "end_date": "1993-07-21",
+  "synopsis": "Now that Adol Christen has saved the land of Esteria from the evil priest Dark Fact, Adol and the two priestesses travel to the floating land of Ys, where evil has an even greater influence on the people and no one has hope. The future of Ys falls to Adol, heir to the powers of the priests and the only one who can show the people of Ys the truth about their world. But, as Adol's power grows, he may be the one who will save Ys—or destroy it.",
+  "mean": 6.59,
+  "rank": 6339,
+  "popularity": 8184,
+  "num_list_users": 5435,
+  "num_scoring_users": 2015,
+  "nsfw": "white",
+  "created_at": "2006-08-06T23:02:19+00:00",
+  "updated_at": "2022-04-07T21:56:06+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 122,
+      "name": "Tokyo Kids"
+    }
+  ]
+}

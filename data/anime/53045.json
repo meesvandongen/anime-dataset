@@ -1,0 +1,48 @@
+{
+  "id": 53045,
+  "title": "Yu Sheng",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1018/128017.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1018/128017l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Selfish",
+    "ja": "鱼生"
+  },
+  "start_date": "2019-04-29",
+  "end_date": "2019-04-29",
+  "synopsis": "In an izakaya, a chef notices a group of special guests. He decides to serve them a variety of signature dishes...\n\nSelfish talks a story about human beings are consuming delicious seafood, but sea animals are suffering from the trash we make — not only do we eat them but also make their living environment poisonous and miserable.\n\n(Source: YouTube)",
+  "rank": 15080,
+  "popularity": 20514,
+  "num_list_users": 188,
+  "num_scoring_users": 79,
+  "nsfw": "white",
+  "created_at": "2022-09-16T09:11:56+00:00",
+  "updated_at": "2022-09-17T07:50:44+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 147,
+  "rating": "pg_13",
+  "studios": []
+}

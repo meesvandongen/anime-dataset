@@ -1,0 +1,58 @@
+{
+  "id": 13411,
+  "title": "Guilty Crown: Lost Christmas - An Episode of Port Town",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/80010.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/80010l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Guilty Crown: Lost Christmas",
+    "ja": "ギルティクラウン ロストクリスマス an episode of port town"
+  },
+  "start_date": "2012-07-26",
+  "end_date": "2012-07-26",
+  "synopsis": "In 2029, Scrooge escapes from a research facility where he had been confined as an experimental subject. His body was remodeled by genetic manipulations and he uses his psychic power to kill the chasers. One day, he meets another experimental subject called Carol. When three psychic chasers hunt down the two, Carol asks Scrooge to use his right arm to extract a weapon from her body. ",
+  "mean": 6.88,
+  "rank": 4841,
+  "popularity": 2088,
+  "num_list_users": 98637,
+  "num_scoring_users": 51836,
+  "nsfw": "white",
+  "created_at": "2012-03-23T02:39:14+00:00",
+  "updated_at": "2022-04-16T13:04:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 893,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

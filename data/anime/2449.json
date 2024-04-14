@@ -1,0 +1,78 @@
+{
+  "id": 2449,
+  "title": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1127/141116.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1127/141116l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+    "ja": "攻殻機動隊 Stand Alone Complex - The Laughing Man"
+  },
+  "start_date": "2005-09-23",
+  "end_date": "2005-09-23",
+  "synopsis": "In 2024, the terrorist incident known as \"The Laughing Man Incident\" occurred in which Ernest Serano, president of the groundbreaking micromachine company, Serano Genomics, was kidnapped and ransomed. One day, the case having remained unsolved for six years, Detective Yamaguchi, who has been investigating \"The Laughing Man Incident,\" sends word that he wants to meet with Togusa from Public Safety Section 9. However, soon after sending this message, Yamaguchi, crucial to the success of the case, dies in an accident. Many days pass and in the midst of a police interview relay concerning suspicions behind interceptors, a forewarning is received from \"The Laughing Man\" of his next crime. The incorporeal hacker begins to move once again.\n\n(Source: ANN) ",
+  "mean": 8.07,
+  "rank": 536,
+  "popularity": 3487,
+  "num_list_users": 40771,
+  "num_scoring_users": 15927,
+  "nsfw": "white",
+  "created_at": "2007-05-06T15:00:32+00:00",
+  "updated_at": "2024-01-26T02:45:30+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 9600,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

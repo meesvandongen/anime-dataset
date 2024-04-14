@@ -1,0 +1,40 @@
+{
+  "id": 29247,
+  "title": "Kiki to Lala no Habatake! Pegasus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/70349.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/70349l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "キキとララのはばたけ!ペガサス"
+  },
+  "start_date": "1994-03-21",
+  "end_date": "1994-03-21",
+  "synopsis": "Kiki and Lala try to help a lost Pegasus get home. Pegasus keeps getting on Kiki's nerves with his foolishness and the journey becomes increasingly difficult.",
+  "mean": 5.55,
+  "rank": 11438,
+  "popularity": 15895,
+  "num_list_users": 513,
+  "num_scoring_users": 183,
+  "nsfw": "white",
+  "created_at": "2015-01-04T12:33:11+00:00",
+  "updated_at": "2022-01-30T23:06:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "winter"
+  },
+  "average_episode_duration": 1819,
+  "rating": "pg",
+  "studios": []
+}

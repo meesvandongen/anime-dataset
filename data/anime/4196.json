@@ -1,0 +1,70 @@
+{
+  "id": 4196,
+  "title": "Ikkitousen: Great Guardians",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/22922.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/22922l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "一騎当千: Great Guardians"
+  },
+  "start_date": "2008-06-11",
+  "end_date": "2008-08-27",
+  "synopsis": "Hakufu's dreams of participating in new fights and tournaments are put on hold as new obstacles block her path. Her friends have lost faith in her, new enemies appear, and a younger sister she never knew existed suddenly shows up on her doorstep. If Hakufu ever hopes to compete worldwide, she's going to have to deal with her issues at home first. \n\n(Source: FUNimation) ",
+  "mean": 6.71,
+  "rank": 5693,
+  "popularity": 2611,
+  "num_list_users": 68332,
+  "num_scoring_users": 29148,
+  "nsfw": "gray",
+  "created_at": "2008-03-30T04:52:55+00:00",
+  "updated_at": "2023-08-01T11:49:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "09:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

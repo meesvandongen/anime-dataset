@@ -1,0 +1,54 @@
+{
+  "id": 10948,
+  "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/30204.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/30204l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikomatic Days",
+    "ja": "攻殻機動隊 S.A.C. 2nd GIG Individual Eleven タチコマな日々"
+  },
+  "start_date": "2006-01-27",
+  "end_date": "2006-01-27",
+  "synopsis": "Tachikomatic Days short that was released on the Individual Eleven DVD.",
+  "mean": 6.74,
+  "rank": 5538,
+  "popularity": 7514,
+  "num_list_users": 6666,
+  "num_scoring_users": 1971,
+  "nsfw": "white",
+  "created_at": "2011-07-12T17:10:54+00:00",
+  "updated_at": "2022-03-21T19:27:28+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 231,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

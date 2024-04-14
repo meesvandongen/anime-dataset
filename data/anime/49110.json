@@ -1,0 +1,57 @@
+{
+  "id": 49110,
+  "title": "Yami Shibai 9",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1880/115566.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1880/115566l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yamishibai: Japanese Ghost Stories Ninth Season",
+      "Yamishibai: Japanese Ghost Stories 9"
+    ],
+    "en": "Theatre of Darkness: Yamishibai 9",
+    "ja": "闇芝居 九期"
+  },
+  "start_date": "2021-07-12",
+  "end_date": "2021-10-04",
+  "synopsis": "Ninth season of Yami Shibai.",
+  "mean": 5.9,
+  "rank": 10002,
+  "popularity": 5840,
+  "num_list_users": 12378,
+  "num_scoring_users": 4828,
+  "nsfw": "white",
+  "created_at": "2021-06-04T13:47:29+00:00",
+  "updated_at": "2022-04-14T01:07:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 260,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1169,
+      "name": "ILCA"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 35535,
+  "title": "Kaiten Mokuba ni Boku to Neko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/85644.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/85644l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no uta"
+    ],
+    "en": "",
+    "ja": "回転木馬に僕と猫"
+  },
+  "start_date": "2010-12-01",
+  "end_date": "2010-12-01",
+  "synopsis": "\"Encounters\" and \"farewells\" that everyone experiences; when thinking of \"farewell\", what does the empty heart feel?",
+  "popularity": 19720,
+  "num_list_users": 232,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2017-05-05T08:04:37+00:00",
+  "updated_at": "2021-12-19T07:33:19+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 284,
+  "rating": "g",
+  "studios": []
+}

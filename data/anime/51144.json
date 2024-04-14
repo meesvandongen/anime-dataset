@@ -1,0 +1,52 @@
+{
+  "id": 51144,
+  "title": "Seikimatsu Densetsu: Wonderful Tatsunoko Land",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1895/121140.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1895/121140l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Wonderful Tatsunoko Land",
+    "ja": "世紀末伝説 ワンダフルタツノコランド"
+  },
+  "start_date": "1999-12",
+  "end_date": "1999-12",
+  "synopsis": "The excessive adventure begins when a mysterious flying life-form, UBO came to \"Tatsunoko Anime World Island\" where all the Tatsunoko animation characters live. TV special animation program featuring all-star Tatsunoko characters.\n\n(Source: Official Website)",
+  "rank": 17760,
+  "popularity": 17069,
+  "num_list_users": 405,
+  "num_scoring_users": 78,
+  "nsfw": "white",
+  "created_at": "2022-02-27T22:49:15+00:00",
+  "updated_at": "2022-04-04T13:01:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

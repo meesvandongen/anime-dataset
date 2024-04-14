@@ -1,0 +1,56 @@
+{
+  "id": 18341,
+  "title": "Pro Yakyuu wo 10-bai Tanoshiku Miru Houhou Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/49121.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/49121l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pro Yakyu o Jubai Tanoshiku Muru Hoho Part 2",
+      "The Racing Baseball 2"
+    ],
+    "en": "",
+    "ja": "プロ野球を10倍楽しく見る方法PART2"
+  },
+  "start_date": "1984-04-21",
+  "end_date": "1984-04-21",
+  "synopsis": "Sequel of The Racing Baseball.",
+  "rank": 17307,
+  "popularity": 18061,
+  "num_list_users": 329,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2013-04-12T18:32:23+00:00",
+  "updated_at": "2013-04-13T07:32:01+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "spring"
+  },
+  "source": "book",
+  "average_episode_duration": 6360,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

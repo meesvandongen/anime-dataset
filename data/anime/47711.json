@@ -1,0 +1,44 @@
+{
+  "id": 47711,
+  "title": "Yueya Er",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1195/130585.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1195/130585l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "月牙儿"
+  },
+  "start_date": "2019-03-18",
+  "end_date": "2019-03-28",
+  "synopsis": "",
+  "rank": 15102,
+  "popularity": 23958,
+  "num_list_users": 79,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2021-02-13T17:02:30+00:00",
+  "updated_at": "2022-11-06T13:10:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1340,
+  "rating": "pg",
+  "studios": []
+}

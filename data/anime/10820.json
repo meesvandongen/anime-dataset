@@ -1,0 +1,56 @@
+{
+  "id": 10820,
+  "title": "Sengoku Majin Goushougun (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/82706.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/82706l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Demon God of the War Torn Land Goshogun",
+      "Goshogun",
+      "Macron 1"
+    ],
+    "en": "",
+    "ja": "戦国魔神ゴーショーグン"
+  },
+  "start_date": "1982-04-24",
+  "end_date": "1982-04-24",
+  "synopsis": "Compilation movie composed of scenes from episodes 17 and 20 of the Sengoku Majin Goushougun TV series mixed with some movie-original scenes and faux commercial breaks featuring the characters selling fictional products.",
+  "mean": 6.05,
+  "rank": 9372,
+  "popularity": 13646,
+  "num_list_users": 932,
+  "num_scoring_users": 239,
+  "nsfw": "white",
+  "created_at": "2011-06-12T23:27:47+00:00",
+  "updated_at": "2020-08-03T20:33:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1982,
+    "season": "spring"
+  },
+  "average_episode_duration": 3900,
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

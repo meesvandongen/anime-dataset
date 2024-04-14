@@ -1,0 +1,45 @@
+{
+  "id": 21101,
+  "title": "Katta-kun Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/55713.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/55713l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cutta-kun Monogatari"
+    ],
+    "en": "",
+    "ja": "カッタ君物語"
+  },
+  "start_date": "1995-07-12",
+  "end_date": "1995-07-12",
+  "synopsis": "An anime starring Katta-kun, a real-life pelican who inhabited the Tokiwa Park in Ube.\n\nIn this movie, Katta-kun befriends Sho, a little boy whose parents went off to the Middle East because of their work. When war breaks out, Sho and Katta-kun travel to the Middle East to save Sho's parents and end the war.\n\n(Source: AniDB)",
+  "rank": 15537,
+  "popularity": 18288,
+  "num_list_users": 315,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2013-11-02T10:31:44+00:00",
+  "updated_at": "2013-11-02T16:14:40+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "summer"
+  },
+  "average_episode_duration": 4500,
+  "rating": "pg",
+  "studios": []
+}

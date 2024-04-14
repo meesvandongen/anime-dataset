@@ -1,0 +1,60 @@
+{
+  "id": 1731,
+  "title": "Tales of Symphonia The Animation: Sylvarant-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/77063.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/77063l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tales of Symphonia The Animation: Sylvarant Chapter"
+    ],
+    "en": "",
+    "ja": "テイルズオブシンフォニア THE ANIMATION シルヴァラント編"
+  },
+  "start_date": "2007-06-08",
+  "end_date": "2007-12-21",
+  "synopsis": "Two worlds exist, both unaware of the existance of the other. In order for one world to flourish, the other will have to perish. On the perishing world, a Chosen one is sent on a journey to restore that world's mana by awakening the Spirits and becoming an angel. Colette Brunel, the Chosen of Sylvarant, sets out on her journey accompanied by her best friends Lloyd Irving and Genis Sage. As they travel further they meet more friends and even more enemies, while they learn more and more about the truth behind the World Regeneration. \n\n(Source: ANN) ",
+  "mean": 7.14,
+  "rank": 3620,
+  "popularity": 3024,
+  "num_list_users": 52794,
+  "num_scoring_users": 23064,
+  "nsfw": "white",
+  "created_at": "2006-12-06T02:44:10+00:00",
+  "updated_at": "2022-04-13T02:55:51+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1966,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

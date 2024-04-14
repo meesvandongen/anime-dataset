@@ -1,0 +1,66 @@
+{
+  "id": 3958,
+  "title": "Kannagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/19724.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/19724l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kannagi: Crazy Shrine Maidens",
+    "ja": "かんなぎ"
+  },
+  "start_date": "2008-10-04",
+  "end_date": "2008-12-27",
+  "synopsis": "When he was a child and out catching bugs, Jin Mikuriya fatefully encountered a deity, which became the inspiration for his newest piece of art: The Tree Spirit. Trying to think of a way to bring the wooden statue to school, Jin believes that the rest of the day will be spent admiring his work. But before he can even lift it, the sculpture begins to absorb the earth around it and explodes into a cute girl!\n\nThe girl, Nagi, who introduces herself as a guardian of the earth, proclaims that Jin must help her get rid of the \"impurities\" that plague the land. But alas, due to Nagi's tree being cut down and her powers completely drained, she finds herself cleansing the impurities with only a magical wand! With their lives now intertwined, Jin and Nagi find ways to learn more about one another through the endless amounts of daily antics.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.27,
+  "rank": 2862,
+  "popularity": 1380,
+  "num_list_users": 169563,
+  "num_scoring_users": 69007,
+  "nsfw": "white",
+  "created_at": "2008-02-19T03:31:00+00:00",
+  "updated_at": "2022-08-22T10:56:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

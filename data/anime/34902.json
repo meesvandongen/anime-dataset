@@ -1,0 +1,62 @@
+{
+  "id": 34902,
+  "title": "Tsurezure Children",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/86676.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/86676l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tsuredure Children",
+    "ja": "徒然チルドレン"
+  },
+  "start_date": "2017-07-04",
+  "end_date": "2017-09-19",
+  "synopsis": "Young love—it takes many unique and fascinating forms that flourish as children begin to mature into adults. From being unable to confess to not knowing what real love actually feels like, various obstacles can arise when learning about romantic attraction for the first time. But underneath all that, young love is something truly beautiful to behold, leading to brand new experiences for those young and in love.\n\nTsurezure Children depicts various scenarios of young love coming to fruition, along with the struggles and joys that it entails.\n\n[Written by MAL Rewrite]",
+  "mean": 7.55,
+  "rank": 1669,
+  "popularity": 271,
+  "num_list_users": 727280,
+  "num_scoring_users": 393023,
+  "nsfw": "white",
+  "created_at": "2017-02-10T08:41:06+00:00",
+  "updated_at": "2022-04-18T02:17:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:15"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 750,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

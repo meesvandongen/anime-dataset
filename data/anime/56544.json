@@ -1,0 +1,74 @@
+{
+  "id": 56544,
+  "title": "Gintama on Theater 2D: Baragaki-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1071/138255.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1071/138255l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "銀魂オンシアター2D バラガキ篇"
+  },
+  "start_date": "2023-11-10",
+  "end_date": "2023-11-10",
+  "synopsis": "A compilation film of the Thorny Arc, episodes 43–46 in the second season, featuring additional footage. The movie is a part of the \"Gintama 20th Anniversary Project.\"",
+  "mean": 6.81,
+  "rank": 5137,
+  "popularity": 10991,
+  "num_list_users": 2165,
+  "num_scoring_users": 138,
+  "nsfw": "white",
+  "created_at": "2023-09-04T17:46:53+00:00",
+  "updated_at": "2024-03-04T09:30:27+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5280,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

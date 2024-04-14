@@ -1,0 +1,55 @@
+{
+  "id": 38265,
+  "title": "Muma no Machi Cornelica",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1885/100953.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1885/100953l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cornelica, Town of Succubi"
+    ],
+    "en": "",
+    "ja": "夢魔の街コルネリカ"
+  },
+  "start_date": "2018-11-30",
+  "end_date": "2019-04-26",
+  "synopsis": "",
+  "mean": 6.63,
+  "popularity": 6845,
+  "num_list_users": 8407,
+  "num_scoring_users": 3386,
+  "nsfw": "gray",
+  "created_at": "2018-09-04T11:12:03+00:00",
+  "updated_at": "2023-01-24T16:28:18+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1000,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 767,
+      "name": "Majin"
+    }
+  ]
+}

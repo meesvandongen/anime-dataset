@@ -1,0 +1,63 @@
+{
+  "id": 53206,
+  "title": "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 3rd Season Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1743/128671.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1743/128671l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "JX3: Chivalrous Hero Shen Jianxin 3rd Season Part 2"
+    ],
+    "en": "",
+    "ja": "剑网3·侠肝义胆沈剑心 第三季"
+  },
+  "start_date": "2024-01-26",
+  "end_date": "2024-04-05",
+  "synopsis": "",
+  "rank": 20450,
+  "popularity": 17238,
+  "num_list_users": 393,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2022-09-30T01:15:55+00:00",
+  "updated_at": "2024-04-07T10:51:39+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2058,
+      "name": "Shengying Animation"
+    }
+  ]
+}

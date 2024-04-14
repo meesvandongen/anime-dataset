@@ -1,0 +1,52 @@
+{
+  "id": 56702,
+  "title": "Gamera VS Kozamera",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1769/138604.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1769/138604l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Odekake Kozame x GAMERA -Rebirth-"
+    ],
+    "en": "",
+    "ja": "ガメラVS子ザメラ"
+  },
+  "start_date": "2023-09-20",
+  "end_date": "2023-09-20",
+  "synopsis": "Special episode of Odekake Kozame promoting Gamera: Rebirth.\n\n",
+  "mean": 6.34,
+  "rank": 7812,
+  "popularity": 14737,
+  "num_list_users": 675,
+  "num_scoring_users": 326,
+  "nsfw": "white",
+  "created_at": "2023-09-20T15:14:49+00:00",
+  "updated_at": "2024-01-25T06:00:45+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1974,
+      "name": "ENGI"
+    }
+  ]
+}

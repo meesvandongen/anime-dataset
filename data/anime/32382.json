@@ -1,0 +1,48 @@
+{
+  "id": 32382,
+  "title": "Wake Up, Girls! no Miyagi PR Yarasete Kudasai!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/79532.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/79532l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wake Up, Girls! Please Let Us Promote Miyagi!"
+    ],
+    "en": "",
+    "ja": "Wake Up, Girls！の宮城PRやらせてください！"
+  },
+  "start_date": "2016-02-11",
+  "end_date": "2016-02-11",
+  "synopsis": "A promotional video created to help bring attention to Miyagi in an effort to help restore the economy after the earthquake and tsunami of 2011, Featuring an assortment of sites to visit and types of food to enjoy. ",
+  "mean": 6.08,
+  "rank": 9165,
+  "popularity": 10539,
+  "num_list_users": 2482,
+  "num_scoring_users": 734,
+  "nsfw": "white",
+  "created_at": "2015-12-22T01:51:00+00:00",
+  "updated_at": "2022-02-22T16:00:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 334,
+      "name": "Ordet"
+    }
+  ]
+}

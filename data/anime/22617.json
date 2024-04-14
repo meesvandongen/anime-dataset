@@ -1,0 +1,47 @@
+{
+  "id": 22617,
+  "title": "Pochacco no Wakuwaku Birthday",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/58957.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/58957l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty and Friends: Exciting Birthday",
+      "Keroppi and Friends: Exciting Birthday"
+    ],
+    "en": "Pochacco in Exciting Birthday",
+    "ja": "ポチャッコのわくわくバースデイ"
+  },
+  "start_date": "1993-10-21",
+  "end_date": "1993-10-21",
+  "synopsis": "It's the day before Pochacco's birthday and he's skateboarding around looking for his friends. He hopes to have a grand party with them the next day, but they all seem busy! ",
+  "mean": 5.93,
+  "rank": 9907,
+  "popularity": 16920,
+  "num_list_users": 416,
+  "num_scoring_users": 106,
+  "nsfw": "white",
+  "created_at": "2014-02-10T23:24:33+00:00",
+  "updated_at": "2017-10-31T23:33:00+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "average_episode_duration": 1200,
+  "rating": "g",
+  "studios": []
+}

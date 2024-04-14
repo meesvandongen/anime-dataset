@@ -1,0 +1,49 @@
+{
+  "id": 36580,
+  "title": "Boku wa Shitteru yo.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/88411.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/88411l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぼくは知ってるよ。"
+  },
+  "start_date": "2017-06-21",
+  "end_date": "2017-06-21",
+  "synopsis": "A web anime created for the Dotwan dog food company. The episode illustrates the daily life of a family and their dog.",
+  "mean": 5.41,
+  "popularity": 17232,
+  "num_list_users": 393,
+  "num_scoring_users": 171,
+  "nsfw": "white",
+  "created_at": "2017-10-14T20:21:36+00:00",
+  "updated_at": "2024-02-10T16:20:55+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 185,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1746,
+      "name": "Pops Inc."
+    }
+  ]
+}

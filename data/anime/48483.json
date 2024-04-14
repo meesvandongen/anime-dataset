@@ -1,0 +1,62 @@
+{
+  "id": 48483,
+  "title": "Mieruko-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1277/117155.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1277/117155l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "見える子ちゃん"
+  },
+  "start_date": "2021-10-03",
+  "end_date": "2021-12-19",
+  "synopsis": "Miko Yotsuya's eyes water as she fixates on a single spot on her phone—she ignores yet another dreadful, horrific monster that is in her face, uttering the disturbing words: \"Can you see me?\" Before now, Miko enjoyed her unassuming high school days, with late-night horror shows serving only as a form of entertainment. But ever since one fateful day, she is the only person aware of the invisible monsters walking freely among humans.\n\nCourageously, Miko makes a bold decision: she will never, under any condition, acknowledge the presence of the horrid specters. However, even though she pretends they do not exist, she can still see how they disturb the people around her, especially her best friend, the energetic and lovely Hana Yurikawa. In order to protect them from the monsters' annoyances, Miko gives it her best to continue her school life and avoid every troublesome crisis—even when they scare her to tears. \n\n[Written by MAL Rewrite]",
+  "mean": 7.4,
+  "rank": 2281,
+  "popularity": 455,
+  "num_list_users": 491539,
+  "num_scoring_users": 224151,
+  "nsfw": "white",
+  "created_at": "2021-03-18T01:21:53+00:00",
+  "updated_at": "2023-04-10T10:54:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}

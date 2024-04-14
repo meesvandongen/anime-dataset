@@ -1,0 +1,55 @@
+{
+  "id": 39738,
+  "title": "Mushishi Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1127/100635.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1127/100635l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mushishi Digest, Mushishi 20.5"
+    ],
+    "en": "",
+    "ja": "蟲師 ダイジェスト"
+  },
+  "start_date": "2006-05-08",
+  "end_date": "2006-05-08",
+  "synopsis": "Recap of the first 20 episodes of Mushishi.",
+  "mean": 6.7,
+  "rank": 5723,
+  "popularity": 9562,
+  "num_list_users": 3422,
+  "num_scoring_users": 1166,
+  "nsfw": "white",
+  "created_at": "2019-04-17T21:29:32+00:00",
+  "updated_at": "2024-02-06T16:42:45+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": []
+}

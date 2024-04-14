@@ -1,0 +1,62 @@
+{
+  "id": 5056,
+  "title": "Penguin Musume♥Heart Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/30423.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/30423l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Penguin Musume♥Heart Episode 11.5",
+      "Penguin Girl Special",
+      "Temple Fair Begins!"
+    ],
+    "en": "",
+    "ja": "ペンギン娘♥はぁと"
+  },
+  "start_date": "2008-08-01",
+  "end_date": "2008-08-01",
+  "synopsis": "ONA Special episode #11.5. ",
+  "mean": 6.28,
+  "rank": 8142,
+  "popularity": 9358,
+  "num_list_users": 3664,
+  "num_scoring_users": 1518,
+  "nsfw": "white",
+  "created_at": "2008-08-10T12:05:37+00:00",
+  "updated_at": "2023-11-03T21:36:22+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 602,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 78,
+      "name": "Picture Magic"
+    }
+  ]
+}

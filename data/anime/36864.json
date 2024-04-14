@@ -1,0 +1,64 @@
+{
+  "id": 36864,
+  "title": "Akkun to Kanojo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1404/90601.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1404/90601l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Akkun and His Girlfriend"
+    ],
+    "en": "My Sweet Tyrant",
+    "ja": "あっくんとカノジョ"
+  },
+  "start_date": "2018-04-06",
+  "end_date": "2018-09-21",
+  "synopsis": "Despite his incredible bashfulness, Atsuhiro \"Akkun\" Kagari has landed the girl of his dreams: the sweet and loveable Non Katagiri. However, his embarrassment for affectionate acts—from giving compliments to exchanging a kiss—causes him to act harsh and downright mean to Katagiri in their day-to-day lives. But Akkun is still very much a boy in love; he shows his admiration for Katagiri in his own way. From tailing her in order to take her picture to eavesdropping in on her conversations, he ends up stalking his own girlfriend. \n\nLuckily enough, Katagiri finds Akkun's actions cute and endearing, and knows he doesn't really mean any of his insults. Even if their close friend, Masago Matsuo, finds their dynamic a little odd, Katagiri loves her sweet tyrant just the way he is.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.82,
+  "rank": 5105,
+  "popularity": 1325,
+  "num_list_users": 179833,
+  "num_scoring_users": 78159,
+  "nsfw": "white",
+  "created_at": "2017-11-26T15:52:07+00:00",
+  "updated_at": "2022-08-01T09:46:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
+}

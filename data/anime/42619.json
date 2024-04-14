@@ -1,0 +1,46 @@
+{
+  "id": 42619,
+  "title": "Jyou Jyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1049/108769.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1049/108769l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "synapusyu"
+    ],
+    "en": "",
+    "ja": "jyou jyou"
+  },
+  "start_date": "2020-04",
+  "end_date": "2020-04",
+  "synopsis": "Music video animated by Takaharu Shimizu for the song jyou jyou by NINO and Evan Call that was featured in the music block of TV Tokyo's infant program synapusyu.",
+  "mean": 5.46,
+  "popularity": 19855,
+  "num_list_users": 225,
+  "num_scoring_users": 113,
+  "nsfw": "white",
+  "created_at": "2020-08-06T02:52:08+00:00",
+  "updated_at": "2020-08-06T02:52:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 116,
+  "rating": "g",
+  "studios": []
+}

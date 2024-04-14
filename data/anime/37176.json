@@ -1,0 +1,72 @@
+{
+  "id": 37176,
+  "title": "Doupo Cangqiong 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1283/90230.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1283/90230l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Battle Through the Heavens 2nd Season"
+    ],
+    "en": "Fights Break Sphere 2nd Season",
+    "ja": "斗破苍穹 第二季"
+  },
+  "start_date": "2018-03-03",
+  "end_date": "2018-05-13",
+  "synopsis": "Xiao Yan, the best Xiao family fighter ever. At the age of 4, he began his training, at 10 he already owned the ninth level of strength, and at 11 - the tenth, so he became the youngest fighter in the history of his family. But at the age of 12, something unpredictable happened: he lost almost all of his strength. For the next three years, neighbors mocked him and even broke off his engagement. It would seem that nothing will help him, but then a spirit appeared from his ring, which showed him the way to power. Xiao Yan again became a favorite of the family and the crowd, but this could not satisfy his ambition. To avenge the failed wedding, he goes to the mountains and, with the help of an old herbalist, becomes stronger and stronger.",
+  "mean": 7.57,
+  "rank": 1607,
+  "popularity": 6463,
+  "num_list_users": 9662,
+  "num_scoring_users": 5080,
+  "nsfw": "white",
+  "created_at": "2018-01-24T02:24:06+00:00",
+  "updated_at": "2022-04-13T06:23:41+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 1181,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1827,
+      "name": "Motion Magic"
+    }
+  ]
+}

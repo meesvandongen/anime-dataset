@@ -1,0 +1,56 @@
+{
+  "id": 1631,
+  "title": "Koukyoushihen Eureka Seven: Kinkyuu Tokuban Navigation ray=out",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/14506.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/14506l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eureka Seven Recap"
+    ],
+    "en": "",
+    "ja": "交響詩篇エウレカセブン 緊急特番 ナビゲーション ray=out"
+  },
+  "start_date": "2005-10-22",
+  "end_date": "2005-10-22",
+  "synopsis": "Summary of Eureka Seven until Episode 26.",
+  "mean": 6.94,
+  "rank": 4523,
+  "popularity": 5833,
+  "num_list_users": 12407,
+  "num_scoring_users": 4851,
+  "nsfw": "white",
+  "created_at": "2006-11-06T14:14:26+00:00",
+  "updated_at": "2024-02-07T15:01:45+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

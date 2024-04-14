@@ -1,0 +1,73 @@
+{
+  "id": 1641,
+  "title": "Iron Virgin Jun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1613/99931.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1613/99931l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tetsu no Shojo Jun",
+      "Tetsu no Otome Jun"
+    ],
+    "en": "Iron Virgin Jun",
+    "ja": "鉄の処女JUN"
+  },
+  "start_date": "1992-07-21",
+  "end_date": "1992-07-21",
+  "synopsis": "In the Asuka family, nothing is more important than family tradition. For their lovely young daughter Jun, it means she must get married on her 18th birthday. Although poor little virgin Jun is not above kickin' butt, she just can't stand the thought of marrying someone she doesn't love. Her mother sends out a gang of bloodthirsty goons to drag her to the altar, but Jun would rather beat a hundred suitors into one big bloody mess than get married on her mother's terms, and she's about to prove it. \n\n(Source: AniDB)",
+  "mean": 4.57,
+  "rank": 13076,
+  "popularity": 9866,
+  "num_list_users": 3098,
+  "num_scoring_users": 1299,
+  "nsfw": "white",
+  "created_at": "2006-11-08T18:32:29+00:00",
+  "updated_at": "2024-01-21T13:50:09+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2767,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 921,
+      "name": "Dynamic Planning"
+    }
+  ]
+}

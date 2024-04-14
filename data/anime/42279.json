@@ -1,0 +1,41 @@
+{
+  "id": 42279,
+  "title": "Wind",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1238/108146.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1238/108146l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "WIND"
+  },
+  "start_date": "2000-04",
+  "end_date": "2000-04",
+  "synopsis": "Beginning with a photograph of a pinhole camera by photographer Yoshiyasu Suzuka, a detailed abstract animation develops in a jet-black space.",
+  "mean": 5.61,
+  "rank": 11258,
+  "popularity": 18649,
+  "num_list_users": 291,
+  "num_scoring_users": 113,
+  "nsfw": "white",
+  "created_at": "2020-06-20T17:15:11+00:00",
+  "updated_at": "2020-07-21T18:05:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 321,
+  "rating": "g",
+  "studios": []
+}

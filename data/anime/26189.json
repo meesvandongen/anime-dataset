@@ -1,0 +1,61 @@
+{
+  "id": 26189,
+  "title": "Ai Tenshi Densetsu Wedding Peach Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/66119.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/66119l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wedding Peach Specials",
+      "Wedding Peach Omake",
+      "Wedding Peach Episode 10,526"
+    ],
+    "en": "",
+    "ja": "愛天使伝説 ウェディングピーチ"
+  },
+  "start_date": "1995-11",
+  "end_date": "1995-11",
+  "synopsis": "Specials of Wedding Peach included as a bonus on LD/DVD Box set volumes.\n\nOmake 1: Gomenne Yousuke no Maki. (Episode 10,526)\n\nA preview of \"Episode 10,527\" appears at the end, however, this is just a teaser—it doesn't actually exist.\n\nOmake 2: Ai Tenshi Sentai Saigo no Tatakai. (Final Episode)\n\nThe \"Wedding Baseball Tournament\" preview of which is shown at the end of the final episode was also never released.",
+  "mean": 6.24,
+  "rank": 8342,
+  "popularity": 11648,
+  "num_list_users": 1732,
+  "num_scoring_users": 508,
+  "nsfw": "white",
+  "created_at": "2014-08-27T01:00:38+00:00",
+  "updated_at": "2022-01-06T14:43:15+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 50,
+      "name": "KSS"
+    }
+  ]
+}

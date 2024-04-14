@@ -1,0 +1,78 @@
+{
+  "id": 457,
+  "title": "Mushishi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mushi-Shi",
+    "ja": "蟲師"
+  },
+  "start_date": "2005-10-23",
+  "end_date": "2006-06-19",
+  "synopsis": "\"Mushi\": the most basic forms of life in the world. They exist without any goals or purposes aside from simply \"being.\" They are beyond the shackles of the words \"good\" and \"evil.\" Mushi can exist in countless forms and are capable of mimicking things from the natural world such as plants, diseases, and even phenomena like rainbows.\n\nThis is, however, just a vague definition of these entities that inhabit the vibrant world of Mushishi, as to even call them a form of life would be an oversimplification. Detailed information on Mushi is scarce because the majority of humans are unaware of their existence.\n\nSo what are Mushi and why do they exist? This is the question that a \"Mushishi,\" Ginko, ponders constantly. Mushishi are those who research Mushi in hopes of understanding their place in the world's hierarchy of life.\n\nGinko chases rumors of occurrences that could be tied to Mushi, all for the sake of finding an answer.\n\nIt could, after all, lead to the meaning of life itself.\n\n[Written by MAL Rewrite]",
+  "mean": 8.66,
+  "rank": 68,
+  "popularity": 215,
+  "num_list_users": 828073,
+  "num_scoring_users": 278061,
+  "nsfw": "white",
+  "created_at": "2005-12-27T08:59:20+00:00",
+  "updated_at": "2023-04-20T11:08:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "03:40"
+  },
+  "source": "manga",
+  "average_episode_duration": 1418,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 8,
+      "name": "Artland"
+    }
+  ]
+}

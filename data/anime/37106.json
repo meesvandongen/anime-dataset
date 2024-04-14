@@ -1,0 +1,52 @@
+{
+  "id": 37106,
+  "title": "Kitsune no Koe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1305/97626.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1305/97626l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kori no Koe"
+    ],
+    "en": "Voice of Fox",
+    "ja": "狐狸之声"
+  },
+  "start_date": "2018-10-05",
+  "end_date": "2018-12-21",
+  "synopsis": "The series follows 16-year-old Hu Li, who dreams of becoming a popular singer. However, he has neither good looks nor the financial means to pursue his dream, so Hu uploads his singing online using a fox avatar.\n\n(Source: MAL News)",
+  "mean": 6.41,
+  "rank": 7424,
+  "popularity": 4598,
+  "num_list_users": 22553,
+  "num_scoring_users": 8444,
+  "nsfw": "white",
+  "created_at": "2018-01-12T11:12:51+00:00",
+  "updated_at": "2022-03-19T22:35:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 780,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
+}

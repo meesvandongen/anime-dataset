@@ -1,0 +1,49 @@
+{
+  "id": 4342,
+  "title": "Harukoi Otome",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/26846.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/26846l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "春恋＊乙女"
+  },
+  "start_date": "2008-04-18",
+  "end_date": "2008-07-18",
+  "synopsis": "Based on the eroge visual novel Harukoi Otome: En de Gokigenyou by BaseSon.",
+  "mean": 6.52,
+  "popularity": 7571,
+  "num_list_users": 6548,
+  "num_scoring_users": 2200,
+  "nsfw": "gray",
+  "created_at": "2008-04-17T14:12:28+00:00",
+  "updated_at": "2023-01-24T10:37:39+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1676,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 407,
+      "name": "Studio 9 Maiami"
+    }
+  ]
+}

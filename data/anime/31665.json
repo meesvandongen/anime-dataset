@@ -1,0 +1,58 @@
+{
+  "id": 31665,
+  "title": "Hibike! Euphonium: Kakedasu Monaka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/77322.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/77322l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sound! Euphonium Episode 14 – Ready, Set, Monaka",
+    "ja": "響け！ユーフォニアム 番外編 かけだすモナカ"
+  },
+  "start_date": "2015-12-16",
+  "end_date": "2015-12-16",
+  "synopsis": "After the Kitauji High School concert band's auditions for club member participation in the Kyoto Prefectural Concert Band competition, 10 members fail to pass the strict evaluation. Despite being unable to play with the rest of the wind ensemble, the group—who decide to name themselves Team Monaka—is determined to support their peers in any way possible until the day of the competition.\n\nFrom carrying supplies to creating monaka-shaped good-luck charms, Team Monaka's efforts prove to be pivotal for the unforgettable, bittersweet summer in the concert band's journey toward nationals.\n\n[Written by MAL Rewrite]",
+  "mean": 7.48,
+  "rank": 1953,
+  "popularity": 2887,
+  "num_list_users": 57447,
+  "num_scoring_users": 33149,
+  "nsfw": "white",
+  "created_at": "2015-09-21T08:40:51+00:00",
+  "updated_at": "2022-02-27T14:03:46+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

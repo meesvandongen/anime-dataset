@@ -1,0 +1,39 @@
+{
+  "id": 57299,
+  "title": "Kinoko Take no Ko Sensou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1160/139937.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1160/139937l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mushroom Bamboo Shoot War",
+    "ja": "きのこたけのこ戦争"
+  },
+  "start_date": "2017-01-24",
+  "end_date": "2017-01-24",
+  "synopsis": "Music video for Uchikubi Gokumon Doukoukai's song Kinoko Take no Ko Sensou.",
+  "popularity": 24562,
+  "num_list_users": 70,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2023-11-25T19:28:35+00:00",
+  "updated_at": "2023-11-26T10:07:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 179,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": 54859,
+  "title": "Rinkai!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1387/141515.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1387/141515l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "リンカイ!"
+  },
+  "start_date": "2024-04-09",
+  "synopsis": "Women's bicycle racing was born during the post-war period of turmoil.\n\nIt has been several decades since its short competitive history came to an end after only 15 years.\nWomen's bicycle racing has been revived as the Rinkai League.\n\nWith the birth of a major star who is active all over the world, many feel unprecedented excitement.\n\nInvincible Queen, Ibushi Silver Veteran, an athlete who has reached the pinnacle in other sports.\nThe challengers came with only big dreams in their hearts even though they had no experience in sports.\n\n(Source: Official site, translated)",
+  "mean": 5.64,
+  "rank": 11135,
+  "popularity": 7656,
+  "num_list_users": 6370,
+  "num_scoring_users": 397,
+  "nsfw": "white",
+  "created_at": "2023-03-25T07:31:12+00:00",
+  "updated_at": "2024-04-09T15:49:02+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:30"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

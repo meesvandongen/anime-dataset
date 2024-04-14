@@ -1,0 +1,45 @@
+{
+  "id": 40171,
+  "title": "Ushinawareta Choushoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1902/102382.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1902/102382l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Lost Breakfast",
+    "ja": "失われた朝食"
+  },
+  "start_date": "2015-01-13",
+  "end_date": "2015-01-13",
+  "synopsis": "A businessman happily goes about his carefully prepared morning routine. One day, this routine is suddenly interrupted.",
+  "mean": 5.87,
+  "rank": 10141,
+  "popularity": 15663,
+  "num_list_users": 538,
+  "num_scoring_users": 266,
+  "nsfw": "white",
+  "created_at": "2019-07-27T14:48:05+00:00",
+  "updated_at": "2021-11-17T17:01:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 410,
+  "rating": "pg_13",
+  "studios": []
+}

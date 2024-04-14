@@ -1,0 +1,65 @@
+{
+  "id": 24031,
+  "title": "Denki-gai no Honya-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/68705.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/68705l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Denki Machi no Honya-san",
+      "Denkigai no Honya-san"
+    ],
+    "en": "Denki-gai",
+    "ja": "デンキ街の本屋さん"
+  },
+  "start_date": "2014-10-02",
+  "end_date": "2014-12-18",
+  "synopsis": "Umio is a shy kid who just started his part time job at a manga store smack dab in the middle of the city. But his lifestyle isn't as glamorous as the neon lights that illuminate the city. Umio's closest friends are his co-workers who are all unique characters, to say the least, and although they're nice people, they have their quirks. They are a tight knit group of friends, have nicknames for each other and spend their weekends inside, sheltered from the extravagant scene happening on the outside.\n\n(Source: MU)",
+  "mean": 7.19,
+  "rank": 3313,
+  "popularity": 1716,
+  "num_list_users": 130162,
+  "num_scoring_users": 52854,
+  "nsfw": "white",
+  "created_at": "2014-04-30T06:24:24+00:00",
+  "updated_at": "2022-12-20T08:36:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1429,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

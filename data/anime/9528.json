@@ -1,0 +1,63 @@
+{
+  "id": 9528,
+  "title": "Transformers Superlink Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/26361.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/26361l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Transformers Super Link Special",
+      "Transformers Energon Special",
+      "A must see! The Greatest Dream Match",
+      "Distribution"
+    ],
+    "en": "Transformers Energon: Distribution",
+    "ja": "トランスフォーマー スーパーリンク"
+  },
+  "start_date": "2004-11-03",
+  "end_date": "2004-11-03",
+  "synopsis": "Episode 43.5, \"Distribution\", is a comedic special show which commemorates 500 episodes of Transformers in Japan (however, since that total includes assorted Japanese series, the west is still some distance away from this number). When aired in Japan, it did not air in the usual timeslot for Superlink, and is not in any sort of chronological order - It features the Autobots playing a video game training simulator, which they certainly do not have time to do between episodes 42 and 44.\n\n(Source: Wikipedia)",
+  "mean": 5.83,
+  "rank": 10326,
+  "popularity": 13135,
+  "num_list_users": 1072,
+  "num_scoring_users": 381,
+  "nsfw": "white",
+  "created_at": "2010-09-12T04:14:41+00:00",
+  "updated_at": "2022-11-06T09:23:08+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 1489,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
+}

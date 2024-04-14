@@ -1,0 +1,54 @@
+{
+  "id": 6463,
+  "title": "Hoshi wo Katta Hi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1587/139423.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1587/139423l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Day I Cropped a Star",
+      "The Day I Harvested a Star",
+      "The Day I Harvested a Planet"
+    ],
+    "en": "The Day I Bought a Star",
+    "ja": "星をかった日"
+  },
+  "start_date": "2006-01-03",
+  "end_date": "2006-01-03",
+  "synopsis": "A young boy, tired of the city, escapes into the country. When trying to bring vegetables to the market to sell, his cart breaks down and he exchanges the vegetables for a mystical seed. Returning home he plants the seed in a normal pot—only to find it growing into a planet.\n\n(Source: ANN)",
+  "mean": 6.97,
+  "rank": 4428,
+  "popularity": 6955,
+  "num_list_users": 8129,
+  "num_scoring_users": 746,
+  "nsfw": "white",
+  "created_at": "2009-05-08T23:09:19+00:00",
+  "updated_at": "2021-05-09T16:44:32+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 960,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

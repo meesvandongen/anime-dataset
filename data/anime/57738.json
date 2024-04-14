@@ -1,0 +1,52 @@
+{
+  "id": 57738,
+  "title": "Disney: Twisted-Wonderland CMs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1253/140745.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1253/140745l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ディズニー ツイステッドワンダーランド TVCM"
+  },
+  "start_date": "2020-07-15",
+  "end_date": "2022-12-19",
+  "synopsis": "Animated commercials for the Disney: Twisted-Wonderland mobile game which aired on TV and were posted on the official YouTube channel. The animation is unique and is not present in the game nor in the TV series.",
+  "popularity": 20370,
+  "num_list_users": 195,
+  "num_scoring_users": 65,
+  "nsfw": "white",
+  "created_at": "2024-01-04T19:06:43+00:00",
+  "updated_at": "2024-02-14T18:56:47+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 30,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

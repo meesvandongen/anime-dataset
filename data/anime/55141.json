@@ -1,0 +1,55 @@
+{
+  "id": 55141,
+  "title": "Popcorn",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1163/139280.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1163/139280l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Popcorn"
+  },
+  "start_date": "1994-08-01",
+  "end_date": "1994-08-01",
+  "synopsis": "Music video for the song Popcorn by Denki Groove.",
+  "popularity": 21728,
+  "num_list_users": 127,
+  "num_scoring_users": 76,
+  "nsfw": "white",
+  "created_at": "2023-04-27T05:25:40+00:00",
+  "updated_at": "2023-04-27T08:46:04+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 388,
+  "rating": "g",
+  "studios": []
+}

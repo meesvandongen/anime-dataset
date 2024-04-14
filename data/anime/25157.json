@@ -1,0 +1,78 @@
+{
+  "id": 25157,
+  "title": "Trinity Seven",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/67795.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/67795l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Trinity Seven",
+    "ja": "トリニティセブン"
+  },
+  "start_date": "2014-10-08",
+  "end_date": "2014-12-24",
+  "synopsis": "One day, the bright red sun stopped shining, causing the \"Breakdown Phenomenon\"—the destruction of Arata Kasuga's town and the disappearance of the people inhabiting it. All, however, is not yet lost; by utilizing the magical grimoire given to him by his childhood friend and cousin Hijiri Kasuga, Arata's world gets artificially reconstructed.\n\nIn order to investigate the phenomenon, Lilith Asami appears before Arata, whose artificial world suddenly disintegrates. He is given two choices: hand over the book, or die. However, Arata chooses the third option—enrolling in the top-secret magic school Royal Biblia Academy, where six other magical users await him. Together with Lilith, these six form the Trinity Seven, the elite of the school who each bolster their own power and skill.\n\nWith the ambition to save Hijiri and the help of his newfound friends, Arata stops at nothing to prevent the destruction of his beloved hometown and to bring his best friend back.\n\n[Written by MAL Rewrite]",
+  "mean": 7.05,
+  "rank": 4075,
+  "popularity": 212,
+  "num_list_users": 839787,
+  "num_scoring_users": 461477,
+  "nsfw": "white",
+  "created_at": "2014-07-07T11:43:57+00:00",
+  "updated_at": "2022-11-11T20:15:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:40"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1569,
+      "name": "Seven Arcs Pictures"
+    }
+  ]
+}

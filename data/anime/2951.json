@@ -1,0 +1,74 @@
+{
+  "id": 2951,
+  "title": "Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1897/139500.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1897/139500l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Gintama: Jump Festa 2005 Special",
+    "ja": "銀魂〜何事も最初が肝心なので多少背伸びするくらいが丁度良い〜"
+  },
+  "start_date": "2005-09-24",
+  "end_date": "2005-09-24",
+  "synopsis": "Due to the arrival of aliens called the \"Amanto,\" the samurai of feudal Japan have fallen into misery and despair. Denied their swords and stature, they are now treated as an object of pity and utter disregard while the Amanto mercilessly terrorizes the country.\n\nTo restore the reputation of the samurai, the Anti-Foreigner Faction leader Kotarou Katsura resolves to eradicate the Amanto—even if he must resort to violent methods. With a giant mecha at his disposal, he plans to initiate an attack against the Shinsengumi, an army of skillful samurai dedicated to protecting the peace of Edo.\n\nMeanwhile, Yorozuya owner Gintoki Sakata and his friends are out to see the cherry blossoms. However, they are interrupted when the Shinsengumi show up, claiming Gintoki has stolen their spot for flower-viewing. Quickly spiraling into a frenzied quarrel, the two groups settle the fight through a game of rock-paper-scissors—albeit with rather brutal methods.\n\n[Written by MAL Rewrite]",
+  "mean": 8.08,
+  "rank": 526,
+  "popularity": 2913,
+  "num_list_users": 56581,
+  "num_scoring_users": 30173,
+  "nsfw": "white",
+  "created_at": "2007-08-09T12:10:59+00:00",
+  "updated_at": "2023-04-17T22:03:13+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1969,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

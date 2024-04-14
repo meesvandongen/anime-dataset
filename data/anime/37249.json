@@ -1,0 +1,54 @@
+{
+  "id": 37249,
+  "title": "DC Super Heroes vs Taka no Tsumedan Promotion Eizou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1334/90401.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1334/90401l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "『DCスーパーヒーローズ vs 鷹の爪団』プロモーション映像"
+  },
+  "start_date": "2018-02-02",
+  "end_date": "2018-02-02",
+  "synopsis": "A collaboration episode promoting the BD/DVD release of DC Super Heroes vs Taka no Tsumedan and the Japanese BD/DVD release of Justice League both going on sale March 3, 2018 with the special goods that come with them. The characters all break the 4th wall to self-promote their material and get into a scuffle about whose release would sell better.\n\n",
+  "mean": 4.71,
+  "rank": 12969,
+  "popularity": 14240,
+  "num_list_users": 788,
+  "num_scoring_users": 270,
+  "nsfw": "white",
+  "created_at": "2018-02-02T22:16:29+00:00",
+  "updated_at": "2023-07-14T14:59:11+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 134,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

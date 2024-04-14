@@ -1,0 +1,58 @@
+{
+  "id": 25303,
+  "title": "Haikyuu!! Lev Genzan!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1498/96643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1498/96643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haikyuu!!: Jump Festa 2014 Special",
+      "Haikyuu!! OVA",
+      "Haikyuu!! The Arrival of Haiba Lev"
+    ],
+    "en": "",
+    "ja": "ハイキュー!! リエーフ見参！"
+  },
+  "start_date": "2015-03-04",
+  "end_date": "2015-03-04",
+  "synopsis": "Nekoma High School's volleyball team recruits a new member: the half-Japanese, half-Russian Lev Haiba. Though the self-proclaimed ace is blessed with great height, he lacks basic volleyball techniques. This gives the team's setter, Kenma Kozume, a hard time when matching up with him.\n \nTo everyone's surprise, Nekoma's coach suggests that Lev play in the Kunihira Senior High School's practice match, leaving Kenma no choice but to cooperate with the tall player. Will Kenma be able to overcome this new challenge?\n \n[Written by MAL Rewrite]",
+  "mean": 7.71,
+  "rank": 1200,
+  "popularity": 1674,
+  "num_list_users": 133123,
+  "num_scoring_users": 72837,
+  "nsfw": "white",
+  "created_at": "2014-07-15T13:12:28+00:00",
+  "updated_at": "2022-10-15T00:41:28+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 56463,
+  "title": "Mahou Shokudou Chara Pontan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1505/138096.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1505/138096l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "魔法食堂チャラポンタン"
+  },
+  "start_date": "2006-11-01",
+  "end_date": "2006-11-30",
+  "synopsis": "",
+  "rank": 16152,
+  "popularity": 24772,
+  "num_list_users": 67,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2023-08-29T05:05:30+00:00",
+  "updated_at": "2023-08-29T07:26:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": []
+}

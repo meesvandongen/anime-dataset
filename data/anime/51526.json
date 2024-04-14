@@ -1,0 +1,48 @@
+{
+  "id": 51526,
+  "title": "Mogu Mogu Yummy!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1905/128611.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1905/128611l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "もぐもぐYUMMY！"
+  },
+  "start_date": "2021-02-22",
+  "end_date": "2021-02-22",
+  "synopsis": "Mogu Mogu Yummy! is the first original song of Nekomata Okayu. It was first performed at her 3D birthday YouTube live on February 22, 2021, followed by the release of the full music video on her YouTube channel.\n\n(Source: Hololive Wiki)",
+  "mean": 6.74,
+  "popularity": 13735,
+  "num_list_users": 909,
+  "num_scoring_users": 528,
+  "nsfw": "white",
+  "created_at": "2022-04-02T12:53:26+00:00",
+  "updated_at": "2022-09-28T07:51:29+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "g",
+  "studios": []
+}

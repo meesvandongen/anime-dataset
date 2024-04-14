@@ -1,0 +1,53 @@
+{
+  "id": 4798,
+  "title": "Druaga no Tou: The Aegis of Uruk - Jil no Bouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/60801.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/60801l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tower of Druaga: The Aegis of Uruk Alternate First Episode",
+      "Tower of Druaga: The Aegis of Uruk Special"
+    ],
+    "en": "Tower of Druaga: The Aegis of Uruk - Jil's Adventure",
+    "ja": "ドルアーガの塔 〜the Aegis of URUK〜 「ジルの冒険」"
+  },
+  "start_date": "2008-04-04",
+  "end_date": "2008-04-04",
+  "synopsis": "This is a special \"back-side\" (ura) episode aired on GyaO simultaneously with original broadcast which features the background story from party's side instead of Jil's. \n\n(Source: AniDB) ",
+  "mean": 7.08,
+  "rank": 3898,
+  "popularity": 5392,
+  "num_list_users": 15140,
+  "num_scoring_users": 6739,
+  "nsfw": "white",
+  "created_at": "2008-06-28T01:04:40+00:00",
+  "updated_at": "2021-07-02T05:23:21+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1470,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

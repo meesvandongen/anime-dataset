@@ -1,0 +1,57 @@
+{
+  "id": 4983,
+  "title": "Hells",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1021/135112.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1021/135112l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hells Angels",
+      "Hell's Angels"
+    ],
+    "en": "",
+    "ja": "ヘルズ, (ヘルズエンジェルス)"
+  },
+  "start_date": "2008-10-18",
+  "end_date": "2008-10-18",
+  "synopsis": "Amagane Rinne had an accident and died while hurrying to school. She suddenly arrived in an awkward school... in Hell, filled with demons. While she is struggling and wishing to go back to the world whence she came from, she makes friends with her demon schoolmates and develops an uncommon bond.",
+  "mean": 6.86,
+  "rank": 4919,
+  "popularity": 3866,
+  "num_list_users": 33042,
+  "num_scoring_users": 11602,
+  "nsfw": "white",
+  "created_at": "2008-07-28T03:53:48+00:00",
+  "updated_at": "2023-04-04T05:27:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 7020,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

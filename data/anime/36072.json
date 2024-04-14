@@ -1,0 +1,43 @@
+{
+  "id": 36072,
+  "title": "Human Gift",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/87193.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/87193l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "LITE",
+      "filmlets"
+    ],
+    "en": "Human Gift",
+    "ja": "human gift"
+  },
+  "start_date": "2009-03-02",
+  "end_date": "2009-03-02",
+  "synopsis": "Official music video for Human Gift by the band LITE for their 2006 album \"filmlets\".",
+  "mean": 5.06,
+  "popularity": 18809,
+  "num_list_users": 282,
+  "num_scoring_users": 147,
+  "nsfw": "white",
+  "created_at": "2017-08-06T01:50:14+00:00",
+  "updated_at": "2017-09-21T12:55:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "music",
+  "average_episode_duration": 222,
+  "rating": "g",
+  "studios": []
+}

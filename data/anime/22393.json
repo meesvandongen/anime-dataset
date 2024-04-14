@@ -1,0 +1,52 @@
+{
+  "id": 22393,
+  "title": "Sora e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/58575.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/58575l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sora he",
+      "To the Sky",
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "空へ"
+  },
+  "start_date": "2005-02-04",
+  "end_date": "2005-02-04",
+  "synopsis": "Two souls, an ermine and a dolphin, dance and explore the world full of beautiful landscapes with a gorgeous palette of colours and sees the cycle of life.",
+  "mean": 5.82,
+  "popularity": 17475,
+  "num_list_users": 375,
+  "num_scoring_users": 153,
+  "nsfw": "white",
+  "created_at": "2014-02-02T03:21:52+00:00",
+  "updated_at": "2019-02-05T12:42:40+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 282,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": 6379,
+  "title": "Kyou no 5 no 2 (TV): Takarabako",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/14378.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/14378l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyou no Go no Ni OVA 2",
+      "Kyou no Go no Ni (2008) OVA",
+      "Today in Class 5-2 (2008) OVA",
+      "Today's 5-2 - OAD - Treasure Chest",
+      "Kyo no Gononi"
+    ],
+    "en": "",
+    "ja": "今日の５の２宝箱"
+  },
+  "start_date": "2009-10-06",
+  "end_date": "2009-10-06",
+  "synopsis": "An OVA bundled with the limited edition of the tankobon of the Kyou no Go no Ni manga. The staff and the cast of the OVA are the same as those of the Kyou no Go no Ni TV anime.",
+  "mean": 7.03,
+  "rank": 4143,
+  "popularity": 6694,
+  "num_list_users": 8835,
+  "num_scoring_users": 3497,
+  "nsfw": "white",
+  "created_at": "2009-04-18T11:25:38+00:00",
+  "updated_at": "2020-02-06T19:55:38+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1690,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

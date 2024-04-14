@@ -1,0 +1,48 @@
+{
+  "id": 29255,
+  "title": "Koukaku Kidoutai Arise [.jp]",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/70525.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/70525l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ghost in the Shell Arise Episode: [.jp]"
+    ],
+    "en": "",
+    "ja": "攻殻機動隊ＡＲＩＳＥ EPISODE:[.jp]"
+  },
+  "start_date": "2013-11-14",
+  "end_date": "2013-11-14",
+  "synopsis": "A short about the move of the kokaku-jprs website from '.com' to '.jp' -  promoting the Japan Registry Services (JPRS).",
+  "mean": 6.27,
+  "rank": 8224,
+  "popularity": 8344,
+  "num_list_users": 5158,
+  "num_scoring_users": 1469,
+  "nsfw": "white",
+  "created_at": "2015-01-04T18:54:02+00:00",
+  "updated_at": "2022-01-09T04:59:03+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 185,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

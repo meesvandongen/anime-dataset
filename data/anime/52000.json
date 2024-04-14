@@ -1,0 +1,44 @@
+{
+  "id": 52000,
+  "title": "Nanamental",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1616/124262.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1616/124262l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ナナメンタル"
+  },
+  "start_date": "2022-05-30",
+  "end_date": "2022-06-18",
+  "synopsis": "",
+  "rank": 16741,
+  "popularity": 14625,
+  "num_list_users": 698,
+  "num_scoring_users": 73,
+  "nsfw": "gray",
+  "created_at": "2022-06-04T13:14:35+00:00",
+  "updated_at": "2022-06-24T08:11:32+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "average_episode_duration": 100,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2179,
+      "name": "FIREBUG"
+    }
+  ]
+}

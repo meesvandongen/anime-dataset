@@ -1,0 +1,61 @@
+{
+  "id": 2684,
+  "title": "Buzzer Beater 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/57419.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/57419l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Buzzer Beater (2007)",
+      "Buzzer Beater Part 2"
+    ],
+    "en": "",
+    "ja": "BUZZER BEATER 第2期"
+  },
+  "start_date": "2007-07-04",
+  "end_date": "2007-09-26",
+  "synopsis": "After being drafted into the Earth Team, a basketball team comprised solely of humans, street-punk-turned-pro Hideyoshi couldn't be more cocky. The team is still up against the Gorons, a physically superior race of aliens who have dominated the game for some time. New challenges and problems stand in their way. Hideyoshi is unhappy with the team and the Gorons have new tricks up their sleeves.\n\n(Source: ANN)",
+  "mean": 6.8,
+  "rank": 5193,
+  "popularity": 6621,
+  "num_list_users": 9128,
+  "num_scoring_users": 4118,
+  "nsfw": "white",
+  "created_at": "2007-06-19T15:37:43+00:00",
+  "updated_at": "2024-03-06T10:57:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:56"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

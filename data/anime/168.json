@@ -1,0 +1,68 @@
+{
+  "id": 168,
+  "title": "s.CRY.ed",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/89882.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/89882l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Scryed"
+    ],
+    "en": "s-CRY-ed",
+    "ja": "スクライド"
+  },
+  "start_date": "2001-07-04",
+  "end_date": "2001-12-26",
+  "synopsis": "A strange environmental phenomenon 22 years ago in the Kanazawa prefecture caused the land to split and protrude upwards reaching unprecedented heights, creating the secluded area known as The Lost Ground. Kazuma is a young mercenary who lives in the Lost Ground, looking for any work he can find to sustain his livelihood within the harsh environment. He is one of the few people that are gifted with the Alter ability, which allows him to plaster his right arm and torso with a metallic alloy. When this mercenary encounters HOLY, an order whose purpose is to suppress and capture what they call Native Alter Users, and one of the elite members of HOLY, Ryuho, an epic rivalry begins.\n\n(Source: ANN)",
+  "mean": 7.36,
+  "rank": 2432,
+  "popularity": 2334,
+  "num_list_users": 83048,
+  "num_scoring_users": 38720,
+  "nsfw": "white",
+  "created_at": "2005-11-12T05:41:39+00:00",
+  "updated_at": "2022-04-16T13:47:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

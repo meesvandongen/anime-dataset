@@ -1,0 +1,84 @@
+{
+  "id": 435,
+  "title": "Magic Knight Rayearth",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1683/97042.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1683/97042l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahou Kishi Rayearth"
+    ],
+    "en": "Magic Knight Rayearth",
+    "ja": "魔法騎士（マジックナイト）レイアース"
+  },
+  "start_date": "1994-10-17",
+  "end_date": "1995-03-13",
+  "synopsis": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji are strangers brought together by fate when they meet during a seemingly normal field trip to Tokyo Tower. Accompanied by a great flash of light, they hear a mysterious woman's plea to save \"Cephiro,\" and the junior high heroines are suddenly swept away by a giant flying fish. Afterwards, they arrive in an unknown land, where they encounter a man called Master Mage Clef.\n\nClef informs the girls that they were summoned by Princess Emeraude to fulfill their destinies as Magic Knights, restoring peace and balance in Cephiro. The formerly lively and peaceful land has been in disarray ever since High Priest Zagato imprisoned the princess, who acted as Cephiro's pillar of stability. The Magic Knights reluctantly accept Clef's words as truth and embark on a journey to save Cephiro from the clutches of evil.\n\n[Written by MAL Rewrite]",
+  "mean": 7.46,
+  "rank": 2020,
+  "popularity": 2587,
+  "num_list_users": 70077,
+  "num_scoring_users": 28900,
+  "nsfw": "white",
+  "created_at": "2005-12-26T07:17:23+00:00",
+  "updated_at": "2024-03-06T11:59:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1473,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1092,
+  "title": "Kidou Senshi Gundam III: Meguriai Sora-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/75774.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/75774l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kidou Senshi Gundam III: Meguriai Uchuu Hen",
+      "Mobile Suit Gundam Movie 3"
+    ],
+    "en": "Mobile Suit Gundam III: Encounters in Space",
+    "ja": "機動戦士ガンダムⅢ　めぐりあい宇宙編"
+  },
+  "start_date": "1982-03-13",
+  "end_date": "1982-03-13",
+  "synopsis": "The One Year War comes to a close, as the Zeon forces now retreat back into space. Amuro learns much more of his Newtype abilities and tries to use them the best way he can. He's pushed to his limit as he encounters the infamous Char Aznable once again. He also falls in love with a mysterious woman named Lalah Sune, who knows the full potential of the Newtype abilities. \n\nThe greatest battle is about to begin, as many loved ones fall to the power of war. Can the Earth Federation defeat the Principality of Zeon? Or will they fail? Can Char prove that he's the better Newtype than Amuro? They all will be answered now...\n\n(Source: Otakufreakmk2)",
+  "mean": 7.75,
+  "rank": 1082,
+  "popularity": 3766,
+  "num_list_users": 34961,
+  "num_scoring_users": 20717,
+  "nsfw": "white",
+  "created_at": "2006-06-12T06:14:40+00:00",
+  "updated_at": "2022-11-09T18:25:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1982,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 8419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

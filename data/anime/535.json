@@ -1,0 +1,62 @@
+{
+  "id": 535,
+  "title": "Slayers Next",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1165/92536.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1165/92536l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Slayers Next",
+    "ja": "スレイヤーズNEXT"
+  },
+  "start_date": "1996-04-05",
+  "end_date": "1996-09-27",
+  "synopsis": "In the kingdom of Xoana, Lina Inverse and Gourry Gabriev unexpectedly come across their old companions, Zelgadis Graywords and Princess Ameilia Wil Tesla Saillune. Upon their reunion, the friends end up easily foiling the King of Xoana and his daughter's dastardly plans of world conquest.\n\nSoon after, it is revealed that Zelgadis is in search of the world's most valuable magical tome, the Claire Bible, hoping to discover a method to recover his human body among the many secrets sheltered within it. Despite his protests, the rest of the group decides to join in the quest after hearing of his mission. However, just when they were wondering where to start looking for the legendary book, they stumble upon a mysterious priest by the name of Xellos, who claims that he may be of some help in their pursuit.\n\n[Written by MAL Rewrite]",
+  "mean": 8.02,
+  "rank": 603,
+  "popularity": 2573,
+  "num_list_users": 70760,
+  "num_scoring_users": 37793,
+  "nsfw": "white",
+  "created_at": "2006-01-05T17:09:02+00:00",
+  "updated_at": "2023-09-01T00:18:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "18:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 154,
+      "name": "E&G Films"
+    }
+  ]
+}

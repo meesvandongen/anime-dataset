@@ -1,0 +1,68 @@
+{
+  "id": 1162,
+  "title": "Maze☆Bakunetsu Jikuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/6944.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/6944l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maze☆Bakunetsu Jikuu OVA"
+    ],
+    "en": "Maze: The Mega-Burst Space OVA",
+    "ja": "MAZE☆爆熱時空"
+  },
+  "start_date": "1996-07-24",
+  "end_date": "1996-09-21",
+  "synopsis": "Maze has gained incredible powers traveling through time and space, but she has also acquired one rather large problem: every night she turns into a really horny man. Unfortunately, Maze must rescue an equally lascivious princess from a mysterious warrior cult. Still, the male version of Maze would rather be chasing tail than rescuing willing princesses. \n\n(Source: ANN)",
+  "mean": 6.03,
+  "rank": 9445,
+  "popularity": 9302,
+  "num_list_users": 3723,
+  "num_scoring_users": 1327,
+  "nsfw": "white",
+  "created_at": "2006-07-06T04:32:13+00:00",
+  "updated_at": "2021-12-02T03:11:06+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 65,
+      "name": "Magical Sex Shift"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

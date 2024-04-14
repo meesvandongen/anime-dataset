@@ -1,0 +1,54 @@
+{
+  "id": 2556,
+  "title": "Jungle Taitei (1989)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/75997.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/75997l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bou Bou",
+      "The New Adventures of Kimba the White Lion",
+      "Jungle Emperor (1989)"
+    ],
+    "en": "",
+    "ja": "ジャングル大帝"
+  },
+  "start_date": "1989-10-12",
+  "end_date": "1990-10-11",
+  "synopsis": "Leo (a.k.a. Kimba in the U.S.) is a young ambitious lion cub who takes his father's place as emperor of the jungle when is father is killed by poachers. Even though his father's fate was met by the hands of humans, Leo is one of the few animals in the Jungle that doesn't fear or feel hatred toward humans. He is not alone either, he is guided by friends of his father to help create the best animal kingdom there can be. \n\n(Source: ANN)",
+  "mean": 6.96,
+  "rank": 4446,
+  "popularity": 8300,
+  "num_list_users": 5236,
+  "num_scoring_users": 2142,
+  "nsfw": "white",
+  "created_at": "2007-05-29T16:56:45+00:00",
+  "updated_at": "2021-11-13T05:35:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
+}

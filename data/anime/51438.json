@@ -1,0 +1,50 @@
+{
+  "id": 51438,
+  "title": "Rakka-sei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1175/121966.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1175/121966l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Life of Falling",
+    "ja": "落下生"
+  },
+  "start_date": "2021-01-09",
+  "end_date": "2021-01-09",
+  "synopsis": "An original concept movie directed by banishment (of Flat Studio). This animation is accompanied with the songs \"Slumber\" and \"Kaede\" by Eve.\n\nKaede, a high school boy living in Tokyo, was plagued by the horror of a series of mysterious dreams. At that time, in the dream world where monsters roam, he meets another self. What is the secret of the spiritual world that gradually erodes everyday life and the emotions hidden within Kaede's unconsciousness?\n\n(Source: Official YouTube, translated)",
+  "mean": 6.07,
+  "rank": 9230,
+  "popularity": 16152,
+  "num_list_users": 486,
+  "num_scoring_users": 232,
+  "nsfw": "white",
+  "created_at": "2022-03-27T17:31:38+00:00",
+  "updated_at": "2022-09-07T17:00:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 95,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2067,
+      "name": "Flat Studio"
+    }
+  ]
+}

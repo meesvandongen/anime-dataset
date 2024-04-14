@@ -1,0 +1,63 @@
+{
+  "id": 48486,
+  "title": "Oshiri Tantei 5th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1378/113506.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1378/113506l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Butt Detective"
+    ],
+    "en": "",
+    "ja": "おしりたんてい"
+  },
+  "start_date": "2021-04-03",
+  "end_date": "2021-06-26",
+  "synopsis": "Fifth season of Oshiri Tantei.",
+  "rank": 17064,
+  "popularity": 17326,
+  "num_list_users": 386,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2021-03-18T13:43:57+00:00",
+  "updated_at": "2023-01-13T10:56:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "09:00"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1160,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

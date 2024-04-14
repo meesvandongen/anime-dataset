@@ -1,0 +1,51 @@
+{
+  "id": 6731,
+  "title": "Ultraman Kids no Kotowaza Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/30417.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/30417l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ultraman Kids' Proverb Stories"
+    ],
+    "en": "",
+    "ja": "ウルトラマン キッズの ことわざ物語"
+  },
+  "start_date": "1986-04-16",
+  "end_date": "1986-11-19",
+  "synopsis": "Educational anime based on the popular Ultraman giant fighters.",
+  "mean": 6.29,
+  "rank": 8067,
+  "popularity": 13708,
+  "num_list_users": 917,
+  "num_scoring_users": 281,
+  "nsfw": "white",
+  "created_at": "2009-07-01T06:58:48+00:00",
+  "updated_at": "2021-12-28T16:57:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1986,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 420,
+  "rating": "pg",
+  "studios": []
+}

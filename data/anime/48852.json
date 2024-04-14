@@ -1,0 +1,55 @@
+{
+  "id": 48852,
+  "title": "Zhandouban Geji! Season Zero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1017/114641.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1017/114641l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zhandouban Geji! Di Ling Ji",
+      "ReVdol! Season Zero"
+    ],
+    "en": "",
+    "ja": "战斗吧歌姬！ 第零季"
+  },
+  "start_date": "2018-10-04",
+  "end_date": "2018-10-07",
+  "synopsis": "Season Zero of Zhandouban Geji!.",
+  "rank": 15180,
+  "popularity": 20023,
+  "num_list_users": 215,
+  "num_scoring_users": 46,
+  "nsfw": "white",
+  "created_at": "2021-04-29T09:20:20+00:00",
+  "updated_at": "2021-04-29T09:26:46+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 490,
+  "rating": "pg_13",
+  "studios": []
+}

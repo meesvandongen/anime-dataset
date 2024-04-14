@@ -1,0 +1,52 @@
+{
+  "id": 6361,
+  "title": "ef: A Tale of Memories. - Prologue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/26046.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/26046l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ef: The First Tale"
+    ],
+    "en": "",
+    "ja": "ef - a tale of memories. ~prologue~"
+  },
+  "start_date": "2007-08-24",
+  "end_date": "2007-08-24",
+  "synopsis": "The prologue for ef - a tale of memories, released on a separate DVD two months before the premiere of the TV series.",
+  "mean": 7.04,
+  "rank": 4109,
+  "popularity": 3988,
+  "num_list_users": 31231,
+  "num_scoring_users": 12886,
+  "nsfw": "white",
+  "created_at": "2009-04-14T10:23:51+00:00",
+  "updated_at": "2022-03-18T16:18:05+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 285,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

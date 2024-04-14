@@ -1,0 +1,84 @@
+{
+  "id": 18001,
+  "title": "Freezing Vibration",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/68195.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/68195l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Freezing Season 2"
+    ],
+    "en": "Freezing Vibration",
+    "ja": "フリージング ヴァイブレーション"
+  },
+  "start_date": "2013-10-04",
+  "end_date": "2013-12-20",
+  "synopsis": "Ever since the 10th NOVA clash, the Chevalier had concluded that the NOVA have been appearing at a steadier rate and they are losing more Pandoras than they can produce. Their solution is the E-Pandora Project which involves normal humans being given the power to become Pandoras. Inviting Pandora from around the world to their Alaskan base witness the unveiling of their new project, Satellizer, Kazuya and Rana are among those who have been summoned. However, as time goes the E-Pandora Project starts to become fishier and the Pandoras start to grow more and more concerned...",
+  "mean": 6.71,
+  "rank": 5680,
+  "popularity": 1407,
+  "num_list_users": 166541,
+  "num_scoring_users": 88519,
+  "nsfw": "white",
+  "created_at": "2013-03-25T06:42:54+00:00",
+  "updated_at": "2023-09-01T00:23:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 179,
+      "name": "A.C.G.T."
+    }
+  ]
+}

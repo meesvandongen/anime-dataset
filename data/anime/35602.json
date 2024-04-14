@@ -1,0 +1,54 @@
+{
+  "id": 35602,
+  "title": "Tsuki ga Kirei: Michinori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/85819.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/85819l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tsuki ga Kirei Recap",
+      "Tsuki ga Kirei Episode 6.5",
+      "Tsuki ga Kirei Special"
+    ],
+    "en": "Tsukigakirei: First Half - The Road So Far",
+    "ja": "月がきれい 前半抄"
+  },
+  "start_date": "2017-05-19",
+  "end_date": "2017-05-19",
+  "synopsis": "Recap of the first six episodes of Tsuki ga Kirei.",
+  "mean": 6.66,
+  "rank": 5982,
+  "popularity": 4858,
+  "num_list_users": 20000,
+  "num_scoring_users": 9783,
+  "nsfw": "white",
+  "created_at": "2017-05-18T16:34:34+00:00",
+  "updated_at": "2024-02-07T15:36:12+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

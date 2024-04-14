@@ -1,0 +1,68 @@
+{
+  "id": 7088,
+  "title": "Ichiban Ushiro no Daimaou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75554l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ichiban Ushiro no Dai Mao"
+    ],
+    "en": "Demon King Daimao",
+    "ja": "いちばんうしろの大魔王"
+  },
+  "start_date": "2010-04-03",
+  "end_date": "2010-06-19",
+  "synopsis": "Dreaming of changing the world for good, Akuto Sai transfers to Constant Magic Academy where he befriends a virtuous ninja clan member, Junko Hattori. On the way to the academy, they vow to make the world a better place together; however, the situation suddenly takes a turn for the worse upon his arrival—it is prophesied that he will become the Demon King!\n\nAs word of his destiny spreads, the school begins to fear him, and Junko's trust in him falters. While Akuto is determined to not let his predicted future control his fate, it seems as though everything he says and does only serve to reinforce the fact that he is destined to be the Demon King. Moreover, he is surrounded by a harem of beautiful girls who each have their own plans for him, ranging from bringing him to justice to simply showering him with love. With his newly awakened powers, Akuto must cope with his constantly growing list of misfortunes and fight to prove that his fate is not set in stone.\n\n[Written by MAL Rewrite]",
+  "mean": 6.72,
+  "rank": 5623,
+  "popularity": 422,
+  "num_list_users": 527110,
+  "num_scoring_users": 303036,
+  "nsfw": "white",
+  "created_at": "2009-08-27T14:41:36+00:00",
+  "updated_at": "2022-04-17T21:30:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1419,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 8,
+      "name": "Artland"
+    }
+  ]
+}

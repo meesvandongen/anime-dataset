@@ -1,0 +1,42 @@
+{
+  "id": 50317,
+  "title": "Day by Day",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1307/119256.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1307/119256l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "day by day",
+      "29-Q"
+    ],
+    "en": "",
+    "ja": "day by day"
+  },
+  "start_date": "2017-05-24",
+  "end_date": "2017-05-24",
+  "synopsis": "Official music videos for day by day and 29-Q, both released on the album day by day.",
+  "popularity": 22508,
+  "num_list_users": 102,
+  "num_scoring_users": 46,
+  "nsfw": "white",
+  "created_at": "2021-11-06T14:11:04+00:00",
+  "updated_at": "2022-12-20T11:29:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 250,
+  "rating": "g",
+  "studios": []
+}

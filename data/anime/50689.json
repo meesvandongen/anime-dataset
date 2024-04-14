@@ -1,0 +1,46 @@
+{
+  "id": 50689,
+  "title": "The Missing 8",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1526/139694.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1526/139694l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "The Missing 8"
+  },
+  "start_date": "2021-12-28",
+  "end_date": "2022-11-08",
+  "synopsis": "A devastated world ── Androids and robots live there. \"Poppy\" is an android that looks like a human. Android \"Punkun\" who is not interested in humans. One night, a star fell in front of them looking up at the sky...\n\n(Source: Official YouTube channel)",
+  "mean": 6.42,
+  "rank": 7378,
+  "popularity": 9747,
+  "num_list_users": 3223,
+  "num_scoring_users": 606,
+  "nsfw": "white",
+  "created_at": "2021-12-29T02:10:09+00:00",
+  "updated_at": "2022-10-19T19:34:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 882,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 37017,
+  "title": "Kensaku to Enjin no ABC Days",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/89761.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/89761l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "けんさくとえんじんのABC Days"
+  },
+  "start_date": "2017-11-23",
+  "end_date": "2017-12-20",
+  "synopsis": "Short educational videos teaching children English words.",
+  "rank": 15576,
+  "popularity": 19079,
+  "num_list_users": 266,
+  "num_scoring_users": 96,
+  "nsfw": "white",
+  "created_at": "2017-12-28T18:44:47+00:00",
+  "updated_at": "2017-12-28T18:55:12+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 38,
+  "rating": "g",
+  "studios": []
+}

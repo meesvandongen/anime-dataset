@@ -1,0 +1,64 @@
+{
+  "id": 44588,
+  "title": "The Gregory Gallery Tour Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1473/110701.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1473/110701l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gregory Horror Show Specials"
+    ],
+    "en": "",
+    "ja": "グレゴリーホラーショー"
+  },
+  "start_date": "2000-03-03",
+  "end_date": "2000-06-21",
+  "synopsis": "Three unbroadcasted exclusive Special shorts of Gregory Horror Show (presented as bonus videos on the first series DVDs volumes 1-3 in Japan only), containing stories featuring Gregory himself as a guide, giving his commentary and thoughts on each of the guests in the hotel, also displaying paintings based around the said guests.\n\n(Source: Wikipedia)",
+  "mean": 5.77,
+  "rank": 10572,
+  "popularity": 15988,
+  "num_list_users": 503,
+  "num_scoring_users": 184,
+  "nsfw": "white",
+  "created_at": "2020-12-13T12:16:04+00:00",
+  "updated_at": "2021-04-09T02:44:23+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2000,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 398,
+      "name": "Milky Cartoon"
+    }
+  ]
+}

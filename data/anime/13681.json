@@ -1,0 +1,62 @@
+{
+  "id": 13681,
+  "title": "Nekogami Yaoyorozu Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1270/129757.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1270/129757l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "猫神やおよろず"
+  },
+  "start_date": "2011-09-21",
+  "end_date": "2012-03-21",
+  "synopsis": "Short episodes included in the Nekogami Yoayorozu Blu-ray and DVD volumes.",
+  "mean": 6.14,
+  "rank": 8874,
+  "popularity": 11286,
+  "num_list_users": 1960,
+  "num_scoring_users": 511,
+  "nsfw": "white",
+  "created_at": "2012-04-02T20:42:32+00:00",
+  "updated_at": "2023-05-21T07:12:55+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 173,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 292,
+      "name": "AIC PLUS+"
+    }
+  ]
+}

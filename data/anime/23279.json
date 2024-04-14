@@ -1,0 +1,60 @@
+{
+  "id": 23279,
+  "title": "Gyakusatsu Kikan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/83309.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/83309l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Project Itoh"
+    ],
+    "en": "Genocidal Organ",
+    "ja": "虐殺器官"
+  },
+  "start_date": "2017-02-03",
+  "end_date": "2017-02-03",
+  "synopsis": "The war on terror exploded, literally, the day Sarajevo was destroyed by a homemade nuclear device. The leading democracies transformed into total surveillance states, and the developing world has drowned under a wave of genocides. The mysterious American John Paul seems to be behind the collapse of the world system, and it's up to intelligence agent Clavis Shepherd to track John Paul across the wreckage of civilizations and to find the true heart of darkness—a genocidal organ.\n\n(Source: Viz Media)",
+  "mean": 7.12,
+  "rank": 3735,
+  "popularity": 3187,
+  "num_list_users": 47703,
+  "num_scoring_users": 12928,
+  "nsfw": "white",
+  "created_at": "2014-03-21T13:23:27+00:00",
+  "updated_at": "2022-04-17T19:01:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 6881,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    },
+    {
+      "id": 1393,
+      "name": "Geno Studio"
+    }
+  ]
+}

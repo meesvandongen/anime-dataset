@@ -1,0 +1,58 @@
+{
+  "id": 19619,
+  "title": "Jewelpet Twinkle☆: Hohoemi no Niji ni Dokki☆Doki!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/73944.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/73944l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jewelpet Twinkle: A Rainbow of Smiles Doki Doki!",
+      "Jewelpet Twinkle Special",
+      "Jewelpet Tinkle Special"
+    ],
+    "en": "",
+    "ja": "ジュエルペット てぃんくる☆ ほほえみの虹にドッキ☆ドキ！"
+  },
+  "start_date": "2013-07-22",
+  "end_date": "2013-07-22",
+  "synopsis": "Special episode included with the Blu-ray box set of the original Jewelpet Tinkle anime series.",
+  "mean": 6.99,
+  "rank": 4335,
+  "popularity": 11446,
+  "num_list_users": 1858,
+  "num_scoring_users": 610,
+  "nsfw": "white",
+  "created_at": "2013-07-22T16:00:33+00:00",
+  "updated_at": "2023-08-24T05:45:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1717,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 126,
+      "name": "Studio Comet"
+    }
+  ]
+}

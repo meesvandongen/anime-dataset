@@ -1,0 +1,58 @@
+{
+  "id": 48567,
+  "title": "Visual Prison",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1143/117924.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1143/117924l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Visual Prison",
+    "ja": "ヴィジュアルプリズン"
+  },
+  "start_date": "2021-10-09",
+  "end_date": "2021-12-25",
+  "synopsis": "Vampires have existed for centuries and live under the rule of the Scarlet Moon. Once a year, \"Visual Prison\" occurs, a visual kei competition where the vampire who sings the most beautiful song is bestowed with great power by the Scarlet Moon. At the forefront of the competition are ECLIPSE—the reigning champions who stand for an established order, and LOST EDEN—a group that believes the strongest should rule.\n\nAnge Yuki is a lonely boy with no confidence in his singing ability. He moves to Harajuku in search of a musician he idolizes, but during his quest, he gets entangled in one of the many live performance clashes between ECLIPSE and LOST EDEN. Their fascinating stages stun him, but he soon collapses, overcome by bloodlust. Regaining consciousness, Ange finds himself under the care of Guiltia \"Guil\" Brion, the musician he admires, and learns that he is a dhampir—half-human, half-vampire.\n\nWhile Ange now has the privilege of participating in the upcoming Visual Prison, Guil explains that he will not join him in this endeavor. Meanwhile, Ange encounters Robin Laffite, a foreigner from England who is enamored by his astonishing singing voice. With the day of the competition slowly creeping up, Ange has to put together a capable unit in an exciting race against time.\n\n[Written by MAL Rewrite]",
+  "mean": 6.71,
+  "rank": 5664,
+  "popularity": 3497,
+  "num_list_users": 40657,
+  "num_scoring_users": 9617,
+  "nsfw": "white",
+  "created_at": "2021-03-27T03:51:47+00:00",
+  "updated_at": "2023-01-05T18:22:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1452,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

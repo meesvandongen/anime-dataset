@@ -1,0 +1,40 @@
+{
+  "id": 35694,
+  "title": "Kirin the Noop",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/86110.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/86110l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kirin the Noop",
+    "ja": "キリン・ザ・ヌープ"
+  },
+  "start_date": "2014-02-06",
+  "synopsis": "A shadow painting anime about a timid giraffe named Noop and his hedgehog companion named Harry as they travel their distant star world helping each other.",
+  "mean": 5.18,
+  "rank": 12398,
+  "popularity": 14354,
+  "num_list_users": 764,
+  "num_scoring_users": 134,
+  "nsfw": "white",
+  "created_at": "2017-06-07T08:56:05+00:00",
+  "updated_at": "2024-02-29T06:49:39+00:00",
+  "media_type": "tv_special",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

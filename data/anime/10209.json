@@ -1,0 +1,73 @@
+{
+  "id": 10209,
+  "title": "Kore wa Zombie desu ka? OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/36243.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/36243l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kore wa Zombie desu ka? Episode 13",
+      "Koreha Zombie desuka? OVA",
+      "Kore ha Zombie desu ka? OVA",
+      "Kore wa Zombie Desu ka? of the Dead Episode 0",
+      "Ee, Kore ga Saishuukai sesuka?",
+      "Hai, Encore Arigatou Gozaimasu"
+    ],
+    "en": "Is This a Zombie? OVA",
+    "ja": "これはゾンビですか? OVA"
+  },
+  "start_date": "2011-06-10",
+  "end_date": "2012-04-24",
+  "synopsis": "Two OVAs released with the 8th and 10th volumes of the original novel. They fall chronologically between the first and second seasons.",
+  "mean": 7.37,
+  "rank": 2406,
+  "popularity": 1682,
+  "num_list_users": 132647,
+  "num_scoring_users": 73266,
+  "nsfw": "gray",
+  "created_at": "2011-01-18T18:51:41+00:00",
+  "updated_at": "2023-09-05T11:41:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1495,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

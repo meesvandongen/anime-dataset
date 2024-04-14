@@ -1,0 +1,64 @@
+{
+  "id": 37595,
+  "title": "Cardcaptor Sakura: Clear Card-hen Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1600/91758.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1600/91758l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cardcaptor Sakura: Clear Card Arc Recap",
+      "Cardcaptor Sakura: Clear Card Arc 12.5"
+    ],
+    "en": "Cardcaptor Sakura: Clear Card Recap",
+    "ja": "カードキャプターさくら クリアカード編　総集編"
+  },
+  "start_date": "2018-04-01",
+  "end_date": "2018-04-01",
+  "synopsis": "Recap of first 12 episodes of Cardcaptor Sakura: Clear Card-hen.",
+  "mean": 7.01,
+  "rank": 4259,
+  "popularity": 7594,
+  "num_list_users": 6500,
+  "num_scoring_users": 1941,
+  "nsfw": "white",
+  "created_at": "2018-03-25T01:01:31+00:00",
+  "updated_at": "2024-02-06T16:39:44+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": []
+}

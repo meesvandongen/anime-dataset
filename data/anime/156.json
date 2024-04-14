@@ -1,0 +1,75 @@
+{
+  "id": 156,
+  "title": "X",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/17167l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "X the TV Series",
+      "X/1999",
+      "Ekksu",
+      "X (2001)"
+    ],
+    "en": "X",
+    "ja": "X−エックス−"
+  },
+  "start_date": "2001-10-03",
+  "end_date": "2002-03-27",
+  "synopsis": "In the fight between the Dragons of Heaven and the Dragons of Earth, the dream seer Princess Hinoto predicts the end of humanity. A central entity, 15-year-old Kamui Shirou, is to choose whether to ally with the Dragons of Earth and destroy civilization to protect the planet or with the Dragons of Heaven to save mankind.\n\nFollowing his mother's last wish, Kamui returns to Tokyo after six years of self-imposed exile. There, he attempts to steal the Sacred Sword from the temple protected by Kyougo Monou—the father of his childhood friends, Fuuma and Kotori. However, after Kamui's venture fails, a mysterious person manages to obtain the sword instead.\n\nBelieving Kamui to be the man in her prophecy, Hinoto sends the Dragons of Heaven after him to rally him to their cause. Although Kamui first rejects his destiny, the incessant attacks by the Dragons of Earth against those he holds dear push him to decide whether the lives of his friends should prevail over the fate of the Earth and finally pick a side.\n\n[Written by MAL Rewrite]",
+  "mean": 7.39,
+  "rank": 2312,
+  "popularity": 2334,
+  "num_list_users": 83049,
+  "num_scoring_users": 35297,
+  "nsfw": "white",
+  "created_at": "2005-11-12T01:46:39+00:00",
+  "updated_at": "2023-09-19T02:54:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

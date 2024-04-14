@@ -1,0 +1,46 @@
+{
+  "id": 40438,
+  "title": "Obsolete",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1711/103227.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1711/103227l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Obsolete",
+    "ja": "OBSOLETE"
+  },
+  "start_date": "2019-12-03",
+  "end_date": "2020-12-01",
+  "synopsis": "In 2014, aliens revealed themselves to request trade with humanity. In exchange for limestone, they would provide a consciousness-controlled general-use robot known as an \"Exoframe.\" Cheaper than an aircraft, tank, or firearm, and easy enough for anyone to operate, the \"Exoframe\" spreads change throughout the world in the blink of an eye... \n\n(Source: Official site)",
+  "mean": 5.93,
+  "rank": 9905,
+  "popularity": 7555,
+  "num_list_users": 6575,
+  "num_scoring_users": 2024,
+  "nsfw": "white",
+  "created_at": "2019-09-25T02:09:41+00:00",
+  "updated_at": "2022-04-16T16:06:05+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 780,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1279,
+      "name": "Buemon"
+    }
+  ]
+}

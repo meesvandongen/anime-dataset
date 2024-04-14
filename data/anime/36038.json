@@ -1,0 +1,65 @@
+{
+  "id": 36038,
+  "title": "Net-juu no Susume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/87463.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/87463l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Netojuu no Susume",
+      "Recommendation of the Wonderful Virtual Life"
+    ],
+    "en": "Recovery of an MMO Junkie",
+    "ja": "ネト充のススメ"
+  },
+  "start_date": "2017-10-10",
+  "end_date": "2017-12-12",
+  "synopsis": "For the first time since graduating high school, 30-year-old Moriko Morioka is unemployed—and she couldn't be happier. Having quit her long-standing job of over 11 years, Moriko quickly turns to online games to pass her now-plentiful free time, reinventing herself as the handsome and dashing male hero \"Hayashi\" in the MMO Fruits de Mer. With the pesky societal obligations of the real world out of the way, she blissfully dives headfirst into the realm of the game, where she promptly meets the kind and adorable healer Lily. Befriending each other almost instantly, the two become inseparable just as Moriko herself becomes more and more engrossed in her new \"life\" as Hayashi. Eventually, Moriko adopts the reclusive lifestyle in its entirety, venturing out from the safety of her apartment only when absolutely necessary.\n\nMeanwhile, unbeknownst to Moriko, a timid 28-year-old corporate worker named Yuuta Sakurai has also logged onto Fruits de Mer from the other side of town. Coincidentally bumping into each other at the convenience store one night, both write off their meeting as no more than just another awkward encounter with a stranger—however, fate has more in store for them than they think.\n\n[Written by MAL Rewrite]",
+  "mean": 7.53,
+  "rank": 1760,
+  "popularity": 479,
+  "num_list_users": 469874,
+  "num_scoring_users": 248133,
+  "nsfw": "white",
+  "created_at": "2017-08-02T09:24:20+00:00",
+  "updated_at": "2022-10-06T20:13:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:40"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1278,
+      "name": "Signal.MD"
+    }
+  ]
+}

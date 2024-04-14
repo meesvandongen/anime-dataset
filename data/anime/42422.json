@@ -1,0 +1,54 @@
+{
+  "id": 42422,
+  "title": "Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1973/110449.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1973/110449l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "映画ヒーリングっど♥プリキュア　ゆめのまちでキュン！っとGoGo！大変身！！"
+  },
+  "start_date": "2021-03-20",
+  "end_date": "2021-03-20",
+  "synopsis": "",
+  "mean": 7.36,
+  "rank": 2459,
+  "popularity": 10324,
+  "num_list_users": 2658,
+  "num_scoring_users": 901,
+  "nsfw": "white",
+  "created_at": "2020-07-10T11:38:07+00:00",
+  "updated_at": "2023-09-18T04:26:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 4185,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

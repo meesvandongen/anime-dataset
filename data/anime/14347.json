@@ -1,0 +1,62 @@
+{
+  "id": 14347,
+  "title": "Ryo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1459/116393.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1459/116393l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2012 Young Animator Training Project",
+      "Anime Mirai 2012"
+    ],
+    "en": "",
+    "ja": "龍-RYO-"
+  },
+  "start_date": "2013-03-02",
+  "end_date": "2013-03-02",
+  "synopsis": "During the turbulent end of the Tokugawa era, many children became war orphans. One of these orphans, a nameless son of a samurai, ends up meeting Ryouma Sakamoto, a man working against the Bakufu government. Impressed by the orphan's skill with a blade, Ryouma gives him the name \"Ryo\" and lets him travel by his side.\n\n[Written by MAL Rewrite]",
+  "mean": 5.82,
+  "rank": 10392,
+  "popularity": 5667,
+  "num_list_users": 13404,
+  "num_scoring_users": 6510,
+  "nsfw": "white",
+  "created_at": "2012-06-06T21:12:32+00:00",
+  "updated_at": "2022-01-06T07:22:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1583,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

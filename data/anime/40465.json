@@ -1,0 +1,58 @@
+{
+  "id": 40465,
+  "title": "Chuubyou Gekihatsu Boy: Otoko ni Umareta Shukumei Dakara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1527/103340.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1527/103340l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chuubyou Gekihatsu Boy Episode 12",
+      "Outburst Dreamer Boys Episode 12",
+      "Chuubyou Gekihatsu Boy Special"
+    ],
+    "en": "Outburst Dreamer Boys: It Is the Destiny of Those Born as Men",
+    "ja": "厨病激発ボーイ 男に生まれた宿命だから"
+  },
+  "start_date": "2020-03-25",
+  "end_date": "2020-03-25",
+  "synopsis": "Unaired episode 12 included with volume 4 of the BD/DVD release.",
+  "mean": 6.88,
+  "rank": 4831,
+  "popularity": 7455,
+  "num_list_users": 6801,
+  "num_scoring_users": 2698,
+  "nsfw": "white",
+  "created_at": "2019-10-01T03:18:07+00:00",
+  "updated_at": "2022-03-04T03:36:11+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 1405,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

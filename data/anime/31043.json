@@ -1,0 +1,73 @@
+{
+  "id": 31043,
+  "title": "Boku dake ga Inai Machi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Town Where Only I am Missing",
+      "BokuMachi"
+    ],
+    "en": "Erased",
+    "ja": "僕だけがいない街"
+  },
+  "start_date": "2016-01-08",
+  "end_date": "2016-03-25",
+  "synopsis": "When tragedy is about to strike, Satoru Fujinuma finds himself sent back several minutes before the accident occurs. The detached, 29-year-old manga artist has taken advantage of this powerful yet mysterious phenomenon, which he calls \"Revival,\" to save many lives.\n \nHowever, when he is wrongfully accused of murdering someone close to him, Satoru is sent back to the past once again, but this time to 1988, 18 years in the past. Soon, he realizes that the murder may be connected to the abduction and killing of one of his classmates, the solitary and mysterious Kayo Hinazuki, that took place when he was a child. This is his chance to make things right.\n \nBoku dake ga Inai Machi follows Satoru in his mission to uncover what truly transpired 18 years ago and prevent the death of his classmate while protecting those he cares about in the present.\n\n[Written by MAL Rewrite]",
+  "mean": 8.3,
+  "rank": 260,
+  "popularity": 28,
+  "num_list_users": 2087376,
+  "num_scoring_users": 1359069,
+  "nsfw": "white",
+  "created_at": "2015-06-18T16:56:19+00:00",
+  "updated_at": "2023-01-14T04:41:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

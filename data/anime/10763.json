@@ -1,0 +1,44 @@
+{
+  "id": 10763,
+  "title": "Robot Taekwon V",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/29661.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/29661l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Voltar the Invincible",
+    "ja": "로보트 태권 V"
+  },
+  "start_date": "1976-07-24",
+  "end_date": "1976-07-24",
+  "synopsis": "Dr. Kaff (or Dr. Cops; 카프 박사 in Korean), an evil scientist bent on world domination, creates an army of giant robots to kidnap world-class athletes and conquer the world. To fight off this attack, Dr. Kim creates Robot Taekwon V. Kim Hoon, the taekwon-do champion eldest son of Dr Kim, pilots Robot Taekwon V either mechanically or through his physical power by merging his taekwon-do movements with the robot. Comic relief is provided by Kim Hoon's younger buddy, elementary school student Kim Cheol.\n\n(Source: Wikipedia)",
+  "mean": 4.67,
+  "rank": 12999,
+  "popularity": 14398,
+  "num_list_users": 754,
+  "num_scoring_users": 273,
+  "nsfw": "white",
+  "created_at": "2011-05-26T15:14:12+00:00",
+  "updated_at": "2021-01-21T18:56:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1976,
+    "season": "summer"
+  },
+  "average_episode_duration": 4560,
+  "rating": "pg",
+  "studios": []
+}

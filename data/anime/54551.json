@@ -1,0 +1,39 @@
+{
+  "id": 54551,
+  "title": "Hado Old Man",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1477/133487.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1477/133487l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "When It Gets Too Old",
+    "ja": "하도 오래되면"
+  },
+  "start_date": "2013-07-24",
+  "end_date": "2013-07-24",
+  "synopsis": "Music video for the song Hado Old Man by Rose Motel.",
+  "popularity": 23682,
+  "num_list_users": 83,
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "created_at": "2023-02-17T18:48:44+00:00",
+  "updated_at": "2023-05-17T18:30:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": 51413,
+  "title": "Rock'n Oyone",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1847/121843.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1847/121843l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ロックンおヨネ"
+  },
+  "start_date": "2022-03-30",
+  "end_date": "2022-03-30",
+  "synopsis": "Oyone, who moved into a group home for senior citizens, forms a band with the other elderly residents. She relives the memories of her youth through a concert on Christmas night.\n\n(Source: ANN)",
+  "rank": 17537,
+  "popularity": 18928,
+  "num_list_users": 275,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2022-03-25T19:53:00+00:00",
+  "updated_at": "2022-07-19T10:46:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1521,
+      "name": "Studio Elle"
+    }
+  ]
+}

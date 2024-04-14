@@ -1,0 +1,53 @@
+{
+  "id": 22329,
+  "title": "Daisougen to Hakuba",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1000/112502.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1000/112502l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Prince and the White Horse",
+    "ja": "大草原と白馬"
+  },
+  "start_date": "2000-07",
+  "end_date": "2000-07",
+  "synopsis": "Bataar, a young Mongolian boy, wishes to cure his father's leg that was injured during a war with a neighboring tribe. One day, a white horse suddenly appears before him and Bataar starts a magical journey through time to rewrite history and to prevent the war from ever happening!",
+  "mean": 5.51,
+  "rank": 11553,
+  "popularity": 15332,
+  "num_list_users": 580,
+  "num_scoring_users": 166,
+  "nsfw": "white",
+  "created_at": "2014-01-29T14:46:39+00:00",
+  "updated_at": "2021-08-06T17:02:59+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "average_episode_duration": 1531,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 29387,
+  "title": "Momonga-mon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/70647.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/70647l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Momonga-mon",
+    "ja": "ももんがぁモン"
+  },
+  "start_date": "2005-07-04",
+  "end_date": "2017-03-24",
+  "synopsis": "Stop-motion animation about a mysterious creature Mont-chan from an unknown world looking for an adventure.",
+  "rank": 16586,
+  "popularity": 18195,
+  "num_list_users": 321,
+  "num_scoring_users": 66,
+  "nsfw": "white",
+  "created_at": "2015-01-10T09:51:52+00:00",
+  "updated_at": "2024-02-29T06:50:35+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": []
+}

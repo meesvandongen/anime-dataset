@@ -1,0 +1,50 @@
+{
+  "id": 38137,
+  "title": "Zhu Zhu Xia: Zhong Ji Jue Zhan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1304/93364.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1304/93364l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "GG Bond Movie 3"
+    ],
+    "en": "GG Bond: Ultimate Battle",
+    "ja": "猪猪侠 终极决战"
+  },
+  "start_date": "2015-07-10",
+  "end_date": "2015-07-10",
+  "synopsis": "G.G. Bond and his team have eliminated all monster threats. So they have been using a virtual reality simulator to stay on top in case of a threat. In this simulator, G.G. Bond is reunited with his father. But unbeknownst to him, his father is the King of Darkness and merges virtual time and space with reality. Unable to tell apart illusions with realness, the King of Darkness attacks while the heroes are confused.",
+  "rank": 15313,
+  "popularity": 19374,
+  "num_list_users": 251,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2018-08-07T04:22:39+00:00",
+  "updated_at": "2018-08-07T14:32:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5425,
+  "rating": "g",
+  "studios": []
+}

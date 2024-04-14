@@ -1,0 +1,58 @@
+{
+  "id": 1146,
+  "title": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1357/95308.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1357/95308l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tenchi Muyo! Ryo-Ohki: The Night Before The Carnival",
+    "ja": "天地無用！魎皇鬼 SPECIAL お祭り前日の夜！"
+  },
+  "start_date": "1993-09-25",
+  "end_date": "1993-09-25",
+  "synopsis": "After his recent battle in space, Tenchi Masaki believes that his fighting days are over. Unfortunately, his life is far from peaceful since Aeka Jurai Masaki and Ryouko Hakubi—the two women giving him the most grief—cannot seem to get along, continuing to fight over who gets to be Tenchi's lover. \n\nSince their usual romantic strategies fail, Aeka and Ryouko decide to research how to woo a man. After spending hours going through shoujo manga, the two decide to act like the girls they've read about and put Tenchi through various scenarios, with the hope that he will fall in love with one of them.\n\n[Written by MAL Rewrite]",
+  "mean": 7.31,
+  "rank": 2663,
+  "popularity": 5265,
+  "num_list_users": 16055,
+  "num_scoring_users": 8140,
+  "nsfw": "white",
+  "created_at": "2006-07-05T21:54:09+00:00",
+  "updated_at": "2023-10-11T09:16:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2595,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

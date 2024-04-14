@@ -1,0 +1,47 @@
+{
+  "id": 18533,
+  "title": "Jungle Taitei Leo: Hon-o-ji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/49585.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/49585l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jungle Taitei (2000)"
+    ],
+    "en": "",
+    "ja": "ジャングル大帝"
+  },
+  "start_date": "2000-03-18",
+  "end_date": "2000-03-18",
+  "synopsis": "This is one of a number of original animated short films made for viewing at Tezuka Osamu World's Tezuka Osamu Animation Theater in Kyoto.\n\n(Source: ANN)",
+  "mean": 6.19,
+  "rank": 8586,
+  "popularity": 13620,
+  "num_list_users": 937,
+  "num_scoring_users": 332,
+  "nsfw": "white",
+  "created_at": "2013-04-28T09:46:41+00:00",
+  "updated_at": "2020-11-14T16:48:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 540,
+  "rating": "g",
+  "studios": []
+}

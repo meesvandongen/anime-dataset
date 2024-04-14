@@ -1,0 +1,62 @@
+{
+  "id": 342,
+  "title": "Starship Operators",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1185/131231.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1185/131231l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スターシップ・オペレーターズ"
+  },
+  "start_date": "2005-01-05",
+  "end_date": "2005-03-30",
+  "synopsis": "For the 73rd class of cadets of the Defense University of the small planet Kibi, a shakedown cruise on the fleet's new starship \"Amaterasu\" is a fitting lead-up to graduation. As they are returning to their home planet, however, they are shocked to hear news of a declaration of war by the aggressive Kingdom against Kibi. When their planetary government surrenders without a struggle, the cadets decide to launch their own war, aboard the \"Amaterasu\". To gain funding, they make a deal with a galactic news network - and find themselves the \"stars\" of their own \"reality show\". Unfortunately, this is the kind of reality show that can get you killed... \n\n(Source: ANN)",
+  "mean": 7.07,
+  "rank": 3938,
+  "popularity": 5261,
+  "num_list_users": 16087,
+  "num_scoring_users": 5544,
+  "nsfw": "white",
+  "created_at": "2005-11-20T02:56:46+00:00",
+  "updated_at": "2022-01-16T23:13:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

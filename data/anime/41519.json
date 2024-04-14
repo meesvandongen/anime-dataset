@@ -1,0 +1,60 @@
+{
+  "id": 41519,
+  "title": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1578/117053.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1578/117053l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Monster Strike the Movie: Lucifer Dawn of Despair"
+    ],
+    "en": "",
+    "ja": "モンスト THE MOVIE ルシファー 絶望の夜明け"
+  },
+  "start_date": "2020-11-06",
+  "end_date": "2020-11-06",
+  "synopsis": "",
+  "mean": 6.72,
+  "rank": 5635,
+  "popularity": 9474,
+  "num_list_users": 3526,
+  "num_scoring_users": 337,
+  "nsfw": "white",
+  "created_at": "2020-03-26T09:26:36+00:00",
+  "updated_at": "2022-03-29T14:42:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 7643,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 298,
+      "name": "Anima"
+    },
+    {
+      "id": 1263,
+      "name": "Dynamo Pictures"
+    }
+  ]
+}

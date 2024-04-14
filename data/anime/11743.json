@@ -1,0 +1,60 @@
+{
+  "id": 11743,
+  "title": "Toaru Majutsu no Index Movie: Endymion no Kiseki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1885/93861.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1885/93861l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Toaru Majutsu no Kinsho Mokuroku"
+    ],
+    "en": "A Certain Magical Index the Movie: The Miracle of Endymion",
+    "ja": "劇場版 とある魔術の禁書目録 エンデュミオンの奇蹟"
+  },
+  "start_date": "2013-02-23",
+  "end_date": "2013-02-23",
+  "synopsis": "In the scientifically advanced Academy City, a miracle is about to occur: the completion of the world's first space elevator, \"Endymion.\" Meanwhile, a certain high school student, Touma Kamijou, and his companion Index are going about their daily lives when they encounter and befriend Arisa Meigo, a cheerful and ambitious singer. When strange occurrences begin taking place throughout the city, they lead to the discovery of an intricate plot surrounding Arisa and Endymion. Things only get more complicated when the Stiyl Magnus appears, signifying that the magical world is somehow involved too...\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2177,
+  "popularity": 1683,
+  "num_list_users": 132571,
+  "num_scoring_users": 68698,
+  "nsfw": "white",
+  "created_at": "2011-10-08T08:59:33+00:00",
+  "updated_at": "2023-04-29T10:02:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 5400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

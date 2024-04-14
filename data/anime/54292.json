@@ -1,0 +1,45 @@
+{
+  "id": 54292,
+  "title": "Pinkfong-gwa Hogi-ui Sinnaneun Iyagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1571/132876.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1571/132876l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Exciting Story of Pinkfong and Hogi"
+    ],
+    "en": "",
+    "ja": "핑크퐁과 호기의 신나는 이야기"
+  },
+  "start_date": "2020-01-16",
+  "end_date": "2020-01-16",
+  "synopsis": "The special showcases Pinkfong and Hogi's best moments from key episodes such as \"Welcome to Wonderville\", \"We are Wonderstar\", \"Runaway Cheese\", and \"Learning to Fly\".\n\n(Source: Pinkfong Wiki)",
+  "rank": 17218,
+  "popularity": 23441,
+  "num_list_users": 86,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2023-01-19T23:06:12+00:00",
+  "updated_at": "2023-01-20T09:46:37+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": []
+}

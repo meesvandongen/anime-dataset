@@ -1,0 +1,52 @@
+{
+  "id": 34939,
+  "title": "Tales of the Rays",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/84332.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/84332l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tales of the Rays Opening Eizou",
+      "Tales of the Rays: Mirrage Prison"
+    ],
+    "en": "Tales of the Rays",
+    "ja": "テイルズ オブ ザ レイズ"
+  },
+  "start_date": "2017-02-17",
+  "end_date": "2018-01-30",
+  "synopsis": "Includes an animated promotional/opening video for the iOS/Android game Tales of the Rays and the main promotional video. Bandai Namco announced it was a sequel to Tales of the Rays and streamed the video on their official YouTube channel.\n\nThe game and videos star new characters Ickx Neve and Mileena Weiss along with a cast of returning characters from other Tales of games.\n\nIn a nontraditional manner, no new game app will be created, rather the current game app will receive a massive update and discontinue the main story line and start anew (several years later in-story) resetting the game play for all users. The story is said to take a darker tone.\n\nThe game's production was announced in 2015 and the official launch is expected some time later this year.\n\n(Source: ANN, edited)",
+  "mean": 6,
+  "popularity": 8632,
+  "num_list_users": 4710,
+  "num_scoring_users": 1091,
+  "nsfw": "white",
+  "created_at": "2017-02-17T21:57:23+00:00",
+  "updated_at": "2023-12-26T23:28:59+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 76,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

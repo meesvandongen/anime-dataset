@@ -1,0 +1,66 @@
+{
+  "id": 42892,
+  "title": "Baraou no Souretsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1046/118527.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1046/118527l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Requiem of the Rose King",
+    "ja": "薔薇王の葬列"
+  },
+  "start_date": "2022-01-09",
+  "end_date": "2022-06-26",
+  "synopsis": "Richard Plantagenet has dedicated his whole life to becoming strong enough to fight alongside his father, the Duke of York. Together they have waged war to reclaim the right to the throne of England from King Henry VI and the House of Lancaster. However, the young Richard hides a secret—one that his mother scorns him for, which the cruel voices in his head never fail to remind him of. Even amid his personal turmoil, he is fortunate to find solace in the light of his father's love. But when the War of the Roses takes a turn for the bloodier, the fervent ambitions of Richard grow while his old loyalties splinter, threatening to taint his family's path to glory.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.37,
+  "rank": 7633,
+  "popularity": 2831,
+  "num_list_users": 59571,
+  "num_scoring_users": 12487,
+  "nsfw": "white",
+  "created_at": "2020-09-15T15:05:03+00:00",
+  "updated_at": "2022-12-29T07:22:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1431,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

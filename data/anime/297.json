@@ -1,0 +1,72 @@
+{
+  "id": 297,
+  "title": "Grenadier: Hohoemi no Senshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1691/114822.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1691/114822l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Grenadier: The Smiling Senshi"
+    ],
+    "en": "Grenadier: The Beautiful Warrior",
+    "ja": "グレネーダー 〜ほほえみの閃士〜"
+  },
+  "start_date": "2004-10-14",
+  "end_date": "2005-01-13",
+  "synopsis": "Rushuna is a blonde and very beautiful Senshi (gun expert) that travels through the world with one purpose. Which is to make the world a peaceful place by, instead of fighting with weapons, taking away the people's will to fight by giving them a smile. Although she doesn't want to fight, she is forced to, and shows amazing gun skills. In this journey she meets Yajirou, a mercenary that uses a sword to fight and joins her on her journey. \n\n(Source: ANN)",
+  "mean": 6.69,
+  "rank": 5791,
+  "popularity": 2931,
+  "num_list_users": 55895,
+  "num_scoring_users": 25467,
+  "nsfw": "white",
+  "created_at": "2005-11-17T14:04:40+00:00",
+  "updated_at": "2022-10-27T14:11:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1453,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    },
+    {
+      "id": 1383,
+      "name": "Studio Live"
+    }
+  ]
+}

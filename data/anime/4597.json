@@ -1,0 +1,63 @@
+{
+  "id": 4597,
+  "title": "Kouya no Shounen Isamu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/54387.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/54387l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Willie Boy",
+      "Willy Boy",
+      "Shounen Isamu",
+      "The Rough and Ready Cowboy",
+      "Isamu the Wilderness Boy."
+    ],
+    "en": "",
+    "ja": "荒野の少年イサム"
+  },
+  "start_date": "1973-04-04",
+  "end_date": "1974-03-27",
+  "synopsis": "The adventures of Isamu, a young boy living in the Far West, searching for his real father.",
+  "mean": 6.57,
+  "rank": 6459,
+  "popularity": 12567,
+  "num_list_users": 1266,
+  "num_scoring_users": 315,
+  "nsfw": "white",
+  "created_at": "2008-05-28T17:47:26+00:00",
+  "updated_at": "2021-12-02T22:33:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1973,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "19:00"
+  },
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

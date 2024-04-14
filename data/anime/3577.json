@@ -1,0 +1,52 @@
+{
+  "id": 3577,
+  "title": "Kyouran Kazoku Nikki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/7601.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/7601l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Diary of a Crazed Family"
+    ],
+    "en": "",
+    "ja": "狂乱家族日記"
+  },
+  "start_date": "2008-04-12",
+  "end_date": "2008-10-04",
+  "synopsis": "Midarezaki Ouka is used to having strange things happen to him -after all, he is the head of the Great Japanese Empire Paranormal Phenomena Bureau of Measures. But when he catches a small cat girl in the shopping district stealing apples, his whole life rearranges to fit a new operation... \n\nOPERATION COZY FAMILY. \n\nThousands of years ago, Enka the God of Destruction, was killed. However, with a dying breath it claimed that its child would appear and destroy humanity. Now in futuristic Japan, all of the potential children of Enka have been found and placed into a haphazard family. \n\nTeika the lion, Gekka the jellyfish, Yuuka the oni, Ginka the cross-dressing mafia son, and Hyouka the bioweapon--along with their parents Ouka and Kyouka (the ruler of a demon underworld)--all live under one roof in a family frenzy. ",
+  "mean": 7.26,
+  "rank": 2943,
+  "popularity": 4134,
+  "num_list_users": 28696,
+  "num_scoring_users": 10828,
+  "nsfw": "white",
+  "created_at": "2007-12-11T03:44:32+00:00",
+  "updated_at": "2022-03-24T21:26:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

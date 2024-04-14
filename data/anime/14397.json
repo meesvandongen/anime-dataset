@@ -1,0 +1,68 @@
+{
+  "id": 14397,
+  "title": "Chihayafuru 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/47435.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/47435l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chihayafull 2"
+    ],
+    "en": "",
+    "ja": "ちはやふる 2"
+  },
+  "start_date": "2013-01-12",
+  "end_date": "2013-06-29",
+  "synopsis": "Chihaya Ayase is obsessed with developing her school's competitive karuta club, nursing daunting ambitions like winning the national team championship at the Omi Jingu and becoming the Queen, the best female karuta player in Japan—and in extension, the world. As their second year of high school rolls around, Chihaya and her fellow teammates must recruit new members, train their minds and bodies alike, and battle the formidable opponents that stand in their way to the championship title. Meanwhile, Chihaya's childhood friend, Arata Wataya, the prodigy who introduced her to karuta, rediscovers his lost love for the old card game.\n\n[Written by MAL Rewrite]",
+  "mean": 8.38,
+  "rank": 190,
+  "popularity": 1026,
+  "num_list_users": 235524,
+  "num_scoring_users": 129959,
+  "nsfw": "white",
+  "created_at": "2012-06-09T07:16:24+00:00",
+  "updated_at": "2024-02-10T15:57:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1340,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

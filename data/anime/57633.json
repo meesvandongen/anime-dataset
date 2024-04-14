@@ -1,0 +1,39 @@
+{
+  "id": 57633,
+  "title": "Little Missing Stars",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1357/140602.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1357/140602l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Little Missing Stars"
+  },
+  "start_date": "2023-12-24",
+  "end_date": "2023-12-24",
+  "synopsis": "Music video for the song Little Missing Stars, a collaboration between vocaloid artist Sasanomaly/nekobolo and illustrator Rella to celebrate Hatsune Miku's 16th birthday.\n\n",
+  "popularity": 22546,
+  "num_list_users": 101,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2023-12-25T10:34:03+00:00",
+  "updated_at": "2023-12-25T10:34:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 256,
+  "rating": "pg_13",
+  "studios": []
+}

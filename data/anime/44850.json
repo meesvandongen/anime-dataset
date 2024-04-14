@@ -1,0 +1,50 @@
+{
+  "id": 44850,
+  "title": "Huoyan Shan Lixian Ji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1086/128455.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1086/128455l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Adventure at Flaming Mountains"
+    ],
+    "en": "",
+    "ja": "火焰山历险记"
+  },
+  "start_date": "2013-07-19",
+  "end_date": "2013-07-19",
+  "synopsis": "",
+  "rank": 20303,
+  "popularity": 24363,
+  "num_list_users": 73,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2020-12-18T01:44:48+00:00",
+  "updated_at": "2022-09-25T15:12:52+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 5040,
+  "rating": "pg",
+  "studios": []
+}

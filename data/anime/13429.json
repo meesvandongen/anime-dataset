@@ -1,0 +1,50 @@
+{
+  "id": 13429,
+  "title": "Sakasama no Patema: Beginning of the Day",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/37569.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/37569l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Patema Inverted: Beginning of the Day",
+    "ja": "サカサマのパテマ Beginning of the Day"
+  },
+  "start_date": "2012-02-26",
+  "end_date": "2012-08-25",
+  "synopsis": "Despite leading a peaceful life as the princess of a subterraneous colony, teenage Patema longs to escape her cramped industrial confines and experience someplace different. While satiating her curiosity by exploring a region known as the \"danger zone,\" she is startled by a cloaked figure and falls into the darkness of an abyss.\n\nAwakening with the sky below her feet and the ground hanging above, Patema finds herself clinging to a fence at the mercy of a seemingly reversed gravity. Although a nearby student named Age is able to rescue her, they are left wondering which of the two is actually upside down.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.33,
+  "rank": 2581,
+  "popularity": 4109,
+  "num_list_users": 29111,
+  "num_scoring_users": 11986,
+  "nsfw": "white",
+  "created_at": "2012-03-23T22:39:54+00:00",
+  "updated_at": "2022-06-17T16:21:04+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 360,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 84,
+      "name": "Studio Rikka"
+    },
+    {
+      "id": 559,
+      "name": "Purple Cow Studio Japan"
+    }
+  ]
+}

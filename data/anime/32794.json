@@ -1,0 +1,44 @@
+{
+  "id": 32794,
+  "title": "Mahoutsukai Sally Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/78636.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/78636l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahou Tsukai Sally 2 Special",
+      "Mahoutsukai Sally: Majo ni Natta Yoshiko-chan",
+      "Mahoutsukai Sally: Haha no Ai wa Towa ni! Aurora no Tani ni Kodamasuru Kanashimi no Majo no Sakebi!"
+    ],
+    "en": "",
+    "ja": "魔法使いサリースペシャル 魔女になったよし子ちゃん"
+  },
+  "start_date": "1990-01-01",
+  "end_date": "1990-12-24",
+  "synopsis": "The specials of Mahou Tsukai Sally.",
+  "rank": 16155,
+  "popularity": 17225,
+  "num_list_users": 393,
+  "num_scoring_users": 89,
+  "nsfw": "white",
+  "created_at": "2016-02-21T12:26:18+00:00",
+  "updated_at": "2019-02-03T10:21:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2791,
+  "rating": "g",
+  "studios": []
+}

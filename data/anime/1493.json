@@ -1,0 +1,69 @@
+{
+  "id": 1493,
+  "title": "Project ARMS: The 2nd Chapter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/72859.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/72859l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Project Arms 2",
+      "ARMS2"
+    ],
+    "en": "Project ARMS: The 2nd Chapter",
+    "ja": "PROJECT ARMS -The 2nd Chapter-"
+  },
+  "start_date": "2001-10-06",
+  "end_date": "2002-03-30",
+  "synopsis": "The 2nd Chapter continues the story of Ryo Takatsuki and his companions' quest to discover the secret of the mysterious A.R.M.S. they all possess and what the future may hold for them. They now know where the answers lie but to get to them, they must fight a desperate fight of survival against a powerful military corporation that wants their secrets no matter what the cost.\n\n(Source: AniDB)",
+  "mean": 7,
+  "rank": 4296,
+  "popularity": 7738,
+  "num_list_users": 6211,
+  "num_scoring_users": 2210,
+  "nsfw": "white",
+  "created_at": "2006-09-10T17:33:44+00:00",
+  "updated_at": "2022-11-06T09:28:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1480,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

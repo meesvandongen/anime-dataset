@@ -1,0 +1,60 @@
+{
+  "id": 54103,
+  "title": "Hikikomari Kyuuketsuki no Monmon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1032/137893.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1032/137893l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Shut-In Vampire Princess' Worries"
+    ],
+    "en": "The Vexations of a Shut-In Vampire Princess",
+    "ja": "ひきこまり吸血姫の悶々"
+  },
+  "start_date": "2023-10-07",
+  "end_date": "2023-12-30",
+  "synopsis": "In a world where death is not permanent, Terakomari \"Komari\" Gandesblood has been a self-proclaimed professional shut-in for the past three years. As part of the noble Gandesblood lineage, she once tried to meet the expectations of her family. However, as a vampire who cannot use magic or consume blood, she soon gave up on becoming an imperial general like her ancestors. Unfortunately, a misunderstanding with her father earns her the formidable position of one of the Seven Crimson Lords, the strongest fighters and generals in the Mulnite Empire. \n\nNow, Komari must hide her lack of talent from the soldiers she commands, or they may attempt to overthrow her. Working alongside her newly-assigned maid, Villhaze, Komari manages to trick her unit of soldiers into believing she is a ruthless warlord and promises to conquer the world. But as more people come to admire Komari, her life is further threatened as a vampire from her past reappears with every intention to kill her for good.\n\n[Written by MAL Rewrite]",
+  "mean": 7.19,
+  "rank": 3321,
+  "popularity": 2145,
+  "num_list_users": 94897,
+  "num_scoring_users": 33777,
+  "nsfw": "white",
+  "created_at": "2023-01-05T11:10:40+00:00",
+  "updated_at": "2024-02-14T19:14:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1421,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

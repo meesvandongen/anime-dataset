@@ -1,0 +1,51 @@
+{
+  "id": 38310,
+  "title": "Yume Miru Koneko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1574/93702.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1574/93702l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Yumemiru Koneko"
+    ],
+    "en": "",
+    "ja": "夢みる子ねこ"
+  },
+  "start_date": "1983-08-01",
+  "end_date": "1983-08-01",
+  "synopsis": "A music video about a cat named Yume (which also means \"dream\" in Japanese). The song itself parodies the songs Der Flohwalzer (in Japan named as Neko Fun Jatta / I Stepped on a Cat) and Beautiful Dreamer (Yumemiru Hito) depending on whether or not \"Yume\" is being seen as a real cat or as a metaphorical dream or as a dream Yume the cat is having.\n\nThe music video was aired for 1 month before becoming lost media. In 2016 the Minna no Uta Hakkutsu Project (Minna no Uta Excavation Project) was able to find discover a copy and the music video was saved and re-aired once again after 34 years.",
+  "mean": 5.3,
+  "popularity": 18851,
+  "num_list_users": 279,
+  "num_scoring_users": 142,
+  "nsfw": "white",
+  "created_at": "2018-09-14T08:08:54+00:00",
+  "updated_at": "2018-09-14T08:08:54+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 141,
+  "rating": "g",
+  "studios": []
+}

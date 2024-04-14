@@ -1,0 +1,48 @@
+{
+  "id": 28963,
+  "title": "Nekota no Koto ga Kininatte Shikatanai.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/74532.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/74532l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ribon Festa 2015",
+      "Ribbon Festa 2015"
+    ],
+    "en": "",
+    "ja": "猫田のことが気になって仕方ない。"
+  },
+  "start_date": "2015-03-22",
+  "end_date": "2015-03-22",
+  "synopsis": "An anime adaptation of the Nekota no Koto ga Kininatte Shikatanai. manga screened at the Ribon Festa 2015 event.\n\nA girl named Mikiko sees the face of a popular boy in her class as a cat's face.",
+  "mean": 5.97,
+  "rank": 9723,
+  "popularity": 12273,
+  "num_list_users": 1393,
+  "num_scoring_users": 384,
+  "nsfw": "white",
+  "created_at": "2014-12-20T23:13:31+00:00",
+  "updated_at": "2017-10-13T15:27:54+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": []
+}

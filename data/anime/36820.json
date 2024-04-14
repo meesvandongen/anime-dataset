@@ -1,0 +1,46 @@
+{
+  "id": 36820,
+  "title": "Kaijuu ga Yattekuru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/89035.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/89035l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "怪獣がやってくる"
+  },
+  "start_date": "1967-10-04",
+  "end_date": "1967-10-04",
+  "synopsis": "Animals at a zoo hear that a kaijuu is coming. Like a game of \"Telephone\" they hear bits and pieces of what the kaijuu looks like which gets distorted each time the information is passed on. In the end, it was just a normal zoo animal joining the exhibits.",
+  "mean": 5.2,
+  "popularity": 18421,
+  "num_list_users": 306,
+  "num_scoring_users": 122,
+  "nsfw": "white",
+  "created_at": "2017-11-17T05:38:18+00:00",
+  "updated_at": "2017-11-17T05:38:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1967,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 154,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": 37893,
+  "title": "Yami Shibai 6",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1911/95045.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1911/95045l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yamishibai: Japanese Ghost Stories Sixth Season, Theater of Darkness 6th Season",
+      "Yamishibai: Japanese Ghost Stories 6"
+    ],
+    "en": "Theatre of Darkness: Yamishibai 6",
+    "ja": "闇芝居 6期"
+  },
+  "start_date": "2018-07-07",
+  "end_date": "2018-09-29",
+  "synopsis": "Late at night, in a clearing within a dark fog-filled forest, there sits a kamishibai storyboard. A visitor approaches, and suddenly, the fog recedes. A shape begins to take form beside the board—this figure is the masked Storyteller, who once again starts to spin tales of horror and despair.\n\nThe events described in these macabre tales might happen to anyone, even your neighbors or friends: a group of girls bully one of their members in a cave, only to find themselves the victims of a dark presence; a boy with scopophobia moves to the countryside, but he still cannot escape the eyes of others; a man has a window that won't stay closed, and is the recipient of strange phone calls; and a salaryman steals an umbrella on a rainy day, but this seemingly insignificant act leads to consequences he never expected. Visitors may enjoy the Storyteller's offerings, but they should also be vigilant so that they don't wind up as the subjects of his next story.\n\n[Written by MAL Rewrite]",
+  "mean": 6.19,
+  "rank": 8622,
+  "popularity": 4648,
+  "num_list_users": 22077,
+  "num_scoring_users": 10169,
+  "nsfw": "white",
+  "created_at": "2018-05-18T08:35:17+00:00",
+  "updated_at": "2022-03-18T21:50:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "04:00"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1169,
+      "name": "ILCA"
+    }
+  ]
+}

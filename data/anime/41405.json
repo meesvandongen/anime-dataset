@@ -1,0 +1,58 @@
+{
+  "id": 41405,
+  "title": "Bakugan: Armored Alliance",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1234/106364.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1234/106364l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "爆丸アーマードアライアンス"
+  },
+  "start_date": "2020-04-03",
+  "end_date": "2021-03-26",
+  "synopsis": "Second season of Bakugan: Battle Planet.",
+  "mean": 5.68,
+  "rank": 10966,
+  "popularity": 9162,
+  "num_list_users": 3918,
+  "num_scoring_users": 1315,
+  "nsfw": "white",
+  "created_at": "2020-03-08T03:06:07+00:00",
+  "updated_at": "2022-02-23T02:33:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "03:04"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 34440,
+  "title": "Code Geass: Hangyaku no Lelouch III - Oudou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1126/91344.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1126/91344l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Code Geass: Lelouch of the Rebellion - Emperor"
+    ],
+    "en": "Code Geass: Lelouch of the Rebellion III - Glorification",
+    "ja": "コードギアス 反逆のルルーシュⅢ 皇道"
+  },
+  "start_date": "2018-05-26",
+  "end_date": "2018-05-26",
+  "synopsis": "Lelouch Lamperouge's dreams of destroying the Holy Britannian Empire are slowly crumbling. His sister, Nunnally, has been kidnapped by Schneizel el Britannia, and Suzaku Kururugi is ignoring his desperate pleas for assistance. The Black Knights are slowly losing faith in Lelouch as their leader, and the United Federation of Nations has declared global war on Britannia.\n\nHaving suffered numerous betrayals, a significant loss of power, and an ever-growing resentment towards Emperor Charles zi Britannia, the crippled Lelouch makes a final decision: if he can't destroy the Empire from the outside, he will take it for himself from within.\n\n[Written by MAL Rewrite]",
+  "mean": 7.97,
+  "rank": 667,
+  "popularity": 2170,
+  "num_list_users": 93474,
+  "num_scoring_users": 35218,
+  "nsfw": "white",
+  "created_at": "2016-11-27T08:10:59+00:00",
+  "updated_at": "2022-04-11T12:04:12+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 8400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

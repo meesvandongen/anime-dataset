@@ -1,0 +1,53 @@
+{
+  "id": 50621,
+  "title": "Oni no Hanayome wa Taberaretai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1607/120809.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1607/120809l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "鬼の花嫁は喰べられたい 前編"
+  },
+  "start_date": "2021-12-20",
+  "end_date": "2021-12-27",
+  "synopsis": "When she was young, Mashiro's life was saved by an oni. Turning 17, the ripe age to be eaten, she goes to marry him. However, he ends up doting on her excessively and has no intention to eat her?! The story of two unconsciously lovey-dovey newlyweds.\n\n(Source: Hakusensha, translated)",
+  "rank": 17021,
+  "popularity": 17007,
+  "num_list_users": 410,
+  "num_scoring_users": 76,
+  "nsfw": "white",
+  "created_at": "2021-12-20T17:18:43+00:00",
+  "updated_at": "2022-03-06T07:00:11+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1860,
+      "name": "Magia Doraglier"
+    }
+  ]
+}

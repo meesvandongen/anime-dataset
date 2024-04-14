@@ -1,0 +1,57 @@
+{
+  "id": 34173,
+  "title": "Buddy Go! 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/82610.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/82610l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Oha-Suta",
+      "Ribon x Oha Suta Specials",
+      "Ribbon x Oha Suta Specials"
+    ],
+    "en": "",
+    "ja": "バディゴ!"
+  },
+  "start_date": "2016-10-04",
+  "end_date": "2016-10-25",
+  "synopsis": "2nd Broadcast of Buddy Go! of Oha Suta!",
+  "mean": 6.08,
+  "rank": 9180,
+  "popularity": 9842,
+  "num_list_users": 3122,
+  "num_scoring_users": 1350,
+  "nsfw": "white",
+  "created_at": "2016-10-01T11:05:11+00:00",
+  "updated_at": "2021-12-28T23:36:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 81,
+      "name": "Crossdressing"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "pg",
+  "studios": []
+}

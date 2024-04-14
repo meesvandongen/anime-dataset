@@ -1,0 +1,58 @@
+{
+  "id": 9924,
+  "title": "Shukufuku no Campanella: La Campanella Della Benedizione",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/27462.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/27462l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shukufuku no Campanella Episode 13",
+      "La Campanella Della Benedizione OVA",
+      "The Blessing of La Campanella OVA"
+    ],
+    "en": "",
+    "ja": "祝福のカンパネラ -la campanella della benedizione-"
+  },
+  "start_date": "2011-03-30",
+  "end_date": "2011-03-30",
+  "synopsis": "The story takes place in a trading city Eta'Aria. Leicester Maycraft is an item engineer belonging to an adventurer guild \"Oasis\". One night, he is at a party with his friends to see a meteor stream on the rooftop of a chapel.\n\n(Source: ANN)",
+  "mean": 6.47,
+  "rank": 7027,
+  "popularity": 7735,
+  "num_list_users": 6211,
+  "num_scoring_users": 2703,
+  "nsfw": "white",
+  "created_at": "2010-11-30T17:39:58+00:00",
+  "updated_at": "2021-07-14T12:26:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1779,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

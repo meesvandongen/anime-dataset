@@ -1,0 +1,78 @@
+{
+  "id": 39486,
+  "title": "Gintama: The Final",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Gintama: The Very Final",
+    "ja": "銀魂 THE FINAL"
+  },
+  "start_date": "2021-01-08",
+  "end_date": "2021-01-08",
+  "synopsis": "Two years have passed following the Tendoshuu's invasion of the O-Edo Central Terminal. Since then, the Yorozuya have gone their separate ways. Foreseeing Utsuro's return, Gintoki Sakata begins surveying Earth's ley lines for traces of the other man's Altana. After an encounter with the remnants of the Tendoshuu—who continue to press on in search of immortality—Gintoki returns to Edo.\n\nLater, the regrouped Shinsengumi and Yorozuya begin an attack on the occupied Central Terminal. With the Altana harvested by the wreckage of the Tendoshuu's ship in danger of detonating, the Yorozuya and their allies fight their enemies while the safety of Edo—and the rest of the world—hangs in the balance. Fulfilling the wishes of their teacher, Shouyou Yoshida's former students unite and relive their pasts one final time in an attempt to save their futures.\n\n[Written by MAL Rewrite]\n",
+  "mean": 9.04,
+  "rank": 6,
+  "popularity": 1537,
+  "num_list_users": 149346,
+  "num_scoring_users": 71572,
+  "nsfw": "white",
+  "created_at": "2019-03-07T20:54:42+00:00",
+  "updated_at": "2023-04-02T18:10:44+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 6240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

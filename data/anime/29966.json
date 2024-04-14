@@ -1,0 +1,46 @@
+{
+  "id": 29966,
+  "title": "Katsuobushi da yo Jinsei wa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/71864.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/71864l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "かつおぶしだよ人生は"
+  },
+  "start_date": "2009-08-03",
+  "end_date": "2009-08-03",
+  "synopsis": "Music video for the song by Seishirou Katou and Juichi Sase that was featured on NHK's Minna no Uta program.",
+  "mean": 5.18,
+  "popularity": 18561,
+  "num_list_users": 297,
+  "num_scoring_users": 128,
+  "nsfw": "white",
+  "created_at": "2015-02-08T21:12:55+00:00",
+  "updated_at": "2022-12-18T09:45:05+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 141,
+  "rating": "g",
+  "studios": []
+}

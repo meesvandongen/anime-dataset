@@ -1,0 +1,62 @@
+{
+  "id": 53393,
+  "title": "Tengoku Daimakyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1121/133132.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1121/133132l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Heavenly Delusion",
+    "ja": "天国大魔境"
+  },
+  "start_date": "2023-04-01",
+  "end_date": "2023-06-24",
+  "synopsis": "Fifteen years ago, disaster struck human civilization, and now dangerous man-eating monsters roam the ravaged lands, posing an existential threat to the remaining survivors. Amid this turmoil, an isolated facility shelters children and nurtures them in peace. However, as a few among them find out about the world beyond the narrow periphery of their nursery's walls, their curiosity about it slowly grows.\n\nMeanwhile, in the outside world, young survivors Maru and Kiruko band together to search for a special place called Heaven, each for their own reasons. Carrying past burdens and tragic secrets, the two hope to find answers to the cruelty they have experienced in their lives and in the world, which still remains in tatters.\n\n[Written by MAL Rewrite]",
+  "mean": 8.22,
+  "rank": 336,
+  "popularity": 482,
+  "num_list_users": 463495,
+  "num_scoring_users": 209914,
+  "nsfw": "white",
+  "created_at": "2022-10-18T09:08:05+00:00",
+  "updated_at": "2024-03-06T12:47:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

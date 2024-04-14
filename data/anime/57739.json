@@ -1,0 +1,45 @@
+{
+  "id": 57739,
+  "title": "Ice Cream no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1191/141760.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1191/141760l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "アイスクリームの歌"
+  },
+  "start_date": "1962-06",
+  "end_date": "1962-06",
+  "synopsis": "Music video for the song Ice Cream no Uta by Teruo Hata and Fusako Amachi that was featured on NHK's Minna no Uta program. It is considered to be lost media.",
+  "popularity": 26158,
+  "num_list_users": 55,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2024-01-05T06:28:51+00:00",
+  "updated_at": "2024-01-05T06:28:51+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1962,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

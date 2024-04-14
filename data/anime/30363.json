@@ -1,0 +1,70 @@
+{
+  "id": 30363,
+  "title": "Shinmai Maou no Testament Burst",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1151/94750.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1151/94750l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Testament of Sister New Devil: Burst",
+    "ja": "新妹魔王の契約者 BURST"
+  },
+  "start_date": "2015-10-10",
+  "end_date": "2015-12-12",
+  "synopsis": "Basara Toujou has a hard life. He is the older step-brother to two demonic sisters, Mio and Maria Naruse, whom he protects from entitled demons looking to claim Mio's power for themselves. On top of that, rising political tension within the demon realm only makes his job more difficult.\n\nWhen a messenger arrives with summons for Mio to the demon realm, she and her friends go in spite of the danger. Now on the enemy's turf, Basara will have to grow stronger through erotic pleasure in order to do the impossible and protect everyone.\n\n[Written by MAL Rewrite]",
+  "mean": 6.8,
+  "rank": 5179,
+  "popularity": 570,
+  "num_list_users": 399333,
+  "num_scoring_users": 220600,
+  "nsfw": "white",
+  "created_at": "2015-03-19T07:08:03+00:00",
+  "updated_at": "2024-03-03T20:27:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:40"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1380,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1053,
+      "name": "Production IMS"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 10764,
+  "title": "Buta Himesama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/85298.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/85298l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Queen Meets Orc",
+    "ja": "豚姫様"
+  },
+  "start_date": "2011-08-26",
+  "end_date": "2011-08-26",
+  "synopsis": "A Queen is turned into being a sex slave for her new King.",
+  "mean": 5.57,
+  "popularity": 7463,
+  "num_list_users": 6792,
+  "num_scoring_users": 2965,
+  "nsfw": "gray",
+  "created_at": "2011-05-26T15:19:42+00:00",
+  "updated_at": "2022-04-02T00:23:44+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1472,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 541,
+      "name": "Seven"
+    }
+  ]
+}

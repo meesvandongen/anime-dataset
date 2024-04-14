@@ -1,0 +1,72 @@
+{
+  "id": 13535,
+  "title": "Binbougami ga!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/39333.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/39333l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Binbou Gami ga!",
+      "Binboukami ga!",
+      "Binbogami ga!",
+      "Binbou Kami ga!",
+      "The God Of Poverty is!"
+    ],
+    "en": "Good Luck Girl!",
+    "ja": "貧乏神が!"
+  },
+  "start_date": "2012-07-05",
+  "end_date": "2012-09-27",
+  "synopsis": "Ichiko Sakura lives life on easy mode. Blessed with good fortune, she has everything she has ever wanted, including beauty, intelligence, and wealth. Momiji Binboda is a goddess of poverty. In stark contrast to Ichiko, she is cursed with misfortune, such as a perpetual cast on her arm, a flat chest, and a box under a bridge for a home.\n\nTheir lives collide when Momiji lives up to her title and delivers some unfortunate news to Ichiko: her large amount of luck is due to her subconsciously draining the luck from those around her! Momiji has been tasked with stealing back Ichiko's fortune before she leaves everyone without enough luck to even survive. But Ichiko, with the help of the wandering monk Bobby Statice, manages to fight off the poverty goddess. This defeat forces the goddess to enlist reinforcements in the form of Kumagai, her teddy bear familiar, and the masochistic dog god, Momoo Inugami.\n\nInsanity ensues as Ichiko's quiet life is replaced with daily battles for her fortune. To survive the chaos, Ichiko will need all the luck she can get in Binbougami ga!!\n\n[Written by MAL Rewrite]",
+  "mean": 7.67,
+  "rank": 1297,
+  "popularity": 1035,
+  "num_list_users": 232376,
+  "num_scoring_users": 111629,
+  "nsfw": "white",
+  "created_at": "2012-03-27T11:52:32+00:00",
+  "updated_at": "2023-09-01T11:49:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:50"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

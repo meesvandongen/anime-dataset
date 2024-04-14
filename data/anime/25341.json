@@ -1,0 +1,65 @@
+{
+  "id": 25341,
+  "title": "Diamond no Ace OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/71263.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/71263l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Daiya no Ace OVA",
+      "Ace of the Diamond OVA"
+    ],
+    "en": "Ace of Diamond OVA",
+    "ja": "ダイヤのA[エース] OAD"
+  },
+  "start_date": "2014-11-17",
+  "end_date": "2015-03-17",
+  "synopsis": "One hundred boys, each of them in love with baseball, represent the Seidou High School baseball team. On any team, the Ace is the star of the game. Besides the main heroes, others are striving to attain this position, and each of them has their strengths, weaknesses, and emotional journeys that they have to undertake to become the best that they can be.\n\nRyousuke Kominato is known in Seidou not only for his impressive fielding skills but also as an intimidating presence despite his small stature. While together with his partner, Youichi Kuramochi, they are the cornerstones of the team's defense on the field.  Youichi is shadowed by his younger brother, Haruichi, whose admiration for Ryousuke is only matched by his own skills at the sport. Together with Yoichi's roommate, Eijun Sawamura, the players reminisce about their path to Seidou High.\n\n[Written by MAL Rewrite]",
+  "mean": 7.59,
+  "rank": 1514,
+  "popularity": 5144,
+  "num_list_users": 17223,
+  "num_scoring_users": 7997,
+  "nsfw": "white",
+  "created_at": "2014-07-17T13:38:29+00:00",
+  "updated_at": "2022-10-16T07:22:02+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

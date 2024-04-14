@@ -1,0 +1,40 @@
+{
+  "id": 49900,
+  "title": "Tandemoon Rendezvous",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1821/117914.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1821/117914l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tandemoon Rendezvous",
+    "ja": "Tandemoon Rendezvous"
+  },
+  "start_date": "2021-03-16",
+  "end_date": "2021-03-16",
+  "synopsis": "",
+  "mean": 5.88,
+  "popularity": 19515,
+  "num_list_users": 242,
+  "num_scoring_users": 137,
+  "nsfw": "gray",
+  "created_at": "2021-09-23T21:09:30+00:00",
+  "updated_at": "2023-07-31T06:50:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 211,
+  "rating": "g",
+  "studios": []
+}

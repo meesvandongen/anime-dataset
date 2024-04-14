@@ -1,0 +1,78 @@
+{
+  "id": 46102,
+  "title": "Odd Taxi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1981/113348.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1981/113348l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Odd Taxi",
+    "ja": "オッドタクシー"
+  },
+  "start_date": "2021-04-06",
+  "end_date": "2021-06-29",
+  "synopsis": "Eccentric and blunt, the walrus Hiroshi Odokawa lives a relatively normal life. He drives a taxi for a living, and there he meets several unique individuals: the jobless Taichi Kabasawa who is dead-set on going viral, the mysterious nurse Miho Shirakawa, the struggling comedic duo \"Homo Sapiens,\" and Dobu, a well-known delinquent.\n\nBut Odokawa's simple way of life is about to be turned upside down. The case of a missing girl the police have been tracking leads back to him, and now both the yakuza and a duo of corrupt cops are on his tail.\n\n[Written by MAL Rewrite]",
+  "mean": 8.67,
+  "rank": 66,
+  "popularity": 529,
+  "num_list_users": 429557,
+  "num_scoring_users": 213076,
+  "nsfw": "white",
+  "created_at": "2021-01-15T10:22:31+00:00",
+  "updated_at": "2023-10-03T17:54:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "02:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    },
+    {
+      "id": 1872,
+      "name": "P.I.C.S."
+    }
+  ]
+}

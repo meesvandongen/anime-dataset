@@ -1,0 +1,48 @@
+{
+  "id": 4511,
+  "title": "Hoero! Bun Bun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/28908.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/28908l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hoero BunBun",
+      "Bark! Bun Bun",
+      "Tchaou et Grodo"
+    ],
+    "en": "",
+    "ja": "ほえろブンブン"
+  },
+  "start_date": "1980-10-09",
+  "end_date": "1981-07-09",
+  "synopsis": "Bunbun, an abandoned puppy meets the old Big, also a stray dog. Bunbun will learn to survive in an hostile and strange world. \n\n(Source: manga-distribution.fr)",
+  "mean": 6.6,
+  "rank": 6299,
+  "popularity": 13037,
+  "num_list_users": 1101,
+  "num_scoring_users": 317,
+  "nsfw": "white",
+  "created_at": "2008-05-17T01:01:35+00:00",
+  "updated_at": "2020-02-13T16:34:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1980,
+    "season": "fall"
+  },
+  "average_episode_duration": 1400,
+  "rating": "g",
+  "studios": []
+}

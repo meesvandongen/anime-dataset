@@ -1,0 +1,66 @@
+{
+  "id": 11001,
+  "title": "Toshokan Sensou: Kakumei no Tsubasa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/39273.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/39273l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Library War the Movie",
+      "Gekijouban Toshokan Sensou",
+      "Library War: The Wings of Revolution"
+    ],
+    "en": "Library Wars: The Wings of Revolution",
+    "ja": "図書館戦争 革命のつばさ"
+  },
+  "start_date": "2012-06-16",
+  "end_date": "2012-06-16",
+  "synopsis": "Following a terror attack in which a helicopter crashed into a nuclear power plant, the Japanese government passes a law expanding the powers of the Media Betterment Committee (MBC). Knowing that the MBC will target author Kurato Touma due to the similarities between one of his novels and the terrorists' actions, journalist Maki Orikuchi asks the Library Defense Force (LDF) to act as his bodyguards.\n\nMeanwhile, the higher-ups of the LDF prepare to indict the MBC on the grounds that parts of its new authority are unconstitutional. With the very existence of the Media Betterment Act coming under scrutiny, the members of the Library Task Force must navigate both their blossoming relationships and the precarious political situation they find themselves in.\n\n[Written by MAL Rewrite]",
+  "mean": 7.73,
+  "rank": 1142,
+  "popularity": 4474,
+  "num_list_users": 24176,
+  "num_scoring_users": 8600,
+  "nsfw": "white",
+  "created_at": "2011-07-22T11:30:04+00:00",
+  "updated_at": "2022-10-05T10:19:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 6285,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

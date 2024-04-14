@@ -1,0 +1,40 @@
+{
+  "id": 52584,
+  "title": "Zhongshan Hun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1345/126444.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1345/126444l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dr. Sun",
+    "ja": "中山魂"
+  },
+  "start_date": "2020-12-07",
+  "end_date": "2020-12-07",
+  "synopsis": "Revolving around the First Guangzhou Uprising, Sun Yat-sen's detainment in London, the Second Guangzhou Uprising and the Wuchang Uprising, this work interweaves one man's regret of causing a friend's death with the rivalries and cooperation between different revolutionary camps. These brave young people fight for the common good unto their last breath, paving this saga of toppling the millennia-old empire with their courage and blood.\n\n(Source: IMDB)",
+  "rank": 15272,
+  "popularity": 23293,
+  "num_list_users": 89,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2022-08-02T10:49:45+00:00",
+  "updated_at": "2022-08-03T18:40:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4740,
+  "rating": "pg_13",
+  "studios": []
+}

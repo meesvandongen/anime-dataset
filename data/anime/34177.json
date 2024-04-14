@@ -1,0 +1,56 @@
+{
+  "id": 34177,
+  "title": "Tenshi no 3P!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/86831.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/86831l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tenshi no Three Piece!"
+    ],
+    "en": "Angel's 3Piece!",
+    "ja": "天使の3P！〈スリーピース〉"
+  },
+  "start_date": "2017-07-10",
+  "end_date": "2017-09-25",
+  "synopsis": "Since entering high school, Kyou Nukui has not attended a single class. Instead, he spends his days locked in his bedroom composing music and posting it on the internet accompanied by his only friend's drawings, an artist with the pseudonym \"Kiriyume.\" One day, Kyou hesitantly uploads his newest composition, and first departure from his typical style, TR03. Additionally, he does not upload under his usual handle \"HibikiP,\" but simply under the name \"me,\" and without a drawing from his mysterious friend.\n\nShortly after, Kyou receives a very polite email, not only praising his music but also somehow discerning that he is, in fact, the composer behind TR03. The e-mail also asks for a meetup in a nearby park, to which he cautiously decides to go. To his surprise, however, he finds three elementary school girls at the meeting place! Suddenly, Jun Gotou, Nozomi Momijidani, and Sora Kaneshiro ask for his help to hold a concert in their home, an old church now used as an orphanage. And though Kyou is reluctant at first, after seeing their musical abilities, he eventually decides to accept their proposal.\n\nBased on the light novel of the same name by the award-winning Sagu Aoyama, Tenshi no 3P! follows Kyou as these three angels change his life.\n\n[Written by MAL Rewrite]",
+  "mean": 6.61,
+  "rank": 6253,
+  "popularity": 2692,
+  "num_list_users": 65064,
+  "num_scoring_users": 23209,
+  "nsfw": "white",
+  "created_at": "2016-10-02T08:28:32+00:00",
+  "updated_at": "2023-08-01T02:50:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "20:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

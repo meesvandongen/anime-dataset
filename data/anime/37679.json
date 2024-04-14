@@ -1,0 +1,51 @@
+{
+  "id": 37679,
+  "title": "Nanatsu-iro REALiZE",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1957/91717.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1957/91717l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "IDOLiSH7: Nanatsu-iro REALiZE"
+    ],
+    "en": "",
+    "ja": "アイドリッシュセブン『ナナツイロ REALiZE/IDOLiSH7』"
+  },
+  "start_date": "2018-04-04",
+  "end_date": "2018-04-04",
+  "synopsis": "Official music video for IDOLiSH7's song Nanatsu-iro REALiZE also released on the album of the same name.",
+  "mean": 6.77,
+  "popularity": 11846,
+  "num_list_users": 1611,
+  "num_scoring_users": 777,
+  "nsfw": "white",
+  "created_at": "2018-04-04T06:25:13+00:00",
+  "updated_at": "2023-10-17T00:37:55+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 284,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

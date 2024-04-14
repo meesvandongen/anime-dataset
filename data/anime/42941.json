@@ -1,0 +1,60 @@
+{
+  "id": 42941,
+  "title": "Uma Musume: Pretty Derby Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1447/114282.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1447/114282l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Umamusume: Pretty Derby Season 2"
+    ],
+    "en": "",
+    "ja": "ウマ娘 プリティーダービー Season 2"
+  },
+  "start_date": "2021-01-05",
+  "end_date": "2021-03-30",
+  "synopsis": "Within the horse-racing world, the horse girls of Team Spica have been gaining popularity as they continue to rack up victories. The one receiving the most attention in the group is Toukai Teiou, known for her cheerful personality and exceptional running skills. Teiou aims to become an undefeated Triple Crown horse girl by winning all three G1 races consecutively, a feat that has not been accomplished since the legendary Symbolic Rudolf managed to do so many years ago.\n\nOn her path to obtaining the Triple Crown, Teiou is met with many challenges, encountering both old and new rivals. Amidst her fierce rivalries, however, Teiou is soon confronted with decisions that will leave a huge impact on her very own racing career.\n\n[Written by MAL Rewrite]",
+  "mean": 8.1,
+  "rank": 502,
+  "popularity": 3062,
+  "num_list_users": 51507,
+  "num_scoring_users": 22234,
+  "nsfw": "white",
+  "created_at": "2020-09-22T13:21:33+00:00",
+  "updated_at": "2024-01-20T14:05:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1435,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1997,
+      "name": "Studio Kai"
+    }
+  ]
+}

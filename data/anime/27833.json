@@ -1,0 +1,60 @@
+{
+  "id": 27833,
+  "title": "Durarara!!x2 Ketsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/77838.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/77838l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Durarara!!x2 Ketsu"
+    ],
+    "en": "Durarara!! x2 Ketsu",
+    "ja": "デュラララ!!×2 結"
+  },
+  "start_date": "2016-01-09",
+  "end_date": "2016-03-26",
+  "synopsis": "As Mikado Ryuugamine continues to purge the Dollars from within in accordance with his warped sense of justice, Masaomi Kida hopes to bring his friend back to his senses by bringing the Yellow Scarves together once more. Little do they know that a far more dominant force is about to enter their struggle for power, one that their friend Anri Sonohara is all too familiar with.\n\nMeanwhile, the group that has gathered at Shinra Kishitani's apartment realizes that they are on the brink of something life-changing, an event that will throw Ikebukuro into a spiral of confusion. Their anxiety is realized when reports of Celty's head being found in public start to appear all over the news as Kasane Kujiragi begins to make her move.\n\nGone are the brief periods of tranquility as the current turmoil sets the stage for one final performance in this thrilling conclusion to the story of Ikebukuro's finest.\n\n[Written by MAL Rewrite]",
+  "mean": 8.05,
+  "rank": 564,
+  "popularity": 614,
+  "num_list_users": 378876,
+  "num_scoring_users": 186877,
+  "nsfw": "white",
+  "created_at": "2014-10-05T09:12:28+00:00",
+  "updated_at": "2022-04-17T08:44:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1119,
+      "name": "Shuka"
+    }
+  ]
+}

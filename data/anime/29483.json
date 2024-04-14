@@ -1,0 +1,42 @@
+{
+  "id": 29483,
+  "title": "Rainbow no Anime Bako",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/70843.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/70843l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rainbow no Anime Box"
+    ],
+    "en": "",
+    "ja": "レイン坊のアニメ箱"
+  },
+  "start_date": "2006-08-17",
+  "end_date": "2006-08-17",
+  "synopsis": "A boy looks into a box and sees a rainbow kaleidoscope display. But every time the boy looks in, the images change.",
+  "rank": 17459,
+  "popularity": 18949,
+  "num_list_users": 274,
+  "num_scoring_users": 87,
+  "nsfw": "white",
+  "created_at": "2015-01-12T05:11:31+00:00",
+  "updated_at": "2024-02-29T06:54:12+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": []
+}

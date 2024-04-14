@@ -1,0 +1,40 @@
+{
+  "id": 7177,
+  "title": "Gokyoudai Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/61397.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/61397l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ご姉弟物語"
+  },
+  "start_date": "2009-10-10",
+  "end_date": "2010-06-26",
+  "synopsis": "Japan's TV Asahi network will premiere a television anime adaptation of Tetsu Adachi's Baka-Kyoudai (Idiotic Siblings) manga under the title Gokyoudai Monogatari (Sibling Stories) on October 10. The original manga has been running on an irregular schedule in Kodansha's Young Magazine since 1999. The story centers on a sister and her twin brother who live carefree lives in Tokyo's lower-class neighborhoods and have heartwarming encounters with the local people. It received an award of excellence at the 7th Cultural Media Arts Festival in 2003. \n\nYuki Matsuoka will voice the sister Onei Jinushi, and Yumiko Kobayashi will play her twin brother Junichirō Jinushi. Sayaka Ohara will play the local restaurant waitress Shizuka.",
+  "rank": 19743,
+  "popularity": 15074,
+  "num_list_users": 618,
+  "num_scoring_users": 108,
+  "nsfw": "white",
+  "created_at": "2009-09-11T19:02:24+00:00",
+  "updated_at": "2022-03-29T10:41:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 32,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1155,
+  "rating": "g",
+  "studios": []
+}

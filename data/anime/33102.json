@@ -1,0 +1,61 @@
+{
+  "id": 33102,
+  "title": "Nijiiro Days: Houkago Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/79554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/79554l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rainbow Days: After School Special",
+      "Nijiiro Days Recap"
+    ],
+    "en": "",
+    "ja": "虹色デイズ 放課後スペシャル"
+  },
+  "start_date": "2016-04-03",
+  "end_date": "2016-04-03",
+  "synopsis": "Recap of the first 12 episodes of Nijiiro Days.",
+  "mean": 6.72,
+  "rank": 5637,
+  "popularity": 6933,
+  "num_list_users": 8214,
+  "num_scoring_users": 2311,
+  "nsfw": "white",
+  "created_at": "2016-04-02T05:22:54+00:00",
+  "updated_at": "2024-02-07T15:15:18+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 780,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 196,
+      "name": "Production Reed"
+    }
+  ]
+}

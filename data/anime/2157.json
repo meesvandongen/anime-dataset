@@ -1,0 +1,54 @@
+{
+  "id": 2157,
+  "title": "Koutetsushin Jeeg",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1208/135061.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1208/135061l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kotetsu Shin Jeeg",
+      "Steel Jeeg (2007)",
+      "Kotetsushin Jeeg"
+    ],
+    "en": "",
+    "ja": "鋼鉄神ジーグ"
+  },
+  "start_date": "2007-04-05",
+  "end_date": "2007-07-12",
+  "synopsis": "Kotetsushin Jeeg takes place fifty years after the original and features a new cast of characters—primarily the new main character Kenji Kusanagi, a high school student who becomes Kotetsushin Jeeg to fight the sudden reappearance of \"Haniwa Genjin\" (\"Haniwa Phantom Gods\", or clay robots) from the Jamada Empire ruled by Queen Himika. Other characters include Tsubaki Tamashiro (grandaughter of Miwa Uzuki); and Kyou Misumi. Other main characters from the original series also appear.",
+  "mean": 6.88,
+  "rank": 4795,
+  "popularity": 7412,
+  "num_list_users": 6894,
+  "num_scoring_users": 2498,
+  "nsfw": "white",
+  "created_at": "2007-03-17T15:24:50+00:00",
+  "updated_at": "2021-05-30T19:33:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
+}

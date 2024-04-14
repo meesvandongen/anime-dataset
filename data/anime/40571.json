@@ -1,0 +1,54 @@
+{
+  "id": 40571,
+  "title": "Majo no Tabitabi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1802/108501.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1802/108501l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Wandering Witch: The Journey of Elaina",
+    "ja": "魔女の旅々"
+  },
+  "start_date": "2020-10-02",
+  "end_date": "2020-12-18",
+  "synopsis": "Since childhood, Elaina has always been fascinated by the stories written within her favorite book, especially those about Nike, a renowned witch who had numerous great travels across the world. Wanting to experience the awe of adventure herself, Elaina strives to become a witch, and despite the numerous trials that come her way, she eventually succeeds.\n\nNow a full-fledged witch, Elaina finally embarks on her long-awaited journey, in which she meets many people along the way, learning their various stories. Through all of this, she explores the world at its fullest—experiencing both its bright and dark sides—starting her legendary tale.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1648,
+  "popularity": 571,
+  "num_list_users": 399097,
+  "num_scoring_users": 183825,
+  "nsfw": "white",
+  "created_at": "2019-10-16T11:12:55+00:00",
+  "updated_at": "2023-02-26T01:53:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 605,
+      "name": "C2C"
+    }
+  ]
+}

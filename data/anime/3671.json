@@ -1,0 +1,55 @@
+{
+  "id": 3671,
+  "title": "Genesis Climber Mospeada: Love, Live, Alive",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/6391.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/6391l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kikou Soseiki Mospeada: Love, Live, Alive"
+    ],
+    "en": "Genesis Climber Mospeada: Love, Live, Alive",
+    "ja": "機甲創世記モスピーダ Love, Live, Alive"
+  },
+  "start_date": "1985-09-01",
+  "end_date": "1985-09-01",
+  "synopsis": "After the original run of the television series, an OAV music video titled Genesis Climber Mospeada: Love Live Alive was specially (mostly due to demands of hardcore Mospeada fans) released in Japan in September 1985. The music video consisted of both old and new footage. The story of Love Live Alive chronicled the events after the ending of the original Mospeada, featuring Yellow Belmont as the main character. The music video focused on Yellow's concert and also on his flashback of past events.\n\n(Source: Wikipedia)",
+  "mean": 6.09,
+  "rank": 9108,
+  "popularity": 11336,
+  "num_list_users": 1933,
+  "num_scoring_users": 588,
+  "nsfw": "white",
+  "created_at": "2008-01-04T06:14:53+00:00",
+  "updated_at": "2021-01-07T05:06:45+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "summer"
+  },
+  "average_episode_duration": 3000,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

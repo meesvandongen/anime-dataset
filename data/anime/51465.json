@@ -1,0 +1,49 @@
+{
+  "id": 51465,
+  "title": "Jantama Pong☆ Web Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1853/122093.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1853/122093l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jantama Pong☆ Web Gentei Tokubetsu Hanashi",
+      "Mahjong Soul Pon☆ Web Special"
+    ],
+    "en": "",
+    "ja": "じゃんたま PONG☆ WEB限定特別話"
+  },
+  "start_date": "2022-03-29",
+  "end_date": "2022-03-29",
+  "synopsis": "Web-exclusive special episode of Jantama Pong☆.",
+  "mean": 5.5,
+  "rank": 11600,
+  "popularity": 12340,
+  "num_list_users": 1361,
+  "num_scoring_users": 675,
+  "nsfw": "white",
+  "created_at": "2022-03-29T23:01:45+00:00",
+  "updated_at": "2022-12-05T17:28:58+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2379,
+      "name": "Scooter Films"
+    }
+  ]
+}

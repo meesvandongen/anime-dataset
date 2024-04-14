@@ -1,0 +1,53 @@
+{
+  "id": 48023,
+  "title": "Fengyu Lang Qiao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1192/118295.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1192/118295l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Covered Bridge",
+    "ja": "风雨廊桥"
+  },
+  "start_date": "2020-07-15",
+  "end_date": "2020-07-15",
+  "synopsis": "In the troubled times at the end of the Tang Dynasty, the cannibalism spreads. The knight-errant who used to wield his sword has become an old man suffering from old illnesses, living cautiously in order to feed his hunger. Until he meets a little girl, and his dormant fighting spirit and humanity are re-awakened.",
+  "rank": 19534,
+  "popularity": 21004,
+  "num_list_users": 160,
+  "num_scoring_users": 42,
+  "nsfw": "white",
+  "created_at": "2021-02-19T10:15:39+00:00",
+  "updated_at": "2023-09-03T06:48:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1340,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1804,
+      "name": "Nice Boat Animation"
+    },
+    {
+      "id": 2304,
+      "name": "TrioPen Studio"
+    }
+  ]
+}

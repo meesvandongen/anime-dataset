@@ -1,0 +1,54 @@
+{
+  "id": 9165,
+  "title": "Attack No.1: Namida no Kaiten Receive",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/25378.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/25378l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Attack No.1 Movie 2"
+    ],
+    "en": "",
+    "ja": "アタックNo.1 涙の回転レシーブ"
+  },
+  "start_date": "1970-08-01",
+  "end_date": "1970-08-01",
+  "synopsis": "The 2nd Attack No.1 recap film. This covers episode 7-14 of the original TV series.",
+  "mean": 6.33,
+  "rank": 7820,
+  "popularity": 13170,
+  "num_list_users": 1060,
+  "num_scoring_users": 327,
+  "nsfw": "white",
+  "created_at": "2010-07-09T23:08:26+00:00",
+  "updated_at": "2021-10-06T08:49:12+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1970,
+    "season": "summer"
+  },
+  "average_episode_duration": 3600,
+  "rating": "pg_13",
+  "studios": []
+}

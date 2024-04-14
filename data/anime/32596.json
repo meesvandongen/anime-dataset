@@ -1,0 +1,65 @@
+{
+  "id": 32596,
+  "title": "The Snack World (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/83341.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/83341l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Snack World",
+    "ja": "スナックワールド (TV)"
+  },
+  "start_date": "2017-04-13",
+  "end_date": "2018-04-19",
+  "synopsis": "In \"a certain era\" on \"a certain continent,\" banal things are happening. The construction of \"Large-Scale Leisure Facilities\" has demanded that all the villages are to be evicted. When these demands are denied, the village and its residents are obliterated. A boy named Chap once lived in tranquility, but that happiness soon came crumbling down. He decides to embark on a journey of revenge, but soon falls madly in love with the king's daughter, Princess Melora. In order to fulfill her selfish wishes, he gathers his friends in order to overcome the impossible.",
+  "rank": 13862,
+  "popularity": 14345,
+  "num_list_users": 766,
+  "num_scoring_users": 137,
+  "nsfw": "white",
+  "created_at": "2016-01-25T08:04:07+00:00",
+  "updated_at": "2021-03-14T08:37:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "19:25"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 1404,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    },
+    {
+      "id": 1231,
+      "name": "OLM Digital"
+    }
+  ]
+}

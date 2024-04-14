@@ -1,0 +1,52 @@
+{
+  "id": 57117,
+  "title": "Dinoster: Gonglyongsuhodae",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1209/139580.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1209/139580l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dinoster",
+    "ja": "다이노스터: 공룡수호대"
+  },
+  "start_date": "2023-08-28",
+  "end_date": "2023-11-20",
+  "synopsis": "",
+  "rank": 19230,
+  "popularity": 21058,
+  "num_list_users": 158,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2023-11-10T11:40:02+00:00",
+  "updated_at": "2024-01-05T12:44:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 740,
+  "rating": "pg_13",
+  "studios": []
+}

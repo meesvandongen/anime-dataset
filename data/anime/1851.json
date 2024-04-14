@@ -1,0 +1,67 @@
+{
+  "id": 1851,
+  "title": "Haou Taikei Ryuu Knight: Adeu Legend Final",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/65709.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/65709l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haou Taikei Ryu Knight: Adeu Legend Final - Onsen Dungeon no Kettou"
+    ],
+    "en": "Lord of Lords Ryu Knight: Adeu's Legend Final",
+    "ja": "覇王大系リューナイト アデュー・レジェンド・ファイナル 温泉ダンジョンの決闘"
+  },
+  "start_date": "1996-05-25",
+  "end_date": "1996-05-25",
+  "synopsis": "End of the series.",
+  "mean": 6.18,
+  "rank": 8653,
+  "popularity": 13498,
+  "num_list_users": 968,
+  "num_scoring_users": 263,
+  "nsfw": "white",
+  "created_at": "2007-01-15T01:31:15+00:00",
+  "updated_at": "2023-11-03T16:36:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

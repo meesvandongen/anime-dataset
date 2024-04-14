@@ -1,0 +1,54 @@
+{
+  "id": 3089,
+  "title": "The Sky Crawlers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/8212.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/8212l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Sky Crawlers",
+    "ja": "スカイ・クロラ"
+  },
+  "start_date": "2008-08-02",
+  "end_date": "2008-08-02",
+  "synopsis": "In an alternate timeline, the world has seemingly achieved peace. Bereft of international conflicts, wars are now waged between private corporations in place of peaceful nations. Yuuichi Kannami, a recent transfer in Area 262, simply does his job as a contracted fighter pilot. However, the more time he spends at his new base, the more mysteries come to light.\n\nThe Sky Crawlers exhibits this reality through the eyes of Kannami as he endeavors to understand the \"Kildren,\" humans genetically altered to be teenagers forever with faster reflexes, and his predecessor, the ace pilot known as \"Teacher.\" However, what troubles Kannami the most is how all this connects to the base commander, Suito Kusanagi. Area 262 has the answers, but the truth comes with a price the young pilot may not be ready to pay.\n\n[Written by MAL Rewrite]",
+  "mean": 7.27,
+  "rank": 2894,
+  "popularity": 2897,
+  "num_list_users": 57261,
+  "num_scoring_users": 24763,
+  "nsfw": "white",
+  "created_at": "2007-09-06T19:07:26+00:00",
+  "updated_at": "2022-10-12T15:26:52+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 7342,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 646,
+  "title": "Haunted Junction",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1163/94507.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1163/94507l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "HAUNTED じゃんくしょん"
+  },
+  "start_date": "1997-04-02",
+  "end_date": "1997-06-25",
+  "synopsis": "Saito High is a high school with its spiritual beings and a principal whose hobby is collecting occult paraphernalia. The school has the prophecy-chosen members of the Holy Student Council to protect it. These students have problems of their own; Haruto Houjo, the president, has a way of summoning spirits, and would resign from his duty for a normal life if it weren't for the principal. Kazumi Ryodo, the next member, is good at being possessed and has something for the Hanako. The last member is Mutsuki Asahina, who is a master of exorcism and is attracted to small boys. Unfortunately, these three are in charge of keeping the school in line and defending the world from supernatural beings, and this mission brings them through wacky predicaments.\n\n(Source: ANN)",
+  "mean": 6.7,
+  "rank": 5770,
+  "popularity": 8642,
+  "num_list_users": 4696,
+  "num_scoring_users": 1722,
+  "nsfw": "white",
+  "created_at": "2006-02-02T16:03:22+00:00",
+  "updated_at": "2022-04-08T20:40:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:45"
+  },
+  "source": "manga",
+  "average_episode_duration": 1455,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

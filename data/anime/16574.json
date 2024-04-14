@@ -1,0 +1,63 @@
+{
+  "id": 16574,
+  "title": "Yu☆Gi☆Oh! Zexal Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/44710.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/44710l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yugioh",
+      "Yuu Gi Ou! Zexal Special",
+      "Yu-Gi-Oh! Zexal Special",
+      "Yu☆Gi☆Oh! Zexal: Uchimura Kouhei Senshu mo Deru yo Special"
+    ],
+    "en": "",
+    "ja": "めざせ世界一!「遊戯王ZEXAL」内村航平選手も出るよスペシャル"
+  },
+  "start_date": "2012-09-17",
+  "end_date": "2012-09-17",
+  "synopsis": "A short special aired in the middle of information about Yu-Gi-Oh! with real people.\n\nKotori takes Yuma to the gymnastics club at their school to cheer on her friend. There they meet the ace of the club, Kimura Taiki, who plans to quit after a recent loss at a competition. To cheer him up, Yuma challenges him to a duel.",
+  "mean": 6.2,
+  "rank": 8550,
+  "popularity": 8088,
+  "num_list_users": 5579,
+  "num_scoring_users": 1789,
+  "nsfw": "white",
+  "created_at": "2012-12-09T05:30:46+00:00",
+  "updated_at": "2022-02-07T05:26:06+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

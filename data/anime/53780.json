@@ -1,0 +1,54 @@
+{
+  "id": 53780,
+  "title": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1285/131672.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1285/131672l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detective Conan: Ai Haibara's Story - Jet-Black Mystery Train",
+    "ja": "名探偵コナン 灰原哀物語～黒鉄（くろがね）のミステリートレイン～"
+  },
+  "start_date": "2023-01-06",
+  "end_date": "2023-01-06",
+  "synopsis": "The movie will focus on Ai Haibara's past and will reconstruct the Mystery Train arc from the television anime, which shows Haibara and Conan meeting for the first time. The movie will also include scenes from the Kurogane no Submarine (Black Iron Submarine) movie.\n\n(Source: MAL News)",
+  "mean": 7.29,
+  "rank": 2775,
+  "popularity": 9364,
+  "num_list_users": 3659,
+  "num_scoring_users": 1091,
+  "nsfw": "white",
+  "created_at": "2022-12-07T03:21:38+00:00",
+  "updated_at": "2023-11-25T13:20:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 5347,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

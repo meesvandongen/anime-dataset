@@ -1,0 +1,59 @@
+{
+  "id": 6124,
+  "title": "Toshishun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/74759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/74759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Du Ziqun"
+    ],
+    "en": "",
+    "ja": "杜子春"
+  },
+  "start_date": "1981-12-04",
+  "end_date": "1981-12-04",
+  "synopsis": "A traditional Chinese tale entitled Tu Tze-chun that tells the story of a young man who becomes rich when he finds buried treasure only to lose it all leading a life of extravagance. This version is formally an adaptation of Ryuunosuke Akutagawa's telling of the tale titled Toshishun, he is known as the \"father of Japanese short stories\"  and Japan's premier literary award, the Akutagawa Prize, is named after him. \n\n(Source: Google Books)",
+  "mean": 5.55,
+  "rank": 11453,
+  "popularity": 16325,
+  "num_list_users": 468,
+  "num_scoring_users": 148,
+  "nsfw": "white",
+  "created_at": "2009-02-25T16:24:04+00:00",
+  "updated_at": "2024-02-04T18:10:16+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1981,
+    "season": "fall"
+  },
+  "source": "book",
+  "average_episode_duration": 1255,
+  "rating": "pg",
+  "studios": []
+}

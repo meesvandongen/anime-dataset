@@ -1,0 +1,49 @@
+{
+  "id": 31368,
+  "title": "Grisaia no Rakuen Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/75439.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/75439l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Eden of Grisaia Specials",
+      "Le Eden de la Grisaia Specials"
+    ],
+    "en": "",
+    "ja": "グリザイアの楽園"
+  },
+  "start_date": "2015-08-26",
+  "end_date": "2015-12-25",
+  "synopsis": "Short specials included in the Blu-ray and DVD releases.",
+  "mean": 7.03,
+  "rank": 4186,
+  "popularity": 2781,
+  "num_list_users": 61868,
+  "num_scoring_users": 31877,
+  "nsfw": "white",
+  "created_at": "2015-07-29T20:02:42+00:00",
+  "updated_at": "2022-03-26T21:49:08+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 180,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

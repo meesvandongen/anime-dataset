@@ -1,0 +1,62 @@
+{
+  "id": 41916,
+  "title": "You Yao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1821/108124.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1821/108124l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Are You OK?",
+    "ja": "有药"
+  },
+  "start_date": "2020-07-10",
+  "end_date": "2020-09-18",
+  "synopsis": "The current government is seeking outsiders and granting them positions according to their abilities in order to update their backwards country and create a new world! Zuo Yunqi is just an ordinary young master, but to save his father, he disguises himself as an outsider to join the government.\n\nUnfortunately, his disguise is broken by a man hired specifically to identify who's a real outsider and who isn't. In their battle of wits, the two of them end up in many comedic situations and eventually become allies. As the two of them stop a shocking conspiracy, they discover that some of the outsiders have formed their own alliance to revolt against those in power and create a new society of peace and equality. Zuo Yunqi and his friends are forced to join in and become a part of this battle...\n\n(Source: Baidu)",
+  "mean": 6.76,
+  "rank": 5417,
+  "popularity": 9507,
+  "num_list_users": 3485,
+  "num_scoring_users": 585,
+  "nsfw": "white",
+  "created_at": "2020-05-09T06:34:37+00:00",
+  "updated_at": "2023-11-28T20:37:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2058,
+      "name": "Shengying Animation"
+    }
+  ]
+}

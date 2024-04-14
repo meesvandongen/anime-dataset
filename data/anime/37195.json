@@ -1,0 +1,46 @@
+{
+  "id": 37195,
+  "title": "Arigatou (2010)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1796/90250.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1796/90250l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ありがとう"
+  },
+  "start_date": "2010-02-01",
+  "end_date": "2010-02-01",
+  "synopsis": "A song about how encounters in your casual life and ability to connect with others through smiling is a treasure that carries with you for a lifetime.",
+  "mean": 5.52,
+  "popularity": 18801,
+  "num_list_users": 282,
+  "num_scoring_users": 126,
+  "nsfw": "white",
+  "created_at": "2018-01-24T10:40:57+00:00",
+  "updated_at": "2019-04-22T13:50:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 148,
+  "rating": "g",
+  "studios": []
+}

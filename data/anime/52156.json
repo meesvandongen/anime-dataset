@@ -1,0 +1,40 @@
+{
+  "id": 52156,
+  "title": "Tousan Maigo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1082/124632.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1082/124632l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "I Lost My Dad!",
+    "ja": "とうさんまいご"
+  },
+  "start_date": "2001-06-27",
+  "end_date": "2001-06-27",
+  "synopsis": "Episode 1 - Guru Guru Doubutsu\nEpisode 2 - Batta-kun\nEpisode 3 - Akachan\nEpisode 4 - Tou-san Maigo\nEpisode 5 - Shiritori Guru Guru\nEpisode 6 - Umi wa Hiroi ne, Ojii-chan\n\n(Source: Official Site)",
+  "rank": 14008,
+  "popularity": 21922,
+  "num_list_users": 119,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2022-06-20T01:22:29+00:00",
+  "updated_at": "2023-11-01T07:52:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 240,
+  "rating": "g",
+  "studios": []
+}

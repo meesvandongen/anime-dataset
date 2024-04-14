@@ -1,0 +1,62 @@
+{
+  "id": 49285,
+  "title": "Waccha PriMagi!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1522/117595.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1522/117595l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Waccha PriMagi!",
+    "ja": "ワッチャプリマジ！"
+  },
+  "start_date": "2021-10-03",
+  "end_date": "2022-10-09",
+  "synopsis": "The new series continues the Pretty Series' conceptual motifs of song, dance, and fashion, and it also adds the theme of magic. Middle-school first-year student Matsuri Hibino loves festivals, and she dreams of one day being able to star in \"PriMagi,\" a magic-like form of stage entertainment borne from song, dance and fashion. That day arrives when the hyper-spirited, trouble-making magician Myamu arrives from the magical realm and scouts Matsuri for PriMagi. Together, the two compete with rivals to rise to the top of PriMagi.\n\n(Source: ANN)",
+  "mean": 7.11,
+  "rank": 3780,
+  "popularity": 8140,
+  "num_list_users": 5512,
+  "num_scoring_users": 1173,
+  "nsfw": "white",
+  "created_at": "2021-06-24T23:33:44+00:00",
+  "updated_at": "2023-01-05T18:18:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "10:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    },
+    {
+      "id": 1025,
+      "name": "Dongwoo A&E"
+    }
+  ]
+}

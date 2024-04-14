@@ -1,0 +1,39 @@
+{
+  "id": 21761,
+  "title": "Ari to Hato",
+  "alternative_titles": {
+    "synonyms": [
+      "The Ant and the Pigeon",
+      "Ari to Hato (1918)"
+    ],
+    "en": "",
+    "ja": "蟻と鳩"
+  },
+  "start_date": "1918-07-18",
+  "end_date": "1918-07-18",
+  "synopsis": "In this tale an ant and a pigeon help each other.",
+  "rank": 18231,
+  "popularity": 16317,
+  "num_list_users": 469,
+  "num_scoring_users": 71,
+  "nsfw": "white",
+  "created_at": "2013-12-24T23:35:08+00:00",
+  "updated_at": "2021-01-14T22:55:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1918,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

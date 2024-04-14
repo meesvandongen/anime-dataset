@@ -1,0 +1,58 @@
+{
+  "id": 37781,
+  "title": "Overlord: Ple Ple Pleiades 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1386/93157.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1386/93157l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "オーバーロード　ぷれぷれぷれあです3"
+  },
+  "start_date": "2018-07-10",
+  "end_date": "2018-10-02",
+  "synopsis": "Super deformed parody shorts of Overlord III streamed on Kadokawa's official YouTube channel. \n",
+  "mean": 6.81,
+  "rank": 5162,
+  "popularity": 3969,
+  "num_list_users": 31534,
+  "num_scoring_users": 15183,
+  "nsfw": "white",
+  "created_at": "2018-04-24T09:49:30+00:00",
+  "updated_at": "2022-01-21T06:46:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 443,
+      "name": "Studio PuYUKAI"
+    }
+  ]
+}

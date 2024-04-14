@@ -1,0 +1,52 @@
+{
+  "id": 5184,
+  "title": "Negibouzu no Asatarou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/29843.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/29843l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ねぎぼうずのあさたろう"
+  },
+  "start_date": "2008-10-12",
+  "end_date": "2009-09-27",
+  "synopsis": "Based on a picture book about a onion-headed samurai named Asatarou.",
+  "rank": 16787,
+  "popularity": 16151,
+  "num_list_users": 486,
+  "num_scoring_users": 82,
+  "nsfw": "white",
+  "created_at": "2008-09-03T00:28:30+00:00",
+  "updated_at": "2017-04-26T13:35:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 48,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1540,
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

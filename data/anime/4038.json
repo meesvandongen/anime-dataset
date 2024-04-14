@@ -1,0 +1,64 @@
+{
+  "id": 4038,
+  "title": "Zettai Karen Children",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/75581.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/75581l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Absolutely Lovely Children",
+      "ZKC"
+    ],
+    "en": "Psychic Squad",
+    "ja": "絶対可憐チルドレン"
+  },
+  "start_date": "2008-04-06",
+  "end_date": "2009-03-29",
+  "synopsis": "They're cute, adorable and three of the most powerful Espers the world has ever seen: Kaoru, the brash psychokinetic who can move objects with her mind; Shiho, the sarcastic and dark natured psychometric able to pick thoughts from people's minds and read the pasts of inanimate objects like a book; and Aoi, the most collected and rational of the three, who has the ability to teleport herself and the others at will. So what to do with these potential psychic monsters in the making? Enter B.A.B.E.L., the Base of Backing ESP Laboratory, where hopefully \"The Children\" and others like them can become part of the answer to an increasing wave of psychic evolution. It's a win-win solution... Unless you're Koichi Minamoto, the overworked young man stuck with the unenviable task of field commanding a team of three pre-teen girls! \n\n(Source: Sentai Filmworks) ",
+  "mean": 7.29,
+  "rank": 2798,
+  "popularity": 3217,
+  "num_list_users": 46698,
+  "num_scoring_users": 12083,
+  "nsfw": "white",
+  "created_at": "2008-03-02T09:59:09+00:00",
+  "updated_at": "2022-02-09T16:23:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday"
+  },
+  "source": "manga",
+  "average_episode_duration": 1479,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

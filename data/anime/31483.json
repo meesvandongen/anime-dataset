@@ -1,0 +1,61 @@
+{
+  "id": 31483,
+  "title": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/77943.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/77943l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Akagami no Shirayuki-hime OVA",
+      "Akagami no Shirayukihime OVA"
+    ],
+    "en": "Snow White with the Red Hair OVA",
+    "ja": "赤髪の白雪姫 ～なんでもない宝物、この頁～"
+  },
+  "start_date": "2016-01-05",
+  "end_date": "2016-01-05",
+  "synopsis": "Bundled with the limited edition 15th volume of the manga.\n\nChapters adapted\n1. Volume 10, Chapter 41: Shirayuki to Zen, Hajimete no Joukamachi Date (白雪とゼン、はじめての城下町デート)\n2. Volume 7, Special Chapter: Raji Ouji Youshou no Migiri (ラジ王子幼少のみぎり)\n3. Volume 11, Special Chapter: Hajimari no Zen & Mitsuhide & Kiki (始まりのゼン＆ミツヒデ＆木々)",
+  "mean": 7.71,
+  "rank": 1192,
+  "popularity": 2374,
+  "num_list_users": 79934,
+  "num_scoring_users": 39446,
+  "nsfw": "white",
+  "created_at": "2015-08-21T16:56:29+00:00",
+  "updated_at": "2022-04-16T09:15:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1441,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

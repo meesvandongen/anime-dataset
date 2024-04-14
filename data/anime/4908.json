@@ -1,0 +1,48 @@
+{
+  "id": 4908,
+  "title": "Bihada Ichizoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/19268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/19268l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Junai Cosmetic Comic: Bihada Ichizoku",
+      "Pure Love Cosmetic Comic: Bihada Family"
+    ],
+    "en": "",
+    "ja": "美肌一族"
+  },
+  "start_date": "2008-10-07",
+  "end_date": "2008-12-23",
+  "synopsis": "There is a World Beautiful-Skin Competition (WBC) to which the 3 billion women of the world aspire. Carrying on the 300-year legacy of the competition are the twin Bihada sisters, Sara and Saki.",
+  "mean": 5.75,
+  "rank": 10665,
+  "popularity": 8445,
+  "num_list_users": 5005,
+  "num_scoring_users": 1528,
+  "nsfw": "white",
+  "created_at": "2008-07-14T07:31:51+00:00",
+  "updated_at": "2023-09-18T09:20:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 530,
+  "rating": "pg_13",
+  "studios": []
+}

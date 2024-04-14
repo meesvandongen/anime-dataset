@@ -1,0 +1,58 @@
+{
+  "id": 31798,
+  "title": "Kiznaiver",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/78466.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/78466l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kiznaiver",
+    "ja": "キズナイーバー"
+  },
+  "start_date": "2016-04-09",
+  "end_date": "2016-06-25",
+  "synopsis": "Katsuhira Agata is a quiet and reserved teenage boy whose sense of pain has all but vanished. His friend, Chidori Takashiro, can only faintly remember the days before Katsuhira had undergone this profound change. Now, his muffled and complacent demeanor make Katsuhira a constant target for bullies, who exploit him for egregious sums of money. But their fists only just manage to make him blink, as even emotions are far from his grasp.\n\nHowever, one day Katsuhira, Chidori, and four other teenagers are abducted and forced to join the Kizuna System as official \"Kiznaivers.\" Those taking part are connected through pain: if one member is injured, the others will feel an equal amount of agony. These individuals must become the lab rats and scapegoats of an incomplete system designed with world peace in mind. With their fates literally intertwined, the Kiznaivers must expose their true selves to each other, or risk failing much more than just the Kizuna System.\n\n[Written by MAL Rewrite]",
+  "mean": 7.37,
+  "rank": 2405,
+  "popularity": 263,
+  "num_list_users": 741780,
+  "num_scoring_users": 358863,
+  "nsfw": "white",
+  "created_at": "2015-10-08T08:23:00+00:00",
+  "updated_at": "2022-09-19T16:00:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 803,
+      "name": "Trigger"
+    }
+  ]
+}

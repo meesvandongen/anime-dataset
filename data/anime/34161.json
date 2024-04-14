@@ -1,0 +1,60 @@
+{
+  "id": 34161,
+  "title": "Overlord Movie 1: Fushisha no Ou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/87759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/87759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Overlord"
+    ],
+    "en": "Overlord: The Undead King",
+    "ja": "【前編】劇場版総集編 オーバーロード 不死者の王"
+  },
+  "start_date": "2017-02-25",
+  "end_date": "2017-02-25",
+  "synopsis": "First Overlord recap film.",
+  "mean": 7.62,
+  "rank": 1441,
+  "popularity": 2265,
+  "num_list_users": 86809,
+  "num_scoring_users": 29121,
+  "nsfw": "white",
+  "created_at": "2016-09-29T07:18:14+00:00",
+  "updated_at": "2023-08-06T12:08:27+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 6141,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

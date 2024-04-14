@@ -1,0 +1,63 @@
+{
+  "id": 41884,
+  "title": "Ling Jian Zun 4th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1972/108157.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1972/108157l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spirit Sword Sovereign 4th Season"
+    ],
+    "en": "",
+    "ja": "灵剑尊 第四季"
+  },
+  "start_date": "2020-09-08",
+  "synopsis": "Fourth season of Ling Jian Zun.",
+  "mean": 7.09,
+  "rank": 3837,
+  "popularity": 10107,
+  "num_list_users": 2831,
+  "num_scoring_users": 854,
+  "nsfw": "white",
+  "created_at": "2020-05-05T21:51:06+00:00",
+  "updated_at": "2023-05-04T14:09:10+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2059,
+      "name": "Suoyi Technology"
+    }
+  ]
+}

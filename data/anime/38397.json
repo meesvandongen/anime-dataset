@@ -1,0 +1,64 @@
+{
+  "id": 38397,
+  "title": "Nande Koko ni Sensei ga!?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1765/99673.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1765/99673l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nankoko"
+    ],
+    "en": "Why the Hell are You Here, Teacher!?",
+    "ja": "なんでここに先生が!?"
+  },
+  "start_date": "2019-04-08",
+  "end_date": "2019-06-24",
+  "synopsis": "Second year high school student Ichirou Satou has always been an average person—that is, until he runs into some not-so-average situations with his teacher, Kana \"The Demon\" Kojima. Kojima is Satou's Japanese language teacher with a reputation for being so ruthless that even school delinquents bow down to her. One fateful day, things escalate when Satou runs into Kojima in the restroom, leading them to share an intimate encounter that makes his imagination run wild for days after. \n\nNande Koko ni Sensei ga? follows the daily life of Satou and his teacher as they continue to meet under similar conditions, growing ever closer with each encounter.\n\n[Written by MAL Rewrite]",
+  "mean": 6.5,
+  "rank": 6906,
+  "popularity": 667,
+  "num_list_users": 352130,
+  "num_scoring_users": 179473,
+  "nsfw": "gray",
+  "created_at": "2018-09-26T08:31:28+00:00",
+  "updated_at": "2023-07-29T16:39:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 690,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1890,
+      "name": "Tear Studio"
+    }
+  ]
+}

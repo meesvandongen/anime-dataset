@@ -1,0 +1,61 @@
+{
+  "id": 43692,
+  "title": "Gokushufudou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1535/117726.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1535/117726l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Way of the House Husband",
+      "Yakuza goes Houseman"
+    ],
+    "en": "The Way of the Househusband",
+    "ja": "極主夫道"
+  },
+  "start_date": "2021-04-08",
+  "end_date": "2021-04-08",
+  "synopsis": "Who would have ever thought that the most feared gangster of his time now spends his days as a modest househusband? Seemingly giving up the way of the yakuza, the legendary \"Immortal Dragon\" Tatsu, best known for his prolific skirmishes against rival gangs, has abruptly vanished. Unbeknownst to most, however, Tatsu is currently staying at an apartment with his wife, doing his best to live a peaceful life.\n\nDonning his trusty apron, Tatsu is now striving to become an efficient homemaker. Because of this, he has mastered the required skills—be it cooking the most delicious dishes, making sure to get the best deals at supermarkets, and everything in between—garnering the surprise of both of his former subordinates and enemies alike. Despite being a man with quite a controversial past, Tatsu's new way of life will only be more eccentric from here on out!\n\n[Written by MAL Rewrite]",
+  "mean": 7.24,
+  "rank": 3072,
+  "popularity": 549,
+  "num_list_users": 418370,
+  "num_scoring_users": 238711,
+  "nsfw": "white",
+  "created_at": "2020-10-27T03:32:50+00:00",
+  "updated_at": "2023-07-31T09:16:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1048,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

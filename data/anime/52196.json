@@ -1,0 +1,73 @@
+{
+  "id": 52196,
+  "title": "Date A Live V",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1659/141438.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1659/141438l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Date A Live 5",
+      "Date A Live Fifth Season",
+      "DAL 5"
+    ],
+    "en": "Date A Live V",
+    "ja": "デート・ア・ライブⅤ"
+  },
+  "start_date": "2024-04-10",
+  "synopsis": "Fifth season of Date A Live. ",
+  "mean": 8.1,
+  "rank": 485,
+  "popularity": 2407,
+  "num_list_users": 78313,
+  "num_scoring_users": 3291,
+  "nsfw": "white",
+  "created_at": "2022-06-24T14:12:18+00:00",
+  "updated_at": "2024-04-10T15:00:33+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1857,
+      "name": "Geek Toys"
+    }
+  ]
+}

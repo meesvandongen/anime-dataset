@@ -1,0 +1,45 @@
+{
+  "id": 42799,
+  "title": "Nakado Riku Animation: Hijouyou Mochidashi Bukuro wo Youi Shiyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1068/109076.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1068/109076l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "中通りく アニメーション 非常用持ち出し袋を用意しよう"
+  },
+  "start_date": "2019-03-11",
+  "end_date": "2019-03-11",
+  "synopsis": "For the 8th anniversary of the Great East Japan Earthquake, Fukushima Prefecture support character Nakado Riku and her friends teach us how to prepare an earthquake survival kit.",
+  "rank": 16726,
+  "popularity": 20321,
+  "num_list_users": 198,
+  "num_scoring_users": 77,
+  "nsfw": "white",
+  "created_at": "2020-09-03T23:48:09+00:00",
+  "updated_at": "2020-09-03T23:48:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2151,
+      "name": "Ekakiya"
+    }
+  ]
+}

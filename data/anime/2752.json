@@ -1,0 +1,53 @@
+{
+  "id": 2752,
+  "title": "Tennis no Oujisama: Zenkoku Taikai-hen - Semifinal",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1640/133533.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1640/133533l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Prince of Tennis OVA 2",
+      "Prince of Tennis OVA Semifinal"
+    ],
+    "en": "The Prince of Tennis: The National Tournament Semifinals",
+    "ja": "テニスの王子様 全国大会篇 Semifinal"
+  },
+  "start_date": "2007-06-22",
+  "end_date": "2008-01-25",
+  "synopsis": "The National Tournament continues for Ryouma Echizen and the Seishun Academy Boys' Tennis Team as they face off against last year's semifinalist, Shitenhouji Middle School. As winners of the Kansai Regionals, Shitenhouji is one of the top contenders to win this year's tournament. What's more, each member of the Shitenhouji team has skills that are said to surpass their Seishun counterparts. Shitenhouji also has Kintarou Tooyama, another \"super rookie\" who rivals Ryouma in strength and technique. Seishun will have to push the limits of their abilities to stand a chance at defeating the Kansai champions in this East versus West matchup.\n\n[Written by MAL Rewrite]",
+  "mean": 7.88,
+  "rank": 814,
+  "popularity": 3653,
+  "num_list_users": 37294,
+  "num_scoring_users": 20569,
+  "nsfw": "white",
+  "created_at": "2007-06-30T10:04:09+00:00",
+  "updated_at": "2023-07-18T07:23:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 463,
+      "name": "M.S.C"
+    }
+  ]
+}

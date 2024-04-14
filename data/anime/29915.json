@@ -1,0 +1,45 @@
+{
+  "id": 29915,
+  "title": "Junai Maniac",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1987/115151.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1987/115151l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pure Love Maniac",
+    "ja": "純愛まにあっく"
+  },
+  "start_date": "2015-04-17",
+  "end_date": "2015-07-17",
+  "synopsis": "Based on the adult manga by Sayu Ayuma.",
+  "mean": 6.47,
+  "popularity": 8080,
+  "num_list_users": 5601,
+  "num_scoring_users": 1905,
+  "nsfw": "gray",
+  "created_at": "2015-02-07T08:39:15+00:00",
+  "updated_at": "2023-01-24T12:37:55+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1245,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 407,
+      "name": "Studio 9 Maiami"
+    }
+  ]
+}

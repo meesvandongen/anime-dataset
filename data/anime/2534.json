@@ -1,0 +1,68 @@
+{
+  "id": 2534,
+  "title": "Angelique",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1479/94792.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1479/94792l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Angelique OVA 4"
+    ],
+    "en": "",
+    "ja": "オリジナルビデオアニメーション アンジェリーク"
+  },
+  "start_date": "2004-03-17",
+  "end_date": "2005-03-23",
+  "synopsis": "Angelique Limoges and Rosalia de Catargena have been chosen as candidates in a Queen Examination - a test to see who is better qualified to be the next Queen of the cosmos. For this special examination, both girls are given their own continent on a planet. The girls must raise the continents into thriving civilizations and environments. Nine Guardians (who control various elements, such as fire, wind, and water) have been chosen to help the girls raise their continents during the Queen Examination.\n\n(Source: ANN)",
+  "mean": 6.27,
+  "rank": 8194,
+  "popularity": 7595,
+  "num_list_users": 6496,
+  "num_scoring_users": 2102,
+  "nsfw": "white",
+  "created_at": "2007-05-27T16:57:47+00:00",
+  "updated_at": "2023-09-18T09:11:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
+}

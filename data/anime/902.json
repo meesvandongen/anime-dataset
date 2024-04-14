@@ -1,0 +1,66 @@
+{
+  "id": 902,
+  "title": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1730/93672.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1730/93672l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon Ball Z: Bojack Unbound",
+    "ja": "ドラゴンボールZ 銀河ギリギリ!!ぶっちぎりの凄い奴"
+  },
+  "start_date": "1993-07-10",
+  "end_date": "1993-07-10",
+  "synopsis": "Mr. Money is holding another Tenka'ichi Budokai and Mr. Satan invites everyone in the world to join in. Little does he know that Bojack, an ancient villain who has escaped his prison, is competing. Since Goku is currently dead, it is up to Gohan, Vegeta, and Trunks to defeat Bojack and his henchman.",
+  "mean": 7.11,
+  "rank": 3755,
+  "popularity": 1793,
+  "num_list_users": 122044,
+  "num_scoring_users": 76203,
+  "nsfw": "white",
+  "created_at": "2006-04-15T06:55:06+00:00",
+  "updated_at": "2022-04-07T18:28:27+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 3000,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

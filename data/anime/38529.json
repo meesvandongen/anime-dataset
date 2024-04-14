@@ -1,0 +1,70 @@
+{
+  "id": 38529,
+  "title": "Rifle Is Beautiful",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1874/100747.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1874/100747l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Chidori RSC",
+    "ja": "ライフル・イズ・ビューティフル"
+  },
+  "start_date": "2019-10-13",
+  "end_date": "2020-01-18",
+  "synopsis": "Rifle-shooting sports are competitive activities testing accuracy and precision using a rifle. In Japan, carrying firearms is prohibited, so most of the participants are members of the defense force. When the use of rifles using a light beam instead of real bullets as ammunition became common, rifle-shooting competitions became accessible to the younger population, giving way to school contests.\n\nFirst-year high school student and marksmanship enthusiast Hikari Kokura has just transferred to Chidori High School. She tries to join the club of her choice, but finds out that the club no longer exists due to the low popularity of the sport. Distraught, she tries to restore the club and somehow manages to recruit three other members: her childhood friend Izumi Shibusawa, the half-Russian Erika Meinohama, and the stoic Yukio Igarashi.\n\nThis marks the beginning of the Chidori Rifle-Shooting Club, who have only one goal—to compete on the national stage!\n\n[Written by MAL Rewrite]",
+  "mean": 6.18,
+  "rank": 8672,
+  "popularity": 3584,
+  "num_list_users": 38766,
+  "num_scoring_users": 11573,
+  "nsfw": "white",
+  "created_at": "2018-10-15T09:16:44+00:00",
+  "updated_at": "2023-04-11T11:31:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:00"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1127,
+      "name": "Studio 3Hz"
+    }
+  ]
+}

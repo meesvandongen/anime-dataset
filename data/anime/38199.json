@@ -1,0 +1,61 @@
+{
+  "id": 38199,
+  "title": "Bermuda Triangle: Colorful Pastrale",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1449/93947.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1449/93947l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Colorful Pastrale: From Bermuda Triangle",
+      "Bermuda△: Colorful Pastrale"
+    ],
+    "en": "",
+    "ja": "バミューダトライアングル ～カラフル・パストラーレ～"
+  },
+  "start_date": "2019-01-12",
+  "end_date": "2019-03-30",
+  "synopsis": "The glittering spotlights. The sparkling, fluffy, cute outfits. The charming voices while dancing with bright smiles. Under the dazzling lights on the big city stage, these would be the mermaid idols who swim and dance freely underwater.\n\nBut far from this big city, the girls once lived in the peaceful village of Parrel. These girls, who would not even imagine such a glittering future for themselves, are instead just raising a fuss over the snack cakes they are eating. This is the story of the cheerful daily life of mermaids who strive their hardest everyday.\n\n(Source: Official website)",
+  "mean": 5.52,
+  "rank": 11523,
+  "popularity": 6778,
+  "num_list_users": 8585,
+  "num_scoring_users": 2622,
+  "nsfw": "white",
+  "created_at": "2018-08-18T22:49:13+00:00",
+  "updated_at": "2022-04-08T14:04:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1569,
+      "name": "Seven Arcs Pictures"
+    }
+  ]
+}

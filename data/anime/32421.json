@@ -1,0 +1,51 @@
+{
+  "id": 32421,
+  "title": "Aikodesho",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/77796.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/77796l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "あいこでしょ"
+  },
+  "start_date": "1988-08-02",
+  "end_date": "1988-08-02",
+  "synopsis": "A music video for the song \"Aikodesho\" by Yuuki Kudou. Aired as part of NHK's Minna no Uta program.",
+  "mean": 5.02,
+  "popularity": 16355,
+  "num_list_users": 465,
+  "num_scoring_users": 200,
+  "nsfw": "white",
+  "created_at": "2015-12-26T09:18:09+00:00",
+  "updated_at": "2020-03-15T19:52:52+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

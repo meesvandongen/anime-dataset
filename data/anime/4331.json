@@ -1,0 +1,52 @@
+{
+  "id": 4331,
+  "title": "Penguin no Mondai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/9560.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/9560l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A Penguin's Troubles"
+    ],
+    "en": "",
+    "ja": "ペンギンの問題"
+  },
+  "start_date": "2008-04-05",
+  "end_date": "2009-03-20",
+  "synopsis": "About the daily lives of a boy and his talking penguin.",
+  "mean": 5.88,
+  "rank": 10121,
+  "popularity": 13886,
+  "num_list_users": 873,
+  "num_scoring_users": 306,
+  "nsfw": "white",
+  "created_at": "2008-04-15T07:59:46+00:00",
+  "updated_at": "2020-10-20T02:56:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 100,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 474,
+      "name": "Shogakukan Music & Digital Entertainment"
+    }
+  ]
+}

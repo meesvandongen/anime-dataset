@@ -1,0 +1,50 @@
+{
+  "id": 45618,
+  "title": "Dinosaur Biyori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1382/116139.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1382/116139l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ダイナ荘びより"
+  },
+  "start_date": "2021-04-04",
+  "end_date": "2021-09-26",
+  "synopsis": "The story follows the lives of three modern day dinosaurs as they share a room in the Dino-Shou (\"Dino Manor\") apartment building complex.\n\n(Source: Crunchyroll)",
+  "mean": 5.96,
+  "rank": 9760,
+  "popularity": 11061,
+  "num_list_users": 2114,
+  "num_scoring_users": 313,
+  "nsfw": "white",
+  "created_at": "2021-01-02T01:59:03+00:00",
+  "updated_at": "2023-01-13T10:07:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:57"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 866,
+      "name": "Fanworks"
+    }
+  ]
+}

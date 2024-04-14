@@ -1,0 +1,64 @@
+{
+  "id": 51614,
+  "title": "Ao no Orchestra",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1832/133754.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1832/133754l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Blue Orchestra"
+    ],
+    "en": "Blue Orchestra",
+    "ja": "青のオーケストラ"
+  },
+  "start_date": "2023-04-09",
+  "end_date": "2023-10-08",
+  "synopsis": "Once a prize-winning violin prodigy, Hajime gave up on music after his father, professional violinist Ryuuji Aono, was involved in a scandal that led the media to harass his family. Now living alone with his mother and entering his final year of middle school, Hajime struggles to find a new career path. However, the sound of his classmate Ritsuko Akine playing the violin inspires Hajime to dream of a musical career once more.\n\nWith the help of Ritsuko, Hajime prepares to take the entrance exam for the prestigious Umimaku High School. But if he wishes to join Umimaku's orchestra, Hajime must overcome his past trauma and open himself up to new musical horizons.\n\n[Written by MAL Rewrite]",
+  "mean": 7.15,
+  "rank": 3565,
+  "popularity": 2929,
+  "num_list_users": 55979,
+  "num_scoring_users": 14428,
+  "nsfw": "white",
+  "created_at": "2022-04-11T17:12:17+00:00",
+  "updated_at": "2023-09-24T07:49:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "17:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

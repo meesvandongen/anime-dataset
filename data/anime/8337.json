@@ -1,0 +1,54 @@
+{
+  "id": 8337,
+  "title": "Shoka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/21936.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/21936l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "書家"
+  },
+  "start_date": "2010-03-27",
+  "end_date": "2010-03-27",
+  "synopsis": "The story is set during the turbulent years of the shogunate, as dark forces try to undermine the shogun's power in Edo-era Tokyo. Shirou Sumiya is the leader of the \"Way of the Paper Drawing\" clan which captures the chaos of the struggles with rapid brush strokes. Sumiya is summoned to Edo, and his disciples, who have extraordinary powers in their secret drawing techniques, become part of the ensuring battles with giant drawn creatures. \n\n(Source: ANN)",
+  "mean": 5.93,
+  "rank": 9867,
+  "popularity": 8146,
+  "num_list_users": 5502,
+  "num_scoring_users": 2393,
+  "nsfw": "white",
+  "created_at": "2010-03-07T16:00:18+00:00",
+  "updated_at": "2023-12-27T18:30:45+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

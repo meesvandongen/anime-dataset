@@ -1,0 +1,75 @@
+{
+  "id": 9790,
+  "title": "Sora no Otoshimono: Tokeijikake no Angeloid",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1551/112732.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1551/112732l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Sora no Otoshimono: Tokeijikake no Angeloid",
+      "Sora no Otoshimono: The Movie",
+      "Lost Property of the Sky Movie",
+      "Misplaced by Heaven"
+    ],
+    "en": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
+    "ja": "劇場版 そらのおとしもの 時計じかけの哀女神（エンジェロイド）"
+  },
+  "start_date": "2011-06-25",
+  "end_date": "2011-06-25",
+  "synopsis": "Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc.",
+  "mean": 7.54,
+  "rank": 1722,
+  "popularity": 1675,
+  "num_list_users": 133084,
+  "num_scoring_users": 71319,
+  "nsfw": "gray",
+  "created_at": "2010-11-07T14:21:14+00:00",
+  "updated_at": "2023-05-13T09:15:51+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 5824,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 88,
+      "name": "AIC ASTA"
+    }
+  ]
+}

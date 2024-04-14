@@ -1,0 +1,51 @@
+{
+  "id": 9907,
+  "title": "Bokura no Live Kimi to no Life",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/50113.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/50113l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Love Live! School Idol Project: Bokura no Live Kimi to no Life"
+    ],
+    "en": "",
+    "ja": "僕らのLIVE 君とのLIFE"
+  },
+  "start_date": "2010-08-13",
+  "end_date": "2010-08-13",
+  "synopsis": "Love Live! School idol project. DVD bundled with the debut CD single of the fan-voted idol project.\n\n(Source: AniDB)",
+  "mean": 7.07,
+  "popularity": 4860,
+  "num_list_users": 19990,
+  "num_scoring_users": 9697,
+  "nsfw": "white",
+  "created_at": "2010-11-27T10:52:59+00:00",
+  "updated_at": "2023-12-23T07:02:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

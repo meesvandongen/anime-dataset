@@ -1,0 +1,60 @@
+{
+  "id": 36923,
+  "title": "Nanatsu no Taizai: Imashime no Fukkatsu Joshou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/89656.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/89656l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nanatsu no Taizai: Imashime no Fukkatsu 00"
+    ],
+    "en": "The Seven Deadly Sins: Revival of The Commandments - Prologue",
+    "ja": "七つの大罪 戒めの復活 -序章-"
+  },
+  "start_date": "2018-01-06",
+  "end_date": "2018-01-06",
+  "synopsis": "An episode recapping Nanatsu no Taizai with additional scenes, aired before the new season in January 2018.",
+  "mean": 7.23,
+  "rank": 3106,
+  "popularity": 2667,
+  "num_list_users": 66327,
+  "num_scoring_users": 27083,
+  "nsfw": "white",
+  "created_at": "2017-12-10T04:56:48+00:00",
+  "updated_at": "2022-04-01T21:43:09+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1466,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

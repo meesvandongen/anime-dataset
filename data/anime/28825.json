@@ -1,0 +1,64 @@
+{
+  "id": 28825,
+  "title": "Himouto! Umaru-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/75086.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/75086l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Two-Faced Little Sister"
+    ],
+    "en": "Himouto! Umaru-chan",
+    "ja": "干物妹！うまるちゃん"
+  },
+  "start_date": "2015-07-09",
+  "end_date": "2015-09-24",
+  "synopsis": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl—that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun!\n\nHimouto! Umaru-chan is a cute story that follows the daily adventures of Umaru and Taihei, as they take care of—and put up with—each other the best they can, as well as the unbreakable bonds between friends and siblings.\n\n[Written by MAL Rewrite]",
+  "mean": 7.1,
+  "rank": 3807,
+  "popularity": 289,
+  "num_list_users": 689755,
+  "num_scoring_users": 382185,
+  "nsfw": "white",
+  "created_at": "2014-12-13T15:54:49+00:00",
+  "updated_at": "2022-04-29T19:43:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "02:14"
+  },
+  "source": "manga",
+  "average_episode_duration": 1442,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

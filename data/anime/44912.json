@@ -1,0 +1,47 @@
+{
+  "id": 44912,
+  "title": "Alibaba Dadao Qibing",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1144/127937.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1144/127937l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Alibaba and The Thief",
+    "ja": "阿里巴巴大盗奇兵"
+  },
+  "start_date": "2015-05-23",
+  "end_date": "2015-05-23",
+  "synopsis": "",
+  "rank": 18152,
+  "popularity": 22808,
+  "num_list_users": 96,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2020-12-18T16:02:40+00:00",
+  "updated_at": "2022-09-14T06:58:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "average_episode_duration": 4610,
+  "rating": "pg",
+  "studios": []
+}

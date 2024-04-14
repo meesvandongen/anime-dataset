@@ -1,0 +1,74 @@
+{
+  "id": 1051,
+  "title": "Ao no 6-gou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/20750.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/20750l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ao no 6-go",
+      "Ao no Rokugou",
+      "Ao no Rokugo"
+    ],
+    "en": "Blue Submarine No. 6",
+    "ja": "青の6号"
+  },
+  "start_date": "1998-10-25",
+  "end_date": "2000-03-25",
+  "synopsis": "The once famous and well respected scientist Zorndyke has bred a new genre of living being, one that thrives on the oceans and lives to destroy humans. Zorndyke believes it is time that the humans were relieved of their rule of the earth. It is up to Blue Submarine No. 6 and the rest of the Blue fleet to put an end to Zorndyke's madness and creations. \n\n(Source: ANN)\n",
+  "mean": 7,
+  "rank": 4307,
+  "popularity": 2867,
+  "num_list_users": 58254,
+  "num_scoring_users": 23609,
+  "nsfw": "white",
+  "created_at": "2006-06-01T19:27:41+00:00",
+  "updated_at": "2023-01-26T23:29:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1905,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

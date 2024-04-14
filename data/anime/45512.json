@@ -1,0 +1,44 @@
+{
+  "id": 45512,
+  "title": "Ruyi Ku Bao: Bao Li Long",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1668/131185.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1668/131185l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "如意酷宝之保丽龙"
+  },
+  "start_date": "2011-11",
+  "end_date": "2012-01",
+  "synopsis": "",
+  "rank": 17592,
+  "popularity": 23938,
+  "num_list_users": 79,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2020-12-24T06:18:46+00:00",
+  "updated_at": "2022-11-16T13:01:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": []
+}

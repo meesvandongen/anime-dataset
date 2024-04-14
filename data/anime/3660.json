@@ -1,0 +1,54 @@
+{
+  "id": 3660,
+  "title": "Mahou no Idol Pastel Yumi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/43623.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/43623l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magical Idol Pastel Yumi",
+    "ja": "魔法のアイドル パステルユーミ"
+  },
+  "start_date": "1986-03-07",
+  "end_date": "1986-08-29",
+  "synopsis": "Yumi is a girl who likes flowers and comics. When Kakimaru and Keshimaru, flower fairies, see Yumi in trouble, they decide to help her. They tell Yumi that flower fairies give magic tools to children who take care of flowers. Kakimaru and Keshimaru, which sees Yumi's pure affection towards flowers, decide to give her a magic cane and a pendant. By using the cane, any pictures she drew in the air takes form and becomes real. However, once the pendant starts to flash, there are only 30 seconds left before the power of the magic disappears. Yumi always tries to use her magical power in a good manner, but she is hasty and goofy. As a result, her magic often causes a big trouble around her.  This is the fourth series of Magical Girl Series.\n\n(Source: Studio Pierrot)",
+  "mean": 6.64,
+  "rank": 6058,
+  "popularity": 9566,
+  "num_list_users": 3420,
+  "num_scoring_users": 858,
+  "nsfw": "white",
+  "created_at": "2008-01-01T19:49:51+00:00",
+  "updated_at": "2023-09-18T04:40:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 1986,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1410,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

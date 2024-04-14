@@ -1,0 +1,50 @@
+{
+  "id": 3881,
+  "title": "Majokko Tickle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/6935.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/6935l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Magical Girl Tickle",
+      "Majokko Chikkuru",
+      "Magic Tikkle"
+    ],
+    "en": "",
+    "ja": "魔女っ子チックル"
+  },
+  "start_date": "1978-03-06",
+  "end_date": "1979-01-29",
+  "synopsis": "On Chiiko's 11th birthday, her father gives her a special book. Inside the book is a trapped witch, Majokko Tickle. When Chiiko frees Tickle from the book, she uses her magic to pass off as Chiiko's twin sister.\n\n(Source: ANN)",
+  "mean": 6.28,
+  "rank": 8131,
+  "popularity": 12047,
+  "num_list_users": 1508,
+  "num_scoring_users": 338,
+  "nsfw": "white",
+  "created_at": "2008-02-05T01:53:32+00:00",
+  "updated_at": "2023-09-18T01:04:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 45,
+  "start_season": {
+    "year": 1978,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

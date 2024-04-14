@@ -1,0 +1,46 @@
+{
+  "id": 26197,
+  "title": "Omedetou Jesus-sama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/66123.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/66123l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Happy Birthday Jesus"
+    ],
+    "en": "",
+    "ja": "おめでとうイエスさま"
+  },
+  "start_date": "2005-10-11",
+  "end_date": "2005-10-11",
+  "synopsis": "Tells the story of Jesus' birth in the manger that starts out with an angel coming to tell Mary that she's pregnant. ",
+  "rank": 17003,
+  "popularity": 17660,
+  "num_list_users": 361,
+  "num_scoring_users": 55,
+  "nsfw": "white",
+  "created_at": "2014-08-27T07:12:28+00:00",
+  "updated_at": "2022-04-14T01:11:23+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1200,
+  "rating": "g",
+  "studios": []
+}

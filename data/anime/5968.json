@@ -1,0 +1,60 @@
+{
+  "id": 5968,
+  "title": "Kinnikuman II Sei: Ultimate Muscle 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/14986.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/14986l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kinnikuman Nisei: Ultimate Muscle 2"
+    ],
+    "en": "",
+    "ja": "キン肉マンII世 ULTIMATE MUSCLE 2"
+  },
+  "start_date": "2006-01-05",
+  "end_date": "2006-03-30",
+  "synopsis": "Mantaro has made it to the semifinal match of the Chojin Cup. He must now fight Ricardo in a soccer field to advance to the last match. Kevin Mask is also in the semifinals, and must defeat Ilioukhine in an aerial field to advance. These three matches will determine who wins the Chojin Cup.\n\n(Source: ANN)",
+  "mean": 6.98,
+  "rank": 4381,
+  "popularity": 7405,
+  "num_list_users": 6902,
+  "num_scoring_users": 3303,
+  "nsfw": "white",
+  "created_at": "2009-01-26T08:14:00+00:00",
+  "updated_at": "2023-10-08T09:33:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

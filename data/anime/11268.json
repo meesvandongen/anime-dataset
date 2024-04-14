@@ -1,0 +1,53 @@
+{
+  "id": 11268,
+  "title": "Ganso Tensai Bakabon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/60841.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/60841l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Original Genius Bakabon",
+      "Original Bakabon the Genius Fool",
+      "The Genius Bakabon"
+    ],
+    "en": "",
+    "ja": "元祖天才バカボン"
+  },
+  "start_date": "1975-10-06",
+  "end_date": "1977-09-26",
+  "synopsis": "A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.\n\n(Source: AniDB)",
+  "mean": 6.47,
+  "rank": 7049,
+  "popularity": 12688,
+  "num_list_users": 1217,
+  "num_scoring_users": 340,
+  "nsfw": "white",
+  "created_at": "2011-08-16T14:45:17+00:00",
+  "updated_at": "2022-04-02T17:04:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 103,
+  "start_season": {
+    "year": 1975,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1465,
+  "rating": "g",
+  "studios": []
+}

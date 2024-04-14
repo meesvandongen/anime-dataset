@@ -1,0 +1,48 @@
+{
+  "id": 47704,
+  "title": "Caoben Jiazu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1271/123433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1271/123433l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Herb Family",
+    "ja": "草本家族"
+  },
+  "start_date": "2018-07-12",
+  "end_date": "2018-08-06",
+  "synopsis": "",
+  "rank": 18716,
+  "popularity": 22589,
+  "num_list_users": 101,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2021-02-13T16:44:44+00:00",
+  "updated_at": "2022-04-30T12:00:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 800,
+  "rating": "pg",
+  "studios": []
+}

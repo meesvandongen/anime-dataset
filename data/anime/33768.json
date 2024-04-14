@@ -1,0 +1,45 @@
+{
+  "id": 33768,
+  "title": "Oide yo! Shiritsu Yarimakuri Gakuen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/83033.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/83033l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "おいでよ！私立ヤリま×り学園"
+  },
+  "start_date": "2016-10-28",
+  "end_date": "2017-12-29",
+  "synopsis": "",
+  "mean": 6.87,
+  "popularity": 6199,
+  "num_list_users": 10677,
+  "num_scoring_users": 3784,
+  "nsfw": "gray",
+  "created_at": "2016-08-02T08:28:41+00:00",
+  "updated_at": "2023-01-24T17:12:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1278,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 365,
+      "name": "PoRO"
+    }
+  ]
+}

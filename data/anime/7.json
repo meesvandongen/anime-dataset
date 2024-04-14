@@ -1,0 +1,68 @@
+{
+  "id": 7,
+  "title": "Witch Hunter Robin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/19969.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "WHR"
+    ],
+    "en": "Witch Hunter Robin",
+    "ja": "Witch Hunter ROBIN (ウイッチハンターロビン)"
+  },
+  "start_date": "2002-07-03",
+  "end_date": "2002-12-25",
+  "synopsis": "Robin Sena is a powerful craft user drafted into the STNJ—a group of specialized hunters that fight deadly beings known as Witches. Though her fire power is great, she's got a lot to learn about her powers and working with her cool and aloof partner, Amon. But the truth about the Witches and herself will leave Robin on an entirely new path that she never expected!\n\n(Source: Funimation)",
+  "mean": 7.24,
+  "rank": 3051,
+  "popularity": 1854,
+  "num_list_users": 116468,
+  "num_scoring_users": 43783,
+  "nsfw": "white",
+  "created_at": "2005-11-10T22:14:20+00:00",
+  "updated_at": "2022-12-15T05:58:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2002,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:25"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

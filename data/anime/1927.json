@@ -1,0 +1,60 @@
+{
+  "id": 1927,
+  "title": "Gakuen Tokusou Hikaruon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/5861.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/5861l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pink Noise"
+    ],
+    "en": "Campus Special Investigator Hikaruon",
+    "ja": "学園特捜ヒカルオン"
+  },
+  "start_date": "1987-01-28",
+  "end_date": "1987-01-28",
+  "synopsis": "Hikaru is at first sight a student like others but actually it is a super hero defending the Earth of the demons. He has a powerful super bike and a combat suit.  Inspired by the classic Space Sheriff (Uchuu Keiji) trilogy of the Metal Heroes Tokusatsu franchise, namely Space Sheriff's Gavan and Sharivan. \n\n(Source: AniDB)",
+  "mean": 5.54,
+  "rank": 11475,
+  "popularity": 9657,
+  "num_list_users": 3322,
+  "num_scoring_users": 1499,
+  "nsfw": "white",
+  "created_at": "2007-02-11T15:58:56+00:00",
+  "updated_at": "2021-11-22T01:30:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1757,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

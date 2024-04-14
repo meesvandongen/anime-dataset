@@ -1,0 +1,62 @@
+{
+  "id": 36456,
+  "title": "Boku no Hero Academia 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1319/92084.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Hero Academia Season 3",
+    "ja": "僕のヒーローアカデミア"
+  },
+  "start_date": "2018-04-07",
+  "end_date": "2018-09-29",
+  "synopsis": "As summer arrives for the students at UA Academy, each of these superheroes-in-training puts in their best efforts to become renowned heroes. They head off to a forest training camp run by UA's pro heroes, where the students face one another in battle and go through dangerous tests, improving their abilities and pushing past their limits. However, their school trip is suddenly turned upside down when the League of Villains arrives, invading the camp with a mission to capture one of the students. \n\nBoku no Hero Academia 3rd Season follows Izuku \"Deku\" Midoriya, an ambitious student training to achieve his dream of becoming a hero similar to his role model—All Might. Being one of the students caught up amidst the chaos of the villain attack, Deku must take a stand with his classmates and fight for their survival.\n\n[Written by MAL Rewrite]",
+  "mean": 8.01,
+  "rank": 610,
+  "popularity": 26,
+  "num_list_users": 2178660,
+  "num_scoring_users": 1435714,
+  "nsfw": "white",
+  "created_at": "2017-09-29T07:06:39+00:00",
+  "updated_at": "2024-01-28T15:04:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

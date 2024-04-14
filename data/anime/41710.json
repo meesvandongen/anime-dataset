@@ -1,0 +1,74 @@
+{
+  "id": 41710,
+  "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1297/118764.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1297/118764l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Re:Construction the Elfrieden Kingdom Tales of Realistic Brave",
+      "A Realist Hero's Kingdom Restoration Chronicle",
+      "Genkoku"
+    ],
+    "en": "How a Realist Hero Rebuilt the Kingdom",
+    "ja": "現実主義勇者の王国再建記"
+  },
+  "start_date": "2021-07-04",
+  "end_date": "2021-09-26",
+  "synopsis": "After the death of his grandfather, 19-year-old Kazuya Souma—an aspiring civil servant—is left all alone with no one to call family. Out of the blue, he is transported to the Elfrieden Kingdom, a small ailing country in another world, to be a \"hero.\" An ongoing war with the demon army has put the entire world in peril, and Kazuya was summoned to aid in the conflict as an offering from Elfrieden to its allies.\n\nDissatisfied with being used as tribute, Kazuya decides to help the kingdom revamp its declining economy—not by way of adventuring or war, but through administrative reform. Abruptly declared the King of Elfrieden and betrothed to the princess, the \"Realist Hero\" Kazuya sets out to assemble a group of talented citizens who will assist him in his bureaucratic battles to get the kingdom back on its feet.\n\n[Written by MAL Rewrite]",
+  "mean": 7.25,
+  "rank": 2993,
+  "popularity": 594,
+  "num_list_users": 388662,
+  "num_scoring_users": 200649,
+  "nsfw": "white",
+  "created_at": "2020-04-17T04:26:12+00:00",
+  "updated_at": "2022-04-18T02:11:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

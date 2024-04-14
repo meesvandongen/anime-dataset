@@ -1,0 +1,54 @@
+{
+  "id": 9395,
+  "title": "Miyanishi Tatsuya Gekijou: Omae Umasou da na",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/26785.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/26785l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "宮西達也劇場 おまえうまそうだな"
+  },
+  "start_date": "2010-10-04",
+  "end_date": "2010-10-29",
+  "synopsis": "A Tyrannosaurus called Heart was raised by a herbivorous dinosaur. As he grew up, he was scared by other dinosaurs. One day, Heart meets a baby Ankylosaurus and he names the baby \"Umasou (looks delicious)\". Umasou started to be attached to Heart and a strange family love develops between the two.",
+  "mean": 6.26,
+  "rank": 8281,
+  "popularity": 11631,
+  "num_list_users": 1742,
+  "num_scoring_users": 638,
+  "nsfw": "white",
+  "created_at": "2010-08-19T12:27:48+00:00",
+  "updated_at": "2023-09-20T07:25:56+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

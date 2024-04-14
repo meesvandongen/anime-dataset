@@ -1,0 +1,54 @@
+{
+  "id": 17849,
+  "title": "Sparrow's Hotel",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1185/112171.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1185/112171l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sparrow's Hotel",
+    "ja": "スパロウズホテル"
+  },
+  "start_date": "2013-04-09",
+  "end_date": "2013-06-25",
+  "synopsis": "The comedy revolves around Sayuri Satou, the new front desk worker at the Sparrow's Hotel—\"the closest hotel to Heaven\". Her special features are her large breasts and her skills of assassination. She takes down people who cause trouble in the business hotel with those skills, but she is in fact very unskilled when talking to the male hotel manager, and often bites her tongue.\n\n(Source: ANN)",
+  "mean": 5.43,
+  "rank": 11803,
+  "popularity": 6261,
+  "num_list_users": 10383,
+  "num_scoring_users": 5300,
+  "nsfw": "white",
+  "created_at": "2013-03-16T10:46:04+00:00",
+  "updated_at": "2022-05-14T05:58:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "20:25"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 723,
+      "name": "Hotline"
+    }
+  ]
+}

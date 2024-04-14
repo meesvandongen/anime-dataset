@@ -1,0 +1,46 @@
+{
+  "id": 37074,
+  "title": "Daremo Shiranai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1772/109755.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1772/109755l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "誰も知らない"
+  },
+  "start_date": "1961-04-03",
+  "end_date": "1961-04-03",
+  "synopsis": "One of the first Minna no Uta music videos ever created. It follows a child's imagination where \"nobody knows\" the answers to his questions such as what does a star taste like, if he throws his dad's hat really hard into the sky does it become a UFO, when worm wiggles around is it really wiggling into the shape of a number and calculating mathematics, etc.",
+  "mean": 5.12,
+  "popularity": 17996,
+  "num_list_users": 334,
+  "num_scoring_users": 160,
+  "nsfw": "white",
+  "created_at": "2018-01-07T04:08:35+00:00",
+  "updated_at": "2018-01-07T04:08:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1961,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": []
+}

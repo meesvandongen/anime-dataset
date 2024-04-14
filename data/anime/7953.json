@@ -1,0 +1,79 @@
+{
+  "id": 7953,
+  "title": "Defend Love",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/19470.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/19470l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Namie Amuro - Defend Love"
+    ],
+    "en": "",
+    "ja": "Defend Love"
+  },
+  "start_date": "2009-12-15",
+  "end_date": "2009-12-15",
+  "synopsis": "The mysterious alter ego of Amuro gets sent to the first Gundam verse. There she meets Mobile Suit Gundam protagonist Amuro Ray and a battle ensues. \n",
+  "mean": 5.81,
+  "popularity": 10677,
+  "num_list_users": 2392,
+  "num_scoring_users": 1208,
+  "nsfw": "white",
+  "created_at": "2010-01-22T05:54:13+00:00",
+  "updated_at": "2018-02-10T05:46:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 267,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    },
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

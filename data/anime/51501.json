@@ -1,0 +1,40 @@
+{
+  "id": 51501,
+  "title": "Bukkanseii Catharsis",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1686/122221.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1686/122221l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "物換星移カタルシス"
+  },
+  "start_date": "2021-10-24",
+  "end_date": "2021-10-24",
+  "synopsis": "Animated music video for the song Bukkanseii Catharsis by VALIS.",
+  "mean": 5.93,
+  "popularity": 20111,
+  "num_list_users": 210,
+  "num_scoring_users": 111,
+  "nsfw": "white",
+  "created_at": "2022-04-01T19:10:51+00:00",
+  "updated_at": "2022-04-02T12:57:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 231,
+  "rating": "pg_13",
+  "studios": []
+}

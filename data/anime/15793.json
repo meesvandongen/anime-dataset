@@ -1,0 +1,62 @@
+{
+  "id": 15793,
+  "title": "Senki Zesshou Symphogear G",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/86630.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/86630l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Symphogear G",
+    "ja": "戦姫絶唱シンフォギアG"
+  },
+  "start_date": "2013-07-05",
+  "end_date": "2013-09-27",
+  "synopsis": "Three months after a Lunar Attack which nearly caused Earth's destruction, Hibiki Tachibana, Tsubasa Kazanari, and Chris Yukine continue to fight the Noise—a mysterious alien threat—using powerful armor known as Symphogear. After defending an American convoy from a Noise attack, Hibiki and Chris race toward the Queens of Music concert hall to attend one of Tsubasa's concerts.  \n\nMeanwhile, Tsubasa and rising international superstar Maria Cadenzavna Eve deliver an amazing performance that is broadcast throughout the entire world. Just as the concert is about to conclude, a group of Noise suddenly appear, plunging the hall into chaos. Amidst the panic, Maria declares war against the world as the successor of Finé—Chris' former mistress—and her allies Kirika Akatsuki and Shirabe Tsukuyomi reveal Symphogear powers of their own. After initiating a skirmish with Tsubasa and her teammates, they retreat mysteriously, leaving the three friends bewildered as to what their true intentions could be.\n\n[Written by MAL Rewrite]",
+  "mean": 7.47,
+  "rank": 1986,
+  "popularity": 2826,
+  "num_list_users": 59965,
+  "num_scoring_users": 28945,
+  "nsfw": "white",
+  "created_at": "2012-10-06T14:09:09+00:00",
+  "updated_at": "2022-04-17T18:36:56+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:35"
+  },
+  "source": "original",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

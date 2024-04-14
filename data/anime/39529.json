@@ -1,0 +1,62 @@
+{
+  "id": 39529,
+  "title": "Youkai Watch Movie 6: Youkai Gakuen Y - Neko wa Hero ni Nareru ka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1960/106354.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1960/106354l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "映画 妖怪ウォッチ 妖怪学園Ｙ 猫はHEROになれるか"
+  },
+  "start_date": "2019-12-13",
+  "end_date": "2019-12-13",
+  "synopsis": "Set in Y-Academy, an elite school that only allows students with top class abilities to enter. The protagonist, Jinpei Jiba, and his unique friends take on the mysteries of the school as transforming heroes.\n\n(Source: IMDb)",
+  "mean": 5.96,
+  "rank": 9748,
+  "popularity": 12619,
+  "num_list_users": 1243,
+  "num_scoring_users": 341,
+  "nsfw": "white",
+  "created_at": "2019-03-14T08:09:00+00:00",
+  "updated_at": "2021-06-20T20:46:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 5952,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

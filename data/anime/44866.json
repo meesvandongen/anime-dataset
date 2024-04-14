@@ -1,0 +1,47 @@
+{
+  "id": 44866,
+  "title": "Shi Er Shengxiao: Chengshi Yingxiong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1892/128370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1892/128370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "十二生肖城市英雄"
+  },
+  "start_date": "2014-10-03",
+  "end_date": "2014-10-03",
+  "synopsis": "",
+  "rank": 17959,
+  "popularity": 24237,
+  "num_list_users": 75,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2020-12-18T05:25:43+00:00",
+  "updated_at": "2022-10-13T15:53:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "average_episode_duration": 4802,
+  "rating": "pg",
+  "studios": []
+}

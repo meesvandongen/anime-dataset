@@ -1,0 +1,62 @@
+{
+  "id": 973,
+  "title": "Glass no Kantai: La Legende du Vent de l'Univers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/75835.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/75835l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Garakan",
+      "Garasu no Kantai",
+      "Glass Fleet"
+    ],
+    "en": "Glass Fleet",
+    "ja": "ガラスの艦隊～La legende du vent de l'univers～"
+  },
+  "start_date": "2006-04-05",
+  "end_date": "2006-09-22",
+  "synopsis": "The People's Army led by Michel stands against Vetti's newly founded empire. Upon seeing how strong the Glass Battleship is, Michel tries to get Cleo, the captain of the Glass Battleship, to help People's Army overthrow Vetti's empire. And together they fight against Vetti's empire.\n\n(Source: ANN)",
+  "mean": 6.52,
+  "rank": 6790,
+  "popularity": 5852,
+  "num_list_users": 12295,
+  "num_scoring_users": 3640,
+  "nsfw": "white",
+  "created_at": "2006-05-14T07:43:30+00:00",
+  "updated_at": "2023-01-13T12:29:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "02:40"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    },
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

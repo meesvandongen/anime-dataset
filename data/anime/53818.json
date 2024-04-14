@@ -1,0 +1,47 @@
+{
+  "id": 53818,
+  "title": "Onosaka Konishi no O+K 2.5-jigen Animation 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1286/131778.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1286/131778l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Onosaka Konishi no OTASUKE 2.5-jigen Animation 2nd Season"
+    ],
+    "en": "",
+    "ja": "小野坂・小西のO+K 2.5次元 アニメーション 第2"
+  },
+  "start_date": "2014-12-24",
+  "end_date": "2014-12-24",
+  "synopsis": "The second season of Onosaka Konishi no O+K 2.5-jigen Animation.",
+  "rank": 17029,
+  "popularity": 24485,
+  "num_list_users": 71,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2022-12-11T21:22:32+00:00",
+  "updated_at": "2022-12-11T22:48:52+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2646,
+      "name": "trenova"
+    }
+  ]
+}

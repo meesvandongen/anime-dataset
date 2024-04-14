@@ -1,0 +1,46 @@
+{
+  "id": 27567,
+  "title": "Fushigi Yuugi Special: Nakago Shikkari Shinasai!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/66771.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/66771l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fushigi Yuugi Special: Watase Yuu Selection",
+    "ja": "ふしぎ遊戯スペシャル 心宿しっかりしなさい！"
+  },
+  "start_date": "1996-07-25",
+  "end_date": "1996-07-25",
+  "synopsis": "While only a novice performer, Nakago is given the unique opportunity to play in the popular series Fushigi Yuugi. However, being constantly bullied by favored actors Miaka Yuuki and Tamahome makes his life miserable and even causes him to have nightmares. Amid such dreadful circumstances, Nakago strives to avoid discouragement and find the motivation to continue onward.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.03,
+  "rank": 4184,
+  "popularity": 9970,
+  "num_list_users": 2971,
+  "num_scoring_users": 980,
+  "nsfw": "white",
+  "created_at": "2014-09-14T06:28:11+00:00",
+  "updated_at": "2022-06-17T16:22:43+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 145,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": 50461,
+  "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1161/121462l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Otomege Sekai wa Mob ni Kibishii Sekai desu",
+      "Mobseka",
+      "Mobuseka"
+    ],
+    "en": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+    "ja": "乙女ゲー世界はモブに厳しい世界です"
+  },
+  "start_date": "2022-04-03",
+  "end_date": "2022-06-19",
+  "synopsis": "Blackmailed into playing a dating simulator set in a matriarchy, an ordinary man must put up with the unbearable and convoluted world until he clears the game. After countless days of grinding, he finally manages to beat it, but his hardcore gaming comes at a cost: extreme sleep deprivation and hunger.\n\nWhile heading out to the convenience store to solve one of these problems, the man tumbles down the stairs and falls unconscious, only to wake up to the worst possible realization—he has been reincarnated into the game as the mob character Leon Fou Bartfort. Now trapped in a world he despises, Leon must use his knowledge of the game to navigate through the plot safely and sustain himself in a society where the odds are heavily stacked against him.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.34,
+  "rank": 2548,
+  "popularity": 793,
+  "num_list_users": 301723,
+  "num_scoring_users": 158455,
+  "nsfw": "white",
+  "created_at": "2021-11-25T11:30:54+00:00",
+  "updated_at": "2023-09-05T11:00:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1974,
+      "name": "ENGI"
+    }
+  ]
+}

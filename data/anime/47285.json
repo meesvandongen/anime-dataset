@@ -1,0 +1,48 @@
+{
+  "id": 47285,
+  "title": "Senba Xingfu Dao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1657/129216.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1657/129216l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Senba Happy Island",
+    "ja": "森巴幸福岛"
+  },
+  "start_date": "2016-11-21",
+  "end_date": "2016-12-22",
+  "synopsis": "",
+  "rank": 17777,
+  "popularity": 23815,
+  "num_list_users": 81,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2021-02-02T16:26:03+00:00",
+  "updated_at": "2022-10-15T14:08:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 785,
+  "rating": "pg",
+  "studios": []
+}

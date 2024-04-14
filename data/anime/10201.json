@@ -1,0 +1,56 @@
+{
+  "id": 10201,
+  "title": "Senkou no Night Raid: Aruku Hako",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/28136.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/28136l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Senkou no Night Raid Picture Drama"
+    ],
+    "en": "",
+    "ja": "閃光のナイトレイド 「歩く箱」"
+  },
+  "start_date": "2010-12-22",
+  "end_date": "2010-12-22",
+  "synopsis": "Picture drama included with the 7th volume of the Blu-ray.",
+  "mean": 6.19,
+  "rank": 8608,
+  "popularity": 10264,
+  "num_list_users": 2711,
+  "num_scoring_users": 959,
+  "nsfw": "white",
+  "created_at": "2011-01-16T19:55:55+00:00",
+  "updated_at": "2022-02-03T01:05:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1138,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

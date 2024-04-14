@@ -1,0 +1,60 @@
+{
+  "id": 52611,
+  "title": "Okashi na Tensei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1251/136232.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1251/136232l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Treat of Reincarnation"
+    ],
+    "en": "Sweet Reincarnation",
+    "ja": "おかしな転生"
+  },
+  "start_date": "2023-07-04",
+  "end_date": "2023-09-19",
+  "synopsis": "When a genius patissier dies in a tragic accident before achieving his dream of creating the world's greatest sweets, he is reincarnated as nine-year-old Pastry Mille \"Pas\" Morteln. Now in a medieval world brimming with swords and magic, Pas enjoys a peaceful life in the Fief of Morteln under the authority of his father, the military hero Lord Casserole. However, scarce ingredients render sweets a luxury, so Pas can only dream of baking.\n\nOnce news arrives of approaching bandits, Pas must learn magic and fight to defend his land, all to one day create a confectionery paradise!\n\n[Written by MAL Rewrite]",
+  "mean": 6.7,
+  "rank": 5727,
+  "popularity": 2408,
+  "num_list_users": 78271,
+  "num_scoring_users": 39334,
+  "nsfw": "white",
+  "created_at": "2022-08-05T09:34:31+00:00",
+  "updated_at": "2023-09-11T23:04:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

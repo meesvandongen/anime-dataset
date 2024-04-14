@@ -1,0 +1,47 @@
+{
+  "id": 4131,
+  "title": "Twin Bee Paradise",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1696/97022.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1696/97022l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Twinbee"
+    ],
+    "en": "",
+    "ja": "ツインビーPARADISE"
+  },
+  "start_date": "1998-12-18",
+  "end_date": "1999-04-25",
+  "synopsis": "Pastel ate the cookies Madoka made, and it shrunk her, but because of her condition she couldn't take part in the \"Miss Donburi Contest\". To return her to normal, she needed the power-up bell from the clouds. However, a mysterious island floating in the air was absorbing clouds above Donburi Island. When they tried to get power bells back, enemies attacked them suddenly. Would they get back for the contest in time? \n\n(Source: AniDB)",
+  "mean": 6.09,
+  "rank": 9152,
+  "popularity": 14223,
+  "num_list_users": 793,
+  "num_scoring_users": 166,
+  "nsfw": "white",
+  "created_at": "2008-03-20T12:01:40+00:00",
+  "updated_at": "2023-08-02T02:05:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 6390,
+  "title": "R20: Ginga Kuukou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/72832.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/72832l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Route 20: Galactic Airport",
+    "ja": "Ｒ２０ 銀河空港"
+  },
+  "start_date": "1991-08-28",
+  "end_date": "1991-08-28",
+  "synopsis": "A pilot film for an unmade Gainax anime that was planned to follow their first movie, Royal Space Force: Wings of Honneamise. However, Wings of Honneamise failed at the box office and with the recent collapse of the Japanese asset price bubble, no company was willing to fund it.\n\n(Source: AniDB)",
+  "mean": 5.59,
+  "rank": 11294,
+  "popularity": 11731,
+  "num_list_users": 1677,
+  "num_scoring_users": 699,
+  "nsfw": "white",
+  "created_at": "2009-04-20T09:43:26+00:00",
+  "updated_at": "2021-05-15T00:14:15+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 194,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

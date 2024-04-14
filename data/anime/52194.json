@@ -1,0 +1,56 @@
+{
+  "id": 52194,
+  "title": "Run=Dim: Naeseoseu-ui Banran",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1826/131552.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1826/131552l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Run=Dim Movie",
+      "Reondim: Naeseoseu-ui Banran"
+    ],
+    "en": "",
+    "ja": "RUN=DIM 네서스의 반란"
+  },
+  "start_date": "2001-11-10",
+  "end_date": "2001-11-10",
+  "synopsis": "Korean compilation movie of the previously released TV series.",
+  "rank": 17583,
+  "popularity": 21959,
+  "num_list_users": 118,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2022-06-24T11:56:32+00:00",
+  "updated_at": "2022-11-30T16:50:38+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 4905,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 193,
+      "name": "Idea Factory"
+    }
+  ]
+}

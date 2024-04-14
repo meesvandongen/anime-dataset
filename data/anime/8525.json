@@ -1,0 +1,72 @@
+{
+  "id": 8525,
+  "title": "Kami nomi zo Shiru Sekai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/43361.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/43361l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaminomi"
+    ],
+    "en": "The World God Only Knows",
+    "ja": "神のみぞ知るセカイ"
+  },
+  "start_date": "2010-10-07",
+  "end_date": "2010-12-23",
+  "synopsis": "Keima Katsuragi, known online as the legendary \"God of Conquest,\" can conquer any girl's heart—in dating sim games, at least. In reality, he opts for the two-dimensional world of gaming over real life because he is an unhealthily obsessed otaku of galge games (a type of Japanese video game centered on interactions with attractive girls).\n\nWhen he arrogantly accepts an anonymous offer to prove his supremacy at dating sim games, Keima is misled into aiding a naive and impish demon from hell named Elucia \"Elsie\" de Lute Ima with her mission: retrieving runaway evil spirits who have escaped from hell and scattered themselves throughout the human world. Keima discovers that the only way to capture these spirits is to conquer what he hates the most: the unpredictable hearts of three-dimensional girls! Shackled to Elsie via a deadly collar, Keima now has his title of \"God of Conquest\" put to the ultimate test as he is forced to navigate through the hearts of a multitude of real-life girls.\n\n[Written by MAL Rewrite]",
+  "mean": 7.65,
+  "rank": 1349,
+  "popularity": 343,
+  "num_list_users": 627692,
+  "num_scoring_users": 334153,
+  "nsfw": "white",
+  "created_at": "2010-04-02T08:58:20+00:00",
+  "updated_at": "2023-02-10T06:00:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:50"
+  },
+  "source": "manga",
+  "average_episode_duration": 1414,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    }
+  ]
+}

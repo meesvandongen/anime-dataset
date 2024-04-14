@@ -1,0 +1,92 @@
+{
+  "id": 1346,
+  "title": "AD Police",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/2851.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/2851l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A.D. Police"
+    ],
+    "en": "AD Police Files",
+    "ja": "ADポリス"
+  },
+  "start_date": "1990-05-25",
+  "end_date": "1990-11-22",
+  "synopsis": "The year is 2027 in MegaTokyo, six years before the Knight Sabers will make their debut. Boomers (artificial humans) are still a relatively new advancement, and the implementation and integration of boomers into society is still a bit buggy -- sometimes fatally so. Whenever a boomer incident occurs, though, there is the Advanced Police, a special force trained to deal with boomer crimes.\n\nLeon McNichol is a rookie in the AD Police, and is just starting to become exposed to the horrors and tragedies one finds every day in MegaTokyo. He and his veteran partner, Gina Marceau, slowly learn about the ever-fading line that separates man from machine. ",
+  "mean": 6.24,
+  "rank": 8341,
+  "popularity": 4986,
+  "num_list_users": 18780,
+  "num_scoring_users": 6873,
+  "nsfw": "white",
+  "created_at": "2006-08-17T00:22:24+00:00",
+  "updated_at": "2022-11-19T09:19:45+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1990,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1634,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    },
+    {
+      "id": 72,
+      "name": "Artmic"
+    }
+  ]
+}

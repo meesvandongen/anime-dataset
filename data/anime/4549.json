@@ -1,0 +1,60 @@
+{
+  "id": 4549,
+  "title": "Hokuto no Ken: Raoh Gaiden Ten no Haoh",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/18181.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/18181l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ten no Haou: Hokuto no Ken Raou Gaiden"
+    ],
+    "en": "Legends of the Dark King: A Fist of the North Star Story",
+    "ja": "北斗の拳 ラオウ外伝 天の覇王"
+  },
+  "start_date": "2008-10-03",
+  "end_date": "2008-12-26",
+  "synopsis": "In the wastelands following the great nuclear war, a legend grew of a man.  “Hokuto No Ken.”  The Fist of the North Star.  Master of a legendary fighting technique.  A man of impossible strength and endurance.  Yet before Ken claimed the title of the Fist, there was another master, trained in the art of Hokuto Shinken, the King of the Fist, the Divine Fist of Heaven.  Raoh: the ultimate assassin, the ultimate warrior.  This is the story of the world before Fist of the North Star, and how one man took the future of a savage world into his deadly hands and reshaped its destiny.  Not as a hero but as a conqueror.  For in the mind of the man called Raoh, the only way to save Mankind is to grind it under his giant heel!  The greatest battle is about to begin in Legends of the Dark King ~ Fist of the North Star! \n\n(Source: Sentai Filmworks)",
+  "mean": 7.1,
+  "rank": 3808,
+  "popularity": 5789,
+  "num_list_users": 12624,
+  "num_scoring_users": 4749,
+  "nsfw": "white",
+  "created_at": "2008-05-23T10:19:29+00:00",
+  "updated_at": "2022-02-24T02:50:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:28"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

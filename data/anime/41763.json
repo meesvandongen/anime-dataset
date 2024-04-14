@@ -1,0 +1,40 @@
+{
+  "id": 41763,
+  "title": "Hikari yo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1621/107137.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1621/107137l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "O Light",
+    "ja": "光よ"
+  },
+  "start_date": "2016-05-13",
+  "end_date": "2016-05-13",
+  "synopsis": "",
+  "mean": 6.41,
+  "popularity": 17981,
+  "num_list_users": 336,
+  "num_scoring_users": 193,
+  "nsfw": "white",
+  "created_at": "2020-04-21T14:50:51+00:00",
+  "updated_at": "2021-04-18T18:13:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 273,
+  "rating": "pg_13",
+  "studios": []
+}

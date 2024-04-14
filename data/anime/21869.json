@@ -1,0 +1,44 @@
+{
+  "id": 21869,
+  "title": "Tarepanda",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/57547.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/57547l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "たれぱんだ"
+  },
+  "start_date": "2000-07-25",
+  "end_date": "2000-07-25",
+  "synopsis": "A panda rolling around to music. ",
+  "mean": 5.81,
+  "rank": 10407,
+  "popularity": 16626,
+  "num_list_users": 440,
+  "num_scoring_users": 131,
+  "nsfw": "white",
+  "created_at": "2013-12-30T22:10:10+00:00",
+  "updated_at": "2022-10-12T08:58:54+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "average_episode_duration": 1057,
+  "rating": "g",
+  "studios": []
+}

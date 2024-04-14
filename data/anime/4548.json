@@ -1,0 +1,69 @@
+{
+  "id": 4548,
+  "title": "Yozakura Quartet",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/74266.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/74266l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yozakura Shijuusou",
+      "Quartet of Cherry Blossoms in the Night"
+    ],
+    "en": "",
+    "ja": "夜桜四重奏 ～ヨザクラカルテット～"
+  },
+  "start_date": "2008-10-03",
+  "end_date": "2008-12-19",
+  "synopsis": "The world of Yozakura Quartet is actually not one, but two worlds: one of humans, and one of youkai. Despite appearing mostly human, youkai may have animal like physical traits, along with a number of special abilities. Normally youkai are confined to their world, but some have found their way into the realm of humanity. As a symbol of peace, and a bridge between the two realms, a city was constructed within the protective barrier of seven magical trees, otherwise known as the Seven Pillars. This city of Sakurashin is home to both humans and youkai, with the peace between them maintained by the Hizumi Life Counseling Office.\n\nThe director of this office is Akina Hiizumi, a teenager with the inherited family ability to perform “tuning,” which can send harmful youkai back to their world permanently. He is aided by a group of girls, including the town’s 16 year old youkai mayor, Hime Yarizakura, their town’s announcer and resident telepath, Ao Nanami, and Kotoha Isone, a half-youkai who can summon objects just by stating the object’s name.\n\nAs new residents enter and mysterious events begin to take place, this quartet of protectors and their closest friends must continue to guard the city of Sakurashin, and maintain the fragile balance of peace between humans and youkai.",
+  "mean": 6.79,
+  "rank": 5255,
+  "popularity": 1476,
+  "num_list_users": 157757,
+  "num_scoring_users": 36085,
+  "nsfw": "white",
+  "created_at": "2008-05-23T08:50:49+00:00",
+  "updated_at": "2022-04-16T10:46:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:29"
+  },
+  "source": "manga",
+  "average_episode_duration": 1470,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

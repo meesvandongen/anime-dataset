@@ -1,0 +1,58 @@
+{
+  "id": 9781,
+  "title": "Hyouga Senshi Gaislugger",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/27078.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/27078l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Glacier Warrior Gaislugger",
+      "Guyslagger",
+      "Guyslugger"
+    ],
+    "en": "",
+    "ja": "氷河戦士ガイスラッガー"
+  },
+  "start_date": "1977-04-12",
+  "end_date": "1977-08-30",
+  "synopsis": "A cyborg warrior from an ancient Antarctic kingdom awakes 30000 years later from an accidental hibernation to find the Earth changed and an old alien enemy on the verge of invasion. It's up to Guyslugger to use his ancient technology to defeat the aliens. \n\n(Source: AniDB)",
+  "mean": 5.93,
+  "rank": 9894,
+  "popularity": 13820,
+  "num_list_users": 888,
+  "num_scoring_users": 187,
+  "nsfw": "white",
+  "created_at": "2010-11-05T15:23:46+00:00",
+  "updated_at": "2021-05-18T12:12:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 1977,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

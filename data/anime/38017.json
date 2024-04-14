@@ -1,0 +1,56 @@
+{
+  "id": 38017,
+  "title": "Yuukai Anna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1028/112649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1028/112649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ANNA Voleuse"
+    ],
+    "en": "ANNA (kidnapper)",
+    "ja": "誘拐アンナ"
+  },
+  "start_date": "2018-07-21",
+  "end_date": "2018-07-21",
+  "synopsis": "196X. Anna, an enigmatic and attractive professional kidnapper, abducts The Professor during his wedding ceremony on request from one of the latter's former girlfriend. This woman, whose face Anna has never seen, wishes to die with The Professor before he marries. Leaving the church with The Professor on the back seat of her motor-bike, Anna starts on the journey to the fictional city of 'Alpha Paris'.\n\n(Source: QWFF)",
+  "mean": 4.63,
+  "rank": 13027,
+  "popularity": 11577,
+  "num_list_users": 1779,
+  "num_scoring_users": 728,
+  "nsfw": "white",
+  "created_at": "2018-07-21T06:55:07+00:00",
+  "updated_at": "2023-06-02T21:14:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1610,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

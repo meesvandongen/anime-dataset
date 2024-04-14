@@ -1,0 +1,58 @@
+{
+  "id": 2929,
+  "title": "Moonlight Mile 2nd Season: Touch Down",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/4265.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/4265l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ムーンライトマイル 2ndシーズン -Touch down-"
+  },
+  "start_date": "2007-09-13",
+  "end_date": "2007-12-13",
+  "synopsis": "The second season of Moonlight Mile.",
+  "mean": 7.27,
+  "rank": 2877,
+  "popularity": 8343,
+  "num_list_users": 5161,
+  "num_scoring_users": 1801,
+  "nsfw": "white",
+  "created_at": "2007-08-05T20:32:21+00:00",
+  "updated_at": "2023-02-13T00:33:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 101,
+      "name": "Studio Hibari"
+    }
+  ]
+}

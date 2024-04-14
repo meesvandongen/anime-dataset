@@ -1,0 +1,64 @@
+{
+  "id": 1417,
+  "title": "Lupin III: Moeyo Zantetsuken!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/77771.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/77771l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rupan Sansei: Moeyo Zantetsuken",
+      "Lupin III: Burn, Zantetsuken!"
+    ],
+    "en": "Lupin III: Dragon of Doom",
+    "ja": "ルパン三世『燃えよ斬鉄剣』"
+  },
+  "start_date": "1994-07-29",
+  "end_date": "1994-07-29",
+  "synopsis": "A Hong Kong crime boss contracts Lupin, Fujiko and Jigen to recover a legendary dragon statue that sunk with the Titanic. Unfortunately for them, the dragon is a treasure of Goemon's clan, said to have power exceeding that of his Zantetsuken sword; he resolves to protect the statue at all costs, even if it means killing his old friends. \n\n(Source: ANN)",
+  "mean": 7.02,
+  "rank": 4210,
+  "popularity": 6673,
+  "num_list_users": 8904,
+  "num_scoring_users": 3879,
+  "nsfw": "white",
+  "created_at": "2006-08-21T08:05:42+00:00",
+  "updated_at": "2023-12-27T07:14:31+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5420,
+  "rating": "r+",
+  "studios": []
+}

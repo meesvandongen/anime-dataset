@@ -1,0 +1,50 @@
+{
+  "id": 11705,
+  "title": "Dragon Age: Blood Mage no Seisen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1238/90707.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1238/90707l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon Age: Dawn of the Seeker",
+    "ja": "ドラゴンエイジ -ブラッドメイジの聖戦-"
+  },
+  "start_date": "2012-02-11",
+  "end_date": "2012-02-11",
+  "synopsis": "In a time of darkness and barbarism, the Chantry has arisen - a religious order seeking to bring stability to a world corrupted by sinister magic. Led by the Divine, the Chantry's Templar warriors ruthlessly restrain the Mages and their magical cabals. But when the Templars fail, the most elite order of the Chantry takes charge - the Seekers!\n\n(Source: AniDB)",
+  "mean": 6.07,
+  "rank": 9258,
+  "popularity": 6344,
+  "num_list_users": 10081,
+  "num_scoring_users": 4579,
+  "nsfw": "white",
+  "created_at": "2011-09-24T23:28:37+00:00",
+  "updated_at": "2021-07-16T00:37:04+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 5340,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 361,
+      "name": "Oxybot"
+    }
+  ]
+}

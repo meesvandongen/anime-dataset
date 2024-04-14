@@ -1,0 +1,50 @@
+{
+  "id": 56273,
+  "title": "Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1062/137764.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1062/137764l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "【原神】オーケストラコンサートCM"
+    ],
+    "en": "Genshin Impact: Genshin Concert PV",
+    "ja": "《原神》交响音乐会CM短片"
+  },
+  "start_date": "2023-08-13",
+  "end_date": "2023-08-13",
+  "synopsis": "Animated commercial promoting Genshin Concert 2023 for Genshin Impact.",
+  "mean": 7.08,
+  "popularity": 12370,
+  "num_list_users": 1351,
+  "num_scoring_users": 679,
+  "nsfw": "white",
+  "created_at": "2023-08-13T10:41:47+00:00",
+  "updated_at": "2023-12-26T15:47:02+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 87,
+  "rating": "g",
+  "studios": []
+}

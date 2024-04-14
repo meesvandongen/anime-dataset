@@ -1,0 +1,50 @@
+{
+  "id": 50038,
+  "title": "Konna Koto Soudou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1326/118596.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1326/118596l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Konnakoto Soudou"
+    ],
+    "en": "",
+    "ja": "こんなこと騒動"
+  },
+  "start_date": "2019-10-08",
+  "end_date": "2019-10-08",
+  "synopsis": "Music video directed and animated by sakiyama for the song Konna Koto Soudou by ZUTOMAYO.",
+  "mean": 6.55,
+  "popularity": 16249,
+  "num_list_users": 475,
+  "num_scoring_users": 262,
+  "nsfw": "white",
+  "created_at": "2021-10-07T05:27:34+00:00",
+  "updated_at": "2021-10-07T11:22:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

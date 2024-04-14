@@ -1,0 +1,57 @@
+{
+  "id": 2826,
+  "title": "Oz no Mahoutsukai (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/64339.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/64339l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Oz no Mahoutsukai",
+      "The Wizard of Oz"
+    ],
+    "en": "The Wonderful Wizard of Oz",
+    "ja": "オズの魔法使い"
+  },
+  "start_date": "1986-10-06",
+  "end_date": "1987-09-28",
+  "synopsis": "Based on The Wonderful Wizard of Oz (1900), The Marvelous Land of Oz, Ozma of Oz, and The Emerald City of Oz (1900-1920) by L. Frank Baum (1856-1919).\n\n(Source: AniDB)",
+  "mean": 6.74,
+  "rank": 5547,
+  "popularity": 10244,
+  "num_list_users": 2729,
+  "num_scoring_users": 1008,
+  "nsfw": "white",
+  "created_at": "2007-07-21T08:49:45+00:00",
+  "updated_at": "2023-03-21T10:58:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1986,
+    "season": "fall"
+  },
+  "source": "book",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 226,
+      "name": "Panmedia"
+    }
+  ]
+}

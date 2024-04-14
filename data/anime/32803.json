@@ -1,0 +1,40 @@
+{
+  "id": 32803,
+  "title": "Dreaming Pupa: Yumemiru Bokura",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/78656.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/78656l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "dreaming pupa ～夢見る僕ら～"
+  },
+  "start_date": "2010-08-12",
+  "end_date": "2010-08-12",
+  "synopsis": "A music video for Dreaming Pupa: Yumemiru Bokura by Pupa.",
+  "mean": 4.62,
+  "popularity": 15616,
+  "num_list_users": 543,
+  "num_scoring_users": 250,
+  "nsfw": "white",
+  "created_at": "2016-02-22T04:44:05+00:00",
+  "updated_at": "2022-02-08T15:39:37+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 251,
+  "rating": "g",
+  "studios": []
+}

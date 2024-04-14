@@ -1,0 +1,57 @@
+{
+  "id": 2392,
+  "title": "Doraemon Movie 26: Nobita no Kyouryuu 2006",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/72431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/72431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Doraemon the Movie: Nobita's Dinosaur 2006",
+    "ja": "映画 ドラえもん のび太の恐竜2006"
+  },
+  "start_date": "2006-03-04",
+  "end_date": "2006-03-04",
+  "synopsis": "Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure. \n\n(Source: ANN)",
+  "mean": 7.57,
+  "rank": 1606,
+  "popularity": 5325,
+  "num_list_users": 15636,
+  "num_scoring_users": 10459,
+  "nsfw": "white",
+  "created_at": "2007-04-28T17:25:51+00:00",
+  "updated_at": "2022-04-12T17:35:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "average_episode_duration": 6420,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

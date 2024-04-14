@@ -1,0 +1,56 @@
+{
+  "id": 47275,
+  "title": "Sanguo Yanyi 2nd Season: Zhulu Zhongyuan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1141/126921.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1141/126921l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Romance of the Three Kingdoms 2nd Season",
+    "ja": "三国演义 第二季 逐鹿中原"
+  },
+  "start_date": "2019-04-23",
+  "end_date": "2019-08-27",
+  "synopsis": "",
+  "rank": 17704,
+  "popularity": 21918,
+  "num_list_users": 119,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2021-02-02T15:57:42+00:00",
+  "updated_at": "2022-08-13T12:01:07+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": []
+}

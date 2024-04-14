@@ -1,0 +1,64 @@
+{
+  "id": 18195,
+  "title": "Little Busters! Refrain",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/55049.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/55049l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "LB!: Refrain"
+    ],
+    "en": "Little Busters! ~Refrain~",
+    "ja": "リトルバスターズ！～Refrain～"
+  },
+  "start_date": "2013-10-05",
+  "end_date": "2013-12-28",
+  "synopsis": "Following the Little Busters after they lost their first baseball game, the team decides to have a pancake party. It has been almost one semester since the return of Kyousuke Natsume. As usual, Riki Naoe continues to help the Little Busters' members—both old and new—with confronting their inner struggles. However, strange happenings begin to occur, leading Rin Natsume and Riki closer to unraveling the truth behind the \"secret of this world.\"\n\nLittle do Rin and Rikki know, their discovery will end up changing the peaceful everyday lives created by the Little Busters once and for all. Little Busters!: Refrain brings a conclusion to the colorful stories of its ensemble cast—forged with the weight of emotions and strengthened with the bond of friendship—as they come to terms with their regrets and weaknesses.\n\n[Written by MAL Rewrite]",
+  "mean": 8.18,
+  "rank": 401,
+  "popularity": 1408,
+  "num_list_users": 166470,
+  "num_scoring_users": 77633,
+  "nsfw": "white",
+  "created_at": "2013-04-06T14:49:59+00:00",
+  "updated_at": "2023-03-04T19:39:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

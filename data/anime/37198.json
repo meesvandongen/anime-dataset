@@ -1,0 +1,45 @@
+{
+  "id": 37198,
+  "title": "Senaka de Twist",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1434/90253.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1434/90253l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "背中でツイスト"
+  },
+  "start_date": "1989-12-02",
+  "end_date": "1989-12-02",
+  "synopsis": "A Minna no Uta music video sung by George Tokoro and animated by Tameo Kohanawa.",
+  "popularity": 19799,
+  "num_list_users": 228,
+  "num_scoring_users": 96,
+  "nsfw": "white",
+  "created_at": "2018-01-24T11:47:19+00:00",
+  "updated_at": "2018-01-24T18:10:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 151,
+  "rating": "g",
+  "studios": []
+}

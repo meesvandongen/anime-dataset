@@ -1,0 +1,68 @@
+{
+  "id": 30485,
+  "title": "ChäoS;Child",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1310/90137.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1310/90137l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chaos Child"
+    ],
+    "en": "ChäoS;Child",
+    "ja": "CHAOS;CHILD"
+  },
+  "start_date": "2017-01-11",
+  "end_date": "2017-03-29",
+  "synopsis": "A series of gruesome murders dubbed \"New Generation Madness\" once induced mass hysteria in Shibuya. At its peak during a frenzied riot, a sudden earthquake reduced the district into nothing but rubble, while leaving surrounding wards strangely intact.\n\nSix years later, in a newly rebuilt Shibuya, mysterious deaths begin to crop up again. It is not long before third-year student Takuru Miyashiro realizes a connection: the dates of the recent murders match those of the New Generation Madness incidents. He, along with several members of his school's newspaper club, decide to delve deeper into the mystery, only to find themselves stranded in the middle of a new crime scene themselves...\n\n[Written by MAL Rewrite]",
+  "mean": 6.31,
+  "rank": 7997,
+  "popularity": 1677,
+  "num_list_users": 132920,
+  "num_scoring_users": 43047,
+  "nsfw": "white",
+  "created_at": "2015-03-28T23:44:04+00:00",
+  "updated_at": "2022-04-07T00:20:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

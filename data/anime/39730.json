@@ -1,0 +1,73 @@
+{
+  "id": 39730,
+  "title": "Houkago Teibou Nisshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1216/111637.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1216/111637l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hokago Teibo Nisshi",
+      "Afterschool Embankment Journal"
+    ],
+    "en": "Diary of Our Days at the Breakwater",
+    "ja": "放課後ていぼう日誌"
+  },
+  "start_date": "2020-04-07",
+  "end_date": "2020-09-22",
+  "synopsis": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.\n\n[Written by MAL Rewrite]",
+  "mean": 7.43,
+  "rank": 2131,
+  "popularity": 2709,
+  "num_list_users": 64245,
+  "num_scoring_users": 26793,
+  "nsfw": "white",
+  "created_at": "2019-04-15T16:21:24+00:00",
+  "updated_at": "2023-04-02T18:48:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

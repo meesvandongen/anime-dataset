@@ -1,0 +1,62 @@
+{
+  "id": 45613,
+  "title": "Kawaii dake ja Nai Shikimori-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1995/121695.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1995/121695l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shikimori's Not Just a Cutie",
+      "Miss Shikimori is not just cute",
+      "That Girl Is Not Just Cute"
+    ],
+    "en": "Shikimori's Not Just a Cutie",
+    "ja": "可愛いだけじゃない式守さん"
+  },
+  "start_date": "2022-04-10",
+  "end_date": "2022-07-10",
+  "synopsis": "Yuu Izumi leads a high school life filled with one mishap after another. No matter how improbable the situation, unfortunate events strike him at every turn. In possession of such terrible luck, Izumi enters his second year with a single wish in mind—to spend more time with his affectionate girlfriend, Micchon Shikimori.\n\nCute, athletic, and caring, Shikimori is immensely popular at their school. But since they began dating a year ago, Izumi has witnessed a surprising side to his otherwise adorable girlfriend: when the need arises, she turns incredibly cool! His misfortunes are easily avoided when she is there to protect him with an awe-inspiring look on her face. Charming in every way, she never ceases to make his heart skip a beat. Unfortunate as he may be, Izumi is sure to see his days of bad luck end thanks to the cute yet cool Shikimori.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.93,
+  "rank": 4573,
+  "popularity": 423,
+  "num_list_users": 524945,
+  "num_scoring_users": 221687,
+  "nsfw": "white",
+  "created_at": "2021-01-01T15:58:14+00:00",
+  "updated_at": "2023-02-13T17:42:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "02:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1403,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

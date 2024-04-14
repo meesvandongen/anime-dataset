@@ -1,0 +1,41 @@
+{
+  "id": 39207,
+  "title": "Oned",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1446/98876.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1446/98876l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Oned",
+    "ja": "ONED"
+  },
+  "start_date": "2013-10",
+  "end_date": "2013-10",
+  "synopsis": "\"ONED\" is a campaign to reduce the euthanasia rate of Japanese pets.",
+  "mean": 5.41,
+  "rank": 11840,
+  "popularity": 17949,
+  "num_list_users": 338,
+  "num_scoring_users": 163,
+  "nsfw": "white",
+  "created_at": "2019-02-06T03:04:04+00:00",
+  "updated_at": "2019-02-06T12:57:06+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 106,
+  "rating": "g",
+  "studios": []
+}

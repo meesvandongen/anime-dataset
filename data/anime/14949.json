@@ -1,0 +1,58 @@
+{
+  "id": 14949,
+  "title": "Yurumates 3D OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/53753.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/53753l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yurumates (2012)",
+      "Yurumates 3D Plus OVA",
+      "Yurumates 3D: Ushinawareta Genjitsu"
+    ],
+    "en": "",
+    "ja": "ゆるめいつ 3でぃOVA"
+  },
+  "start_date": "2012-08-30",
+  "end_date": "2012-08-30",
+  "synopsis": "An original anime DVD bundled with a limited edition of saxyun's 4th Yurumates manga volume. The bundled DVD contained the opening animation sequence for the television anime series and its first episode, as well as two unaired episodes. The limited edition also included an exclusive booklet.\n\n(Source: ANN)",
+  "mean": 6.08,
+  "rank": 9169,
+  "popularity": 11009,
+  "num_list_users": 2144,
+  "num_scoring_users": 998,
+  "nsfw": "white",
+  "created_at": "2012-07-26T20:40:04+00:00",
+  "updated_at": "2018-03-30T14:04:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 187,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 605,
+      "name": "C2C"
+    }
+  ]
+}

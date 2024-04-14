@@ -1,0 +1,45 @@
+{
+  "id": 30961,
+  "title": "Sylvanian Families Mini Gekijou: Omoigakenai Okyakusama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74493.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74493l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シルバニアファミリー ミニ劇場～思いがけないお客様～"
+  },
+  "start_date": "2005-04",
+  "end_date": "2005-04",
+  "synopsis": "A 3DCG anime of Sylvanian Families. The OVA was sold bundled with toy merchandise of the franchise. ",
+  "rank": 13667,
+  "popularity": 18295,
+  "num_list_users": 314,
+  "num_scoring_users": 65,
+  "nsfw": "white",
+  "created_at": "2015-06-12T05:51:44+00:00",
+  "updated_at": "2023-08-08T06:37:00+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 286,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2623,
+      "name": "Dyna Method"
+    }
+  ]
+}

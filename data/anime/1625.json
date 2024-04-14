@@ -1,0 +1,73 @@
+{
+  "id": 1625,
+  "title": "Soul Link Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/5231.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/5231l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soul Link Tokubetsu Kaisou-hen: Cellaria / Nanami",
+      "Soul Link Episode 10.5"
+    ],
+    "en": "",
+    "ja": "Soul Link 第10.5話 「特別回想編 -CELLARIA／NANAMI-"
+  },
+  "start_date": "2006-06-11",
+  "end_date": "2006-06-11",
+  "synopsis": "Recap Special. First half of the episode follows Cellaria from her point of view and her narration. Second part follows Nanami from her point of view with her narration. Takes place between episodes 10 and 11 (Episode 10.5).",
+  "mean": 5.82,
+  "rank": 10398,
+  "popularity": 9972,
+  "num_list_users": 2971,
+  "num_scoring_users": 1079,
+  "nsfw": "white",
+  "created_at": "2006-11-04T20:27:38+00:00",
+  "updated_at": "2021-05-04T02:53:13+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1559,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 78,
+      "name": "Picture Magic"
+    }
+  ]
+}

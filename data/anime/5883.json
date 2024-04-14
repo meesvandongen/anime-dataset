@@ -1,0 +1,60 @@
+{
+  "id": 5883,
+  "title": "Examurai Sengoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/33643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/33643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Exile Generation"
+    ],
+    "en": "",
+    "ja": "エグザムライ戦国"
+  },
+  "start_date": "2009-01-11",
+  "end_date": "2009-06-25",
+  "synopsis": "The Examurai Sengoku anime production depicts the members of the EXILE group as futuristic samurai that are transported back in time to Japan’s sengoku (warring states) period. The anime character renditions of the EXILE members were designed by manga creator Hiroshi Takahashi (Crows, Worst). \n\n(Source: AniDB)",
+  "mean": 6.2,
+  "rank": 8560,
+  "popularity": 8785,
+  "num_list_users": 4497,
+  "num_scoring_users": 896,
+  "nsfw": "white",
+  "created_at": "2009-01-11T14:06:17+00:00",
+  "updated_at": "2021-10-24T03:39:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 720,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

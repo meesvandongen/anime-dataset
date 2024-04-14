@@ -1,0 +1,49 @@
+{
+  "id": 53747,
+  "title": "Kimi no Iro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1971/142121.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1971/142121l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Your Color"
+    ],
+    "en": "",
+    "ja": "きみの色"
+  },
+  "start_date": "2024-08-30",
+  "end_date": "2024-08-30",
+  "synopsis": "\"I can see people's hearts in 'color.'\"\n\nTotsuko, a high school girl from Nagasaki City who attends a mission school, can see people's emotions as \"colors\"—happy colors, sad colors, calm colors, frightened colors... To avoid darkening the \"color\" of friends and family, she pays attention, reads the atmosphere, and tells lies to conceal the situation.\n\nTotsuko ends up forming a band with a girl with beautiful colors and a boy who loves music after finding herself in a second-hand bookstore in a remote part of the city. Three overly delicate people gather and begin to play youth.\n\n(Source: MAL News)",
+  "popularity": 6538,
+  "num_list_users": 9427,
+  "num_scoring_users": 0,
+  "nsfw": "gray",
+  "created_at": "2022-12-03T10:57:53+00:00",
+  "updated_at": "2024-03-18T13:49:40+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1591,
+      "name": "Science SARU"
+    }
+  ]
+}

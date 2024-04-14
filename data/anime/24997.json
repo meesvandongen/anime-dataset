@@ -1,0 +1,65 @@
+{
+  "id": 24997,
+  "title": "Love Live! The School Idol Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/75700.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/75700l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Love Live!",
+      "Love Live! School Idol Project Movie"
+    ],
+    "en": "Love Live! The School Idol Movie",
+    "ja": "ラブライブ！The School Idol Movie"
+  },
+  "start_date": "2015-06-13",
+  "end_date": "2015-06-13",
+  "synopsis": "Hot on the heels of the third year students' graduation, μ's is invited to New York in hopes of spreading the joy of school idols to other parts of the world. Due to the events of the recent Love Live!, μ's has reached eminent stardom which results in crowds swarming them whenever they appear in public. With the increased attention, however, comes a difficult choice.\n\nHaving yet to publicly announce the decision they came to regarding their future, the young members of μ's are pushed to continue performing by rival group A-RISE, Otonokizaka High School, and even Love Live! itself. As leader, Honoka Kousaka is left wondering if the path they have chosen is truly for the best, as μ's must re-evaluate their choices and come to a final decision on what they want for the future.\n\nLove Live! The School Idol Movie depicts the final chapter in μ's story as the girls explore just what being an idol means to them as well as the bond that connects the nine of them together.\n\n[Written by MAL Rewrite]",
+  "mean": 7.92,
+  "rank": 751,
+  "popularity": 1711,
+  "num_list_users": 130751,
+  "num_scoring_users": 74404,
+  "nsfw": "white",
+  "created_at": "2014-06-29T14:35:54+00:00",
+  "updated_at": "2022-10-12T14:51:57+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5974,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

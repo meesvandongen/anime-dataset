@@ -1,0 +1,77 @@
+{
+  "id": 36511,
+  "title": "Tokyo Ghoul:re",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1063/95086l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tokyo Kushu:re",
+      "Toukyou Kuushu:re"
+    ],
+    "en": "Tokyo Ghoul:re",
+    "ja": "東京喰種トーキョーグール：re"
+  },
+  "start_date": "2018-04-03",
+  "end_date": "2018-06-19",
+  "synopsis": "Two years have passed since the CCG's raid on Anteiku. Although the atmosphere in Tokyo has changed drastically due to the increased influence of the CCG, ghouls continue to pose a problem as they have begun taking caution, especially the terrorist organization Aogiri Tree, who acknowledge the CCG's growing threat to their existence.\n\nThe creation of a special team, known as the Quinx Squad, may provide the CCG with the push they need to exterminate Tokyo's unwanted residents. As humans who have undergone surgery in order to make use of the special abilities of ghouls, they participate in operations to eradicate the dangerous creatures. The leader of this group, Haise Sasaki, is a half-ghoul, half-human who has been trained by famed special class investigator, Kishou Arima. However, there's more to this young man than meets the eye, as unknown memories claw at his mind, slowly reminding him of the person he used to be.\n\n[Written by MAL Rewrite]",
+  "mean": 6.37,
+  "rank": 7621,
+  "popularity": 119,
+  "num_list_users": 1180981,
+  "num_scoring_users": 704016,
+  "nsfw": "white",
+  "created_at": "2017-10-05T10:45:33+00:00",
+  "updated_at": "2024-03-06T12:15:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

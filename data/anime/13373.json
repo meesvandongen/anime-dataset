@@ -1,0 +1,47 @@
+{
+  "id": 13373,
+  "title": "Kyoto Animation: Hana-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/73729.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/73729l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyoto Animation CM: Hana-hen"
+    ],
+    "en": "Flower",
+    "ja": "京都アニメーションCM「花編」"
+  },
+  "start_date": "2010-06",
+  "end_date": "2010-06",
+  "synopsis": "In a vast and tranquil field, a rowdy group of children rush in with bright intentions. Armed with an array of gardening tools, packets of soil, trays of flowers, and a lively attitude to boot, the group sets upon a barren patch to begin their project.\n\n[Written by MAL Rewrite]\n",
+  "mean": 5.75,
+  "popularity": 8471,
+  "num_list_users": 4964,
+  "num_scoring_users": 2672,
+  "nsfw": "white",
+  "created_at": "2012-03-21T17:47:17+00:00",
+  "updated_at": "2023-12-26T15:45:49+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

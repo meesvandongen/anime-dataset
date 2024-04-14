@@ -1,0 +1,64 @@
+{
+  "id": 40262,
+  "title": "Haikyuu!! Riku vs. Kuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1527/102671.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1527/102671l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haikyuu!! Jump Festa 2020 Special",
+      "Haikyuu!! OVA",
+      "Haikyuu!!: Land vs Sky",
+      "Haikyuu!!: The Volleyball Way",
+      "Haikyuu!!: Ball no Michi"
+    ],
+    "en": "Haikyu!! Land vs. Air",
+    "ja": "ハイキュー!! 陸VS空"
+  },
+  "start_date": "2020-01-22",
+  "end_date": "2020-01-22",
+  "synopsis": "An intense battle rages on at the Tokyo Qualifiers for the three remaining spots in the national volleyball competition. Nekoma High School, Fukurodani High School, Nohebi Academy, and Itachiyama Academy all passionately strive to participate in the tournament. Despite various issues on the court, Nekoma especially wishes to prove they are worthy of moving on to the national level. \n\nAs the teams aim to secure their place by overcoming both their opponents and their own weaknesses, the Tokyo Qualifiers determine which teams will reign victorious and join the national competition.\n\n[Written by MAL Rewrite]",
+  "mean": 7.83,
+  "rank": 915,
+  "popularity": 798,
+  "num_list_users": 300583,
+  "num_scoring_users": 173261,
+  "nsfw": "white",
+  "created_at": "2019-08-16T10:45:28+00:00",
+  "updated_at": "2022-04-17T18:06:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1367,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 3225,
+  "title": "Minami-ke Okawari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/73556.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/73556l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minamike: Okawari"
+    ],
+    "en": "",
+    "ja": "みなみけ～おかわり～"
+  },
+  "start_date": "2008-01-07",
+  "end_date": "2008-03-31",
+  "synopsis": "The second season of Minami-Ke. It picks up where the first season left off, and just like the first season, it's about the daily lives of the three Minami sisters, Haruka, Kana and Chiaki, and their school friends.",
+  "mean": 7.33,
+  "rank": 2571,
+  "popularity": 2525,
+  "num_list_users": 72622,
+  "num_scoring_users": 40373,
+  "nsfw": "white",
+  "created_at": "2007-10-15T14:38:01+00:00",
+  "updated_at": "2022-12-24T02:17:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1449,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 163,
+      "name": "asread."
+    }
+  ]
+}

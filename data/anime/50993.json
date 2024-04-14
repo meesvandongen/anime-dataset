@@ -1,0 +1,50 @@
+{
+  "id": 50993,
+  "title": "Shiyakusho",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1713/120885.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1713/120885l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Death Hall",
+    "ja": "死役所"
+  },
+  "start_date": "2022-02-09",
+  "end_date": "2022-02-09",
+  "synopsis": "",
+  "mean": 6.34,
+  "rank": 7772,
+  "popularity": 15816,
+  "num_list_users": 520,
+  "num_scoring_users": 195,
+  "nsfw": "white",
+  "created_at": "2022-02-10T08:35:28+00:00",
+  "updated_at": "2022-02-20T23:31:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 685,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1340,
+      "name": "Typhoon Graphics"
+    }
+  ]
+}

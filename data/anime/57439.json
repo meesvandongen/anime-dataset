@@ -1,0 +1,48 @@
+{
+  "id": 57439,
+  "title": "Huo Feng Zhong Tian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1993/140143.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1993/140143l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Phoenix in Fire",
+    "ja": "火凤重天"
+  },
+  "start_date": "2023-09-18",
+  "end_date": "2023-09-18",
+  "synopsis": "",
+  "rank": 20277,
+  "popularity": 23109,
+  "num_list_users": 92,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2023-12-04T19:07:55+00:00",
+  "updated_at": "2023-12-05T09:18:00+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "book",
+  "average_episode_duration": 6300,
+  "rating": "pg_13",
+  "studios": []
+}

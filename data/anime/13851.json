@@ -1,0 +1,74 @@
+{
+  "id": 13851,
+  "title": "To LOVE-Ru Darkness OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/41251.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/41251l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "To LOVE-Ru Trouble Darkness OVA",
+      "To-Love-Ru Darkness OVA",
+      "ToLoveRu Darkness OVA"
+    ],
+    "en": "",
+    "ja": "To LOVEる -とらぶる- ダークネス"
+  },
+  "start_date": "2012-08-17",
+  "end_date": "2015-04-03",
+  "synopsis": "Bundled with the 5th, 6th, 8th, 9th, 12th and 13th limited-edition volumes of the manga.",
+  "mean": 7.53,
+  "rank": 1767,
+  "popularity": 1685,
+  "num_list_users": 132506,
+  "num_scoring_users": 71541,
+  "nsfw": "gray",
+  "created_at": "2012-04-17T16:44:20+00:00",
+  "updated_at": "2022-04-11T01:52:01+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1550,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

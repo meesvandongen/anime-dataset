@@ -1,0 +1,47 @@
+{
+  "id": 3530,
+  "title": "Virtuacall 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/5915.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/5915l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Virtual Call"
+    ],
+    "en": "Virtuacall",
+    "ja": "バーチャコール2"
+  },
+  "start_date": "1997-08-29",
+  "end_date": "1997-10-24",
+  "synopsis": "Emily has had a crush on Hasegawa for quite some time. A fellow resident of her building, Hasegawa has always been there for her as a friend, though she would like something more than friendship. When Hasegawa starts confiding his woman troubles to Emily, she introduces him to Virtuacall, a service that lets you interact with the girl of your dreams just as you wish you could. Unfortunately, Hasegawa becomes more interested in Virtuacall than her as a result. On the verge of leaving the country for her homeland, Emily is so overcome by emotion that she can neither tell Hasegawa about her feeling or tell him that she is leaving.",
+  "mean": 5.17,
+  "popularity": 12827,
+  "num_list_users": 1169,
+  "num_scoring_users": 355,
+  "nsfw": "gray",
+  "created_at": "2007-12-07T03:42:54+00:00",
+  "updated_at": "2021-03-18T10:17:59+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 1725,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 860,
+      "name": "Triple X"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 11339,
+  "title": "A-Channel+smile",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/35321.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/35321l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A-Channel OVA"
+    ],
+    "en": "",
+    "ja": "Aチャンネル+smile（プラス スマイル）"
+  },
+  "start_date": "2012-03-21",
+  "end_date": "2012-03-21",
+  "synopsis": "Following the everyday lives of four high school girls: the flighty Run, the reckless Tooru, the timid Yuuko, and the level-headed Nagi.\n\nMountain of Pancakes\nKitou-sensei injures her hand during class and has to deal with it while Tooru brings cat Tansan to school with her to meet Yutaka and Miho. Later, the girls decide to get pancakes at a café where Miho happens to be working, facing trouble when Yutaka shows up out of the blue.\n\nA Picture of a Wish\nYuuko catches a cold so the others pay her a visit and help look after her. Later, the girls get together for the New Year's shrine visit.\n\n(Source: Wikipedia)",
+  "mean": 7.09,
+  "rank": 3865,
+  "popularity": 4582,
+  "num_list_users": 22703,
+  "num_scoring_users": 11505,
+  "nsfw": "white",
+  "created_at": "2011-08-21T17:56:55+00:00",
+  "updated_at": "2023-01-11T06:32:18+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

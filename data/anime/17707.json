@@ -1,0 +1,52 @@
+{
+  "id": 17707,
+  "title": "Glass no Kamen desu ga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/47215.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/47215l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Glass Mask desu ga"
+    ],
+    "en": "",
+    "ja": "ガラスの仮面ですが"
+  },
+  "start_date": "2013-04-07",
+  "end_date": "2013-04-21",
+  "synopsis": "The anime re-imagines the story with the characters Maya Kitajima and her rival Ayumi Himekawa being delinquent girls who both aspire to be the leader of the \"Crimson Goddess\" gang.",
+  "mean": 5.41,
+  "rank": 11860,
+  "popularity": 11854,
+  "num_list_users": 1606,
+  "num_scoring_users": 349,
+  "nsfw": "white",
+  "created_at": "2013-03-06T20:22:38+00:00",
+  "updated_at": "2022-12-18T09:51:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

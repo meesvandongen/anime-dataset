@@ -1,0 +1,64 @@
+{
+  "id": 8394,
+  "title": "Cyborg 009 (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/22076.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/22076l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cyborg 009 (1968)"
+    ],
+    "en": "Cyborg 009",
+    "ja": "サイボーグ009"
+  },
+  "start_date": "1968-04-05",
+  "end_date": "1968-09-27",
+  "synopsis": "They fight against evil, they help those in need, they're the Cyborg fighters! Together with the scientist Dr. Gilmore, this team of nine cyborgs use their special body modifications to fight against a seemingly endless barrage of enemies, including robotic crabs, aliens, and fellow cyborgs.\n\nEach cyborg has his own special power, which they use in their fight against evil. Titular character 009 (aka Hurricane Joe, the famous race car driver) leads the team with his superhuman strength, resistance to bullets, and ability to accelerate through time. His teammates fight by his side to save humanity from falling into evil hands.\n\nThe team in Cyborg 009 faces many enemies and stops countless threats to their hometown, and even to Earth. No matter what, justice will be served.\n",
+  "mean": 6.99,
+  "rank": 4327,
+  "popularity": 7515,
+  "num_list_users": 6660,
+  "num_scoring_users": 2229,
+  "nsfw": "white",
+  "created_at": "2010-03-13T16:19:21+00:00",
+  "updated_at": "2021-05-26T01:23:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1968,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

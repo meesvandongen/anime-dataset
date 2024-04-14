@@ -1,0 +1,66 @@
+{
+  "id": 2698,
+  "title": "Sanctuary",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1795/105898.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1795/105898l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sanctuary",
+    "ja": "サンクチュアリ"
+  },
+  "start_date": "1996-05-01",
+  "end_date": "1996-05-01",
+  "synopsis": "Two Japanese survivors of the Khmer Rouge massacres in Cambodia vow to find a sanctuary, even if they have to build it themselves. Returning to Japan, they take seemingly opposite paths: one becomes a politician, the other a gangster.\n\nAs Asami and Houjou work through the linked worlds of politics and crime in modern Japan, they don't hesitate to do anything necessary to secure their own positions and stay true to their vow. Loyal to no one else, they find their friendship increasingly tested as they rise in their chosen fields.\n\n(Source: ANN)",
+  "mean": 6.37,
+  "rank": 7613,
+  "popularity": 8234,
+  "num_list_users": 5350,
+  "num_scoring_users": 1765,
+  "nsfw": "white",
+  "created_at": "2007-06-22T21:15:16+00:00",
+  "updated_at": "2022-03-04T18:32:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 4057,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 413,
+      "name": "Pastel"
+    }
+  ]
+}

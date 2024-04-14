@@ -1,0 +1,76 @@
+{
+  "id": 3625,
+  "title": "Battle Royal High School",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1174/116428.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1174/116428l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Majinden"
+    ],
+    "en": "Battle Royal High School",
+    "ja": "真魔神伝　バトルロイヤルハイスクール"
+  },
+  "start_date": "1987-12-10",
+  "end_date": "1987-12-10",
+  "synopsis": "Hyoudo Riki is just an ordinary guy who likes to wear a tiger mask while Kung-Fu fighting, which means he fits in real well at BATTLE ROYAL HIGH SCHOOL!\n\nUnfortunately for Riki, he's the doppleganger in our world of Byoudo, Master of the Dark Realm, and when a dimensional gate opens between the two worlds, the evil Fairy Master tricks Byoudo  into making an attempt to conquer our beautiful, and better lit, world.\n\nNow poor Riki is semi-possessed by his opposite number, and the minions of the Fairy Master are mutating his classmates into hideous lustful monsters. To make matters worse, all the inter-dimensional commotion has attracted the attention of a sword-happy exorcist and the heroic Zankan of the Space-Time Police!\n\nWhich all means that Riki is about to take one bitch of a mid-term. The course is survival, and forget \"Pass/Fail\". The test is graded \"Live/Die\".",
+  "mean": 5.58,
+  "rank": 11318,
+  "popularity": 6707,
+  "num_list_users": 8794,
+  "num_scoring_users": 3359,
+  "nsfw": "white",
+  "created_at": "2007-12-26T20:16:03+00:00",
+  "updated_at": "2023-09-19T10:46:19+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3573,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 567,
+      "name": "D.A.S.T Corporation"
+    }
+  ]
+}

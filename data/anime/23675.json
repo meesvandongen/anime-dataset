@@ -1,0 +1,43 @@
+{
+  "id": 23675,
+  "title": "Hi no Tori: Kizuna-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1293/135630.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1293/135630l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "火の鳥 絆編"
+  },
+  "start_date": "2012-06-02",
+  "end_date": "2012-06-02",
+  "synopsis": "Short movie shown at three locations: Children's Museum Noshiro in Akita Prefecture, Tsukuba Expo Center in Ibaraki Prefecture, and Osaki Lifelong Learning Center in Miyagi Prefecture.",
+  "rank": 20069,
+  "popularity": 15275,
+  "num_list_users": 589,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2014-04-08T14:56:34+00:00",
+  "updated_at": "2016-11-11T04:18:56+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": []
+}

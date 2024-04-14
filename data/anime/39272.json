@@ -1,0 +1,53 @@
+{
+  "id": 39272,
+  "title": "Genji Fantasy: Neko ga Hikaru Genji ni Koi wo Shita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1736/109539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1736/109539l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Genji Fantasy: The Cat Fell in Love With Hikaru Genji",
+    "ja": "GENJI FANTASY　ネコが光源氏に恋をした"
+  },
+  "start_date": "2019-04-02",
+  "end_date": "2019-04-02",
+  "synopsis": "The Tale of Genji Museum in Uji City, Kyoto will be airing a short film blending history and fantasy, the story follows a modern high school girl named Hana who is transformed into a cat and transported back in time. She travels 1,000 years ago to the Heian Era as portrayed in The Tale Of Genji, arguably the most famous novel in Japanese literature. Guided by the novel's titular character Hikaru Genji, Hana experiences firsthand the emotions that the author Murasaki Shikibu depicted in her novel. The short features scenes based on The Diary of Lady Murasaki and other historical materials, such as the real-life noble Fujiwara no Michinaga swiping early drafts of The Tale Of Genji because he could not wait to read chapters as Murasaki wrote them. \n\n(Source: ANN)",
+  "rank": 19684,
+  "popularity": 14497,
+  "num_list_users": 731,
+  "num_scoring_users": 70,
+  "nsfw": "white",
+  "created_at": "2019-02-13T12:01:41+00:00",
+  "updated_at": "2019-02-13T12:01:41+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 850,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2306,
+      "name": "LIDENFILMS Kyoto Studio"
+    }
+  ]
+}

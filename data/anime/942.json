@@ -1,0 +1,68 @@
+{
+  "id": 942,
+  "title": "Nishi no Yoki Majo: Astraea Testament",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75549.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75549l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nishi no Yoki Majo"
+    ],
+    "en": "The Good Witch Of The West",
+    "ja": "西の善き魔女 Astraea Testament"
+  },
+  "start_date": "2006-04-08",
+  "end_date": "2006-07-01",
+  "synopsis": "On Filiel's 15th birthday, she received her mother's necklace as a memento from her obstinate astronomer father. Her common and tedious life was turned into a life of conspiracies. With her new life, many adventures await.\n\n(Source: ANN)",
+  "mean": 6.68,
+  "rank": 5866,
+  "popularity": 4906,
+  "num_list_users": 19501,
+  "num_scoring_users": 6152,
+  "nsfw": "white",
+  "created_at": "2006-04-30T07:53:53+00:00",
+  "updated_at": "2022-02-27T16:18:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:45"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1447,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 34,
+      "name": "HAL Film Maker"
+    }
+  ]
+}

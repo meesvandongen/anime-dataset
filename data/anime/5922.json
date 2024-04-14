@@ -1,0 +1,57 @@
+{
+  "id": 5922,
+  "title": "Tenjouhen: Utsunomiko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/12812.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/12812l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Utsu no Miko",
+      "Heavens Compilation: Space Prince"
+    ],
+    "en": "",
+    "ja": "天上編・宇宙皇子"
+  },
+  "start_date": "1990-09-22",
+  "end_date": "1990-09-22",
+  "synopsis": "Prequel of Utsunomiko.",
+  "mean": 6.1,
+  "rank": 9076,
+  "popularity": 13200,
+  "num_list_users": 1052,
+  "num_scoring_users": 172,
+  "nsfw": "white",
+  "created_at": "2009-01-18T01:50:02+00:00",
+  "updated_at": "2021-08-14T02:03:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 4479,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

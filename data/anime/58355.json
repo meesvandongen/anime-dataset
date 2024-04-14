@@ -1,0 +1,39 @@
+{
+  "id": 58355,
+  "title": "Himitsu no Kotoba",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1658/141876.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1658/141876l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Secret Word",
+    "ja": "秘密の言葉"
+  },
+  "start_date": "2023-04-05",
+  "end_date": "2023-04-05",
+  "synopsis": "Music video for the song Himitsu no Kotoba by KAF and ZOOKARADERU.",
+  "popularity": 24361,
+  "num_list_users": 73,
+  "num_scoring_users": 39,
+  "nsfw": "white",
+  "created_at": "2024-03-09T06:53:02+00:00",
+  "updated_at": "2024-03-09T06:53:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 205,
+  "rating": "g",
+  "studios": []
+}

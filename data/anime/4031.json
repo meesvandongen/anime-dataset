@@ -1,0 +1,68 @@
+{
+  "id": 4031,
+  "title": "Sakigake!! Otokojuku Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1672/94168.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1672/94168l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Valiantly Forge Ahead!! Men's Cram School (1988)"
+    ],
+    "en": "Charge!! Men's Private School",
+    "ja": "魁!!男塾"
+  },
+  "start_date": "1988-07-23",
+  "end_date": "1988-07-23",
+  "synopsis": "Otokojuku, a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through the feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men.\n(Source: Animenfo)",
+  "mean": 6.62,
+  "rank": 6229,
+  "popularity": 10089,
+  "num_list_users": 2854,
+  "num_scoring_users": 1114,
+  "nsfw": "white",
+  "created_at": "2008-03-01T05:24:07+00:00",
+  "updated_at": "2021-10-15T20:50:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 4440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

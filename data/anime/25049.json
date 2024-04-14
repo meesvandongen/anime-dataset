@@ -1,0 +1,49 @@
+{
+  "id": 25049,
+  "title": "Sushi Ninja",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/64109.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/64109l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スシニンジャ"
+  },
+  "start_date": "2014-07-03",
+  "end_date": "2014-11-28",
+  "synopsis": "Elite Sushi Ninja fights with evil Monsters for justice every day! They, however, are on the popular superhero TV show…. In the real world, three lazy kids named “IKURA”, “MAGURO”, and “TAMAGO” watch with that TV show. They wish to be Heroes like the Sushi Ninja on the TV show some day, but they always fall out over something stupid. One day, they unexpectedly meet up with a beautiful Princess being chasing by Nachos King Gang. She deems the three guys to be the Heroic Sushi Ninja on TV show and asks them for help. They are so excited and act like the heroes on TV show. Then they decide to face with the enemies to protect the Princess…. Can they be the real Heroes and protect the Princess from the evil?\n\n(Source: Daisuki)",
+  "mean": 4.8,
+  "rank": 12875,
+  "popularity": 14079,
+  "num_list_users": 829,
+  "num_scoring_users": 305,
+  "nsfw": "white",
+  "created_at": "2014-07-03T06:22:38+00:00",
+  "updated_at": "2021-04-18T05:40:25+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 285,
+  "rating": "g",
+  "studios": []
+}

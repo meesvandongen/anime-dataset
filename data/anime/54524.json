@@ -1,0 +1,43 @@
+{
+  "id": 54524,
+  "title": "Sandwich feat. Choi Jung-in",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1453/133449.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1453/133449l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Sandwich (Feat. 정인)"
+  },
+  "start_date": "2016-06-15",
+  "end_date": "2016-06-15",
+  "synopsis": "Music video for the song Sandwich by Samuel Seo feat. Choi Jung-in.",
+  "popularity": 23155,
+  "num_list_users": 91,
+  "num_scoring_users": 52,
+  "nsfw": "white",
+  "created_at": "2023-02-16T19:33:28+00:00",
+  "updated_at": "2023-04-30T18:40:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 206,
+  "rating": "pg_13",
+  "studios": []
+}

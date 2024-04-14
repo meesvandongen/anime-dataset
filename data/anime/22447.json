@@ -1,0 +1,46 @@
+{
+  "id": 22447,
+  "title": "Hello Kitty no Momotarou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/58665.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/58665l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty's Animation Theater 8a"
+    ],
+    "en": "Hello Kitty in Momotaro",
+    "ja": "ハローキティの桃太郎"
+  },
+  "start_date": "2001-10-26",
+  "end_date": "2001-10-26",
+  "synopsis": "Kitty and friends re-create the story of Momotarou.",
+  "mean": 5.8,
+  "rank": 10476,
+  "popularity": 14401,
+  "num_list_users": 754,
+  "num_scoring_users": 237,
+  "nsfw": "white",
+  "created_at": "2014-02-03T22:41:12+00:00",
+  "updated_at": "2021-05-16T21:55:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "average_episode_duration": 900,
+  "rating": "g",
+  "studios": []
+}

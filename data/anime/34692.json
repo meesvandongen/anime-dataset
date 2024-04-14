@@ -1,0 +1,40 @@
+{
+  "id": 34692,
+  "title": "Umbrella Fighter!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/83668.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/83668l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アンブレラ ファイター！"
+  },
+  "start_date": "2005-09-07",
+  "end_date": "2005-09-07",
+  "synopsis": "A story of childhood friends growing up.",
+  "rank": 14146,
+  "popularity": 19238,
+  "num_list_users": 259,
+  "num_scoring_users": 66,
+  "nsfw": "white",
+  "created_at": "2017-01-04T23:28:56+00:00",
+  "updated_at": "2022-02-19T10:03:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 234,
+  "rating": "g",
+  "studios": []
+}

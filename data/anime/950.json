@@ -1,0 +1,48 @@
+{
+  "id": 950,
+  "title": "Street Fighter Alpha: Generations",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/3455.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/3455l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Street Fighter Zero 2"
+    ],
+    "en": "Street Fighter Alpha: Generations",
+    "ja": "ストリートファイターALPHAジェネレーション"
+  },
+  "start_date": "2005-10-25",
+  "end_date": "2005-10-25",
+  "synopsis": "When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma). \n\n(Source: AniDB)",
+  "mean": 6.47,
+  "rank": 7030,
+  "popularity": 5491,
+  "num_list_users": 14439,
+  "num_scoring_users": 8429,
+  "nsfw": "white",
+  "created_at": "2006-04-30T18:02:12+00:00",
+  "updated_at": "2022-11-23T20:48:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 2540,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 77,
+      "name": "APPP"
+    }
+  ]
+}

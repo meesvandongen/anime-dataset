@@ -1,0 +1,53 @@
+{
+  "id": 42952,
+  "title": "Wo Wei Ge Kuang: Xuanlu Chongqi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1295/109372.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1295/109372l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Music Up! I'm Back!",
+      "Music Up: Reborn",
+      "Wo Wei Ge Kuang Zhi Xuan Lv Chong Qi"
+    ],
+    "en": "",
+    "ja": "我为歌狂之旋律重启"
+  },
+  "start_date": "2020-10-02",
+  "end_date": "2020-12-11",
+  "synopsis": "",
+  "rank": 14343,
+  "popularity": 14657,
+  "num_list_users": 691,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2020-09-22T21:46:58+00:00",
+  "updated_at": "2021-07-31T16:01:22+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1474,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1667,
+      "name": "Foch Films"
+    }
+  ]
+}

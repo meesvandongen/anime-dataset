@@ -1,0 +1,44 @@
+{
+  "id": 54120,
+  "title": "RabbiTube Mini",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1459/132468.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1459/132468l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "RabbiTube mini"
+  },
+  "start_date": "2023-01-25",
+  "end_date": "2023-12-24",
+  "synopsis": "Series of short videos celebrating each of the 16 idols' birthdays, featuring the birthday idol along with two supporting characters in each episode.",
+  "rank": 17455,
+  "popularity": 18612,
+  "num_list_users": 294,
+  "num_scoring_users": 87,
+  "nsfw": "white",
+  "created_at": "2023-01-07T05:07:02+00:00",
+  "updated_at": "2023-12-27T16:37:19+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 35,
+  "rating": "g",
+  "studios": []
+}

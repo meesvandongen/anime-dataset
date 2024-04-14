@@ -1,0 +1,53 @@
+{
+  "id": 11411,
+  "title": "Hell Target",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/74341.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/74341l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hell Target",
+    "ja": "HELL TARGET [ヘルターゲット]"
+  },
+  "start_date": "1987-01-21",
+  "end_date": "1987-01-21",
+  "synopsis": "A spaceship is lost near the forbidden planet of Inferno II. Some years later, a second ship with a crew of nine gets there and encounters a monster that rapidly makes mince meat of most of them. The sole survivor, Makurou Kitazato, must destroy the monster before it can surprise a third ship that is already en route.\n\n(Source: AniDB)",
+  "mean": 4.6,
+  "rank": 13056,
+  "popularity": 10248,
+  "num_list_users": 2727,
+  "num_scoring_users": 1066,
+  "nsfw": "white",
+  "created_at": "2011-08-26T21:26:46+00:00",
+  "updated_at": "2022-03-31T05:23:10+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "winter"
+  },
+  "average_episode_duration": 3000,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1260,
+      "name": "Nakamura Production"
+    }
+  ]
+}

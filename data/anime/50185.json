@@ -1,0 +1,58 @@
+{
+  "id": 50185,
+  "title": "Ryman's Club",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1140/120215.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1140/120215l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Salaryman's Club",
+    "ja": "リーマンズクラブ"
+  },
+  "start_date": "2022-01-30",
+  "end_date": "2022-04-17",
+  "synopsis": "The world of corporate badminton is not as easy as it seems. Although considered a former child prodigy, Mikoto Shiratori has not been living up to his potential as a badminton player for Mitsuhoshi Bank. Due to a past incident, Mikoto tries to transition from playing doubles to singles; nevertheless, he fails to produce positive results, much to his employer's dismay.\n\nAfter being fired from the bank, Mikoto is recruited by the Sunlight Beverage corporate badminton team. Surprisingly, not only do practices start in the evening, but he also has to work in the sales department of the company by day. While this is not a novel arrangement, Mikoto had thought he was invited solely to play sports. To make matters worse, he is forced to compete in doubles despite his reluctance.\n\nStruggling to adjust to his new professional life, Mikoto begins to doubt his decision to join the company. However, as he learns more about his latest teammates, he might just find the strength necessary to advance his badminton career.\n\n[Written by MAL Rewrite]",
+  "mean": 7.36,
+  "rank": 2430,
+  "popularity": 2447,
+  "num_list_users": 76229,
+  "num_scoring_users": 27665,
+  "nsfw": "white",
+  "created_at": "2021-10-21T04:47:10+00:00",
+  "updated_at": "2022-12-29T07:19:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1394,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

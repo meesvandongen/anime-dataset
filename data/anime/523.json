@@ -1,0 +1,56 @@
+{
+  "id": 523,
+  "title": "Tonari no Totoro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/75923.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/75923l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Neighbour Totoro"
+    ],
+    "en": "My Neighbor Totoro",
+    "ja": "となりのトトロ"
+  },
+  "start_date": "1988-04-16",
+  "end_date": "1988-04-16",
+  "synopsis": "In 1950s Japan, Tatsuo Kusakabe relocates himself and his two daughters, Satsuki and Mei, to the countryside to be closer to their mother, who is hospitalized due to long-term illness. As the girls grow acquainted with rural life, Mei encounters a small, bunny-like creature in the yard one day. Chasing it into the forest, she finds \"Totoro\"—a giant, mystical forest spirit whom she soon befriends. Before long, Satsuki too meets Totoro, and the two girls suddenly find their lives filled with magical adventures in nature and fantastical creatures of the woods.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.25,
+  "rank": 313,
+  "popularity": 141,
+  "num_list_users": 1061506,
+  "num_scoring_users": 692340,
+  "nsfw": "white",
+  "created_at": "2006-01-05T16:42:20+00:00",
+  "updated_at": "2023-01-18T03:57:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5185,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

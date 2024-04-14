@@ -1,0 +1,54 @@
+{
+  "id": 434,
+  "title": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/26903.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/26903l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Legend of Lemnear",
+    "ja": "Legend of Lemnear 極黒の翼 バルキサス"
+  },
+  "start_date": "1989-07-25",
+  "end_date": "1989-07-25",
+  "synopsis": "The young and beautiful Lemnear's home village is destroyed and her brother is taken away. Lemnear swears to kill the evil wizard Gardin who is responsible for the disaster. With her allies Lemnear goes on a journey to take her revenge. She doesn't know, though, that there is someone above Gardin... \n\n(Source: ANN) ",
+  "mean": 5.53,
+  "rank": 11495,
+  "popularity": 6813,
+  "num_list_users": 8478,
+  "num_scoring_users": 3685,
+  "nsfw": "white",
+  "created_at": "2005-12-26T07:14:19+00:00",
+  "updated_at": "2021-06-16T02:40:22+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2556,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

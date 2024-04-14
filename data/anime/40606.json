@@ -1,0 +1,45 @@
+{
+  "id": 40606,
+  "title": "Captain Tsubasa (2018) Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1173/139465.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1173/139465l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "キャプテン翼"
+  },
+  "start_date": "2019-11-03",
+  "end_date": "2019-11-03",
+  "synopsis": "Short special of Captain Tsubasa (2018) animated for the FNS27 2019 event.",
+  "mean": 6.14,
+  "rank": 8850,
+  "popularity": 13348,
+  "num_list_users": 1010,
+  "num_scoring_users": 440,
+  "nsfw": "white",
+  "created_at": "2019-10-22T04:12:29+00:00",
+  "updated_at": "2023-11-28T14:24:10+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 220,
+  "rating": "pg_13",
+  "studios": []
+}

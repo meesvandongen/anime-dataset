@@ -1,0 +1,81 @@
+{
+  "id": 16498,
+  "title": "Shingeki no Kyojin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "AoT",
+      "SnK"
+    ],
+    "en": "Attack on Titan",
+    "ja": "進撃の巨人"
+  },
+  "start_date": "2013-04-07",
+  "end_date": "2013-09-29",
+  "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.\n\n[Written by MAL Rewrite]",
+  "mean": 8.54,
+  "rank": 111,
+  "popularity": 1,
+  "num_list_users": 3932476,
+  "num_scoring_users": 2788046,
+  "nsfw": "white",
+  "created_at": "2012-12-05T12:03:21+00:00",
+  "updated_at": "2023-12-09T17:50:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:58"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

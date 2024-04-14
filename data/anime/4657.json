@@ -1,0 +1,66 @@
+{
+  "id": 4657,
+  "title": "Arad Senki: Slap Up Party",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1301/134025.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1301/134025l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Slap Up Party Arad Senki",
+      "Dungeon & Fighter - The Animation",
+      "Dungeon & Fighter - Arad Senki"
+    ],
+    "en": "",
+    "ja": "アラド戦記 ～スラップアップパーティー～"
+  },
+  "start_date": "2009-04-04",
+  "end_date": "2009-09-26",
+  "synopsis": "The anime will follow the adventures of Baron, a man living on continent of Arad in the year 981 after \"the cursed light of Kazan\" has fallen across the land. Thanks to the curse, one of his arms has become possessed. After finding a sword that has been possessed by the spirit Roxy, he embarks on a quest to unravel the secret of the curse and meets various people who also join his party.\n\n(Source: ANN)",
+  "mean": 6.69,
+  "rank": 5777,
+  "popularity": 5174,
+  "num_list_users": 16931,
+  "num_scoring_users": 6173,
+  "nsfw": "white",
+  "created_at": "2008-06-06T18:50:35+00:00",
+  "updated_at": "2022-10-18T20:20:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "02:45"
+  },
+  "source": "game",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

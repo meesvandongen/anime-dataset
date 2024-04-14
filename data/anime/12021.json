@@ -1,0 +1,61 @@
+{
+  "id": 12021,
+  "title": "Poyopoyo Kansatsu Nikki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/35455.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/35455l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Poyopoyo",
+    "ja": "ポヨポヨ観察日記"
+  },
+  "start_date": "2012-01-08",
+  "end_date": "2012-12-30",
+  "synopsis": "Moe Sato is a young lady who finds a cat and starts taking care of him. Named Poyo due to his round shape, he quickly becomes a dear member of the Sato family. \n\n(Source: ANN) ",
+  "mean": 7.63,
+  "rank": 1393,
+  "popularity": 4742,
+  "num_list_users": 21086,
+  "num_scoring_users": 9381,
+  "nsfw": "white",
+  "created_at": "2011-11-13T19:53:04+00:00",
+  "updated_at": "2022-04-13T08:55:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 180,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

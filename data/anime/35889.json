@@ -1,0 +1,70 @@
+{
+  "id": 35889,
+  "title": "Hakata Tonkotsu Ramens",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1718/91097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1718/91097l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hakata Tonkotsu Ramens",
+    "ja": "博多豚骨ラーメンズ"
+  },
+  "start_date": "2018-01-12",
+  "end_date": "2018-03-30",
+  "synopsis": "Although the city of Fukuoka might look relatively peaceful at first glance, in actuality it houses a thriving mixture of dangerous individuals such as killers, detectives, and professional revenge seekers right beneath its surface. Among their number is Zenji Banba, a laidback and observant detective who is investigating the work of other hitmen companies in the area. However, Banba might not be the only one with a bone to pick with these organizations, as Xianming Lin, a crossdressing male hitman in the employ of one such company begins getting fed up with his lack of jobs and pay.\n\nOne day, after Lin's current target commits suicide before the hitman could reach him, his company refuses to pay him even half the amount they were originally supposed to for the assassination. Frustrated, Lin requests another mission and is offered the job of taking out Banba, whom his organization believes has been interfering with their business. However, when Banba arrives at his home and finds the hitman inside, Lin surprisingly doesn't even attempt to kill him. Instead, he offers the detective another option: to join him and form a team. With the offer on the table, exactly how will Banba respond, and just what plans does Lin have in store for the underground world of Fukuoka?\n\n[Written by MAL Rewrite]",
+  "mean": 7.37,
+  "rank": 2396,
+  "popularity": 1490,
+  "num_list_users": 155659,
+  "num_scoring_users": 62086,
+  "nsfw": "white",
+  "created_at": "2017-07-10T06:59:44+00:00",
+  "updated_at": "2024-01-27T14:54:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 81,
+      "name": "Crossdressing"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

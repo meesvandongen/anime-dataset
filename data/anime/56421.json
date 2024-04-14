@@ -1,0 +1,48 @@
+{
+  "id": 56421,
+  "title": "Recycle Zoo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1339/138009.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1339/138009l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "りさいくるずー"
+  },
+  "start_date": "2019-04-26",
+  "end_date": "2019-04-26",
+  "synopsis": "",
+  "rank": 17478,
+  "popularity": 25419,
+  "num_list_users": 61,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2023-08-24T03:08:01+00:00",
+  "updated_at": "2023-08-24T15:02:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "g",
+  "studios": []
+}

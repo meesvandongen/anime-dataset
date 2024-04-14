@@ -1,0 +1,70 @@
+{
+  "id": 11665,
+  "title": "Natsume Yuujinchou Shi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/37449.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/37449l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Natsume Yuujinchou Four",
+      "Natsume Yuujinchou 4",
+      "Natsume Yujincho 4"
+    ],
+    "en": "Natsume's Book of Friends Season 4",
+    "ja": "夏目友人帳 肆"
+  },
+  "start_date": "2012-01-03",
+  "end_date": "2012-03-27",
+  "synopsis": "Takashi Natsume, the timid youkai expert and master of the Book of Friends, continues his journey towards self-understanding and acceptance with the help of friends both new and old. His most important ally is still his gluttonous and sake-loving bodyguard, the arrogant but fiercely protective wolf spirit Madara—or Nyanko-sensei, as Madara is called when in his usual disguise of an unassuming, pudgy cat.\n\nNatsume, while briefly separated from Nyanko-sensei, is ambushed and kidnapped by a strange group of masked, monkey-like youkai, who have spirited him away to their forest as they desperately search for the Book of Friends. Realizing that his \"servant\" has been taken out from right under his nose, Nyanko-sensei enlists the help of Natsume's youkai friends and mounts a rescue operation. However, the forest of the monkey spirits holds many dangerous enemies, including the Matoba Clan, Natsume's old nemesis.\n\nStretching from the formidable hideout of the Matoba to Natsume's own childhood home, Natsume Yuujinchou Shi is a sweeping but familiar return to a world of danger and friendship, where Natsume will finally confront the demons of his own past.\n\n[Written by MAL Rewrite]",
+  "mean": 8.64,
+  "rank": 74,
+  "popularity": 990,
+  "num_list_users": 244857,
+  "num_scoring_users": 108527,
+  "nsfw": "white",
+  "created_at": "2011-09-21T16:10:30+00:00",
+  "updated_at": "2024-03-06T11:35:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

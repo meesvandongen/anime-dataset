@@ -1,0 +1,45 @@
+{
+  "id": 36352,
+  "title": "Gomen yo! Wanwan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/87773.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/87773l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ごめんよ！わんわん"
+  },
+  "start_date": "1993-12-02",
+  "end_date": "1993-12-02",
+  "synopsis": "Kids playing kick-the-can accidentally hit a dog that chases them across town. They try to beg forgiveness from it. ",
+  "popularity": 20076,
+  "num_list_users": 212,
+  "num_scoring_users": 88,
+  "nsfw": "white",
+  "created_at": "2017-09-20T05:00:08+00:00",
+  "updated_at": "2018-05-04T15:44:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 143,
+  "rating": "g",
+  "studios": []
+}

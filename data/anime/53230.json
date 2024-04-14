@@ -1,0 +1,44 @@
+{
+  "id": 53230,
+  "title": "Kao An",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1556/128750.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1556/128750l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Port of Return",
+    "ja": "靠岸"
+  },
+  "start_date": "2010-03-05",
+  "end_date": "2010-03-05",
+  "synopsis": "Frostlight, a naive girl, disregards the fortuneteller's warnings, and tries too hard in keeping Westwind's heart. Her attempts catch the attention of Asura, and a war breaks out. Frostlight quickly boards a mysterious ship and departs on a perilous and fantastic journey. This strange ship carries a cast of helpless, tormented souls as it drifts through a mysterious space, unable to make port. The souls fear that Asura could strike at any moment and send them to the Asuran Realm, never to return.\n\n(Source: AniDB)",
+  "rank": 15511,
+  "popularity": 21151,
+  "num_list_users": 153,
+  "num_scoring_users": 35,
+  "nsfw": "white",
+  "created_at": "2022-10-03T01:10:31+00:00",
+  "updated_at": "2022-12-01T12:35:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 4868,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": 3822,
+  "title": "Sougen no Shoujo Laura",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/44648.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/44648l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Laura The Prairie Girl"
+    ],
+    "en": "Laura, Girl of the Prairies",
+    "ja": "草原の少女ローラ"
+  },
+  "start_date": "1975-10-07",
+  "end_date": "1976-03-30",
+  "synopsis": "This anime is based on the same work as the famous American live-action TV series Little House on the Prairie.",
+  "mean": 6.31,
+  "rank": 7979,
+  "popularity": 13345,
+  "num_list_users": 1011,
+  "num_scoring_users": 175,
+  "nsfw": "white",
+  "created_at": "2008-01-30T20:49:47+00:00",
+  "updated_at": "2023-09-18T04:27:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1975,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

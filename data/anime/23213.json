@@ -1,0 +1,60 @@
+{
+  "id": 23213,
+  "title": "Kantoku Fuyuki Todoki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/60065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/60065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kantoku Fuyukitodoki"
+    ],
+    "en": "Insufficient Direction",
+    "ja": "監督不行届"
+  },
+  "start_date": "2014-04-04",
+  "end_date": "2014-07-04",
+  "synopsis": "This is the anime adaptation of Kantoku Fuyuki Todoki (Insufficient Direction), the first essay manga by the \"queen of the manga world,\" Moyoco Anno. The comedic and heartwarming autobiographical story follows her everyday married \"otaku lifestyle\" with Hideaki Anno, \"the founder of the otaku cult.\"\n\n(Source: ANN)",
+  "mean": 5.89,
+  "rank": 10038,
+  "popularity": 7312,
+  "num_list_users": 7123,
+  "num_scoring_users": 2740,
+  "nsfw": "white",
+  "created_at": "2014-03-17T20:19:16+00:00",
+  "updated_at": "2022-03-19T01:59:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

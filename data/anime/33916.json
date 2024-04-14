@@ -1,0 +1,45 @@
+{
+  "id": 33916,
+  "title": "Wanwanwan Coin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/81612.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/81612l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "わんわんわんコイン"
+  },
+  "start_date": "2015-11-30",
+  "end_date": "2016-06-20",
+  "synopsis": "A \"vertical\" anime starring a coin with doglike properties.",
+  "rank": 14260,
+  "popularity": 19762,
+  "num_list_users": 230,
+  "num_scoring_users": 55,
+  "nsfw": "white",
+  "created_at": "2016-08-21T03:17:40+00:00",
+  "updated_at": "2016-08-21T03:17:40+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

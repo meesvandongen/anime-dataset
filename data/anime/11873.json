@@ -1,0 +1,53 @@
+{
+  "id": 11873,
+  "title": "Oraa Guzura Dado (1987)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1433/108697.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1433/108697l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Guzura",
+      "Gozula",
+      "Hey, I'm Guzura!"
+    ],
+    "en": "",
+    "ja": "おらぁグズラだど"
+  },
+  "start_date": "1987-10-02",
+  "end_date": "1988-09-20",
+  "synopsis": "Remake of the first series.\n\nWhen Mt. Bikkura erupts a huge egg one day, a chubby little dinosaur name Guzura hatches out of it. The series follows his misadventures as he interacts with humans as well as other animals and creatures",
+  "mean": 6.31,
+  "rank": 7961,
+  "popularity": 13544,
+  "num_list_users": 958,
+  "num_scoring_users": 389,
+  "nsfw": "white",
+  "created_at": "2011-10-25T19:21:42+00:00",
+  "updated_at": "2013-12-10T15:28:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 44,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 41567,
+  "title": "Isekai Quartet Movie: Another World",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1222/122000.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1222/122000l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Isekai Quartet: Another World"
+    ],
+    "en": "",
+    "ja": "劇場版 異世界かるてっと ～あなざーわーるど～"
+  },
+  "start_date": "2022-06-10",
+  "end_date": "2022-06-10",
+  "synopsis": "The class arrives in another world and they encounter a desolate environment dominated by a rampaging magical automaton.",
+  "mean": 7.47,
+  "rank": 1975,
+  "popularity": 2358,
+  "num_list_users": 80995,
+  "num_scoring_users": 17480,
+  "nsfw": "white",
+  "created_at": "2020-04-01T01:03:05+00:00",
+  "updated_at": "2022-04-16T00:57:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 6720,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 443,
+      "name": "Studio PuYUKAI"
+    }
+  ]
+}

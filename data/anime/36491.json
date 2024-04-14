@@ -1,0 +1,64 @@
+{
+  "id": 36491,
+  "title": "Doupo Cangqiong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/88942.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/88942l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Battle Through the Heavens"
+    ],
+    "en": "Fights Break Sphere",
+    "ja": "斗破苍穹"
+  },
+  "start_date": "2017-01-07",
+  "end_date": "2017-04-01",
+  "synopsis": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?\n\n(Source: wuxiaworld.com)",
+  "mean": 7.22,
+  "rank": 3144,
+  "popularity": 5686,
+  "num_list_users": 13293,
+  "num_scoring_users": 5909,
+  "nsfw": "white",
+  "created_at": "2017-10-02T22:28:31+00:00",
+  "updated_at": "2022-04-22T15:11:46+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 1185,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1667,
+      "name": "Foch Films"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 7498,
+  "title": "Doubutsu Olympic Taikai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/85242.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/85242l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Animal Olympic Games"
+    ],
+    "en": "The Animal Olympics",
+    "ja": "動物オリムピック大會"
+  },
+  "start_date": "1928-09-04",
+  "end_date": "1928-09-04",
+  "synopsis": "Animals gather to compete in Olympic games. This animation was inspired by the 1928 Olympic Games held in Amsterdam.",
+  "mean": 5.45,
+  "rank": 11742,
+  "popularity": 12387,
+  "num_list_users": 1344,
+  "num_scoring_users": 677,
+  "nsfw": "white",
+  "created_at": "2009-11-13T01:02:54+00:00",
+  "updated_at": "2021-11-18T14:16:39+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1928,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 805,
+  "rating": "g",
+  "studios": []
+}

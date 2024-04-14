@@ -1,0 +1,52 @@
+{
+  "id": 5365,
+  "title": "Tsumiki no Ie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1063/117013.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1063/117013l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The House of Small Cubes"
+    ],
+    "en": "La Maison en Petits Cubes",
+    "ja": "つみきのいえ"
+  },
+  "start_date": "2008-06-10",
+  "end_date": "2008-06-10",
+  "synopsis": "In a flooded town where the waters are ever-rising, an old man must constantly build new floors onto his home in order to keep dry. But when his favorite smoking pipe falls into the watery abyss beneath him, he dives into the depths of not only his house, but memories of years past.\n\nTsumiki no Ie is a short film about the everlasting effect of time on one's life—how it can swallow the past entirely, and how one must learn to continue moving forward despite what has already happened.\n\n[Written by MAL Rewrite]",
+  "mean": 8.01,
+  "rank": 624,
+  "popularity": 2121,
+  "num_list_users": 96495,
+  "num_scoring_users": 53502,
+  "nsfw": "white",
+  "created_at": "2008-10-11T01:23:07+00:00",
+  "updated_at": "2022-04-17T09:15:56+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 723,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 234,
+      "name": "Oh! Production"
+    }
+  ]
+}

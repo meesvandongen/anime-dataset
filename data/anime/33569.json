@@ -1,0 +1,48 @@
+{
+  "id": 33569,
+  "title": "Re:Petit kara Hajimeru Isekai Seikatsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/81281.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/81281l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Re:Zero kara Hajimeru Break Time 2"
+    ],
+    "en": "Re:ZERO PETIT",
+    "ja": "Re:プチから始める異世界生活"
+  },
+  "start_date": "2016-06-24",
+  "end_date": "2016-09-23",
+  "synopsis": "Upon waking up, Subaru Natsuki finds himself in a parallel reality of the fantasy world he has come to accept as his own. Despite being familiar faces, Subaru's friends are vastly different, especially as they enjoy the life of modern society that he knows all too well. This mysterious world captures the intrepid boy's interest nonetheless, and a clash between his antics and the dubious inhabitants soon leads to all sorts of amusing scenarios.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.67,
+  "rank": 5897,
+  "popularity": 3048,
+  "num_list_users": 52102,
+  "num_scoring_users": 25511,
+  "nsfw": "white",
+  "created_at": "2016-07-05T15:01:30+00:00",
+  "updated_at": "2022-06-15T20:03:28+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 160,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 443,
+      "name": "Studio PuYUKAI"
+    }
+  ]
+}

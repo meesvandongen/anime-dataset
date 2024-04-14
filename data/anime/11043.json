@@ -1,0 +1,54 @@
+{
+  "id": 11043,
+  "title": "Install Pilot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/30669.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/30669l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "印ストール"
+  },
+  "start_date": "2011-07-18",
+  "end_date": "2011-07-18",
+  "synopsis": "Kamiyashiro Chikage was raised as a fighter of Shumisen, a secret society to seal mononke demons using special spirits called \"In.\" When he was small, his father was killed by traitors to Shumisen and the trauma had made him withdraw into himself. Some years later, he gains the skill of \"In\" and is assigned an undercover mission to execute the traitors in the society.",
+  "mean": 5.48,
+  "rank": 11667,
+  "popularity": 13810,
+  "num_list_users": 891,
+  "num_scoring_users": 288,
+  "nsfw": "white",
+  "created_at": "2011-07-26T23:28:03+00:00",
+  "updated_at": "2024-02-04T16:13:37+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 720,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

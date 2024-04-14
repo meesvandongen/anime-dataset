@@ -1,0 +1,61 @@
+{
+  "id": 13659,
+  "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1325/100406.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1325/100406l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Little Sister Can't Be This Cute 2",
+      "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 2"
+    ],
+    "en": "OreImo 2",
+    "ja": "俺の妹がこんなに可愛いわけがない。"
+  },
+  "start_date": "2013-04-07",
+  "end_date": "2013-06-30",
+  "synopsis": "The diehard otaku Kirino Kousaka has returned and settled back into life in Japan with her friends and family. Despite what her older brother Kyousuke has previously done for her, Kirino continues to give him the cold shoulder, much to his frustration. He is worried that his persuasion for Kirino to drop her track and field training in America and return home may have severely strained his relationship with her. On top of that, Kyousuke now also has to decode a bold and cryptic message from Ruri \"Kuroneko\" Gokou, his junior at school as well as Kirino's friend.\n\nAs the ties between the two siblings and their friends deepen, Kirino and Kyousuke will soon have to figure out how they want to deal with these relationships, helping each other realize their own feelings in the process. In spite of that, Kirino still manages to find time to satisfy her otaku needs with the company of her brother.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.91,
+  "rank": 4664,
+  "popularity": 516,
+  "num_list_users": 435883,
+  "num_scoring_users": 264067,
+  "nsfw": "white",
+  "created_at": "2012-04-01T06:33:56+00:00",
+  "updated_at": "2023-12-16T19:41:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

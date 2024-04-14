@@ -1,0 +1,65 @@
+{
+  "id": 55289,
+  "title": "One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1197/135856.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1197/135856l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Recap",
+      "One Piece Special"
+    ],
+    "en": "One Piece: Recapping Fierce Fights! Zoro vs. a Lead Performer!",
+    "ja": "大激戦特集！ゾロ VS 大看板！"
+  },
+  "start_date": "2023-05-14",
+  "end_date": "2023-05-14",
+  "synopsis": "This is the 7th recap special of the Wano arc.",
+  "mean": 6.56,
+  "rank": 6542,
+  "popularity": 9984,
+  "num_list_users": 2964,
+  "num_scoring_users": 1373,
+  "nsfw": "white",
+  "created_at": "2023-05-14T06:07:28+00:00",
+  "updated_at": "2023-12-29T02:20:47+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

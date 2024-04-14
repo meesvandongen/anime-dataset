@@ -1,0 +1,38 @@
+{
+  "id": 23635,
+  "title": "Poppoya-san: Nonki Kikanshi",
+  "alternative_titles": {
+    "synonyms": [
+      "Poppaya-san: Carefree Engineer"
+    ],
+    "en": "",
+    "ja": "ポッポやさん のんき機関士"
+  },
+  "start_date": "1949-06",
+  "end_date": "1949-06",
+  "synopsis": "A second commisioned movie by the Japanese National Railways for new-hires. This time it follows a carefree engineer's mistake while driving a train.",
+  "rank": 17273,
+  "popularity": 17929,
+  "num_list_users": 340,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2014-04-07T04:20:10+00:00",
+  "updated_at": "2014-04-10T09:44:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1949,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 780,
+  "rating": "g",
+  "studios": []
+}

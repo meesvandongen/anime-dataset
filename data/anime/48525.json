@@ -1,0 +1,49 @@
+{
+  "id": 48525,
+  "title": "Last Lament",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1105/113618.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1105/113618l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Last Lament",
+    "ja": "Last Lament"
+  },
+  "start_date": "2020-07-19",
+  "end_date": "2020-07-19",
+  "synopsis": "A music video for one of Ensemble Star's units, Valkyrie, of their song Last Lament.",
+  "mean": 6.23,
+  "popularity": 18706,
+  "num_list_users": 288,
+  "num_scoring_users": 154,
+  "nsfw": "white",
+  "created_at": "2021-03-23T15:25:18+00:00",
+  "updated_at": "2022-12-05T10:06:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 128,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1793,
+      "name": "Happy Elements"
+    }
+  ]
+}

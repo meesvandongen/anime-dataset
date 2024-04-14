@@ -1,0 +1,62 @@
+{
+  "id": 28607,
+  "title": "Hetalia: The World Twinkle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/71753.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/71753l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hetalia: The World Twinkle",
+    "ja": "ヘタリア The World Twinkle"
+  },
+  "start_date": "2015-07-03",
+  "end_date": "2015-10-09",
+  "synopsis": "United Kingdom and America have to put aside their centuries of differences and cooperate if they want to stand a chance against Italy and Germany on the African Front. After being defeated by a questionable border defense system, France swears vengeance on Germany. In another part of the world, the Nordic countries discuss how similar they are to each other, much to Finland's dismay. Meanwhile, Sealand embarks on a very ambitious quest to search for the other micronations after befriending Wy and Seborga.\n\n[Written by MAL Rewrite]",
+  "mean": 7.2,
+  "rank": 3252,
+  "popularity": 3433,
+  "num_list_users": 41760,
+  "num_scoring_users": 19033,
+  "nsfw": "white",
+  "created_at": "2014-11-27T08:16:41+00:00",
+  "updated_at": "2022-04-13T17:07:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

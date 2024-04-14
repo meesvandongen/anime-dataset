@@ -1,0 +1,67 @@
+{
+  "id": 1489,
+  "title": "Renkin San-kyuu Magical? Pokaan Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/74299.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/74299l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Renkin San-kyuu Magical? Pokaan OVA",
+      "Magipoka",
+      "Renkin Sankyu Magical? Pokan",
+      "Renkin 3-kyuu Magical? Pokan"
+    ],
+    "en": "",
+    "ja": "錬金3級 まじかる?ぽか〜ん"
+  },
+  "start_date": "2006-06-23",
+  "end_date": "2006-10-25",
+  "synopsis": "DVD specials.",
+  "mean": 6.87,
+  "rank": 4870,
+  "popularity": 7127,
+  "num_list_users": 7608,
+  "num_scoring_users": 3584,
+  "nsfw": "white",
+  "created_at": "2006-09-09T16:49:03+00:00",
+  "updated_at": "2018-10-24T06:35:14+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 819,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 49,
+      "name": "Remic"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 22535,
+  "title": "Kiseijuu: Sei no Kakuritsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Parasite",
+      "Parasitic Beasts",
+      "Parasyte"
+    ],
+    "en": "Parasyte: The Maxim",
+    "ja": "寄生獣 セイの格率"
+  },
+  "start_date": "2014-10-09",
+  "end_date": "2015-03-26",
+  "synopsis": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.\n \nSixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable to relocate, the parasite, now named Migi, has no choice but to rely on Shinichi in order to stay alive. Thus, the pair is forced into an uneasy coexistence and must defend themselves from hostile parasites that hope to eradicate this new threat to their species.\n\n[Written by MAL Rewrite]",
+  "mean": 8.33,
+  "rank": 233,
+  "popularity": 42,
+  "num_list_users": 1865357,
+  "num_scoring_users": 1154123,
+  "nsfw": "white",
+  "created_at": "2014-02-06T15:37:45+00:00",
+  "updated_at": "2024-03-06T12:14:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:29"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5967,
+  "title": "Kinnikuman II Sei: Ultimate Muscle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/22234.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/22234l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kinnikuman Nisei: Ultimate Muscle"
+    ],
+    "en": "",
+    "ja": "キン肉マンII世 ULTIMATE MUSCLE"
+  },
+  "start_date": "2004-04-08",
+  "end_date": "2004-07-01",
+  "synopsis": "The Chojin Crown, the tournament which Mantaro (Kid Muscle) reluctantly participates in. After going along with the obstacles (most of which were created to try and eliminate him), he qualified.\n\n(Source: Wikipedia)",
+  "mean": 6.95,
+  "rank": 4505,
+  "popularity": 7038,
+  "num_list_users": 7874,
+  "num_scoring_users": 3808,
+  "nsfw": "white",
+  "created_at": "2009-01-26T08:12:13+00:00",
+  "updated_at": "2023-10-08T09:32:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

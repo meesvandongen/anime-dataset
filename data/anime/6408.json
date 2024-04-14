@@ -1,0 +1,61 @@
+{
+  "id": 6408,
+  "title": "\"Bungaku Shoujo\" Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/81162.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/81162l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Book Girl",
+      "Literature Girl"
+    ],
+    "en": "",
+    "ja": "劇場版“文学少女”"
+  },
+  "start_date": "2010-05-01",
+  "end_date": "2010-05-01",
+  "synopsis": "The protagonist of the story, Konoha Inoue, is a seemingly normal senior high 2nd year student. His high school life, other than a hinted incident 2 years ago, can be summed up as normal- if one can dismiss the secret fact that he used to be a female bestselling romance author. Due to that incident, however, he has now vowed never to write again.\n\nThis continued on until he was forced to join the literary club by the literary club president, the 3rd year female student Amano Tooko, a beautiful girl who has a taste for eating literary works. Now he has been tasked with writing her snack every day after school.\n\n(Source: To Say Nothing of the Dog) ",
+  "mean": 7.33,
+  "rank": 2591,
+  "popularity": 2618,
+  "num_list_users": 68145,
+  "num_scoring_users": 27705,
+  "nsfw": "white",
+  "created_at": "2009-04-25T16:35:45+00:00",
+  "updated_at": "2022-04-08T14:59:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 6055,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

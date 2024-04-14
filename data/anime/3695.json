@@ -1,0 +1,46 @@
+{
+  "id": 3695,
+  "title": "Spectral Force Chronicle Divergence",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/6473.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/6473l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スペクトラルフォース クロニクル ディバージェンス"
+  },
+  "start_date": "2005-06-22",
+  "end_date": "2005-06-22",
+  "synopsis": "Anime based on JRPG series Spectral Force.",
+  "mean": 4.37,
+  "rank": 13153,
+  "popularity": 12632,
+  "num_list_users": 1237,
+  "num_scoring_users": 397,
+  "nsfw": "white",
+  "created_at": "2008-01-09T20:57:09+00:00",
+  "updated_at": "2022-02-10T11:39:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1484,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 318,
+      "name": "WAO World"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 38895,
+  "title": "Double Decker! Doug & Kirill: Extra",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1987/97850.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1987/97850l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "『DOUBLE DECKER! ダグ＆キリル』EXTRA"
+  },
+  "start_date": "2019-02-10",
+  "end_date": "2019-04-10",
+  "synopsis": "During the final episode pre-screening event on Friday, it was announced that Double Decker! Doug & Kirill TV anime will get three extra episodes. Titled Double Decker! Doug & Kirill: Extra, the three episodes will be streamed via Bandai Channel and other streaming websites between February and April 2019. The Blu-ray and DVD for the extra episodes will also be released on May 24, 2019.\n\n(Source: MAL News)",
+  "mean": 7.13,
+  "rank": 3644,
+  "popularity": 7269,
+  "num_list_users": 7205,
+  "num_scoring_users": 3019,
+  "nsfw": "white",
+  "created_at": "2018-12-24T20:31:22+00:00",
+  "updated_at": "2023-10-09T06:49:12+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1450,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 53151,
+  "title": "Onmyouji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1757/139317.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1757/139317l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Onmyoji",
+    "ja": "陰陽師"
+  },
+  "start_date": "2023-11-28",
+  "end_date": "2023-11-28",
+  "synopsis": "Onmyouji tells the story of renowned onmyouji Abe no Seimei, who meets and befriends the straightforward court noble Minamoto no Hiromasa. Together, they deal with strange cases in the Heian capital surrounding demons and curses.\n",
+  "mean": 6.99,
+  "rank": 4343,
+  "popularity": 6962,
+  "num_list_users": 8100,
+  "num_scoring_users": 2710,
+  "nsfw": "white",
+  "created_at": "2022-09-25T10:09:38+00:00",
+  "updated_at": "2024-01-03T23:49:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 553,
+      "name": "Marvy Jack"
+    }
+  ]
+}

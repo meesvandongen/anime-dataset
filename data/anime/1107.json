@@ -1,0 +1,74 @@
+{
+  "id": 1107,
+  "title": "Youjuu Toshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/50021.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/50021l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Demon Beast City",
+      "Supernatural Beast City",
+      "Yoju Toshi"
+    ],
+    "en": "Wicked City",
+    "ja": "妖獣都市"
+  },
+  "start_date": "1987-04-25",
+  "end_date": "1987-04-25",
+  "synopsis": "There is Earth, our familiar world, and then there is the Black World, a parallel dimension that very few people are aware of. For centuries, a pact between the two worlds has been observed to maintain peace, and terms must be negotiated and renewed soon to continue relative harmony.\n\nThis time around, there is a militant faction that will stop at nothing to prevent the signing of a new treaty for inter-dimensional peace. Two agents of the elite organization known as the Black guards—defenders of the balance between the two worlds—are charged with ensuring the success of the treaty.\n\nDirector Yoshiaki Kawajiri (Ninja Scroll) blends stylish eroticism, graphic horror and pulse-pounding action as these two race to consummate the peace treaty in time.\n\n(Source: AniDB)",
+  "mean": 6.44,
+  "rank": 7223,
+  "popularity": 2921,
+  "num_list_users": 56249,
+  "num_scoring_users": 22122,
+  "nsfw": "white",
+  "created_at": "2006-06-14T15:50:34+00:00",
+  "updated_at": "2022-10-03T16:10:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 4932,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

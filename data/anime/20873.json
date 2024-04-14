@@ -1,0 +1,49 @@
+{
+  "id": 20873,
+  "title": "Hana no Zundamaru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/55141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/55141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "花のずんだ丸"
+  },
+  "start_date": "2013-10-22",
+  "end_date": "2013-12-09",
+  "synopsis": "Based on the Ninja Awate-maru comedy manga by Jirou Tsunoda.",
+  "mean": 5.67,
+  "rank": 10993,
+  "popularity": 16133,
+  "num_list_users": 489,
+  "num_scoring_users": 173,
+  "nsfw": "white",
+  "created_at": "2013-10-13T21:52:44+00:00",
+  "updated_at": "2020-09-05T22:05:15+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

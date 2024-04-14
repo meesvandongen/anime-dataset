@@ -1,0 +1,87 @@
+{
+  "id": 3712,
+  "title": "Zero no Tsukaima: Princesses no Rondo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/10256.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/10256l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zero no Tsukaima: Princess no Rondo",
+      "Rondo of the Princesses",
+      "Zero's Familiar 3rd Series",
+      "Zero no Tsukaima S3"
+    ],
+    "en": "The Familiar of Zero: Rondo of Princesses",
+    "ja": "ゼロの使い魔 ～三美姫（プリンセッセ）の輪舞（ロンド）～"
+  },
+  "start_date": "2008-07-07",
+  "end_date": "2008-09-22",
+  "synopsis": "Following his brave sacrifice in the war against Albion, Saito Hiraga is knighted and treated as an aristocrat, something that proves difficult for Louise Françoise Le Blanc de La Vallière. With their relationship no longer defined as the mighty Void mage and clueless familiar, she wonders what exactly this means for them.\n\nWhile venturing to a castle, Louise is ambushed by a powerful mage named Sheffield. Battling alone, the young mage nearly faces defeat until Saito makes his appearance. The mystical and unknown nature of Void magic seems to be at work in the battle, and Louise begins to believe in the possibility of another Void user. Moreover, she realizes that Saito's magical rune is fading, and so a new adventure begins as they search for the elf who revived Saito in the past. The relationship between former master and servant faces a new challenge as they work to restore the runes and redefine the bond which holds them together.\n\n[Written by MAL Rewrite]",
+  "mean": 7.32,
+  "rank": 2658,
+  "popularity": 505,
+  "num_list_users": 445926,
+  "num_scoring_users": 271280,
+  "nsfw": "white",
+  "created_at": "2008-01-12T03:09:59+00:00",
+  "updated_at": "2022-04-15T20:30:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

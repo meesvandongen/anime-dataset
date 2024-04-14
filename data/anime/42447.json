@@ -1,0 +1,50 @@
+{
+  "id": 42447,
+  "title": "Menghuan Shuyuan: Youxue Ji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1830/108465.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1830/108465l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Menghuan Shuyuan 2nd Season"
+    ],
+    "en": "",
+    "ja": "梦幻书院 游学季"
+  },
+  "start_date": "2019-10-07",
+  "end_date": "2020-01-06",
+  "synopsis": "Second season of Menghuan Shuyuan.",
+  "rank": 16362,
+  "popularity": 20378,
+  "num_list_users": 195,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2020-07-13T01:23:21+00:00",
+  "updated_at": "2020-07-13T01:23:21+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 130,
+  "studios": [
+    {
+      "id": 2073,
+      "name": "Painting Dream"
+    }
+  ]
+}

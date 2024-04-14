@@ -1,0 +1,60 @@
+{
+  "id": 2213,
+  "title": "Black Jack (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1588/133791.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1588/133791l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Black Jack 2004"
+    ],
+    "en": "",
+    "ja": "ブラックジャック"
+  },
+  "start_date": "2004-10-11",
+  "end_date": "2006-03-06",
+  "synopsis": "Black Jack is an \"unregistered\" doctor with a clouded, mysterious past. He works with his little assistant Pinoko (who has a massive crush on the doctor), dealing with medical cases not very well known, which can be strange, dangerous, or not known at all. But he is a genius, and can save almost any of his patients' life (as long as they have the money for it, that is), and is known to many around the world, especially to those of medicine and science. He's a man of science himself, and does not believe much until he has seen it, yet it is many times he is surprised by love and nature often overpowering the science he bases his life in.  \n\n(Source: ANN)",
+  "mean": 7.58,
+  "rank": 1557,
+  "popularity": 3703,
+  "num_list_users": 36290,
+  "num_scoring_users": 12545,
+  "nsfw": "white",
+  "created_at": "2007-03-27T18:18:34+00:00",
+  "updated_at": "2022-11-17T06:52:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 61,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
+}

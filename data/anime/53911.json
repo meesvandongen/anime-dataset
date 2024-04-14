@@ -1,0 +1,62 @@
+{
+  "id": 53911,
+  "title": "Nanatsu no Taizai: Ensa no Edinburgh Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1597/137276.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1597/137276l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Seven Deadly Sins: Grudge of Edinburgh Part 2",
+    "ja": "七つの大罪 怨嗟のエジンバラ 後編"
+  },
+  "start_date": "2023-08-08",
+  "end_date": "2023-08-08",
+  "synopsis": "The second part of Nanatsu no Taizai: Ensa no Edinburgh.",
+  "mean": 6.56,
+  "rank": 6538,
+  "popularity": 5540,
+  "num_list_users": 14137,
+  "num_scoring_users": 5861,
+  "nsfw": "white",
+  "created_at": "2022-12-21T10:41:37+00:00",
+  "updated_at": "2023-11-27T12:39:30+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 3240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 553,
+      "name": "Marvy Jack"
+    },
+    {
+      "id": 2355,
+      "name": "Alfred Imageworks"
+    }
+  ]
+}

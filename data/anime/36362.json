@@ -1,0 +1,45 @@
+{
+  "id": 36362,
+  "title": "Hamburger no Tsukurikata",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/87783.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/87783l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ハンバーグの作り方"
+  },
+  "start_date": "1996-02-02",
+  "end_date": "1996-02-02",
+  "synopsis": "A genie chef appears to fulfill the request of some children: making hamburger steaks for dinner!",
+  "popularity": 19823,
+  "num_list_users": 227,
+  "num_scoring_users": 93,
+  "nsfw": "white",
+  "created_at": "2017-09-20T05:21:47+00:00",
+  "updated_at": "2018-05-04T15:44:48+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 139,
+  "rating": "g",
+  "studios": []
+}

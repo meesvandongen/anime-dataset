@@ -1,0 +1,39 @@
+{
+  "id": 51202,
+  "title": "Kimi to Soda",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1608/121326.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1608/121326l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "キミトソーダ"
+  },
+  "start_date": "2022-03-07",
+  "end_date": "2022-03-07",
+  "synopsis": "Official music video for the song Kimi to Soda by Airi Miyakawa. The video is a mix of live-action and animation.",
+  "popularity": 20701,
+  "num_list_users": 176,
+  "num_scoring_users": 91,
+  "nsfw": "white",
+  "created_at": "2022-03-08T22:07:46+00:00",
+  "updated_at": "2022-03-08T22:08:49+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 241,
+  "rating": "g",
+  "studios": []
+}

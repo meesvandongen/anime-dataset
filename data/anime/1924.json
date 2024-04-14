@@ -1,0 +1,72 @@
+{
+  "id": 1924,
+  "title": "Urusei Yatsura Movie 5: Kanketsu-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1776/113284.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1776/113284l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Urusei Yatsura Movie 5: The Final Chapter"
+    ],
+    "en": "Urusei Yatsura Movie 5: The Final Chapter",
+    "ja": "うる星やつら 完結篇"
+  },
+  "start_date": "1988-02-06",
+  "end_date": "1988-02-06",
+  "synopsis": "The Urusei Yatsura story comes to a climax in this animated retelling of the final Manga story (although not the final movie). Lupa, yet another one of Lum's fiancés, arrives on the scene, and Lum and Ataru have to repeat their game of tag in order to prevent the Earth from being destroyed.\n\nAll Ataru has to do to win is say \"I love you\" the three words he has steadfastly refused to say to Lum. Will he admit his true feelings and save the Earth? Or will his pride doom it to destruction?\n\n(Source: AniDB)",
+  "mean": 7.44,
+  "rank": 2104,
+  "popularity": 6755,
+  "num_list_users": 8664,
+  "num_scoring_users": 3385,
+  "nsfw": "white",
+  "created_at": "2007-02-09T23:07:44+00:00",
+  "updated_at": "2022-11-05T04:19:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 5100,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

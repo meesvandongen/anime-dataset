@@ -1,0 +1,47 @@
+{
+  "id": 57368,
+  "title": "Racy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1433/140029.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1433/140029l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "racy"
+  },
+  "start_date": "2023-11-29",
+  "end_date": "2023-11-29",
+  "synopsis": "Music video for the song Racy by Ako (a子).",
+  "popularity": 25234,
+  "num_list_users": 62,
+  "num_scoring_users": 31,
+  "nsfw": "white",
+  "created_at": "2023-11-29T12:45:43+00:00",
+  "updated_at": "2024-02-22T21:30:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 280,
+  "rating": "r",
+  "studios": []
+}

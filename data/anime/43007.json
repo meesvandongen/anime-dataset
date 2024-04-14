@@ -1,0 +1,65 @@
+{
+  "id": 43007,
+  "title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1111/113327.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1111/113327l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Romcom Where The Childhood Friend Won't Lose!",
+      "Osamake"
+    ],
+    "en": "Osamake: Romcom Where The Childhood Friend Won't Lose",
+    "ja": "幼なじみが絶対に負けないラブコメ"
+  },
+  "start_date": "2021-04-14",
+  "end_date": "2021-06-30",
+  "synopsis": "Suehara Maru is childhood best friends with one of Hozumino High School's most popular girls, Kuroha Shida. Cute, outgoing, and affectionate, Kuroha is the perfect older sister type. She has boys constantly begging at her feet to be with her. Yet, when she confesses to Suehara one day, he immediately rejects her; he just can't think of her in that way! Besides, he already has his sights set on his first love—school idol and renowned author Shirokusa Kachi.\n\nSuehara believes that he has a chance with Kachi after one fateful meeting, but soon, he finds out that Kachi has a boyfriend! With his dreams now shattered, Suehara agonizes over what could have been. That is, until Kuroha approaches him with a proposal: \"let's get revenge.\"\n\n[Written by MAL Rewrite]",
+  "mean": 6.07,
+  "rank": 9228,
+  "popularity": 911,
+  "num_list_users": 265096,
+  "num_scoring_users": 117899,
+  "nsfw": "white",
+  "created_at": "2020-10-03T11:33:50+00:00",
+  "updated_at": "2023-01-13T01:21:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "21:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

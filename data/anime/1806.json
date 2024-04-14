@@ -1,0 +1,66 @@
+{
+  "id": 1806,
+  "title": "Master Mosquiton '99",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/1806.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/1806l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Master of Mosquiton '99",
+    "ja": "マスターモスキートン'99"
+  },
+  "start_date": "1997-09-30",
+  "end_date": "1998-03-31",
+  "synopsis": "Catholic schoolgirl Inaho discovers that a vampire, Mosquiton, is feeding off of her classmates. So she stakes him, but he is revived after her blood comes in contact with the his remains. Mosquiton becomes her slave and also a history teacher. Together, along with Yuuki and Honou, the unlikely duo have many escapades and adventures. One of Inaho's main goals is to find the mythical O-Part to make some money!\n\n(Source: AnimeNfo)",
+  "mean": 6.82,
+  "rank": 5090,
+  "popularity": 8624,
+  "num_list_users": 4728,
+  "num_scoring_users": 1617,
+  "nsfw": "white",
+  "created_at": "2006-12-28T00:16:22+00:00",
+  "updated_at": "2021-05-31T04:42:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 81,
+      "name": "Radix"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 29886,
+  "title": "Bogeul Bogeul Bomulseon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/71745.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/71745l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Submarine Bubble Bubble",
+    "ja": "보글보글 보물선"
+  },
+  "start_date": "2007-07-25",
+  "end_date": "2007-07-25",
+  "synopsis": "A bunch of dreamers and treasure hunters go hunting for a legendary dragon treasure.\n\n(Source: AniDB)",
+  "rank": 18588,
+  "popularity": 17447,
+  "num_list_users": 377,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2015-02-04T12:03:22+00:00",
+  "updated_at": "2018-05-27T06:09:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "average_episode_duration": 3313,
+  "rating": "pg_13",
+  "studios": []
+}

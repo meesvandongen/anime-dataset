@@ -1,0 +1,48 @@
+{
+  "id": 30349,
+  "title": "Mole Zhuang Yuan II: Hai Yao Bao Cang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/72643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/72643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Legend of the Moles: The Treasure of Scylla",
+    "ja": "摩尔庄园Ⅱ：海妖宝藏"
+  },
+  "start_date": "2012-07-05",
+  "end_date": "2012-07-05",
+  "synopsis": "",
+  "rank": 16578,
+  "popularity": 19115,
+  "num_list_users": 265,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2015-03-16T23:52:39+00:00",
+  "updated_at": "2021-09-25T10:52:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 5700,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": 38387,
+  "title": "Kimi no Sekai ni Hanataba wo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1837/94815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1837/94815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Strawberry Anniversary",
+      "Hige"
+    ],
+    "en": "Kimi no Sekai ni Hanataba wo.",
+    "ja": "きみの世界に花束を"
+  },
+  "start_date": "2018-09-25",
+  "end_date": "2018-09-25",
+  "synopsis": "Official music video for Hige's song Kimi no Sekai ni Hanataba wo. It was also included on their album \"Strawberry Anniversary\" released the following day. The music video is a fusion of live-action and animation.",
+  "mean": 5.61,
+  "popularity": 19984,
+  "num_list_users": 217,
+  "num_scoring_users": 104,
+  "nsfw": "white",
+  "created_at": "2018-09-25T09:03:15+00:00",
+  "updated_at": "2020-03-26T09:06:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 273,
+  "rating": "g",
+  "studios": []
+}

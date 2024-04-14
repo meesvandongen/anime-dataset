@@ -1,0 +1,44 @@
+{
+  "id": 36851,
+  "title": "Bousai Keihatsu Douga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/89145.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/89145l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Disaster Awareness Video",
+    "ja": "防災啓発動画"
+  },
+  "start_date": "2014-04",
+  "end_date": "2014-04",
+  "synopsis": "In preparation for a large-scale disaster occurring in the Tokyo metropolitan area, we used the visually appealing and memorable medium of anime to make a \"disaster prevention educational video\" with the objective of conveying easy-to-understand disaster-prevention knowledge to foreign residents of Japan. \n\nIn the four languages of Japanese, English, Chinese, and Korean, the video teaches knowledge such as what be cautious of in the event of an earthquake, what to prepare in advance for an earthquake, and what to do if an earthquake occurs while at work or away from home. We hope that the video will be useful in raising disaster-prevention awareness, and in preparing for a disaster.\n\n(Source: Tokyo International Communication Committee)",
+  "rank": 18620,
+  "popularity": 19529,
+  "num_list_users": 241,
+  "num_scoring_users": 85,
+  "nsfw": "white",
+  "created_at": "2017-11-24T15:18:57+00:00",
+  "updated_at": "2017-11-24T15:18:57+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 392,
+  "rating": "g",
+  "studios": []
+}

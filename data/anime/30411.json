@@ -1,0 +1,51 @@
+{
+  "id": 30411,
+  "title": "Happy Jozy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/72785.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/72785l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Happy George"
+    ],
+    "en": "",
+    "ja": "ハッピージョージ"
+  },
+  "start_date": "2015-04-03",
+  "end_date": "2016-04-01",
+  "synopsis": "A comedic family of Americans experience life in Japan.",
+  "rank": 19955,
+  "popularity": 15512,
+  "num_list_users": 555,
+  "num_scoring_users": 77,
+  "nsfw": "white",
+  "created_at": "2015-03-22T05:14:06+00:00",
+  "updated_at": "2019-07-10T23:29:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:05"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 55690,
+  "title": "Boku no Kokoro no Yabai Yatsu Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1643/138581.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1643/138581l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bokuyaba"
+    ],
+    "en": "The Dangers in My Heart Season 2",
+    "ja": "僕の心のヤバイやつ 第2期"
+  },
+  "start_date": "2024-01-07",
+  "end_date": "2024-03-31",
+  "synopsis": "After an eventful winter break, Kyoutarou Ichikawa and Anna Yamada reunite with a stronger bond. They continue to grow in their own ways, with Yamada taking on more challenging photoshoots and Ichikawa maturing both physically and emotionally as he tackles his affections for Yamada. However, spending time together outside of school allows for their relationship to deepen, and it becomes increasingly difficult to deny their budding romantic feelings.\n\nGrappling with these unexpected and new emotions, Ichikawa and Yamada realize that, with the passage of time, their relationship is bound to change—and they must ultimately decide whether they wish to remain close friends or finally become a couple.\n\n[Written by MAL Rewrite]",
+  "mean": 8.9,
+  "rank": 21,
+  "popularity": 1452,
+  "num_list_users": 160927,
+  "num_scoring_users": 74221,
+  "nsfw": "gray",
+  "created_at": "2023-06-17T17:06:30+00:00",
+  "updated_at": "2024-03-22T09:06:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1384,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

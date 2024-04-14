@@ -1,0 +1,55 @@
+{
+  "id": 6885,
+  "title": "Sora no Manimani Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/22483.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/22483l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chuu no Manimani Specials"
+    ],
+    "en": "At The Mercy of The Sky Specials",
+    "ja": "宙のまにまに"
+  },
+  "start_date": "2009-09-02",
+  "end_date": "2009-12-16",
+  "synopsis": "Extra anime shorts included on DVD.\n\nEpisode 1: Summer Memories (Vol. 1)\nEpisode 2: The Meteor Distance (Vol. 3)\nEpisode 3: Twinkle Star (Vol. 5)\n\nNote: Music video specials are not included in the entry as they don't contain any new scenes.",
+  "mean": 6.55,
+  "rank": 6576,
+  "popularity": 7881,
+  "num_list_users": 5927,
+  "num_scoring_users": 2892,
+  "nsfw": "white",
+  "created_at": "2009-07-27T07:35:20+00:00",
+  "updated_at": "2021-06-11T11:17:36+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}

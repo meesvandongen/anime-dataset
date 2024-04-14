@@ -1,0 +1,66 @@
+{
+  "id": 2072,
+  "title": "Idol Project",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/2736.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/2736l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイドルプロジェクト"
+  },
+  "start_date": "1995-09-22",
+  "end_date": "1997-10-24",
+  "synopsis": "Mimu Emilton is a cute fourteen-year-old who has come to the annual Starland Festival to become an idol, just like her role model, Yuri. It is the most celebrated event on a united Earth, and Yuri, now the President of Earth, has encouraged people to join the ranks of Excellent Idols. Unfortunately for Mimu, she can never seem to make it to her audition on time, as misadventure after misadventure lands her in situations (usually involving undergarment exposure, I might add) that she escapes with the help of the current Excellent Idols, whom she befriends. Just as she makes her place on the stage and begins her audition, though, an unknown group of aliens kidnaps her and the Excellent Idols. It is only the beginning of a wild interdimensional goose-chase that places Mimu in the position to save the world, if only she can believe in herself.\n\n(Source: AnimeNfo)",
+  "mean": 5.83,
+  "rank": 10351,
+  "popularity": 10411,
+  "num_list_users": 2595,
+  "num_scoring_users": 834,
+  "nsfw": "white",
+  "created_at": "2007-03-10T00:23:18+00:00",
+  "updated_at": "2023-07-21T19:16:57+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1995,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1724,
+      "name": "Studio OX"
+    }
+  ]
+}

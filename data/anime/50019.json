@@ -1,0 +1,47 @@
+{
+  "id": 50019,
+  "title": "Matenrou to Rinkai-ten",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1281/118544.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1281/118544l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "摩天楼と臨界点"
+  },
+  "start_date": "2018-02-09",
+  "end_date": "2018-02-09",
+  "synopsis": "Music video for the song Matenrou to Rinkai-ten by Sayonara Ponytail.",
+  "popularity": 20694,
+  "num_list_users": 177,
+  "num_scoring_users": 97,
+  "nsfw": "white",
+  "created_at": "2021-10-05T09:49:52+00:00",
+  "updated_at": "2021-10-06T12:24:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 201,
+  "rating": "g",
+  "studios": []
+}

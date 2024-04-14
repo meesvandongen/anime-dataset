@@ -1,0 +1,62 @@
+{
+  "id": 4536,
+  "title": "Muteki Robo Trider G7",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1703/93953.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1703/93953l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Invincible Robo Trider G7",
+    "ja": "無敵ロボトライダーG7"
+  },
+  "start_date": "1980-02-02",
+  "end_date": "1981-01-03",
+  "synopsis": "Takeo Watta inherits a company upon his father's death. The company focuses on space travel, and the transformable robot Trider-G7 is their greatest creation. When an evil space organization lead by Lord Zakuron starts attacking Earth, Watta has to use Trider in a more combat-oriented way.\n\n(Source: ANN)",
+  "mean": 6.53,
+  "rank": 6727,
+  "popularity": 12006,
+  "num_list_users": 1525,
+  "num_scoring_users": 449,
+  "nsfw": "white",
+  "created_at": "2008-05-19T16:54:54+00:00",
+  "updated_at": "2021-01-20T14:24:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 1980,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

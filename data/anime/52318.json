@@ -1,0 +1,54 @@
+{
+  "id": 52318,
+  "title": "Doraemon Movie 42: Nobita to Sora no Utopia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1299/131609.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1299/131609l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "映画ドラえもん のび太と空の理想郷"
+  },
+  "start_date": "2023-03-03",
+  "end_date": "2023-03-03",
+  "synopsis": "Nobita and his friends embark on a quest to find an ideal land called Paradapia, similar to Thomas More's Utopia. Guided by Doraemon's futuristic gadgets and time-travel abilities, they uncover Paradapia's secrets and face challenges, including encounters with a bounty hunter named Marimba. The story revolves around their efforts to unravel the mysteries surrounding Paradapia, leading to a positive resolution and the anticipation of future adventures.",
+  "mean": 7.31,
+  "rank": 2678,
+  "popularity": 11045,
+  "num_list_users": 2123,
+  "num_scoring_users": 713,
+  "nsfw": "gray",
+  "created_at": "2022-07-06T07:23:24+00:00",
+  "updated_at": "2022-12-28T04:46:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 6420,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

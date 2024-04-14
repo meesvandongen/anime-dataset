@@ -1,0 +1,58 @@
+{
+  "id": 40983,
+  "title": "Hakushon Daimaou 2020",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1940/123370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1940/123370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Genie Family 2020",
+    "ja": "ハクション大魔王2020"
+  },
+  "start_date": "2020-04-11",
+  "end_date": "2020-09-26",
+  "synopsis": "50 years have passed since the events of the original Hakushon Daimaou series. Akubi is training to become queen when she meets Kantarou Yodama, the grandson of the genie bottle's original owner, Kan-chan. Together, Akubi and Kantarou take on many jobs in the human world and learn the importance of having a dream.",
+  "mean": 6.03,
+  "rank": 9432,
+  "popularity": 13119,
+  "num_list_users": 1080,
+  "num_scoring_users": 258,
+  "nsfw": "white",
+  "created_at": "2020-01-01T12:03:37+00:00",
+  "updated_at": "2022-12-25T09:04:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    },
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

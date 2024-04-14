@@ -1,0 +1,54 @@
+{
+  "id": 37739,
+  "title": "Future Card Shin Buddyfight",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1367/95055.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1367/95055l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Future Card Buddyfight Ace",
+    "ja": "フューチャーカード 神バディファイト"
+  },
+  "start_date": "2018-06-02",
+  "end_date": "2019-04-27",
+  "synopsis": "Set 23 years after the end of the original Future Card Buddyfight where the son of Gao Mikado, Yuga Mikado discovers Buddyfight for the first time. When he starts playing the game, he awakens his instincts and becomes an amazing buddyfighter over a short period of time. This attention brings along its own challenges from brand new rivals and friends. However, this fame and joy comes at a cost. \n\nThis is the next generation of Buddyfight!",
+  "mean": 6.38,
+  "rank": 7566,
+  "popularity": 9676,
+  "num_list_users": 3296,
+  "num_scoring_users": 1475,
+  "nsfw": "white",
+  "created_at": "2018-04-14T00:34:15+00:00",
+  "updated_at": "2022-03-05T07:45:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 47,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "08:00"
+  },
+  "source": "card_game",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    },
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

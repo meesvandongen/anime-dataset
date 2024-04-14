@@ -1,0 +1,62 @@
+{
+  "id": 18767,
+  "title": "BlazBlue: Alter Memory",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/56137.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/56137l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "BlazBlue: Alter Memory",
+    "ja": "ブレイブルー オルターメモリー"
+  },
+  "start_date": "2013-10-09",
+  "end_date": "2013-12-25",
+  "synopsis": "The story is set in December of 2199, when the streets are full of anticipation for the end of the year and the start of the new one. Amid the celebrations, word spreads that Ragna the Bloodedge, an SS-class rebel with the highest ever bounty on his head, has appeared in the 13th Hierarchical City of Kagutsuchi. The apparent aim of Ragna or the \"Grim Reaper\" is the destruction of the system controlling the world. To collect the bounty, a motley array of unrivaled fighters converge on Kagutsuchi.\n\n(Source: ANN)",
+  "mean": 6.08,
+  "rank": 9177,
+  "popularity": 2227,
+  "num_list_users": 89416,
+  "num_scoring_users": 38267,
+  "nsfw": "white",
+  "created_at": "2013-05-18T00:37:28+00:00",
+  "updated_at": "2023-10-03T09:34:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    },
+    {
+      "id": 949,
+      "name": "teamKG"
+    }
+  ]
+}

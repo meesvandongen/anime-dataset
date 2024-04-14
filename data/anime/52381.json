@@ -1,0 +1,57 @@
+{
+  "id": 52381,
+  "title": "Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1135/125337.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1135/125337l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Life After I Became a Dummy Head Mic One Morning",
+      "Aru Asa Dummy Head Mike ni Natteita Ore-kun no Jinsei"
+    ],
+    "en": "",
+    "ja": "ある朝ダミーヘッドマイクになっていた俺クンの人生"
+  },
+  "start_date": "2022-10-13",
+  "end_date": "2022-12-29",
+  "synopsis": "After reincarnating into a dummy head microphone, the protagonist gets involved in the lives of high school girls who do ASMR. The comedic anime will follow these high schoolers as they aim for the ASMR Koshien.\n\n(Source: MAL News)",
+  "mean": 5.03,
+  "rank": 12626,
+  "popularity": 4817,
+  "num_list_users": 20435,
+  "num_scoring_users": 6514,
+  "nsfw": "gray",
+  "created_at": "2022-07-13T16:19:37+00:00",
+  "updated_at": "2023-10-03T00:57:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:00"
+  },
+  "source": "original",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1794,
+      "name": "EKACHI EPILKA"
+    },
+    {
+      "id": 2248,
+      "name": "Indivision"
+    }
+  ]
+}

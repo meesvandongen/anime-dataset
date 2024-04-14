@@ -1,0 +1,54 @@
+{
+  "id": 51466,
+  "title": "Sekai ga Horobiru Mae ni Kimi ni Aitai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1394/122207.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1394/122207l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "World, Before You End",
+    "ja": "セカイが滅びる前にキミに会いたい"
+  },
+  "start_date": "2021-02-06",
+  "end_date": "2021-02-06",
+  "synopsis": "Two people separated by time and space must unravel their tangled history before the world comes to an end.\n\n(Source: HIDIVE)",
+  "mean": 4.92,
+  "rank": 12756,
+  "popularity": 11240,
+  "num_list_users": 2001,
+  "num_scoring_users": 602,
+  "nsfw": "white",
+  "created_at": "2022-03-30T00:44:27+00:00",
+  "updated_at": "2022-08-04T09:40:56+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1894,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2252,
+      "name": "Studio Kingyoiro"
+    }
+  ]
+}

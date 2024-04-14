@@ -1,0 +1,41 @@
+{
+  "id": 39220,
+  "title": "Wormy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1394/98936.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1394/98936l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Wormy",
+    "ja": "WORMY"
+  },
+  "start_date": "2014-01-02",
+  "end_date": "2014-01-02",
+  "synopsis": "Original film by Kakeru Mizui, featuring music from Masato Abe. \"An old book\" was written by a writer, and was read by many people. The interpretation of the intention of the writer and readers of this book, is just like \"life.\" I created this work with a theme about \"words lives are close and open,\" which represents the concept of life and regeneration.\" \n\n(Source: Vimeo)",
+  "mean": 5.61,
+  "rank": 11259,
+  "popularity": 18776,
+  "num_list_users": 284,
+  "num_scoring_users": 129,
+  "nsfw": "white",
+  "created_at": "2019-02-07T18:30:18+00:00",
+  "updated_at": "2019-03-08T12:18:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 304,
+  "rating": "g",
+  "studios": []
+}

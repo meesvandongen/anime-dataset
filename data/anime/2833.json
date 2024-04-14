@@ -1,0 +1,52 @@
+{
+  "id": 2833,
+  "title": "Gulliver no Uchuu Ryokou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/45358.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/45358l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gulliver's Space Travels: Beyond the Moon",
+      "Gulliver Boy"
+    ],
+    "en": "",
+    "ja": "ガリバーの宇宙旅行"
+  },
+  "start_date": "1965-03-20",
+  "end_date": "1965-03-20",
+  "synopsis": "Ted meets the aged professor Gulliver in a deep, dark forest. Accompanied by Mack the dog, a toy soldier called The General, and the Crow, the two set off on a journey to the Planet of Blue Hope in their spaceship the Gulliver.\n\n(Source: AniDB)",
+  "mean": 5.78,
+  "rank": 10544,
+  "popularity": 11647,
+  "num_list_users": 1733,
+  "num_scoring_users": 669,
+  "nsfw": "white",
+  "created_at": "2007-07-21T09:22:47+00:00",
+  "updated_at": "2021-08-16T22:21:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1965,
+    "season": "winter"
+  },
+  "average_episode_duration": 4800,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

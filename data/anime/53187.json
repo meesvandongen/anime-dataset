@@ -1,0 +1,53 @@
+{
+  "id": 53187,
+  "title": "Two Rooms",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1745/128597.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1745/128597l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Two Rooms",
+    "ja": "Two Rooms"
+  },
+  "start_date": "2017-03-24",
+  "end_date": "2017-03-24",
+  "synopsis": "A short film by Takehiko Takashi from The Village of Marchen.\n\nA man attempts to write but constant distractions keep him unfocused.",
+  "rank": 14107,
+  "popularity": 21359,
+  "num_list_users": 143,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2022-09-27T20:29:47+00:00",
+  "updated_at": "2022-09-28T08:48:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 421,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 350,
+      "name": "The Village of Marchen"
+    }
+  ]
+}

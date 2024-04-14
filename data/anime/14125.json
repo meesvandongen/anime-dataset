@@ -1,0 +1,46 @@
+{
+  "id": 14125,
+  "title": "Otogi no Kuni no Birthday",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/38955.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/38955l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "おとぎの国のBirthday"
+  },
+  "start_date": "1988-12-01",
+  "end_date": "1988-12-01",
+  "synopsis": "Animated music video of a single released by Noriko Sakai in 1989.",
+  "mean": 5.01,
+  "popularity": 16498,
+  "num_list_users": 452,
+  "num_scoring_users": 207,
+  "nsfw": "white",
+  "created_at": "2012-05-16T03:41:23+00:00",
+  "updated_at": "2019-01-31T02:24:31+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 147,
+  "rating": "g",
+  "studios": []
+}

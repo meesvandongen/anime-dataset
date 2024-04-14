@@ -1,0 +1,65 @@
+{
+  "id": 6951,
+  "title": "Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/30085.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/30085l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yugioh",
+      "Yu-Gi-Oh! The Movie: Ultra Fusion! Bonds Over Time and Space",
+      "Yu-Gi-Oh! 10th Anniversary Special",
+      "10th Anniversary Gekijouban",
+      "Yu-Gi-Oh! The Movie: Super Fusion! Bonds That Transcend Time",
+      "Yu-Gi-Oh! Bonds Beyond Time"
+    ],
+    "en": "Yu-Gi-Oh! 3D: Bonds Beyond Time",
+    "ja": "劇場版 遊☆戯☆王 ～超融合! 時空を越えた絆～"
+  },
+  "start_date": "2010-01-23",
+  "end_date": "2010-01-23",
+  "synopsis": "While riding with Jack Atlas and Crow Hogan, Yuusei Fudou's Stardust Dragon is captured by Paradox, a mysterious Turbo Duelist from the future, during a Turbo Duel and turned into a Sin Monster. With the help of the Crimson Dragon, Yuusei chases after Paradox as he enters a time slip, ending up in the past. During this time, Paradox duels against Jaden Yuki, who is still able to use the powers of Yubel and The Supreme King. However, by this time Paradox had also captured Cyber End Dragon and Rainbow Dragon and overwhelms Jaden. He is saved thanks to Yuusei and the Crimson Dragon. Jaden informs Yuusei of Paradox's true intentions. By stealing various monsters from across time and turning them dark, he plans to kill Maximillion Pegasus, the creator of Duel Monsters, preventing the game from being created and causing the events of all three series to never happen.\n\nYuusei and Jaden agree to pursue Paradox, which leads them to the past and causes a meeting with the King of Games, Yuugi Mutou. However, by the time Yuusei and Jaden arrive, Paradox had already attacked his time, supposedly killing both Pegasus and Yuugi's grandpa, and had also managed to steal Blue-Eyes White Dragon and Red-Eyes Black Dragon. After explaining everything to Yuugi, he agrees to fight with Yuusei and Jaden against Paradox in the ultimate three-on-one duel to free the trapped monsters and save both the world and time itself before it's too late.\n\n(Source: Wikipedia)",
+  "mean": 7.13,
+  "rank": 3636,
+  "popularity": 3135,
+  "num_list_users": 49169,
+  "num_scoring_users": 30508,
+  "nsfw": "white",
+  "created_at": "2009-08-08T19:39:13+00:00",
+  "updated_at": "2022-04-06T09:32:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2940,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 34205,
+  "title": "GJ8man",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/82312.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/82312l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "GJ8man",
+    "ja": "GJ8マン"
+  },
+  "start_date": "2016-10-08",
+  "synopsis": "Gorou Joe is a boy who lives a carefree life in the small historical town of Gujo Hachiman in Gifu prefecture. One day an old self-professed \"water fairy\" appears in front of Joe, and tells him to help people, and grants Joe the power to turn into \"GJ8 Man\" (a pun on Gujo Hachiman, as the number 8 is pronounced \"hachi\" in Japanese, and the \"hachi\" in \"Hachiman\" uses the kanji for the number 8).\n\n(Source: ANN)",
+  "rank": 19723,
+  "popularity": 17687,
+  "num_list_users": 359,
+  "num_scoring_users": 60,
+  "nsfw": "white",
+  "created_at": "2016-10-08T16:23:49+00:00",
+  "updated_at": "2017-11-10T16:03:03+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

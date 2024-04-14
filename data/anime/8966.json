@@ -1,0 +1,56 @@
+{
+  "id": 8966,
+  "title": "Tottoko Hamtarou OVA 4: Hamuchanzu no Mezase! Hamuhamu Kin Medal - Hashire! Hashire! Daisakusen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/24829.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/24829l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hamtaro OVA 4",
+      "Tottoko Hamutarou: Hamuchanzu no Mezase! Hamuhamu Kin Medal"
+    ],
+    "en": "Hamtaro: Ham-Ham Games",
+    "ja": "ハムちゃんずのめざせ!ハムハム金メダル 〜はしれ!はしれ!だいさくせん〜"
+  },
+  "start_date": "2004-12-01",
+  "end_date": "2004-12-01",
+  "synopsis": "Considered the prequel to the fourth Hamtaro game (fifth in Japan). In this tribute to the 2004 Olympics, Hamtaro and the Ham-Hams are tasked by Prince Bo with lighting the everlasting torch to Hamcropolis. However, the Rainbow Girls will not allow this and pursue the Ham-Hams.\n\n(Source: Wikipedia)",
+  "mean": 6.23,
+  "rank": 8396,
+  "popularity": 11781,
+  "num_list_users": 1645,
+  "num_scoring_users": 530,
+  "nsfw": "white",
+  "created_at": "2010-06-08T21:32:51+00:00",
+  "updated_at": "2021-04-20T05:29:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "average_episode_duration": 2400,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

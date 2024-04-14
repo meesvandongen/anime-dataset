@@ -1,0 +1,47 @@
+{
+  "id": 10409,
+  "title": "Kyouhaku: Owaranai Ashita - Special Stage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/28592.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/28592l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyouhaku Special Stage: Dare ga Tameni Kane Hanaru"
+    ],
+    "en": "The Blackmail: Tomorrow Never Ends - Special Stage",
+    "ja": "SPECIAL STAGE 誰がために鐘はなる"
+  },
+  "start_date": "2001-04-27",
+  "end_date": "2001-04-27",
+  "synopsis": "Events of the original 3 episodes are being retold by Aya.",
+  "mean": 5.17,
+  "popularity": 12947,
+  "num_list_users": 1134,
+  "num_scoring_users": 329,
+  "nsfw": "gray",
+  "created_at": "2011-02-27T13:24:57+00:00",
+  "updated_at": "2018-03-02T04:11:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 2100,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2321,
+      "name": "Production D.M.H"
+    }
+  ]
+}

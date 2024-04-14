@@ -1,0 +1,47 @@
+{
+  "id": 37529,
+  "title": "Kabushikigaisha OPT Shinsotsu Saiyou Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1118/91233.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1118/91233l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "OPT Recruiting Animation"
+    ],
+    "en": "",
+    "ja": "株式会社オプト新卒採用MOVIE"
+  },
+  "start_date": "2012-02-02",
+  "end_date": "2012-02-02",
+  "synopsis": "Talent recruitment video for OPT Ltd., an e-marketing research company. The theme song was sung by Handsome Kenya.",
+  "mean": 5.76,
+  "rank": 10609,
+  "popularity": 18287,
+  "num_list_users": 315,
+  "num_scoring_users": 122,
+  "nsfw": "white",
+  "created_at": "2018-03-20T09:37:35+00:00",
+  "updated_at": "2018-04-23T03:16:01+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 331,
+  "rating": "g",
+  "studios": []
+}

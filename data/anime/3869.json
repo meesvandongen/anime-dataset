@@ -1,0 +1,58 @@
+{
+  "id": 3869,
+  "title": "Sakura Momoko Gekijou: Coji-Coji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/6922.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/6922l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cojicoji",
+      "Koji-koji",
+      "Sakura Momoko Theatre: Kojikoji"
+    ],
+    "en": "Coji-Coji",
+    "ja": "さくらももこ劇場 コジコジ"
+  },
+  "start_date": "1997-10-04",
+  "end_date": "1999-09-25",
+  "synopsis": "The only thing that concerns Coji Coji is enjoying life and the wonders of nature. Coji Coji’s friends, on the other hand, are a varied bunch of colorful characters whose many idiosyncrasies have a tendency to create turmoil among one another. Coji Coji’s carefree ways and tendency to shirk responsibility are sometimes a source of frustration, but his childlike wisdom has a way of resolving all of their differences.\n\n(Source: AniDB)",
+  "mean": 6.5,
+  "rank": 6913,
+  "popularity": 14342,
+  "num_list_users": 767,
+  "num_scoring_users": 177,
+  "nsfw": "white",
+  "created_at": "2008-02-04T16:48:31+00:00",
+  "updated_at": "2022-04-04T14:50:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 100,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

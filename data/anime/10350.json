@@ -1,0 +1,64 @@
+{
+  "id": 10350,
+  "title": "Hakuouki: Sekkaroku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/71799.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/71799l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hakuouki Hekketsuroku OVA"
+    ],
+    "en": "Hakuoki: Demon of the Fleeting Blossom - A Memory of Snow Flowers",
+    "ja": "薄桜鬼 雪華録"
+  },
+  "start_date": "2011-08-05",
+  "end_date": "2012-06-27",
+  "synopsis": "Rumors about a potential plot to dismantle the Shinsengumi by setting fire to their headquarters have spread amok. As most of the talk stems from an inn in Shimabara, the Shinsengumi place trust in Chizuru Yukimura for help with the investigation. Disguised as a geisha, Chizuru infiltrates the inn to provide intel for the Shinsengumi but quickly finds that the operation is more intricate than they could ever imagine.\n\nAt the same time, each member of the Shinsengumi has their own reservations and concerns about using their sole female colleague to gather intelligence. Knowing what dangers await her, they all resolve to protect her at any cost.\n\n[Written by MAL Rewrite]",
+  "mean": 7.59,
+  "rank": 1520,
+  "popularity": 4181,
+  "num_list_users": 27976,
+  "num_scoring_users": 11556,
+  "nsfw": "white",
+  "created_at": "2011-02-13T19:10:42+00:00",
+  "updated_at": "2023-04-24T08:48:40+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 3470,
+  "title": "Special A",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/77363.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/77363l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "S.A.",
+      "Special A Class"
+    ],
+    "en": "Special A (S.A)",
+    "ja": "スペシャル・エー"
+  },
+  "start_date": "2008-04-07",
+  "end_date": "2008-09-15",
+  "synopsis": "Hikari Hanazono has always been able to do things that normal people cannot. As a child, she assumed no one could beat her—until she met Kei Takishima. Thinking she would win, Hikari challenged him to a match. But things didn’t go as planned; she lost not once but each time she rechallenged him. From that point on, she has sworn to best Kei at everything, ranging from academics to athletics.\n\nTo achieve her goal, Hikari enrolls in the same school as Kei—Hakusenkan, a prestigious institute for the wealthy. As a pair, they hold the top two rankings in school and are among seven of the academy's best students in a class known as Special A.\n\nWhile Hikari treats Kei as a rival, she is completely oblivious that he harbors hidden feelings for her. Together, the members of Special A deal with competition, friendship, and just a bit of love.\n\n[Written by MAL Rewrite]",
+  "mean": 7.5,
+  "rank": 1870,
+  "popularity": 641,
+  "num_list_users": 366547,
+  "num_scoring_users": 186557,
+  "nsfw": "white",
+  "created_at": "2007-11-26T05:20:16+00:00",
+  "updated_at": "2022-04-17T21:10:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    },
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

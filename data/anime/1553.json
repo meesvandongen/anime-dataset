@@ -1,0 +1,58 @@
+{
+  "id": 1553,
+  "title": "Queen Emeraldas",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/21120.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/21120l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クィーン・エメラルダス"
+  },
+  "start_date": "1998-06-05",
+  "end_date": "1999-12-18",
+  "synopsis": "The story revolves around a race that seeks to dominate the galaxy. A lone mysterious female warrior, known to others as Emeraldas sails the endless planets of the universe- in her Seas of Star ship- fighting the tyranny of that merciless race. She is tormented by the memory of her lost love.\n\n(Source: ANN)",
+  "mean": 6.83,
+  "rank": 5072,
+  "popularity": 7064,
+  "num_list_users": 7785,
+  "num_scoring_users": 2689,
+  "nsfw": "white",
+  "created_at": "2006-10-09T16:57:48+00:00",
+  "updated_at": "2022-03-17T23:44:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 2160,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

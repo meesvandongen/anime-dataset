@@ -1,0 +1,40 @@
+{
+  "id": 49196,
+  "title": "Housenka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1972/115759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1972/115759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fairy Flower",
+    "ja": "逢仙花"
+  },
+  "start_date": "1973-04",
+  "end_date": "1973-04",
+  "synopsis": "Photographs of the artist’s grandmother are superimposed with animation that traces her life, and the work ends with the memorial photograph displayed at her funeral. A sense of tranquility pervades this documentary animation work.\n\n(Source: Collaborative Cataloging Japan)",
+  "rank": 20190,
+  "popularity": 19834,
+  "num_list_users": 226,
+  "num_scoring_users": 36,
+  "nsfw": "white",
+  "created_at": "2021-06-14T05:02:50+00:00",
+  "updated_at": "2021-06-14T05:02:50+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1973,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 814,
+  "rating": "g",
+  "studios": []
+}

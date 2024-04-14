@@ -1,0 +1,78 @@
+{
+  "id": 121,
+  "title": "Fullmetal Alchemist",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/75815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hagane no Renkinjutsushi",
+      "FMA",
+      "Full Metal Alchemist"
+    ],
+    "en": "Fullmetal Alchemist",
+    "ja": "鋼の錬金術師"
+  },
+  "start_date": "2003-10-04",
+  "end_date": "2004-10-02",
+  "synopsis": "Edward Elric, a young, brilliant alchemist, has lost much in his twelve-year life: when he and his brother Alphonse try to resurrect their dead mother through the forbidden act of human transmutation, Edward loses his brother as well as two of his limbs. With his supreme alchemy skills, Edward binds Alphonse's soul to a large suit of armor.\n\nA year later, Edward, now promoted to the fullmetal alchemist of the state, embarks on a journey with his younger brother to obtain the Philosopher's Stone. The fabled mythical object is rumored to be capable of amplifying an alchemist's abilities by leaps and bounds, thus allowing them to override the fundamental law of alchemy: to gain something, an alchemist must sacrifice something of equal value. Edward hopes to draw into the military's resources to find the fabled stone and restore his and Alphonse's bodies to normal. However, the Elric brothers soon discover that there is more to the legendary stone than meets the eye, as they are led to the epicenter of a far darker battle than they could have ever imagined.\n\n[Written by MAL Rewrite]",
+  "mean": 8.11,
+  "rank": 481,
+  "popularity": 81,
+  "num_list_users": 1468556,
+  "num_scoring_users": 890494,
+  "nsfw": "white",
+  "created_at": "2005-11-11T14:35:32+00:00",
+  "updated_at": "2023-01-30T15:16:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

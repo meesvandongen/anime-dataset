@@ -1,0 +1,52 @@
+{
+  "id": 429,
+  "title": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/28863.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/28863l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaleido Star: Layla Hamilton Story"
+    ],
+    "en": "Kaleido Star: Legend of Phoenix - The Layla Hamilton Story",
+    "ja": "カレイドスター Legend of Phoenix ～レイラ・ハミルトン物語～"
+  },
+  "start_date": "2005-12-11",
+  "end_date": "2005-12-11",
+  "synopsis": "Layla is going to perform Phoenix in Broadway. Playing this important role, she sets out on a journey by bicycle alone without leaving any message in order to find out what she's missing inside.",
+  "mean": 7.84,
+  "rank": 896,
+  "popularity": 5501,
+  "num_list_users": 14372,
+  "num_scoring_users": 6901,
+  "nsfw": "white",
+  "created_at": "2005-12-26T06:50:33+00:00",
+  "updated_at": "2023-09-18T01:28:49+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 3000,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

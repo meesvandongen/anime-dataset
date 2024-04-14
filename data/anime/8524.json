@@ -1,0 +1,59 @@
+{
+  "id": 8524,
+  "title": "The Kabocha Wine: Nita no Aijou Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/23073.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/23073l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Pumpkin Wine: Nita's Love Story"
+    ],
+    "en": "",
+    "ja": "Ｔｈｅかぼちゃワイン ニタの愛情物語"
+  },
+  "start_date": "1984-07-14",
+  "end_date": "1984-07-14",
+  "synopsis": "",
+  "mean": 6.1,
+  "rank": 9077,
+  "popularity": 14031,
+  "num_list_users": 841,
+  "num_scoring_users": 197,
+  "nsfw": "white",
+  "created_at": "2010-04-02T06:15:10+00:00",
+  "updated_at": "2022-11-06T09:29:59+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

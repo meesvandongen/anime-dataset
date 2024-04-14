@@ -1,0 +1,58 @@
+{
+  "id": 4210,
+  "title": "Gokiburi-tachi no Tasogare",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/17430.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/17430l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Twilight of the Cockroaches",
+    "ja": "ゴキブリたちの黄昏"
+  },
+  "start_date": "1987-11-21",
+  "end_date": "1987-11-21",
+  "synopsis": "Hybrid film with animated cockroaches interacting with live-action actors.\n\nIn a trashy bachelor pad lived a colony of roaches who were able to roam freely for food or for games. Because of the homeowner being gentle with the roaches, they have no fear of traps, spray, or being stepped on. However when the homeowner starts bringing over a woman over, life starts to change for the roaches who are already living an easy life.\n\n(Source: ANN)",
+  "mean": 5.83,
+  "rank": 10344,
+  "popularity": 10688,
+  "num_list_users": 2387,
+  "num_scoring_users": 686,
+  "nsfw": "white",
+  "created_at": "2008-04-03T03:50:04+00:00",
+  "updated_at": "2022-10-03T19:39:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 6300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    },
+    {
+      "id": 1952,
+      "name": "Animation Staff Room"
+    }
+  ]
+}

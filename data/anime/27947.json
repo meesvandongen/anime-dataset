@@ -1,0 +1,75 @@
+{
+  "id": 27947,
+  "title": "Lupin III (2015)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75949.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75949l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lupin III: Part IV",
+      "Lupin III: L'avventura italiana",
+      "Lupin Sansei (2015)",
+      "Lupin III (2015)"
+    ],
+    "en": "Lupin the Third Part 4",
+    "ja": "ルパン三世"
+  },
+  "start_date": "2015-10-02",
+  "end_date": "2016-03-18",
+  "synopsis": "Lupin is the main character in this series which takes place in Italy and San Marino.\n\nReflecting its setting, the anime debuted in Italy before it aired in Japan. Lupin III fans will note that the titular thief now dons a blue coat, following his earlier appearances in green (first series and some OVAs), red (the second series as well as most films and television specials) and pink (third series).\n\n(Source: Crunchyroll)",
+  "mean": 7.9,
+  "rank": 773,
+  "popularity": 2559,
+  "num_list_users": 71174,
+  "num_scoring_users": 22758,
+  "nsfw": "white",
+  "created_at": "2014-10-14T23:32:13+00:00",
+  "updated_at": "2022-04-17T15:27:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:29"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 18339,
+  "title": "Pro Yakyuu wo 10-bai Tanoshiku Miru Houhou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/49119.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/49119l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pro Yakyu o Jubai Tanoshiku Muru Hoho",
+      "The Racing Baseball"
+    ],
+    "en": "",
+    "ja": "プロ野球を10倍楽しく見る方法"
+  },
+  "start_date": "1983-04-29",
+  "end_date": "1983-04-29",
+  "synopsis": "Based on the two books of career reminiscences by real-life Hanshin Tigers baseball star Takenori Emoto.\n\nMix of live action and animation to tell humorous anecdotes from professional baseball (nine short tales in nine \"innings\"). \n\n(Source: AniDB)",
+  "rank": 17306,
+  "popularity": 17586,
+  "num_list_users": 368,
+  "num_scoring_users": 76,
+  "nsfw": "white",
+  "created_at": "2013-04-12T18:30:39+00:00",
+  "updated_at": "2013-04-13T07:35:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "spring"
+  },
+  "source": "book",
+  "average_episode_duration": 5820,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

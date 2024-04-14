@@ -1,0 +1,48 @@
+{
+  "id": 23487,
+  "title": "Witch Craft Works Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/73603.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/73603l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Witchcraft Works Specials"
+    ],
+    "en": "Witch Craft Works Specials",
+    "ja": "なぜなに！？うぃっちくらふとわ～くす"
+  },
+  "start_date": "2014-03-26",
+  "end_date": "2014-08-27",
+  "synopsis": "Specials included in Blu-rays/DVDs of Witch Craft Works.",
+  "mean": 6.74,
+  "rank": 5509,
+  "popularity": 5292,
+  "num_list_users": 15895,
+  "num_scoring_users": 4655,
+  "nsfw": "white",
+  "created_at": "2014-03-30T17:49:20+00:00",
+  "updated_at": "2022-03-27T08:00:57+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 334,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

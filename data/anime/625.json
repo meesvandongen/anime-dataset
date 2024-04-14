@@ -1,0 +1,55 @@
+{
+  "id": 625,
+  "title": "Moekan The Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1008/131352.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1008/131352l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Moekan Company OVA"
+    ],
+    "en": "",
+    "ja": "モエかん THE ANIMATION"
+  },
+  "start_date": "2003-12-19",
+  "end_date": "2004-07-23",
+  "synopsis": "An anarchistic country that is said to dominate the world exists on a vast island known as Moekko Island. This is where the final works of AC Company's android combat maids (resembling beautiful young girls) are done, also where these maids get there communication training. A new maid is to come to the island to be trained, Rinia, she is a young looking girl, who has lost her all of her memories, she tries very hard to impress the owner at Moekko island, but just ends up making a lot of trouble around the mansion. Takahiro, the owner of Moekko island, a depressive young man who has also lost his memories is seen as a very unhappy person who thinks Rinia will only be trouble around the mansion. As time passes, Takahiro slowly grows attached to Rinia's attempted ways of helping and so starts a beautiful relationship among the quiet island. \n\n(Source: ANN)",
+  "mean": 5.43,
+  "rank": 11797,
+  "popularity": 9791,
+  "num_list_users": 3181,
+  "num_scoring_users": 1037,
+  "nsfw": "white",
+  "created_at": "2006-02-02T15:39:58+00:00",
+  "updated_at": "2024-01-05T13:07:17+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1883,
+  "rating": "r+",
+  "studios": []
+}

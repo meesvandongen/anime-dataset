@@ -1,0 +1,59 @@
+{
+  "id": 44963,
+  "title": "Kung Fu Si Xia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1058/123165.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1058/123165l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kungfu Heroes",
+      "Gongfu Si Xia"
+    ],
+    "en": "Four Warriors",
+    "ja": "功夫四侠"
+  },
+  "start_date": "2016-12-17",
+  "end_date": "2016-12-17",
+  "synopsis": "",
+  "rank": 15873,
+  "popularity": 23141,
+  "num_list_users": 91,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2020-12-19T06:22:28+00:00",
+  "updated_at": "2022-04-21T17:41:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 5400,
+  "rating": "pg",
+  "studios": []
+}

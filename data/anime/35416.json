@@ -1,0 +1,52 @@
+{
+  "id": 35416,
+  "title": "Kabuki-bu!: Oogiri \"Chiyocolate-gassen\"",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/85493.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/85493l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kabuki-bu!: Oogiri Chiyokoreito Kassen"
+    ],
+    "en": "",
+    "ja": "カブキブ！ 大喜利「ちよこれいと合戦」"
+  },
+  "start_date": "2017-09-27",
+  "end_date": "2017-09-27",
+  "synopsis": "A special episode bundled with the BD release of the television series.",
+  "mean": 6.17,
+  "rank": 8723,
+  "popularity": 11280,
+  "num_list_users": 1966,
+  "num_scoring_users": 318,
+  "nsfw": "white",
+  "created_at": "2017-04-14T04:28:28+00:00",
+  "updated_at": "2017-07-16T16:32:18+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

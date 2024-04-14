@@ -1,0 +1,43 @@
+{
+  "id": 42593,
+  "title": "Kesshouban: Eigakan e Iku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1971/108781.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1971/108781l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Platelets Go to the Movie Theater"
+    ],
+    "en": "",
+    "ja": "血小板 映画館へ行く"
+  },
+  "start_date": "2020-09-05",
+  "end_date": "2020-09-05",
+  "synopsis": "An anime short screened along with the Hataraku Saibou!!: Saikyou no Teki, Futatabi. Karada no Naka wa \"Chou\" Oosawagi! (Cells at Work!! The Return of the Strongest Enemy. A Huge Uproar in the Body’s Bowels!) theatrical anime.\n\n(Source: ANN)",
+  "mean": 5.91,
+  "rank": 9967,
+  "popularity": 8436,
+  "num_list_users": 5012,
+  "num_scoring_users": 422,
+  "nsfw": "white",
+  "created_at": "2020-08-01T15:55:18+00:00",
+  "updated_at": "2021-09-16T19:59:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 197,
+  "rating": "pg_13",
+  "studios": []
+}

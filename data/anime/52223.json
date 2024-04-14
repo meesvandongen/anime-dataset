@@ -1,0 +1,44 @@
+{
+  "id": 52223,
+  "title": "Gakitabi!: Seishun Oshiro-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1067/126826.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1067/126826l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "がきたびっ！～青春お城編～"
+  },
+  "start_date": "2020-03-30",
+  "end_date": "2020-03-30",
+  "synopsis": "Produced by Ogaki City, Gifu Prefecture. An anime that introduces the history and culture of Ogaki City.",
+  "rank": 19620,
+  "popularity": 19224,
+  "num_list_users": 259,
+  "num_scoring_users": 85,
+  "nsfw": "white",
+  "created_at": "2022-06-27T15:45:17+00:00",
+  "updated_at": "2024-02-09T11:53:20+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 469,
+  "rating": "g",
+  "studios": []
+}

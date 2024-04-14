@@ -1,0 +1,39 @@
+{
+  "id": 55332,
+  "title": "LaRiLaRu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1912/135939.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1912/135939l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "LaRiLaRu"
+  },
+  "start_date": "2023-02-28",
+  "end_date": "2023-02-28",
+  "synopsis": "Music video for the song LaRiLaRu by BPM15Q.",
+  "popularity": 21230,
+  "num_list_users": 149,
+  "num_scoring_users": 85,
+  "nsfw": "white",
+  "created_at": "2023-05-19T13:59:55+00:00",
+  "updated_at": "2023-05-19T16:33:20+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": []
+}

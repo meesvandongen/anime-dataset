@@ -1,0 +1,49 @@
+{
+  "id": 33706,
+  "title": "Gui Bao: Baoxiao Chuang Yuzhou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1780/90322.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1780/90322l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gui bao zhi bao xiao chuang yu zhou"
+    ],
+    "en": "Kwai Boo",
+    "ja": "桂宝之爆笑闯宇宙"
+  },
+  "start_date": "2015-08-06",
+  "end_date": "2015-08-06",
+  "synopsis": "Gui Bao is a genius who dreams of becoming an inventor who creates a technology that changes the course of humanity. However, his latest invention turns out to be a disaster.\n\n(Sourc: IMDB)",
+  "rank": 19815,
+  "popularity": 21125,
+  "num_list_users": 154,
+  "num_scoring_users": 37,
+  "nsfw": "white",
+  "created_at": "2016-07-21T08:24:12+00:00",
+  "updated_at": "2020-01-29T18:59:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "average_episode_duration": 5643,
+  "rating": "g",
+  "studios": []
+}

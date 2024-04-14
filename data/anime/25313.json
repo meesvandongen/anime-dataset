@@ -1,0 +1,78 @@
+{
+  "id": 25313,
+  "title": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1327/110925.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1327/110925l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gintama: Jump Festa 2014 Special",
+      "Gintama OAD",
+      "Gintama OVA"
+    ],
+    "en": "",
+    "ja": "銀魂 〜布団に入ってから拭き残しに気付いて寝るに寝れない時もある〜"
+  },
+  "start_date": "2015-04-03",
+  "end_date": "2015-04-03",
+  "synopsis": "Bundled with limited edition of the 58th Gintama manga volume.\n\nThe tagline for the bundled anime reads, \"It's time for all the Yorozuya members ...to wake up just one more time.\"\n\n(Source: MAL News, edited)",
+  "mean": 8.13,
+  "rank": 460,
+  "popularity": 3454,
+  "num_list_users": 41362,
+  "num_scoring_users": 18553,
+  "nsfw": "white",
+  "created_at": "2014-07-15T21:54:47+00:00",
+  "updated_at": "2022-04-04T13:24:04+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1492,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

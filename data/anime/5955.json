@@ -1,0 +1,52 @@
+{
+  "id": 5955,
+  "title": "Toaru Majutsu no Index-tan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/26651.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/26651l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A Certain Magical Index-tan Specials"
+    ],
+    "en": "A Certain Magical Index: Specials",
+    "ja": "とある魔術のいんでっくすたん"
+  },
+  "start_date": "2009-02-07",
+  "end_date": "2009-05-29",
+  "synopsis": "A series of shorts featuring Index-tan. ",
+  "mean": 6.91,
+  "rank": 4677,
+  "popularity": 2995,
+  "num_list_users": 53704,
+  "num_scoring_users": 26123,
+  "nsfw": "white",
+  "created_at": "2009-01-23T00:20:01+00:00",
+  "updated_at": "2022-03-08T15:34:12+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 502,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

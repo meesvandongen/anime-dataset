@@ -1,0 +1,43 @@
+{
+  "id": 54505,
+  "title": "Resist feat. MRSHLL",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1493/133431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1493/133431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "resist"
+  },
+  "start_date": "2017-03-27",
+  "end_date": "2017-03-27",
+  "synopsis": "Animated music video for the song \"resist\" by djfriz.",
+  "popularity": 22003,
+  "num_list_users": 117,
+  "num_scoring_users": 62,
+  "nsfw": "white",
+  "created_at": "2023-02-16T17:43:46+00:00",
+  "updated_at": "2023-02-17T16:33:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": []
+}

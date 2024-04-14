@@ -1,0 +1,59 @@
+{
+  "id": 16303,
+  "title": "Chikkun Takkun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1229/98998.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1229/98998l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chicken Takkun",
+      "Chicken Tak-kun",
+      "Chikkun Tak-kun",
+      "Chik-kun Tak-kun"
+    ],
+    "en": "",
+    "ja": "チックン タックン"
+  },
+  "start_date": "1984-04-09",
+  "end_date": "1984-09-28",
+  "synopsis": "The \"Waruchin Ceremony\" has been stolen from All Star, a planet that exists in the outskirts of space. The computer that is built into it is programmed to make anything possible. The thief is actually the villain, Doctor Bell. Doctor Bell schemes to invade the other planets through the use of Waruchin. The prince of All Star, Prince Chikkun, together with his trusty advisor, the intellectual Takkun, decides to head towards Earth in pursuit of Doctor Bell. \n\n(Source: ANN) ",
+  "mean": 6.12,
+  "rank": 8954,
+  "popularity": 14607,
+  "num_list_users": 703,
+  "num_scoring_users": 158,
+  "nsfw": "white",
+  "created_at": "2012-11-16T17:46:09+00:00",
+  "updated_at": "2020-09-28T01:09:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 1984,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    },
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 247,
+  "title": "Harukanaru Toki no Naka de: Hachiyou Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/7227.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/7227l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "HaruToki",
+      "Haruka 8",
+      "Haruka naru Toki no Naka de TV",
+      "Harukanaru Toki no Nakade - Hachiyosho -",
+      "In a Distant Time"
+    ],
+    "en": "Haruka: Beyond the Stream of Time – A Tale of the Eight Guardians",
+    "ja": "遙かなる時空の中で〜八葉抄〜"
+  },
+  "start_date": "2004-10-06",
+  "end_date": "2005-03-30",
+  "synopsis": "Akane Motomiya and her friends Tenma and Shimon are pulled by a demon into another world, where Akane becomes the Priestess of the Dragon God. The people of this world tell her that she is the only one who can stop the demons from taking over; meanwhile, the demons want to use her power for their own ends. Luckily, Akane has the Hachiyou, eight men with powers of their own who are sworn to protect the Dragon Priestess.\n\n(Source: ANN)",
+  "mean": 7,
+  "rank": 4316,
+  "popularity": 4399,
+  "num_list_users": 25086,
+  "num_scoring_users": 7758,
+  "nsfw": "white",
+  "created_at": "2005-11-13T02:46:46+00:00",
+  "updated_at": "2023-09-18T12:05:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:00"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
+}

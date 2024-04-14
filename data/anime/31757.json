@@ -1,0 +1,61 @@
+{
+  "id": 31757,
+  "title": "Kizumonogatari II: Nekketsu-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1981/112812.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1981/112812l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koyomi Vamp",
+      "Kizumonogatari Part 2"
+    ],
+    "en": "Kizumonogatari Part 2: Hot-Blooded",
+    "ja": "傷物語〈Ⅱ熱血篇〉"
+  },
+  "start_date": "2016-08-19",
+  "end_date": "2016-08-19",
+  "synopsis": "No longer truly human, Koyomi Araragi decides to retrieve Kiss-shot Acerola-orion Heart-under-blade's severed body parts that were stolen by three powerful vampire hunters. Awaiting him are Dramaturgie, a vampire hunter who is a vampire himself; Episode, a half-vampire with the ability to transform into mist; and Guillotinecutter, a human priest who is the most dangerous of them all.\n\nUnbeknownst to Araragi, each minute he spends trying to retrieve Kiss-shot's limbs makes him less of a human and more of a vampire. Will he be able to keep his wish of becoming human once again by the end of his battles?\n\n[Written by MAL Rewrite]",
+  "mean": 8.57,
+  "rank": 96,
+  "popularity": 508,
+  "num_list_users": 443927,
+  "num_scoring_users": 268944,
+  "nsfw": "white",
+  "created_at": "2015-10-03T17:19:13+00:00",
+  "updated_at": "2023-09-10T04:31:19+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 3840,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

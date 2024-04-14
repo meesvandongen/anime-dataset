@@ -1,0 +1,50 @@
+{
+  "id": 5998,
+  "title": "Hottarake no Shima: Haruka to Mahou no Kagami",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/22255.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/22255l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Oblivion Island: Haruka and the Magic Mirror",
+    "ja": "ホッタラケの島　～遥と魔法の鏡～"
+  },
+  "start_date": "2009-08-22",
+  "end_date": "2009-08-22",
+  "synopsis": "Your favourite teddy bear. That model kit that took so long to complete. The picture book you used to read over and over again. The shining stone you found that day in the park. Where do all your childhood's treasures go when you grow up? In this story, we meet fantastic creatures that gather all these little objects that fall into oblivion as they are forgotten by their owners when they step into adulthood. These creatures sneak into our world from a different dimension, and unseen by humans, they take all the ditched and forgotten \"treasures\" into their world. Here, they use their booty to build their own city, a fairy tale-like place called... Oblivion Island!\n\n(Source: Production I.G)",
+  "mean": 7.32,
+  "rank": 2633,
+  "popularity": 6474,
+  "num_list_users": 9645,
+  "num_scoring_users": 4330,
+  "nsfw": "white",
+  "created_at": "2009-01-31T08:06:31+00:00",
+  "updated_at": "2022-01-29T14:59:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5880,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 1023,
+      "name": "Polygon Pictures"
+    }
+  ]
+}

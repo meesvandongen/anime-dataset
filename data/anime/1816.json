@@ -1,0 +1,70 @@
+{
+  "id": 1816,
+  "title": "Sonic X",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1801/121070.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1801/121070l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sonic X",
+    "ja": "ソニック X"
+  },
+  "start_date": "2003-04-06",
+  "end_date": "2004-03-28",
+  "synopsis": "Sonic the Hedgehog's typical irreverence leads to the coveted chaos emeralds being caught in the crossfire and rendered unstable just before activation. The resulting chaos control engulfs everything for miles around Dr. Eggman's base, and, with scrambled input, nobody can predict the outcome. \n\nIsolated from his friends and enemies alike, Sonic awakes in a strange world: an unknown city surrounded by mysterious people. He realizes he has been warped across the universe to an entirely different planet—Earth. As he rushes to escape the equally confused authorities, Sonic finds himself falling head-first into the pool of the illustrious Thorndyke family. \n\nThankfully, Christopher, Thonrdykes' son, saves Sonic and offers protection from a society that mistakenly believes him to be hostile. Sheltered by the family, Sonic resolves to regroup with his friends, save this new world from the threat he brought to them, and find a way home.\n\n[Written by MAL Rewrite]",
+  "mean": 6.58,
+  "rank": 6404,
+  "popularity": 2362,
+  "num_list_users": 80595,
+  "num_scoring_users": 48351,
+  "nsfw": "white",
+  "created_at": "2007-01-03T04:54:50+00:00",
+  "updated_at": "2023-09-04T11:01:56+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 78,
+  "start_season": {
+    "year": 2003,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1460,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

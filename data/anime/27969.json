@@ -1,0 +1,60 @@
+{
+  "id": 27969,
+  "title": "Hana to Alice: Satsujin Jiken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/71197.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/71197l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hana & Alice: The Murder Case"
+    ],
+    "en": "The Case of Hana & Alice",
+    "ja": "花とアリス 殺人事件"
+  },
+  "start_date": "2015-02-20",
+  "end_date": "2015-02-20",
+  "synopsis": "After transferring to Ishinomori Middle School, Tetsuko \"Alice\" Arisugawa overhears her classmates discussing a strange rumor. The previous occupant of her seat, a nondescript \"Judas,\" is missing and presumed murdered—poisoned by one of his four wives. Amidst dealing with her mother's undesired meddling in her affairs and warding off her classmates' bullying, the troubled Alice starts to investigate the mystery surrounding Judas' disappearance.\n\nThe trail of clues leads her to the house of her next-door neighbor, the quirky and reclusive Hana Arai. After an awkward introduction, Hana agrees to help Alice and formulates a plan that may lead them to the answers they seek. The two girls embark on a journey to uncover what happened to Judas, and perhaps a friendship may start to blossom between the two along the way.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.25,
+  "rank": 2994,
+  "popularity": 3315,
+  "num_list_users": 44287,
+  "num_scoring_users": 13144,
+  "nsfw": "white",
+  "created_at": "2014-10-16T07:38:30+00:00",
+  "updated_at": "2022-10-12T09:15:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 5880,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1197,
+      "name": "Steve N' Steven"
+    },
+    {
+      "id": 1618,
+      "name": "Rockwell Eyes"
+    }
+  ]
+}

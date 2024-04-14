@@ -1,0 +1,44 @@
+{
+  "id": 17963,
+  "title": "Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/47835.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/47835l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tetsuwan Atom: The Glorious Earth",
+      "Astro Boy: Kagayakeru Chikyuu",
+      "Astro Boy: The Glorious Earth"
+    ],
+    "en": "",
+    "ja": "Tetsuwan Atom 鉄腕アトム 特別編: 輝ける地球 ~あなたは青く、美しい...~"
+  },
+  "start_date": "2004-02-07",
+  "end_date": "2004-02-07",
+  "synopsis": "Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.\n\n(Source: AniDB)",
+  "mean": 6.05,
+  "rank": 9322,
+  "popularity": 12562,
+  "num_list_users": 1268,
+  "num_scoring_users": 318,
+  "nsfw": "white",
+  "created_at": "2013-03-23T15:24:58+00:00",
+  "updated_at": "2023-11-03T23:01:37+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "average_episode_duration": 1200,
+  "rating": "g",
+  "studios": []
+}

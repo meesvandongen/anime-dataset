@@ -1,0 +1,60 @@
+{
+  "id": 58057,
+  "title": "Dubu Wangu 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1222/141295.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1222/141295l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Glorious Revenge of Ye Feng Season 2",
+    "ja": "独步万古 第二季"
+  },
+  "start_date": "2024-02-09",
+  "synopsis": "",
+  "rank": 19378,
+  "popularity": 17600,
+  "num_list_users": 367,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2024-02-07T10:18:59+00:00",
+  "updated_at": "2024-03-19T21:45:52+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 156,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2059,
+      "name": "Suoyi Technology"
+    }
+  ]
+}

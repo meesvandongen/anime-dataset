@@ -1,0 +1,57 @@
+{
+  "id": 2803,
+  "title": "Densetsu no Yuusha da Garn",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1206/105983.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1206/105983l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Legendary Brave da Garn",
+      "Brave Fighter of Legend da-Garn"
+    ],
+    "en": "",
+    "ja": "伝説の勇者ダ・ガーン"
+  },
+  "start_date": "1992-02-08",
+  "end_date": "1993-01-23",
+  "synopsis": "One day, the Earth was assaulted by a space pirate, Orbus. He aimed at Planet Energy, the life energy of the Earth. If several Release Points, where the Planet Energy concentrated, were attacked at once, the Earth would explode.\nWhen the first attack was made, Takasugi Seiji escaped into an old temple with his girl friend Kosaka Hikaru. Then, he received, Orin, a token of the leader of the Earth guardians, from the conscience of the Earth. By the power of Orin, the patrol car was turned into a Robot, Da Garn. \n\n(Source: AnimeNfo)",
+  "mean": 7.19,
+  "rank": 3314,
+  "popularity": 8749,
+  "num_list_users": 4544,
+  "num_scoring_users": 1175,
+  "nsfw": "white",
+  "created_at": "2007-07-15T19:46:51+00:00",
+  "updated_at": "2022-12-18T09:46:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 46,
+  "start_season": {
+    "year": 1992,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

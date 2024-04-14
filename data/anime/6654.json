@@ -1,0 +1,50 @@
+{
+  "id": 6654,
+  "title": "Namakura Gatana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1959/109257.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1959/109257l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Namakura Katana",
+      "Hanawa Hekonai Meitou no Maki",
+      "The Fine Sword",
+      "An Obtuse Sword"
+    ],
+    "en": "The Dull Sword",
+    "ja": "なまくら刀（塙凹内名刀之巻）"
+  },
+  "start_date": "1917-06-30",
+  "end_date": "1917-06-30",
+  "synopsis": "Namakura Gatana, meaning \"dull-edged sword,\" is a four-minute comedy about a samurai who, thanks to his dull instrument, loses every time he attacks a weak opponent. In order to examine the sword, he tries to attack passers-by, but lower-class townspeople fight back and knock him down.\n\n(Source: AniDB)",
+  "mean": 5.49,
+  "rank": 11624,
+  "popularity": 6494,
+  "num_list_users": 9585,
+  "num_scoring_users": 5784,
+  "nsfw": "white",
+  "created_at": "2009-06-21T22:19:17+00:00",
+  "updated_at": "2022-04-17T04:20:04+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1917,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 266,
+  "rating": "g",
+  "studios": []
+}

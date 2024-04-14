@@ -1,0 +1,76 @@
+{
+  "id": 96,
+  "title": "Kidou Butouden G Gundam",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1187/133654.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1187/133654l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mobile Fighter G-Gundam"
+    ],
+    "en": "Mobile Fighter G Gundam",
+    "ja": "機動武闘伝Gガンダム"
+  },
+  "start_date": "1994-04-01",
+  "end_date": "1995-03-31",
+  "synopsis": "In the year Future Century 0060, the many countries that once comprised Earth's surface exist as separate colonies floating in space. Their home planet now uninhabitable, the ruler of all of the colonies is decided by their unanimous participation in the intergalactic Gundam Fight Tournament—a series of battles between the champions of each colony to determine who is most fit to reign over them all.\n\nNeo-Japan's champion is Domon Kasshu, a man who accepts the role with some ulterior motives. Domon searches the galaxy for his brother, a criminal who allegedly murdered their mother and made off with the Devil Gundam, a highly advanced weapon with the power to unleash mass destruction across the galaxy. In his quest to bring his sibling to justice, Domon travels from colony to colony, meeting many of the fighters who will become his allies and enemies in the forthcoming Gundam Fight Tournament.\n\nArmed with the strength of the Shining Gundam, Domon battles to uncover the truth behind his tortured childhood, suffering great betrayal and crushing blows on his quest toward personal and national triumph.\n\n[Written by MAL Rewrite]",
+  "mean": 7.59,
+  "rank": 1529,
+  "popularity": 2595,
+  "num_list_users": 69523,
+  "num_scoring_users": 37531,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:55:26+00:00",
+  "updated_at": "2023-09-15T22:12:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 49,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

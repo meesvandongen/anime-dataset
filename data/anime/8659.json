@@ -1,0 +1,46 @@
+{
+  "id": 8659,
+  "title": "I'm Here with You",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/23870.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/23870l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "I'm here with you ～アイム・ヒア・ウィズ・ユー～"
+  },
+  "start_date": "2009-06-01",
+  "end_date": "2009-06-01",
+  "synopsis": "A gentle song about the earth by Mimori Yusa that was featured on NHK's Minna no Uta. ",
+  "mean": 5.42,
+  "popularity": 14664,
+  "num_list_users": 691,
+  "num_scoring_users": 349,
+  "nsfw": "white",
+  "created_at": "2010-04-22T06:33:36+00:00",
+  "updated_at": "2020-03-30T03:24:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 280,
+  "rating": "g",
+  "studios": []
+}

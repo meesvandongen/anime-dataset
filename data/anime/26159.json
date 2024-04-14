@@ -1,0 +1,52 @@
+{
+  "id": 26159,
+  "title": "Shinken Seminar Koukou Kouza",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/66049.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/66049l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shinken Zemi Koukou Kouza"
+    ],
+    "en": "",
+    "ja": "進研ゼミ高校講座"
+  },
+  "start_date": "2012-04-04",
+  "end_date": "2012-04-04",
+  "synopsis": "Shinken Seminar Koukou Kouza is Benesse's correspondence course that helps middle school students get into their high schools of choice. The story follows a middle school boy named Shouta as he strives to get in the right high school, despite the appearance of a rival.\n\n(Source: ANN)",
+  "mean": 5.49,
+  "rank": 11636,
+  "popularity": 15458,
+  "num_list_users": 564,
+  "num_scoring_users": 114,
+  "nsfw": "white",
+  "created_at": "2014-08-24T09:24:33+00:00",
+  "updated_at": "2024-04-12T11:44:46+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 1940,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    }
+  ]
+}

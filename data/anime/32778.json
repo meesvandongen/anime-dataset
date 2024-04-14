@@ -1,0 +1,40 @@
+{
+  "id": 32778,
+  "title": "Ame no Bus Stop-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/78613.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/78613l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "雨のバス停編"
+  },
+  "start_date": "2009-09-15",
+  "end_date": "2009-09-15",
+  "synopsis": "A music video for Hajime Nikiyoshi's song \"Ame no Bus Stop Hen\".",
+  "mean": 4.71,
+  "popularity": 16520,
+  "num_list_users": 450,
+  "num_scoring_users": 234,
+  "nsfw": "white",
+  "created_at": "2016-02-20T05:07:32+00:00",
+  "updated_at": "2020-03-15T12:45:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 322,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": 801,
+  "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1646/135390.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1646/135390l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ghost In The Shell S.A.C. 2nd GIG"
+    ],
+    "en": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+    "ja": "攻殻機動隊 S.A.C. 2nd GIG"
+  },
+  "start_date": "2004-01-01",
+  "end_date": "2005-01-08",
+  "synopsis": "Following the closure of the \"Laughing Man\" case, Section 9 is re-established by Japan's newly elected Prime Minister, Youko Kayabuki, to combat the persistent threat of cyber-terrorism.\n\nA group calling themselves \"The Individual Eleven\" has begun committing acts of terror across Japan. While Motoko Kusanagi, Daisuke Aramaki, Batou, and the other members of Section 9 investigate this new menace, the Japanese government faces a separate crisis, as foreign refugees displaced by the Third World War seek asylum in Japan. But as the members of the special-ops team continually encounter Gouda Kazundo—a leading member of the Cabinet Intelligence Service—in their hunt, they begin to suspect that he may be involved, and that the events of the refugee crisis and The Individual Eleven may be more connected than they realize...\n\n[Written by MAL Rewrite]",
+  "mean": 8.52,
+  "rank": 123,
+  "popularity": 1067,
+  "num_list_users": 227015,
+  "num_scoring_users": 104023,
+  "nsfw": "white",
+  "created_at": "2006-03-09T22:13:59+00:00",
+  "updated_at": "2023-04-22T09:42:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

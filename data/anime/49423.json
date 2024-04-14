@@ -1,0 +1,52 @@
+{
+  "id": 49423,
+  "title": "Kaitou Queen wa Circus ga Osuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1387/121512.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1387/121512l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mirage Queen Aime Cirque"
+    ],
+    "en": "Mirage QUEEN Prefers Circus",
+    "ja": "怪盗クイーンはサーカスがお好き"
+  },
+  "start_date": "2022-06-17",
+  "end_date": "2022-06-17",
+  "synopsis": "They always steal the prey they aim for. That is Phantom Thief Queen. Gender, age, nationality unknown. Together with their partner Joker, RD, they travel around the world on the airship Troubadour. This time, the Queen is aiming for a cursed jewel, the legendary Rose of Linden. A hypnotist, an acrobat, a magician...the talented circus members challenge the Queen! What is their purpose? In order to get back the jewel, the Queen stands up to the challenge in a bold and brilliant way (or disguise). Nothing is impossible for the Queen!\n\n(Source: HIDIVE)",
+  "mean": 6.35,
+  "rank": 7738,
+  "popularity": 10129,
+  "num_list_users": 2816,
+  "num_scoring_users": 355,
+  "nsfw": "white",
+  "created_at": "2021-07-12T12:37:30+00:00",
+  "updated_at": "2023-03-12T18:23:44+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 3526,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2455,
+      "name": "East Fish Studio"
+    }
+  ]
+}

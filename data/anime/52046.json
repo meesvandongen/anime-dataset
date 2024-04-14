@@ -1,0 +1,60 @@
+{
+  "id": 52046,
+  "title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1084/126652.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1084/126652l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Beast Tamer Who Got Kicked Out From His Party Meets a Cat Girl From the Superior Race"
+    ],
+    "en": "Beast Tamer",
+    "ja": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う"
+  },
+  "start_date": "2022-10-02",
+  "end_date": "2022-12-25",
+  "synopsis": "Among all the beasts that roam the world, there are unique types of \"ultimate species\" that harbor immense strength and magical prowess considered to be at the top of the power scale. As such, many humans covet their abilities, leading some of these species to the brink of extinction.\n\nAs a beast tamer, Rein Shroud can employ the assistance of various animals for many tasks, such as reconnaissance and logistics. By virtue of his ability, he joins a party led by the vile and manipulative hero Arios Orlando, only to be banished after six months due to his uselessness as a non-combative class.\n\nHowever, unbeknownst to the team that cast him away, Rein is an exception among beast tamers. His potential becomes apparent when he meets Kanade—a cat spirit who is also one of the ultimate species—and is able to form a contract with her. With Kanade by his side, Rein sets out on his journey as an adventurer, steadily rising up the ranks and meeting more ultimate species along the way.\n\n[Written by MAL Rewrite]",
+  "mean": 6.93,
+  "rank": 4606,
+  "popularity": 1255,
+  "num_list_users": 189935,
+  "num_scoring_users": 94856,
+  "nsfw": "white",
+  "created_at": "2022-06-10T09:46:02+00:00",
+  "updated_at": "2023-04-10T10:22:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

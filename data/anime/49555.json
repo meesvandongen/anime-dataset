@@ -1,0 +1,62 @@
+{
+  "id": 49555,
+  "title": "Tama & Friends: Sagase! Mahou no Punipuni Stone",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1774/116974.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1774/116974l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tama & Friends: Search for It! The Magic Puni-Puni Stone"
+    ],
+    "en": "",
+    "ja": "タマ&フレンズ 探せ!魔法のプニプニストーン"
+  },
+  "start_date": "2006-05-06",
+  "end_date": "2006-11-04",
+  "synopsis": "A spin-off of Tama & Friends taking place in a fantasy world. Tama, along with his friends Shima and Hat, have to find magic stones accross the universe.\n\n(Source: Anilist)",
+  "rank": 13743,
+  "popularity": 18739,
+  "num_list_users": 286,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2021-08-07T23:28:11+00:00",
+  "updated_at": "2021-12-18T09:29:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday"
+  },
+  "source": "other",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    },
+    {
+      "id": 1025,
+      "name": "Dongwoo A&E"
+    }
+  ]
+}

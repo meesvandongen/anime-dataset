@@ -1,0 +1,62 @@
+{
+  "id": 33033,
+  "title": "Starmyu OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/80195.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/80195l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koukou Hoshi Kageki OVA",
+      "High School Star Musical OVA",
+      "Starmu"
+    ],
+    "en": "",
+    "ja": "高校星歌劇［スタミュ］OVA"
+  },
+  "start_date": "2016-07-27",
+  "end_date": "2016-09-21",
+  "synopsis": "After a successful Ayanagi Festival, Yuuta Hoshitani and the members of Team Ootori celebrate the beginning of a new year and their final semester as first years at Ayanagi Academy. However, with Itsuki Ootori expelled from the Kao Council, Team Ootori no longer qualifies as a Star Team. Stripped of their privileges, they also will not be allowed to participate in the upcoming graduation ceremony. Desperate to get their mentor back, Hoshitani and the others hatch a plan to convince the Kao Council to allow Ootori to reassume his former position.\n\n[Written by MAL Rewrite]",
+  "mean": 7.13,
+  "rank": 3632,
+  "popularity": 7226,
+  "num_list_users": 7342,
+  "num_scoring_users": 2485,
+  "nsfw": "white",
+  "created_at": "2016-03-26T06:43:41+00:00",
+  "updated_at": "2023-07-31T04:52:07+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1075,
+      "name": "C-Station"
+    }
+  ]
+}

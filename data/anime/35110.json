@@ -1,0 +1,63 @@
+{
+  "id": 35110,
+  "title": "Haikyuu!! Movie 3: Sainou to Sense",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/86069.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/86069l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "High Kyuu!! Movie 3",
+      "Haikyuu!! Movie 3: Genius and Sense",
+      "Haikyuu!! Second Season Recap",
+      "Haikyuu!! Recap 3"
+    ],
+    "en": "Haikyu!! The Movie: Talent and Sense",
+    "ja": "ハイキュー!! 才能とセンス"
+  },
+  "start_date": "2017-09-15",
+  "end_date": "2017-09-15",
+  "synopsis": "Following the events of the Inter-High, the Karasuno High School volleyball team decides to regroup by attending an intensive boot camp organized by Nekoma High School in Tokyo. At the camp, the team continues to suffer loss upon loss to the other schools in attendance. Reaching an impasse, the players each struggle to break out of their routine to hone their skills. \n\nFor the team's setter-and-ace duo Shouyou Hinata and Tobio Kageyama, the frustrations cause them to falter more than anyone else. While Hinata develops his own playstyle, his recklessness leads him to fall out of sync with Kageyama's sets and earns his partner's ire instead. As they search for an answer to their woes, the two find what they are lacking from two unlikely people. Will it be enough for the team to overcome their rut?\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.16,
+  "rank": 428,
+  "popularity": 2233,
+  "num_list_users": 88933,
+  "num_scoring_users": 34763,
+  "nsfw": "white",
+  "created_at": "2017-03-15T07:48:45+00:00",
+  "updated_at": "2022-04-14T20:40:19+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5340,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

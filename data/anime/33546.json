@@ -1,0 +1,60 @@
+{
+  "id": 33546,
+  "title": "Monster Strike: Mermaid Rhapsody",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/80678.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/80678l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Monster Strike Summer Special"
+    ],
+    "en": "Monster Strike: Mermaid Rhapsody",
+    "ja": "モンスターストライク『マーメイド・ラプソディ』"
+  },
+  "start_date": "2016-08-14",
+  "end_date": "2016-08-14",
+  "synopsis": "Minami's father, a former mercenary, is invited to an American naval party. Ren and the gang end up heading to Okinawa with him for summer break. On a sandy beach, Ren meets a mysterious girl.\"Help me...\" The girl leaves Ren with those words as she disappears.Ren is drawn to the girl and the meaning of those words. He makes it his mission to save her, and uncover the truth. Who is the girl? Why did she ask Ren for help? The girl's true identity slowly unveils...\n\n(Source: YouTube)",
+  "mean": 6.62,
+  "rank": 6217,
+  "popularity": 9764,
+  "num_list_users": 3204,
+  "num_scoring_users": 975,
+  "nsfw": "white",
+  "created_at": "2016-07-02T10:19:27+00:00",
+  "updated_at": "2022-03-29T14:43:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 3082,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 101,
+      "name": "Studio Hibari"
+    },
+    {
+      "id": 539,
+      "name": "Ultra Super Pictures"
+    }
+  ]
+}

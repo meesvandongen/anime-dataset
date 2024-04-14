@@ -1,0 +1,39 @@
+{
+  "id": 47739,
+  "title": "Dai Li",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1289/130583.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1289/130583l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "呆狸"
+  },
+  "start_date": "2018-04",
+  "synopsis": "",
+  "rank": 19091,
+  "popularity": 24528,
+  "num_list_users": 71,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2021-02-14T03:41:50+00:00",
+  "updated_at": "2022-11-06T13:02:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "pg",
+  "studios": []
+}

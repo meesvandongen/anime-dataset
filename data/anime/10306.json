@@ -1,0 +1,50 @@
+{
+  "id": 10306,
+  "title": "Umi Monogatari: Kanon to Iku Amamikoshima",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/28351.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/28351l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Umimonogatari Anata ga Itekuretakoto",
+      "Sea Story",
+      "Kanon to Iku Amamikoshima"
+    ],
+    "en": "Umi Monogatari: Seeing Amamiko Island with Kanon",
+    "ja": "うみものがたり 夏音と行く天神子島"
+  },
+  "start_date": "2009-07-01",
+  "end_date": "2009-09-25",
+  "synopsis": "Short ONA specials of Umi Monogatari that were originally released on the official website and later included on DVD volumes. \n\nKanon (and sometimes other characters) tours the viewer around Amamiko Island, while also commenting about characters and events from the series. ",
+  "mean": 5.88,
+  "rank": 10130,
+  "popularity": 11164,
+  "num_list_users": 2047,
+  "num_scoring_users": 425,
+  "nsfw": "white",
+  "created_at": "2011-02-03T22:39:08+00:00",
+  "updated_at": "2023-07-18T06:06:15+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 110,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 218,
+      "name": "Zexcs"
+    }
+  ]
+}

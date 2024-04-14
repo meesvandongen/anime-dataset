@@ -1,0 +1,61 @@
+{
+  "id": 46420,
+  "title": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1096/113360.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1096/113360l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Nanatsu no Taizai Hikari ni Norowareshi Mono-tachi",
+      "The Seven Deadly Sins the Movie: Cursed by Light"
+    ],
+    "en": "The Seven Deadly Sins the Movie 2: Cursed By Light",
+    "ja": "劇場版 七つの大罪 光に呪われし者たち"
+  },
+  "start_date": "2021-07-02",
+  "end_date": "2021-07-02",
+  "synopsis": "Meliodas and his friends jump back into action, when the new era of peace is threatened by a powerful magical alliance that could spell the end for all.\n\n(Source: Netflix)",
+  "mean": 7.13,
+  "rank": 3673,
+  "popularity": 2359,
+  "num_list_users": 80785,
+  "num_scoring_users": 32768,
+  "nsfw": "white",
+  "created_at": "2021-01-20T04:12:52+00:00",
+  "updated_at": "2022-10-04T04:14:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 4740,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

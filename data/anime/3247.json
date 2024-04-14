@@ -1,0 +1,64 @@
+{
+  "id": 3247,
+  "title": "Love Hina Final Selection",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/82633.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/82633l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Love Hina Episode 28"
+    ],
+    "en": "Love Hina Final Selection",
+    "ja": "ラブひなFINAL SELECTION ～アニメ総集編&LOVE HINA LIVE in 東京BAY N.K.～"
+  },
+  "start_date": "2001-09-05",
+  "end_date": "2001-09-05",
+  "synopsis": "Love Hina Final Selection, tells the story of Love Hina. \nThen gives Keitaro's final selection of girl, for those unfamiliar with Love Hina, Keitaro is the main character, surrounded by girls in an all girl dorm, he is 20 unlucky and eventually becomes a cool, respected hero to the girls, they all end up having a crush on him and he must choose, this OVA features his decision.",
+  "mean": 7.15,
+  "rank": 3529,
+  "popularity": 3919,
+  "num_list_users": 32296,
+  "num_scoring_users": 15186,
+  "nsfw": "gray",
+  "created_at": "2007-10-18T20:17:31+00:00",
+  "updated_at": "2022-11-17T07:02:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1719,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

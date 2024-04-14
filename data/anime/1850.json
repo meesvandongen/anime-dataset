@@ -1,0 +1,60 @@
+{
+  "id": 1850,
+  "title": "Haou Taikei Ryuu Knight: Adeu Legend II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/52147.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/52147l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Adeus Legend OVA II",
+      "Lord of Lords Ryu Knight OVA 2"
+    ],
+    "en": "Lord of Lords Ryu Knight: Adeu's Legend II",
+    "ja": "覇王大系リューナイト アデュー・レジェンドⅡ"
+  },
+  "start_date": "1995-12-18",
+  "end_date": "1996-04-25",
+  "synopsis": "Continuation of the series.",
+  "mean": 6.27,
+  "rank": 8214,
+  "popularity": 13227,
+  "num_list_users": 1044,
+  "num_scoring_users": 300,
+  "nsfw": "white",
+  "created_at": "2007-01-15T01:29:42+00:00",
+  "updated_at": "2023-11-03T16:35:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

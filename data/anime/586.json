@@ -1,0 +1,72 @@
+{
+  "id": 586,
+  "title": "Ayakashi: Japanese Classic Horror",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/11746.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/11746l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ayakashi - Samurai Horror Tales"
+    ],
+    "en": "",
+    "ja": "怪～ayakashi～ Japanese Classic Horror"
+  },
+  "start_date": "2006-01-13",
+  "end_date": "2006-03-24",
+  "synopsis": "A collection of three classic Japanese horror stories: \"Yotsuya Kaidan\", the story of a wife betrayed by her husband who seeks vengeance even in death. \"Tenshu Monogatari\", the story of forbidden love between a goddess and a human, and \"Bakeneko\", the story of a mysterious cat monster with a vendetta against a certain family. \n",
+  "mean": 7.38,
+  "rank": 2339,
+  "popularity": 2440,
+  "num_list_users": 76651,
+  "num_scoring_users": 25791,
+  "nsfw": "white",
+  "created_at": "2006-01-20T22:38:19+00:00",
+  "updated_at": "2023-09-04T11:22:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:35"
+  },
+  "source": "other",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

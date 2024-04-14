@@ -1,0 +1,55 @@
+{
+  "id": 7375,
+  "title": "Shakugan no Shana-tan S",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/17657.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/17657l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shakugan no Shana-tan G",
+      "Shakugan no Shana-tan Dos",
+      "Shakugan no Shana-tan Tri",
+      "Shakugan no Shana-tan Frontier"
+    ],
+    "en": "",
+    "ja": "灼眼のシャナたん"
+  },
+  "start_date": "2009-10-23",
+  "end_date": "2010-09-29",
+  "synopsis": "Shana-tan specials bundled with the Shakugan no Shana S Blu-ray and DVD.\n\nEpisodes\n#1: Shakugan no Shana-tan G\n#2: Shakugan no Shana-tan 2dos\n#3: Shakugan no Shana-tan 3tri\n#4: Shakugan no Shana-tan FRONTIER",
+  "mean": 6.86,
+  "rank": 4953,
+  "popularity": 4488,
+  "num_list_users": 24043,
+  "num_scoring_users": 10794,
+  "nsfw": "white",
+  "created_at": "2009-10-22T15:07:04+00:00",
+  "updated_at": "2021-07-19T17:32:06+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 354,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

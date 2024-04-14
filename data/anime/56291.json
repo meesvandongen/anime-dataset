@@ -1,0 +1,44 @@
+{
+  "id": 56291,
+  "title": "Sinbi Apartment Movie: Chawondokkaebiwa 7 Gaeui Segye",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1668/137800.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1668/137800l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Shinbi's Haunted House: The Dimension Ghost and the Seven Worlds",
+    "ja": "신비아파트 극장판 차원도깨비와 7개의 세계"
+  },
+  "start_date": "2022-12-14",
+  "end_date": "2022-12-14",
+  "synopsis": "",
+  "rank": 13485,
+  "popularity": 21329,
+  "num_list_users": 145,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2023-08-15T08:17:44+00:00",
+  "updated_at": "2024-02-04T17:02:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 6180,
+  "rating": "g",
+  "studios": []
+}

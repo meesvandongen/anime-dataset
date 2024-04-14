@@ -1,0 +1,61 @@
+{
+  "id": 16001,
+  "title": "Kokoro Connect: Michi Random",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/45526.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/45526l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kokoro Connect Episodes 14, 15, 16, and 17",
+      "Kokoroco: Michi Random"
+    ],
+    "en": "Kokoro Connect OVA",
+    "ja": "ココロコネクト ミチランダム"
+  },
+  "start_date": "2012-11-19",
+  "end_date": "2012-12-10",
+  "synopsis": "Not long after putting the previous supernatural incident behind them, the members of Yamaboshi Academy's Student Cultural Society (StuCS) must deal with Fuusenkazura's newest trial—emotion transmission. This phenomenon allows the club members to hear each others' true thoughts, but with one catch: the timing, sender, and recipient are all completely random. To make matters worse, the club's supervisor, Ryuuzen Gotou, may have to step down due to his responsibilities for the upcoming school year. With emotions running high and Valentine's Day around the corner, the seemingly close bonds of the StuCS will be tested when their true feelings for each other are laid bare.\n\n[Written by MAL Rewrite]",
+  "mean": 7.92,
+  "rank": 750,
+  "popularity": 930,
+  "num_list_users": 259367,
+  "num_scoring_users": 169864,
+  "nsfw": "white",
+  "created_at": "2012-10-18T20:11:11+00:00",
+  "updated_at": "2022-04-20T07:09:07+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1620,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

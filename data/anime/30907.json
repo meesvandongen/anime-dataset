@@ -1,0 +1,52 @@
+{
+  "id": 30907,
+  "title": "Eine Kleine",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイネクライネ"
+  },
+  "start_date": "2014-04-01",
+  "end_date": "2014-04-01",
+  "synopsis": "The song Eine Kleine from the Album Yankee was written as a commercial for Tokyo Metro, and features lyrics about looking forward despite adversity.\n\n(Source: Billboard Japan)",
+  "mean": 6.99,
+  "popularity": 10784,
+  "num_list_users": 2311,
+  "num_scoring_users": 1342,
+  "nsfw": "white",
+  "created_at": "2015-06-07T07:20:27+00:00",
+  "updated_at": "2022-04-05T20:10:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 295,
+  "rating": "g",
+  "studios": []
+}

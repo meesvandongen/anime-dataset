@@ -1,0 +1,39 @@
+{
+  "id": 55167,
+  "title": "Animals",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1385/139849.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1385/139849l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Animals"
+  },
+  "start_date": "2018-10-01",
+  "end_date": "2018-10-01",
+  "synopsis": "Music video for SUPER JUNIOR's song Animals.",
+  "popularity": 24089,
+  "num_list_users": 76,
+  "num_scoring_users": 38,
+  "nsfw": "white",
+  "created_at": "2023-04-29T18:35:03+00:00",
+  "updated_at": "2023-11-23T20:21:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 212,
+  "rating": "pg_13",
+  "studios": []
+}

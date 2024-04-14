@@ -1,0 +1,54 @@
+{
+  "id": 29871,
+  "title": "Shinsei Kamattechan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/71873.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/71873l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "MUSIC is SF",
+      "GAINAX x Shinsei Kamattechan",
+      "St. Marie Antoinette",
+      "Sei Marie Antoinette"
+    ],
+    "en": "",
+    "ja": "神聖かまってちゃん+GAINAX映像チーム"
+  },
+  "start_date": "2011-08-26",
+  "end_date": "2011-08-26",
+  "synopsis": "An old cleaner goes on a cleaning rampage in the sewers of a futuristic city, after he lost his job to a robot.\n\nMusic Video for the song by Shinsei Kamattechan of the same name and seventh part of GAINAX' \"Music is SF\" series.",
+  "mean": 4.55,
+  "popularity": 14459,
+  "num_list_users": 740,
+  "num_scoring_users": 391,
+  "nsfw": "white",
+  "created_at": "2015-02-03T14:35:18+00:00",
+  "updated_at": "2021-04-13T16:51:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 251,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 44530,
+  "title": "Shankou Shan Zhan Ji: Cao Qun Wawa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1554/131199.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1554/131199l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "山口山战记之草裙娃娃"
+  },
+  "start_date": "2015-09-08",
+  "end_date": "2015-12-01",
+  "synopsis": "",
+  "rank": 17823,
+  "popularity": 25039,
+  "num_list_users": 64,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2020-12-11T12:30:48+00:00",
+  "updated_at": "2022-11-16T15:26:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 1041,
+  "rating": "pg",
+  "studios": []
+}

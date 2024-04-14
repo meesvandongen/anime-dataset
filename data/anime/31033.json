@@ -1,0 +1,44 @@
+{
+  "id": 31033,
+  "title": "Nintama Rantarou: Dokutake Onsen no Dan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/74596.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/74596l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "忍たま乱太郎 ドクタケ温泉の段"
+  },
+  "start_date": "2007-05-04",
+  "end_date": "2007-05-04",
+  "synopsis": "The Lord of Maitake Castle asks the Ninjutsu Academy Headmaster to accompany him when he sneaks out incognito to visit a dango shop, and Rantarou, Kirimaru and Shinbei tag along for the trip as well. However, it turns out that the shop is actually a Dokutake Castle trap, and they're not the only ones who have been caught.",
+  "rank": 16872,
+  "popularity": 16561,
+  "num_list_users": 446,
+  "num_scoring_users": 93,
+  "nsfw": "white",
+  "created_at": "2015-06-16T20:24:25+00:00",
+  "updated_at": "2020-09-21T08:18:04+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "average_episode_duration": 2880,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 19081,
+  "title": "Weekender Girl",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/51255.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/51255l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Weekender Girl"
+  },
+  "start_date": "2012-08-29",
+  "end_date": "2012-08-29",
+  "synopsis": "Music video for the song \"Weekender Girl\" by kz (livetune) and Hachioji P under the label Toy's Factory.\n\n*Part of the split single release which includes the songs \"Weekender Girl\" for the game \"Hatsune Miku - Project DIVA -f.\" and \"fake doll\".\nCover artwork is illustrated by TNSK.",
+  "mean": 6.45,
+  "popularity": 10216,
+  "num_list_users": 2754,
+  "num_scoring_users": 1698,
+  "nsfw": "white",
+  "created_at": "2013-06-14T18:09:57+00:00",
+  "updated_at": "2022-03-30T01:52:52+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 212,
+  "rating": "g",
+  "studios": []
+}

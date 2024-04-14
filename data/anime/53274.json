@@ -1,0 +1,44 @@
+{
+  "id": 53274,
+  "title": "Fire Emblem Heroes: Fjorm ga Utau - \"Kouri no Hana\"",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1978/128923.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1978/128923l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fire Emblem Heroes: Fjorm Sings - \"Flower of Ice\"",
+    "ja": "ファイアーエムブレム ヒーローズ フィヨルムが歌う「氷の華」"
+  },
+  "start_date": "2021-07-07",
+  "end_date": "2021-07-07",
+  "synopsis": "A music video featuring Fjorm: Princess of Ice singing Kouri no Hana by Hiroki Morishita, a composer from Intelligent Systems. The English version is sung by Cristina Vee Valenzuela, and the Japanese version by Rie Takahashi.\n\n(Source: Fire Emblem Heroes Wiki)",
+  "mean": 5.94,
+  "popularity": 17917,
+  "num_list_users": 341,
+  "num_scoring_users": 165,
+  "nsfw": "white",
+  "created_at": "2022-10-07T18:22:46+00:00",
+  "updated_at": "2022-10-07T18:22:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 146,
+  "rating": "g",
+  "studios": []
+}

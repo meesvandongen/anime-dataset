@@ -1,0 +1,73 @@
+{
+  "id": 51464,
+  "title": "4-nin wa Sorezore Uso wo Tsuku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1934/128719.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1934/128719l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Four People and Their Respective Lies",
+      "Yonin wa Sorezore Uso wo Tsuku"
+    ],
+    "en": "The Little Lies We All Tell",
+    "ja": "４人はそれぞれウソをつく"
+  },
+  "start_date": "2022-10-16",
+  "end_date": "2022-12-25",
+  "synopsis": "What do an alien, former ninja, weak telepath, and boy pretending to be a girl have in common? They are all classmates at Kashihara Girls' Academy, and they hide their true identities from the world. Rikka, Chiyo, Sekine, and Tsubasa seem like the best of friends, but they each harbor a monumental secret that they cannot reveal, no matter what. In order to continue masquerading as normal middle school girls, each of them must invent creative ways to conceal their true selves. But that is easier said than done, as the four students end up entangled in numerous shenanigans along the way.\n\n[Written by MAL Rewrite]",
+  "mean": 7.15,
+  "rank": 3563,
+  "popularity": 3696,
+  "num_list_users": 36435,
+  "num_scoring_users": 14035,
+  "nsfw": "white",
+  "created_at": "2022-03-29T17:25:17+00:00",
+  "updated_at": "2023-01-15T11:30:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "02:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1403,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1693,
+      "name": "Studio Flad"
+    }
+  ]
+}

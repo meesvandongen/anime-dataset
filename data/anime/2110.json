@@ -1,0 +1,64 @@
+{
+  "id": 2110,
+  "title": "Rockman.EXE Beast",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1358/98824.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1358/98824l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rockman EXE Beast"
+    ],
+    "en": "",
+    "ja": "ロックマン エグゼ ＢＥＡＳＴ"
+  },
+  "start_date": "2005-10-01",
+  "end_date": "2006-04-01",
+  "synopsis": "Trill, a mysterious navi said to have originated from the world of Beyondard, is discovered. And new beast-type enemies, the Zoanoroids, want him for his special power. Netto Hikari and Rockman must protect their new friend while they try to figure out what Trill is really and his connection to the two legendary cyber beasts, Grega and Faltzer. \n\n(Source: ANN)",
+  "mean": 7.04,
+  "rank": 4131,
+  "popularity": 6853,
+  "num_list_users": 8398,
+  "num_scoring_users": 3191,
+  "nsfw": "white",
+  "created_at": "2007-03-11T03:17:40+00:00",
+  "updated_at": "2023-09-17T22:10:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

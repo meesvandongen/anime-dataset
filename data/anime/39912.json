@@ -1,0 +1,73 @@
+{
+  "id": 39912,
+  "title": "Wan Jie Xian Zong 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1981/105370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1981/105370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wan Jie Xian Zong Di Er Ji",
+      "Wanjie Xianzong 2nd Season"
+    ],
+    "en": "The Wonderland of Ten Thousands 2nd Season",
+    "ja": "万界仙踪 第2季"
+  },
+  "start_date": "2019-04-25",
+  "end_date": "2019-09-09",
+  "synopsis": "",
+  "mean": 7.12,
+  "rank": 3716,
+  "popularity": 9617,
+  "num_list_users": 3372,
+  "num_scoring_users": 1554,
+  "nsfw": "white",
+  "created_at": "2019-06-04T04:25:05+00:00",
+  "updated_at": "2024-02-21T14:12:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2042,
+      "name": "Ruo Hong Culture"
+    }
+  ]
+}

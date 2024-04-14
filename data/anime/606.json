@@ -1,0 +1,69 @@
+{
+  "id": 606,
+  "title": "Kazemakase Tsukikage Ran",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/16745.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/16745l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wind-borne Moon-lit Ran",
+      "The Samurai Girl"
+    ],
+    "en": "Carried by the Wind: Tsukikage Ran",
+    "ja": "風まかせ月影蘭"
+  },
+  "start_date": "2000-01-26",
+  "end_date": "2000-04-19",
+  "synopsis": "In the Edo or Tokugawa period (1600–1868), Ran, a female wandering samurai whose skill with the katana is only matched by her taste for sake (rice wine), is joined by a chinese martial artist who calls herself Lady Meow of the Iron Cat Fist. Tsukikage Ran has individual episodes that are just short stories of their adventures.",
+  "mean": 7.28,
+  "rank": 2839,
+  "popularity": 5113,
+  "num_list_users": 17476,
+  "num_scoring_users": 5889,
+  "nsfw": "white",
+  "created_at": "2006-01-29T17:05:44+00:00",
+  "updated_at": "2022-04-14T09:55:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2000,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "19:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

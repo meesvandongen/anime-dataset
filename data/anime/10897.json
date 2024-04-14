@@ -1,0 +1,60 @@
+{
+  "id": 10897,
+  "title": "Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/30097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/30097l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Boku wa Tomodachi ga Sukunai Episode 0",
+      "Boku wa Tomodachi ga Sukunai OVA",
+      "Haganai OVA",
+      "I Don't Have Many Friends OVA",
+      "Boku ha Tomodachi ga Sukunai OVA"
+    ],
+    "en": "Haganai: Black Hotpot Gives Girls a Bad Smell",
+    "ja": "僕は友達が少ない 闇鍋は美少女が残念な臭い"
+  },
+  "start_date": "2011-09-22",
+  "end_date": "2011-09-22",
+  "synopsis": "Hasegawa Kodaka has transferred schools, and he's having a hard time making friends. It doesn't help that his blond hair tends to make people think he's a delinquent. One day, he runs into his bad-tempered solitary classmate Yozora while she's talking animatedly to her imaginary friend Tomo. Realizing that neither of them have any actual friends, they decide that the best way to alter this situation is to form a club and start recruiting.\nThat is how \"Rinjinbu\", The Neighbours' Club, was formed, a club specifically designed for people who don't have very many friends. As other lonely classmates slowly join their little club, they'll try to learn how to build friendships through cooking together, playing games, and other group activities. But will this group of relationship-challenged misfits really be able to get along?\n\n(Source: MU)  ",
+  "mean": 6.71,
+  "rank": 5674,
+  "popularity": 1771,
+  "num_list_users": 123993,
+  "num_scoring_users": 68265,
+  "nsfw": "white",
+  "created_at": "2011-06-30T17:12:57+00:00",
+  "updated_at": "2022-04-29T19:19:00+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 670,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 436,
+      "name": "AIC Build"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 18507,
+  "title": "Free!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/51107.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/51107l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "フリー！"
+    ],
+    "en": "Free! - Iwatobi Swim Club",
+    "ja": "Free!"
+  },
+  "start_date": "2013-07-04",
+  "end_date": "2013-09-26",
+  "synopsis": "Haruka Nanase has a love for water and a passion for swimming. In elementary school, he competed in and won a relay race with his three friends Rin Matsuoka, Nagisa Hazuki, and Makoto Tachibana. After claiming victory at the tournament, the four friends went their separate ways. Years later, they reunite as high school students; however, Rin couldn't care less about returning to the way things used to be. Not only does he attend a different school, but the sole thing important to him is proving that he is a better swimmer than Haruka.\n\nAfter the bitter reunion, Haruka, Nagisa, and Makoto decide to form the Iwatobi High School Swim Club, but they will need a fourth member if they hope to take part in the upcoming tournament. Enter Rei Ryuugazaki, a former member of the track team whom Nagisa recruits. As the time to compete draws near, the four develop a close bond while training intensely to come out on top and settle things between Haruka and Rin once and for all.\n\n[Written by MAL Rewrite]",
+  "mean": 7.33,
+  "rank": 2603,
+  "popularity": 235,
+  "num_list_users": 798699,
+  "num_scoring_users": 439746,
+  "nsfw": "white",
+  "created_at": "2013-04-26T13:14:33+00:00",
+  "updated_at": "2024-02-04T01:31:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1415,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    },
+    {
+      "id": 929,
+      "name": "Animation Do"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 45599,
+  "title": "Xue Ying Ling Zhu 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1270/138692.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1270/138692l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lord Xue Ying 2nd Season",
+      "Snow Eagle Lord 2nd Season"
+    ],
+    "en": "",
+    "ja": "雪鹰领主 第二季"
+  },
+  "start_date": "2020-12-31",
+  "end_date": "2021-03-04",
+  "synopsis": "The second season of Xue Ying Ling Zhu.",
+  "mean": 7.33,
+  "rank": 2589,
+  "popularity": 10475,
+  "num_list_users": 2538,
+  "num_scoring_users": 1178,
+  "nsfw": "white",
+  "created_at": "2020-12-29T15:53:12+00:00",
+  "updated_at": "2022-03-31T14:26:10+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1127,
+  "studios": [
+    {
+      "id": 1810,
+      "name": "Mili Pictures"
+    }
+  ]
+}

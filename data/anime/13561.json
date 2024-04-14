@@ -1,0 +1,50 @@
+{
+  "id": 13561,
+  "title": "Guilty Crown: 4-koma Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/37761.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/37761l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Guil Cro 4-koma Gekijou",
+      "Guilty Crown 4-koma Gekijou: Girutei Kura-un",
+      "Guilty Crown Specials"
+    ],
+    "en": "",
+    "ja": "ギルクラ4コマ劇場 ぎる亭くら雲"
+  },
+  "start_date": "2012-01-25",
+  "end_date": "2012-11-21",
+  "synopsis": "Animated four-panel manga that comes as extra on the DVDs and Blu-rays.",
+  "mean": 6.92,
+  "rank": 4630,
+  "popularity": 4269,
+  "num_list_users": 26825,
+  "num_scoring_users": 8166,
+  "nsfw": "white",
+  "created_at": "2012-03-28T15:18:22+00:00",
+  "updated_at": "2022-03-14T21:46:58+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 75,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

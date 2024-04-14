@@ -1,0 +1,76 @@
+{
+  "id": 4725,
+  "title": "Ga-Rei: Zero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/83975.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/83975l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Garei: Zero"
+    ],
+    "en": "Ga-Rei-Zero",
+    "ja": "喰霊–零–"
+  },
+  "start_date": "2008-10-06",
+  "end_date": "2008-12-22",
+  "synopsis": "In Japan, there exists a government agency known as the Supernatural Disaster Countermeasures Division (SDCD), whose duty is to protect the citizens from creatures unseen. They are able to dispatch these monsters swiftly and without alerting the general public. But currently, they face a different challenge: the betrayal of one of their own.\n\nAfter the death of her mother several years ago, Kagura Tsuchimiya has been fostered by the Isayama family and forms a close sister-like bond with their daughter Yomi. The two become inseparable, and together they work for the SDCD as highly skilled exorcists. However, as the stress and consequences of their sacred duty weigh on them both, and family politics come into play, Kagura and Yomi begin to slowly drift apart. One of them grows earnestly into her role as an exorcist, and the other heads down a dark path from which there may be no redemption.\n\n[Written by MAL Rewrite]",
+  "mean": 7.58,
+  "rank": 1561,
+  "popularity": 1008,
+  "num_list_users": 238450,
+  "num_scoring_users": 95656,
+  "nsfw": "white",
+  "created_at": "2008-06-20T16:36:13+00:00",
+  "updated_at": "2023-09-01T00:42:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 83,
+      "name": "AIC Spirits"
+    },
+    {
+      "id": 163,
+      "name": "asread."
+    }
+  ]
+}

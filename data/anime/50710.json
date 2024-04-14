@@ -1,0 +1,66 @@
+{
+  "id": 50710,
+  "title": "Urusei Yatsura (2022)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1233/129144.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1233/129144l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Those Obnoxious Aliens",
+      "The Return of Lum",
+      "Lum, the Invader Girl"
+    ],
+    "en": "Urusei Yatsura",
+    "ja": "うる星やつら"
+  },
+  "start_date": "2022-10-14",
+  "end_date": "2023-03-24",
+  "synopsis": "When aliens known as the Oni threaten to invade the Earth, they promise to leave under one condition—a randomly-chosen human must win a one-on-one game of tag against Lum, the beautiful daughter of the Oni leader. The \"lucky\" person selected happens to be the lustful and unlucky high schooler Ataru Moroboshi. Given 10 days to attempt to grab Lum's horns, Ataru realizes how impossible the challenge is as he is faced with Lum's extraterrestrial powers.\n\nMotivated by a promise of marriage from his childhood friend Shinobu Miyake, Ataru manages to catch Lum off guard. He mistakenly grabs hold of her bikini top first, but he eventually achieves his true goal. Although the game is over, Lum misunderstands that she is the one whom Ataru wants to marry, and she decides to move in with him. The poor student constantly tries to shake off the clingy Lum while doing his best to reconcile with his desired fiancée. After Ataru's heroic feat results in such a disastrous outcome, it is questionable whether luck will ever be on his side.\n\n[Written by MAL Rewrite]",
+  "mean": 7.41,
+  "rank": 2247,
+  "popularity": 1359,
+  "num_list_users": 172566,
+  "num_scoring_users": 45535,
+  "nsfw": "white",
+  "created_at": "2021-12-31T16:02:36+00:00",
+  "updated_at": "2023-12-04T03:39:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1370,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 287,
+      "name": "David Production"
+    }
+  ]
+}

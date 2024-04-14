@@ -1,0 +1,72 @@
+{
+  "id": 1483,
+  "title": "Master Keaton",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/73931.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/73931l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Master Keaton: Blood and Bullets"
+    ],
+    "en": "",
+    "ja": "マスターキートン"
+  },
+  "start_date": "1998-10-06",
+  "end_date": "1999-03-30",
+  "synopsis": "The amazing Taichi Keaton works on cases around the globe that always lead to adventure! He combines his arsenal of multidisciplinary expertise in investigation, archeology, and survival with his experience as a professor, a Falklands Conflict veteran and a SAS agent to unravel the often dangerous challenges in each riveting episode.\n\n(Source: Geneon Entertainment USA)",
+  "mean": 7.62,
+  "rank": 1438,
+  "popularity": 4182,
+  "num_list_users": 27964,
+  "num_scoring_users": 5724,
+  "nsfw": "white",
+  "created_at": "2006-09-03T09:18:59+00:00",
+  "updated_at": "2022-09-03T19:55:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:50"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

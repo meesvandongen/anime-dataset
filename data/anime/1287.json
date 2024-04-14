@@ -1,0 +1,64 @@
+{
+  "id": 1287,
+  "title": "Odin: Koushi Hansen Starlight",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1562/142317.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1562/142317l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Odin: Photon Space Sailer Starlight"
+    ],
+    "en": "Odin: Starlight Mutiny",
+    "ja": "オーディーン・光子帆船スターライト"
+  },
+  "start_date": "1985-08-10",
+  "end_date": "1985-08-10",
+  "synopsis": "In the year 2099, mankind has colonized parts of the Solar System thanks to the evolution of space travel. To venture further beyond what man has accomplished, the space vessel Starlight is launched. After rescuing a mysterious girl from a wreckage near the asteroid fields, the crew of the Starlight plot a perilous journey towards the Canopus system in search of the planet known only as \"Odin\" - the possible key to all forms of life. \n\n(Source: ANN)",
+  "mean": 5.22,
+  "rank": 12325,
+  "popularity": 9377,
+  "num_list_users": 3635,
+  "num_scoring_users": 1284,
+  "nsfw": "white",
+  "created_at": "2006-08-07T05:29:43+00:00",
+  "updated_at": "2021-05-31T01:06:39+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 8347,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2677,
+  "title": "Doraemon Movie 11: Nobita to Animal Planet",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1220/134141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1220/134141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Doraemon: Nobita's Animal Planet"
+    ],
+    "en": "Doraemon the Movie: Nobita and the Animal Planet",
+    "ja": "映画 ドラえもん のび太とアニマル惑星[プラネット]"
+  },
+  "start_date": "1990-03-10",
+  "end_date": "1990-03-10",
+  "synopsis": "Nobita went to a world of animals through the \"Wherever Gas\", the substance to let you travel anywhere, same as the \"Wherever Door\" Doraemon uses. They came across with Chippo, a boy who looks like a dog and very adventurous. A group called Numiges plans on taking over the animal planet. Doraemon and friends plan to stop them with the animal's help.\n\n(Source: ANN)",
+  "mean": 7.14,
+  "rank": 3591,
+  "popularity": 7069,
+  "num_list_users": 7769,
+  "num_scoring_users": 4722,
+  "nsfw": "white",
+  "created_at": "2007-06-17T20:01:36+00:00",
+  "updated_at": "2021-06-29T13:47:49+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "average_episode_duration": 6000,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

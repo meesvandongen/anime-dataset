@@ -1,0 +1,52 @@
+{
+  "id": 30752,
+  "title": "himitsukesshatakanotsume.jp Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74059.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74059l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Secret Society Eagle Talon WEB Specials",
+      "himitsukesshatakanotsume.jp Extra Episodes",
+      "himitsukesshatakanotsume.jp Bangai-hen"
+    ],
+    "en": "",
+    "ja": "秘密結社鷹の爪.jp 番外編"
+  },
+  "start_date": "2012-12-12",
+  "end_date": "2013-02-06",
+  "synopsis": "The episodes parody the Batman Begins and The Dark Knight Rises films. They were only released on the DVD/BD Box sets of himitsukesshatakanotsume.jp.",
+  "rank": 20101,
+  "popularity": 17089,
+  "num_list_users": 403,
+  "num_scoring_users": 77,
+  "nsfw": "white",
+  "created_at": "2015-05-11T00:07:02+00:00",
+  "updated_at": "2018-01-10T18:03:22+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "average_episode_duration": 301,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

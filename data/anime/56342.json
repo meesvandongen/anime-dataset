@@ -1,0 +1,57 @@
+{
+  "id": 56342,
+  "title": "Mo Zhuang Chuanshuo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1145/137863.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1145/137863l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Legend of Magic Outfit",
+    "ja": "魔装传说"
+  },
+  "start_date": "2023-08-21",
+  "end_date": "2023-11-22",
+  "synopsis": "",
+  "rank": 16543,
+  "popularity": 17207,
+  "num_list_users": 394,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2023-08-17T00:57:22+00:00",
+  "updated_at": "2024-03-11T08:42:01+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 31,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 625,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2042,
+      "name": "Ruo Hong Culture"
+    }
+  ]
+}

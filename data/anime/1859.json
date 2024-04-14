@@ -1,0 +1,61 @@
+{
+  "id": 1859,
+  "title": "Grappler Baki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/83803.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/83803l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Grappler Baki: The Ultimate Fighter",
+      "Baki the Grappler: The Ultimate Fighter"
+    ],
+    "en": "",
+    "ja": "グラップラー刃牙"
+  },
+  "start_date": "1994-08-21",
+  "end_date": "1994-08-21",
+  "synopsis": "Doppo Orochi sits down to watch the final match of his karate school's youth tournament. Atsushi Suedou, one of his disciples, faces off against Baki Hanma, a fresh teenage boy breezing through the matches. Intrigued by the boy's strength, Doppo, alongside another of his disciples—Kiyosumi Katou— visits the notorious Tokugawa underground ring—a hidden freestyle fighting arena that prohibits only weaponry in its matches. Upon arriving, they learn that Baki is set to face none other than Koushou Shinogi: an infamous karate master and user of the lethal Cord-Cutting technique.\n\n[Written by MAL Rewrite]",
+  "mean": 6.81,
+  "rank": 5139,
+  "popularity": 4709,
+  "num_list_users": 21341,
+  "num_scoring_users": 11234,
+  "nsfw": "white",
+  "created_at": "2007-01-19T21:54:37+00:00",
+  "updated_at": "2023-01-09T06:45:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2700,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 452,
+      "name": "Knack Productions"
+    }
+  ]
+}

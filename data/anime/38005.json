@@ -1,0 +1,64 @@
+{
+  "id": 38005,
+  "title": "Strike Witches: Road to Berlin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1197/108577.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1197/108577l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Strike Witches 3"
+    ],
+    "en": "",
+    "ja": "第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN"
+  },
+  "start_date": "2020-10-08",
+  "end_date": "2020-12-24",
+  "synopsis": "Preparations for a new offensive against the Neuroi—a mysterious race of alien invaders—are well underway. The objective is securing Berlin, the capital city of the Empire of Karlsland, which is necessary for wiping out the Neuroi threat from Europe. However, as the enemy is capable of adapting to the battlefield on a daily basis, the allied forces and the current state of Striker technology might not be enough to achieve a victory.\n\nMeanwhile, Yoshika Miyafuji, a Witch from Fuso, continues her medical studies in Lausanne. Having recovered from a recent incident that deprived her of magical power, she is eager to assist in the war effort. The call to arms soon arrives and the scattered witches of the 501st Joint Fighter Wing must be gathered once again for a final push against the enemy.\n\n[Written by MAL Rewrite]",
+  "mean": 7.34,
+  "rank": 2513,
+  "popularity": 4224,
+  "num_list_users": 27365,
+  "num_scoring_users": 7846,
+  "nsfw": "white",
+  "created_at": "2018-07-21T06:01:50+00:00",
+  "updated_at": "2022-04-14T17:48:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:05"
+  },
+  "source": "original",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 287,
+      "name": "David Production"
+    }
+  ]
+}

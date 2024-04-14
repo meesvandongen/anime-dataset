@@ -1,0 +1,78 @@
+{
+  "id": 554,
+  "title": "Koutetsu Tenshi Kurumi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1036/97570.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1036/97570l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Steel Angel Kurumi",
+    "ja": "鋼鉄天使くるみ"
+  },
+  "start_date": "1999-10-05",
+  "end_date": "2000-04-04",
+  "synopsis": "During Japan's Taisho Era (1912-1926), a scientist named Ayanokoji developed the Steel Angel - an artificial humanoid with superhuman physical abilities. While the Imperial Army wanted to use the Steel Angel as a new means of modern warfare, Ayanokoji wanted his creation to be a new step in the future of mankind. Thus, he defied orders from the Army and secretly made the Steel Angel codenamed \"Kurumi\". Then one day, a young boy named Nakahito Kagura snuck into Ayanokoji's house as a dare by his friends and stumbled upon Kurumi's lifeless body. A sudden attack by the Imperial Army shook the house, causing Kurumi to fall on Nakahito. At that moment, their lips met, and Kurumi woke up from \"the kiss that started a miracle\". \n\n(Source: ANN)",
+  "mean": 6.75,
+  "rank": 5476,
+  "popularity": 4402,
+  "num_list_users": 25067,
+  "num_scoring_users": 10271,
+  "nsfw": "white",
+  "created_at": "2006-01-07T08:55:17+00:00",
+  "updated_at": "2023-01-13T12:05:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "19:00"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 3648,
+  "title": "Shownoid Mako-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1020/119784.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1020/119784l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shownoid Makoto-chan",
+      "Shoyonoido Makoto-chan",
+      "Shoyonoido Mako-chan",
+      "Shoyonoid Makottchan"
+    ],
+    "en": "",
+    "ja": "ショーヨノイド 真琴ちゃん"
+  },
+  "start_date": "1998-09-25",
+  "end_date": "1998-12-18",
+  "synopsis": "What happens when a mahou shoujo is killed in battle and her mind is transferred to a android whose body is in the shape of a kawaii 12-year-old girl? Why she goes to find her high school boyfriend so they can finish making love!\n\n(Source: AniDB)",
+  "mean": 5.3,
+  "popularity": 11112,
+  "num_list_users": 2082,
+  "num_scoring_users": 785,
+  "nsfw": "gray",
+  "created_at": "2007-12-30T20:49:20+00:00",
+  "updated_at": "2022-03-16T12:09:57+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1998,
+    "season": "summer"
+  },
+  "average_episode_duration": 1560,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 239,
+      "name": "Y.O.U.C"
+    }
+  ]
+}

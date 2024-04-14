@@ -1,0 +1,39 @@
+{
+  "id": 54001,
+  "title": "Love My Friends",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1734/132099.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1734/132099l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "love my friends"
+  },
+  "start_date": "2021-04-13",
+  "end_date": "2021-04-13",
+  "synopsis": "Music video for the song love my friends by MindaRyn.",
+  "popularity": 21873,
+  "num_list_users": 121,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2022-12-26T04:21:41+00:00",
+  "updated_at": "2022-12-28T12:56:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 236,
+  "rating": "g",
+  "studios": []
+}

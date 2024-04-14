@@ -1,0 +1,67 @@
+{
+  "id": 403,
+  "title": "Hanaukyou Maid-tai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/3066.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/3066l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hanaukyou Maids",
+      "Maid in Hanaukyo",
+      "Hanoukyo Maid Tai",
+      "Hanaukyo Maid Team"
+    ],
+    "en": "",
+    "ja": "花右京メイド隊"
+  },
+  "start_date": "2001-04-13",
+  "end_date": "2001-06-29",
+  "synopsis": "After losing his mother, 14-year-old Taro journeys to Tokyo to live with his grandfather. But he gets the biggest surprise when he discovers that his grandfather's home is a huge mansion with hundreds of beautiful maids ready to serve him. Making matters worse (at least for Taro, but not for our viewing) is that not only does he inherit the Hanaukyo mansion, he gets the services of all of the maids 24 hours a day, 7 days a week.\n\n(Source: ANN)",
+  "mean": 6.58,
+  "rank": 6433,
+  "popularity": 3907,
+  "num_list_users": 32491,
+  "num_scoring_users": 13785,
+  "nsfw": "white",
+  "created_at": "2005-12-23T20:59:40+00:00",
+  "updated_at": "2022-12-14T17:46:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 865,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 39,
+      "name": "Daume"
+    }
+  ]
+}

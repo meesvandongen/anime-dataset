@@ -1,0 +1,74 @@
+{
+  "id": 1246,
+  "title": "Yuugo: Koushounin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/55523.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/55523l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Yugo The Negotiator",
+    "ja": "勇午 ～交渉人～"
+  },
+  "start_date": "2004-02-25",
+  "end_date": "2004-05-26",
+  "synopsis": "\"Negotiation means, you turn words into weapons\"\n\nThis is the realization of the popular comic Yu-go that was published in Kondasha Afternoon Magazine over a period of 10 years.\n\nBeppu Yuugo is the world's most successfull negotiator. His only weapons are \"words.\" Yuugo doesn't kill people. Neither does he threaten them with brute violence. With rich knowledge and a calm judgement, he believes in the humans inside them. Doing only that he has managed many dangerous negotiations successfully until now. Now two of the many episodes have been chosen very carefully, one taking place in Russia, the other one in Pakistan. In the burning desert and the freezing Siberia Yuugo begins his negotiations.\n\n(Source: AniDB)",
+  "mean": 7.07,
+  "rank": 3944,
+  "popularity": 5742,
+  "num_list_users": 12934,
+  "num_scoring_users": 3696,
+  "nsfw": "white",
+  "created_at": "2006-08-05T06:23:31+00:00",
+  "updated_at": "2023-01-02T20:58:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1490,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 8,
+      "name": "Artland"
+    }
+  ]
+}

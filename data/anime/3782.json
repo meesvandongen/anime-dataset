@@ -1,0 +1,67 @@
+{
+  "id": 3782,
+  "title": "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/21737.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/21737l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kara no Kyoukai: The Garden of Sinners Movie 2",
+      "Borderline of Emptiness: Murder Speculation",
+      "The Garden of Sinners: A Study in Murder",
+      "The Garden of Sinners: …and nothing heart."
+    ],
+    "en": "The Garden of Sinners Chapter 2: A Study in Murder - Part 1",
+    "ja": "劇場版 空の境界 the Garden of sinners 第二章『殺人考察（前）』"
+  },
+  "start_date": "2007-12-29",
+  "end_date": "2007-12-29",
+  "synopsis": "In the winter of 1995, Mikiya Kokutou passes a young woman during a late night stroll in the snow. Clad in a striking white kimono and bearing an enigmatic gaze, Shiki Ryougi smiles at Mikiya who stares back with curiosity. Later that spring, Mikiya notices Shiki at his high school entrance ceremony, and they become acquaintances through lunchtime conversations. As Shiki begins opening up to him, Mikiya learns about her unique upbringing.\n\nMeanwhile, a series of unprecedented murders takes place across Mifune City. Seemingly related, these murders are particularly brutal and warrant a large scale police investigation. Because of his cousin's work as a police investigator, Mikiya is given insight into the investigation. Concerned for Shiki's safety, Mikiya decides to monitor her actions, but in doing so, he stumbles upon a truly frightening discovery that changes his life forever.\n\n[Written by MAL Rewrite]",
+  "mean": 7.77,
+  "rank": 1049,
+  "popularity": 999,
+  "num_list_users": 241016,
+  "num_scoring_users": 148085,
+  "nsfw": "white",
+  "created_at": "2008-01-26T12:21:25+00:00",
+  "updated_at": "2022-04-30T00:56:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 3601,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 1741,
+  "title": "Hit wo Nerae! Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/5357.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/5357l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Smash Hit! Specials"
+    ],
+    "en": "",
+    "ja": "ヒットをねらえ!"
+  },
+  "start_date": "2004-05-19",
+  "end_date": "2004-06-30",
+  "synopsis": "DVD only specials.",
+  "mean": 5.46,
+  "rank": 11713,
+  "popularity": 11316,
+  "num_list_users": 1943,
+  "num_scoring_users": 836,
+  "nsfw": "white",
+  "created_at": "2006-12-12T23:33:15+00:00",
+  "updated_at": "2020-01-14T03:25:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 860,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 75,
+      "name": "Imagin"
+    },
+    {
+      "id": 1383,
+      "name": "Studio Live"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 19751,
+  "title": "Gu-Gu Ganmo (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/52767.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/52767l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gu-Gu Ganmo (1985)"
+    ],
+    "en": "",
+    "ja": "GU-GU ガンモ"
+  },
+  "start_date": "1985-03-16",
+  "end_date": "1985-03-16",
+  "synopsis": "Movie version that lampooned several Japanese Folklore Tales, including that of Princess Kaguya.\n\nBased on a manga by Hosono Fujihiko, serialised in Weekly Shounen Sunday.\n\n(Source: AniDB)",
+  "mean": 6.09,
+  "rank": 9111,
+  "popularity": 16959,
+  "num_list_users": 414,
+  "num_scoring_users": 106,
+  "nsfw": "white",
+  "created_at": "2013-07-28T06:46:03+00:00",
+  "updated_at": "2013-07-30T14:51:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2700,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

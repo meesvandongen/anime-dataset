@@ -1,0 +1,66 @@
+{
+  "id": 34102,
+  "title": "Sakurada Reset",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/87743.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/87743l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sagrada Reset",
+    "ja": "サクラダリセット"
+  },
+  "start_date": "2017-04-05",
+  "end_date": "2017-09-13",
+  "synopsis": "Kei Asai lives in the oceanside city of Sakurada—a town where the inhabitants are born with strange abilities. On the school rooftop one day, he meets Misora Haruki, an apathetic girl with the power to reset anything around her up to three days prior. While no one knows when she has reset, not even Haruki, Kei can retain everything before the reset thanks to his own ability: photographic memory. After they successfully help someone by combining their powers, they join the Service Club to aid others in their town.\n\nHowever, their club becomes involved with and begins completing missions for the mysterious Administration Bureau—an organization that focuses on managing the abilities in Sakurada and manipulating the town's events for their own ends. They may find out that there are more things at work in Sakurada than the machinations of the uncanny organization.\n\n[Written by MAL Rewrite]",
+  "mean": 7.34,
+  "rank": 2555,
+  "popularity": 1564,
+  "num_list_users": 145671,
+  "num_scoring_users": 42749,
+  "nsfw": "white",
+  "created_at": "2016-09-22T02:31:34+00:00",
+  "updated_at": "2022-04-16T03:59:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1521,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 287,
+      "name": "David Production"
+    }
+  ]
+}

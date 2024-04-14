@@ -1,0 +1,45 @@
+{
+  "id": 56746,
+  "title": "Ensemble Stars!! Tsuioku Selection Checkmate",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1499/141979.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1499/141979l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "あんさんぶるスターズ！！追憶セレクション「チェックメイト"
+  },
+  "start_date": "2024-03-10",
+  "end_date": "2024-03-15",
+  "synopsis": "New Ensemble Stars!! web animated series based on the game story \"Checkmate\".",
+  "rank": 19446,
+  "popularity": 12686,
+  "num_list_users": 1218,
+  "num_scoring_users": 106,
+  "nsfw": "white",
+  "created_at": "2023-09-25T15:27:16+00:00",
+  "updated_at": "2024-03-17T00:24:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 673,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1111,
+      "name": "DandeLion Animation Studio"
+    }
+  ]
+}

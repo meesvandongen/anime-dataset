@@ -1,0 +1,49 @@
+{
+  "id": 53433,
+  "title": "Aiue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1214/129854.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1214/129854l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイウエ"
+  },
+  "start_date": "2022-10-27",
+  "end_date": "2022-10-27",
+  "synopsis": "Music video for the full opening song of Urusei Yatsura (2022).",
+  "mean": 6.53,
+  "popularity": 14549,
+  "num_list_users": 716,
+  "num_scoring_users": 436,
+  "nsfw": "white",
+  "created_at": "2022-10-27T12:38:09+00:00",
+  "updated_at": "2023-01-02T11:28:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 225,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2162,
+      "name": "Maxilla"
+    },
+    {
+      "id": 2669,
+      "name": "THINGS."
+    }
+  ]
+}

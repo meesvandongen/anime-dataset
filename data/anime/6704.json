@@ -1,0 +1,60 @@
+{
+  "id": 6704,
+  "title": "Queen's Blade: Rurou no Senshi Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/22751.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/22751l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Queen's Blade Specials"
+    ],
+    "en": "Queen's Blade: The Exiled Virgin",
+    "ja": "クイーンズブレイド 流浪の戦士"
+  },
+  "start_date": "2009-06-25",
+  "end_date": "2009-11-25",
+  "synopsis": "Special episodes added to DVDs and Blu-rays.",
+  "mean": 5.97,
+  "rank": 9725,
+  "popularity": 5320,
+  "num_list_users": 15697,
+  "num_scoring_users": 6633,
+  "nsfw": "white",
+  "created_at": "2009-06-27T18:40:43+00:00",
+  "updated_at": "2022-03-19T00:48:25+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 174,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

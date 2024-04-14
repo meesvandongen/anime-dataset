@@ -1,0 +1,67 @@
+{
+  "id": 42144,
+  "title": "Jingju Mao Zhi Xinnian de Maoxian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1675/107855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1675/107855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jingju Mao 2nd Season",
+      "Beijing Opera Cats"
+    ],
+    "en": "Jing-Ju Cats 2",
+    "ja": "京剧猫之信念的冒险"
+  },
+  "start_date": "2017-07-10",
+  "end_date": "2017-08-14",
+  "synopsis": "Second season of Jingju Mao.",
+  "rank": 20537,
+  "popularity": 19828,
+  "num_list_users": 227,
+  "num_scoring_users": 52,
+  "nsfw": "white",
+  "created_at": "2020-06-03T05:53:08+00:00",
+  "updated_at": "2022-01-08T13:13:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 750,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2046,
+      "name": "Dazzling Star"
+    }
+  ]
+}

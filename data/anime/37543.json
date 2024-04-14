@@ -1,0 +1,49 @@
+{
+  "id": 37543,
+  "title": "Iryou Keiei Consultant",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1784/91247.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1784/91247l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Corporate Strategy Research Institute",
+      "Keiei Senryaku Kenkyuujo",
+      "Medical Management Consultant"
+    ],
+    "en": "",
+    "ja": "医療経営コンサルタント"
+  },
+  "start_date": "2017-11-07",
+  "end_date": "2017-11-07",
+  "synopsis": "A staff recruitment video for medical management consultants for Keiei Senryaku Kenkyuujo (Corporate Strategy Research Institute).\n",
+  "mean": 5.4,
+  "rank": 11873,
+  "popularity": 17769,
+  "num_list_users": 353,
+  "num_scoring_users": 156,
+  "nsfw": "white",
+  "created_at": "2018-03-20T09:41:10+00:00",
+  "updated_at": "2018-05-04T17:40:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 256,
+  "rating": "g",
+  "studios": []
+}

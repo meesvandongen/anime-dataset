@@ -1,0 +1,45 @@
+{
+  "id": 34178,
+  "title": "Inazuma Eleven: Outer Code",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1956/104383.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1956/104383l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "イナズマイレブン アウターコード"
+  },
+  "start_date": "2016-11-04",
+  "end_date": "2017-08-19",
+  "synopsis": "A spin-off of the Inazuma Eleven soccer anime franchise. The first episode features the Fubuki brothers, and the second features the Ohisama En.",
+  "mean": 6.81,
+  "rank": 5148,
+  "popularity": 6937,
+  "num_list_users": 8207,
+  "num_scoring_users": 3636,
+  "nsfw": "white",
+  "created_at": "2016-10-02T10:31:07+00:00",
+  "updated_at": "2022-03-31T22:41:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 330,
+  "rating": "g",
+  "studios": []
+}

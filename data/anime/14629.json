@@ -1,0 +1,54 @@
+{
+  "id": 14629,
+  "title": "Starship Troopers: Invasion",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1698/95973.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1698/95973l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スターシップ・トゥルーパーズ インベイジョン"
+  },
+  "start_date": "2012-07-21",
+  "end_date": "2012-07-21",
+  "synopsis": "A distant Federation outpost Fort Casey comes under attack by bugs. The team on the fast attack ship Alesia is assigned to help the Starship John A. Warden stationed in Fort Casey evacuate along with the survivors and bring military intelligence safely back to Earth. Carl Jenkins, now head of the Ministry of Paranormal Warfare, takes the starship on a clandestine mission before its rendezvous with the Alesia and goes missing in the nebula. Now, the battle-hardened troopers are charged with a rescue mission that may lead to a much more sinister consequence than they ever could have imagined... \n\n(Source: Amazon) ",
+  "mean": 6.66,
+  "rank": 5977,
+  "popularity": 7758,
+  "num_list_users": 6160,
+  "num_scoring_users": 3212,
+  "nsfw": "white",
+  "created_at": "2012-06-27T05:34:16+00:00",
+  "updated_at": "2022-04-04T23:25:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "book",
+  "average_episode_duration": 5340,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1189,
+      "name": "Sola Digital Arts"
+    }
+  ]
+}

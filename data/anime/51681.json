@@ -1,0 +1,58 @@
+{
+  "id": 51681,
+  "title": "Xun Jian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1643/123279.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1643/123279l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sword Quest",
+    "ja": "寻剑"
+  },
+  "start_date": "2022-04-26",
+  "end_date": "2022-07-05",
+  "synopsis": "The world says I am incompetent, but who knows that I am actually the greatest swordsman in the world? What does it matter to me if I am a son-in-law, let's see my sword sweep the world and break the sky!",
+  "mean": 6.05,
+  "rank": 9330,
+  "popularity": 13798,
+  "num_list_users": 893,
+  "num_scoring_users": 279,
+  "nsfw": "white",
+  "created_at": "2022-04-22T12:35:24+00:00",
+  "updated_at": "2022-07-05T16:10:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 810,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2529,
+      "name": "Xing Yi Kai Chen"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 28723,
+  "title": "Aikatsu!: Dai Starmiya Ichigo Matsuri Zenyasai!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/69345.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/69345l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "劇場版アイカツ！ 大スター宮いちごまつり前夜祭!!"
+  },
+  "start_date": "2014-11-24",
+  "end_date": "2014-11-24",
+  "synopsis": "Narrated recap of the Aikatsu! series.",
+  "mean": 6.59,
+  "rank": 6345,
+  "popularity": 11296,
+  "num_list_users": 1955,
+  "num_scoring_users": 532,
+  "nsfw": "white",
+  "created_at": "2014-12-03T22:46:28+00:00",
+  "updated_at": "2023-09-18T04:43:46+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 2840,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 36834,
+  "title": "Sengoku Night Blood: Ongaku Dai Tokushuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/89064.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/89064l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sengoku Night Blood Episode 7.5 Special"
+    ],
+    "en": "",
+    "ja": "戦刻ナイトブラッド 音楽大特集"
+  },
+  "start_date": "2017-11-21",
+  "end_date": "2017-11-21",
+  "synopsis": "Special showcasing the series' music aired between episodes 7 and 8. ",
+  "mean": 6.19,
+  "rank": 8607,
+  "popularity": 10588,
+  "num_list_users": 2443,
+  "num_scoring_users": 426,
+  "nsfw": "white",
+  "created_at": "2017-11-19T11:19:03+00:00",
+  "updated_at": "2022-01-09T19:39:14+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1340,
+      "name": "Typhoon Graphics"
+    }
+  ]
+}

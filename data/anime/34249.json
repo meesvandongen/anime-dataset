@@ -1,0 +1,47 @@
+{
+  "id": 34249,
+  "title": "Aqua Kids",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/82405.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/82405l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Aqua Kids",
+    "ja": "아쿠아 키즈"
+  },
+  "start_date": "2004-04-01",
+  "end_date": "2004-09-23",
+  "synopsis": "The polar ice caps have melted due to global warming. The human race has been stuck on one island as the marine life begins to evolve. Kids use a submarine and the help of their robot companions to explore the depths and come upon an ancient secret underwater civilization with treasure. It's a new hope for the human race to live under water but a money hungry real-estate tycoon stands in their way of peace. ",
+  "rank": 18226,
+  "popularity": 17311,
+  "num_list_users": 387,
+  "num_scoring_users": 100,
+  "nsfw": "white",
+  "created_at": "2016-10-15T19:01:58+00:00",
+  "updated_at": "2021-04-13T14:54:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday"
+  },
+  "source": "original",
+  "average_episode_duration": 1560,
+  "rating": "g",
+  "studios": []
+}

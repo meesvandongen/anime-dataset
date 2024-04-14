@@ -1,0 +1,60 @@
+{
+  "id": 39264,
+  "title": "Da Yu Hai Tang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1404/99059.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1404/99059l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Big Fish & Begonia"
+    ],
+    "en": "",
+    "ja": "大鱼海棠"
+  },
+  "start_date": "2004-12-28",
+  "end_date": "2004-12-28",
+  "synopsis": "In 2004, Liang Xuan produced a flash short film which was the prototype of the animated film Da Yu Hai Tang, which won the DIGIID Award of Intel 2004 China Digital Festival.",
+  "mean": 5.93,
+  "rank": 9881,
+  "popularity": 12125,
+  "num_list_users": 1466,
+  "num_scoring_users": 519,
+  "nsfw": "white",
+  "created_at": "2019-02-12T21:29:05+00:00",
+  "updated_at": "2021-06-09T04:35:12+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 458,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1462,
+      "name": "B&T"
+    }
+  ]
+}

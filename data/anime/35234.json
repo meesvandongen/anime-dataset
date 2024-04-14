@@ -1,0 +1,40 @@
+{
+  "id": 35234,
+  "title": "Dekiru ka na",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/87133.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/87133l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dekirukana",
+    "ja": "できるかな"
+  },
+  "start_date": "2017-06-05",
+  "end_date": "2017-08-30",
+  "synopsis": "A group of children find a kit to a Geiger counter at Akihabara one day. It leads to a Natrium leak incident with a nuclear power Monju. They have the spirit of \"let's do anything, let's go anywhere\" to try anything.\n\n(Source: MAL News)",
+  "rank": 19171,
+  "popularity": 18167,
+  "num_list_users": 322,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2017-03-23T07:02:34+00:00",
+  "updated_at": "2017-08-25T05:05:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 51245,
+  "title": "Heungbuwa Nolbu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1729/121431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1729/121431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Brothers of Hungboo and Nolboo",
+      "Heungbu and Nolbu"
+    ],
+    "en": "",
+    "ja": "흥부와 놀부"
+  },
+  "start_date": "1967-07-30",
+  "end_date": "1967-07-30",
+  "synopsis": "Early South Korean stop-motion colour pupped animation based on a folktale of the same name. \n\n(Source: AniDB)",
+  "rank": 20065,
+  "popularity": 20971,
+  "num_list_users": 162,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2022-03-12T20:01:38+00:00",
+  "updated_at": "2022-04-01T16:03:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1967,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 4119,
+  "rating": "g",
+  "studios": []
+}

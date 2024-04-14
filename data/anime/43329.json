@@ -1,0 +1,39 @@
+{
+  "id": 43329,
+  "title": "Da Nao Hua Shi",
+  "alternative_titles": {
+    "synonyms": [
+      "Uproar in the Studio",
+      "Studio Scene"
+    ],
+    "en": "",
+    "ja": "大鬧畫室"
+  },
+  "start_date": "1927-05",
+  "end_date": "1927-05",
+  "synopsis": "",
+  "rank": 19061,
+  "popularity": 20082,
+  "num_list_users": 211,
+  "num_scoring_users": 31,
+  "nsfw": "white",
+  "created_at": "2020-10-09T08:19:02+00:00",
+  "updated_at": "2021-09-26T21:31:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1927,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": []
+}

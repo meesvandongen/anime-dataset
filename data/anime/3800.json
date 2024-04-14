@@ -1,0 +1,51 @@
+{
+  "id": 3800,
+  "title": "Arrow Emblem Grand Prix no Taka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1718/99949.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1718/99949l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Arrow Emblem: Hawk of the Grand Prix"
+    ],
+    "en": "Super Grand Prix",
+    "ja": "アローエンブレム　グランプリの鷹"
+  },
+  "start_date": "1977-09-22",
+  "end_date": "1978-08-31",
+  "synopsis": "An anime with much of wheel actions ... Takaya Todoroki, a young man who wants to become a famous driver and built a car to be able to participate in a race with a big prize. In the race, because of the poor quality of building, Takaya has a serious accident in which he wrecked his car but he doesn`t hurt himself. That`s when a mysterious driver contact Takaya to enter onto some famous racing team...This mysterious man is a former driver .. a very famous one who appears every now and then to help Takaya fight his own destiny, to set him on the right track and most of all prove himself, unlike him.\n\n(Source: ANN)",
+  "mean": 6.46,
+  "rank": 7111,
+  "popularity": 10862,
+  "num_list_users": 2256,
+  "num_scoring_users": 735,
+  "nsfw": "white",
+  "created_at": "2008-01-29T23:17:39+00:00",
+  "updated_at": "2020-10-13T18:58:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 44,
+  "start_season": {
+    "year": 1977,
+    "season": "fall"
+  },
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

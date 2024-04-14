@@ -1,0 +1,58 @@
+{
+  "id": 36937,
+  "title": "Virtua Fighter: Costomize Clip",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/89426.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/89426l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Virtua Fighter Costomize Clip",
+    "ja": "バーチャファイター Costomize Clip"
+  },
+  "start_date": "1997-02-28",
+  "end_date": "1997-02-28",
+  "synopsis": "Virtua Fighter: Costomize Clip is a collection of music videos telling the stories behind some characters of the series. The songs featured in this OVA are from the Virtua Fighter 2 Dancing Shadows image album.",
+  "mean": 5.98,
+  "rank": 9665,
+  "popularity": 14135,
+  "num_list_users": 816,
+  "num_scoring_users": 186,
+  "nsfw": "white",
+  "created_at": "2017-12-13T15:36:20+00:00",
+  "updated_at": "2022-03-20T01:34:57+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 1975,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

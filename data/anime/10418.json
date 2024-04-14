@@ -1,0 +1,60 @@
+{
+  "id": 10418,
+  "title": "Deadman Wonderland: Akai Knife Tsukai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/33033.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/33033l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Deadman Wonderland OVA"
+    ],
+    "en": "Deadman Wonderland: The Red Knife Wielder",
+    "ja": "デッドマン・ワンダーランド 赤いナイフ使い"
+  },
+  "start_date": "2011-10-08",
+  "end_date": "2011-10-08",
+  "synopsis": "Two years after the catastrophic tidal wave that swept over Japan, police officer Kiyomasa Senji is trying to make the world a safer place. Using his Branch of Sin powers, he stops criminals in whatever ways he can. After rescuing a boy named Izuru Tsukiyoshi from a gang called Goreless Peace, the conflict between Kiyomasa and his adversaries heats up rapidly, to the point of being explosive.\n\nOffering a glimpse into the past of the future Deadman, the story follows Senji, helping to further develop the reasoning that drives his actions later in life.\n\n[Written by MAL Rewrite]",
+  "mean": 6.92,
+  "rank": 4625,
+  "popularity": 1664,
+  "num_list_users": 134579,
+  "num_scoring_users": 76692,
+  "nsfw": "white",
+  "created_at": "2011-03-03T23:25:25+00:00",
+  "updated_at": "2022-02-26T01:10:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1620,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    }
+  ]
+}

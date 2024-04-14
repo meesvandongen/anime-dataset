@@ -1,0 +1,53 @@
+{
+  "id": 53905,
+  "title": "Cang Lan Jue Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1766/131951.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1766/131951l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Love Between Fairy and Devil Part 2",
+    "ja": "苍兰诀 下部"
+  },
+  "start_date": "2022-12-23",
+  "end_date": "2023-03-10",
+  "synopsis": "",
+  "mean": 7.32,
+  "rank": 2617,
+  "popularity": 12099,
+  "num_list_users": 1483,
+  "num_scoring_users": 551,
+  "nsfw": "white",
+  "created_at": "2022-12-20T17:05:46+00:00",
+  "updated_at": "2023-03-10T16:39:27+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 969,
+  "rating": "pg_13",
+  "studios": []
+}

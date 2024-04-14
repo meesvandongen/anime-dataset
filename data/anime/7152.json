@@ -1,0 +1,56 @@
+{
+  "id": 7152,
+  "title": "Anyamal Tantei Kiruminzoo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/74070.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/74070l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Anymal Tantei Kiruminzoo",
+      "Animal Tantei Kiruminzoo",
+      "Animal Detectives Kiruminzoo",
+      "Anyamaru Tantei Kiruminzoo",
+      "Anyamaru Tantei Kiruminzuu"
+    ],
+    "en": "",
+    "ja": "あにゃまる探偵 キルミンずぅ"
+  },
+  "start_date": "2009-10-05",
+  "end_date": "2010-09-20",
+  "synopsis": " While searching for a run-away cat the twins Riko and Rimu Mikogami find a strange device that transforms them into \"Kirumin.\" It also enables them to turn into real animals. Their older sister Nagisa soon joins them. Now the three have cute, funny and sometimes dangerous adventures.",
+  "mean": 7.2,
+  "rank": 3241,
+  "popularity": 6728,
+  "num_list_users": 8743,
+  "num_scoring_users": 2118,
+  "nsfw": "white",
+  "created_at": "2009-09-08T09:16:43+00:00",
+  "updated_at": "2022-10-23T14:38:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "17:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1420,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

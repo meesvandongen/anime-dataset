@@ -1,0 +1,57 @@
+{
+  "id": 2809,
+  "title": "Fuusen Shoujo Temple-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/53883.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/53883l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Temple the Balloon Girl",
+      "Fusen Shojo Temple-chan"
+    ],
+    "en": "Temple the Balloonist",
+    "ja": "風船少女テンプルちゃん"
+  },
+  "start_date": "1977-10-01",
+  "end_date": "1978-03-25",
+  "synopsis": "When a little girl who loves music sneaks aboard a balloon, she soon finds herself far from home. She meets other children who also love music and agree to help her find her way back home.\n\n(Source: AniDB)",
+  "mean": 6.24,
+  "rank": 8351,
+  "popularity": 14604,
+  "num_list_users": 704,
+  "num_scoring_users": 199,
+  "nsfw": "white",
+  "created_at": "2007-07-18T04:01:19+00:00",
+  "updated_at": "2015-04-06T05:27:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1977,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

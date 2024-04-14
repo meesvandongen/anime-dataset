@@ -1,0 +1,53 @@
+{
+  "id": 6419,
+  "title": "Cinderella Express",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/14558.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/14558l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シンデレラ エクスプレス"
+  },
+  "start_date": "1989-08-16",
+  "end_date": "1989-08-16",
+  "synopsis": "Everyday salary man Shimano Yuji meets and beds a pretty young girl at his bachelor party. Meeting her again at his wedding, he realises that he has just began an affair with his sister-in-law.\n\n(Source: AniDB)",
+  "mean": 5.1,
+  "rank": 12527,
+  "popularity": 11742,
+  "num_list_users": 1670,
+  "num_scoring_users": 400,
+  "nsfw": "gray",
+  "created_at": "2009-04-28T04:36:26+00:00",
+  "updated_at": "2022-03-06T14:13:28+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2820,
+  "rating": "r+",
+  "studios": []
+}

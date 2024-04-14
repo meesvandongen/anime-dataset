@@ -1,0 +1,68 @@
+{
+  "id": 40403,
+  "title": "Shin Sakura Taisen the Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1341/105735.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1341/105735l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "New Sakura Wars the Animation"
+    ],
+    "en": "Sakura Wars the Animation",
+    "ja": "新サクラ大戦 the Animation"
+  },
+  "start_date": "2020-04-03",
+  "end_date": "2020-06-19",
+  "synopsis": "In 1941, one year after the defeat of Sotetsu Genan, captain Seijuurou Kamiyama of the Imperial Combat Revue's Flower Division in Tokyo leaves on a secret mission, with Sakura Amamiya temporarily assuming command. Following an incident in Europe, Kamiyama takes a young Russian girl named Klara M. Ruzhkova and leaves her in the Flower Division's care. However, Moscow Combat Revue captain Valery Kaminski is sent to Tokyo to retrieve Klara and the Flower Division must stop him.\n\n(Source: Wikipedia, edited)",
+  "mean": 5.83,
+  "rank": 10320,
+  "popularity": 4951,
+  "num_list_users": 19126,
+  "num_scoring_users": 4972,
+  "nsfw": "white",
+  "created_at": "2019-09-13T06:23:04+00:00",
+  "updated_at": "2022-11-23T21:52:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1427,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    }
+  ]
+}

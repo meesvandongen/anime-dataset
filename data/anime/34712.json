@@ -1,0 +1,69 @@
+{
+  "id": 34712,
+  "title": "Kujira no Kora wa Sajou ni Utau",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/86661.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/86661l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Whale Calves Sing on the Sand",
+      "Tales of the Wales Calves"
+    ],
+    "en": "Children of the Whales",
+    "ja": "クジラの子らは砂上に歌う"
+  },
+  "start_date": "2017-10-08",
+  "end_date": "2017-12-24",
+  "synopsis": "In a world covered by an endless sea of sand, there sails an island known as the Mud Whale. In its interior lies an ancient town, where the majority of its inhabitants are said to be \"Marked,\" a double-edged trait that grants them supernatural abilities at the cost of an untimely death. Chakuro is the village archivist; young and curious, he spends his time documenting the discovery of newfound islands. But each one is like the rest—abandoned save for the remnants of those who lived there long ago. \n\nFor the first time in six months, another island crosses the horizon, so Chakuro and his friends join the scouting group. During the expedition, they find vestiges of an archaic civilization. And inside one of its crumbling remains, Chakuro discovers a girl who will change his destiny and the world inside the Mud Whale as he knows it.\n\n[Written by MAL Rewrite]",
+  "mean": 7.17,
+  "rank": 3437,
+  "popularity": 1053,
+  "num_list_users": 230266,
+  "num_scoring_users": 104929,
+  "nsfw": "white",
+  "created_at": "2017-01-05T16:23:28+00:00",
+  "updated_at": "2023-04-19T08:53:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

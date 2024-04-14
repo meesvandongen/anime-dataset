@@ -1,0 +1,46 @@
+{
+  "id": 34628,
+  "title": "Taka no Tsume x Hello Kitty ga Masaka no Collab!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/83543.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/83543l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "鷹の爪×HELLO KITTYがまさかのコラボ！"
+  },
+  "start_date": "2012-06-28",
+  "end_date": "2012-06-28",
+  "synopsis": "A collaboration between the Taka no Tsume and Hello Kitty franchises.",
+  "mean": 4.99,
+  "rank": 12686,
+  "popularity": 17015,
+  "num_list_users": 409,
+  "num_scoring_users": 137,
+  "nsfw": "white",
+  "created_at": "2016-12-27T22:28:48+00:00",
+  "updated_at": "2016-12-27T22:28:48+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 72,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

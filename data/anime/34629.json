@@ -1,0 +1,41 @@
+{
+  "id": 34629,
+  "title": "MiniGARO",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/83547.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/83547l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "miniGARO"
+  },
+  "start_date": "2013-07-16",
+  "end_date": "2014-03-06",
+  "synopsis": "A short web-anime created for the \"miniGARO\" project, which imagines characters from the Garo franchise as super-deformed caricatures. Each episode respectively promotes the the Garo Gaiden: Tougen no Fue and Zero: Black Blood films and teaches theater etiquette. The \"MiniGARO Manner Movie\" entry shown with the actual films, continues where these commercials left off.",
+  "mean": 5.21,
+  "rank": 12346,
+  "popularity": 17352,
+  "num_list_users": 384,
+  "num_scoring_users": 123,
+  "nsfw": "white",
+  "created_at": "2016-12-28T00:16:42+00:00",
+  "updated_at": "2016-12-28T00:16:42+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 46,
+  "rating": "g",
+  "studios": []
+}

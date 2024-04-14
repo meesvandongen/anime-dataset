@@ -1,0 +1,53 @@
+{
+  "id": 7568,
+  "title": "Umineko no Naku Koro ni Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/18234.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/18234l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uraneko",
+      "When They Cry 3 Specials"
+    ],
+    "en": "Umineko: When They Cry Specials",
+    "ja": "うみねこのなく頃に"
+  },
+  "start_date": "2009-10-23",
+  "end_date": "2010-10-24",
+  "synopsis": "DVD and BD specials of Umineko no Naku Koro ni containing the parody dubbing by the original cast.",
+  "mean": 6.29,
+  "rank": 8068,
+  "popularity": 5218,
+  "num_list_users": 16570,
+  "num_scoring_users": 5227,
+  "nsfw": "white",
+  "created_at": "2009-11-21T21:11:06+00:00",
+  "updated_at": "2022-04-06T17:31:14+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

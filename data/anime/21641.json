@@ -1,0 +1,50 @@
+{
+  "id": 21641,
+  "title": "Planet:Valkyrie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/57001.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/57001l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Planet:Valkyrie",
+    "ja": "［プラネットワルキューレ］"
+  },
+  "start_date": "2013-12-23",
+  "end_date": "2013-12-23",
+  "synopsis": "Short animated preview for the twelve episodes of audio drama, a collaboration project between seiyuu/singer Chihara Minori and \"Project Valkyrie.\"",
+  "mean": 5.57,
+  "rank": 11385,
+  "popularity": 11449,
+  "num_list_users": 1854,
+  "num_scoring_users": 560,
+  "nsfw": "white",
+  "created_at": "2013-12-18T12:15:45+00:00",
+  "updated_at": "2022-03-10T15:21:52+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

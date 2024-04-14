@@ -1,0 +1,44 @@
+{
+  "id": 57142,
+  "title": "Flow",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1416/139614.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1416/139614l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "FLOW"
+  },
+  "start_date": "2022-04-12",
+  "end_date": "2022-04-12",
+  "synopsis": "All living things are born and die. Water flows and never returns back. The money you have might be gone away. However, you might become friends with someone who was your enemy. Everything keep changing and never be the same. Even these ideas could be changed, just in a moment.\n\n(Source: Vimeo)",
+  "rank": 19547,
+  "popularity": 22515,
+  "num_list_users": 102,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2023-11-12T06:02:13+00:00",
+  "updated_at": "2023-11-12T08:46:38+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 218,
+  "rating": "g",
+  "studios": []
+}

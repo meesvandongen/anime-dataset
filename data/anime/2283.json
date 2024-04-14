@@ -1,0 +1,62 @@
+{
+  "id": 2283,
+  "title": "Red Baron",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1596/103314.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1596/103314l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "レッドバロン"
+  },
+  "start_date": "1994-04-05",
+  "end_date": "1995-03-28",
+  "synopsis": "In the future, the \"Metal Fight\" games are the most popular televised sport in the world and many robot contestants compete for the title of Best Metal Fighter in the World. Kurenai Ken, along with teammate Saeba Shoko (who was, at first, adamant), pilots the Super Robot Fighter, Red Baron and enters the contest with dreams of becoming its champion. He must, however, face an army of other rivals from around the world including Kaizer (who is, in fact, Shoko's supposedly \"lost\" father, Tetsuo Saeba), the Tetsumen Tou (\"Iron Fist\" - a reference to the original Red Baron TV series) doctors, Tiger and ShinRon.\n\n(Source: Wikipedia)",
+  "mean": 7.21,
+  "rank": 3201,
+  "popularity": 8927,
+  "num_list_users": 4273,
+  "num_scoring_users": 1577,
+  "nsfw": "white",
+  "created_at": "2007-04-13T07:21:59+00:00",
+  "updated_at": "2024-03-06T11:07:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 49,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "17:00"
+  },
+  "source": "other",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

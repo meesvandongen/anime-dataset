@@ -1,0 +1,60 @@
+{
+  "id": 38414,
+  "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1238/104023.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1238/104023l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Re:Zero kara Hajimeru Isekai Seikatsu OVA 2"
+    ],
+    "en": "Re:ZERO -Starting Life in Another World- The Frozen Bond",
+    "ja": "Re：ゼロから始める異世界生活『氷結の絆』"
+  },
+  "start_date": "2019-11-08",
+  "end_date": "2019-11-08",
+  "synopsis": "Covered in ice and snow, Elior Forest is the home to dangerous magical beasts and 50 elves frozen in ice. One day, the great spirit Puck helps a young girl break out of her ice prison. Her name is Emilia, a half-elf born with silver hair, long ears, and amethyst eyes—features that resemble the evil Witch who destroyed half the world long ago. \n\nShunned by society because of her appearance, Emilia dwells in the forest with Puck as her sole companion and family. Burdened with a sin of destruction she does not remember committing, she spends her days trying to find a way to help her frozen kin. But when the great spirit Melakuera, the Arbitrator of the world, finds Emilia, her right to stay alive is brought into question. Will the bonds of ice she formed with Puck prove to be the warm thread that defies fate?\n\n[Written by MAL Rewrite]",
+  "mean": 7.6,
+  "rank": 1490,
+  "popularity": 923,
+  "num_list_users": 260868,
+  "num_scoring_users": 133688,
+  "nsfw": "white",
+  "created_at": "2018-09-27T11:36:52+00:00",
+  "updated_at": "2022-04-17T21:13:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 4571,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

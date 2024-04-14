@@ -1,0 +1,60 @@
+{
+  "id": 8314,
+  "title": "Tentai Senshi Sunred: Short Corner",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/21807.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/21807l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Astro Fighter Sunred: DVD Short Corners",
+      "Tentai Senshi Sunred Specials"
+    ],
+    "en": "",
+    "ja": "天体戦士サンレッド ショートコーナー"
+  },
+  "start_date": "2009-02-11",
+  "end_date": "2009-04-22",
+  "synopsis": "Short corners released exclusively on DVD.",
+  "mean": 6.46,
+  "rank": 7102,
+  "popularity": 13425,
+  "num_list_users": 992,
+  "num_scoring_users": 341,
+  "nsfw": "white",
+  "created_at": "2010-03-03T21:55:57+00:00",
+  "updated_at": "2016-08-16T05:17:08+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 88,
+      "name": "AIC ASTA"
+    }
+  ]
+}

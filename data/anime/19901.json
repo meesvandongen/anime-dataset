@@ -1,0 +1,42 @@
+{
+  "id": 19901,
+  "title": "Donkikko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/53069.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/53069l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ドンキッコ"
+  },
+  "start_date": "1967-09-07",
+  "end_date": "1968-01-25",
+  "synopsis": "A comedy about the mischievous adventures of a young boy. Each episode contains 2 stories.\n\n(Source: AniDB)",
+  "rank": 19291,
+  "popularity": 16321,
+  "num_list_users": 468,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2013-08-05T09:40:41+00:00",
+  "updated_at": "2022-02-09T04:40:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 21,
+  "start_season": {
+    "year": 1967,
+    "season": "fall"
+  },
+  "average_episode_duration": 1500,
+  "studios": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 35353,
+  "title": "Yogen-sha Ikusei Gakuen: Fortune Tellers Academy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85137.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85137l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "予言者育成学園 Fortune Tellers Academy"
+  },
+  "start_date": "2017-04-27",
+  "end_date": "2017-04-27",
+  "synopsis": "Animated web commercial for Square Enix's mobile game Yogen-sha Ikusei Gakuen: Fortune Tellers Academy.",
+  "mean": 5.54,
+  "rank": 11468,
+  "popularity": 16179,
+  "num_list_users": 483,
+  "num_scoring_users": 163,
+  "nsfw": "white",
+  "created_at": "2017-04-05T08:35:03+00:00",
+  "updated_at": "2020-06-28T20:28:40+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 122,
+  "rating": "g",
+  "studios": []
+}

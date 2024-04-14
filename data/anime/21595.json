@@ -1,0 +1,58 @@
+{
+  "id": 21595,
+  "title": "Yu☆Gi☆Oh! Zexal Second: Iza! Saishuu Kessen e!! Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/62897.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/62897l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yu-Gi-Oh! Zexal Second Episode 58.5",
+      "Episode 131.5",
+      "Yu-Gi-Oh! Zexal Second Special",
+      "Yu-Gi-Oh! Zexal 2nd Recap"
+    ],
+    "en": "",
+    "ja": "遊☆戯☆王ZEXALⅡ 特別編 いざ！最終決戦へ!!"
+  },
+  "start_date": "2013-12-05",
+  "end_date": "2013-12-05",
+  "synopsis": "Recap aired between episodes 58 and 59.",
+  "mean": 6.26,
+  "rank": 8259,
+  "popularity": 9197,
+  "num_list_users": 3863,
+  "num_scoring_users": 1141,
+  "nsfw": "white",
+  "created_at": "2013-12-15T07:53:27+00:00",
+  "updated_at": "2024-02-25T11:30:43+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1470,
+  "rating": "pg_13",
+  "studios": []
+}

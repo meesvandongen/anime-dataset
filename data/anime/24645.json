@@ -1,0 +1,56 @@
+{
+  "id": 24645,
+  "title": "Ai Shoujo Pollyanna Story Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1963/140232.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1963/140232l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai Meisaku Gekijou Kanketsu Ban: Ai Shoujo Pollyanna Monogatari",
+      "Ai Shoujo Pollyanna Monogatari Recaps"
+    ],
+    "en": "",
+    "ja": "世界名作劇場・完結版 愛少女ポリアンナ物語"
+  },
+  "start_date": "2001-04",
+  "end_date": "2001-04",
+  "synopsis": "A summary of Ai Shoujo Pollyanna Monogatari full series aired as TV Specials in 2001.",
+  "mean": 6.07,
+  "rank": 9245,
+  "popularity": 14704,
+  "num_list_users": 682,
+  "num_scoring_users": 133,
+  "nsfw": "white",
+  "created_at": "2014-06-12T22:36:53+00:00",
+  "updated_at": "2023-12-26T17:02:56+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "average_episode_duration": 2700,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

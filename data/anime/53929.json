@@ -1,0 +1,45 @@
+{
+  "id": 53929,
+  "title": "Obake to Issho",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1557/131994.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1557/131994l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "おばけといっしょ"
+  },
+  "start_date": "1993-02-02",
+  "end_date": "1993-02-02",
+  "synopsis": "Music video for the song Obake to Issho by Tokyo Performance Doll that was featured on NHK's Minna no Uta program.",
+  "popularity": 22424,
+  "num_list_users": 104,
+  "num_scoring_users": 49,
+  "nsfw": "white",
+  "created_at": "2022-12-22T23:42:50+00:00",
+  "updated_at": "2022-12-23T10:02:47+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 33377,
+  "title": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/81133.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/81133l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Trickster",
+    "ja": "TRICKSTER -江戸川乱歩「少年探偵団」より-"
+  },
+  "start_date": "2016-10-04",
+  "end_date": "2017-03-28",
+  "synopsis": "Kogorou Akechi is the founder of a private investigation firm known as the Boy Detectives' Club. Together, this group takes on cases both great and small. One of their junior members, Kensuke Hanasaki, is out solving a case one day when he happens upon Yoshio Kobayashi, a mysterious amnesiac boy with an inability to die. After seeing his abilities in action, Kensuke offers Yoshio a deal: join the Boy Detectives' Club and help them solve cases, and in exchange he will find a way to help Yoshio die.\n\nThe apathetic Yoshio accepts this deal begrudgingly, unaware of how different his life will become. Although he does not have much use for people, he gradually begins to acknowledge the group as he spends more time with them while solving cases.\n\nTrickster: Edogawa Ranpo \"Shounen Tanteidan\" yori follows Akechi and the rest of the Boy Detectives' Club as they solve the various cases they are given, all while combating a hidden threat from the shadows—\"The Fiend with Twenty Faces.\"\n\n[Written by MAL Rewrite]",
+  "mean": 6.25,
+  "rank": 8318,
+  "popularity": 1863,
+  "num_list_users": 115978,
+  "num_scoring_users": 37123,
+  "nsfw": "white",
+  "created_at": "2016-06-01T06:26:11+00:00",
+  "updated_at": "2023-03-13T20:34:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:05"
+  },
+  "source": "original",
+  "average_episode_duration": 1390,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    },
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

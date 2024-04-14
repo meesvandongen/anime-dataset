@@ -1,0 +1,58 @@
+{
+  "id": 53148,
+  "title": "Gokushufudou Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1985/132227.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1985/132227l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Way of the Househusband Season 2",
+    "ja": "極主夫道"
+  },
+  "start_date": "2023-01-01",
+  "end_date": "2023-01-01",
+  "synopsis": "With a wicked scar on his face, a terrifying gaze, and an apron adorned with a teddy bear, ex-yakuza member Tatsu proudly assumes the role of a full-time househusband. Already familiar with the regular challenges of grocery shopping, Tatsu now takes it to the next level by joining a women's organization—but acceptance is not easily achieved without first mastering the elegance of flower arranging and housekeeping.\n\nApproaching homemaking ventures through the lens of his former occupation, Tatsu faces haiku battles, typhoon alerts, and cosplaying villains. For his dearest wife Miku, Tatsu will do anything, even if he is interrupted by his old acquaintances, whose former vigor has also yet to subside. Never faltering before a new challenge, Tatsu's tranquil days as a househusband are proving to be just as hectic as before.\n\n[Written by MAL Rewrite]",
+  "mean": 7.57,
+  "rank": 1615,
+  "popularity": 2481,
+  "num_list_users": 74608,
+  "num_scoring_users": 36880,
+  "nsfw": "white",
+  "created_at": "2022-09-25T09:08:08+00:00",
+  "updated_at": "2023-07-31T09:16:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1020,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

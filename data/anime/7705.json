@@ -1,0 +1,54 @@
+{
+  "id": 7705,
+  "title": "Starry☆Sky",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/27459.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/27459l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スタ☆スカ"
+  },
+  "start_date": "2010-12-23",
+  "end_date": "2011-06-16",
+  "synopsis": "Formerly an all-boys school, Seigetsu Academy is now a co-ed institution that hones its students' knowledge in astronomy. In this regard, Tsukiko Yahisa enrolls as the first and only female student in the academy. By her side are her childhood best friends, Kanata Nanami and Suzuya Touzuki, who shield her from the advances of the student body. As Tsukiko learns to navigate her new environment, she encounters 13 distinct boys who are based on the Western zodiac star signs. Eventually, Tsukiko's involvement with these boys drags her deeper into star-crossed routes that will entangle her in numerous affairs.\n\n[Written by MAL Rewrite]",
+  "mean": 6.09,
+  "rank": 9146,
+  "popularity": 3051,
+  "num_list_users": 51999,
+  "num_scoring_users": 18560,
+  "nsfw": "white",
+  "created_at": "2009-12-15T19:14:55+00:00",
+  "updated_at": "2023-09-19T03:08:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 696,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

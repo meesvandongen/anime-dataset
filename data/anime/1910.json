@@ -1,0 +1,66 @@
+{
+  "id": 1910,
+  "title": "Master Keaton OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/14522.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/14522l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "マスターキートン"
+  },
+  "start_date": "1999-12-22",
+  "end_date": "2000-06-21",
+  "synopsis": "Taichi Keaton is a man of many talents: father, historian, frequent traveler, negotiator, archaeologist, former survival instructor, and all while working as an insurance investigator for Lloyd's of London. While his methods may seem a bit unorthodox, he gets the job done when needed, but not without a little something to learn or teach in the process. Through all of his adventures, some people call him a quack. Those who know him well call him a master of life...  \n\n(Source: ANN)",
+  "mean": 7.74,
+  "rank": 1134,
+  "popularity": 6281,
+  "num_list_users": 10328,
+  "num_scoring_users": 3016,
+  "nsfw": "white",
+  "created_at": "2007-02-05T20:22:29+00:00",
+  "updated_at": "2022-08-29T06:49:30+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

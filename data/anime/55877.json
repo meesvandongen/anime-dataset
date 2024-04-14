@@ -1,0 +1,60 @@
+{
+  "id": 55877,
+  "title": "Henjin no Salad Bowl",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1861/141482.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1861/141482l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Salad Bowl of Eccentrics",
+      "Hensara"
+    ],
+    "en": "A Salad Bowl of Eccentrics",
+    "ja": "変人のサラダボウル"
+  },
+  "start_date": "2024-04-05",
+  "synopsis": "Sousuke Kaburaya, an impoverished detective, meets Sara, a princess from another world with magical powers. They start living together, and Sara quickly adjusts her life to modern Japan.\n\n(Source: Shogakukan, translated)",
+  "mean": 7.19,
+  "rank": 3320,
+  "popularity": 4426,
+  "num_list_users": 24739,
+  "num_scoring_users": 3247,
+  "nsfw": "white",
+  "created_at": "2023-07-06T09:06:37+00:00",
+  "updated_at": "2024-04-04T21:27:32+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:28"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1451,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    },
+    {
+      "id": 126,
+      "name": "Studio Comet"
+    }
+  ]
+}

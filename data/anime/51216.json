@@ -1,0 +1,56 @@
+{
+  "id": 51216,
+  "title": "Xin Qin Shi Mingyue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1737/121356.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1737/121356l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "New Qin's Moon",
+      "Qin's Moon Remastered",
+      "The Legend of Qin Remastered"
+    ],
+    "en": "",
+    "ja": "新秦时明月"
+  },
+  "start_date": "2021-11-25",
+  "end_date": "2022-08-18",
+  "synopsis": "Remaster of the first two seasons of Qin Shi Mingyue.",
+  "rank": 14731,
+  "popularity": 15958,
+  "num_list_users": 507,
+  "num_scoring_users": 96,
+  "nsfw": "white",
+  "created_at": "2022-03-10T04:34:10+00:00",
+  "updated_at": "2022-08-19T10:49:51+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1200,
+  "rating": "pg_13",
+  "studios": []
+}

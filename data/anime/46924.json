@@ -1,0 +1,46 @@
+{
+  "id": 46924,
+  "title": "Shu Shan Qi Xian Lu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1326/119510.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1326/119510l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Legend of Sho",
+    "ja": "蜀山奇仙录"
+  },
+  "start_date": "2021-12-08",
+  "end_date": "2022-02-02",
+  "synopsis": "During the An Lushan Rebellion of the Tang Dynasty, monsters are everywhere and the people were destitute in the Central Plains. Li Haobai started from the Bashu and wanted to go to the front line to make a meritorious deed. On the way he was swallowed by the monster. By coincidence, Li Haobai and the guardian of the dragon’s veins merged with each other to obtain the power of the black dragon. And he has since been involved in the struggle of various forces.\n\n(Source: wawayu.tv)",
+  "mean": 5.86,
+  "rank": 10191,
+  "popularity": 13489,
+  "num_list_users": 970,
+  "num_scoring_users": 183,
+  "nsfw": "white",
+  "created_at": "2021-01-27T00:42:59+00:00",
+  "updated_at": "2022-07-09T07:45:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 952,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1772,
+      "name": "Wawayu Animation"
+    }
+  ]
+}

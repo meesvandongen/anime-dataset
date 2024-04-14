@@ -1,0 +1,40 @@
+{
+  "id": 7982,
+  "title": "Tetsuro no Kanata",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/29238.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/29238l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Beyond the Train Tracks"
+    ],
+    "en": "",
+    "ja": "鉄路の彼方"
+  },
+  "start_date": "2006-01-18",
+  "end_date": "2006-01-18",
+  "synopsis": "A boy encounters a trace of his lost father on tracks where time comes and goes, at a station where time stops. With the help of a mysterious projectionist, the boy and station master search for the truth of the father's image.\n\n(Source: AniDB)",
+  "rank": 13837,
+  "popularity": 14442,
+  "num_list_users": 743,
+  "num_scoring_users": 87,
+  "nsfw": "white",
+  "created_at": "2010-01-24T13:43:01+00:00",
+  "updated_at": "2019-07-26T21:03:23+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "average_episode_duration": 660,
+  "studios": []
+}

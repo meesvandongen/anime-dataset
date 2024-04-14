@@ -1,0 +1,48 @@
+{
+  "id": 3646,
+  "title": "Glass no Usagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1188/94727.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1188/94727l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Garasu no Usagi"
+    ],
+    "en": "Glass Rabbit",
+    "ja": "ガラスのうさぎ"
+  },
+  "start_date": "2005-09-09",
+  "end_date": "2005-09-09",
+  "synopsis": "Toshiko Ei and her family are residents of Tokyo. Her father is a respected and skilled glass craftsmen so the family makes a good living. However, the Ei family soon finds itself having to suffer through many tragic hardships as a result of World War II. \n\n(Source: ANN) ",
+  "mean": 6.59,
+  "rank": 6360,
+  "popularity": 10405,
+  "num_list_users": 2602,
+  "num_scoring_users": 736,
+  "nsfw": "white",
+  "created_at": "2007-12-30T20:47:58+00:00",
+  "updated_at": "2019-11-22T21:18:42+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "book",
+  "average_episode_duration": 5040,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

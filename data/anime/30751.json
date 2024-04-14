@@ -1,0 +1,52 @@
+{
+  "id": 30751,
+  "title": "Usavich Zero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/73969.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/73969l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Usavich 0"
+    ],
+    "en": "",
+    "ja": "ウサビッチZERO"
+  },
+  "start_date": "2015-04-10",
+  "end_date": "2015-08-28",
+  "synopsis": "Prequel to the first Usavich season.",
+  "mean": 6,
+  "rank": 9600,
+  "popularity": 11307,
+  "num_list_users": 1950,
+  "num_scoring_users": 858,
+  "nsfw": "white",
+  "created_at": "2015-05-10T20:28:03+00:00",
+  "updated_at": "2021-03-31T21:45:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "23:55"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 330,
+      "name": "Kanaban Graphics"
+    }
+  ]
+}

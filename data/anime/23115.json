@@ -1,0 +1,57 @@
+{
+  "id": 23115,
+  "title": "Hamatora The Animation: Saishuukai Chokuzen! Mao ga Okuru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/72302.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/72302l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hamatora The Animation Recap",
+      "Hamatora The Animation: Saishuukai Chokuzen! Mao ga Okuru Soushuuhen Special - File-SP Jouhouya no Tokushu"
+    ],
+    "en": "",
+    "ja": "「ハマトラ」最終回直前！マオが送る総集編スペシャル File-SP 情報屋の特種"
+  },
+  "start_date": "2014-03-21",
+  "end_date": "2014-03-21",
+  "synopsis": "Recap of the Hamatora The Animation series narrated by Mao.",
+  "mean": 6.73,
+  "rank": 5602,
+  "popularity": 6947,
+  "num_list_users": 8157,
+  "num_scoring_users": 2155,
+  "nsfw": "white",
+  "created_at": "2014-03-12T05:15:28+00:00",
+  "updated_at": "2024-02-07T15:41:12+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 1575,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 951,
+      "name": "NAZ"
+    }
+  ]
+}

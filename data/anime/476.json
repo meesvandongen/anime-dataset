@@ -1,0 +1,66 @@
+{
+  "id": 476,
+  "title": "Ginban Kaleidoscope",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/19926.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/19926l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Skating Rink Kaleidoscope",
+    "ja": "銀盤カレイドスコープ"
+  },
+  "start_date": "2005-10-09",
+  "end_date": "2005-12-25",
+  "synopsis": "Figure skater Tazusa Sakurano is on the fast track to the Olympics. As a top contender, her chances rest on a single competition in Canada. However, during her program, she falls and hits her head on the ice, knocking her unconscious. At the same time, Canadian stunt pilot Pete Pumps goes down in a fiery blaze.\n\nAfter her devastating failure, Tazusa returns home to Japan, but she starts hearing a voice in her head. In reality, when Pete had arrived at the gates of heaven, he was denied access for his sins. Instead, he was told to wait 100 days and is now trapped in Tazusa's body! Unwilling to let this interrupt her life—even if her body is a bit crowded—Tazusa moves forward with skating, all while a pesky voice may just be able to help her achieve her dream.\n\n[Written by MAL Rewrite]",
+  "mean": 7.31,
+  "rank": 2683,
+  "popularity": 3114,
+  "num_list_users": 49817,
+  "num_scoring_users": 23078,
+  "nsfw": "white",
+  "created_at": "2006-01-02T02:43:42+00:00",
+  "updated_at": "2023-09-11T23:55:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "02:40"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 890,
+      "name": "Karaku"
+    }
+  ]
+}

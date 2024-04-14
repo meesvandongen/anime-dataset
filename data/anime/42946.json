@@ -1,0 +1,53 @@
+{
+  "id": 42946,
+  "title": "Kusoge tte Iuna! Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1046/111081.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1046/111081l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Don't Say Kusoge!",
+      "Kusoge-tte Iuna! Animation"
+    ],
+    "en": "Don't Call Us a Junk Game!",
+    "ja": "クソゲーって言うな！アニメーション"
+  },
+  "start_date": "2020-10-19",
+  "end_date": "2021-01-05",
+  "synopsis": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.\n\n(Source: ANN)",
+  "mean": 5.36,
+  "rank": 11994,
+  "popularity": 10463,
+  "num_list_users": 2552,
+  "num_scoring_users": 1277,
+  "nsfw": "white",
+  "created_at": "2020-09-22T19:08:28+00:00",
+  "updated_at": "2022-03-29T15:19:05+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 856,
+      "name": "Charaction"
+    }
+  ]
+}

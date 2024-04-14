@@ -1,0 +1,45 @@
+{
+  "id": 51597,
+  "title": "Simgyeong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1293/122639.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1293/122639l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sim-gyeong"
+    ],
+    "en": "Mirror in Mind",
+    "ja": "심경"
+  },
+  "start_date": "2014-05-01",
+  "end_date": "2014-05-01",
+  "synopsis": "A woman looks into her mind. Chasing her ideals on a tightrope. Every imperfect piece of her mind completes herself.\n\n(Source: IMDb)",
+  "rank": 13480,
+  "popularity": 21604,
+  "num_list_users": 132,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2022-04-10T12:05:49+00:00",
+  "updated_at": "2022-04-13T16:29:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "average_episode_duration": 124,
+  "rating": "r+",
+  "studios": []
+}

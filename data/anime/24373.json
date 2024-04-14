@@ -1,0 +1,46 @@
+{
+  "id": 24373,
+  "title": "Bakabon Osomatsu no Karee wo Tazunete Sansenri",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/62947.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/62947l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "バカボン・おそ松のカレーをたずねて三千里"
+  },
+  "start_date": "1991-10-19",
+  "end_date": "1991-10-19",
+  "synopsis": "",
+  "mean": 6.04,
+  "rank": 9408,
+  "popularity": 14579,
+  "num_list_users": 710,
+  "num_scoring_users": 165,
+  "nsfw": "white",
+  "created_at": "2014-05-26T07:07:05+00:00",
+  "updated_at": "2023-12-27T16:17:41+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 2660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

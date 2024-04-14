@@ -1,0 +1,64 @@
+{
+  "id": 30652,
+  "title": "Long Riders!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/82255.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/82255l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Longriders!"
+    ],
+    "en": "Long Riders!",
+    "ja": "ろんぐらいだぁす！"
+  },
+  "start_date": "2016-10-08",
+  "end_date": "2017-02-05",
+  "synopsis": "Falling in love at first sight with a collapsible bicycle outside the station, Ami Kurata, first-year university student empties her account without a second thought and buys the bicycle. Now she enjoys weekend cycling trips with Aoi, her childhood friend, and Hinako, a senior at her university. \"Owning a road bike may change your view of the world completely.\" Prompted by the comment, Ami purchased a road bike, and she is really impressed with the traveling performance. As soon as she places her feet on the pedals and presses down, everything about riding a road bicycle—the lightness of the pedal, the speed, the acceleration—is nothing like she has ever experienced. Ami's cycle life gets going with the new road cycle as her partner!\n\n(Source: Showgate, edited)",
+  "mean": 6.72,
+  "rank": 5631,
+  "popularity": 4162,
+  "num_list_users": 28193,
+  "num_scoring_users": 10104,
+  "nsfw": "white",
+  "created_at": "2015-04-24T00:35:52+00:00",
+  "updated_at": "2023-09-24T21:50:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "21:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1424,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
+}

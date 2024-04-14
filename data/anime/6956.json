@@ -1,0 +1,60 @@
+{
+  "id": 6956,
+  "title": "Working!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/75262.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/75262l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Working!!"
+    ],
+    "en": "Wagnaria!!",
+    "ja": "ワーキング!!"
+  },
+  "start_date": "2010-04-04",
+  "end_date": "2010-06-27",
+  "synopsis": "Due to his love for small, cute things, Souta Takanashi cannot turn childlike Popura Taneshima down when she recruits him to work for Wagnaria, a family restaurant located in Hokkaido. Takanashi takes particular joy in doting on the older Popura, which only fuels her complex over how young she looks. He also quickly learns he must stay on his toes once he meets the rest of his colleagues, including the katana-wielding floor chief Yachiyo Todoroki, the intimidating head chef Jun Satou, the dangerously well-informed and subtly sadistic sous chef Hiroomi Souma, the adamantly lazy manager Kyouko Shirafuji, and the waitress Mahiru Inami who has a \"painful\" fear of men.\n\nPowered by an eccentric cast, Working!! is a unique workplace comedy that follows the never-dull happenings within the walls of Wagnaria as Takanashi and his co-workers' quirky personalities combine to create non-stop antics, shenanigans, and hilarity.\n\n[Written by MAL Rewrite]",
+  "mean": 7.64,
+  "rank": 1362,
+  "popularity": 521,
+  "num_list_users": 433149,
+  "num_scoring_users": 206533,
+  "nsfw": "white",
+  "created_at": "2009-08-09T12:08:50+00:00",
+  "updated_at": "2022-04-29T20:06:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2118,
+  "title": "Captain Tsubasa: Europe Daikessen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1234/110683.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1234/110683l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Captain Tsubasa: Europa Daikessen",
+      "Captain Tsubasa: Soccer Boys Europe Finals",
+      "Captain Tsubasa: Europe Dai Kessen",
+      "Captain Tsubasa Movie (1985 Summer)",
+      "Captain Tsubasa Movie 1"
+    ],
+    "en": "",
+    "ja": "キャプテン翼　ヨーロッパ大決戦"
+  },
+  "start_date": "1985-07-13",
+  "end_date": "1985-07-13",
+  "synopsis": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before.\n\n(Source: ANN)",
+  "mean": 6.83,
+  "rank": 5044,
+  "popularity": 7723,
+  "num_list_users": 6238,
+  "num_scoring_users": 3128,
+  "nsfw": "white",
+  "created_at": "2007-03-13T21:17:23+00:00",
+  "updated_at": "2023-11-28T14:22:48+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2520,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 390,
+      "name": "Tsuchida Productions"
+    }
+  ]
+}

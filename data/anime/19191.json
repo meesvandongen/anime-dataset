@@ -1,0 +1,72 @@
+{
+  "id": 19191,
+  "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/52135.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/52135l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ghost in the Shell: Arise - Border:2 Ghost Whispers"
+    ],
+    "en": "Ghost in the Shell: Arise - Border 2: Ghost Whispers",
+    "ja": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:2 Ghost Whispers"
+  },
+  "start_date": "2013-11-30",
+  "end_date": "2013-11-30",
+  "synopsis": "Second movie of Ghost in the Shell: Arise.\n\nFreed of her responsibilities with the 501 Organization, Motoko Kusanagi must now learn how to take orders from Aramaki. Someone hacks the Logicomas, and Batou enlists the help of former army intelligence officer Ishikawa and former air artillery expert Borma. Kusanagi also seeks to enlist ace sniper Saito and undercover cop Paz into the new Public Security Section 9. The two groups rival each other in a case involving a man who receives false memories of a refugee transport operation.\n\n(Source: Wikipedia)",
+  "mean": 7.48,
+  "rank": 1922,
+  "popularity": 3044,
+  "num_list_users": 52167,
+  "num_scoring_users": 25199,
+  "nsfw": "white",
+  "created_at": "2013-06-23T09:27:26+00:00",
+  "updated_at": "2024-03-06T11:56:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3379,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

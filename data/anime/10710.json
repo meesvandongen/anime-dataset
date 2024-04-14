@@ -1,0 +1,40 @@
+{
+  "id": 10710,
+  "title": "Houkago no Pleiades: Manner Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/29512.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/29512l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "劇場版 放課後のプレアデス   マナームービー"
+  },
+  "start_date": "2011-06-04",
+  "end_date": "2011-06-04",
+  "synopsis": "A manner movie based on the Houkago no Pleiades anime.\n\nA manner movie is a reminder video shown in theaters before the main movie starts, it is there to remind the audience to turn off their mobile phones, avoid talking, etc. This Houkago no Pleiades manner movie was exclusive to the United Cinemas theater chain.\n\n(Source: AniDB)",
+  "mean": 5.33,
+  "rank": 12080,
+  "popularity": 10487,
+  "num_list_users": 2529,
+  "num_scoring_users": 783,
+  "nsfw": "white",
+  "created_at": "2011-05-17T03:20:41+00:00",
+  "updated_at": "2022-07-16T06:39:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 52,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

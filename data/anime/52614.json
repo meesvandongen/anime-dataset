@@ -1,0 +1,70 @@
+{
+  "id": 52614,
+  "title": "Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1727/137215.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1727/137215l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "MIX Season 2",
+    "ja": "MIX MEISEI STORY 2ND SEASON 〜二度目の夏、空の向こうへ〜"
+  },
+  "start_date": "2023-04-01",
+  "end_date": "2023-09-23",
+  "synopsis": "Second season of Mix: Meisei Story.",
+  "mean": 7.01,
+  "rank": 4277,
+  "popularity": 7250,
+  "num_list_users": 7263,
+  "num_scoring_users": 1957,
+  "nsfw": "white",
+  "created_at": "2022-08-05T15:12:46+00:00",
+  "updated_at": "2023-09-10T05:49:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 7720,
+  "title": "Ookiku Furikabutte: Natsu no Taikai-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/18671.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/18671l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Oofuri",
+      "Big Windup! 2",
+      "Swing Big! 2",
+      "Ookiku Furikabutte 2",
+      "Ookiku Furikabutte The Summer Tournament Chapter"
+    ],
+    "en": "Big Windup! 2",
+    "ja": "おおきく振りかぶって　〜夏の大会編〜"
+  },
+  "start_date": "2010-04-02",
+  "end_date": "2010-06-25",
+  "synopsis": "Picking up where the original series left off, Ren Mihashi, the ace pitcher of the newly-formed Nishiura High School baseball team, and his teammates face the Sakitama High School team in the next round of the High School Baseball Invitational Tournament as they aim to play in the finals at legendary Hanshin Koushien Stadium.\n\n(Source: ANN)",
+  "mean": 7.96,
+  "rank": 682,
+  "popularity": 3297,
+  "num_list_users": 44719,
+  "num_scoring_users": 22925,
+  "nsfw": "white",
+  "created_at": "2009-12-19T15:56:51+00:00",
+  "updated_at": "2023-01-09T01:32:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1449,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

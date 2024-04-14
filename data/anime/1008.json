@@ -1,0 +1,64 @@
+{
+  "id": 1008,
+  "title": "Ranma ½: Yomigaeru Kioku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/63453.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/63453l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ranma ½ Special: Yomigaeru Kioku"
+    ],
+    "en": "Ranma 1/2 Special: Reawakening Memories",
+    "ja": "らんま1/2 SPECIAL よみがえる記憶"
+  },
+  "start_date": "1994-12-16",
+  "end_date": "1995-02-17",
+  "synopsis": "\"Reawakening Memories\" deals with Akane suddenly remembering a trip to Ryugenzawa when she was a small child. While there she was saved from a giant platypus by Shinnosuke. Akane travels back to Ryogenzawa and once again meets Shinnosuke, who falls in love with her. Akane blames herself for Shinnosuke`s life-threatening injuries, and decides to stay and help out. This irritates Ranma, who thinks that Akane has fallen in love with Shinnosuke, and will do what it takes to get her back.",
+  "mean": 7.58,
+  "rank": 1569,
+  "popularity": 4952,
+  "num_list_users": 19111,
+  "num_scoring_users": 9139,
+  "nsfw": "white",
+  "created_at": "2006-05-29T23:10:00+00:00",
+  "updated_at": "2022-03-29T09:11:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 65,
+      "name": "Magical Sex Shift"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

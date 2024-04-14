@@ -1,0 +1,66 @@
+{
+  "id": 37395,
+  "title": "Zoids Wild",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1792/95048.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1792/95048l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ゾイドワイルド"
+  },
+  "start_date": "2018-07-07",
+  "end_date": "2019-06-29",
+  "synopsis": "The series follows Arashi and his Wild Liger. The main antagonists are the Death Metal Empire, lead by Gallagher. They use Zoids for conquest, and have at their command many Zoids and warriors, including the Four Heavenly Kings.\n\nArashi longs to follow his father's footsteps become a Zoid Hunter, and find his ultimate Partner. At the beginning of his journey, he partners up with the Wild Liger and meets Bacon and Team Supreme, who tell him about the Great Ancient Treasure Z.\n\n(Source: Zoids Wiki)\n",
+  "mean": 6.31,
+  "rank": 7989,
+  "popularity": 7599,
+  "num_list_users": 6489,
+  "num_scoring_users": 1245,
+  "nsfw": "white",
+  "created_at": "2018-02-27T03:21:30+00:00",
+  "updated_at": "2022-03-12T11:27:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "06:30"
+  },
+  "source": "other",
+  "average_episode_duration": 1491,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 366,
+  "title": "AIKa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/61673.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/61673l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Agent AIKa",
+    "ja": "ＡＩＫａ"
+  },
+  "start_date": "1997-04-25",
+  "end_date": "1999-04-25",
+  "synopsis": "A catastrophic earthquake has left Tokyo, and most of the Earth for that matter, under the sea. Aika is a salvager who retrieves various remains from the watery ruins. When Aika accepts the dangerous mission of locating and obtaining the mysterious Lagu, she discovers that she's not the only one after it. ",
+  "mean": 5.95,
+  "rank": 9815,
+  "popularity": 3701,
+  "num_list_users": 36358,
+  "num_scoring_users": 14778,
+  "nsfw": "gray",
+  "created_at": "2005-11-24T13:50:09+00:00",
+  "updated_at": "2022-04-06T20:44:17+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1672,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 24,
+      "name": "Studio Fantasia"
+    }
+  ]
+}

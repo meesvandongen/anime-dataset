@@ -1,0 +1,56 @@
+{
+  "id": 31927,
+  "title": "Phantom of the Kill: Zero kara no Hangyaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1854/112817.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1854/112817l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Phantom of the Kill: Zero's Rebellion"
+    ],
+    "en": "",
+    "ja": "ファントム オブ キル ―ZEROからの反逆―"
+  },
+  "start_date": "2016-04-07",
+  "end_date": "2016-04-07",
+  "synopsis": "Game producer Jun Imaizumi announced six new projects related to the smartphone game \"Phantom of the Kill\" during a Niconico live broadcast celebrating the game's one-year anniversary on Friday. One of the new projects is a 15-minute anime concept film.\n\nNaoyoshi Shiotani (Psycho-Pass, Blood-C: The Last Dark) will direct the concept film at Production I.G \n\nFuji & Gumi Games' strategy drama RPG follows mysterious girls who carry the names of legendary weapons (such as \"Masamune\") as they search for their lost memories. The game allows players to collect characters and weapons, and enter dungeons to engage in turn-based tactical battles.\n\n(Source: ANN)",
+  "mean": 6.12,
+  "rank": 8991,
+  "popularity": 6237,
+  "num_list_users": 10486,
+  "num_scoring_users": 3248,
+  "nsfw": "white",
+  "created_at": "2015-10-24T00:50:31+00:00",
+  "updated_at": "2022-04-15T22:44:33+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1300,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

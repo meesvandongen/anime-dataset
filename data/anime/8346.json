@@ -1,0 +1,52 @@
+{
+  "id": 8346,
+  "title": "Ukkari Pénélope OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/21984.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/21984l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ukkari Penelope OVA",
+      "Carelessly Penelope OVA",
+      "Absent-minded Penelope OVA",
+      "Head in the Air Penelope",
+      "Pénélope's Christmas Party",
+      "Pénélope no Christmas Party"
+    ],
+    "en": "",
+    "ja": "メリークリスマス、ペネロペ / ペネロペのクリスマスパーティー"
+  },
+  "start_date": "2007-11-23",
+  "end_date": "2007-11-23",
+  "synopsis": "A Christmas OVA based on the European Pénélope picture books from Georg Hallensleben and Ann Gutman about the adventures of a blue koala.",
+  "rank": 14140,
+  "popularity": 18135,
+  "num_list_users": 325,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2010-03-09T14:27:29+00:00",
+  "updated_at": "2014-10-11T17:43:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

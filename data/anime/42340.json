@@ -1,0 +1,58 @@
+{
+  "id": 42340,
+  "title": "Meikyuu Black Company",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1753/116290.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1753/116290l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Dungeon of Black Company",
+    "ja": "迷宮ブラックカンパニー"
+  },
+  "start_date": "2021-07-09",
+  "end_date": "2021-09-24",
+  "synopsis": "After working tirelessly toward his goal of a self-sustainable NEET lifestyle, Kinji Ninomiya has finally achieved his dreams. Now looking down on common folk commuting during a typhoon from the penthouse of one of his apartment buildings, Kinji gets ready to start his new, slothful life. However, all of his hard work goes to waste when a portal appears beneath him from out of nowhere.\n\nTeleported to another world, Kinji is forced to work for a mining company that focuses solely on profits and has no care whatsoever for the safety and well-being of its employees. Refusing to live in such conditions, he begins devising plans to get rich quickly, building connections with others in this new world and making his best efforts to escape the stringent corporate life. Will Kinji be able to overcome his restraints and attain financial freedom once more?\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.24,
+  "rank": 3032,
+  "popularity": 1096,
+  "num_list_users": 219706,
+  "num_scoring_users": 99577,
+  "nsfw": "white",
+  "created_at": "2020-06-30T20:58:03+00:00",
+  "updated_at": "2023-04-12T12:38:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

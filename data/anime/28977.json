@@ -1,0 +1,80 @@
+{
+  "id": 28977,
+  "title": "Gintama°",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/72078.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/72078l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gintama' (2015)"
+    ],
+    "en": "Gintama Season 4",
+    "ja": "銀魂°"
+  },
+  "start_date": "2015-04-08",
+  "end_date": "2016-03-30",
+  "synopsis": "Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?\n\nMeanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team.\n\nFilled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's fourth season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet.\n\n[Written by MAL Rewrite]",
+  "mean": 9.06,
+  "rank": 4,
+  "popularity": 341,
+  "num_list_users": 628676,
+  "num_scoring_users": 250372,
+  "nsfw": "white",
+  "created_at": "2014-12-21T07:58:01+00:00",
+  "updated_at": "2023-04-02T18:09:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

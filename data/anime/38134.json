@@ -1,0 +1,50 @@
+{
+  "id": 38134,
+  "title": "Zhu Zhu Xia: Ying Xiong Zhu Shao Nian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1943/93361.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1943/93361l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "GG Bond Movie 4"
+    ],
+    "en": "GG Bond: Guarding",
+    "ja": "猪猪侠 英雄猪少年"
+  },
+  "start_date": "2017-01-07",
+  "end_date": "2017-01-07",
+  "synopsis": "Legend has it that five locks protect the world's magic power, but it accidentally selected a \"nobody\" G.G. Bond as its owner. A terrible man dressed in black is trying to destroy all five locks. He's taller and a strong fighter and seems to know G.G. Bond's every move. When the team is at its last straw, they find out that the man in black is G.G. Bond himself 13 years from the future. \n\n(Source: IMDB)",
+  "rank": 15310,
+  "popularity": 19359,
+  "num_list_users": 252,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2018-08-07T04:19:26+00:00",
+  "updated_at": "2018-08-07T12:41:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": []
+}

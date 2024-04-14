@@ -1,0 +1,65 @@
+{
+  "id": 19647,
+  "title": "Hajime no Ippo: Rising",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/56147.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/56147l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fighting Spirit: Rising",
+      "Hajime no Ippo 3"
+    ],
+    "en": "Fighting Spirit: Rising",
+    "ja": "はじめの一歩 Rising"
+  },
+  "start_date": "2013-10-06",
+  "end_date": "2014-03-30",
+  "synopsis": "Japanese Featherweight Champion Makunouchi Ippo has defended his title belt once more with the help of his devastating signature move: the Dempsey Roll. However, new challengers are rising up left and right, claiming to have an answer for the move responsible for crushing his opponents. Will Ippo be able to step up to the challenge, or will the weight of his pride destroy him before he finds out just what it means to be strong? Meanwhile, fellow Kamogawa Gym mate Aoki Masaru is just a hop, skip, and a Frog Punch away from claiming his own belt, ready to take on the Japanese Lightweight Champion!\n\nHajime no Ippo: Rising continues Ippo's quest to become stronger, featuring the same cast of loveable dimwits from Kamogawa Gym, as they put their bodies and hearts on the line to make their way in the harsh world of professional boxing. With a will of iron, Ippo steps into the ring once again.\n\n[Written by MAL Rewrite]",
+  "mean": 8.6,
+  "rank": 87,
+  "popularity": 931,
+  "num_list_users": 259341,
+  "num_scoring_users": 142970,
+  "nsfw": "white",
+  "created_at": "2013-07-23T23:37:42+00:00",
+  "updated_at": "2023-01-10T14:52:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    },
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

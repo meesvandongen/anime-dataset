@@ -1,0 +1,64 @@
+{
+  "id": 25649,
+  "title": "Junjou Romantica 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74170.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74170l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Junjou Romantica Third Season"
+    ],
+    "en": "Junjo Romantica 3",
+    "ja": "純情ロマンチカ 3"
+  },
+  "start_date": "2015-07-09",
+  "end_date": "2015-09-24",
+  "synopsis": "After living together for three years, Misaki Takahashi and Akihiko \"Usagi\" Usami's relationship has been progressing smoothly. However, all great relationships have problems, and theirs is just beginning. With a new rival on the horizon, Usagi worries about Misaki's feelings towards him. \n\nMeanwhile, Ryuuichirou Isaka has always loved to intrude on Misaki and Usagi's love life, but his own love life hasn't been all smooth sailing—Isaka and his secretary Kaoru Asahina have been dating for a few years; however, Asahina prefers to keep their professional and private lives separate, often leading to troubled waters between them.\n\nAs for Nowaki Kusama and Hiroki Kamijou, now that their careers are finally taking off, they hardly see each other anymore. With the time they spend together lessening, doubts and insecurities threaten to creep in between them. On the other hand, the 17-year age gap between Shinobu Takatsuki and You Miyagi has been a constant barrier in their relationship, but as they learn more about each other, their self-consciousness continues to fade.\n\nThe beloved couples of Junjou Romantica, Junjou Egoist, and Junjou Terrorist are back again, this time with a new addition: Junjou Mistake!\n\n[Written by MAL Rewrite]",
+  "mean": 7.61,
+  "rank": 1473,
+  "popularity": 1805,
+  "num_list_users": 121178,
+  "num_scoring_users": 62958,
+  "nsfw": "white",
+  "created_at": "2014-07-30T09:48:52+00:00",
+  "updated_at": "2024-01-11T00:54:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

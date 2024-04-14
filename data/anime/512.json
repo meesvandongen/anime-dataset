@@ -1,0 +1,64 @@
+{
+  "id": 512,
+  "title": "Majo no Takkyuubin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1579/140483.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1579/140483l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Witch's Express Delivery"
+    ],
+    "en": "Kiki's Delivery Service",
+    "ja": "魔女の宅急便"
+  },
+  "start_date": "1989-07-29",
+  "end_date": "1989-07-29",
+  "synopsis": "Kiki, a 13-year-old witch-in-training, must spend a year living on her own in a distant town in order to become a full-fledged witch. Leaving her family and friends, Kiki undertakes this tradition when she flies out into the open world atop her broomstick with her black cat Jiji.\n\nAs she settles down in the coastal town of Koriko, Kiki struggles to adapt and ends up wandering the streets with no place to stay—until she encounters Osono, who offers Kiki boarding in exchange for making deliveries for her small bakery. Before long, Kiki decides to open her own courier service by broomstick, beginning her journey to independence. In attempting to find her place among the townsfolk, Kiki brings with her exciting new experiences and comes to understand the true meaning of responsibility.\n\n[Written by MAL Rewrite]",
+  "mean": 8.22,
+  "rank": 343,
+  "popularity": 374,
+  "num_list_users": 586043,
+  "num_scoring_users": 381151,
+  "nsfw": "white",
+  "created_at": "2006-01-04T22:48:44+00:00",
+  "updated_at": "2023-01-24T14:44:12+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 6182,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

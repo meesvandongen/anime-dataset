@@ -1,0 +1,52 @@
+{
+  "id": 15043,
+  "title": "Haitai Nanafa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/45991.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/45991l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haitai Nana Fa"
+    ],
+    "en": "",
+    "ja": "はいたい七葉"
+  },
+  "start_date": "2012-10-06",
+  "end_date": "2012-12-29",
+  "synopsis": "Nanafa Kyan lives in Okinawa with her grandmother who runs the \"Kame Soba\" soba shop, her beautiful older sister Nao who is in high school, and her younger sister Kokona, who is in elementary school and has a strong ability to sense the supernatural.\n\nOne day, Nanafa witnesses a seal fall off of a Chinese banyan tree, and three spirits who live in that tree are unleashed. These spirits include Niina and Raana, who are \"jimunaa\" spirits. The third spirit is Iina, who is an incarnation of an Okinawan lion statue. As spirits start appearing one after another, the peaceful life of Nanafa and her family begins to change.\n\n(Source: ANN)",
+  "mean": 5.88,
+  "rank": 10105,
+  "popularity": 6081,
+  "num_list_users": 11175,
+  "num_scoring_users": 3750,
+  "nsfw": "white",
+  "created_at": "2012-08-05T17:06:17+00:00",
+  "updated_at": "2021-11-13T21:30:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 42042,
+  "title": "Ojisan to Sakana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1782/107640.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1782/107640l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dear-Natura Gold: Grandpa and Fish Version"
+    ],
+    "en": "",
+    "ja": "ディアナチュラゴールド「おじさんと魚」篇"
+  },
+  "start_date": "2019-05-21",
+  "end_date": "2019-05-21",
+  "synopsis": "Commercial animated by Takashi Taniguchi for Dear-Natura Gold EPA & DHA (Eicosapentaenoic Acid & Docosahexaenoic Acid) fish oil supplements.",
+  "mean": 5.19,
+  "popularity": 19195,
+  "num_list_users": 261,
+  "num_scoring_users": 114,
+  "nsfw": "white",
+  "created_at": "2020-05-21T18:41:42+00:00",
+  "updated_at": "2024-01-16T02:47:37+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 15,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1936,
+      "name": "Liberty Animation Studio"
+    }
+  ]
+}

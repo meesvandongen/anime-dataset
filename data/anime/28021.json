@@ -1,0 +1,55 @@
+{
+  "id": 28021,
+  "title": "Ishii Hisaichi no Nanda Kanda Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/67883.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/67883l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Fabled Underground People",
+      "Kore ga Uwasa no Chiteijin Tonikaku Ue ga Waruin'ya!!",
+      "Chiteijin II Christmas wa Eedo"
+    ],
+    "en": "",
+    "ja": "いしいひさいちのナンダカンダ劇場"
+  },
+  "start_date": "1989-07-25",
+  "end_date": "1989-11-25",
+  "synopsis": "The Underground People desire to leave their overcrowded cavern and seize control of the surface world, but they never quite succeed. A second episode, Christmas Aid, soon followed, in which the brainless Undergrounders' second futile escape attempt is set to music by the popular group Yukadan. The first volume also included two unrelated stories by Ishii: 101 Ninja and Ken-chan's Space Exploration Adventure.\n\n(Source: The Anime Encyclopedia)",
+  "rank": 20382,
+  "popularity": 18736,
+  "num_list_users": 286,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2014-10-20T00:58:27+00:00",
+  "updated_at": "2021-09-07T01:04:05+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "average_episode_duration": 1866,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": 56210,
+  "title": "Neoki Yashinoki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1016/137654.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1016/137654l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "寝起きヤシの木"
+  },
+  "start_date": "2023-07-28",
+  "end_date": "2023-07-28",
+  "synopsis": "Music video for the song Neoki Yashinoki by Yukopi.",
+  "mean": 6.3,
+  "popularity": 19464,
+  "num_list_users": 245,
+  "num_scoring_users": 139,
+  "nsfw": "white",
+  "created_at": "2023-08-08T06:04:34+00:00",
+  "updated_at": "2023-08-08T14:52:43+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 117,
+  "rating": "g",
+  "studios": []
+}

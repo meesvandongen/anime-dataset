@@ -1,0 +1,62 @@
+{
+  "id": 47778,
+  "title": "Kimetsu no Yaiba: Yuukaku-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+    "ja": "鬼滅の刃 遊郭編"
+  },
+  "start_date": "2021-12-05",
+  "end_date": "2022-02-13",
+  "synopsis": "The devastation of the Mugen Train incident still weighs heavily on the members of the Demon Slayer Corps. Despite being given time to recover, life must go on, as the wicked never sleep: a vicious demon is terrorizing the alluring women of the Yoshiwara Entertainment District. The Sound Hashira, Tengen Uzui, and his three wives are on the case. However, when he soon loses contact with his spouses, Tengen fears the worst and enlists the help of Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira to infiltrate the district's most prominent houses and locate the depraved Upper Rank Demon.\n\n[Written by MAL Rewrite]",
+  "mean": 8.76,
+  "rank": 43,
+  "popularity": 88,
+  "num_list_users": 1417011,
+  "num_scoring_users": 898665,
+  "nsfw": "white",
+  "created_at": "2021-02-14T12:53:33+00:00",
+  "updated_at": "2024-02-05T09:24:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:15"
+  },
+  "source": "manga",
+  "average_episode_duration": 1595,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 33702,
+  "title": "Tong Zhi Zhe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/81483.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/81483l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jack of All Trades"
+    ],
+    "en": "Tong Zhi Zhe",
+    "ja": "通职者"
+  },
+  "start_date": "2015-12-31",
+  "end_date": "2016-03-17",
+  "synopsis": "A Jack of All Trades is a person who can competently do all kinds of jobs. Loser Zhang Dabao is a professional Jack of All Trades, but his living conditions are, shall we say, less than satisfactory. One day, a beautiful woman who is being harassed by a pervert approaches him for help. He accepts, and soon embarks on a mission like nothing the world has seen before.",
+  "mean": 6.06,
+  "rank": 9313,
+  "popularity": 11504,
+  "num_list_users": 1822,
+  "num_scoring_users": 505,
+  "nsfw": "white",
+  "created_at": "2016-07-20T21:00:44+00:00",
+  "updated_at": "2018-10-08T09:46:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 600,
+  "rating": "r",
+  "studios": []
+}

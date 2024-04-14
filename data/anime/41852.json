@@ -1,0 +1,41 @@
+{
+  "id": 41852,
+  "title": "Teienu Theater in Kobe Opening",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1473/107337.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1473/107337l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ていえぬシアターin神戸 オープニング"
+  },
+  "start_date": "2010-07-24",
+  "end_date": "2010-07-24",
+  "synopsis": "The opening video for Nagao Takena's film screening event in Kobe, Japan that was organized by the Horror Eiga Koujou Iinkai MebiusRing. The video features the song Intoxica by The Centurians.",
+  "mean": 4.74,
+  "rank": 12942,
+  "popularity": 15138,
+  "num_list_users": 610,
+  "num_scoring_users": 344,
+  "nsfw": "white",
+  "created_at": "2020-05-02T21:03:50+00:00",
+  "updated_at": "2020-05-02T21:03:50+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 43,
+  "rating": "pg",
+  "studios": []
+}

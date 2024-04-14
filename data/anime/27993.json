@@ -1,0 +1,59 @@
+{
+  "id": 27993,
+  "title": "Tetsujin 28-gou: Tanjou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/67847.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/67847l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tetsujin 28-gou: The Birth"
+    ],
+    "en": "",
+    "ja": "鉄人28号「誕生編」"
+  },
+  "start_date": "1964-01-01",
+  "end_date": "1964-01-01",
+  "synopsis": "Recap of episodes 1-11 of Tetsujin 28-gou, originally broadcasted between episodes 11 and 12 as a New Year special.",
+  "mean": 5.74,
+  "rank": 10697,
+  "popularity": 15191,
+  "num_list_users": 602,
+  "num_scoring_users": 130,
+  "nsfw": "white",
+  "created_at": "2014-10-18T20:18:09+00:00",
+  "updated_at": "2020-12-24T22:17:12+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1964,
+    "season": "winter"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 191,
+      "name": "Eiken"
+    }
+  ]
+}

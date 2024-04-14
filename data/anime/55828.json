@@ -1,0 +1,39 @@
+{
+  "id": 55828,
+  "title": "Babirusa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1097/136824.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1097/136824l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "バビルサ"
+  },
+  "start_date": "2021-01-02",
+  "end_date": "2021-01-02",
+  "synopsis": "Music video for the song Babirusa by Kankan.",
+  "popularity": 22382,
+  "num_list_users": 105,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2023-07-02T05:22:23+00:00",
+  "updated_at": "2023-07-02T06:51:55+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 192,
+  "rating": "pg_13",
+  "studios": []
+}

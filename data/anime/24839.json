@@ -1,0 +1,41 @@
+{
+  "id": 24839,
+  "title": "X Maiden: Izakaya Tamaki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/63817.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/63817l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "X Maiden Specials"
+    ],
+    "en": "",
+    "ja": "エクスメイデン 居酒屋たまき"
+  },
+  "start_date": "2014-03-10",
+  "end_date": "2014-06-13",
+  "synopsis": "",
+  "rank": 14402,
+  "popularity": 16985,
+  "num_list_users": 412,
+  "num_scoring_users": 111,
+  "nsfw": "white",
+  "created_at": "2014-06-24T18:01:26+00:00",
+  "updated_at": "2016-05-29T03:31:07+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "average_episode_duration": 420,
+  "rating": "pg_13",
+  "studios": []
+}

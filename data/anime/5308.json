@@ -1,0 +1,52 @@
+{
+  "id": 5308,
+  "title": "Ushio to Tora: Comical Deformer Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1305/127095.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1305/127095l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ushio & Tora: Comically Deformed Theater"
+    ],
+    "en": "Ushio and Tora: Comically Deformed Theater",
+    "ja": "うしおととら コミカル・デフォルメ劇場"
+  },
+  "start_date": "1993-10-01",
+  "end_date": "1993-10-01",
+  "synopsis": "Ushio encounters a strange purple monster that seems to be helpful, Tora deals with a kitten, and finally there is a mass chase, reprising all of the monsters from the OVA series.",
+  "mean": 6.21,
+  "rank": 8532,
+  "popularity": 9476,
+  "num_list_users": 3519,
+  "num_scoring_users": 1132,
+  "nsfw": "white",
+  "created_at": "2008-09-25T09:24:50+00:00",
+  "updated_at": "2022-03-18T02:48:38+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 413,
+      "name": "Pastel"
+    }
+  ]
+}

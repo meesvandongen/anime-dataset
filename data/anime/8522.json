@@ -1,0 +1,53 @@
+{
+  "id": 8522,
+  "title": "Midoriyama Koukou Koushien-hen (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/23071.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/23071l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Midoriyama Koko Koshien hen"
+    ],
+    "en": "",
+    "ja": "緑山高校　甲子園編（劇場版）"
+  },
+  "start_date": "1990-06-30",
+  "end_date": "1990-06-30",
+  "synopsis": "Compilation of episodes 1-4 of the OVA.",
+  "rank": 16426,
+  "popularity": 16878,
+  "num_list_users": 419,
+  "num_scoring_users": 95,
+  "nsfw": "white",
+  "created_at": "2010-04-02T05:44:51+00:00",
+  "updated_at": "2013-04-11T15:35:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "spring"
+  },
+  "average_episode_duration": 4860,
+  "rating": "pg",
+  "studios": []
+}

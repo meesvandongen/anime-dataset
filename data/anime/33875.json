@@ -1,0 +1,60 @@
+{
+  "id": 33875,
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryoutsu vs. Nakimushi Idol!? Nihon 1-shuu Dai Sugoroku Game!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/81544.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/81544l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kochikame Special 19: Ryoutsu vs. Nakimushi Idol!? Nihon 1-shuu Dai Sugoroku Game!!"
+    ],
+    "en": "",
+    "ja": "こちら葛飾区亀有公園前派出所 両津VS泣き虫アイドル!? 日本1周大すごろくゲーム!!"
+  },
+  "start_date": "2005-03-27",
+  "end_date": "2005-03-27",
+  "synopsis": "A Kochikame special pitting Ryoutsu against Aidoru.",
+  "mean": 6.32,
+  "rank": 7918,
+  "popularity": 15053,
+  "num_list_users": 620,
+  "num_scoring_users": 139,
+  "nsfw": "white",
+  "created_at": "2016-08-17T01:14:12+00:00",
+  "updated_at": "2022-11-17T07:13:45+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1220,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

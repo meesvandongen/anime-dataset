@@ -1,0 +1,57 @@
+{
+  "id": 23447,
+  "title": "Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/63493.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/63493l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ano Natsu de Matteru Special",
+      "Waiting in the Summer Special"
+    ],
+    "en": "Waiting in the Summer: In Our Last Summer of High School, We Await That Summer",
+    "ja": "あの夏で待ってる 特別編「僕達は高校最後の夏を過ごしながら、 あの夏を待っている。」"
+  },
+  "start_date": "2014-08-29",
+  "end_date": "2014-08-29",
+  "synopsis": "Special episode included in the Blu-ray Box of Ano Natsu de Matteru.",
+  "mean": 7.17,
+  "rank": 3413,
+  "popularity": 3122,
+  "num_list_users": 49525,
+  "num_scoring_users": 26259,
+  "nsfw": "white",
+  "created_at": "2014-03-28T10:52:21+00:00",
+  "updated_at": "2022-10-11T01:13:47+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1598,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

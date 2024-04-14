@@ -1,0 +1,50 @@
+{
+  "id": 47717,
+  "title": "Bie Re Liumang Tu Ma Xiu 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1437/123441.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1437/123441l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bie Re Liumang Tu Ma Xiu Third Season"
+    ],
+    "en": "Mashimaro 3",
+    "ja": "别惹流氓兔马修 第3季"
+  },
+  "start_date": "2020-07-22",
+  "end_date": "2020-11-18",
+  "synopsis": "",
+  "rank": 18536,
+  "popularity": 22387,
+  "num_list_users": 105,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2021-02-13T17:16:44+00:00",
+  "updated_at": "2022-04-30T15:55:34+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 70,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "pg",
+  "studios": []
+}

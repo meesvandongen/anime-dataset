@@ -1,0 +1,54 @@
+{
+  "id": 33739,
+  "title": "Tian Xin Ge Ge",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/81128.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/81128l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ori-Princess",
+    "ja": "甜心格格"
+  },
+  "start_date": "2011-10-04",
+  "end_date": "2011-11-24",
+  "synopsis": "A Chinese prince meets a regular civilian during his travels and quickly falls in love. They marry and have a daughter, but the prince is soon separated from them during a rebellion. Many years later, the prince has become emperor and locates his lost daughter. She comes to live with him, but unfortunately has picked up several unrefined habits during her times as a civilian.",
+  "mean": 6.34,
+  "rank": 7776,
+  "popularity": 15936,
+  "num_list_users": 508,
+  "num_scoring_users": 148,
+  "nsfw": "white",
+  "created_at": "2016-07-28T00:01:59+00:00",
+  "updated_at": "2022-04-17T14:30:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1350,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 343,
+      "name": "Puzzle Animation Studio Limited"
+    }
+  ]
+}

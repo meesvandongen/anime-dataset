@@ -1,0 +1,70 @@
+{
+  "id": 1560,
+  "title": "Choujin Gakuen Gowcaizer: The Voltage Fighters",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/24751.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/24751l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Choujin Gakuen Gowkaiser",
+      "Superhuman Academy Gowcaizer",
+      "Voltage Fighter Gowcaizer: The Movie"
+    ],
+    "en": "Voltage Fighter Gowcaizer",
+    "ja": "超人学園ゴウカイザー　ＴＨＥ　ＶＯＬＴＡＧＥ　ＦＩＧＨＴＥＲＳ"
+  },
+  "start_date": "1996-09-27",
+  "end_date": "1997-01-31",
+  "synopsis": "It is the dawn of the 21st century. The cataclysmic earthquake which reduced half of Tokyo to a broken landscape of twisted steel and shattered stone was only the first sign of the impending apocalypse. \n\nAthletic and popular, Isato Kaiza was an otherwise ordinary student. But nothing could've prepared him for the day he was given a Caizer Stone by fellow student Kash , alias Hellstinger. Armed with the mysterious crystal, Isato now possesses the power to transform into the armored hero: Gowcaizer! \n\nTo save the Earth, Gowcaizer and Hellstinger must join forces against Omni Exist, the manifestation of all negative human desires, and the force behind the recent disasters, before the entity obliterates the human race! ",
+  "mean": 5.01,
+  "rank": 12656,
+  "popularity": 8654,
+  "num_list_users": 4683,
+  "num_scoring_users": 1604,
+  "nsfw": "gray",
+  "created_at": "2006-10-11T17:43:14+00:00",
+  "updated_at": "2023-08-30T19:54:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 1800,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

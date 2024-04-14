@@ -1,0 +1,55 @@
+{
+  "id": 39810,
+  "title": "Kyou Kara Maou! Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1525/100985.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1525/100985l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyou Kara Maou:! Daizensyuu Sono 1 - Maou Tanjou-hen"
+    ],
+    "en": "",
+    "ja": "今日からマ王！ 大全集 その"
+  },
+  "start_date": "2005-12-16",
+  "end_date": "2005-12-16",
+  "synopsis": "Summary of episodes 1-3 with special narration by Takahiro Sakurai (Shibuya Yuuri).",
+  "mean": 5.98,
+  "rank": 9645,
+  "popularity": 12520,
+  "num_list_users": 1287,
+  "num_scoring_users": 277,
+  "nsfw": "white",
+  "created_at": "2019-05-11T15:09:24+00:00",
+  "updated_at": "2024-01-30T05:34:34+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": []
+}

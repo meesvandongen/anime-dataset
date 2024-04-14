@@ -1,0 +1,58 @@
+{
+  "id": 23209,
+  "title": "Sora no Method",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1112/130966.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1112/130966l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Celestial Method",
+    "ja": "天体のメソッド"
+  },
+  "start_date": "2014-10-05",
+  "end_date": "2014-12-28",
+  "synopsis": "A group of friends—Nonoka Komiya, Koharu Shiihara, Shione Togawa, and twins Yuzuki and Souta Mizusaka—once attempted to summon a flying saucer to grant their wishes. After thinking that they failed, they called it a day. However, soon afterward, Nonoka abruptly moved out of Kiriya City, breaking the bond of their circle. Little did the group know, they were successful and the saucer has been floating in the sky since then, waiting to fulfill its purpose.\n\nSeven years later, Nonoka returns to Kiriya, all but forgetting everything regarding her life there. She meets Noel, a little girl wearing strange clothes, and through her, Nonoka begins to remember the past and the friends she left behind. From there, she strives to reforge her severed relationship with the others as she uncovers the mysteries connecting Noel, the saucer, and the wishes they once cherished together.\n\n[Written by MAL Rewrite]",
+  "mean": 6.77,
+  "rank": 5333,
+  "popularity": 1961,
+  "num_list_users": 108391,
+  "num_scoring_users": 35031,
+  "nsfw": "white",
+  "created_at": "2014-03-17T12:33:27+00:00",
+  "updated_at": "2023-09-09T08:28:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1127,
+      "name": "Studio 3Hz"
+    }
+  ]
+}

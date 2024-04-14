@@ -1,0 +1,56 @@
+{
+  "id": 44513,
+  "title": "Wo Shi Da Shenxian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1255/110963.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1255/110963l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Da Shen Xian"
+    ],
+    "en": "I Am A Great God",
+    "ja": "我是大神仙"
+  },
+  "start_date": "2020-11-12",
+  "end_date": "2021-02-18",
+  "synopsis": "At the age of seven, the very short-lived child prodigy, who was growing too fast, returned to the immortal world to prevent his abnormal growing. From then on, with his gifted brain and wisdom he obtained from earth, he walked in path immortality to became the legendary god to return his normal life...\n\n(Source: MU)",
+  "mean": 6.76,
+  "rank": 5415,
+  "popularity": 11547,
+  "num_list_users": 1795,
+  "num_scoring_users": 666,
+  "nsfw": "white",
+  "created_at": "2020-12-10T16:33:50+00:00",
+  "updated_at": "2022-03-08T04:37:01+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1179,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1808,
+      "name": "CG Year"
+    }
+  ]
+}

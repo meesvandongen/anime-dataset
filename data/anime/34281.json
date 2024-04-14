@@ -1,0 +1,80 @@
+{
+  "id": 34281,
+  "title": "High School DxD Hero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1189/93528.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1189/93528l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "High School DxD Season 4"
+    ],
+    "en": "High School DxD Hero",
+    "ja": "ハイスクールDxD HERO"
+  },
+  "start_date": "2018-04-17",
+  "end_date": "2018-07-03",
+  "synopsis": "After rescuing his master, Rias Gremory, from the Dimensional Gap, Red Dragon Emperor and aspiring Harem King Issei Hyoudou can finally return to his high school activities alongside fellow members of the Occult Research Club: Yuuto Kiba, Asia Argento, Xenovia Quarta, and Irina Shidou. The group soon embarks on a school trip to Kyoto. \n\nWhile peacefully visiting a temple thanks to Rias' spell, an attacking group of local youkai breaks the calm atmosphere. Once the altercation ends, the club learns that the mythical nine-tailed fox that protected the city was abducted and that someone has framed them for the act. Issei and his friends will now have to fight to protect the city and save their school trip from a planned disaster!\n\nIn the meantime, Rias, who had to stay in Tokyo with Akeno Himejima and Koneko Toujou, grows increasingly restless to have left the perverted Issei alone with the other girls of the Occult Research Club. Beyond this vague anxiety, what is the exact nature of the feelings Rias has been struggling with for the past few months?\n\n[Written by MAL Rewrite]",
+  "mean": 7.24,
+  "rank": 3075,
+  "popularity": 437,
+  "num_list_users": 507335,
+  "num_scoring_users": 278893,
+  "nsfw": "gray",
+  "created_at": "2016-10-22T12:30:48+00:00",
+  "updated_at": "2024-03-03T20:31:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}

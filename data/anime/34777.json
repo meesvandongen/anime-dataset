@@ -1,0 +1,65 @@
+{
+  "id": 34777,
+  "title": "91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1692/132999.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1692/132999l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "91 Days Episode 13",
+      "91 Days Special"
+    ],
+    "en": "91 Days: Shoal of Time/All Our Yesterdays/Tomorrow and Tomorrow",
+    "ja": "91Days Day13「時の浅瀬／すべての昨日／明日、また明日」"
+  },
+  "start_date": "2017-07-05",
+  "end_date": "2017-07-05",
+  "synopsis": "1. Toki no Asase (Shoal of Time)\n2. Subete no Kinou (All Our Yesterdays)\n3. Ashita, Mata Ashita (Tomorrow and Tomorrow)",
+  "mean": 6.9,
+  "rank": 4702,
+  "popularity": 2934,
+  "num_list_users": 55794,
+  "num_scoring_users": 29497,
+  "nsfw": "white",
+  "created_at": "2017-01-17T04:51:39+00:00",
+  "updated_at": "2024-03-28T11:06:07+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1472,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1119,
+      "name": "Shuka"
+    }
+  ]
+}

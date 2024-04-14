@@ -1,0 +1,64 @@
+{
+  "id": 31790,
+  "title": "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/77977.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/77977l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Active Raid: Special Public Security Fifth Division Third Mobile Assault Eighth Unit"
+    ],
+    "en": "Active Raid",
+    "ja": "アクティヴレイド　－機動強襲室第八係－"
+  },
+  "start_date": "2016-01-07",
+  "end_date": "2016-03-24",
+  "synopsis": "In a futuristic, post-disaster Tokyo, the \"Special Public Security Fifth Division Third Mobile Assault Eighth Unit,\" or \"Unit Eight,\" is a police unit specializing in handling criminals who wield dangerous wearable technology called \"Willwear.\" Equipped with Willwear of their own, the squadron is often criticized by the public for their carelessness and disregard for protocol.\n\nSent in by the government as an undercover agent with special instructions from the higher-ups, Asami Kazari is Unit Eight's newest member. Determined to straighten out what she expects to be a group of incompetent fools, she instead finds a team of well-intentioned experts who use very effective—albeit unorthodox—methods, hindered by strict regulations. With their newest member by their side, Unit Eight fights crime and overcomes unexpected adversaries in Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari.\n\n[Written by MAL Rewrite]",
+  "mean": 5.85,
+  "rank": 10218,
+  "popularity": 2847,
+  "num_list_users": 59110,
+  "num_scoring_users": 21742,
+  "nsfw": "white",
+  "created_at": "2015-10-07T07:09:35+00:00",
+  "updated_at": "2023-10-16T06:01:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1053,
+      "name": "Production IMS"
+    }
+  ]
+}

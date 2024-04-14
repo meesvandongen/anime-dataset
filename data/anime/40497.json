@@ -1,0 +1,69 @@
+{
+  "id": 40497,
+  "title": "Mahouka Koukou no Rettousei: Raihousha-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1322/114329.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1322/114329l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahouka Koukou no Rettousei 2nd Season",
+      "The Irregular at Magic High School Season 2"
+    ],
+    "en": "The Irregular at Magic High School: Visitor Arc",
+    "ja": "魔法科高校の劣等生 来訪者編"
+  },
+  "start_date": "2020-10-04",
+  "end_date": "2020-12-27",
+  "synopsis": "Following the events of \"Scorched Halloween,\" the world is introduced to a terrifyingly powerful Strategic class magician. In an effort to uncover the identity of this person, the United States of the North American Continent (USNA) dispatches the most powerful asset in its arsenal to Japan on a covert mission—the elite magician unit \"Stars\" and its commander, Angie Sirius.\n\nAt First High School, Tatsuya Shiba and his friends are having a farewell party for Shizuku Kitayama, who is leaving to study abroad in the USNA as part of an exchange program. In her place, the group welcomes the beautiful Angelina \"Lina\" Kudou Shields. Around the same time, Tatsuya is informed about the USNA's plan to uncover his true identity.\n\nElsewhere in Tokyo, numerous reports arise of seemingly random bodies found drained of blood. Dubbed as the works of a vampire, it does not take long for Tatsuya to connect the dots and realize that it is almost impossible for the timing of these events to be mere coincidence.\n\n[Written by MAL Rewrite]",
+  "mean": 7.28,
+  "rank": 2846,
+  "popularity": 664,
+  "num_list_users": 353006,
+  "num_scoring_users": 161348,
+  "nsfw": "white",
+  "created_at": "2019-10-06T11:51:23+00:00",
+  "updated_at": "2024-04-04T12:34:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

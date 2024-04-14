@@ -1,0 +1,56 @@
+{
+  "id": 42831,
+  "title": "Munou na Nana Mini Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1587/109132.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1587/109132l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Munou na Nana Mini Anime: Yaminabe Party"
+    ],
+    "en": "Talentless Nana Mini Anime",
+    "ja": "無能なナナ"
+  },
+  "start_date": "2020-10-09",
+  "end_date": "2020-12-25",
+  "synopsis": "Mini anime for Munou na Nana released weekly on the official Twitter and website.",
+  "mean": 5.8,
+  "rank": 10451,
+  "popularity": 9012,
+  "num_list_users": 4132,
+  "num_scoring_users": 1080,
+  "nsfw": "white",
+  "created_at": "2020-09-07T17:05:51+00:00",
+  "updated_at": "2023-04-15T15:30:06+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 397,
+      "name": "Bridge"
+    }
+  ]
+}

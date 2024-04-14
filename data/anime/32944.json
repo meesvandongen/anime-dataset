@@ -1,0 +1,52 @@
+{
+  "id": 32944,
+  "title": "CoCO & NiCO",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/79044.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/79044l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "CoCO & NiCO"
+  },
+  "start_date": "2016-04-08",
+  "end_date": "2017-02-03",
+  "synopsis": "CoCO and her sister NiCO are under training to become graceful and elegant cat princesses. They are watched over and trained by the strict but caring Lady Oppenheimer. CoCO and NiCO keeps Lady Oppenheimer quite busy as they try their best to learn the ways of a princess, and have fun with a little mischief along the way.\n\n(Source: Japan International Broadcasting)",
+  "rank": 18980,
+  "popularity": 14252,
+  "num_list_users": 785,
+  "num_scoring_users": 111,
+  "nsfw": "white",
+  "created_at": "2016-03-17T08:47:01+00:00",
+  "updated_at": "2018-01-11T05:19:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
+}

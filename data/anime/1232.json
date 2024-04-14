@@ -1,0 +1,66 @@
+{
+  "id": 1232,
+  "title": "Saber Marionette R",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1754/135422.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1754/135422l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Saber Marionette R",
+    "ja": "SMガールズ セイバーマリオネットR"
+  },
+  "start_date": "1995-05-24",
+  "end_date": "1995-09-25",
+  "synopsis": "Jr., the heir of Romana and his battle sabers Cherry and Lime, who have girl circuits are enjoying their peaceful life in Romana. Suddenly, the evil Star-Face and his sexadolls attack Romana in order to take over so Star-Face can become the next High Official. In order to truly become the next High Official and ruler of Romana, he must first eliminate Jr. This begins a battle for, not only Jr.'s life, but for all of Romana.\n\n(Source: ANN)",
+  "mean": 6.56,
+  "rank": 6546,
+  "popularity": 6747,
+  "num_list_users": 8697,
+  "num_scoring_users": 3751,
+  "nsfw": "white",
+  "created_at": "2006-07-30T22:46:55+00:00",
+  "updated_at": "2022-04-09T08:04:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1701,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 155,
+      "name": "animate Film"
+    },
+    {
+      "id": 1131,
+      "name": "Zero-G Room"
+    }
+  ]
+}

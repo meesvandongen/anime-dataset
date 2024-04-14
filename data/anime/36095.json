@@ -1,0 +1,48 @@
+{
+  "id": 36095,
+  "title": "Mirror Mirror (Bombs BiS)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/87221.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/87221l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Vampillia",
+      "The Divine Move"
+    ],
+    "en": "Mirror Mirror (Bombs BiS)",
+    "ja": "mirror mirror (bombs BiS)"
+  },
+  "start_date": "2014-05-01",
+  "end_date": "2014-05-01",
+  "synopsis": "A music video for Vampillia's song Mirror Mirror (Bombs BiS).",
+  "mean": 5.52,
+  "popularity": 17184,
+  "num_list_users": 396,
+  "num_scoring_users": 204,
+  "nsfw": "white",
+  "created_at": "2017-08-06T19:26:57+00:00",
+  "updated_at": "2017-08-06T19:32:50+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 308,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1717,
+      "name": "Onionskin"
+    }
+  ]
+}

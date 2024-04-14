@@ -1,0 +1,59 @@
+{
+  "id": 12899,
+  "title": "Ucchare Goshogawara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/36209.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/36209l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Utchare Goshogawara"
+    ],
+    "en": "",
+    "ja": "うっちゃれ五所瓦"
+  },
+  "start_date": "1991-10-25",
+  "end_date": "1991-10-25",
+  "synopsis": "Musashi Mountain High School third grade Goshogawara is the only member of his school's sumo club. In order to take part in competitions, he tries to attract more members, and thanks to his enthusiasm and sincerity four more people join the club: judo team captain Kaoru Kiyokawa; pro wrestler Takayuki Kannai; skinny thug wannabe Nanno Ippei; and Raiden Goro, a giant guy but a very shy person who also happens to be an expert Go player. The five train together and later take part in a competition against a professional sumo club.\n\n(Source: Wikipedia)",
+  "rank": 14111,
+  "popularity": 15723,
+  "num_list_users": 530,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2012-02-03T23:24:27+00:00",
+  "updated_at": "2015-09-19T11:34:57+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3000,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

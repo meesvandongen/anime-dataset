@@ -1,0 +1,44 @@
+{
+  "id": 57332,
+  "title": "Richromatic-Prayer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1415/139969.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1415/139969l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2023-11-26",
+  "end_date": "2023-11-26",
+  "synopsis": "Music video for the song Richromatic-Prayer by La prière.",
+  "popularity": 22406,
+  "num_list_users": 105,
+  "num_scoring_users": 58,
+  "nsfw": "white",
+  "created_at": "2023-11-27T08:32:41+00:00",
+  "updated_at": "2023-11-27T09:38:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 103,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1837,
+      "name": "G-angle"
+    }
+  ]
+}

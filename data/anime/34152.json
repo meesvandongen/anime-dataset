@@ -1,0 +1,58 @@
+{
+  "id": 34152,
+  "title": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/83150.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/83150l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Super Danganronpa 2.5: Nagito Komaeda and the Destroyer of the World",
+    "ja": "スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者"
+  },
+  "start_date": "2017-01-12",
+  "end_date": "2017-01-12",
+  "synopsis": "At Hope's Peak Academy, a school full of extraordinarily talented individuals, Nagito Komaeda is an ordinary boy with no special traits or interesting skills to speak of—except for his incredible unluckiness. Just walking to school in the morning leads to a number of unfortunate accidents, which only escalate as the day goes on. Despite this, Komaeda leads a relatively normal life and is satisfied with his modest slice of happiness.\n\nBut everything changes when a mysterious boy who declares himself the \"Destroyer of the World\" arrives to shatter this hopeless paradise.\n\n[Written by MAL Rewrite]",
+  "mean": 7.13,
+  "rank": 3633,
+  "popularity": 2017,
+  "num_list_users": 104080,
+  "num_scoring_users": 55167,
+  "nsfw": "white",
+  "created_at": "2016-09-27T14:18:34+00:00",
+  "updated_at": "2023-08-30T07:54:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1510,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

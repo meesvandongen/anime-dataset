@@ -1,0 +1,44 @@
+{
+  "id": 44491,
+  "title": "AK Mofa Shaonu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1609/122329.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1609/122329l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "AK Magical Girls",
+    "ja": "艾可魔法少女"
+  },
+  "start_date": "2015-05-27",
+  "end_date": "2015-07-05",
+  "synopsis": "AK Magical Girls is a story about three new transfer six grade student of the ShinHi Academy, whose true identity are in fact three music fairy came from the World of Music that fight the evil Lord of Noise to defend the peace of the world in secret.\n\n(Source: Magical Girl Wiki)",
+  "rank": 18123,
+  "popularity": 20558,
+  "num_list_users": 185,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2020-12-08T10:20:51+00:00",
+  "updated_at": "2022-04-03T11:25:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1340,
+  "rating": "pg",
+  "studios": []
+}

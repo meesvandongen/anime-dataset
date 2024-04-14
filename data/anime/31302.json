@@ -1,0 +1,46 @@
+{
+  "id": 31302,
+  "title": "Robo to Shoujo (Kari): Oshirase Gekijou (Kari)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/75293.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/75293l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Robo to Shoujo (Kari): Announcement Theater"
+    ],
+    "en": "",
+    "ja": "ロボと少女（仮）「お知らせ劇場（仮）」"
+  },
+  "start_date": "2011-07-22",
+  "end_date": "2011-09-05",
+  "synopsis": "Special comedy shorts promoting DVD of Robo to Shoujo (Kari).",
+  "mean": 5.18,
+  "rank": 12404,
+  "popularity": 15784,
+  "num_list_users": 523,
+  "num_scoring_users": 143,
+  "nsfw": "white",
+  "created_at": "2015-07-21T03:37:52+00:00",
+  "updated_at": "2015-08-12T06:00:43+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": 29393,
+  "title": "Pinky Monkey no Umareta Hi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/70663.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/70663l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ピンキーモンキーの生まれた日"
+  },
+  "start_date": "2006-04-30",
+  "end_date": "2006-04-30",
+  "synopsis": "Produced by Kenji Eno, commissioned by Frente International, this short shows the birth of Pinky.",
+  "mean": 5.1,
+  "rank": 12533,
+  "popularity": 17420,
+  "num_list_users": 379,
+  "num_scoring_users": 176,
+  "nsfw": "white",
+  "created_at": "2015-01-10T10:49:47+00:00",
+  "updated_at": "2021-03-10T06:32:30+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 144,
+  "rating": "g",
+  "studios": []
+}

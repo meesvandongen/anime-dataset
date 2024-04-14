@@ -1,0 +1,46 @@
+{
+  "id": 36574,
+  "title": "Weaving",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/88393.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/88393l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Weaving",
+    "ja": "weaving"
+  },
+  "start_date": "2017-08-15",
+  "end_date": "2017-08-15",
+  "synopsis": "A bejeweled spider weaves a bejeweled web.",
+  "mean": 5.68,
+  "rank": 10961,
+  "popularity": 17246,
+  "num_list_users": 392,
+  "num_scoring_users": 154,
+  "nsfw": "white",
+  "created_at": "2017-10-14T08:58:35+00:00",
+  "updated_at": "2021-04-20T07:45:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 55,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1133,
+      "name": "dwarf"
+    }
+  ]
+}

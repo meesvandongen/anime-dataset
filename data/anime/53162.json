@@ -1,0 +1,69 @@
+{
+  "id": 53162,
+  "title": "Majutsushi Orphen Hagure Tabi: Urbanrama-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1388/132318.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1388/132318l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Majutsushi Orphen Hagure Tabi 3rd Season",
+      "Sorcerous Stabber Orphen 3rd Season"
+    ],
+    "en": "Sorcerous Stabber Orphen -Chaos in Urbanrama-",
+    "ja": "魔術士オーフェンはぐれ旅 アーバンラマ編"
+  },
+  "start_date": "2023-01-18",
+  "end_date": "2023-04-05",
+  "synopsis": "After the events of Kimluck, Orphen is on a quest to find Azalie, only to find himself in a war in between celestial beings and humans.",
+  "mean": 6.14,
+  "rank": 8869,
+  "popularity": 5346,
+  "num_list_users": 15455,
+  "num_scoring_users": 2877,
+  "nsfw": "white",
+  "created_at": "2022-09-26T13:37:38+00:00",
+  "updated_at": "2023-03-20T20:35:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "20:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

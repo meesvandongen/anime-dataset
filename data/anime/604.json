@@ -1,0 +1,70 @@
+{
+  "id": 604,
+  "title": "Mahou no Stage Fancy Lala",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1673/132849.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1673/132849l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magical Stage Fancy Lala",
+    "ja": "魔法のステージ・ファンシーララ"
+  },
+  "start_date": "1998-04-05",
+  "end_date": "1998-09-27",
+  "synopsis": "Miho Shinohara is a care-free third-grader and an aspiring manga artist. One day, she encounters Mogu and Pigu - two lost fairies disguised as stuffed animals. In exchange for staying at her home until they find a way to return to their own world, the fairies give Miho a special sketch pad and pencil that enable her to magically create real objects from what she draws. With the pen, Miho can also transform into Lala, a beautiful teenage girl created from her manga art. As Lala, she is discovered by a talent agency, and so begins her adventures from an ordinary school girl to a model to an idol singer. \n\n(Source: ANN)",
+  "mean": 7.25,
+  "rank": 3006,
+  "popularity": 5839,
+  "num_list_users": 12390,
+  "num_scoring_users": 4205,
+  "nsfw": "white",
+  "created_at": "2006-01-29T17:02:09+00:00",
+  "updated_at": "2023-09-18T01:32:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "09:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

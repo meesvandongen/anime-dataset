@@ -1,0 +1,39 @@
+{
+  "id": 55839,
+  "title": "Honky Tonky Night feat. Kankan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1732/136853.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1732/136853l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Honky Tonky Night feat.缶缶"
+  },
+  "start_date": "2023-06-26",
+  "end_date": "2023-06-26",
+  "synopsis": "Music video for the song Honky Tonky Night by FAKE TYPE., featuring Kankan.",
+  "popularity": 21261,
+  "num_list_users": 148,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2023-07-03T04:40:39+00:00",
+  "updated_at": "2023-07-03T09:48:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 194,
+  "rating": "pg_13",
+  "studios": []
+}

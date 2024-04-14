@@ -1,0 +1,48 @@
+{
+  "id": 36833,
+  "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1047/103495.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1047/103495l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fate/kaleid liner Prisma☆Illya Movie: Oath Under Snow Special"
+    ],
+    "en": "Fate/Kaleid Liner Prisma Illya: Vow in the Snow - Dark Sakura's Room",
+    "ja": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い 黒桜の部屋"
+  },
+  "start_date": "2018-01-31",
+  "end_date": "2018-01-31",
+  "synopsis": "Included with the limited edition BD of Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai.  ",
+  "mean": 6.7,
+  "rank": 5767,
+  "popularity": 4672,
+  "num_list_users": 21854,
+  "num_scoring_users": 7586,
+  "nsfw": "white",
+  "created_at": "2017-11-19T10:37:00+00:00",
+  "updated_at": "2024-03-06T12:08:39+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 404,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

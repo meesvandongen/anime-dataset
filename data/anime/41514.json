@@ -1,0 +1,70 @@
+{
+  "id": 41514,
+  "title": "Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1782/128859.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1782/128859l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense 2nd Season",
+      "I hate being in pain, so I think I'll make a full defense build 2",
+      "I Hate Getting Hurt, So I Put All My Skill Points Into Defense 2"
+    ],
+    "en": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
+    "ja": "痛いのは嫌なので防御力に極振りしたいと思います。2"
+  },
+  "start_date": "2023-01-11",
+  "end_date": "2023-04-20",
+  "synopsis": "After achieving fruitful results in New World Online's previous events, the now famous Maple Tree guild is excited to explore the new floors introduced in game. As if their guild was not already feared enough, each member is motivated to find stronger skills for themselves in order to greatly expand their options in future battles. Not forgetting the importance of networking, the guild also forges amicable relationships with other notable guilds, such as the Kingdom of the Flame Emperor and the Congregation of the Holy Swords.\n\nWith their eccentric guild master Maple at the forefront, the members of Maple Tree continue to stumble upon creative ways to implement their skills, driving the game developers crazy along the way.\n\n[Written by MAL Rewrite]",
+  "mean": 7.21,
+  "rank": 3240,
+  "popularity": 1066,
+  "num_list_users": 227016,
+  "num_scoring_users": 75875,
+  "nsfw": "white",
+  "created_at": "2020-03-25T15:27:54+00:00",
+  "updated_at": "2023-04-19T22:30:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

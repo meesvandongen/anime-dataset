@@ -1,0 +1,44 @@
+{
+  "id": 56612,
+  "title": "Kusohamu-chan Happy Birthday!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1206/138385.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1206/138385l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クソハムちゃんHAPPY BIRTHDAY！"
+  },
+  "start_date": "2021-03-17",
+  "end_date": "2021-03-17",
+  "synopsis": "A special video to commemorate the 5th anniversary of Kusohamu-chan.",
+  "rank": 15891,
+  "popularity": 22476,
+  "num_list_users": 103,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2023-09-10T05:16:44+00:00",
+  "updated_at": "2023-09-10T06:44:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 65,
+  "rating": "g",
+  "studios": []
+}

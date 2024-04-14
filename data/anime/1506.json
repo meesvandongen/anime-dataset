@@ -1,0 +1,64 @@
+{
+  "id": 1506,
+  "title": "Meitantei Conan Movie 10: Tantei-tachi no Requiem",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1919/94322.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1919/94322l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Detective Conan Movie 10: Requiem of the Detectives"
+    ],
+    "en": "Detective Conan Movie 10: The Private Eyes' Requiem",
+    "ja": "名探偵コナン　探偵たちの鎮魂歌[レクイエム]"
+  },
+  "start_date": "2006-04-15",
+  "end_date": "2006-04-15",
+  "synopsis": "After receiving a strange invitation, Kogorou Mouri pays a visit to the Miracle Land theme park along with his daughter Ran, Conan Edogawa, and the Detective Boys. Once there, Kogorou and Conan are tasked with finishing an unsolved case by a mysterious stranger. Realizing that the invitations were actually an elaborate trap, the two have just 12 hours to solve the case or face grave danger.\n\nWith the help of familiar faces like Heiji Hattori, Kaitou Kid, and even Saguru Hakuba, the group of detectives must unravel the web of clues surrounding the case in order to find the culprit and bring them to justice before it's too late.\n\n[Written by MAL Rewrite]",
+  "mean": 8.04,
+  "rank": 575,
+  "popularity": 2922,
+  "num_list_users": 56246,
+  "num_scoring_users": 32506,
+  "nsfw": "white",
+  "created_at": "2006-09-17T13:36:03+00:00",
+  "updated_at": "2023-11-25T13:50:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 6660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

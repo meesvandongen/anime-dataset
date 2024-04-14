@@ -1,0 +1,39 @@
+{
+  "id": 54334,
+  "title": "Betelgeuse no Yoru ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1034/133026.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1034/133026l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ベテルギウスの夜に"
+  },
+  "start_date": "2022-12-21",
+  "end_date": "2022-12-21",
+  "synopsis": "Music video for the song Betelgeuse no Yoru ni by Ruri Asano.",
+  "popularity": 21643,
+  "num_list_users": 130,
+  "num_scoring_users": 62,
+  "nsfw": "white",
+  "created_at": "2023-01-26T06:25:23+00:00",
+  "updated_at": "2023-02-14T20:55:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 254,
+  "rating": "g",
+  "studios": []
+}

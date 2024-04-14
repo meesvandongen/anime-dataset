@@ -1,0 +1,53 @@
+{
+  "id": 55660,
+  "title": "Alssongdalssong Catch! Tiniping",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1822/136468.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1822/136468l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Secret Catch! Teenieping",
+    "ja": "알쏭달쏭 캐치! 티니핑"
+  },
+  "start_date": "2022-09-14",
+  "end_date": "2023-03-08",
+  "synopsis": "Secret Key teeniepings appear in Harmony Town! And there’s a mysterious secret teenieping too! Will Romi and the new Royal teeniepings be able to catch all the Key Teeniepings scattered in Harmony Town and reveal the identity of the mysterious secret Teenieping?\n\n(Source: Official Site)",
+  "rank": 18158,
+  "popularity": 20106,
+  "num_list_users": 210,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2023-06-15T04:55:49+00:00",
+  "updated_at": "2023-06-15T06:46:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 700,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2541,
+      "name": "SAMG Entertainment "
+    }
+  ]
+}

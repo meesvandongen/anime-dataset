@@ -1,0 +1,47 @@
+{
+  "id": 52630,
+  "title": "Ke Ai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1784/126618.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1784/126618l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Adorable",
+    "ja": "可愛"
+  },
+  "start_date": "2018-12-08",
+  "end_date": "2018-12-08",
+  "synopsis": "A short film that directly gazes at lives and the society with observation and imagination. It is queer and it is here.\n\n(Source: IMDB)",
+  "popularity": 19500,
+  "num_list_users": 243,
+  "num_scoring_users": 92,
+  "nsfw": "white",
+  "created_at": "2022-08-06T12:16:21+00:00",
+  "updated_at": "2022-08-06T15:49:59+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 343,
+  "rating": "r+",
+  "studios": []
+}

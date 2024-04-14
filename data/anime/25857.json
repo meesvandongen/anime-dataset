@@ -1,0 +1,56 @@
+{
+  "id": 25857,
+  "title": "PriPara Movie: Mi~nna Atsumare! Prism☆Tours",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/69615.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/69615l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "PriPara Movie: Minna Atsumare! Prism☆Tours",
+      "Puri Para",
+      "Pri Para",
+      "PuriPara",
+      "Prism Paradise"
+    ],
+    "en": "",
+    "ja": "劇場版プリパラ　み～んなあつまれ！プリズム☆ツアーズ"
+  },
+  "start_date": "2015-03-07",
+  "end_date": "2015-03-07",
+  "synopsis": "PriPara the Movie: Everyone, Assemble! Prism ☆ Tours is the film based on and starring the characters from PriPara. The film is scheduled to begin showing in theaters across Japan from March 7, 2015. The plot will focus on Laala Manaka finding out about Saints' top idol journey, and will feature the return of many characters from across all the Pretty Rhythm series.\n\n(Source: PriPara Wikia)",
+  "mean": 6.79,
+  "rank": 5235,
+  "popularity": 10355,
+  "num_list_users": 2633,
+  "num_scoring_users": 872,
+  "nsfw": "white",
+  "created_at": "2014-08-09T05:49:29+00:00",
+  "updated_at": "2023-09-18T04:25:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 5400,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

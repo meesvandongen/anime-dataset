@@ -1,0 +1,45 @@
+{
+  "id": 34030,
+  "title": "Bokura no Sex",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1295/104315.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1295/104315l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "僕らのセックス"
+  },
+  "start_date": "2016-11-25",
+  "end_date": "2017-01-27",
+  "synopsis": "",
+  "mean": 6.51,
+  "popularity": 6959,
+  "num_list_users": 8105,
+  "num_scoring_users": 3158,
+  "nsfw": "gray",
+  "created_at": "2016-09-10T09:38:57+00:00",
+  "updated_at": "2022-03-21T16:12:18+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1278,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 977,
+      "name": "Queen Bee"
+    }
+  ]
+}

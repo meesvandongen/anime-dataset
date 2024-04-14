@@ -1,0 +1,43 @@
+{
+  "id": 35331,
+  "title": "Sugai-kun to Kazoku Ishi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85085.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85085l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sguy and the Family Stone",
+    "ja": "菅井君と家族石"
+  },
+  "start_date": "2004-03",
+  "synopsis": "",
+  "rank": 13623,
+  "popularity": 19796,
+  "num_list_users": 228,
+  "num_scoring_users": 49,
+  "nsfw": "white",
+  "created_at": "2017-04-01T03:59:59+00:00",
+  "updated_at": "2021-01-07T03:53:22+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

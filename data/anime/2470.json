@@ -1,0 +1,65 @@
+{
+  "id": 2470,
+  "title": "Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/56071.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/56071l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Space Pirate Captain Harlock: The Mystery of Arcadia",
+      "Harlock Movie 1"
+    ],
+    "en": "Space Pirate Captain Harlock: Riddle of the Arcadia Episode",
+    "ja": "宇宙海賊キャプテン・ハーロック　アルカディア号の謎"
+  },
+  "start_date": "1978-07-22",
+  "end_date": "1978-07-22",
+  "synopsis": "The story on Arcadia's mystery, on which the 13th television episode was based.",
+  "mean": 6.94,
+  "rank": 4541,
+  "popularity": 8000,
+  "num_list_users": 5727,
+  "num_scoring_users": 2122,
+  "nsfw": "white",
+  "created_at": "2007-05-10T12:23:49+00:00",
+  "updated_at": "2021-10-30T01:28:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1978,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2100,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

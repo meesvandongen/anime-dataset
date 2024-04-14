@@ -1,0 +1,65 @@
+{
+  "id": 1239,
+  "title": "Bishoujo Senshi Sailor Moon SuperS",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1600/92253l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bishoujo Senshi Sailor Moon Super S",
+      "Pretty Guardian Sailor Moon SuperS"
+    ],
+    "en": "Sailor Moon SuperS",
+    "ja": "美少女戦士セーラームーン Super S"
+  },
+  "start_date": "1995-03-04",
+  "end_date": "1996-03-02",
+  "synopsis": "SuperS centers heavily on Chibi-usa and the Sailor Team. A new enemy, the Dead Moon Circus, has now appeared. Their motive is to find the Golden Dream Mirror that would be used to rule the world. To do this, the enemy attacks innocent victims for their Dream Mirrors and test their energy. Chibi-usa also has a new ally on her side, Pegasus. This season also sees the Sailor Senshi obtaining new powers. ",
+  "mean": 7.63,
+  "rank": 1411,
+  "popularity": 1821,
+  "num_list_users": 119669,
+  "num_scoring_users": 61536,
+  "nsfw": "white",
+  "created_at": "2006-08-03T07:08:45+00:00",
+  "updated_at": "2022-10-11T09:35:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

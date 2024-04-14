@@ -1,0 +1,64 @@
+{
+  "id": 55644,
+  "title": "Dr. Stone: New World Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1236/138696.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1236/138696l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dr. Stone 3rd Season Part 2"
+    ],
+    "en": "",
+    "ja": "Dr.STONE NEW WORLD"
+  },
+  "start_date": "2023-10-12",
+  "end_date": "2023-12-21",
+  "synopsis": "Years ago, astronaut Byakuya left behind precious materials in the belief that his son, the scientifically-gifted Senkuu, would one day find them. In the present, the Kingdom of Science's Kohaku and Ginrou have infiltrated the harem of the Petrification Kingdom’s leader with the help of Amaryllis, a local girl. At first, their mission progresses without a hitch. Unfortunately, an error enacted by Kohaku and Ginrou leads Minister Ibara and the Island’s strongest warrior, Moz, to identify the intruding duo as enemies.\n\nEven worse, Moz tails Amaryllis when she returns to inform Senkuu of the news, discovering the scientist's secret hideout. However, Moz's agenda does not align with Ibara's—he wants to dethrone the minister and keep the petrification device for himself. If Senkuu plays his cards right, he could gain a powerful ally and win the war once and for all.\n\n[Written by MAL Rewrite]",
+  "mean": 8.34,
+  "rank": 226,
+  "popularity": 925,
+  "num_list_users": 260723,
+  "num_scoring_users": 123335,
+  "nsfw": "white",
+  "created_at": "2023-06-13T18:20:44+00:00",
+  "updated_at": "2024-03-07T22:36:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1439,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

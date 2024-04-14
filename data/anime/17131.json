@@ -1,0 +1,61 @@
+{
+  "id": 17131,
+  "title": "Dennou Sentai Voogie's★Angel: Forever and Ever",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1036/96489.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1036/96489l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "電脳戦隊ヴギィ'ズ★エンジェル FOREVER AND EVER"
+  },
+  "start_date": "1999-01-25",
+  "end_date": "1999-01-25",
+  "synopsis": "A compilation of the original OVA series with 7 minutes of new content at the end.\n\n(Source: AniDB)",
+  "mean": 5.97,
+  "rank": 9702,
+  "popularity": 14427,
+  "num_list_users": 748,
+  "num_scoring_users": 149,
+  "nsfw": "white",
+  "created_at": "2013-01-10T19:06:58+00:00",
+  "updated_at": "2020-02-04T06:46:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "winter"
+  },
+  "average_episode_duration": 4500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

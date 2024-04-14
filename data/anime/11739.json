@@ -1,0 +1,69 @@
+{
+  "id": 11739,
+  "title": "Kimi to Boku. 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/42107.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/42107l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "You and Me. Second Season",
+      "Kimi to Boku. 2nd Season"
+    ],
+    "en": "You and Me 2",
+    "ja": "君と僕。2"
+  },
+  "start_date": "2012-04-03",
+  "end_date": "2012-06-26",
+  "synopsis": "\"No matter how many years go by, I'm sure we'll still be laughing together.\" \n\nTwins Yuta and Yuki, Kaname, and Shun have been childhood friends since kindergarten. When transfer student Chizuru joins them, their five man school life becomes all the more lively. Through the changing seasons, the boys will find laughter, surprises, love, and new encounters waiting for them. \n\nThe second season of the boys growing a little every day of their invaluable daily lives is about to begin! \n\n(Source: Crunchyroll) ",
+  "mean": 7.92,
+  "rank": 749,
+  "popularity": 2245,
+  "num_list_users": 88590,
+  "num_scoring_users": 41938,
+  "nsfw": "white",
+  "created_at": "2011-10-08T08:40:03+00:00",
+  "updated_at": "2023-10-31T12:54:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

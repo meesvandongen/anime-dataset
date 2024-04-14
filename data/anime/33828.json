@@ -1,0 +1,46 @@
+{
+  "id": 33828,
+  "title": "Yume Kakeru Kougen: Kiyosato no Chichi Paul Rusch",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/81447.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/81447l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Paul Rusch: His Life and Dream",
+    "ja": "夢かける高原 清里の父 ポール・ラッシュ"
+  },
+  "start_date": "2002-10-19",
+  "end_date": "2002-10-19",
+  "synopsis": "An animated film about Paul Rusch, an American missionary who helped build churches, schools, hospitals in Japan and overall helped improve life in rural areas of Japan along with soothing post-WW2 relations between the two countries.",
+  "mean": 6,
+  "rank": 9603,
+  "popularity": 15103,
+  "num_list_users": 615,
+  "num_scoring_users": 181,
+  "nsfw": "white",
+  "created_at": "2016-08-11T08:20:16+00:00",
+  "updated_at": "2018-07-25T05:38:30+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 5820,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

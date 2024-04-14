@@ -1,0 +1,61 @@
+{
+  "id": 137,
+  "title": "Hunter x Hunter: Original Video Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/137.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/137l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hunter x Hunter OVA",
+      "Hunter x Hunter: Yorkshin City Kanketsu-hen"
+    ],
+    "en": "",
+    "ja": "HUNTER×HUNTER Original Video Animation"
+  },
+  "start_date": "2002-01-17",
+  "end_date": "2002-04-17",
+  "synopsis": "After reuniting with Gon and his friends, Kurapika explained to them the risks he bears because of his abilities. Believing that his target of revenge is no longer alive and the search for his fallen comrade's eyes could truly begin, Kurapika soon after receives a message informing him that all the Spiders still lived. After much discussion between his friends, Gon, Kurapika and company decided to hunt after the one Spider member who's ability could ultimately result in Kurapika's defeat and death. Based on the manga by Togashi Yoshihiro.",
+  "mean": 8.31,
+  "rank": 256,
+  "popularity": 1740,
+  "num_list_users": 126771,
+  "num_scoring_users": 66174,
+  "nsfw": "white",
+  "created_at": "2005-11-11T14:49:59+00:00",
+  "updated_at": "2023-01-15T04:16:17+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

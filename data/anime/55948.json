@@ -1,0 +1,53 @@
+{
+  "id": 55948,
+  "title": "Sylvanian Families: Freya no Go for Dream!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1455/137080.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1455/137080l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シルバニアファミリー フレアのゴー・フォー・ドリーム！"
+  },
+  "start_date": "2023-07-06",
+  "end_date": "2023-10-05",
+  "synopsis": "A new animated TV series based on the Sylvanian Families toy line, continuing from Freya no Happy Diary.",
+  "rank": 13669,
+  "popularity": 18646,
+  "num_list_users": 291,
+  "num_scoring_users": 39,
+  "nsfw": "white",
+  "created_at": "2023-07-12T21:17:21+00:00",
+  "updated_at": "2023-07-13T07:10:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "19:22"
+  },
+  "source": "other",
+  "average_episode_duration": 660,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 563,
+      "name": "LandQ studios"
+    }
+  ]
+}

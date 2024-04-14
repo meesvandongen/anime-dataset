@@ -1,0 +1,44 @@
+{
+  "id": 40827,
+  "title": "Maware Migi, Nigerunda",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1722/104649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1722/104649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Do a 180",
+    "ja": "回れ右、逃げるんだ"
+  },
+  "start_date": "2013-11-30",
+  "end_date": "2013-11-30",
+  "synopsis": "Music video for the song Maware Migi, Nigerunda by collaborative unit mishmash*Julie Watai. The same video was used for the English cover of the song titled Do a 180 released on the same day. The video was made by Yoriko Mizushiri and Marie Matsunaga.",
+  "mean": 5.53,
+  "popularity": 19204,
+  "num_list_users": 260,
+  "num_scoring_users": 141,
+  "nsfw": "white",
+  "created_at": "2019-12-07T05:53:41+00:00",
+  "updated_at": "2019-12-07T05:53:41+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 287,
+  "rating": "g",
+  "studios": []
+}

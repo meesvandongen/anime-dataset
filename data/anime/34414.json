@@ -1,0 +1,54 @@
+{
+  "id": 34414,
+  "title": "Nanbaka 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1294/127370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1294/127370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Nanbaka Season 2",
+    "ja": "ナンバカ 2期"
+  },
+  "start_date": "2017-01-04",
+  "end_date": "2017-03-22",
+  "synopsis": "The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own.",
+  "mean": 7.49,
+  "rank": 1909,
+  "popularity": 1676,
+  "num_list_users": 133072,
+  "num_scoring_users": 65727,
+  "nsfw": "white",
+  "created_at": "2016-11-22T12:17:53+00:00",
+  "updated_at": "2022-10-16T09:43:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

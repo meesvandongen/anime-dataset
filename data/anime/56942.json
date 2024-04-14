@@ -1,0 +1,44 @@
+{
+  "id": 56942,
+  "title": "Time Slip Shima Kousaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1100/139170.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1100/139170l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "タイムスリップ島耕作"
+  },
+  "start_date": "2023-07-21",
+  "synopsis": "",
+  "rank": 13928,
+  "popularity": 22263,
+  "num_list_users": 109,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2023-10-18T10:44:00+00:00",
+  "updated_at": "2023-10-30T14:12:28+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

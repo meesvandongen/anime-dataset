@@ -1,0 +1,78 @@
+{
+  "id": 1462,
+  "title": "Memories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/74781.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/74781l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Magnetic Rose",
+      "Stink Bomb",
+      "Cannon Fodder"
+    ],
+    "en": "",
+    "ja": "MEMORIES（メモリーズ）"
+  },
+  "start_date": "1995-12-23",
+  "end_date": "1995-12-23",
+  "synopsis": "Memories is a compilation of three standalone short films encompassing different genres.\n \nMagnetic Rose\nIn the far reaches of space, after tracing a distress signal to a large abandoned space station, a pair of engineers—Heintz Beckner and Miguel Costrela—find a derelict mansion and decide to explore on foot. Their investigation reveals a dark secret surrounding the fate of Eva Friedel, a renowned opera singer with a tragic history. Hallucinations soon begin to plague them, and they must fight to retain their sanity in order to escape the station alive.\n \nStink Bomb\nHapless lab technician Nobuo Tanaka consumes some pills at his laboratory to cure a cold. Unknown to him, however, the pills are actually experimental drugs that enhance his flatulence to a lethal degree. As the toxic gas escaping him kills everyone in his vicinity, he is ordered by his superiors to retreat to the company headquarters in Tokyo. The journey to the city is made all the more arduous as Nobuo struggles with his deadly odor while the police, military, and foreign adversaries are hot on his trail.\n \nCannon Fodder\nIn a fortress city filled to the brim with cannons, a young boy wishes to surpass his father by becoming a revered artillery officer. Despite no proof of an enemy nation, he cannot resist the urge to partake in the daily bombardment routines organized by the city. Whether at school or just before bedtime, he only dreams of someday firing a cannon for the sake of his homeland.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.72,
+  "rank": 1170,
+  "popularity": 1668,
+  "num_list_users": 134393,
+  "num_scoring_users": 48111,
+  "nsfw": "white",
+  "created_at": "2006-08-29T01:28:06+00:00",
+  "updated_at": "2022-10-12T08:37:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 2260,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    },
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    }
+  ]
+}

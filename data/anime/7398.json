@@ -1,0 +1,40 @@
+{
+  "id": 7398,
+  "title": "Sekai Meisaku Douwa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/17689.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/17689l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "World Famous Fairy Tale Series",
+    "ja": "世界名作童話"
+  },
+  "start_date": "1975-10",
+  "end_date": "1983-02",
+  "synopsis": "Another of Toei's World Famous Fairy Tale series consisting of 20 stories, 10 minutes each. \n\n(Source: AniDB)",
+  "mean": 6.12,
+  "rank": 8995,
+  "popularity": 14113,
+  "num_list_users": 821,
+  "num_scoring_users": 181,
+  "nsfw": "white",
+  "created_at": "2009-10-26T18:24:31+00:00",
+  "updated_at": "2022-05-26T07:17:52+00:00",
+  "media_type": "unknown",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 1975,
+    "season": "fall"
+  },
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": []
+}

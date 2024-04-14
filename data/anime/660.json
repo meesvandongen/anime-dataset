@@ -1,0 +1,58 @@
+{
+  "id": 660,
+  "title": "Denshin Mamotte Shugogetten",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/3896.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/3896l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "伝心　まもって守護月天！"
+  },
+  "start_date": "2000-06-23",
+  "end_date": "2001-11-30",
+  "synopsis": "In the peaceful life of modern Japan, Shaorin and Tasuke explore their relationship amid familiar interventions and new challenges. Shaorin begins to discover why she chose to stay with Tasuke, and Tasuke begins to learn the depth of his love toward Shaorin. \n\n(Source: ANN)",
+  "mean": 6.45,
+  "rank": 7154,
+  "popularity": 9286,
+  "num_list_users": 3751,
+  "num_scoring_users": 1294,
+  "nsfw": "white",
+  "created_at": "2006-02-02T16:31:13+00:00",
+  "updated_at": "2021-07-19T09:46:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2000,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

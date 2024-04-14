@@ -1,0 +1,40 @@
+{
+  "id": 48973,
+  "title": "Hisui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1520/114937.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1520/114937l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Jade",
+    "ja": "翡翠"
+  },
+  "start_date": "2016-01",
+  "end_date": "2016-01",
+  "synopsis": "A woman is pronounced to be ill, but it is too much for her to accept. Her thoughts and worries continually change to makes a strange and mysterious world.\n\n1st year work 2016 by Yume Ukai, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "rank": 20109,
+  "popularity": 20905,
+  "num_list_users": 165,
+  "num_scoring_users": 77,
+  "nsfw": "white",
+  "created_at": "2021-05-14T03:37:54+00:00",
+  "updated_at": "2022-09-09T07:26:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 225,
+  "rating": "g",
+  "studios": []
+}

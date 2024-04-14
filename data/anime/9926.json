@@ -1,0 +1,66 @@
+{
+  "id": 9926,
+  "title": "Sekaiichi Hatsukoi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/29763.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/29763l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai-ichi Hatsukoi",
+      "Sekai'ichi Hatsukoi",
+      "World's Greatest First Love"
+    ],
+    "en": "Sekai Ichi Hatsukoi - World's Greatest First Love",
+    "ja": "世界一初恋 TV"
+  },
+  "start_date": "2011-04-09",
+  "end_date": "2011-06-25",
+  "synopsis": "After having to deal with jealousy from his co-workers for working under his father's name, prideful literary editor Ritsu Onodera is determined to establish himself in the industry. To accomplish this, he quits his job at his father's publishing company and transfers to Marukawa Publishing. But instead of being placed in their literary division, Ritsu finds himself working as the rookie manga editor for the Emerald editing department, a team that operates under extremely tight schedules in order to meet deadlines. There, Ritsu is introduced to the infamous editor-in-chief Masamune Takano, a persistent man who strives for results.\n\nAs it turns out, Takano is actually Ritsu's high school love, and it is the aftermath of that heartbreak has caused Ritsu's reluctance to fall in love again. Now with the two reunited after several years of separation, the reestablishment of their relationship is marked by Takano's vow to make Ritsu say that he loves him again.\n\nSekaiichi Hatsukoi follows three couples that are interconnected within the manga industry, with each being subject to the budding of first love. \n\n[Written by MAL Rewrite]",
+  "mean": 7.63,
+  "rank": 1400,
+  "popularity": 1103,
+  "num_list_users": 218710,
+  "num_scoring_users": 119037,
+  "nsfw": "white",
+  "created_at": "2010-11-30T19:31:57+00:00",
+  "updated_at": "2024-02-05T20:06:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

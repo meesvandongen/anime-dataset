@@ -1,0 +1,69 @@
+{
+  "id": 180,
+  "title": "Vandread",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/75446.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/75446l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Vandread Stage One",
+      "Vandread First Stage"
+    ],
+    "en": "Vandread",
+    "ja": "ヴァンドレッド"
+  },
+  "start_date": "2000-10-03",
+  "end_date": "2000-12-19",
+  "synopsis": "In Vandread, men are from Mars and women are from Venus! Well, not quite. Technology has allowed mankind to colonize the entire Milky Way galaxy, and in one star system, the men and women live on two different planets, Taraak and Mejere. A bitter and very literal gender war rages, to the point where they don't even see each other as the sames species anymore!\n\nHibiki Tokai, a male third-class laborer from Taraak, ends up stuck on a battleship after a botched attempt at stealing a robot. When female pirates capture the Taraakian Vanguard, things don't look like they could get any worse for Hibiki. Unfortunately, they do; when the male crew of the Vanguard fire on their captured vessel out of desperation, they created a giant wormhole, which sucks the Vanguard and the Mejeran pirate's ships into itself! Now, stuck far away from their home planets, these men and women must learn to work together if they ever wish to make it back home.",
+  "mean": 7.16,
+  "rank": 3477,
+  "popularity": 2293,
+  "num_list_users": 84823,
+  "num_scoring_users": 43882,
+  "nsfw": "white",
+  "created_at": "2005-11-12T05:50:55+00:00",
+  "updated_at": "2022-10-08T08:35:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1373,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

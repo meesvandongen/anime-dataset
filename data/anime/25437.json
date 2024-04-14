@@ -1,0 +1,50 @@
+{
+  "id": 25437,
+  "title": "Brothers Conflict OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/66551.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/66551l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "BROTHERS CONFLICT OVA"
+  },
+  "start_date": "2014-12-19",
+  "end_date": "2015-02-11",
+  "synopsis": "Two Brothers Conflict OVAs about Christmas and Valentine's Day. New OP and ED songs by the same singers were presented in these two OVAs.\n\n(Source: MAL News, edited)",
+  "mean": 6.5,
+  "rank": 6875,
+  "popularity": 4165,
+  "num_list_users": 28134,
+  "num_scoring_users": 13622,
+  "nsfw": "white",
+  "created_at": "2014-07-22T08:31:19+00:00",
+  "updated_at": "2023-09-18T08:52:14+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

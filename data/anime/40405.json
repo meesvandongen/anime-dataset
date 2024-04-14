@@ -1,0 +1,66 @@
+{
+  "id": 40405,
+  "title": "Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1815/103061.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1815/103061l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cop Craft Episode 9.5",
+      "Cop Craft Recap",
+      "Tokubetsu-hen: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!"
+    ],
+    "en": "",
+    "ja": "コップクラフト 特別編: 美しき女騎士! とらわれの妖精を追え!"
+  },
+  "start_date": "2019-09-10",
+  "end_date": "2019-09-10",
+  "synopsis": "Recap of the first four episodes of Cop Craft series from Tilarna's perspective.",
+  "mean": 5.86,
+  "rank": 10204,
+  "popularity": 7932,
+  "num_list_users": 5831,
+  "num_scoring_users": 2520,
+  "nsfw": "white",
+  "created_at": "2019-09-13T12:03:46+00:00",
+  "updated_at": "2024-02-07T18:32:46+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1427,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1237,
+      "name": "Millepensee"
+    }
+  ]
+}

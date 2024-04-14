@@ -1,0 +1,47 @@
+{
+  "id": 45112,
+  "title": "Xiao Meirenyu de Qihuan Maoxian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1244/121851.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1244/121851l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The New Little Mermaid: Ocean Girl",
+    "ja": "小美人鱼的奇幻冒险"
+  },
+  "start_date": "2021-04-03",
+  "end_date": "2021-04-03",
+  "synopsis": "",
+  "rank": 14552,
+  "popularity": 21663,
+  "num_list_users": 130,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2020-12-20T14:45:00+00:00",
+  "updated_at": "2022-03-26T12:21:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "average_episode_duration": 4896,
+  "rating": "g",
+  "studios": []
+}

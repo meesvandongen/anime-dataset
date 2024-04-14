@@ -1,0 +1,52 @@
+{
+  "id": 19987,
+  "title": "Kaitou Pride",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/53297.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/53297l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pride the Master Thief",
+      "Mysterious Thief Plaid",
+      "Kaitou Plaid",
+      "Mysterious Thief Pride"
+    ],
+    "en": "Dr. Zen",
+    "ja": "怪盗プライド"
+  },
+  "start_date": "1965-05-31",
+  "end_date": "1965-11-04",
+  "synopsis": "Each episode features a part of the story in which a detective tries to hunt down and capture a notorious and narcissistic thief. This series aired daily, Monday to Friday, in 8 minutes segments to complete a single story by the end of the week.\n\n(Source: AniDB)",
+  "rank": 15417,
+  "popularity": 16312,
+  "num_list_users": 469,
+  "num_scoring_users": 91,
+  "nsfw": "white",
+  "created_at": "2013-08-09T01:10:30+00:00",
+  "updated_at": "2021-08-22T01:46:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 105,
+  "start_season": {
+    "year": 1965,
+    "season": "spring"
+  },
+  "average_episode_duration": 480,
+  "rating": "g",
+  "studios": []
+}

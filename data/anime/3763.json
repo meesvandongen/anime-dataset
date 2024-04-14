@@ -1,0 +1,54 @@
+{
+  "id": 3763,
+  "title": "Chouon Senshi Borgman: Lovers Rain",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/6671.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/6671l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sonic Soldier Borgman: Lovers Rain",
+    "ja": "超音戦士ボーグマン LOVERS RAIN"
+  },
+  "start_date": "1990-12-01",
+  "end_date": "1990-12-01",
+  "synopsis": "The OVA series Sonic Soldier Borgman serves as a sequel to the 1980s television series about an elite squad of bio-enhanced, crime-fighting humans known as Borgmen. Picking up several years after the dissolution of the original Borgman team, this volume reunites the three remaining members--rocket scientist Ryo, his girlfriend Anise, and police officer Chuck Sweager--for the emotionally-driven episode \"Lover`s Rain,\" which finds the trio facing an army of the undead bent on a rampage of murder and destruction.\n\n(Source: AniDB)",
+  "mean": 5.71,
+  "rank": 10823,
+  "popularity": 12523,
+  "num_list_users": 1285,
+  "num_scoring_users": 373,
+  "nsfw": "white",
+  "created_at": "2008-01-22T21:46:43+00:00",
+  "updated_at": "2021-03-11T07:28:39+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 2003,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

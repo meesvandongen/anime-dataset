@@ -1,0 +1,68 @@
+{
+  "id": 27787,
+  "title": "Nisekoi:",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/72626.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/72626l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nisekoi 2nd Season"
+    ],
+    "en": "Nisekoi: False Love Season 2",
+    "ja": "ニセコイ"
+  },
+  "start_date": "2015-04-10",
+  "end_date": "2015-06-26",
+  "synopsis": "Despite having seemingly quelled the war between their respective gangs, Raku Ichijou and Chitoge Kirisaki still carry on with their fake relationship. Eventually, as Chitoge's perception of Raku slowly changes, she even begins to see him as a little charming. \n\nChitoge struggles to come to terms with her newfound feelings for Raku, as a new girl joins the slew of Raku's admirers and the competition among those vying for the yakuza heir's attention grows even fiercer. And amidst all this, Raku's search for his first love and the contents of the mysterious sealed locket continues in Nisekoi:, which picks up where the first season left off.\n\n[Written by MAL Rewrite]",
+  "mean": 7.35,
+  "rank": 2490,
+  "popularity": 286,
+  "num_list_users": 695529,
+  "num_scoring_users": 427011,
+  "nsfw": "white",
+  "created_at": "2014-10-01T06:07:55+00:00",
+  "updated_at": "2022-04-18T03:28:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1462,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 23315,
+  "title": "Zettai Zetsumei Dangerous Jiisan Special-ban",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/60259.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/60259l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Grandpa Danger Special"
+    ],
+    "en": "",
+    "ja": "絶体絶命でんぢゃらすじーさん スペシャル版"
+  },
+  "start_date": "2003-12-30",
+  "end_date": "2003-12-30",
+  "synopsis": "Jiisan tries to compete at the local marathon against all his friends.",
+  "rank": 15172,
+  "popularity": 17762,
+  "num_list_users": 354,
+  "num_scoring_users": 87,
+  "nsfw": "white",
+  "created_at": "2014-03-22T04:57:57+00:00",
+  "updated_at": "2020-04-03T19:19:28+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": []
+}

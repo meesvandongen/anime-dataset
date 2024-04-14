@@ -1,0 +1,50 @@
+{
+  "id": 37351,
+  "title": "Ten made Tobaso",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1876/90664.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1876/90664l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "天まで飛ばそ"
+  },
+  "start_date": "2018-02-01",
+  "end_date": "2018-02-01",
+  "synopsis": "A little girl astronaut crashes her small ship out in space. There is a scientist there with his own much larger crashed ship. They spent time together as he repairs her ship and  have a tearful departure. ",
+  "mean": 5.69,
+  "popularity": 19122,
+  "num_list_users": 265,
+  "num_scoring_users": 129,
+  "nsfw": "white",
+  "created_at": "2018-02-18T08:02:00+00:00",
+  "updated_at": "2019-02-06T14:52:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

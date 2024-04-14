@@ -1,0 +1,68 @@
+{
+  "id": 39332,
+  "title": "Monster Special Edition",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1226/99268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1226/99268l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Monster Recaps"
+    ],
+    "en": "",
+    "ja": "モンスター スペシャルバージョン"
+  },
+  "start_date": "2005-12-27",
+  "end_date": "2005-12-28",
+  "synopsis": "Special recap edition of Monster TV series in 2 parts.",
+  "mean": 6.46,
+  "rank": 7090,
+  "popularity": 10340,
+  "num_list_users": 2643,
+  "num_scoring_users": 800,
+  "nsfw": "white",
+  "created_at": "2019-02-20T23:45:15+00:00",
+  "updated_at": "2024-02-10T16:02:45+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5035,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

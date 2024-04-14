@@ -1,0 +1,58 @@
+{
+  "id": 492,
+  "title": "Armitage III: Dual-Matrix",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1903/127567.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1903/127567l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Armitage: Dual-Matrix",
+      "Amiteeji the Third Gekijouban",
+      "Armitage III: Dual Matrix"
+    ],
+    "en": "",
+    "ja": "アミテージ・ザ・サード DUAL-MATRIX"
+  },
+  "start_date": "2002-06-25",
+  "end_date": "2002-06-25",
+  "synopsis": "A few years after they first met, Naomi Armitage and Ross Syllabus have started a family. Despite their normal lives, they must keep their identities a secret because many people believe that Robots do not deserve equal status with humans. Ross has an opportunity to abolish these ideas on Earth through a vote, but organizations in the shadows are working so that it doesn't happen.\n\n(Source: ANN)",
+  "mean": 6.81,
+  "rank": 5119,
+  "popularity": 5005,
+  "num_list_users": 18669,
+  "num_scoring_users": 9769,
+  "nsfw": "white",
+  "created_at": "2006-01-04T00:13:56+00:00",
+  "updated_at": "2024-03-06T11:22:57+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5402,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

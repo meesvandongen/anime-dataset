@@ -1,0 +1,40 @@
+{
+  "id": 49994,
+  "title": "Yakou wo Yobu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1016/118487.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1016/118487l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "夜光を呼ぶ"
+  },
+  "start_date": "2021-09-25",
+  "end_date": "2021-09-25",
+  "synopsis": "Music video directed by Sunao for the song Yakou wo Yobu by KOKO.",
+  "mean": 6.03,
+  "popularity": 18695,
+  "num_list_users": 289,
+  "num_scoring_users": 155,
+  "nsfw": "white",
+  "created_at": "2021-10-03T05:00:46+00:00",
+  "updated_at": "2021-10-03T11:11:50+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 295,
+  "rating": "g",
+  "studios": []
+}

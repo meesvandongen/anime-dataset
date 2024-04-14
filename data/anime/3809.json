@@ -1,0 +1,61 @@
+{
+  "id": 3809,
+  "title": "Shirayuki Hime no Densetsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/59509.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/59509l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shirayukihime",
+      "Legend of Princess Snow White",
+      "Shirayuki-hime no Densetsu"
+    ],
+    "en": "The Legend of Snow White",
+    "ja": "白雪姫の伝説"
+  },
+  "start_date": "1994-04-06",
+  "end_date": "1995-03-29",
+  "synopsis": "Snow White was a very happy princess, until the day her stepmother, the Queen Christelle, finally reveals her personality and wants to kill the girl. Snow White flees from the castle and got lost in the woods, where she meets seven dwarfs.",
+  "mean": 6.7,
+  "rank": 5735,
+  "popularity": 9300,
+  "num_list_users": 3727,
+  "num_scoring_users": 1451,
+  "nsfw": "white",
+  "created_at": "2008-01-30T16:38:39+00:00",
+  "updated_at": "2022-03-10T00:35:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "average_episode_duration": 1470,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

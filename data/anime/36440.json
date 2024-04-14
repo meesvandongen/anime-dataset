@@ -1,0 +1,60 @@
+{
+  "id": 36440,
+  "title": "Ku Pao Ying Xiong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/87942.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/87942l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Running Heroes",
+      "Parkour Hero"
+    ],
+    "en": "",
+    "ja": "酷跑英雄"
+  },
+  "start_date": "2017-09-02",
+  "end_date": "2018-02-17",
+  "synopsis": "The animation tells the story of Xiao Shuai who has gone into a cool running world by accident and is embroiled in a dispute between parkour colleges.",
+  "mean": 5.61,
+  "rank": 11241,
+  "popularity": 9310,
+  "num_list_users": 3715,
+  "num_scoring_users": 524,
+  "nsfw": "white",
+  "created_at": "2017-09-27T00:14:59+00:00",
+  "updated_at": "2022-11-17T08:44:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 834,
+  "studios": [
+    {
+      "id": 1350,
+      "name": "B.CMAY PICTURES"
+    }
+  ]
+}

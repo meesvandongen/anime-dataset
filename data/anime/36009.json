@@ -1,0 +1,52 @@
+{
+  "id": 36009,
+  "title": "Two Car",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/88291.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/88291l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Two Car: Racing Sidecar"
+    ],
+    "en": "TWOCAR",
+    "ja": "つうかあ"
+  },
+  "start_date": "2017-10-08",
+  "end_date": "2017-12-24",
+  "synopsis": "Two Car follows high schoolers Yuri Miyata and Megumi Meguro as they battle six other rival pairs in the sport of motorcycle sidecar racing.\n\n(Source: MAL News)",
+  "mean": 5.64,
+  "rank": 11142,
+  "popularity": 4531,
+  "num_list_users": 23351,
+  "num_scoring_users": 8103,
+  "nsfw": "white",
+  "created_at": "2017-07-27T18:31:56+00:00",
+  "updated_at": "2022-02-15T23:25:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

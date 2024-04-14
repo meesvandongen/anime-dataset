@@ -1,0 +1,45 @@
+{
+  "id": 33279,
+  "title": "Nanocore: NG Scenes - Nano's Daily Life",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/79966.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/79966l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "纳米核心 - NG镜头 - 纳米的日"
+  },
+  "start_date": "2015-02-08",
+  "end_date": "2015-03-01",
+  "synopsis": "Comedy episodes focusing on the strange daily life of characters from Nanocore.",
+  "mean": 5.78,
+  "rank": 10558,
+  "popularity": 17355,
+  "num_list_users": 384,
+  "num_scoring_users": 125,
+  "nsfw": "white",
+  "created_at": "2016-05-07T14:35:01+00:00",
+  "updated_at": "2017-07-26T11:35:06+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 215,
+  "rating": "pg_13",
+  "studios": []
+}

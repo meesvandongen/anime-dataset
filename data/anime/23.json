@@ -1,0 +1,56 @@
+{
+  "id": 23,
+  "title": "Ring ni Kakero 1",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1146/124743.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1146/124743l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Put it all in the Ring"
+    ],
+    "en": "",
+    "ja": "リングにかけろ１"
+  },
+  "start_date": "2004-10-06",
+  "end_date": "2004-12-15",
+  "synopsis": "In order to fulfill their dead father's wish, the siblings Takane Kiku and Takane Ryuji aim for the champion title of the boxing arena. Their sister, Kiku, will act as the trainer while her brother, Ryuji, will concentrate on the role of the boxer and learn the Boomerang. His battle with many rivals has led to the growth and maturing of Ryuji. The junior high boxing tournament has begun and Ryuji will be fighting his arch-rival, Kenzaki Jun. The battle begins.\n\n(Source: ANN)",
+  "mean": 6.42,
+  "rank": 7368,
+  "popularity": 8551,
+  "num_list_users": 4847,
+  "num_scoring_users": 1448,
+  "nsfw": "white",
+  "created_at": "2005-11-11T01:22:25+00:00",
+  "updated_at": "2024-03-06T11:07:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1405,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

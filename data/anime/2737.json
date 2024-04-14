@@ -1,0 +1,58 @@
+{
+  "id": 2737,
+  "title": "Kouryuu no Mimi: Mina no Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/59847.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/59847l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koryu no Mimi",
+      "Ear of the Yellow Dragon",
+      "Ear of the Golden Dragon"
+    ],
+    "en": "",
+    "ja": "黄龍の耳"
+  },
+  "start_date": "1995-04-26",
+  "end_date": "1995-06-01",
+  "synopsis": "Based on the manga by Inoue Noriyoshi, which has also had a Super Famicom game spinoff.\n\nNatsume Kiroemon, the protagonist, was the 45th leader of the Natsume family, and inherit the \"Kiryuu no Mimi \", a tool which gave its bearer easy access to wealth and women. As a result of his father's death, he left the Italian monastery where he'd been training and rightfully took the name \"Natsume Kiroemon\" as well as the power of the Kiryuu no Mimi. Upon his return to Japan, he fell fatally in love with Kanako, one of the members of the rival Mina family. However, the evil hand of the Mina family attacked Natsume constantly and abducted Kanako. Now Natsume has unlocked the seal, making the Kiryuu's power surge, and he's striking back at the Mina family.\n\n(Source: AniDB)",
+  "mean": 4.76,
+  "rank": 12912,
+  "popularity": 12086,
+  "num_list_users": 1490,
+  "num_scoring_users": 489,
+  "nsfw": "white",
+  "created_at": "2007-06-26T04:30:29+00:00",
+  "updated_at": "2020-12-10T03:41:00+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1681,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

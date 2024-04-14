@@ -1,0 +1,49 @@
+{
+  "id": 42729,
+  "title": "Xpice",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1264/109017.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1264/109017l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "XPICE",
+    "ja": "XPICE"
+  },
+  "start_date": "2020-07-15",
+  "end_date": "2020-07-15",
+  "synopsis": "Kokyo, a city brimming with people from all walks of life, and the prime target of the mysterious group Zerogram. But Red Pepper and Wasabi—a duo from the superhero league XPICE—aren't going to stand idly by.\n\nRed Pepper's fiery punches deal with the baddies while Wasabi's healing touch cares for the wounded. Things seem to be going well on the surface. Deep down, however, Wasabi can't help but feel like there's more to being a hero.\n\nOne faithful day, the emergency alert blares—Red Pepper's in trouble!\n\nThough unsure of their chances, seeing a teammate in danger helps Wasabi find the courage to rise to the occasion.\n\n(Source: Official Site)",
+  "mean": 6.07,
+  "popularity": 17319,
+  "num_list_users": 387,
+  "num_scoring_users": 209,
+  "nsfw": "white",
+  "created_at": "2020-08-23T10:22:41+00:00",
+  "updated_at": "2023-12-28T09:03:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 276,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1296,
+      "name": "Marza Animation Planet"
+    }
+  ]
+}

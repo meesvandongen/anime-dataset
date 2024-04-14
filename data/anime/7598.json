@@ -1,0 +1,61 @@
+{
+  "id": 7598,
+  "title": "Loups=Garous",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/26343.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/26343l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Loups-Garous",
+      "Loups=Garous Kihi Subeki Ookami"
+    ],
+    "en": "",
+    "ja": "ルー=ガルー 忌避すべき狼"
+  },
+  "start_date": "2010-08-28",
+  "end_date": "2010-08-28",
+  "synopsis": "In a future governed through the lens of a camera, where people eat synthetic food and pursue an online existence in lieu of physical contact, a group of children begin meeting up in the real world. The aloof Ayumi Kono, the genius hacker Mio Tsuzuki, and the socially awkward Hazuki Makino set out to find the fourth member of their group, Yuko Yabe, who has gone missing. With the help of Myao Rei, an unregistered citizen proficient in martial arts, they are able to find Yuko. However, when their situation takes a sudden turn for the worse, the group stumbles headlong into a dark mystery that challenges everything they know about their world.\n\n[Written by MAL Rewrite]",
+  "mean": 6.25,
+  "rank": 8296,
+  "popularity": 5080,
+  "num_list_users": 17827,
+  "num_scoring_users": 7605,
+  "nsfw": "white",
+  "created_at": "2009-11-25T22:48:37+00:00",
+  "updated_at": "2022-01-20T05:35:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 5889,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 80,
+      "name": "Trans Arts"
+    }
+  ]
+}

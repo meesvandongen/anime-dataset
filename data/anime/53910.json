@@ -1,0 +1,57 @@
+{
+  "id": 53910,
+  "title": "Minami no Shima no Chiisana Hikouki Birdy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1085/131960.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1085/131960l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "南の島の小さな飛行機 バーディー"
+  },
+  "start_date": "2005-12-26",
+  "end_date": "2007-04-02",
+  "synopsis": "This is Bird Paradise Island, a small island in the southern sea.\nBirdie is a newcomer and small plane that has been working at Bird Paradise Airport on this island for two years. Aiming to become the first airplane someday, he is working day and night on sightseeing flights with his rival Philip, a small helicopter, and his good friend, Annie, a goldfish-shaped helicopter. A small airplane, Birdy, and his funny and unique friends fly fast!",
+  "rank": 16457,
+  "popularity": 23264,
+  "num_list_users": 89,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2022-12-21T06:25:27+00:00",
+  "updated_at": "2022-12-22T09:10:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 105,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:50"
+  },
+  "source": "original",
+  "average_episode_duration": 600,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

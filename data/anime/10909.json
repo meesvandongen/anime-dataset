@@ -1,0 +1,45 @@
+{
+  "id": 10909,
+  "title": "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1738/142520.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1738/142520l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ウルトラマンキッズ M7.8星のゆかいな仲間"
+  },
+  "start_date": "1984-03-17",
+  "end_date": "1984-03-17",
+  "synopsis": "Educational anime based on the Ultraman franchise.",
+  "mean": 5.4,
+  "rank": 11888,
+  "popularity": 14462,
+  "num_list_users": 739,
+  "num_scoring_users": 224,
+  "nsfw": "white",
+  "created_at": "2011-07-02T17:28:50+00:00",
+  "updated_at": "2021-09-18T18:17:16+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": []
+}

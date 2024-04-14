@@ -1,0 +1,66 @@
+{
+  "id": 33371,
+  "title": "Atom: The Beginning",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/86607.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/86607l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アトム ザ・ビギニング"
+  },
+  "start_date": "2017-04-15",
+  "end_date": "2017-07-08",
+  "synopsis": "Japan in the near future suffers an unexplained major disaster. Five years later, reconstruction is well underway. Two young researchers at a university are pinning all their hopes on robot development. Now their new interpretation of the eternal hero Astro Boy up until his birth is just about to start!\n\n(Source: Showgate)",
+  "mean": 6.81,
+  "rank": 5120,
+  "popularity": 3986,
+  "num_list_users": 31280,
+  "num_scoring_users": 11598,
+  "nsfw": "white",
+  "created_at": "2016-05-30T08:03:45+00:00",
+  "updated_at": "2023-11-07T08:35:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 28,
+      "name": "OLM"
+    },
+    {
+      "id": 1278,
+      "name": "Signal.MD"
+    }
+  ]
+}

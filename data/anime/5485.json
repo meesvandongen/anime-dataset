@@ -1,0 +1,70 @@
+{
+  "id": 5485,
+  "title": "Shin Mazinger Shougeki! Z-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1022/92865.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1022/92865l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Mazinger Shogeki! Z-hen",
+      "True Mazinger",
+      "Z Mazinger"
+    ],
+    "en": "Mazinger Edition Z: The Impact!",
+    "ja": "Ｚマジンガー; 真マジンガー 衝撃！Z編"
+  },
+  "start_date": "2009-04-04",
+  "end_date": "2009-09-26",
+  "synopsis": "Set in the near future, humanity enters another energy revolution following the discovery of Photon Power. Derived from the ore discovered under the foothills of Mt. Fuji, its intended use was to solve the world's energy problems with its unimaginable power. Seeking this energy is Dr. Hell, a madman craving world domination who with his subordinates Baron Ashura, Count Brocken and Viscount Pygman, commands an army of mechanical beasts excavated from the ruins of ancient Greece to seize the Photon Power Lab for himself. Meeting the attack head on is the hot-blooded teenager Kabuto Kouji, who pilots the Photon Powered robot built by his grandfather, Mazinger Z. But in this battle between Dr. Hell and the Kabuto family, many legends surrounding the Mycenaean Civilization and Bardos Island, as well as the secrets of Mazinger Z remain shrouded in mystery.\n\nA new series based on the mecha show that started it all, Mazinger Z. Shin Mazinger Shougeki! Z-Hen starts over from the beginning with a new cast, to tell a new story unrelated to the original show.\n\n(Source: shin-mazinger.com)",
+  "mean": 7.68,
+  "rank": 1286,
+  "popularity": 5300,
+  "num_list_users": 15834,
+  "num_scoring_users": 5401,
+  "nsfw": "white",
+  "created_at": "2008-11-08T06:54:08+00:00",
+  "updated_at": "2022-04-11T21:43:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1408,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 322,
+      "name": "Bee Media"
+    },
+    {
+      "id": 325,
+      "name": "Code"
+    }
+  ]
+}

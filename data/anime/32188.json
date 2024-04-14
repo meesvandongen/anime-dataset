@@ -1,0 +1,57 @@
+{
+  "id": 32188,
+  "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/77324.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/77324l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Steins Gate: Episode 23 (β)",
+      "Open the Missing Link"
+    ],
+    "en": "Steins;Gate: Open the Missing Link - Divide By Zero",
+    "ja": "シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-"
+  },
+  "start_date": "2015-12-03",
+  "end_date": "2015-12-03",
+  "synopsis": "Having reached his emotional breaking point, Rintarou Okabe refuses to continue aiding time traveler Suzuha Amane in her mission to prevent World War III, believing any further efforts to save Makise Kurisu will be in vain. Shortly after, Okabe abandons his mad scientist persona and becomes a seemingly regular university student. \n\nOkabe's close friend Mayuri Shiina perceives him to be recovering from his trauma and is visibly happy. However, something still seems to be bothering Okabe. Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero marks the beginning of a critical divergence—a timeline in which the burden of fate escalates beyond one's limits.\n\n[Written by MAL Rewrite]",
+  "mean": 8.25,
+  "rank": 312,
+  "popularity": 920,
+  "num_list_users": 261065,
+  "num_scoring_users": 145781,
+  "nsfw": "white",
+  "created_at": "2015-12-02T02:33:02+00:00",
+  "updated_at": "2023-01-18T03:56:17+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

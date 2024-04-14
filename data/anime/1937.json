@@ -1,0 +1,58 @@
+{
+  "id": 1937,
+  "title": "Nakoruru: Ano Hito kara no Okurimono",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/10234.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/10234l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ナコルル ~あのひとからのおくりもの~"
+  },
+  "start_date": "2002-05-25",
+  "end_date": "2002-05-25",
+  "synopsis": "Nakoruru, finally returned to her home Kamuikotan after a long, fierce battle, receives a warm welcome from dear friends and the village children. Her spirit is uplifted by her reunion with companions Manari and Yantamuu. But as the trauma of battle falls away, Rela appears and challenges Nakoruru and the shadow of misfortune creeps closer... Nakoruru is a popular Ainu girl from SNK's Samurai Spirits fighting game (PC and Dreamcast), now she has her very own OVA series.\n\n(Source: AniDB)",
+  "mean": 5.45,
+  "rank": 11754,
+  "popularity": 11073,
+  "num_list_users": 2109,
+  "num_scoring_users": 786,
+  "nsfw": "white",
+  "created_at": "2007-02-13T15:42:37+00:00",
+  "updated_at": "2020-07-24T23:41:00+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1700,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

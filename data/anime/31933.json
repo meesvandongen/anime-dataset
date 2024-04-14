@@ -1,0 +1,65 @@
+{
+  "id": 31933,
+  "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/79156.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/79156l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+      "Diamond is not Crash"
+    ],
+    "en": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+    "ja": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない"
+  },
+  "start_date": "2016-04-02",
+  "end_date": "2016-12-24",
+  "synopsis": "The year is 1999. Morioh, a normally quiet and peaceful town, has recently become a hotbed of strange activity. Joutarou Kuujou, now a marine biologist, heads to the mysterious town to meet Jousuke Higashikata. While the two may seem like strangers at first, Jousuke is actually the illegitimate child of Joutarou's grandfather, Joseph Joestar. When they meet, Joutarou realizes that he may have more in common with Jousuke than just a blood relation.\n\nAlong with the mild-mannered Kouichi Hirose and the boisterous Okuyasu Nijimura, the group dedicates themselves to investigating recent disappearances and other suspicious occurrences within Morioh. Aided by the power of Stands, the four men will encounter danger at every street corner, as it is up to them to unravel the town's secrets, before another occurs.\n\n[Written by MAL Rewrite]",
+  "mean": 8.5,
+  "rank": 134,
+  "popularity": 130,
+  "num_list_users": 1119735,
+  "num_scoring_users": 773351,
+  "nsfw": "white",
+  "created_at": "2015-10-24T13:14:10+00:00",
+  "updated_at": "2023-04-02T18:57:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1422,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 287,
+      "name": "David Production"
+    }
+  ]
+}

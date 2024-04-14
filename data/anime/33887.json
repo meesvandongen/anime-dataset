@@ -1,0 +1,42 @@
+{
+  "id": 33887,
+  "title": "Time for Christmas",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1236/140583.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1236/140583l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Glay"
+    ],
+    "en": "",
+    "ja": "Time for Christmas　"
+  },
+  "start_date": "2011-12-14",
+  "end_date": "2011-12-14",
+  "synopsis": "Official music video for Glay's Time for Christmas song from the HOpe and The Silver Sunrise album.",
+  "mean": 5.53,
+  "popularity": 18138,
+  "num_list_users": 324,
+  "num_scoring_users": 155,
+  "nsfw": "white",
+  "created_at": "2016-08-17T04:19:49+00:00",
+  "updated_at": "2016-08-17T04:19:49+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "music",
+  "average_episode_duration": 288,
+  "rating": "g",
+  "studios": []
+}

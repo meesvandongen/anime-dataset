@@ -1,0 +1,51 @@
+{
+  "id": 3056,
+  "title": "Natural",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/41681.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/41681l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Teacher's Pet"
+    ],
+    "en": "",
+    "ja": "ナチュラル"
+  },
+  "start_date": "1999-02-25",
+  "end_date": "1999-05-25",
+  "synopsis": "Rumor's spreading of a hot new couple on campus! A professor is giving the sexy swim star some very special lessons. And this teacher's pet is hot to trot and learning all kinds of new tricks! ",
+  "mean": 5.9,
+  "popularity": 10727,
+  "num_list_users": 2352,
+  "num_scoring_users": 821,
+  "nsfw": "gray",
+  "created_at": "2007-08-29T20:20:26+00:00",
+  "updated_at": "2022-02-20T18:54:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1999,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1713,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    },
+    {
+      "id": 860,
+      "name": "Triple X"
+    }
+  ]
+}

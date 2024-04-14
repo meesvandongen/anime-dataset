@@ -1,0 +1,66 @@
+{
+  "id": 565,
+  "title": "Steamboy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/21278.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/21278l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Steamboy",
+    "ja": "スチームボーイ"
+  },
+  "start_date": "2004-07-17",
+  "end_date": "2004-07-17",
+  "synopsis": "Ray is a young wunderkind inventor living in Victorian England. His life is turned upside down when he receives a special package hailing from the United States, sent by his grandfather, Lloyd Steam. The package contains a device called a Steam Ball, a device so powerful that it can drive any machine that requires steam with a nearly limitless amount of energy.\n\nRay is instructed to not let the Steam Ball fall into the wrong hands, which include the mighty O'Hara Foundation, who desperately want to bring the Steam Ball back into their control so they can achieve their less than noble goals.\n\nHe will need to use every bit of his brilliance in order to dodge the countless goons that are sent to snatch the device from him. It will be a battle between good and evil, a battle for redemption, a battle for the future!",
+  "mean": 7.31,
+  "rank": 2661,
+  "popularity": 2315,
+  "num_list_users": 83589,
+  "num_scoring_users": 40823,
+  "nsfw": "white",
+  "created_at": "2006-01-09T06:09:20+00:00",
+  "updated_at": "2022-04-14T16:53:42+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 7560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

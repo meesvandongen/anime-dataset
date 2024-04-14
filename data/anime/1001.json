@@ -1,0 +1,54 @@
+{
+  "id": 1001,
+  "title": "Tide-Line Blue: Kyoudai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/21407.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/21407l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tide-Line Blue Special",
+      "Tide-Line Blue Episode 13",
+      "Tide-Line Blue: Brother"
+    ],
+    "en": "",
+    "ja": "タイドライン・ブルー 兄弟"
+  },
+  "start_date": "2006-04-26",
+  "end_date": "2006-04-26",
+  "synopsis": "DVD only 13th episode of the series.\n\nGould and Keel work together with the New United Nations and the crew of the last remaining space station \"Freedom\" (their father) to broadcast a powerful signal all over the world with the new world map for everyone to be available. The episode ends with both of them looking over the horizon, as we see Freedom station falling to earth’s orbit as a shooting star. ",
+  "mean": 6.58,
+  "rank": 6409,
+  "popularity": 11169,
+  "num_list_users": 2044,
+  "num_scoring_users": 910,
+  "nsfw": "white",
+  "created_at": "2006-05-28T21:15:08+00:00",
+  "updated_at": "2022-11-23T20:51:41+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1412,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

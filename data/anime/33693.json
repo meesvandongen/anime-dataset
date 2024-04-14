@@ -1,0 +1,47 @@
+{
+  "id": 33693,
+  "title": "Meitantei Gordon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/81033.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/81033l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Detective Gordon"
+    ],
+    "en": "Meitantei Gordon",
+    "ja": "名探偵ゴードン"
+  },
+  "start_date": "2006-06",
+  "end_date": "2006-06",
+  "synopsis": "Gordon is a famous detective from England providing input on a murder during a dinner party. ",
+  "mean": 4.82,
+  "rank": 12853,
+  "popularity": 13482,
+  "num_list_users": 973,
+  "num_scoring_users": 604,
+  "nsfw": "white",
+  "created_at": "2016-07-20T06:59:41+00:00",
+  "updated_at": "2021-05-26T18:09:36+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 147,
+  "rating": "pg",
+  "studios": []
+}

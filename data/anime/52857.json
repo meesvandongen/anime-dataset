@@ -1,0 +1,41 @@
+{
+  "id": 52857,
+  "title": "Nipple!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1567/127248.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1567/127248l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Nipple!!"
+  },
+  "start_date": "2009-08",
+  "end_date": "2009-08",
+  "synopsis": "A short film by Haruka Suzuki.",
+  "mean": 5.24,
+  "rank": 12285,
+  "popularity": 19611,
+  "num_list_users": 237,
+  "num_scoring_users": 116,
+  "nsfw": "white",
+  "created_at": "2022-08-21T21:24:16+00:00",
+  "updated_at": "2022-08-22T08:20:37+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 36,
+  "rating": "r+",
+  "studios": []
+}

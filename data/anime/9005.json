@@ -1,0 +1,54 @@
+{
+  "id": 9005,
+  "title": "To Heart 2 Adnext",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/75477.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/75477l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ToHeart2 adnext"
+  },
+  "start_date": "2010-09-23",
+  "end_date": "2010-12-22",
+  "synopsis": "Komaki Manaka daydreams about classmate Kono Takaaki but is too shy to talk to boys. As Takaaki-kun helps her in the library they resolve to have training sessions there, calling each other by first name. When Manaka addresses Takaaki-kun outside the library, his buddy Kosaka Yuji overhears them and tells their classmates how close these two have become, causing a surprising effect on other girls around Takaaki.\n\n(Source: ANN)",
+  "mean": 6.74,
+  "rank": 5505,
+  "popularity": 8367,
+  "num_list_users": 5119,
+  "num_scoring_users": 1749,
+  "nsfw": "white",
+  "created_at": "2010-06-15T07:54:01+00:00",
+  "updated_at": "2021-12-07T09:34:42+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1710,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 462,
+      "name": "Chaos Project"
+    }
+  ]
+}

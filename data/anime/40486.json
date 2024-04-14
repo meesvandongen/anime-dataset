@@ -1,0 +1,68 @@
+{
+  "id": 40486,
+  "title": "Strike the Blood: Kieta Seisou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1918/103377.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1918/103377l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Strike the Blood Special OVA"
+    ],
+    "en": "",
+    "ja": "ストライク・ザ・ブラッド 消えた聖槍篇"
+  },
+  "start_date": "2020-01-29",
+  "end_date": "2020-01-29",
+  "synopsis": "While several of the girls investigate Vatlers ship afloat, Akatsuki and Himeragi wake up alone in the school gym with no memories of the day before and no explanation for why they were asleep on the same futon and why Himeragi is wearing an old-fashioned school PE uniform with bloomers.  A bloody baseball bat and missing weapon soon deepen the mystery as assorted forces race to solve the mystery of the empty boat, the bloody bat, and the purple bra in the MCs pockets!",
+  "mean": 6.92,
+  "rank": 4608,
+  "popularity": 4023,
+  "num_list_users": 30520,
+  "num_scoring_users": 12038,
+  "nsfw": "gray",
+  "created_at": "2019-10-05T05:30:23+00:00",
+  "updated_at": "2022-04-01T15:10:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1605,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 957,
+      "name": "Connect"
+    }
+  ]
+}

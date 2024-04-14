@@ -1,0 +1,44 @@
+{
+  "id": 56762,
+  "title": "Bikkuriman: Kirakira Tokubetsu Zoukan-gou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1298/138792.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1298/138792l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ビックリマンきらきら特別増刊号"
+  },
+  "start_date": "1988-10-05",
+  "end_date": "1988-10-05",
+  "synopsis": "A special edition from the Bikkuriman TV series about sweets bonus stickers, which reorganizes the complicated story from the gathering of the Wakamiko to breaking through the Unconnected Zone at a good pace and summarizes it in an easy-to-understand manner.\n\n(Source: U-NEXT)",
+  "rank": 18541,
+  "popularity": 23501,
+  "num_list_users": 85,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2023-09-28T00:28:03+00:00",
+  "updated_at": "2023-09-28T08:37:36+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 2857,
+  "rating": "g",
+  "studios": []
+}

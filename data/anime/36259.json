@@ -1,0 +1,58 @@
+{
+  "id": 36259,
+  "title": "Pingu in the City",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1140/95174.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1140/95174l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pingu in the City",
+    "ja": "ピングー in ザ・シティ"
+  },
+  "start_date": "2017-10-07",
+  "end_date": "2018-03-31",
+  "synopsis": "Pingu and his family move from their small village to the big city; in which there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.\n\n(Source: ANN)",
+  "mean": 6.52,
+  "rank": 6760,
+  "popularity": 3411,
+  "num_list_users": 42265,
+  "num_scoring_users": 23791,
+  "nsfw": "white",
+  "created_at": "2017-09-04T18:41:10+00:00",
+  "updated_at": "2023-11-24T02:33:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "09:20"
+  },
+  "source": "other",
+  "average_episode_duration": 420,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1111,
+      "name": "DandeLion Animation Studio"
+    }
+  ]
+}

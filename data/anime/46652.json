@@ -1,0 +1,69 @@
+{
+  "id": 46652,
+  "title": "Duel Masters King!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1159/111981.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1159/111981l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "DUEL MASTERS キング!"
+  },
+  "start_date": "2021-04-04",
+  "end_date": "2022-03-27",
+  "synopsis": "",
+  "rank": 19386,
+  "popularity": 13769,
+  "num_list_users": 900,
+  "num_scoring_users": 116,
+  "nsfw": "white",
+  "created_at": "2021-01-24T10:09:00+00:00",
+  "updated_at": "2023-01-13T10:18:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 43,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    },
+    {
+      "id": 474,
+      "name": "Shogakukan Music & Digital Entertainment"
+    }
+  ]
+}

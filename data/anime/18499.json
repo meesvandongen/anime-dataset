@@ -1,0 +1,62 @@
+{
+  "id": 18499,
+  "title": "Yozakura Quartet: Tsuki ni Naku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/49489.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/49489l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "夜桜四重奏 ツキニナク"
+  },
+  "start_date": "2013-10-09",
+  "end_date": "2014-11-07",
+  "synopsis": "\"Tsuki ni Naku\" will take the story content from volume 11 of the manga, which features a visit to a onsen by the members of the Hiizumi Life Councelling Office, while the town's police force have to deal with a new youkai-hunter threat.\n\nThis OVA is bundled with the limited edition of the manga (14th, 15th, and 16th).",
+  "mean": 7.45,
+  "rank": 2054,
+  "popularity": 4081,
+  "num_list_users": 29509,
+  "num_scoring_users": 10683,
+  "nsfw": "white",
+  "created_at": "2013-04-25T13:57:36+00:00",
+  "updated_at": "2022-03-21T22:00:49+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1680,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

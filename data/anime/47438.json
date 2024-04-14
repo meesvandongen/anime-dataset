@@ -1,0 +1,52 @@
+{
+  "id": 47438,
+  "title": "Congming De Shunliu: Teshu Renwu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1963/125065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1963/125065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "聪明的顺溜之特殊任务"
+  },
+  "start_date": "2017-08-01",
+  "end_date": "2017",
+  "synopsis": "",
+  "rank": 19014,
+  "popularity": 24311,
+  "num_list_users": 74,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2021-02-09T10:36:30+00:00",
+  "updated_at": "2022-07-05T13:57:38+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 780,
+  "rating": "pg_13",
+  "studios": []
+}

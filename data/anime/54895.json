@@ -1,0 +1,49 @@
+{
+  "id": 54895,
+  "title": "Shanhai Jihui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1897/134905.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1897/134905l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "山海际会"
+  },
+  "start_date": "2023-04-13",
+  "end_date": "2023-09-14",
+  "synopsis": "In the future, with the increasing number of natural disasters and disasters from the universe, a mysterious organization called \"Shanhai Jihui\" appeared, intending to destroy and replace contemporary human beings. The protagonist, Lei Qi, joins the \"Titanium\" exoskeleton armored combat team, and has a multi-faceted confrontation with this mysterious technological organization. Through step-by-step decryption, he discovered that the human dream is actually a window to fully access the entire universe, so he revolved around the reality and the quadrant. The exploration of the world and the confrontation between civilizations of different ages began... \n\n(Source: Bilibili, translated)",
+  "rank": 17820,
+  "popularity": 15561,
+  "num_list_users": 549,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2023-03-29T12:55:49+00:00",
+  "updated_at": "2024-04-02T06:40:40+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1174,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2206,
+      "name": "Xuni Ying Ye"
+    }
+  ]
+}

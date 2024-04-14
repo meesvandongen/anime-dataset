@@ -1,0 +1,56 @@
+{
+  "id": 12665,
+  "title": "Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/35541.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/35541l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuru Yuri Special"
+    ],
+    "en": "YuruYuri: For Whatever Reason, Never Ending, Heart Throbbing, Pitter-patter, Paradox Eternal",
+    "ja": "ゆるゆり どうして☆止まらない☆トキメキ☆ドキドキ☆パラドクス☆エターナル"
+  },
+  "start_date": "2011-11-16",
+  "end_date": "2011-11-16",
+  "synopsis": "Yuru Yuri DVD/BD special.\n\nChinatsu's horrendous and atrocious drawings come to life in a tale about a handsome prince, a hideous girl and true love!\n\n(Source: Anime-Planet)",
+  "mean": 6.4,
+  "rank": 7461,
+  "popularity": 4337,
+  "num_list_users": 25964,
+  "num_scoring_users": 11449,
+  "nsfw": "white",
+  "created_at": "2012-01-10T16:56:46+00:00",
+  "updated_at": "2024-01-27T02:05:43+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

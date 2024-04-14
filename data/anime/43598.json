@@ -1,0 +1,45 @@
+{
+  "id": 43598,
+  "title": "Ookina Furudokei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1900/141758.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1900/141758l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "大きな古時計"
+  },
+  "start_date": "1962-06",
+  "end_date": "1962-06",
+  "synopsis": "The original rendition of the Japanese version of the 1876 song My Grandfather's Clock by American composer and songwriter Henry Clay Work that was broadcast on NHK's Minna no Uta program. It was performed by Sumito Tachikawa and the Nagato Miho Kagekidan Jidou Gasshoudan (Miho Nagato Opera Children's Choir) and featured artwork by Rokurou Taniuchi. Due to the copyright law of the time, price of film reels, and overwriting tapes, Ookina Furudokei from 1962 remains to be one that is missing its video tape, as such the music video is considered lost media.",
+  "popularity": 21040,
+  "num_list_users": 159,
+  "num_scoring_users": 34,
+  "nsfw": "white",
+  "created_at": "2020-10-24T18:41:24+00:00",
+  "updated_at": "2020-10-24T18:41:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1962,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

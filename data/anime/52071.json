@@ -1,0 +1,44 @@
+{
+  "id": 52071,
+  "title": "Midori no Makibao: Owaranai Chоusen!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1907/124436.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1907/124436l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "みどりのマキバオー 終わらない挑戦!!"
+  },
+  "start_date": "2022-07-27",
+  "end_date": "2022-07-27",
+  "synopsis": "An adaptation of the final episode of the Midori no Makibao manga released with the Blu-ray box in 2022.",
+  "rank": 16423,
+  "popularity": 19620,
+  "num_list_users": 236,
+  "num_scoring_users": 38,
+  "nsfw": "white",
+  "created_at": "2022-06-13T21:29:35+00:00",
+  "updated_at": "2022-07-06T11:19:15+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

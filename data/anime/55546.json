@@ -1,0 +1,52 @@
+{
+  "id": 55546,
+  "title": "Random Chatting-ui Geunyeo PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1445/140128.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1445/140128l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Random Chat PV",
+    "ja": "랜덤채팅의 그녀!"
+  },
+  "start_date": "2018-12-24",
+  "end_date": "2018-12-24",
+  "synopsis": "Promotional video for the Naver Webtoon manhwa Random Chat.",
+  "popularity": 24252,
+  "num_list_users": 74,
+  "num_scoring_users": 37,
+  "nsfw": "white",
+  "created_at": "2023-05-31T06:46:44+00:00",
+  "updated_at": "2023-12-26T21:09:48+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 97,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2130,
+      "name": "Studio Shelter"
+    }
+  ]
+}

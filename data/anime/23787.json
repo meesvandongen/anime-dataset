@@ -1,0 +1,61 @@
+{
+  "id": 23787,
+  "title": "Hi☆sCoool! SeHa Girls",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/66173.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/66173l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sega Hard Girls",
+      "Hi-sCool! Seha Girls"
+    ],
+    "en": "Hi☆sCoool! SeHa Girls",
+    "ja": "Hi☆sCoool! セハガール"
+  },
+  "start_date": "2014-10-08",
+  "end_date": "2014-12-24",
+  "synopsis": "The story of the anime will revolve around Dreamcast, Sega Saturn, and Mega Drive, who have just enrolled in SeHaGaga Academy at Tokyo's Haneda Ōtorii station. They are given an assignment needed to graduate by a suspicious teacher, and to clear this assignment, the girls need to enter the world of Sega games. The girls must try their best to graduate without incident.\n\n(Source: ANN)",
+  "mean": 6.49,
+  "rank": 6972,
+  "popularity": 5914,
+  "num_list_users": 11982,
+  "num_scoring_users": 5278,
+  "nsfw": "white",
+  "created_at": "2014-04-13T15:10:26+00:00",
+  "updated_at": "2023-09-02T08:43:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:00"
+  },
+  "source": "other",
+  "average_episode_duration": 660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

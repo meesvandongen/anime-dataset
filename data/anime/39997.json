@@ -1,0 +1,40 @@
+{
+  "id": 39997,
+  "title": "Ab-rah",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1939/101666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1939/101666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Ab-rah"
+  },
+  "start_date": "2013-11-03",
+  "end_date": "2013-11-03",
+  "synopsis": "Music video directed by Kouhei Yoshino for the song Ab-rah by Japanese instrumental band NETWORKS that was included on their album \"White Sky\". The video features stop motion animation using magnetic drawing toys similar to the \"Magna Doodle\".",
+  "mean": 5.46,
+  "popularity": 16567,
+  "num_list_users": 445,
+  "num_scoring_users": 225,
+  "nsfw": "white",
+  "created_at": "2019-06-27T02:45:23+00:00",
+  "updated_at": "2019-06-27T02:45:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 196,
+  "rating": "g",
+  "studios": []
+}

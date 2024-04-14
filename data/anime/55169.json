@@ -1,0 +1,39 @@
+{
+  "id": 55169,
+  "title": "90's Love (SQUAR Remix)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1867/135668.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1867/135668l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "90's Love (SQUAR Remix)",
+    "ja": "90's Love (SQUAR Remix)"
+  },
+  "start_date": "2020-12-17",
+  "end_date": "2020-12-17",
+  "synopsis": "Music video for the song 90's Love (SQUAR Remix) by NCT U.",
+  "popularity": 21281,
+  "num_list_users": 147,
+  "num_scoring_users": 74,
+  "nsfw": "white",
+  "created_at": "2023-04-29T19:36:02+00:00",
+  "updated_at": "2023-04-30T10:03:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 165,
+  "rating": "pg_13",
+  "studios": []
+}

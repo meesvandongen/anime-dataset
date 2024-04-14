@@ -1,0 +1,63 @@
+{
+  "id": 54233,
+  "title": "Sasayaku You ni Koi wo Utau",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1455/141858.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1455/141858l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Whispering You a Love Song",
+      "Sasakoi"
+    ],
+    "en": "Whisper Me a Love Song",
+    "ja": "ささやくように恋を唄う"
+  },
+  "start_date": "2024-04-14",
+  "synopsis": "Yori Asanagi is a mature girl in many ways but is still pure when it comes to romance. That sentiment is proven when an underclassman, Himari Kino, suddenly confesses love to her after her band performance at the freshman opening ceremony.\n\nConfused and surprised, Yori asks her friends for consultation, but they tease her by saying that she is experiencing love. Yori soon makes up her mind and tries to return Himari's feelings, but in a twist of events, she realizes that what Himari loved was not her, but her music!\n\nAs Yori continues to pursue her love for Himari, she promises to make Himari fall for her. However, will this passionate love bloom or remain unrequited?\n\n[Written by MAL Rewrite]",
+  "mean": 7.89,
+  "rank": 802,
+  "popularity": 3017,
+  "num_list_users": 53030,
+  "num_scoring_users": 1661,
+  "nsfw": "gray",
+  "created_at": "2023-01-13T09:36:52+00:00",
+  "updated_at": "2024-04-14T03:04:53+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 26,
+      "name": "Girls Love"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1422,
+  "studios": [
+    {
+      "id": 1687,
+      "name": "Yokohama Animation Lab"
+    },
+    {
+      "id": 2600,
+      "name": "Cloud Hearts"
+    }
+  ]
+}

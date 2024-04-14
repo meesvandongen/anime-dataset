@@ -1,0 +1,70 @@
+{
+  "id": 39196,
+  "title": "Mairimashita! Iruma-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1009/103187.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1009/103187l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Welcome to Demon School! Iruma-kun",
+    "ja": "魔入りました！入間くん"
+  },
+  "start_date": "2019-10-05",
+  "end_date": "2020-03-07",
+  "synopsis": "Fourteen-year-old Iruma Suzuki has been unfortunate all his life, having to work to earn money for his irresponsible parents despite being underage. One day, he finds out that his parents sold him to the demon Sullivan. However, Iruma's worries about what will become of him are soon relieved, for Sullivan merely wants a grandchild, pampering him and making him attend the demon school Babyls. \n\nAt first, Iruma tries to keep a low profile in fear of his peers discovering that he is human. Unfortunately, this ends up being more difficult than he expected. It turns out that Sullivan himself is the chairman of the school, and everyone expects him to become the next Demon King!\n\nIruma immediately finds himself in an outrageous situation when he has to chant a forbidden spell in front of the entire school. With this, Iruma instantly earns a reputation he does not want. Even so, he is bound to be roped into more bizarre circumstances.\n\n[Written by MAL Rewrite]",
+  "mean": 7.74,
+  "rank": 1133,
+  "popularity": 461,
+  "num_list_users": 486490,
+  "num_scoring_users": 258499,
+  "nsfw": "white",
+  "created_at": "2019-02-04T08:29:28+00:00",
+  "updated_at": "2022-10-04T04:31:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 51234,
+  "title": "Eternity Memories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1651/127502.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1651/127502l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "THE IDOLM@STER CINDERELLA GIRLS 10th Anniversary Celebration Animation ETERNITY MEMORIES"
+    ],
+    "en": "Eternity Memories",
+    "ja": "10周年記念アニメーション「ETERNITY MEMORIES」"
+  },
+  "start_date": "2022-08-28",
+  "end_date": "2022-08-28",
+  "synopsis": "An animation commemorating the 10th anniversary of the The iDOLM@STER Cinderella Girls franchise, featuring 190 idols.",
+  "mean": 6.79,
+  "rank": 5277,
+  "popularity": 13118,
+  "num_list_users": 1080,
+  "num_scoring_users": 310,
+  "nsfw": "white",
+  "created_at": "2022-03-11T19:25:02+00:00",
+  "updated_at": "2022-08-29T00:16:12+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 2979,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1893,
+      "name": "CygamesPictures"
+    }
+  ]
+}

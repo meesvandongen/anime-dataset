@@ -1,0 +1,60 @@
+{
+  "id": 19613,
+  "title": "New Initial D Movie: Legend 1 - Kakusei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/75648.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/75648l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Gekijouban Initial D: Legend 1 - Kakusei"
+    ],
+    "en": "Initial D Legend 1 Awakening",
+    "ja": "新劇場版　頭文字［イニシャル］D Legend1 -覚醒-"
+  },
+  "start_date": "2014-08-24",
+  "end_date": "2014-08-24",
+  "synopsis": "One foggy morning, a black and white Toyota AE86 flies past Keisuke Takahashi's Mazda RX7 on Mount Akina, making him believe he has seen the ghost of a racer who died on the mountain. Resolving to defeat this phantom, Keisuke mobilizes the Akagi Red Suns to take on the local Akina Speed Stars racing team in an exchange race. He anticipates that the competition will lure the elusive \"Ghost of Akina\" out into the open and give him the opportunity to exact revenge for his previous defeat. \n\nWhile his friend Itsuki Takeuchi is obsessed with cars and racing, Takumi Fujiwara is not. He fails to understand the \"rush\" that racers experience and any talk of cars reminds him of the tofu deliveries he makes for his father in an old AE86. His early morning routine takes him up and down Mount Akina, where he has memorized every hairpin, brake point, and turn better than anyone else. \n\nWhen the Akagi team appears one night to challenge the Speed Stars to an exchange race, they accept the challenge only to find out that they are completely outclassed. The only way the Speed Stars can stand a chance against them is if they can get the panda-colored AE86 to join their team. With a bit of coercion, Takumi takes the wheel of the AE86 and heads off to Mount Akina to defend the pride of all racers in Akina.\n\n[Written by MAL Rewrite]",
+  "mean": 7.79,
+  "rank": 1016,
+  "popularity": 3597,
+  "num_list_users": 38488,
+  "num_scoring_users": 19117,
+  "nsfw": "white",
+  "created_at": "2013-07-22T09:03:39+00:00",
+  "updated_at": "2022-04-17T14:35:34+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 3756,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    },
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 38475,
+  "title": "Yuru Camp△ Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1806/124396.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1806/124396l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Yuru Camp"
+    ],
+    "en": "Laid-Back Camp: The Movie",
+    "ja": "映画 ゆるキャン△"
+  },
+  "start_date": "2022-07-01",
+  "end_date": "2022-07-01",
+  "synopsis": "As time marches forward, Rin Shima, Nadeshiko Kagamihara, and their friends have grown into full-fledged adults. Now with careers and responsibilities, they can no longer freely spend their days camping and adventuring. However, Chiaki Oogaki, who currently works for the Yamanashi Tourism Organization, reunites the group as she comes up with an exciting proposal—to build a campground together to revitalize an abandoned patch of land from their homeplace, the Yamanashi Prefecture.\n\nMotivated by this ambitious project, the girls combine their efforts to create an environment where future generations can enjoy unique moments as they once did, all while reminiscing the charms of camping from their high school days.\n\n[Written by MAL Rewrite]",
+  "mean": 8.43,
+  "rank": 165,
+  "popularity": 2413,
+  "num_list_users": 78164,
+  "num_scoring_users": 25335,
+  "nsfw": "white",
+  "created_at": "2018-10-06T17:43:25+00:00",
+  "updated_at": "2023-12-14T00:25:34+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 7200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1075,
+      "name": "C-Station"
+    }
+  ]
+}

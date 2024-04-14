@@ -1,0 +1,61 @@
+{
+  "id": 1235,
+  "title": "Ichitaka no Mousou Nikki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/1235.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/1235l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I''s OVA Bonus",
+      "I''s Pure Bonus"
+    ],
+    "en": "Ichitaka's Delusion Diary",
+    "ja": "一貴の妄想日記"
+  },
+  "start_date": "2005-12-09",
+  "end_date": "2006-05-26",
+  "synopsis": "5 dream sequences, dubbed his delusions. Wet dreams from the imagination of a healthy young male.",
+  "mean": 6.37,
+  "rank": 7649,
+  "popularity": 7342,
+  "num_list_users": 7045,
+  "num_scoring_users": 3509,
+  "nsfw": "white",
+  "created_at": "2006-07-31T10:06:27+00:00",
+  "updated_at": "2022-08-03T06:39:18+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    },
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

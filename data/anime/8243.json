@@ -1,0 +1,49 @@
+{
+  "id": 8243,
+  "title": "Mizuki Shigeru no Toono Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/29423.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/29423l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tono Monogatari"
+    ],
+    "en": "",
+    "ja": "水木しげるの遠野物語"
+  },
+  "start_date": "2010-04-24",
+  "end_date": "2010-04-24",
+  "synopsis": "An anime movie based on Mizuki Shigeru's manga Mizuki Shigeru no Toono Monogatari.  Toono Monogatari was originally the Japanese folklorist Yanagida Kunio's classical literature based on the oral traditions of Toono city. It's about Yokai such as Tengu, Kappa, and Zashikiwarashi. ",
+  "rank": 16517,
+  "popularity": 17083,
+  "num_list_users": 404,
+  "num_scoring_users": 52,
+  "nsfw": "white",
+  "created_at": "2010-02-22T18:12:49+00:00",
+  "updated_at": "2016-02-21T00:27:48+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

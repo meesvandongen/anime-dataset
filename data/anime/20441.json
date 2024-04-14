@@ -1,0 +1,65 @@
+{
+  "id": 20441,
+  "title": "Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/54265.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/54265l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sherlock Hound Movie 02",
+      "Meitantei Holmes Movie 02"
+    ],
+    "en": "",
+    "ja": "劇場版名探偵ホームズ　ミセス・ハドソン人質事件の巻／ドーバー海峡の大空中戦の巻"
+  },
+  "start_date": "1986-08-02",
+  "end_date": "1986-08-02",
+  "synopsis": "The second Meitantei Holmes movie featuring two episodes from the anime series.",
+  "mean": 6.55,
+  "rank": 6563,
+  "popularity": 13126,
+  "num_list_users": 1076,
+  "num_scoring_users": 293,
+  "nsfw": "white",
+  "created_at": "2013-09-06T09:12:12+00:00",
+  "updated_at": "2023-10-16T00:30:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 2760,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

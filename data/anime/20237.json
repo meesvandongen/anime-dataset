@@ -1,0 +1,43 @@
+{
+  "id": 20237,
+  "title": "Anime Document: München e no Michi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/53859.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/53859l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Road to Munich",
+      "Anime Document: Munchen e no Michi",
+      "Anime Document: Munich no Michi"
+    ],
+    "en": "",
+    "ja": "アニメドキュメント ミュンヘンへの道"
+  },
+  "start_date": "1972-04-23",
+  "end_date": "1972-08-20",
+  "synopsis": "A short series based on volleyball at the Munich Olympics. The series features a mix of live action blended with animation.\n\n(Source: AniDB)",
+  "rank": 18182,
+  "popularity": 15361,
+  "num_list_users": 577,
+  "num_scoring_users": 82,
+  "nsfw": "white",
+  "created_at": "2013-08-20T14:48:17+00:00",
+  "updated_at": "2020-01-28T11:58:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 1972,
+    "season": "spring"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": []
+}

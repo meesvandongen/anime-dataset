@@ -1,0 +1,45 @@
+{
+  "id": 10849,
+  "title": "Shinryaku! Ika Musume: Ika Ice Tabena-ika?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/29974.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/29974l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Invade! Squid Girl: Won't You Eat Squid Ice Cream?",
+    "ja": "イ･カ･ア･イ･ス食べなイカ？"
+  },
+  "start_date": "2011-07-06",
+  "end_date": "2011-07-06",
+  "synopsis": "MV bundled with the limited edition of the Ika Ice Tabena-ika? single.",
+  "mean": 6.54,
+  "popularity": 7380,
+  "num_list_users": 6955,
+  "num_scoring_users": 2984,
+  "nsfw": "white",
+  "created_at": "2011-06-21T20:13:07+00:00",
+  "updated_at": "2022-02-10T04:09:21+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 257,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 51,
+      "name": "Diomedéa"
+    }
+  ]
+}

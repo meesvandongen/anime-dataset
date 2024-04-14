@@ -1,0 +1,51 @@
+{
+  "id": 34409,
+  "title": "Chuuko Video-ya no Onna Tenin X",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1222/107641.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1222/107641l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Used Video Shop's Female Shop Clerk X"
+    ],
+    "en": "",
+    "ja": "中古ビデオ屋の女店員 Ｘ"
+  },
+  "start_date": "2016-11-21",
+  "end_date": "2016-11-21",
+  "synopsis": "The story centers on a 19-year-old female video shop clerk named Chiaki Sakata and Inari, a elementary school boy who keeps sneaking into the adult section.\n\n(Source: ANN)",
+  "mean": 5.27,
+  "rank": 12210,
+  "popularity": 14255,
+  "num_list_users": 784,
+  "num_scoring_users": 347,
+  "nsfw": "white",
+  "created_at": "2016-11-21T21:30:20+00:00",
+  "updated_at": "2016-12-09T01:15:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 393,
+  "rating": "pg_13",
+  "studios": []
+}

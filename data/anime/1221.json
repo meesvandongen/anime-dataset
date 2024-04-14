@@ -1,0 +1,68 @@
+{
+  "id": 1221,
+  "title": "Demashita! Powerpuff Girls Z",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/3253.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/3253l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "PPGZ"
+    ],
+    "en": "Powerpuff Girls Z",
+    "ja": "出ましたっ！パワパフガールズZ"
+  },
+  "start_date": "2006-07-01",
+  "end_date": "2007-06-30",
+  "synopsis": "Based on the American cartoon, \"The Powerpuff Girls.\" \n\nProfessor Utonium and his son Ken are studying the strange Chemical X. When a mochi cake falls into the formula, it changes into Chemical Z. Ken fires a ray of Chemical Z at a glacier in Tokyo Bay, however that causes strange black and white lights to scatter. The black lights turn its victims into monsters, with emphasis on a black light hitting a zoo monkey and transforming him into Mojo Jojo.\n\nThe white lights, however, aim at three normal girls, Momoko, Miyako, and Kaoru. This gives them the power to transform into superheroes, the Powerpuff Girls Z! ",
+  "mean": 6.46,
+  "rank": 7123,
+  "popularity": 3740,
+  "num_list_users": 35483,
+  "num_scoring_users": 15364,
+  "nsfw": "white",
+  "created_at": "2006-07-23T07:00:55+00:00",
+  "updated_at": "2023-09-18T01:18:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "07:00"
+  },
+  "source": "other",
+  "average_episode_duration": 1471,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

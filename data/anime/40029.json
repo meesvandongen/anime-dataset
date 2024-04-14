@@ -1,0 +1,42 @@
+{
+  "id": 40029,
+  "title": "Broadcast by Bibby",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1770/101722.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1770/101722l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "BBB"
+    ],
+    "en": "",
+    "ja": "BROADCAST BY BIBBY"
+  },
+  "start_date": "2019-05-31",
+  "end_date": "2022-04-07",
+  "synopsis": "Web series by Densuke28 following the life of fictional personality Bibby. The short clips are posted to the character's Instagram, Twitter, and YouTube channels.",
+  "rank": 18624,
+  "popularity": 18857,
+  "num_list_users": 279,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2019-06-30T18:41:52+00:00",
+  "updated_at": "2024-02-29T06:39:45+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 24,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": 37646,
+  "title": "Hataraku Oniisan! no 2!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1250/95044.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1250/95044l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Working Buddies! No 2!",
+    "ja": "働くお兄さん！の2！"
+  },
+  "start_date": "2018-07-06",
+  "end_date": "2018-09-21",
+  "synopsis": "Second season of Hataraku Oniisan!.\n\nCalico Tapio Chatorazawa has more energy than anyone, and Russian Blue Kuehiko Roshihara is a bit of a sourpuss. These two classmates will do all kinds of different jobs to learn how fun and hard it is to work!\n\n(Source: Crunchyroll, edited)",
+  "mean": 6.42,
+  "rank": 7351,
+  "popularity": 9246,
+  "num_list_users": 3806,
+  "num_scoring_users": 1804,
+  "nsfw": "white",
+  "created_at": "2018-03-31T01:05:44+00:00",
+  "updated_at": "2022-10-22T14:42:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:54"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 866,
+      "name": "Fanworks"
+    },
+    {
+      "id": 1265,
+      "name": "Tomovies"
+    }
+  ]
+}

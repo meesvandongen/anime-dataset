@@ -1,0 +1,58 @@
+{
+  "id": 38628,
+  "title": "Hero Mask",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1934/96007.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1934/96007l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ヒーローマスク"
+  },
+  "start_date": "2018-12-03",
+  "end_date": "2018-12-03",
+  "synopsis": "Now there's a mysterious Mask before James Blood, and the man behind it is one that shouldn't exist. What is the mystery surrounding this mask...? So begins an action-packed crime story set in a beautiful city! ",
+  "mean": 6.29,
+  "rank": 8097,
+  "popularity": 3881,
+  "num_list_users": 32799,
+  "num_scoring_users": 12044,
+  "nsfw": "white",
+  "created_at": "2018-11-02T09:33:40+00:00",
+  "updated_at": "2022-02-17T08:24:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

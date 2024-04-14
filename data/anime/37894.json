@@ -1,0 +1,49 @@
+{
+  "id": 37894,
+  "title": "Ling Yu 4th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1753/92962.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1753/92962l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spiritual Domain Fourth Season",
+      "Spiritual Field 4"
+    ],
+    "en": "",
+    "ja": "灵域 第四季"
+  },
+  "start_date": "2016-12-08",
+  "end_date": "2017-02-23",
+  "synopsis": "",
+  "mean": 6.53,
+  "rank": 6720,
+  "popularity": 11531,
+  "num_list_users": 1806,
+  "num_scoring_users": 614,
+  "nsfw": "white",
+  "created_at": "2018-05-18T08:41:30+00:00",
+  "updated_at": "2020-05-03T00:35:22+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 843,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1325,
+      "name": "Haoliners Animation League"
+    }
+  ]
+}

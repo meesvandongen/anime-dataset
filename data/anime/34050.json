@@ -1,0 +1,47 @@
+{
+  "id": 34050,
+  "title": "Tonari no Onigiri-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1619/93112.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1619/93112l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Neighbor Onigiri-kun"
+    ],
+    "en": "",
+    "ja": "となりのおにぎり君"
+  },
+  "start_date": "2016-08-30",
+  "end_date": "2016-11-01",
+  "synopsis": "The beverage company Ito En commissioned Studio Ghibli for a mascot and commercials.",
+  "mean": 5.13,
+  "popularity": 11928,
+  "num_list_users": 1565,
+  "num_scoring_users": 568,
+  "nsfw": "white",
+  "created_at": "2016-09-15T05:28:37+00:00",
+  "updated_at": "2024-01-13T23:31:12+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 18,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 3655,
+  "title": "Nabari no Ou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/79037l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nabari no Oh",
+      "King of Nabari"
+    ],
+    "en": "Nabari no Ou",
+    "ja": "隠の王"
+  },
+  "start_date": "2008-04-07",
+  "end_date": "2008-09-29",
+  "synopsis": "Silent, apathetic, yet mischievous, 14-year-old Rokujou Miharu is the bearer of the hijutsu, \"Shinrabanshou,\" a powerful technique many ninja clans desire to possess to become the ruler of Nabari. Fellow classmate Kouichi and his English teacher Kumohira are both secretly Banten clan ninjas, pledging themselves to protect Miharu from his many attackers. Keeping apathetic, Miharu attempts to reject their invitation to join their ninja \"club.\" However, after numerous attacks, he finds no choice but to join their group as a means for his survival. Slowly, Miharu takes a step closer to becoming the ruler of Nabari.\n\n[Written by MAL Rewrite]",
+  "mean": 7.25,
+  "rank": 3012,
+  "popularity": 1409,
+  "num_list_users": 166406,
+  "num_scoring_users": 66722,
+  "nsfw": "white",
+  "created_at": "2007-12-31T12:11:29+00:00",
+  "updated_at": "2023-09-12T11:36:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 55334,
+  "title": "Fuyumi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1249/135941.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1249/135941l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lanndo x Keina Suda: Fuyumi"
+    ],
+    "en": "Winter Sea",
+    "ja": "冬海"
+  },
+  "start_date": "2022-11-23",
+  "end_date": "2022-11-23",
+  "synopsis": "Music video for the song Fuyumi by Lanndo featuring Keina Suda.",
+  "popularity": 21824,
+  "num_list_users": 123,
+  "num_scoring_users": 68,
+  "nsfw": "white",
+  "created_at": "2023-05-19T14:07:39+00:00",
+  "updated_at": "2023-05-19T16:19:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 282,
+  "rating": "pg_13",
+  "studios": []
+}

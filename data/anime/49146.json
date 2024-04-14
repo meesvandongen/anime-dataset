@@ -1,0 +1,54 @@
+{
+  "id": 49146,
+  "title": "Tobidase! Narase! Pui Pui Molcar",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1784/115618.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1784/115618l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "とびだせ！ならせ！ PUI PUI モルカー"
+  },
+  "start_date": "2021-07-22",
+  "end_date": "2021-07-22",
+  "synopsis": "Compilation film of all 12 episodes of Pui Pui Molcar into an MX4D theatrical film.\n\n(Source: ANN)",
+  "mean": 6.5,
+  "rank": 6863,
+  "popularity": 13286,
+  "num_list_users": 1027,
+  "num_scoring_users": 186,
+  "nsfw": "white",
+  "created_at": "2021-06-08T17:49:26+00:00",
+  "updated_at": "2024-01-07T22:31:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 2040,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

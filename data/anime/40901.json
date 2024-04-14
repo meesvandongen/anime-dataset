@@ -1,0 +1,52 @@
+{
+  "id": 40901,
+  "title": "Toji no Miko: Kizamishi Issen no Tomoshibi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1767/108306.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1767/108306l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tojitomo"
+    ],
+    "en": "Katana Maidens: Tomoshibi",
+    "ja": "刀使ノ巫女 刻みし一閃の燈火"
+  },
+  "start_date": "2020-10-25",
+  "end_date": "2020-11-29",
+  "synopsis": "Since ancient times, shrine maidens who wield swords have been exorcising \"aratama,\" strange existences that threaten the human world. These young women who wear school uniforms and a sword are called \"Toji,\" and they serve as an official unit within the police force as a \"special religious service police squad.\" The government authorizes the Toji to wear swords and serve as government officials, and the government has set up five schools throughout the country for the girls to attend. In the spring, the five schools send their best Toji to compete in a tournament. As the tournament comes closer, all of the representatives rigorously train themselves in order to get stronger and improve their skills.\n\n(Source: ANN)",
+  "mean": 6.62,
+  "rank": 6177,
+  "popularity": 7807,
+  "num_list_users": 6063,
+  "num_scoring_users": 1962,
+  "nsfw": "white",
+  "created_at": "2019-12-19T02:37:29+00:00",
+  "updated_at": "2022-11-16T11:48:39+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

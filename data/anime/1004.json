@@ -1,0 +1,52 @@
+{
+  "id": 1004,
+  "title": "Kanojo to Kanojo no Neko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/73498.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/73498l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kanojo to Kanojo no Neko"
+    ],
+    "en": "She and Her Cat: Their Standing Points",
+    "ja": "彼女と彼女の猫"
+  },
+  "start_date": "2002-04-19",
+  "end_date": "2002-04-19",
+  "synopsis": "It was on a rainy spring day that Chobi became a young woman's pet cat. Though he immediately fell in love with the beautiful and kind person who took him in, he can never hope to fully understand the complex world of humans. Over the course of their first year living in the same apartment, Chobi and his new owner live in their own separate worlds⁠—standing alone yet close together.\n\n[Written by MAL Rewrite]",
+  "mean": 7.27,
+  "rank": 2863,
+  "popularity": 2083,
+  "num_list_users": 98882,
+  "num_scoring_users": 54133,
+  "nsfw": "white",
+  "created_at": "2006-05-29T11:48:47+00:00",
+  "updated_at": "2023-09-09T08:29:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 286,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
+}

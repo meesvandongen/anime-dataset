@@ -1,0 +1,40 @@
+{
+  "id": 49838,
+  "title": "Yuuseiboushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1606/117753.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1606/117753l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Living Idly and Dying as if Dreaming",
+    "ja": "遊生夢死"
+  },
+  "start_date": "2021-09-11",
+  "end_date": "2021-09-11",
+  "synopsis": "Music video for Eve's song \"Yuuseiboushi.\"",
+  "mean": 7.67,
+  "popularity": 10601,
+  "num_list_users": 2434,
+  "num_scoring_users": 1485,
+  "nsfw": "white",
+  "created_at": "2021-09-17T08:10:42+00:00",
+  "updated_at": "2022-04-15T11:54:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 241,
+  "rating": "g",
+  "studios": []
+}

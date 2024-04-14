@@ -1,0 +1,52 @@
+{
+  "id": 32059,
+  "title": "Master of Torque 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1029/93021.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1029/93021l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Master of Torque 3rd Season"
+    ],
+    "en": "",
+    "ja": "マスター・オブ・トルク3"
+  },
+  "start_date": "2016-04-27",
+  "end_date": "2016-04-27",
+  "synopsis": "At the end of the Four Seasons: Fuuka and Nanami episode, a trailer was shown announcing a 3rd season of Master of Torque being released in 2016.",
+  "mean": 4.88,
+  "rank": 12798,
+  "popularity": 14288,
+  "num_list_users": 779,
+  "num_scoring_users": 306,
+  "nsfw": "white",
+  "created_at": "2015-11-12T03:30:24+00:00",
+  "updated_at": "2016-04-28T07:02:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1231,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1324,
+      "name": "Shimogumi"
+    }
+  ]
+}

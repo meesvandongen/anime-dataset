@@ -1,0 +1,60 @@
+{
+  "id": 17221,
+  "title": "Shin Kabukichou Story Hana no Asukagumi!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1068/132139.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1068/132139l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Kabukichou Story Hana no Asuka-gumi!"
+    ],
+    "en": "",
+    "ja": "新歌舞伎町ストーリー 花のあすか組!"
+  },
+  "start_date": "1987-06-10",
+  "end_date": "1987-06-10",
+  "synopsis": "Based on the popular girl's manga Hana no Asukagumi! (The Glorious Asuka Gang!) by Takaguchi Satosumi.",
+  "mean": 5.59,
+  "rank": 11297,
+  "popularity": 11943,
+  "num_list_users": 1560,
+  "num_scoring_users": 432,
+  "nsfw": "white",
+  "created_at": "2013-01-18T17:27:58+00:00",
+  "updated_at": "2021-02-13T20:09:13+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 2880,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

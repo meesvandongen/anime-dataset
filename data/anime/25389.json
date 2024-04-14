@@ -1,0 +1,70 @@
+{
+  "id": 25389,
+  "title": "Dragon Ball Z Movie 15: Fukkatsu no \"F\"",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1833/93679.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1833/93679l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon Ball Z: Resurrection 'F'",
+    "ja": "ドラゴンボールZ 復活の「F」"
+  },
+  "start_date": "2015-04-18",
+  "end_date": "2015-04-18",
+  "synopsis": "Earth is finally peaceful again, but this calm is short-lived. The remnants of Frieza's army, led by Sorbet and his right hand Tagoma, arrive on Earth in order to summon Shen Long with the goal of resurrecting their old master. To do so, they threaten Emperor Pilaf, Shuu, and Mai for the Dragon Balls in their possession.\n\nOnce successfully revived, Frieza—who had been stoking his hatred for Gokuu Son and Future Trunks in Hell—proclaims that he will not be content until they are dead by his hand. Sorbet informs him that Future Trunks has not been heard of in years, and Gokuu's power has far surpassed even that of the mighty Majin Buu. Unfazed, Frieza responds that he only requires a few months of training before being capable of defeating Gokuu.\n\nWill Frieza be able to exact revenge upon his nemesis, or will Gokuu, Vegeta, and their friends prevail against adversity, saving Earth once more?\n\n[Written by MAL Rewrite]",
+  "mean": 7.03,
+  "rank": 4182,
+  "popularity": 1317,
+  "num_list_users": 180576,
+  "num_scoring_users": 122286,
+  "nsfw": "white",
+  "created_at": "2014-07-19T23:20:24+00:00",
+  "updated_at": "2022-04-14T16:26:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 6420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

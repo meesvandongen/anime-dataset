@@ -1,0 +1,45 @@
+{
+  "id": 17457,
+  "title": "Chingou Muchabee",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1263/120962.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1263/120962l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chingo Muchabei"
+    ],
+    "en": "",
+    "ja": "珍豪ムチャ兵衛"
+  },
+  "start_date": "1971-02-15",
+  "end_date": "1971-03-22",
+  "synopsis": "A goofy comedy series with various stories featuring the same set of characters.\n\n(Source: AniDB)",
+  "rank": 18889,
+  "popularity": 16188,
+  "num_list_users": 482,
+  "num_scoring_users": 96,
+  "nsfw": "white",
+  "created_at": "2013-02-11T15:27:42+00:00",
+  "updated_at": "2021-08-02T04:21:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 1971,
+    "season": "winter"
+  },
+  "average_episode_duration": 859,
+  "rating": "g",
+  "studios": []
+}

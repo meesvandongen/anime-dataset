@@ -1,0 +1,53 @@
+{
+  "id": 40932,
+  "title": "Null Peta: Doki♥ Nurunuru Petapeta! Mizugi-darake no Oneechan Taikai!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1366/105028.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1366/105028l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Null & Peta Special",
+      "Null Peta Special"
+    ],
+    "en": "",
+    "ja": "ぬるぺた  ドキッ♥ ぬるぬるぺたぺた! 水着だらけのお姉ちゃん大会!"
+  },
+  "start_date": "2020-01-31",
+  "end_date": "2020-01-31",
+  "synopsis": "Extra episode included in the Blu-ray/DVD release.",
+  "mean": 5.63,
+  "rank": 11175,
+  "popularity": 9015,
+  "num_list_users": 4128,
+  "num_scoring_users": 1977,
+  "nsfw": "white",
+  "created_at": "2019-12-25T09:18:39+00:00",
+  "updated_at": "2022-10-11T10:09:10+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 349,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 17102,
+  "title": "Lolling Seutajeu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/45851.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/45851l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Rolling Stars",
+    "ja": "롤링 스타즈"
+  },
+  "start_date": "2009-04-15",
+  "end_date": "2009-10-21",
+  "synopsis": "",
+  "rank": 16055,
+  "popularity": 17775,
+  "num_list_users": 352,
+  "num_scoring_users": 60,
+  "nsfw": "white",
+  "created_at": "2013-01-09T05:23:08+00:00",
+  "updated_at": "2013-01-14T10:54:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "average_episode_duration": 1560,
+  "rating": "pg",
+  "studios": []
+}

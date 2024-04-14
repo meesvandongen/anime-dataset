@@ -1,0 +1,70 @@
+{
+  "id": 2775,
+  "title": "Genocyber",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/3751.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/3751l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ジェノサイバー"
+  },
+  "start_date": "1994-05-24",
+  "end_date": "1994-07-21",
+  "synopsis": "As the nations of the world begin to merge, world peace is threatened by the private armies of individual corporations. The Kuryu Group has just discovered a weapon that will tip world power in their favor. The Genocyber: a nightmarish combination of cybernetics and psychic potential. Many desire to control this monstrosity, but can its hatred be contained... Battle erupts, and the cyberpunk world of the future is about to explode with violence.\n\n(Source: ANN)",
+  "mean": 5.79,
+  "rank": 10489,
+  "popularity": 3585,
+  "num_list_users": 38735,
+  "num_scoring_users": 11877,
+  "nsfw": "white",
+  "created_at": "2007-07-07T04:21:54+00:00",
+  "updated_at": "2023-08-30T10:49:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1812,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 72,
+      "name": "Artmic"
+    }
+  ]
+}

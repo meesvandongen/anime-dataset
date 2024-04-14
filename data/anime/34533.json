@@ -1,0 +1,56 @@
+{
+  "id": 34533,
+  "title": "Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1685/104697.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1685/104697l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nanbaka Special"
+    ],
+    "en": "Nanbaka: Idiots with Student Numbers!",
+    "ja": "ナンバカ 出席番号のついたバカたち!"
+  },
+  "start_date": "2017-04-29",
+  "end_date": "2017-04-29",
+  "synopsis": "The official website for the Nanbaka television anime announced that the \"Nanfes\" event in April will screen a previously unreleased anime special.",
+  "mean": 6.92,
+  "rank": 4637,
+  "popularity": 3893,
+  "num_list_users": 32660,
+  "num_scoring_users": 13127,
+  "nsfw": "white",
+  "created_at": "2016-12-13T10:26:46+00:00",
+  "updated_at": "2022-04-10T12:00:10+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1405,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

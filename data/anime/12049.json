@@ -1,0 +1,66 @@
+{
+  "id": 12049,
+  "title": "Fairy Tail Movie 1: Houou no Miko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/47083.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/47083l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Fairy Tail: Houou no Miko",
+      "Priestess of the Phoenix",
+      "Fairy Tail: The Phoenix Priestess"
+    ],
+    "en": "Fairy Tail the Movie: The Phoenix Priestess",
+    "ja": "劇場版 FAIRY TAIL 鳳凰の巫女"
+  },
+  "start_date": "2012-08-18",
+  "end_date": "2012-08-18",
+  "synopsis": "In the mountains of north Fiore lies the Fire Village, where a lush-blue relic known as the Phoenix Stone is preserved. Entrusted to a mystifying woman named Éclair, it is said to contain the power of an ancient phoenix. She wanders the land alone and protects the stone from harm, despite having no memory of why it was left in her care and only the faintest recollection of where she must take it. \n\nAfter encountering the wizard guild Fairy Tail, Éclair receives an offer from Natsu Dragneel and his friends to help her uncover the mysteries surrounding the stone. However, in the midst of the group's journey, Éclair is suddenly attacked and the stone is taken from her. With this, nefarious intentions to revive the blazing phoenix for its unparalleled power come to light, and the wizards of Fairy Tail find themselves in a situation that could spell calamity. They must now work together to prevent the revival of the phoenix and save the world from ruin. \n\n[Written by MAL Rewrite]",
+  "mean": 7.37,
+  "rank": 2391,
+  "popularity": 1113,
+  "num_list_users": 217063,
+  "num_scoring_users": 122633,
+  "nsfw": "white",
+  "created_at": "2011-11-15T12:54:48+00:00",
+  "updated_at": "2023-11-14T02:20:55+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5160,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    },
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

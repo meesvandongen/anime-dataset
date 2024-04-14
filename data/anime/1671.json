@@ -1,0 +1,56 @@
+{
+  "id": 1671,
+  "title": "Soreyuke! Uchuu Senkan Yamamoto Youko II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1390/90154.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1390/90154l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soreyuke! Uchuu Senkan Yamamoto Yooko II"
+    ],
+    "en": "Starship Girl Yamamoto Yohko II",
+    "ja": "それゆけ!宇宙戦艦ヤマモト・ヨーコⅡ"
+  },
+  "start_date": "1997-08-06",
+  "end_date": "1997-12-22",
+  "synopsis": "There is an ancient legend on a distant planet which states (among other things) that four goddesses will one day descend from the skies and all will be right with the world. \n\nOf course meanwhile, Yohko and the rest of the Terra team (with one straggler) have crashed on a backwater world, and they have to figure out a way off before their new charge... gets hungry again! \n\nEvery so often, a celebration takes place in one of the most beautiful places in the Universe... a cosmic Sakura fest! Since the Terra Team has been doing so well, one of them is invited to join the high command as they meet their opposite numbers from NESS. It's a time of celebration and a time of peace... but it seems that someone didn't get the message.\n\n(Source: AniDB)",
+  "mean": 6.31,
+  "rank": 7978,
+  "popularity": 10260,
+  "num_list_users": 2712,
+  "num_scoring_users": 900,
+  "nsfw": "white",
+  "created_at": "2006-11-24T12:12:45+00:00",
+  "updated_at": "2022-01-15T18:25:07+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

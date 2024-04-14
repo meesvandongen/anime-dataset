@@ -1,0 +1,64 @@
+{
+  "id": 39282,
+  "title": "Beyblade Burst Gachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1318/99806.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1318/99806l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Beyblade Burst GT"
+    ],
+    "en": "Beyblade Burst Rise",
+    "ja": "ベイブレードバーストGT (ガチ)"
+  },
+  "start_date": "2019-04-05",
+  "end_date": "2020-03-27",
+  "synopsis": "Legendary Blader Valt Aoi has been training the next generation of elite Bladers at Spain’s BC Sol. One day, rookie Blader Koryu Drum witnesses Valt unleashing his newly evolved Gachi Bey, Slash Valkyrie. To Drum's surprise, Valkyrie radiates a golden light as it rockets around the stadium. Inspired by the limitless possibilities of this “Gold Turbo” state, Drum seeks to achieve the same bond with his Bey, Dragon. Here begins the story of Dante and Dragon’s rise to the peak of the Blading world.\n\n(Source: USA Beyblade Burst Website)",
+  "mean": 6.23,
+  "rank": 8406,
+  "popularity": 6307,
+  "num_list_users": 10211,
+  "num_scoring_users": 5047,
+  "nsfw": "white",
+  "created_at": "2019-02-15T06:52:53+00:00",
+  "updated_at": "2024-03-06T10:56:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "16:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 855,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 42128,
+  "title": "He Wei Dao x Daojian Shenyu Alicization",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1927/114851.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1927/114851l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sword Art Online: Alicization x Nissin",
+      "Sword Art Online Alicization: x Cup Noodles"
+    ],
+    "en": "He Wei Dao x Sword Art Online: Alicization",
+    "ja": "合味道 x 刀剑神域Alicization"
+  },
+  "start_date": "2019-10-02",
+  "end_date": "2019-10-02",
+  "synopsis": "Cup Noodles' Chinese brand He Wei Dap posted an ad on Chinese social media platform Sina Weibo showing Kirito and Alice from Sword Art Online: Alicization enjoying cup noodles together. The ad features exclusive footage and new recorded lines by the voice actors in Japanese with Chinese subtitles.\n\n(Source: ANN)",
+  "mean": 6.59,
+  "popularity": 8469,
+  "num_list_users": 4965,
+  "num_scoring_users": 2197,
+  "nsfw": "white",
+  "created_at": "2020-06-01T22:09:21+00:00",
+  "updated_at": "2023-12-26T21:34:33+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 229,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 53729,
+  "title": "We Are PAC-MAN!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1720/131571.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1720/131571l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "PAC-MAN Theme Song"
+    ],
+    "en": "",
+    "ja": "We are PAC-MAN!"
+  },
+  "start_date": "2022-05-23",
+  "end_date": "2022-05-23",
+  "synopsis": "An original music video produced by Bandai Namco Entertainment for the PAC-MAN theme song We Are PAC-MAN!.",
+  "mean": 6.14,
+  "popularity": 20020,
+  "num_list_users": 215,
+  "num_scoring_users": 119,
+  "nsfw": "white",
+  "created_at": "2022-12-01T05:41:03+00:00",
+  "updated_at": "2022-12-01T10:30:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": []
+}

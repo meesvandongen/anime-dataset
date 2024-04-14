@@ -1,0 +1,50 @@
+{
+  "id": 34766,
+  "title": "Elsword: Ain-ui Gieog Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/83834.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/83834l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "[엘소드] 아인의 기억 애니메이션"
+  },
+  "start_date": "2016-12-12",
+  "end_date": "2016-12-12",
+  "synopsis": "This was the Secret Video that was shown in Anime premiere event. It tells the story of, Ain, a secretive timekeeper during the events of Elsword: El-ui Yeoin's first episode.\n\n(Source: 2nafish)",
+  "mean": 6.01,
+  "rank": 9555,
+  "popularity": 9824,
+  "num_list_users": 3141,
+  "num_scoring_users": 945,
+  "nsfw": "white",
+  "created_at": "2017-01-14T10:49:14+00:00",
+  "updated_at": "2021-02-11T07:11:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 258,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1575,
+      "name": "DR Movie"
+    }
+  ]
+}

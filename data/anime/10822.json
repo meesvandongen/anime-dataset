@@ -1,0 +1,56 @@
+{
+  "id": 10822,
+  "title": "Ranma ½: Totteoki Talk - Best of Memories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/29885.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/29885l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ranma 1/2: Best Memories"
+    ],
+    "en": "Ranma ½: Best Memories",
+    "ja": "らんま1/2 とっておきトーク ベスト・オブ・メモリーズ"
+  },
+  "start_date": "1993-05-01",
+  "end_date": "1993-05-01",
+  "synopsis": "Collections of \"Best Of\" moments from throughout the series. This one focused on romantic moments, and shifted between the scenes with interviews with Kappei Yamaguchi, Megumi Hayashibara and Noriko Hidaka. Also interviewed are Rei Sakuma, Koichi Yamadera, Saeko Shimazu, and Yuuji Mitsuya.\n\n(Source: furinkan.com/ranma/anime/specials.html)",
+  "mean": 7.01,
+  "rank": 4282,
+  "popularity": 8696,
+  "num_list_users": 4609,
+  "num_scoring_users": 1384,
+  "nsfw": "white",
+  "created_at": "2011-06-13T03:32:49+00:00",
+  "updated_at": "2020-01-15T07:52:19+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 2580,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2256,
+      "name": "Kitty Film Mitaka Studio"
+    }
+  ]
+}

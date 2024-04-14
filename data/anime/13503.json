@@ -1,0 +1,46 @@
+{
+  "id": 13503,
+  "title": "Cofun Gal no Coffy (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/82756.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/82756l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kofun Gal no Coffy",
+      "The Frogman Show"
+    ],
+    "en": "Tumulus Gal Coffy",
+    "ja": "古墳ギャルのコフィー"
+  },
+  "start_date": "2006-04-06",
+  "end_date": "2006-06-15",
+  "synopsis": "The TV adaptation of the ONA series. Unlike the ONA, which has 10 episodes, this series has 11 episodes.",
+  "rank": 18986,
+  "popularity": 16832,
+  "num_list_users": 423,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2012-03-26T12:29:13+00:00",
+  "updated_at": "2017-09-30T09:39:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "average_episode_duration": 690,
+  "rating": "pg_13",
+  "studios": []
+}

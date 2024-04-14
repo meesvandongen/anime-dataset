@@ -1,0 +1,61 @@
+{
+  "id": 38549,
+  "title": "TV Yarou Nanaana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1193/99964.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1193/99964l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Televi Yarou Nanana",
+      "TV Yarou Nana-na"
+    ],
+    "en": "Wacky TV Na Na Na",
+    "ja": "テレビ野郎 ナナーナ"
+  },
+  "start_date": "2018-04-06",
+  "end_date": "2018-09-14",
+  "synopsis": "After the administrative board at TV Nanaana cancels the network's most popular show for \"indecency,'' the station's film crew—team leader Nanaoka, cameraman Nanamori, and audio specialist Nanayama—boldly take on the daunting task of documenting the rare animal known as the Kiina to save the company from bankruptcy.\n\nHowever, they are not the only ones on the hunt; the rival film crew at Bubble TV and their deep-pocketed producer Zakibana have their sights set on obtaining the once-in-a-lifetime story as well. Braving the remote South American jungle of Ecuana, Nanaoka, Nanamori, and Nanayama must travel far and wide to film a nature documentary on the elusive animal before their competition can—because their very jobs depend on it!\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.33,
+  "rank": 7868,
+  "popularity": 11222,
+  "num_list_users": 2009,
+  "num_scoring_users": 838,
+  "nsfw": "white",
+  "created_at": "2018-10-18T00:56:35+00:00",
+  "updated_at": "2022-09-17T05:00:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:54"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1927,
+      "name": "Studio Crocodile"
+    }
+  ]
+}

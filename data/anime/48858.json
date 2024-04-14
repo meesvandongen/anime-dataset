@@ -1,0 +1,54 @@
+{
+  "id": 48858,
+  "title": "180-byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1904/118821.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1904/118821l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Can I Make Your Ears Happy in 180 Seconds?",
+    "ja": "180秒で君の耳を幸せにできるか?"
+  },
+  "start_date": "2021-10-15",
+  "end_date": "2021-12-31",
+  "synopsis": "From the mouthwatering chewing in mukbang to the relaxing whispers of voice acting, ASMR has steadily grown in popularity in recent years. As such, many people around the world enjoy it, and high schooler Akari Sawake is no exception. Sporting her trusty headphones, Akari explores the various ways ASMR can stimulate her senses and shares with others the plentiful wonders it can offer.\n\n[Written by MAL Rewrite]",
+  "mean": 5.31,
+  "rank": 12109,
+  "popularity": 3670,
+  "num_list_users": 36911,
+  "num_scoring_users": 11376,
+  "nsfw": "white",
+  "created_at": "2021-04-30T12:03:39+00:00",
+  "updated_at": "2024-02-17T09:52:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:00"
+  },
+  "source": "original",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1794,
+      "name": "EKACHI EPILKA"
+    },
+    {
+      "id": 2248,
+      "name": "Indivision"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 13281,
+  "title": "FlashBack",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/37387.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/37387l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "FlashBack"
+  },
+  "start_date": "2012-02-24",
+  "end_date": "2012-02-24",
+  "synopsis": "Music video from Akane Aki.",
+  "mean": 6.63,
+  "popularity": 10399,
+  "num_list_users": 2606,
+  "num_scoring_users": 1549,
+  "nsfw": "white",
+  "created_at": "2012-03-15T13:24:44+00:00",
+  "updated_at": "2022-01-18T20:39:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 209,
+  "rating": "pg_13",
+  "studios": []
+}

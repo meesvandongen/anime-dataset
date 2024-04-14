@@ -1,0 +1,64 @@
+{
+  "id": 6624,
+  "title": "Kara no Kyoukai Remix: Gate of Seventh Heaven",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/15175.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/15175l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Garden of Sinners: Gate of Seventh Heaven"
+    ],
+    "en": "The Garden of Sinners Remix: Gate of Seventh Heaven",
+    "ja": "空の境界 Remix -Gate of seventh heaven-"
+  },
+  "start_date": "2009-03-14",
+  "end_date": "2009-03-14",
+  "synopsis": "In August of 1995, Mikiya Kokutou meets a young kimono-clad woman named Shiki Ryougi. When he finds out that they go to the same school, he attempts to befriend her. Though her upbringing is unconventional and she herself is strange, Mikiya is not deterred, and Shiki gradually opens up to him. But Mikiya's life will be changed forever by this simple meeting, and in ways that he never imagined, as he begins to see a deadly side to his new friend...\n\n[Written by MAL Rewrite]",
+  "mean": 7.54,
+  "rank": 1711,
+  "popularity": 3179,
+  "num_list_users": 48086,
+  "num_scoring_users": 20139,
+  "nsfw": "white",
+  "created_at": "2009-06-15T20:22:39+00:00",
+  "updated_at": "2022-08-25T20:14:27+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 3688,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

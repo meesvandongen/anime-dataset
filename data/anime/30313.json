@@ -1,0 +1,57 @@
+{
+  "id": 30313,
+  "title": "Kaiketsu Zorori Movie: Uchuu no Yuusha-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/72572.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/72572l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Kaiketsu Zorori: Uchuu no Yuusha-tachi",
+      "Zorori Movie 4"
+    ],
+    "en": "",
+    "ja": "映画かいけつゾロリ　うちゅうの勇者たち"
+  },
+  "start_date": "2015-09-12",
+  "end_date": "2015-09-12",
+  "synopsis": "",
+  "mean": 6.34,
+  "rank": 7759,
+  "popularity": 15621,
+  "num_list_users": 542,
+  "num_scoring_users": 115,
+  "nsfw": "white",
+  "created_at": "2015-03-13T07:04:15+00:00",
+  "updated_at": "2021-02-15T00:58:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 2932,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    },
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

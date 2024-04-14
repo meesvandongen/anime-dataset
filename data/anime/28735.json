@@ -1,0 +1,68 @@
+{
+  "id": 28735,
+  "title": "Shouwa Genroku Rakugo Shinjuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1354/124768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1354/124768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Showa and Genroku Era Lover's Suicide Through Rakugo"
+    ],
+    "en": "Showa Genroku Rakugo Shinju",
+    "ja": "昭和元禄落語心中"
+  },
+  "start_date": "2016-01-09",
+  "end_date": "2016-04-02",
+  "synopsis": "Yotarou is a former yakuza member fresh out of prison and fixated on just one thing: rather than return to a life of crime, the young man aspires to take to the stage of rakugo, a traditional Japanese form of comedic storytelling. Inspired during his incarceration by the performance of distinguished practitioner Yakumo Yuurakutei, he sets his mind on meeting the man who changed his life. After hearing Yotarou's desperate appeal for his mentorship, Yakumo is left with no choice but to accept his very first apprentice.\n\nAs he eagerly begins his training, Yotarou meets Konatsu, an abrasive young woman who has been under Yakumo's care ever since her beloved father Sukeroku Yuurakutei, another prolific rakugo performer, passed away. Through her hidden passion, Yotarou is drawn to Sukeroku's unique style of rakugo despite learning under contrasting techniques. Upon seeing this, old memories and feelings return to Yakumo who reminisces about a much earlier time when he made a promise with his greatest rival.\n\nShouwa Genroku Rakugo Shinjuu is a story set in both the past and present, depicting the art of rakugo, the relationships it creates, and the lives and hearts of those dedicated to keeping the unique form of storytelling alive.\n\n[Written by MAL Rewrite]",
+  "mean": 8.56,
+  "rank": 100,
+  "popularity": 834,
+  "num_list_users": 291121,
+  "num_scoring_users": 94196,
+  "nsfw": "white",
+  "created_at": "2014-12-05T00:57:17+00:00",
+  "updated_at": "2023-01-10T15:09:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "02:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 1560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

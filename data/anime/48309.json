@@ -1,0 +1,43 @@
+{
+  "id": 48309,
+  "title": "Iyagi Baedalbu Dong-gaebi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1533/130270.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1533/130270l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "이야기 배달부 동개비"
+  },
+  "start_date": "2017-02-12",
+  "end_date": "2017-03-19",
+  "synopsis": "",
+  "rank": 20400,
+  "popularity": 23707,
+  "num_list_users": 82,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2021-02-22T18:04:42+00:00",
+  "updated_at": "2022-11-01T12:24:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "average_episode_duration": 780,
+  "rating": "pg",
+  "studios": []
+}

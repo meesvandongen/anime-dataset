@@ -1,0 +1,74 @@
+{
+  "id": 3359,
+  "title": "Amatsuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/75555.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/75555l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Amatsuki",
+    "ja": "あまつき"
+  },
+  "start_date": "2008-04-05",
+  "end_date": "2008-06-28",
+  "synopsis": "Tokidoki Rikugou is a history-hating student who flunks out of his Japanese History course; his high school forces him to make up for his failed grade by attending a special museum lecture. Its star exhibit, a vast recreation of the Edo Period, promises to alleviate the delinquent student's poor grades with an elaborate simulation of the Tokugawa Shogunate: the Edo Bakumatsu Walking Tour and Exhibition. \n\nKnowing next to nothing about samurai culture or the times he's walked into, he is quickly surprised to learn of the superstitious nature of Japan during the 1600s. Quickly dismissing the existence of gods and demons, he is shocked when confronted by a demon on a bridge, who attacks the unsuspecting high-schooler. Saved by a mysterious swordsman named Kuchiha, he discovers that he can no longer escape the simulation at the history museum.\n\nMeeting another swordsman named Kon Shinonome, he discovers another contemporary that was trapped in the simulation before him. Quickly adjusting to his new home, Tokidoki must now help protect the village from demons, while uncovering the mystery of both the simulation and the company that created it.\n\n[Written by MAL Rewrite]",
+  "mean": 6.87,
+  "rank": 4847,
+  "popularity": 2883,
+  "num_list_users": 57704,
+  "num_scoring_users": 26129,
+  "nsfw": "white",
+  "created_at": "2007-11-04T19:19:47+00:00",
+  "updated_at": "2023-04-17T06:26:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "02:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

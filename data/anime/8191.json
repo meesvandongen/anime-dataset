@@ -1,0 +1,51 @@
+{
+  "id": 8191,
+  "title": "Hoshi Shinichi Short Short",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/20995.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/20995l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hoshi Shinichi's Short Shorts"
+    ],
+    "en": "",
+    "ja": "星新一 ショートショート"
+  },
+  "start_date": "2007-11-11",
+  "end_date": "2008-11-17",
+  "synopsis": "This series features stories from the acclaimed sci-fi writer Hoshi Shinichi. The episodes uses animation, live-action footage, computer graphics, and other visual means to re-enact the short stories. Each episode is a collection of several short-short stories by Hoshi Shinichi.\n\nNote: This entry includes the pilot and the 25 TV episodes.\n",
+  "rank": 20179,
+  "popularity": 16423,
+  "num_list_users": 459,
+  "num_scoring_users": 73,
+  "nsfw": "white",
+  "created_at": "2010-02-17T07:15:05+00:00",
+  "updated_at": "2014-12-05T19:03:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "book",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1522,
+      "name": "Echoes"
+    }
+  ]
+}

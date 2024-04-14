@@ -1,0 +1,54 @@
+{
+  "id": 5538,
+  "title": "Tegamibachi: Hikari to Ao no Gensou Yawa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/84685.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/84685l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Letter Bee: Light and Blue Night Fantasy",
+    "ja": "テガミバチ 光と青の幻想夜話"
+  },
+  "start_date": "2008-11-24",
+  "end_date": "2008-11-24",
+  "synopsis": "The story takes place in the land of Amber Ground, a place of perpetual night only partially illuminated by an artificial sun. Lag Seeing works as a \"Letter Bee\" (delivery boy) at the \"Bee Hive\" (a delivery service), with his Dingo, Niche, and her \"pet,\" Steak, traveling with him. He is entrusted with the \"hearts\" of the everyone in Amber Ground to deliver their packages.\n\n(Source: Wikipedia)",
+  "mean": 7.43,
+  "rank": 2108,
+  "popularity": 5468,
+  "num_list_users": 14577,
+  "num_scoring_users": 6567,
+  "nsfw": "white",
+  "created_at": "2008-11-19T04:16:42+00:00",
+  "updated_at": "2023-04-17T06:05:10+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1625,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

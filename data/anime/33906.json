@@ -1,0 +1,42 @@
+{
+  "id": 33906,
+  "title": "Shangri-La (Music)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/81600.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/81600l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wienners: Shangri-La"
+    ],
+    "en": "",
+    "ja": "シャングリラ"
+  },
+  "start_date": "2011-10-05",
+  "end_date": "2011-10-05",
+  "synopsis": "A music video for the Wienners' song \"Shangri-La.\"",
+  "mean": 4.81,
+  "popularity": 17657,
+  "num_list_users": 362,
+  "num_scoring_users": 172,
+  "nsfw": "white",
+  "created_at": "2016-08-20T20:56:42+00:00",
+  "updated_at": "2016-08-20T20:56:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 280,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": 56200,
+  "title": "Aji no Hiraki no Sandogasa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1257/137626.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1257/137626l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Aji no Hiraki Sandogasa"
+    ],
+    "en": "",
+    "ja": "アジのひらきの三度笠"
+  },
+  "start_date": "1998-04-01",
+  "end_date": "1998-04-01",
+  "synopsis": "Music video for the song Aji no Hiraki no Sandogasa by Hiromi Yamashita that was featured on NHK's Minna no Uta program.",
+  "popularity": 22216,
+  "num_list_users": 110,
+  "num_scoring_users": 49,
+  "nsfw": "white",
+  "created_at": "2023-08-07T05:41:19+00:00",
+  "updated_at": "2023-08-07T05:41:19+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

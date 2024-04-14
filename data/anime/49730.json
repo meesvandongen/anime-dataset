@@ -1,0 +1,54 @@
+{
+  "id": 49730,
+  "title": "Pokemon Evolutions",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1405/117456.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1405/117456l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pokémon Evolutions",
+    "ja": "Pokémon Evolutions"
+  },
+  "start_date": "2021-09-09",
+  "end_date": "2021-12-23",
+  "synopsis": "An animated series created to celebrate 25 years of the global entertainment franchise. Each episode will take fans on a journey through all the known regions of the Pokémon world.\n\n(Source: Anilist)",
+  "mean": 7.43,
+  "rank": 2147,
+  "popularity": 5141,
+  "num_list_users": 17240,
+  "num_scoring_users": 9251,
+  "nsfw": "white",
+  "created_at": "2021-09-02T13:19:56+00:00",
+  "updated_at": "2022-04-10T20:25:33+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 480,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

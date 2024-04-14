@@ -1,0 +1,54 @@
+{
+  "id": 40464,
+  "title": "Kidou Senshi Gundam: Hikaru Inochi Chronicle U.C.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1417/103338.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1417/103338l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Gundam: The Light of Life Chronicle U.C.",
+    "ja": "機動戦士ガンダム 光る命 Chronicle U.C."
+  },
+  "start_date": "2019-09-26",
+  "end_date": "2019-09-26",
+  "synopsis": "As the Turn A Gundam's Moonlight Butterfly begins to reduce civilization to dust, the ghosts of Amuro Ray and Lalah Sun look back on the history of the Universal Century.\n\nA bonus video recapping the Universal Century included in the first four releases in the \"U.C. Gundam Blu-ray Libraries\" series of Blu-ray Disc re-releases of the Universal Century installments in the Gundam franchise to commemorate the overall franchise's 40th anniversary, with a story written by Harutoshi Fukui.",
+  "mean": 6.38,
+  "rank": 7581,
+  "popularity": 10100,
+  "num_list_users": 2835,
+  "num_scoring_users": 584,
+  "nsfw": "white",
+  "created_at": "2019-10-01T01:54:41+00:00",
+  "updated_at": "2022-11-07T16:48:24+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2643,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

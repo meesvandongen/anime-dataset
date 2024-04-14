@@ -1,0 +1,69 @@
+{
+  "id": 3652,
+  "title": "Higurashi no Naku Koro ni Rei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/14113.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/14113l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Higurashi no Naku Koro ni 3rd Season",
+      "Higurashi no Naku Koro ni Dai San Ki"
+    ],
+    "en": "Higurashi: When They Cry – Rei",
+    "ja": "ひぐらしのなく頃に礼"
+  },
+  "start_date": "2009-02-25",
+  "end_date": "2009-08-21",
+  "synopsis": "The infamous series of unexplainable murders in Hinamizawa have been solved and the chains of fate have broken due to the efforts of Rika Furude and her friends. Rika believes she has finally obtained the normal and peaceful life she desired with her friends; however, she is proven wrong when the wheels of fate begin turning once again after an unfortunate accident.\n \nRika suddenly finds herself in a \"perfect\" world, the constant cycle of brutal killings having never taken place, where all of her friends are content and satisfied. Not wanting to abandon the world that she fought so hard for, she learns she must destroy an essential \"key\" to get back. But can Rika abandon the faultless world she is given the chance to live in, after all of her battles have brought her this far?\n\n[Written by MAL Rewrite]",
+  "mean": 7.41,
+  "rank": 2215,
+  "popularity": 1224,
+  "num_list_users": 194792,
+  "num_scoring_users": 103509,
+  "nsfw": "white",
+  "created_at": "2007-12-31T12:06:57+00:00",
+  "updated_at": "2024-03-06T12:19:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1793,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

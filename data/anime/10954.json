@@ -1,0 +1,54 @@
+{
+  "id": 10954,
+  "title": "Toei Robot Girls",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/56489.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/56489l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "東映ロボットガールズ"
+  },
+  "start_date": "2011-07-02",
+  "end_date": "2011-07-02",
+  "synopsis": "A pilot film streamed on the anime studio Toei Animation's website. The female leads in the film are dressed as various famous robots in Toei's anime catalog—the girls are personifications of robots in the Gaiking (\"Gai-chan\"), Magnerobo Ga-Keen (\"Gacky\"), and Superhuman Combat Team Baratack (\"Bara-tan\") and the newly added character is from the anime Planet Robot Danguard Ace.\n\n(Source: ANN)",
+  "mean": 5.27,
+  "rank": 12204,
+  "popularity": 10488,
+  "num_list_users": 2527,
+  "num_scoring_users": 1027,
+  "nsfw": "white",
+  "created_at": "2011-07-14T07:29:57+00:00",
+  "updated_at": "2021-08-01T11:28:25+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 79,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

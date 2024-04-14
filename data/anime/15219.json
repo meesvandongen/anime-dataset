@@ -1,0 +1,57 @@
+{
+  "id": 15219,
+  "title": ".hack//Versus: The Thanatos Report",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/42325.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/42325l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      ".hack//Versus OVA",
+      ".hack//Versus Special"
+    ],
+    "en": "",
+    "ja": ".hack//Versus タナトスレポート"
+  },
+  "start_date": "2012-06-28",
+  "end_date": "2012-06-28",
+  "synopsis": "Bundled along with a free game, .hack//Versus, on the .hack//Sekai no Mukou ni Blu-ray disc, is a special called \"The Thanatos Report\". This special connects the events of the game with the events of the movie and \"reveal the last truth\". The protagonist of the special is David; a character who also appears in the main movie. The special takes place in both 2024 (the year in which the movie takes place) and 2025 (the year in which the game .hack//Versus takes place). \n\n(Source: AnimeReviews.co) ",
+  "mean": 6.28,
+  "rank": 8170,
+  "popularity": 7167,
+  "num_list_users": 7514,
+  "num_scoring_users": 2575,
+  "nsfw": "white",
+  "created_at": "2012-08-18T01:15:35+00:00",
+  "updated_at": "2022-03-29T15:13:36+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1260,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 298,
+      "name": "Anima"
+    }
+  ]
+}

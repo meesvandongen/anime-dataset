@@ -1,0 +1,54 @@
+{
+  "id": 54760,
+  "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1079/136949.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1079/136949l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation",
+    "ja": "ライザのアトリエ ~常闇の女王と秘密の隠れ家~"
+  },
+  "start_date": "2023-07-02",
+  "end_date": "2023-09-17",
+  "synopsis": "From her hometown to her daily life on Kurken Island, everything surrounding Reisalin \"Ryza\" Stout is painfully ordinary. Despite being the daughter of a hardworking farmer, she would rather go on pretend adventures as she explores almost every corner of the island. However, the fact that it is against the local customs to venture off Kurken Island irritates her to no end.\n\nOne day, wishing for something interesting to finally happen in her life, Ryza escapes on a boat with her two good friends: the bookworm Tao Mongarten and the aspiring warrior Lent Marslink. Arriving at a nearby forest, the trio stumbles into Klaudia Valentz, the daughter of a visiting merchant who also wandered off into the woods.\n\nAs the naive and underprepared group ventures further, they run into dangerous monsters. Thankfully, they are rescued by the alchemist Empel Vollmer and his skilled bodyguard Lila Decyrus. This fateful encounter will lead Ryza to the key that will change her life forever—the creative and wonderful world of alchemy.\n\n[Written by MAL Rewrite]",
+  "mean": 6.43,
+  "rank": 7288,
+  "popularity": 2708,
+  "num_list_users": 64245,
+  "num_scoring_users": 19178,
+  "nsfw": "white",
+  "created_at": "2023-03-19T13:45:35+00:00",
+  "updated_at": "2023-07-31T16:48:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

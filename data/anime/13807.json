@@ -1,0 +1,52 @@
+{
+  "id": 13807,
+  "title": "Corpse Party: Missing Footage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/38331.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/38331l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Corpse Party OVA"
+    ],
+    "en": "",
+    "ja": "コープスパーティー Missing Footage"
+  },
+  "start_date": "2012-08-02",
+  "end_date": "2012-08-02",
+  "synopsis": "Someday a group of classmates will perform a charm at night after school—the Happy Sachiko charm. This paper doll ritual is meant to make them stay friends forever, but performing it incorrectly will lead them to be dragged down into a dilapidated phantom of Tenjin Elementary School, which had been torn down years ago. Trapped until they can reunite and perform the charm correctly, the students will have to solve the mystery of the haunted school in order to make it out alive.\n\nBefore that ill-fated event, however, the friends led ordinary lives. Corpse Party: Missing Footage reveals an insight into the students' lives on the day before they were thrust into a waking nightmare.\n\n[Written by MAL Rewrite]",
+  "mean": 5.96,
+  "rank": 9759,
+  "popularity": 1598,
+  "num_list_users": 141911,
+  "num_scoring_users": 75627,
+  "nsfw": "white",
+  "created_at": "2012-04-14T14:45:34+00:00",
+  "updated_at": "2022-04-13T10:35:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 688,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 163,
+      "name": "asread."
+    }
+  ]
+}

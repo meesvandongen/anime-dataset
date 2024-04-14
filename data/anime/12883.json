@@ -1,0 +1,56 @@
+{
+  "id": 12883,
+  "title": "Tsuritama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/69909.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/69909l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fishing Ball"
+    ],
+    "en": "tsuritama",
+    "ja": "つり球"
+  },
+  "start_date": "2012-04-13",
+  "end_date": "2012-06-29",
+  "synopsis": "Saving the world... by fishing?\n\nYuki Sanada has always felt like a fish out of water. Socially awkward and anxious, he struggles to fit in with his surroundings and moves from town to town with his grandma. As he and his grandma settle into the charming seaside town of Enoshima, Yuki hopes for a fresh start. However, his reputation at school is jeopardized by the arrival of fellow transfer student Haru. The eccentric Haru immediately makes a splash, wildly claiming to be an alien and declaring that Yuki is his friend. Pairing the reluctant Yuki with their classmate and fishing talent, Natsuki Usami, he tasks both of them with the absurd mission of saving the world from a mysterious threat in the ocean. Mischief and hijinks ensue, as these three embark on a whimsical adventure filled with laughs, heart, and self-discovery!\n\n[Written by MAL Rewrite]",
+  "mean": 7.65,
+  "rank": 1358,
+  "popularity": 1389,
+  "num_list_users": 168783,
+  "num_scoring_users": 59902,
+  "nsfw": "white",
+  "created_at": "2012-02-02T20:27:51+00:00",
+  "updated_at": "2023-07-12T10:02:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:15"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

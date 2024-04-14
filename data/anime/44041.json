@@ -1,0 +1,54 @@
+{
+  "id": 44041,
+  "title": "SD Gundam World Heroes",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1390/115029.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1390/115029l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "SD GUNDAM WORLD HEROES",
+    "ja": "SDガンダムワールド ヒーローズ"
+  },
+  "start_date": "2021-04-08",
+  "end_date": "2021-09-16",
+  "synopsis": "The balance of the worlds is maintained by heroes. Suddenly, a red-hot meteor falls upon one of these worlds, called Neo World. An amnesiac youth named Wukong Impulse Gundam appears at the point where it landed. The chaos that starts with this incident spreads through the other worlds, one after another. At the same time, Zhuge Liang Freedom Gundam learns via astrology of an impending disaster. He and his sworn friend Liu Bei Unicorn Gundam take action to save the worlds from this crisis, and begin a journey along with Wukong.\n\nWhat will Wukong Impulse Gundam think as he meets the heroes of each world? Will this youth bring about peace or catastrophe? Now begins a new story of heroes!\n\n(Source: Official Site)",
+  "mean": 5.78,
+  "rank": 10562,
+  "popularity": 11550,
+  "num_list_users": 1793,
+  "num_scoring_users": 484,
+  "nsfw": "gray",
+  "created_at": "2020-11-17T23:37:26+00:00",
+  "updated_at": "2023-07-29T11:07:42+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1444,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

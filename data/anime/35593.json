@@ -1,0 +1,63 @@
+{
+  "id": 35593,
+  "title": "Meiken Lassie: Yume ni Mukatte Hashire!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/85785.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/85785l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai Meisaku Gekijou",
+      "Famous Dog Lassie",
+      "Great Dog Lassie",
+      "Lassie Come-Home"
+    ],
+    "en": "",
+    "ja": "名犬ラッシー 夢に向かって走れ!"
+  },
+  "start_date": "1997-02-25",
+  "end_date": "1997-02-25",
+  "synopsis": "The unaired episode 26 of Meiken Lassie.",
+  "mean": 6.47,
+  "rank": 7068,
+  "popularity": 16756,
+  "num_list_users": 430,
+  "num_scoring_users": 120,
+  "nsfw": "white",
+  "created_at": "2017-05-16T06:17:37+00:00",
+  "updated_at": "2022-11-25T20:24:37+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 1411,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

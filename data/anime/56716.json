@@ -1,0 +1,62 @@
+{
+  "id": 56716,
+  "title": "Dubu Wangu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1720/138642.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1720/138642l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Glorious Revenge of Ye Feng",
+    "ja": "独步万古"
+  },
+  "start_date": "2023-09-29",
+  "end_date": "2024-02-06",
+  "synopsis": "The protagonist genius, Ye Feng, was betrayed and attacked by his senior, and other evildoers, after he refines the Divine Realm pill that would lead him towards Supreme Realm. He managed to fend off and consume the pill, yet finds himself inhabiting the body of his descendant, who bears his name after 500 years later. He pledge to save his current lineage and seeks vengeance, Yefeng embarked on the path of cultivation again, practicing hard and improving while exploring the mystery of the way of heaven. ",
+  "mean": 6.87,
+  "rank": 4852,
+  "popularity": 14934,
+  "num_list_users": 644,
+  "num_scoring_users": 209,
+  "nsfw": "white",
+  "created_at": "2023-09-22T04:39:44+00:00",
+  "updated_at": "2024-02-07T16:39:20+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2059,
+      "name": "Suoyi Technology"
+    }
+  ]
+}

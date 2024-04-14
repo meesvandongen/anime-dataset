@@ -1,0 +1,72 @@
+{
+  "id": 3731,
+  "title": "Itazura na Kiss",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/19933.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/19933l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Naughty Kiss",
+      "Teasing Kiss",
+      "Mischievous Kiss",
+      "Itazurana Kiss",
+      "It Started With A Kiss"
+    ],
+    "en": "ItaKiss",
+    "ja": "イタズラなKiss"
+  },
+  "start_date": "2008-04-05",
+  "end_date": "2008-09-25",
+  "synopsis": "When her newly-built home is razed to the ground by an earthquake, low-achieving, clumsy, and troublesome third-year high school student Kotoko Aihara is forced to share a roof with the school's—and possibly Japan's—smartest student, Naoki Irie. Kotoko is not actually a complete stranger to Irie-kun; unfortunately, a single love letter that she tried to give him in the past has already sealed her fate as far as he is concerned. Throw in some quirky friends and a meddlesome mother, and Kotoko might not even have a snowball's chance in hell of winning the older Irie boy's heart. Yet Kotoko remains optimistic that, because she now lives in his house, her unattainable crush on the genius since the beginning of high school has never been more within reach.\n\n[Written by MAL Rewrite]",
+  "mean": 7.41,
+  "rank": 2216,
+  "popularity": 857,
+  "num_list_users": 282635,
+  "num_scoring_users": 146075,
+  "nsfw": "white",
+  "created_at": "2008-01-14T16:24:11+00:00",
+  "updated_at": "2023-09-25T23:58:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "02:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 30346,
+  "title": "Doukyuusei (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/78606.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/78606l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Doukyusei -Classmates-",
+    "ja": "同級生"
+  },
+  "start_date": "2016-02-20",
+  "end_date": "2016-02-20",
+  "synopsis": "Hikaru Kusakabe is a normal, carefree boy in a rock band who is always focused on the present. During the summer, his entire class is forced to participate in an upcoming chorus festival. By coincidence, he discovers his classmate Rihito Sajou—known for being an honor student with excellent grades—practicing his singing alone. Sajou just cannot seem to get their class' song right, and Kusakabe, delighted at seeing a new side of his straight-laced classmate, offers to help him prepare for the event.\n\nAlthough their lives and personalities are total opposites, they begin to grow closer as time progresses. But with the pressure of an unknown future, what will become of them and their growing relationship?\n\n[Written by MAL Rewrite]",
+  "mean": 8.28,
+  "rank": 284,
+  "popularity": 899,
+  "num_list_users": 268961,
+  "num_scoring_users": 144328,
+  "nsfw": "white",
+  "created_at": "2015-03-16T18:37:30+00:00",
+  "updated_at": "2023-09-07T08:04:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 3600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 47328,
+  "title": "Q Tao Xiao Ka Xiu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1273/130729.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1273/130729l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Qtee & TJ",
+    "ja": "Q淘小咖秀"
+  },
+  "start_date": "2016-08-01",
+  "synopsis": "",
+  "rank": 17323,
+  "popularity": 24224,
+  "num_list_users": 75,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2021-02-03T07:54:07+00:00",
+  "updated_at": "2022-11-07T14:13:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "pg",
+  "studios": []
+}

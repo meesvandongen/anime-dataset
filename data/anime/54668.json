@@ -1,0 +1,48 @@
+{
+  "id": 54668,
+  "title": "A Cappella Samurai: Harmony-tai wa Edo wo Sukuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1051/133999.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1051/133999l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アカペラ侍～ハモリ隊は江戸を救う～"
+  },
+  "start_date": "2022-06-30",
+  "end_date": "2023-03-30",
+  "synopsis": "",
+  "rank": 18077,
+  "popularity": 21743,
+  "num_list_users": 126,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2023-03-05T04:47:39+00:00",
+  "updated_at": "2024-02-29T06:38:41+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 480,
+  "rating": "pg_13",
+  "studios": []
+}

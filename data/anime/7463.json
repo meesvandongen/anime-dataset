@@ -1,0 +1,60 @@
+{
+  "id": 7463,
+  "title": "Weiß Survive R",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/24032.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/24032l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Weiss Survive R"
+    ],
+    "en": "",
+    "ja": "ヴァイス・サヴァイヴR"
+  },
+  "start_date": "2009-12-05",
+  "end_date": "2010-03-27",
+  "synopsis": "The second season of Weiß Survive.",
+  "mean": 6.01,
+  "rank": 9543,
+  "popularity": 6035,
+  "num_list_users": 11418,
+  "num_scoring_users": 5036,
+  "nsfw": "white",
+  "created_at": "2009-11-04T20:49:09+00:00",
+  "updated_at": "2021-01-11T01:03:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:25"
+  },
+  "source": "card_game",
+  "average_episode_duration": 150,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 101,
+      "name": "Studio Hibari"
+    }
+  ]
+}

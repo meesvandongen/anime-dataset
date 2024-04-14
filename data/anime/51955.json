@@ -1,0 +1,47 @@
+{
+  "id": 51955,
+  "title": "Pokemon Moncolle Story",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1030/124123.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1030/124123l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokemon stop motion animation"
+    ],
+    "en": "Pokémon Kids TV: Moncolle Story",
+    "ja": "ポケモン モンコレストーリ"
+  },
+  "start_date": "2018-03-30",
+  "end_date": "2018-06-15",
+  "synopsis": "The Pokémon Company has unveiled a new series of adorable stop motion videos to promote the ultra popular Pokémon Moncolle figures. Each video is brief and depicts a story consisting of events in which little versions of recognizable Pokémon take part in, featuring Pikachu, Poipole, Mimikyu, Rowlet, Zeraora, Buzzwole, Charizard, Litten, Popplio, Groudon, Garchomp, Rockruff, Rayquaza and more. \n\n(Source: pokemonblog.com)",
+  "mean": 5.54,
+  "rank": 11484,
+  "popularity": 14090,
+  "num_list_users": 826,
+  "num_scoring_users": 278,
+  "nsfw": "white",
+  "created_at": "2022-05-27T21:41:27+00:00",
+  "updated_at": "2022-05-28T06:12:43+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 99,
+  "rating": "pg",
+  "studios": []
+}

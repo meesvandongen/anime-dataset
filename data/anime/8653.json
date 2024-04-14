@@ -1,0 +1,51 @@
+{
+  "id": 8653,
+  "title": "Mahou Shoujo Isuka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1799/104261.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1799/104261l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Magical Girl Isuka"
+    ],
+    "en": "",
+    "ja": "魔法少女イスカ"
+  },
+  "start_date": "2010-04-24",
+  "end_date": "2011-08-26",
+  "synopsis": "The evil stone conceives a part of the king of the hell's power in a different world. To prevent his revival, the stone is implanted into a body of a magical girl! Now the clans from the hell follow after her. The evil stone cannot be regained by a simple destruction of the body. Thus, they start disgracing the magical girl in various ways!\n\n(Source: dlsite)",
+  "mean": 6.27,
+  "popularity": 8075,
+  "num_list_users": 5607,
+  "num_scoring_users": 1904,
+  "nsfw": "gray",
+  "created_at": "2010-04-21T21:08:30+00:00",
+  "updated_at": "2023-09-21T04:00:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1645,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 407,
+      "name": "Studio 9 Maiami"
+    }
+  ]
+}

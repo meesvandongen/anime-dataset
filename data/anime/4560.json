@@ -1,0 +1,47 @@
+{
+  "id": 4560,
+  "title": "Matou Kitan Zankan!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/62817.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/62817l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mato Kitan Zankan"
+    ],
+    "en": "",
+    "ja": "魔討綺譚 ZANKAN（斬奸）!"
+  },
+  "start_date": "1996-09-27",
+  "end_date": "1997-01-24",
+  "synopsis": "Based on manga by Ruuen Rouga, who also did the original work for Trouble Evocation.\n\n(Source: AniDB)",
+  "mean": 5.05,
+  "popularity": 13061,
+  "num_list_users": 1093,
+  "num_scoring_users": 324,
+  "nsfw": "gray",
+  "created_at": "2008-05-24T04:54:20+00:00",
+  "updated_at": "2017-08-10T22:21:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1693,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

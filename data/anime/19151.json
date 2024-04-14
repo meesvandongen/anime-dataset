@@ -1,0 +1,70 @@
+{
+  "id": 19151,
+  "title": "Walkure Romanze",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/54969.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/54969l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Valkyrie Romanze",
+      "Walkure Romance",
+      "Walroma"
+    ],
+    "en": "",
+    "ja": "ワルキューレロマンツェ"
+  },
+  "start_date": "2013-10-07",
+  "end_date": "2013-12-23",
+  "synopsis": "Taking place at Winford Academy located in an old town called Helen's Hill, the story is all about knights and the sport of jousting. At this school, students learn how to become knights, ride horses and joust properly. The main character is a young man named Takahiro Mizuno who was training to become a knight and jouster but after suffering an injury he dropped out of the knight program and joined the begleiter (assistant) program instead. Due to his animal handling skills and former experience as a jouster, this makes him a hot commodity. Multiple beautiful girls in the school want him to become their personal begleiter, though Takahiro always refuses their offers.\n\nOne day a bizarre accident causes his friend, Mio Kisaski, to be challenged to a jousting duel despite her not actually being a knight. Takahiro agrees to become her temporary begleiter, but that ends up only being the beginning of their partnership as she enrolls in the annual tournament. ",
+  "mean": 6.3,
+  "rank": 8055,
+  "popularity": 1623,
+  "num_list_users": 139700,
+  "num_scoring_users": 54653,
+  "nsfw": "white",
+  "created_at": "2013-06-20T06:05:33+00:00",
+  "updated_at": "2022-04-22T20:03:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:30"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

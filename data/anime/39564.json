@@ -1,0 +1,45 @@
+{
+  "id": 39564,
+  "title": "Kenketsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1341/99893.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1341/99893l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "けんけつ"
+  },
+  "start_date": "2019-03-19",
+  "end_date": "2019-03-19",
+  "synopsis": "A Japanese Red Cross Society commissioned work promoting blood donations by helping people overcome their fear of the process.",
+  "mean": 5.87,
+  "rank": 10163,
+  "popularity": 17120,
+  "num_list_users": 401,
+  "num_scoring_users": 187,
+  "nsfw": "white",
+  "created_at": "2019-03-20T08:18:25+00:00",
+  "updated_at": "2019-04-04T12:38:23+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 172,
+  "rating": "g",
+  "studios": []
+}

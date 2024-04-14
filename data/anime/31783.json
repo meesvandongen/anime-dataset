@@ -1,0 +1,61 @@
+{
+  "id": 31783,
+  "title": "Yowamushi Pedal: New Generation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/83782.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/83782l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yowamushi Pedal 3rd Season",
+      "Yowapeda 3rd Season"
+    ],
+    "en": "",
+    "ja": "弱虫ペダル NEW GENERATION"
+  },
+  "start_date": "2017-01-10",
+  "end_date": "2017-06-27",
+  "synopsis": "Third season of the Yowamushi Pedal series.\n\nWith the team's combined strength, the Sohoku High bicycle racing club beat reigning champions Hakone Academy at the Interhigh national race and achieved an impressive overall victory. Now that their hot summer has ended and third-years Kinjou, Makishima, and Tadokoro have retired from the team, first-year participants in the Interhigh Onoda Sakamichi, Imaizumi Shunsuke, and Naruko Shoukichi, along with their new captain second-year Teshima Junta and vice-captain Aoyagi Hajime begin preparing as a \"new team\" for their second consecutive championship at the next Interhigh. In order to retake their throne, their rivals Hakone Academy have also incorporated new members and begun training as a new team. Kyoto Fushimi High is lead by the monstrous racer Midousuji Akira. The nation's top schools are all honing their skills to reach the top of the Interhigh.\n\n(Source: Crunchyroll)",
+  "mean": 7.64,
+  "rank": 1364,
+  "popularity": 2360,
+  "num_list_users": 80778,
+  "num_scoring_users": 38799,
+  "nsfw": "white",
+  "created_at": "2015-10-06T14:08:03+00:00",
+  "updated_at": "2023-01-09T01:41:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

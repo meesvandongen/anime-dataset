@@ -1,0 +1,68 @@
+{
+  "id": 37490,
+  "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1861/91089.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1861/91089l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Phoenix Wright: Ace Attorney Season 2"
+    ],
+    "en": "Ace Attorney Season 2",
+    "ja": "逆転裁判 ～その「真実」、異議あり！～ Season 2"
+  },
+  "start_date": "2018-10-06",
+  "end_date": "2019-03-30",
+  "synopsis": "Defense attorney Ryuuichi Naruhodou is still hard at work defending the falsely accused with his knack for last-minute turnabouts. With his trusty assistant and medium-in-training Mayoi Ayasato in tow, Ryuuichi's fame as a champion for the innocent steadily grows. But this newfound success attracts the attention of the coffee-loving, masked Godot⁠—a mysterious rookie prosecutor who bears an inexplicable grudge against Ryuuichi.\n\nWith the help of their allies, Ryuuichi and Mayoi take this new challenger head-on and search for the reason behind his appearance. But before long, the first two cases from the career of Mayoi's late sister Chihiro Ayasato become critical to solving a fantastical murder mystery, continuing the bloody saga of the tumultuous Ayasato clan. Will Ryuuichi once again be able to overcome the odds and find the truths hidden within the web of lies?\n\n[Written by MAL Rewrite]",
+  "mean": 7.17,
+  "rank": 3426,
+  "popularity": 3471,
+  "num_list_users": 41042,
+  "num_scoring_users": 17034,
+  "nsfw": "white",
+  "created_at": "2018-03-16T00:36:59+00:00",
+  "updated_at": "2022-08-21T03:58:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

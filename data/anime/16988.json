@@ -1,0 +1,56 @@
+{
+  "id": 16988,
+  "title": "Sore Ike! Anpanman: Anpanman to Christmas no Hoshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/45570.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/45570l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soreike! Anpanman: Anpanman to Christmas no Hoshi",
+      "Go! Anpanman: Anpanman and the Star of Christmas"
+    ],
+    "en": "",
+    "ja": "それいけ! アンパンマン アンパンそれいけ! アンパンマン アンパンマンとクリスマスの星"
+  },
+  "start_date": "2004-12-24",
+  "end_date": "2004-12-24",
+  "synopsis": "A special Christmas episode. ",
+  "mean": 6.08,
+  "rank": 9159,
+  "popularity": 16667,
+  "num_list_users": 436,
+  "num_scoring_users": 120,
+  "nsfw": "white",
+  "created_at": "2013-01-02T14:13:52+00:00",
+  "updated_at": "2019-09-07T16:40:53+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "average_episode_duration": 2880,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

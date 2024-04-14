@@ -1,0 +1,79 @@
+{
+  "id": 38450,
+  "title": "Mo Dao Zu Shi: Xian Yun Pian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1404/106707.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1404/106707l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Grandmaster of Demonic Cultivation 2",
+      "The Founder of Diabolism 2",
+      "Mo Dao Zu Shi 2nd Season",
+      "The Founder of Diabolism: The Reborn"
+    ],
+    "en": "The Founder of Diabolism Season 2",
+    "ja": "魔道祖师 羡云篇"
+  },
+  "start_date": "2019-08-03",
+  "end_date": "2019-09-21",
+  "synopsis": "Continuing his masquerade as the deranged lunatic from the Lanling Jin Clan, Wei Wuxian resides in the Cloud Recesses while his former cultivation classmate, Lan Wangji, searches for answers about the demonic severed arm they have in custody. With an overwhelming dark energy emanating from the arm, the two are forced to work together in order to keep it contained. However, the demonic arm is not the only dark force lurking in the region, and as spiritual tensions rise in the mountains of the Gusu Lan Clan, it is up to the two of them to try and restore the natural order.\n\nThe story of Wei Wuxian's fall from grace continues as more light is shed on his descent into the path of demonic cultivation. The demonic arm only further strains his mischievous spirit. This is the time for him to prove that he has truly broken free from the forbidden path and is not the maniacal sorcerer that everyone remembers him to be.\n\n[Written by MAL Rewrite]",
+  "mean": 8.37,
+  "rank": 200,
+  "popularity": 2007,
+  "num_list_users": 105342,
+  "num_scoring_users": 49106,
+  "nsfw": "white",
+  "created_at": "2018-10-02T11:53:52+00:00",
+  "updated_at": "2023-01-24T01:17:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1350,
+      "name": "B.CMAY PICTURES"
+    }
+  ]
+}

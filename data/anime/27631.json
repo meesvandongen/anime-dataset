@@ -1,0 +1,62 @@
+{
+  "id": 27631,
+  "title": "God Eater",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/73852.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/73852l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "God Eater",
+    "ja": "GOD EATER"
+  },
+  "start_date": "2015-07-12",
+  "end_date": "2016-03-26",
+  "synopsis": "The year is 2071. Humanity has been pushed to the brink of extinction following the emergence of man-eating monsters called \"Aragami\" that boast an immunity to conventional weaponry. They ravaged the land, consuming almost everything in their path and leaving nothing in their wake. To combat them, an organization named Fenrir was formed as a last-ditch effort to save humanity through the use of \"God Eaters\"—special humans infused with Oracle cells, allowing them to wield the God Arc, the only known weapon capable of killing an Aragami. One such God Eater is Lenka Utsugi, a New-Type whose God Arc takes the form of both blade and gun.\n\nNow, as one of Fenrir's greatest weapons, Lenka must master his God Arc if he is to fulfill his desire of wiping out the Aragami once and for all. The monsters continue to be born en masse while the remnants of humanity struggle to survive the night. Only God Eaters stand between the Aragami and complete and total annihilation of the human race.\n\n[Written by MAL Rewrite]",
+  "mean": 7.19,
+  "rank": 3318,
+  "popularity": 401,
+  "num_list_users": 545558,
+  "num_scoring_users": 255512,
+  "nsfw": "white",
+  "created_at": "2014-09-18T11:41:52+00:00",
+  "updated_at": "2022-04-17T13:13:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1435,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

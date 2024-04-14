@@ -1,0 +1,49 @@
+{
+  "id": 17245,
+  "title": "Christmas",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/46039.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/46039l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クリスマス"
+  },
+  "start_date": "2010-11-16",
+  "end_date": "2010-11-16",
+  "synopsis": "A girl creates a talisman and makes a wish for good weather on Christmas day. A fantastical and destructive event plays out that brings more than good weather.\n\nThe song done by the band \"amazarashi\" as a part of their ワンルーム叙事詩/Epic Studio album.\n\n(Source: AniDB)",
+  "mean": 5.43,
+  "popularity": 13262,
+  "num_list_users": 1033,
+  "num_scoring_users": 570,
+  "nsfw": "white",
+  "created_at": "2013-01-20T23:04:51+00:00",
+  "updated_at": "2019-10-18T18:34:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 384,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2773,
+      "name": "Transistor Studio"
+    }
+  ]
+}

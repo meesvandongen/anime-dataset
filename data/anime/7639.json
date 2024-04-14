@@ -1,0 +1,57 @@
+{
+  "id": 7639,
+  "title": "Shounen Santa no Daibouken!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/18412.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/18412l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shonen Santa no Daiboken",
+      "The Great Adventures of Young Santa",
+      "The Adventures of Young Santa Claus"
+    ],
+    "en": "",
+    "ja": "少年サンタの大冒険！"
+  },
+  "start_date": "1996-04-06",
+  "end_date": "1996-09-21",
+  "synopsis": "Based on L. Frank Baum' novel: The Life and Adventures of Santa Claus.",
+  "rank": 13386,
+  "popularity": 16057,
+  "num_list_users": 495,
+  "num_scoring_users": 92,
+  "nsfw": "white",
+  "created_at": "2009-12-02T06:53:12+00:00",
+  "updated_at": "2023-06-05T05:41:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:00"
+  },
+  "source": "novel",
+  "average_episode_duration": 1420,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 56362,
+  "title": "Robocar Poli 5",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1181/137907.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1181/137907l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "로보카 폴리 시즌5"
+  },
+  "start_date": "2022-03-04",
+  "end_date": "2022-12-13",
+  "synopsis": "",
+  "rank": 17527,
+  "popularity": 23840,
+  "num_list_users": 80,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2023-08-19T12:15:44+00:00",
+  "updated_at": "2023-11-04T15:47:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 840,
+  "rating": "pg",
+  "studios": []
+}

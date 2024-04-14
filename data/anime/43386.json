@@ -1,0 +1,48 @@
+{
+  "id": 43386,
+  "title": "Zhang Zai Wu Li De Zhu Sun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1258/118165.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1258/118165l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zhangzai Wuli De Zhusun",
+      "The Bamboo Shoot Growing in the House"
+    ],
+    "en": "",
+    "ja": "长在屋里的竹笋"
+  },
+  "start_date": "1976-10-01",
+  "end_date": "1976-10-01",
+  "synopsis": "",
+  "rank": 15186,
+  "popularity": 21336,
+  "num_list_users": 144,
+  "num_scoring_users": 38,
+  "nsfw": "white",
+  "created_at": "2020-10-10T11:35:07+00:00",
+  "updated_at": "2021-09-27T20:41:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1976,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1089,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 471,
+      "name": "Shanghai Animation Film Studio"
+    }
+  ]
+}

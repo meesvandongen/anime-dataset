@@ -1,0 +1,68 @@
+{
+  "id": 39071,
+  "title": "Machikado Mazoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1633/111518.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1633/111518l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Street Corner Demon"
+    ],
+    "en": "The Demon Girl Next Door",
+    "ja": "まちカドまぞく"
+  },
+  "start_date": "2019-07-12",
+  "end_date": "2019-09-27",
+  "synopsis": "After a strange dream of a mysterious ancestor, high school student Yuuko Yoshida wakes to see that she has grown demonic horns and a tail. Dazed and confused, her mother reveals to her a dark family secret: her family is descended from a Dark Clan that was banished to live powerless and destitute by their mortal enemies, the magical girls of the Light Clan. The only way to lift their ancestry's curse is for Yuuko to find a magical girl, murder her, and splatter her blood all over her ancestor's Demon God statue.\n\nFortunately for \"Shadow Mistress Yuuko,\" a magical girl saves her from being run over by an oncoming truck. Unfortunately, Momo Chiyoda happens to be Yuuko's classmate at Sakuragaoka High and is much stronger than her in both strength and endurance. Taking pity on her wimpy assailant, the magical girl agrees to train Yuuko and help her unlock her dormant powers. Now, Yuuko must rise up and defeat her generous frenemy to save her family from the terrible grip of poverty.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.65,
+  "rank": 1352,
+  "popularity": 1422,
+  "num_list_users": 164457,
+  "num_scoring_users": 63350,
+  "nsfw": "white",
+  "created_at": "2019-01-26T07:06:39+00:00",
+  "updated_at": "2022-11-25T11:26:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:28"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

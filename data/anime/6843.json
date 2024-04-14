@@ -1,0 +1,47 @@
+{
+  "id": 6843,
+  "title": "Kangaroo no Tanjoubi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/15847.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/15847l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kangaroo no Tanjobi"
+    ],
+    "en": "Baby Kangaroo's Birthday Surprise",
+    "ja": "カンガルーの誕生日"
+  },
+  "start_date": "1941-02",
+  "end_date": "1941-02",
+  "synopsis": "A baby kangaroo's family and friends try to save him from a bad old wolf.  Short film from 1940.",
+  "mean": 5.3,
+  "rank": 12142,
+  "popularity": 12682,
+  "num_list_users": 1219,
+  "num_scoring_users": 624,
+  "nsfw": "white",
+  "created_at": "2009-07-19T03:05:07+00:00",
+  "updated_at": "2019-12-19T21:19:43+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1941,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 589,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": 21335,
+  "title": "Double Circle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/56319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/56319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ダブルサークル"
+  },
+  "start_date": "2013-12-19",
+  "end_date": "2014-09-26",
+  "synopsis": "\"Double Circle\" means the community which evolves infinitely by the energy and ICT in the smart community project.\nPeople who live in Kawasaki become a hero, and beat an enemy who steals near from the time-stopped world to the evolving town Kawasaki.\n\n(Source: Official website)",
+  "mean": 4.8,
+  "rank": 12871,
+  "popularity": 7971,
+  "num_list_users": 5770,
+  "num_scoring_users": 1927,
+  "nsfw": "white",
+  "created_at": "2013-11-21T05:29:25+00:00",
+  "updated_at": "2022-03-03T14:14:44+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 368,
+  "rating": "pg_13",
+  "studios": []
+}

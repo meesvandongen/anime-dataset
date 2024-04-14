@@ -1,0 +1,66 @@
+{
+  "id": 40109,
+  "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1276/102048.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1276/102048l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "蒼穹のファフナー Dead Aggressor THE BEYOND"
+  },
+  "start_date": "2019-11-08",
+  "end_date": "2019-11-08",
+  "synopsis": "Episodes 4-6 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series. ",
+  "mean": 7.3,
+  "rank": 2722,
+  "popularity": 8944,
+  "num_list_users": 4238,
+  "num_scoring_users": 955,
+  "nsfw": "white",
+  "created_at": "2019-07-14T02:26:46+00:00",
+  "updated_at": "2021-11-05T15:41:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 898,
+      "name": "I.Gzwei"
+    }
+  ]
+}

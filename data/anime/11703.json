@@ -1,0 +1,64 @@
+{
+  "id": 11703,
+  "title": "Code:Breaker",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/57251.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/57251l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Code Breaker"
+    ],
+    "en": "Code:Breaker",
+    "ja": "CØDE:BREAKER"
+  },
+  "start_date": "2012-10-07",
+  "end_date": "2012-12-23",
+  "synopsis": "Although cheerful and delicate, Sakura Sakurakouji is a skilled martial artist with a sense of fairness that never falters—no matter the situation. Upon witnessing people burning in blue flames while on a bus ride home, she calls the police to bring their murderer to justice only to find that no evidence remains. However, all her doubts about what she saw vanish when the next day, the new transfer student Rei Oogami joins her class; he is the very boy she watched commit murder in cold blood.\n\nRei is kind, sweet, and quickly becomes popular, contradicting Sakura's accusations. Soon enough, she learns his true nature: a Code Breaker, or \"one who does not exist.\" To Sakura's shock, Rei—armed with mysterious powers—seeks to exact justice according to the principle of \"an eye for an eye.\" Determined to bring Rei to the right path, Sakura keeps close to him in the hopes of redeeming him from his ways before others are hurt.\n\n[Written by MAL Rewrite]",
+  "mean": 6.71,
+  "rank": 5675,
+  "popularity": 708,
+  "num_list_users": 332030,
+  "num_scoring_users": 161166,
+  "nsfw": "white",
+  "created_at": "2011-09-24T21:15:57+00:00",
+  "updated_at": "2023-10-01T18:57:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 8140,
+  "title": "Konchuu Monogatari Minashigo Hutch (1989)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1216/134554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1216/134554l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "昆虫物語みなしごハッチ"
+  },
+  "start_date": "1989-07-21",
+  "end_date": "1990-08-31",
+  "synopsis": "A remake of the 1970's version.",
+  "mean": 7.18,
+  "rank": 3354,
+  "popularity": 11448,
+  "num_list_users": 1855,
+  "num_scoring_users": 901,
+  "nsfw": "white",
+  "created_at": "2010-02-11T16:03:23+00:00",
+  "updated_at": "2021-04-25T22:29:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 55,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

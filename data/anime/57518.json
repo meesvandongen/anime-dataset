@@ -1,0 +1,56 @@
+{
+  "id": 57518,
+  "title": "Igniter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1287/140342.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1287/140342l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Igniter"
+  },
+  "start_date": "2023-12-13",
+  "end_date": "2023-12-13",
+  "synopsis": "Music video for the song Igniter by Midnight Grand Orchestra.",
+  "mean": 6.42,
+  "popularity": 20033,
+  "num_list_users": 214,
+  "num_scoring_users": 129,
+  "nsfw": "white",
+  "created_at": "2023-12-13T10:16:47+00:00",
+  "updated_at": "2023-12-24T13:19:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 198,
+  "rating": "pg_13",
+  "studios": []
+}

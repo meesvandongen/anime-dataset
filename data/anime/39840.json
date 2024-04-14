@@ -1,0 +1,58 @@
+{
+  "id": 39840,
+  "title": "Ganbare! Kakure Ase Project",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1472/101070.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1472/101070l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ganbare! Kakurease Project",
+      "Do Your Best! Hidden Sweat Project",
+      "Kao Biore"
+    ],
+    "en": "",
+    "ja": "がんばれ！隠れ汗 プロジェクト"
+  },
+  "start_date": "2019-05-17",
+  "end_date": "2019-05-17",
+  "synopsis": "An animated commercial for Kao Biore Sarasara Powder Sheets focuses less on a personal hygiene routine, instead opting to tug at viewers' heartstrings. The ad stars three high school friends, one a flutist named Mina and the other a burgeoning photographer named Akane. Mina finds herself getting wistful as the school year is drawing to a close but through the encouragement of her friends (and some well-timed product placement) she's reinvigorated to make the year the best it can be. \n\n(Source: ANN)",
+  "mean": 5.88,
+  "rank": 10103,
+  "popularity": 12821,
+  "num_list_users": 1170,
+  "num_scoring_users": 426,
+  "nsfw": "white",
+  "created_at": "2019-05-20T20:07:22+00:00",
+  "updated_at": "2021-06-29T14:50:10+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 141,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1837,
+      "name": "G-angle"
+    }
+  ]
+}

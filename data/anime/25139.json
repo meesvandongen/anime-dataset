@@ -1,0 +1,51 @@
+{
+  "id": 25139,
+  "title": "Oh! My Konbu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/64249.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/64249l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "OH!MYコンブ"
+  },
+  "start_date": "1991-05-04",
+  "end_date": "1991-09-28",
+  "synopsis": "Fifth-grader Nabeyama Konbu is the son of a cook in a slice-of-life gourmet comedy that tries to add an element of adventure to slaving in the kitchen. Konbu helps his father solve problems in the world through the judicious use of seasonings, the right choice of menu, and the pleasing of fickle customers.\n\n(Source: AniDB)",
+  "rank": 16964,
+  "popularity": 15972,
+  "num_list_users": 505,
+  "num_scoring_users": 94,
+  "nsfw": "white",
+  "created_at": "2014-07-05T16:27:55+00:00",
+  "updated_at": "2021-09-18T04:02:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": []
+}

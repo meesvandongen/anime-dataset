@@ -1,0 +1,60 @@
+{
+  "id": 48542,
+  "title": "Do It Yourself!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1408/127129.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1408/127129l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DIY!!"
+    ],
+    "en": "Do It Yourself!!",
+    "ja": "Do It Yourself!! -どぅー・いっと・ゆあせるふ-"
+  },
+  "start_date": "2022-10-06",
+  "end_date": "2022-12-22",
+  "synopsis": "The Fourth Industrial Revolution has led to the development of cutting-edge technologies that have rapidly evolved the world. As a result, schools have begun incorporating these technologies into their curriculum, leaving behind the ways of the old. One such institution is the elite Yuyu Girls' Vocational High School, where both Serufu Yua and her childhood friend, Miku \"Purin\" Suride, have applied. Although the tech-savvy Purin is accepted to Yuyu High, the accident-prone Serufu is rejected and enters the traditional Gatagata Girls' High School instead, driving a wedge into their friendship.\n\nOn her way to class one day, Serufu gets into a bike accident, and Rei Yasaku, a passerby who attends the same school, fixes her damaged bicycle. Serufu later finds out that Rei has a passion for old-fashioned crafts and is the head of the school's Do-It-Yourself (DIY) Club—which is in danger of closing due to a lack of members.\n\nRealizing that this may be her chance to repair her relationship with Purin, Serufu joins the club in hopes of creating projects that could bring them together once more. As the DIY Club welcomes new faces, Serufu learns to build not only handicrafts but also new friendships along the way!\n\n[Written by MAL Rewrite]",
+  "mean": 7.46,
+  "rank": 2007,
+  "popularity": 1980,
+  "num_list_users": 107052,
+  "num_scoring_users": 40041,
+  "nsfw": "white",
+  "created_at": "2021-03-25T12:10:03+00:00",
+  "updated_at": "2023-01-05T14:04:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1295,
+      "name": "PINE JAM"
+    }
+  ]
+}

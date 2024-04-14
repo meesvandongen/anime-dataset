@@ -1,0 +1,68 @@
+{
+  "id": 30028,
+  "title": "Sekai Meisaku Douwa Series",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/71937.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/71937l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai Meisaku Douwa Manga Series",
+      "World Masterpiece Fairy Tale Series"
+    ],
+    "en": "",
+    "ja": "世界名作童話シリーズ"
+  },
+  "start_date": "1988-04-07",
+  "end_date": "1988-04-28",
+  "synopsis": "Toei's month long run of fairy tale stories.",
+  "mean": 6.22,
+  "rank": 8467,
+  "popularity": 15449,
+  "num_list_users": 565,
+  "num_scoring_users": 113,
+  "nsfw": "white",
+  "created_at": "2015-02-14T06:57:19+00:00",
+  "updated_at": "2021-10-21T23:30:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1988,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "18:00"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 4804,
+  "title": "To Heart 2 AD Plus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/74022.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/74022l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ToHeart 2: Another Days Plus",
+      "To Heart 2: Another Days Plus",
+      "ToHeart2adplus"
+    ],
+    "en": "",
+    "ja": "ToHeart2 adplus"
+  },
+  "start_date": "2009-04-24",
+  "end_date": "2009-10-07",
+  "synopsis": "Volume 1\nSilfa the robot maid is currently working at Takaaki's house. However, she seems to have a little trouble with her duties as part of it involves going out in public to buy groceries, and she's a bit \"shy\" in a sense. But when it comes to Haruka Yuzuhara's special curry, she'll do what she has to in order to make this special dish for Takaaki. And that includes some competition from Milfa (Harumi).\n\nVolume 2\nInvolves summer, swimsuits and photography.\n\n(Source: AniDB)",
+  "mean": 6.71,
+  "rank": 5662,
+  "popularity": 7847,
+  "num_list_users": 5987,
+  "num_scoring_users": 2096,
+  "nsfw": "white",
+  "created_at": "2008-06-29T06:04:46+00:00",
+  "updated_at": "2022-03-06T20:57:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1730,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 462,
+      "name": "Chaos Project"
+    }
+  ]
+}

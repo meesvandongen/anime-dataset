@@ -1,0 +1,68 @@
+{
+  "id": 6114,
+  "title": "Rainbow: Nisha Rokubou no Shichinin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/72697.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/72697l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rainbow: Criminal Seven of Compound Two Cell Six"
+    ],
+    "en": "Rainbow",
+    "ja": "RAINBOW 二舎六房の七人"
+  },
+  "start_date": "2010-04-07",
+  "end_date": "2010-09-29",
+  "synopsis": "Japan, 1955: Mario Minakami has just arrived at Shounan Special Reform School along with five other teenagers who have been arrested on serious criminal charges. All assigned to the same cell, they meet older inmate Rokurouta Sakuragi—a former boxer—with whom they establish a close bond. Under his guidance, and with the promise that they will meet again on the outside after serving their sentences, the delinquents begin to view their hopeless situation in a better light.\n\nThe seven cellmates struggle together against the brutal suffering and humiliation inflicted upon them by Ishihara, a sadistic guard with a grudge on Rokurouta, and Gisuke Sasaki, a doctor who takes pleasure in violating boys. Facing such hellish conditions, the seven inmates must scrape together all the strength they have to survive until their sentences are up; but even if they do, just what kind of lives are waiting for them on the other side?\n\n[Written by MAL Rewrite] ",
+  "mean": 8.47,
+  "rank": 145,
+  "popularity": 578,
+  "num_list_users": 395188,
+  "num_scoring_users": 157038,
+  "nsfw": "white",
+  "created_at": "2009-02-24T15:30:32+00:00",
+  "updated_at": "2023-01-17T16:33:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:59"
+  },
+  "source": "manga",
+  "average_episode_duration": 1360,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

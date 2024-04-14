@@ -1,0 +1,50 @@
+{
+  "id": 40030,
+  "title": "Tayo-ui Jangnangam Adventure",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1991/123604.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1991/123604l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kkoma Bus Tayo Ace Guchuljakjeon 2: Tayo-ui Jangnangam Eodeubencheo"
+    ],
+    "en": "Tayo Mission Ace 2: Tayo's Toy Adventure",
+    "ja": "타요의 장난감 어드벤처"
+  },
+  "start_date": "2019-04",
+  "end_date": "2019-04",
+  "synopsis": "When Bella finds out that all the toys were not forgotten and was touched by Ace and Duri's friendship, she decides to help other toys to find their friends(owners) back. But, it seems that Louie isn't the lucky one to find his old friend, Kevin. Tayo and Lani decide to help Louie to find Kevin but there are adventures that they never thought of!\n\n(Source: Official YouTube channel)",
+  "rank": 13802,
+  "popularity": 19625,
+  "num_list_users": 236,
+  "num_scoring_users": 72,
+  "nsfw": "white",
+  "created_at": "2019-06-30T19:23:32+00:00",
+  "updated_at": "2021-05-29T18:31:49+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 963,
+  "rating": "g",
+  "studios": []
+}

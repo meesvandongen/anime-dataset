@@ -1,0 +1,62 @@
+{
+  "id": 626,
+  "title": "Mamotte Shugogetten!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1386/120773.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1386/120773l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Protect Me, Heavenly Moon Guardian!",
+    "ja": "まもって守護月天！"
+  },
+  "start_date": "1998-10-17",
+  "end_date": "1999-04-03",
+  "synopsis": "Tasuke Shichiri is the envy of his friends because since his parents are always traveling he can do as he pleases. It's a surprise present from his father that keeps him from being lonely: an odd ring known as the shitenrin. From it comes a moon goddess named Shaorin, dedicated to protecting her \"master\" -- no matter how much of a mess she makes doing it!",
+  "mean": 6.64,
+  "rank": 6063,
+  "popularity": 6635,
+  "num_list_users": 9056,
+  "num_scoring_users": 2759,
+  "nsfw": "white",
+  "created_at": "2006-02-02T15:40:54+00:00",
+  "updated_at": "2021-08-16T09:25:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 9288,
+  "title": "Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... desu ka!?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/25737.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/25737l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Heartcatch Precure! Hana no To de Fashion Show... desuka!?"
+    ],
+    "en": "",
+    "ja": "映画 ハートキャッチプリキュア！花の都でファッションショー・・・ですか！？"
+  },
+  "start_date": "2010-10-30",
+  "end_date": "2010-10-30",
+  "synopsis": "Sakura Kurumi, Erika's mother, is preparing for a fashion show in Paris. The girls of the school's fashion club are going to model there, including some high school students. While in Paris, they meet a mysterious boy named Oliver. However, Baron Salamander of the Desert Apostles appears, and the girls transform into Pretty Cures to defend Paris.",
+  "mean": 7.64,
+  "rank": 1374,
+  "popularity": 7074,
+  "num_list_users": 7751,
+  "num_scoring_users": 3937,
+  "nsfw": "white",
+  "created_at": "2010-08-02T10:29:41+00:00",
+  "updated_at": "2023-09-18T01:56:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4411,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

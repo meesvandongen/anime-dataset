@@ -1,0 +1,64 @@
+{
+  "id": 37175,
+  "title": "Mi Yu Xingzhe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1869/104422.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1869/104422l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mi Yu Xing Zhe"
+    ],
+    "en": "Uncharted Walker",
+    "ja": "迷域行者"
+  },
+  "start_date": "2018-02-03",
+  "end_date": "2018-04-21",
+  "synopsis": "After narrowly escaping a deathtrap, a dazed Ning Yuan finds himself confined by a menacing gangster, He Zhiyang, alongside hysterical doctor, Su Jin. However, this proves to be the least of his concerns as he comes to terms with the group's newfound desperate situation: they are trapped on an isolated island that harbors malignant viruses, horrid mutations, and hostile tribes. \n\nMeanwhile, another group of individuals in the same vicinity happen to face the same predicament. Forced to put aside their differences and come together to fight their way to freedom, the two groups of stranded victims must resist their personal motivations which threaten to get the better of them.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.24,
+  "rank": 3033,
+  "popularity": 4767,
+  "num_list_users": 20902,
+  "num_scoring_users": 5898,
+  "nsfw": "white",
+  "created_at": "2018-01-24T02:10:25+00:00",
+  "updated_at": "2023-09-26T00:01:45+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1581,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1805,
+      "name": "Thundray"
+    }
+  ]
+}

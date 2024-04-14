@@ -1,0 +1,72 @@
+{
+  "id": 621,
+  "title": "Night Walker: Mayonaka no Tantei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/31985.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/31985l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "NightWalker: Eternal Darkness"
+    ],
+    "en": "Nightwalker: The Midnight Detective",
+    "ja": "Night Walker -真夜中の探偵-"
+  },
+  "start_date": "1998-07-09",
+  "end_date": "1998-09-23",
+  "synopsis": "Shido Tatsuhiko is not only a private eye... he is also a vampire with no real memory of his past. Joined by Yayoi Matsunaga, a female government agent, Riho Yamazaki, an orphaned teenage girl working as his girl Friday and Guni, a little green imp, Shido must face demonic creatures known as Nightbreed. Meanwhile, Cain, the vampire who made him what he is now, is seeking him...\n\n(Source: ANN)",
+  "mean": 6.92,
+  "rank": 4639,
+  "popularity": 4721,
+  "num_list_users": 21248,
+  "num_scoring_users": 7342,
+  "nsfw": "white",
+  "created_at": "2006-02-02T15:35:20+00:00",
+  "updated_at": "2023-11-25T08:48:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1998,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:45"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1500,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

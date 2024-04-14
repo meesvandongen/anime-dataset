@@ -1,0 +1,57 @@
+{
+  "id": 35480,
+  "title": "Karadasagashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/87141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/87141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Body Search",
+      "Re/member"
+    ],
+    "en": "",
+    "ja": "カラダ探し"
+  },
+  "start_date": "2017-07-30",
+  "end_date": "2017-08-31",
+  "synopsis": "\"Hey, Asuka... search for my body.\" \n\nAt school in the middle of the night, Asuka and her friends search for the scattered body-parts. If they don't find the entire body, the 9th of November is repeated and the red person will continue to kill them. Who is the red person?\n\n(Source: MU)",
+  "mean": 5.4,
+  "rank": 11875,
+  "popularity": 8480,
+  "num_list_users": 4956,
+  "num_scoring_users": 257,
+  "nsfw": "white",
+  "created_at": "2017-04-28T06:52:24+00:00",
+  "updated_at": "2021-12-17T11:20:04+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 180,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1705,
+      "name": "Studio Khronos"
+    }
+  ]
+}

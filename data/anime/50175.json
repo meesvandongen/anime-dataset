@@ -1,0 +1,64 @@
+{
+  "id": 50175,
+  "title": "Yuusha, Yamemasu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1934/122301.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1934/122301l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuuyame"
+    ],
+    "en": "I'm Quitting Heroing",
+    "ja": "勇者、辞めます"
+  },
+  "start_date": "2022-04-05",
+  "end_date": "2022-06-21",
+  "synopsis": "When Demon Queen Echidna begins her invasion of the human realm, the people turn to the hero Leo Demonheart to protect them. Blessed with insurmountable power, Leo easily repels Echidna's army, thereby saving the world. But instead of gratitude or admiration, Leo is met with disdain and scorn from his fellow humans, who fear his overwhelming strength and believe that it may eventually cause humanity's demise.\n\nBanished from the kingdom he once called home, Leo wanders aimlessly throughout the land until, one day, he hears rumors of Echidna's efforts to rebuild her army. Hoping that demonkind might accept him as an ally, he returns to the demon queen's castle and offers Echidna his help.\n\nNaturally, Echidna immediately rejects him. Still, not all hope is lost, as Leo manages to convince Echidna's four generals to let him secretly work under their supervision. Donning the identity of a masked dark knight named Onyx, Leo solves the demon army's problems one by one—gradually improving the quality of life around the castle. Above all else, however, Leo wants to accomplish one goal: to learn why Echidna started the war in the first place.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.02,
+  "rank": 4239,
+  "popularity": 822,
+  "num_list_users": 295121,
+  "num_scoring_users": 138732,
+  "nsfw": "white",
+  "created_at": "2021-10-20T06:30:09+00:00",
+  "updated_at": "2023-02-13T17:45:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "22:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

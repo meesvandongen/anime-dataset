@@ -1,0 +1,61 @@
+{
+  "id": 139,
+  "title": "Hunter x Hunter: Greed Island Final",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/139.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/139l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hunter x Hunter: G I Final",
+      "Hunter x Hunter OVA 3"
+    ],
+    "en": "",
+    "ja": "HUNTER×HUNTER G・I Final"
+  },
+  "start_date": "2004-03-03",
+  "end_date": "2004-08-18",
+  "synopsis": "Continuing with their adventure at Greed Island, Gon and Killua train furiously under the guidance of Biscuit for better preparation at attempting the game. With their abilities vastly improving and the threat of player killers menacing Greed Island, Gon and company continue the game despite the dangers that they will face with the game activities and encounters with other players. Based on the manga by Togashi Yoshihiro.",
+  "mean": 8.25,
+  "rank": 321,
+  "popularity": 1571,
+  "num_list_users": 144976,
+  "num_scoring_users": 78381,
+  "nsfw": "white",
+  "created_at": "2005-11-11T14:51:31+00:00",
+  "updated_at": "2023-01-17T04:12:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

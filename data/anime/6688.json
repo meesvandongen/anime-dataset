@@ -1,0 +1,52 @@
+{
+  "id": 6688,
+  "title": "Batain Lai!! Minami no Shima no Mizu Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/15373.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/15373l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pattenrai!! Minami no Shima no Mizu Monogatari"
+    ],
+    "en": "",
+    "ja": "パッテンライ!!　～南の島の水ものがたり～"
+  },
+  "start_date": "2009-05-09",
+  "end_date": "2009-05-09",
+  "synopsis": "The year is 1917, and under Japanese occupation, Taiwan suffers from terrible drought and famine. Residents of the Chianan Plain live in squalor, their lives defined by the daily struggle of carting water home. When Yoichi Hatta, a Japanese civil engineer, arrives with a plan to reshape the area's irrigation dramatically, the local residents are quick to call him a liar. Xu Yingzhe, the son of a poor farmer, takes issue with the outright rejection of Hatta's plan and tries to reason and grasp the situation. Hatta's scheme may seem crazy, but it could be the very thing that improves the strenuous lives of the Taiwanese people.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.17,
+  "rank": 8702,
+  "popularity": 13084,
+  "num_list_users": 1087,
+  "num_scoring_users": 275,
+  "nsfw": "white",
+  "created_at": "2009-06-26T03:47:16+00:00",
+  "updated_at": "2022-06-15T20:05:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
+}

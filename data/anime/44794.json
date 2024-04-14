@@ -1,0 +1,48 @@
+{
+  "id": 44794,
+  "title": "Min de 1911",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1515/126473.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1515/126473l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "民的1911"
+  },
+  "start_date": "2011-09-29",
+  "end_date": "2011-09-29",
+  "synopsis": "",
+  "rank": 16449,
+  "popularity": 22763,
+  "num_list_users": 97,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2020-12-16T17:17:13+00:00",
+  "updated_at": "2022-08-04T07:45:08+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 5400,
+  "rating": "pg_13",
+  "studios": []
+}

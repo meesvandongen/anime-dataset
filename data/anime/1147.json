@@ -1,0 +1,65 @@
+{
+  "id": 1147,
+  "title": "Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/23557.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/23557l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tenchi Muyo! Ryo-Ohki 3rd Season Plus 1",
+      "Tenchi Muyo! Ryo Ohki: Final Confrontations"
+    ],
+    "en": "",
+    "ja": "天地無用！魎皇鬼 第三期 天地晴朗なれど波高し？"
+  },
+  "start_date": "2005-09-14",
+  "end_date": "2005-09-14",
+  "synopsis": "After a 'modified' ending to the Choubimaru incident, the punishments for the offending parties is metted-out, as well as a surprise marriage proposal by Misao to Mashisu. It almost didn't happen... until Mihoshi and Misao's mother Mitoto steps in and gives her and her family's approval, much to the dismay of FORMER G.P. Marshall Minami Kuramitsu. Otherwise, life goes on as usual for the Masaki clan. But soon when the question of how Tenchi's mother had died is presented, the answer nearly causes a rift between Tenchi, his father and his grandfather, for which only Tenchi's future mother-in-law Rea can solve... as well as the resolution of Noike's unusual secret. \n\n(Source: ANN)",
+  "mean": 7.19,
+  "rank": 3294,
+  "popularity": 5921,
+  "num_list_users": 11953,
+  "num_scoring_users": 5443,
+  "nsfw": "white",
+  "created_at": "2006-07-05T21:54:54+00:00",
+  "updated_at": "2022-11-23T20:59:05+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 41181,
+  "title": "Dakara Boku wa Ongaku wo Yameta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1700/105709.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1700/105709l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "That's Why I Gave Up on Music",
+    "ja": "だから僕は音楽を辞めた"
+  },
+  "start_date": "2019-04-05",
+  "end_date": "2019-04-05",
+  "synopsis": "A music video for the song Dakara Boku wa Ongaku wo Yameta by Yorushika.",
+  "mean": 7.09,
+  "popularity": 11558,
+  "num_list_users": 1788,
+  "num_scoring_users": 972,
+  "nsfw": "white",
+  "created_at": "2020-01-28T23:25:20+00:00",
+  "updated_at": "2021-11-02T06:26:31+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 246,
+  "rating": "g",
+  "studios": []
+}

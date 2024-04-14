@@ -1,0 +1,62 @@
+{
+  "id": 39948,
+  "title": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1962/108429.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1962/108429l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Muhyo & Roji's Bureau of Supernatural Investigation 2nd Season",
+    "ja": "ムヒョとロージーの魔法律相談事務所 2期"
+  },
+  "start_date": "2020-07-07",
+  "end_date": "2020-09-22",
+  "synopsis": "Second season of Muhyo to Rouji no Mahouritsu Soudan Jimusho.",
+  "mean": 6.91,
+  "rank": 4660,
+  "popularity": 4328,
+  "num_list_users": 26121,
+  "num_scoring_users": 6830,
+  "nsfw": "white",
+  "created_at": "2019-06-16T09:03:20+00:00",
+  "updated_at": "2022-12-08T07:42:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

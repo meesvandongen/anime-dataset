@@ -1,0 +1,68 @@
+{
+  "id": 18897,
+  "title": "Nisekoi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/75587.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/75587l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nisekoi"
+    ],
+    "en": "Nisekoi: False Love",
+    "ja": "ニセコイ"
+  },
+  "start_date": "2014-01-11",
+  "end_date": "2014-05-24",
+  "synopsis": "Raku Ichijou, a first-year student at Bonyari High School, is the sole heir to an intimidating yakuza family. Ten years ago, Raku made a promise to his childhood friend. Now, all he has to go on is a pendant with a lock, which can only be unlocked with the key which the girl took with her when they parted.\n\nNow, years later, Raku has grown into a typical teenager, and all he wants is to remain as uninvolved in his yakuza background as possible while spending his school days alongside his middle school crush Kosaki Onodera. However, when the American Bee Hive Gang invades his family's turf, Raku's idyllic romantic dreams are sent for a toss as he is dragged into a frustrating conflict: Raku is to pretend that he is in a romantic relationship with Chitoge Kirisaki, the beautiful daughter of the Bee Hive's chief, so as to reduce the friction between the two groups. Unfortunately, reality could not be farther from this whopping lie—Raku and Chitoge fall in hate at first sight, as the girl is convinced he is a pathetic pushover, and in Raku's eyes, Chitoge is about as attractive as a savage gorilla. \n\nNisekoi follows the daily antics of this mismatched couple who have been forced to get along for the sake of maintaining the city's peace. With many more girls popping up his life, all involved with Raku's past somehow, his search for the girl who holds his heart and his promise leads him in more unexpected directions than he expects.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1650,
+  "popularity": 122,
+  "num_list_users": 1167421,
+  "num_scoring_users": 658364,
+  "nsfw": "white",
+  "created_at": "2013-05-28T23:31:08+00:00",
+  "updated_at": "2023-06-24T15:27:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

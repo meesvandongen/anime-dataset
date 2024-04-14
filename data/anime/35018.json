@@ -1,0 +1,50 @@
+{
+  "id": 35018,
+  "title": "Osomatsu-san: Haru no Zenkoku Dai Senbatsu Jouei-sai - Sentou Quiz 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1212/93370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1212/93370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "おそ松さん 春の全国大センバツ上映祭 銭湯クイズ2"
+  },
+  "start_date": "2017-04-06",
+  "end_date": "2017-04-06",
+  "synopsis": "An all-new anime short episode included in a selection theatrical screening of the anime series together with main episodes for each of the six Matsuno brothers from the television anime series and the Osomatsu-san: Ouma de Kobanashi special.\n\n(Source: AniDB)",
+  "mean": 6,
+  "rank": 9590,
+  "popularity": 11837,
+  "num_list_users": 1614,
+  "num_scoring_users": 235,
+  "nsfw": "white",
+  "created_at": "2017-03-06T10:38:10+00:00",
+  "updated_at": "2020-06-21T13:23:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

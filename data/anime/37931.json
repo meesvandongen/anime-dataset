@@ -1,0 +1,52 @@
+{
+  "id": 37931,
+  "title": "I-O Data x Taka no Tsume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1329/93057.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1329/93057l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Frogman Show",
+      "IODATA x Himitsukessha Taka no Tsume"
+    ],
+    "en": "",
+    "ja": "I-O DATA×鷹の爪"
+  },
+  "start_date": "2018-05-24",
+  "end_date": "2018-05-24",
+  "synopsis": "A collaboration between the Eagle Talon franchise and I-O Data (a Japanese computer peripheral manufacturer), primarily promoting the latter's IPv6 products.",
+  "mean": 5.35,
+  "rank": 12034,
+  "popularity": 16636,
+  "num_list_users": 439,
+  "num_scoring_users": 116,
+  "nsfw": "white",
+  "created_at": "2018-05-24T10:02:47+00:00",
+  "updated_at": "2020-03-30T15:09:34+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 281,
+  "rating": "g",
+  "studios": []
+}

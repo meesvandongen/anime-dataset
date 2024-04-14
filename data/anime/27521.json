@@ -1,0 +1,55 @@
+{
+  "id": 27521,
+  "title": "Gra-P & Rodeo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/67831.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/67831l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "GuraP & Rodeo",
+      "GraP & RodeO"
+    ],
+    "en": "",
+    "ja": "ぐらＰ＆ろで夫"
+  },
+  "start_date": "2014-10-19",
+  "end_date": "2015-12-29",
+  "synopsis": "Rodeo is a normal high school boy who aims to be like GRANRODEO. Gra-P, a self-proclaimed music producer who comes from the future, tries to help him.",
+  "rank": 19770,
+  "popularity": 16145,
+  "num_list_users": 487,
+  "num_scoring_users": 111,
+  "nsfw": "white",
+  "created_at": "2014-09-10T11:53:39+00:00",
+  "updated_at": "2016-02-26T17:12:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 61,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 142,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1229,
+      "name": "Pie in the sky"
+    }
+  ]
+}

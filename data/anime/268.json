@@ -1,0 +1,70 @@
+{
+  "id": 268,
+  "title": "Golden Boy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/62867l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Golden Boy",
+    "ja": "ゴールデンボーイ"
+  },
+  "start_date": "1995-10-27",
+  "end_date": "1996-06-28",
+  "synopsis": "Kintarou Ooe is a specialist in part-time work, riding all over the highways and byways of Japan on his trusty steed, the Mikazuki 5, and finding employment wherever he can. His adventures bring him knowledge and experience that can't be taught in a classroom, from political corruption to the delicacy of a young woman's heart. With nothing but the open road before him—not to mention the many beautiful women along the way—Kintarou pursues his spirit of education while attempting to hold down his various odd jobs, however undignified they may be. As he learns from each task he takes on, who knows what could happen? He might even be able to save the world one day. One thing is for sure—this will all be very educational!\n\n[Written by MAL Rewrite]",
+  "mean": 8.04,
+  "rank": 568,
+  "popularity": 572,
+  "num_list_users": 399054,
+  "num_scoring_users": 217114,
+  "nsfw": "white",
+  "created_at": "2005-11-13T07:05:30+00:00",
+  "updated_at": "2023-01-16T02:33:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1721,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 77,
+      "name": "APPP"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 568,
+  "title": "Bubblegum Crisis Tokyo 2040",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1699/92414.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1699/92414l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bubblegum Crisis 2040"
+    ],
+    "en": "",
+    "ja": "バブルガムクライシス TOKYO2040"
+  },
+  "start_date": "1998-10-08",
+  "end_date": "1999-04-01",
+  "synopsis": "After a mysterious eathquake levels Tokyo, Genom becomes a powerful influence providing their artificial organic lifeforms called Boomers to rebuild and act as a labor class to humanity. However, some of them ocasionally run amok, and even the specially created AD Police are at a loss to stop them. Lina Yamazaki travels to Tokyo for employment but also hopes to join a vigilante force called the Knight Sabers, who pilot powered suits to destroy these rogue Boomers.\n\n(Source: ANN)",
+  "mean": 7.08,
+  "rank": 3893,
+  "popularity": 3538,
+  "num_list_users": 39541,
+  "num_scoring_users": 14989,
+  "nsfw": "white",
+  "created_at": "2006-01-13T00:06:33+00:00",
+  "updated_at": "2024-03-06T12:02:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:15"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

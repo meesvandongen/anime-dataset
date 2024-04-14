@@ -1,0 +1,48 @@
+{
+  "id": 51538,
+  "title": "Shin Gakki da yo! Waccha PriMagi! Gakuen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1955/122355.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1955/122355l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "新学期だよ！ワッチャプリマジ！学園"
+  },
+  "start_date": "2022-04-03",
+  "end_date": "2022-04-03",
+  "synopsis": "",
+  "rank": 18042,
+  "popularity": 16534,
+  "num_list_users": 449,
+  "num_scoring_users": 89,
+  "nsfw": "white",
+  "created_at": "2022-04-03T18:35:34+00:00",
+  "updated_at": "2022-04-05T17:11:28+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": []
+}

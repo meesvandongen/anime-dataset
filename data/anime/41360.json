@@ -1,0 +1,57 @@
+{
+  "id": 41360,
+  "title": "ARP Backstage Pass: Celebrate Good Time - Short Stories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1327/106289.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1327/106289l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "APR Backstage Pass Episode 6.5",
+      "ARP Backstage Pass Short Stories"
+    ],
+    "en": "",
+    "ja": "ARP Backstage Pass Celebrate Good Time~ショートストーリーズ~"
+  },
+  "start_date": "2020-03-02",
+  "end_date": "2020-03-02",
+  "synopsis": "Short Stories of ARP Backstage Pass that describe the secret of the ARP members and everyday life.",
+  "mean": 5.36,
+  "rank": 11982,
+  "popularity": 12893,
+  "num_list_users": 1150,
+  "num_scoring_users": 414,
+  "nsfw": "white",
+  "created_at": "2020-02-28T05:26:04+00:00",
+  "updated_at": "2021-01-25T15:18:23+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1263,
+      "name": "Dynamo Pictures"
+    }
+  ]
+}

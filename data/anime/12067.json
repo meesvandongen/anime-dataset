@@ -1,0 +1,66 @@
+{
+  "id": 12067,
+  "title": "Rurouni Kenshin Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1581/104187.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1581/104187l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rurouni Kenshin Episode 95: End of Wanderings",
+      "Rurouni Kenshin: Meiji Kenkaku Romantan Special",
+      "Rurou no Saihate - Hi to Ruri no Kizuna wa Shiosai no Naka ni"
+    ],
+    "en": "Samurai X Special",
+    "ja": "るろうに剣心 -明治剣客浪漫譚- 流浪の最果て- 緋と瑠璃の絆は潮騒の中に"
+  },
+  "start_date": "1998-12-02",
+  "end_date": "1998-12-02",
+  "synopsis": "A VHS only special episode. Also known as Episode 95.",
+  "mean": 7.3,
+  "rank": 2713,
+  "popularity": 4809,
+  "num_list_users": 20511,
+  "num_scoring_users": 9275,
+  "nsfw": "white",
+  "created_at": "2011-11-16T12:57:05+00:00",
+  "updated_at": "2022-03-18T16:02:30+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 45196,
+  "title": "Wan Jie Fa Shen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1077/111009.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1077/111009l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The God of All Realms"
+    ],
+    "en": "God of Ten Thousand Realms",
+    "ja": "万界法神"
+  },
+  "start_date": "2020-12-21",
+  "end_date": "2021-06-18",
+  "synopsis": "At the end of the calendar 2020, the continent of Stern, which has reached the end of civilization due to the exhaustion of magic elements, ushered in the destruction of the continent under the void storm. Ye Xuan, the last god of law in the mainland, unexpectedly awakened in the era of the prosperous magic civilization three thousand years ago and became an ordinary student at the Sith Magic Academy on the border of the Kingdom of Orlando in the northwest of the mainland. In order to save the mainland and prevent the end from coming, Ye Xuan began to explore the mystery of the dark turmoil that led to the depletion of magical elements in the mainland three thousand years ago, to prevent the mainland crisis.\n\n(Source: Donghua Info)",
+  "mean": 7.21,
+  "rank": 3217,
+  "popularity": 9937,
+  "num_list_users": 3013,
+  "num_scoring_users": 1156,
+  "nsfw": "white",
+  "created_at": "2020-12-21T22:42:36+00:00",
+  "updated_at": "2022-04-09T21:02:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 54,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 588,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2042,
+      "name": "Ruo Hong Culture"
+    }
+  ]
+}

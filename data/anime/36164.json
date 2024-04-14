@@ -1,0 +1,66 @@
+{
+  "id": 36164,
+  "title": "Qiang Niang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/87374.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/87374l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Gun Girls",
+    "ja": "銃娘 [ガンガール]"
+  },
+  "start_date": "2017-08-18",
+  "end_date": "2017-10-27",
+  "synopsis": "Qiang Niang mainly tells of the protagonist Carrie, who has lost her combat memories, searching for herself and the story of her final \"Awakening\". In the years between 2025 to 2030, a world war involving the entire world has resulted in the demise of half the world's population, and humanity has already lost control of the direction the war shall go in. In order to seize ultimate victory, war has gradually been turned into a battle without people, similar to a game. War has already become about Satellite lasers, Bomb drones, Intelligent AI, a battlefield between unmanned gun turrets and tanks... Then, there are also a group of young maidens who uses outdated firearms to engage in battle —— the Gun Girls.",
+  "mean": 5.33,
+  "rank": 12092,
+  "popularity": 12851,
+  "num_list_users": 1162,
+  "num_scoring_users": 200,
+  "nsfw": "white",
+  "created_at": "2017-08-20T15:41:03+00:00",
+  "updated_at": "2020-11-10T06:49:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 840,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    }
+  ]
+}

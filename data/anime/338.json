@@ -1,0 +1,68 @@
+{
+  "id": 338,
+  "title": "Versailles no Bara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/57043.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/57043l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Berusaiyu no Bara"
+    ],
+    "en": "The Rose of Versailles",
+    "ja": "ベルサイユのばら"
+  },
+  "start_date": "1979-10-10",
+  "end_date": "1980-09-03",
+  "synopsis": "In a time of class stratification and rising tensions amongst the impoverished population, the Austrian Empire sends Princess Marie Antoinette to France to be wed to Crown Prince Louis XVI. The political marriage is arranged to strengthen the alliance between both countries, but the future queen is deeply unsatisfied with her fate being decided for her. Upon arrival in the country, Marie Antoinette is acquainted with Oscar Fançois de Jarjayes—Commander of the Royal Guard.\n\nDue to her father's desire for a son, Oscar is raised as a boy with an expectation to inherit his title as The Commander. Though she is revered by both men and women alike, Oscar cannot help but desire to live life as a woman instead of masquerading as a man. As Oscar reluctantly serves the young, spoiled queen, the growing resentment and suffering of the poor become harder for her to ignore—especially when Marie Antoinette frivolously spends her wealth.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.34,
+  "rank": 220,
+  "popularity": 2100,
+  "num_list_users": 97735,
+  "num_scoring_users": 29698,
+  "nsfw": "white",
+  "created_at": "2005-11-20T02:53:18+00:00",
+  "updated_at": "2023-01-17T06:58:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 1979,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1465,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

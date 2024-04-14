@@ -1,0 +1,45 @@
+{
+  "id": 37190,
+  "title": "Karasu to Kaki no Tane",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1536/90245.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1536/90245l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "からすと柿のたね"
+  },
+  "start_date": "1966-10-05",
+  "end_date": "1966-10-05",
+  "synopsis": "A song about the circle of life. A crow eats a persimmon and poops the seed out. The elements let the seed sprout and grow. It turns into a new persimmon tree and a new crow comes along and repeats the process.",
+  "popularity": 19750,
+  "num_list_users": 230,
+  "num_scoring_users": 98,
+  "nsfw": "white",
+  "created_at": "2018-01-24T10:39:50+00:00",
+  "updated_at": "2021-01-02T21:24:05+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1966,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 143,
+  "rating": "g",
+  "studios": []
+}

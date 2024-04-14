@@ -1,0 +1,64 @@
+{
+  "id": 1342,
+  "title": "Violence Jack: Jigoku Gai-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/12874.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/12874l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Violence Jack: Evil Town",
+      "Violence Jack Jigoku Gai",
+      "Violence Jack 2",
+      "Violence Jack: Jigoku Gai Hen",
+      "Violence Jack: Jigoku Gai Arc"
+    ],
+    "en": "Violence Jack: Evil Town",
+    "ja": "バイオレンス ジャック 〜地獄街編〜"
+  },
+  "start_date": "1988-12-06",
+  "end_date": "1988-12-06",
+  "synopsis": "The World as we know it has been torn apart shattered by a series of natural disasters that have turned civilization into a brutish nightmare of survival and has left whole cities buried beneath the Earth. It's now a lethal and chaotic place, a place where only the strongest and most savage remain alive. The strongest of them all is a giant warrior known as Violence Jack… \n\nViolence Jack tries to avert a civil war brewing among the wretched inhabitants of a subterranean metropolis called Evil Town. Based on a character created by manga horror specialist, Go Nagai. \n\n(Source: AniDB)",
+  "mean": 5.56,
+  "rank": 11406,
+  "popularity": 5982,
+  "num_list_users": 11659,
+  "num_scoring_users": 5677,
+  "nsfw": "white",
+  "created_at": "2006-08-17T00:15:07+00:00",
+  "updated_at": "2023-08-17T02:15:25+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3520,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 2169,
+      "name": "Studio 88"
+    }
+  ]
+}

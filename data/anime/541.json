@@ -1,0 +1,64 @@
+{
+  "id": 541,
+  "title": "Tenchi Muyou! Ryououki 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/31587.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/31587l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tenchi Muyo! Ryo-Ohki 3rd Season"
+    ],
+    "en": "Tenchi Muyo! Ryo-Ohki",
+    "ja": "天地無用！魎皇鬼 第三期"
+  },
+  "start_date": "2003-09-18",
+  "end_date": "2005-03-16",
+  "synopsis": "Ever since his powers awakened, Tenchi Masaki has attracted the attention of many powerful galactic beings, including the mysterious Lady Takami who dispatches her best warrior, Z, to observe him. Though he is under strict orders not to harm Tenchi, Z has no intention of playing by the rules and begins plotting his demise. \n\nMeanwhile, on Earth, Tenchi tries to piece together more information about his family and the universe. But as usual, his life won't be getting any easier, as his entire household enters a state of panic when Noike Kamiki Jurai—a woman claiming to be Tenchi’s fiancée—shows up out of the blue.\n\n[Written by MAL Rewrite]",
+  "mean": 7.27,
+  "rank": 2892,
+  "popularity": 4763,
+  "num_list_users": 20941,
+  "num_scoring_users": 10723,
+  "nsfw": "white",
+  "created_at": "2006-01-05T17:18:28+00:00",
+  "updated_at": "2022-11-23T20:59:14+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2003,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

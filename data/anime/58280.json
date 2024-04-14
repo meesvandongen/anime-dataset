@@ -1,0 +1,49 @@
+{
+  "id": 58280,
+  "title": "Nintama Rantarou: 100% Yuuki! Dokutake Dejiro wo Yattsukero no Dan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1349/141775.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1349/141775l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "忍たま乱太郎 100％勇気！ドクタケ出城をやっつけろの段"
+  },
+  "start_date": "2022-05-04",
+  "end_date": "2022-05-04",
+  "synopsis": "Rantarou, Kirimaru, Shinbei and the others were taking a walk when they found a beautiful field. Due to a sudden idea from the school principal, everyone at the Ninjutsu Academy decides to go on a field trip, not knowing it's all part of the terrifying plan of the Dokutake ninjas.",
+  "rank": 16871,
+  "popularity": 22699,
+  "num_list_users": 98,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2024-03-02T12:00:22+00:00",
+  "updated_at": "2024-03-03T09:50:50+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

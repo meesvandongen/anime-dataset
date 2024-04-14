@@ -1,0 +1,44 @@
+{
+  "id": 35305,
+  "title": "Kamiusagi Rope x Tokyo Gas",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/85028.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/85028l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "紙兎ロペ×東京ガス"
+  },
+  "start_date": "2013-09-19",
+  "end_date": "2013-10-07",
+  "synopsis": "A collaboration between Kamiusagi Rope and Tokyo Gas promoting a special gas exhibition campaign.",
+  "rank": 15491,
+  "popularity": 18037,
+  "num_list_users": 331,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2017-03-29T04:14:27+00:00",
+  "updated_at": "2019-04-21T20:22:21+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": []
+}

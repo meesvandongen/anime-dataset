@@ -1,0 +1,57 @@
+{
+  "id": 40100,
+  "title": "Nu Wushen de Canzhuo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1441/102035.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1441/102035l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Valkyrie no Shokutaku",
+      "戦乙女の食卓"
+    ],
+    "en": "Cooking with Valkyries",
+    "ja": "女武神的餐桌"
+  },
+  "start_date": "2019-06-28",
+  "end_date": "2019-08-30",
+  "synopsis": "Join the table with Valkyries this summer for a feast of mouth-watering food and heartwarming memories.",
+  "mean": 7.03,
+  "rank": 4150,
+  "popularity": 5648,
+  "num_list_users": 13553,
+  "num_scoring_users": 4746,
+  "nsfw": "white",
+  "created_at": "2019-07-12T18:44:09+00:00",
+  "updated_at": "2024-02-18T10:00:03+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1547,
+      "name": "Blade"
+    },
+    {
+      "id": 1805,
+      "name": "Thundray"
+    }
+  ]
+}

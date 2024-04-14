@@ -1,0 +1,51 @@
+{
+  "id": 52340,
+  "title": "Utatte Asobou! Yukai na Ekaki Uta: Wakuwaku-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1120/127124.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1120/127124l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "うたってあそぼ!ゆかいなえかきうた ワクワク編"
+  },
+  "start_date": "2007-05-23",
+  "end_date": "2007-05-23",
+  "synopsis": "",
+  "rank": 14184,
+  "popularity": 22639,
+  "num_list_users": 100,
+  "num_scoring_users": 23,
+  "nsfw": "white",
+  "created_at": "2022-07-07T01:17:31+00:00",
+  "updated_at": "2022-08-18T14:59:33+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "average_episode_duration": 1860,
+  "rating": "pg",
+  "studios": []
+}

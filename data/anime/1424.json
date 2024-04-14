@@ -1,0 +1,68 @@
+{
+  "id": 1424,
+  "title": "Lupin III: Otakara Henkyaku Daisakusen!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1547/100586.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1547/100586l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rupan Sansei"
+    ],
+    "en": "Lupin III: Operation Return the Treasure",
+    "ja": "ルパン三世: お宝返却大作戦！！"
+  },
+  "start_date": "2003-08-01",
+  "end_date": "2003-08-01",
+  "synopsis": "After robbing a Moscow casino right under Zenigata's nose, Lupin sets his sights on stealing the Trick Diamond. He and Jigen head to the estate of the recently deceased Mark Williams, another master thief who's had the diamond, as well as other treasures, in his possession for years. However, instead of finding the diamond, Lupin & Jigen find Fujiko, who tells them about Mark's dying wish - Lupin must return all the treasures the old thief stole to their rightful place. If this is done in time, the location of the diamond will be revealed, and Lupin can use it to get the real treasure, hidden in Gaudí's Sagrada Familia. Returning the stolen goods isn't easy though, as Zenigata and the casino boss' ruthless gang are on Lupin and friends' tail. \n\n(Source: ANN)",
+  "mean": 7.31,
+  "rank": 2690,
+  "popularity": 7288,
+  "num_list_users": 7166,
+  "num_scoring_users": 2819,
+  "nsfw": "white",
+  "created_at": "2006-08-21T08:13:38+00:00",
+  "updated_at": "2023-12-27T07:15:54+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

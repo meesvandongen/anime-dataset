@@ -1,0 +1,58 @@
+{
+  "id": 641,
+  "title": "Ichigo 100% Special 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1708/132578.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1708/132578l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Strawberry 100%",
+    "ja": "いちご100%"
+  },
+  "start_date": "2005-12-14",
+  "end_date": "2005-12-14",
+  "synopsis": "Yui's father forbids Yui from staying at Junpei's house and decides she'll attend a local High School instead of Oumi Academy. Junpei visits with the intention of straightening out a misunderstanding for Yui's sake. Episode takes place prior to Episode 10 of Ichigo 100% TV series.",
+  "mean": 6.81,
+  "rank": 5146,
+  "popularity": 4957,
+  "num_list_users": 19080,
+  "num_scoring_users": 10099,
+  "nsfw": "white",
+  "created_at": "2006-02-02T15:59:22+00:00",
+  "updated_at": "2022-04-02T21:45:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1389,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

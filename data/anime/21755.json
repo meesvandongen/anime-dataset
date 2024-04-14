@@ -1,0 +1,58 @@
+{
+  "id": 21755,
+  "title": "Shin Tennis no Oujisama vs. Genius 10",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/65403.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/65403l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "New Prince of Tennis OVA vs. Genius10",
+      "Shin Tennis no Ouji-sama OVA",
+      "New Prince of Tennis OVA vs Genius10"
+    ],
+    "en": "The Prince of Tennis II vs Genius10",
+    "ja": "新テニスの王子様 vs Genius10"
+  },
+  "start_date": "2014-10-29",
+  "end_date": "2015-06-26",
+  "synopsis": "After a month abroad, the Foreign Expedition Team has returned to the Japan U-17 training camp. The group consists of 20 players, each with strength and technique that far surpasses those who occupy the camp's top court. In anticipation of the team's arrival, the coaches announce that 20 of the best players would be selected for further training. Tension begins to rise when only high school students are chosen to participate, but the middle school students challenge the players who possess the 11th to 20th positions to steal their places.\n\nWith the delayed appearance of the \"Genius 10,\" the middle school students begin scheming among themselves to claim those spots as well. Unlikely pairings start to work together, combining their efforts to defeat the top 10 players of the country. It is a battle of wits, deception, and skill—all for the privilege of representing Japan at the U-17 World Cup.\n\n[Written by MAL Rewrite]",
+  "mean": 7.59,
+  "rank": 1535,
+  "popularity": 4953,
+  "num_list_users": 19102,
+  "num_scoring_users": 8545,
+  "nsfw": "white",
+  "created_at": "2013-12-24T10:01:22+00:00",
+  "updated_at": "2023-07-18T07:37:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 463,
+      "name": "M.S.C"
+    }
+  ]
+}

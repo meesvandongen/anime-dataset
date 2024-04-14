@@ -1,0 +1,51 @@
+{
+  "id": 32600,
+  "title": "Kanojo wa Zombie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/78261.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/78261l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "She is a zombie"
+    ],
+    "en": "",
+    "ja": "彼女はゾンビ"
+  },
+  "start_date": "2016-01-27",
+  "end_date": "2016-01-27",
+  "synopsis": "Music video for Glay's single \"Kanojo wa Zombie\". ",
+  "mean": 6,
+  "popularity": 12140,
+  "num_list_users": 1460,
+  "num_scoring_users": 720,
+  "nsfw": "white",
+  "created_at": "2016-01-26T07:35:08+00:00",
+  "updated_at": "2021-01-23T11:13:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 215,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1237,
+      "name": "Millepensee"
+    }
+  ]
+}

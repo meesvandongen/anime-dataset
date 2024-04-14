@@ -1,0 +1,60 @@
+{
+  "id": 4640,
+  "title": "Maroko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1102/134480.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1102/134480l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gosenzosama Banbanzai! the Movie"
+    ],
+    "en": "",
+    "ja": "MAROKO 麿子"
+  },
+  "start_date": "1990-03-19",
+  "end_date": "1990-03-19",
+  "synopsis": "Summary for the Gosenzosama Banbanzai! OVA.",
+  "mean": 6.45,
+  "rank": 7176,
+  "popularity": 11769,
+  "num_list_users": 1656,
+  "num_scoring_users": 343,
+  "nsfw": "white",
+  "created_at": "2008-06-03T09:53:18+00:00",
+  "updated_at": "2022-03-23T22:48:16+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 5387,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

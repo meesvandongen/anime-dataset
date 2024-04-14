@@ -1,0 +1,65 @@
+{
+  "id": 3673,
+  "title": "Nijuu Mensou no Musume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/8694.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/8694l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Daughter of Twenty Faces",
+      "Chiko, Heiress of the Phantom Thief"
+    ],
+    "en": "The Daughter of 20 Faces",
+    "ja": "二十面相の娘"
+  },
+  "start_date": "2008-04-13",
+  "end_date": "2008-09-28",
+  "synopsis": "Chiko is the daughter of the wealthy Mikamo family who has to live with her aunt and uncle after her parents passed away. Because her aunt wants to inherit the Mikamo family's wealth, she gives Chiko poisoned food. One day, however, she's kidnapped by the Nijuu Mensou (20 Faces) and decides to join his clan. \n\n(Source: ZOMG)",
+  "mean": 7.55,
+  "rank": 1701,
+  "popularity": 3776,
+  "num_list_users": 34677,
+  "num_scoring_users": 11672,
+  "nsfw": "white",
+  "created_at": "2008-01-05T07:28:31+00:00",
+  "updated_at": "2022-10-08T08:31:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1354,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    },
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

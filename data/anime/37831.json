@@ -1,0 +1,57 @@
+{
+  "id": 37831,
+  "title": "Sword Art Online Alternative: Gun Gale Online - Refrain",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1736/92711.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1736/92711l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sword Art Online Alternative: Gun Gale Online Recap",
+      "Sword Art Online Alternative: Gun Gale Online Episode 5.5"
+    ],
+    "en": "",
+    "ja": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン 5.5話「ルフラン」"
+  },
+  "start_date": "2018-05-13",
+  "end_date": "2018-05-13",
+  "synopsis": "Following the conclusion of the first ever Squad Jam, Pitohui is eager to see what she missed, dying to know how everything went down. To satiate her desires, M reviews footage of the competition with her, commentating on the trials that he and LLENN faced together.\n\n[Written by MAL Rewrite]",
+  "mean": 6.57,
+  "rank": 6485,
+  "popularity": 3485,
+  "num_list_users": 40809,
+  "num_scoring_users": 17581,
+  "nsfw": "white",
+  "created_at": "2018-05-06T10:21:25+00:00",
+  "updated_at": "2024-02-07T15:38:03+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1127,
+      "name": "Studio 3Hz"
+    }
+  ]
+}

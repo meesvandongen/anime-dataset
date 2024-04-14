@@ -1,0 +1,64 @@
+{
+  "id": 2004,
+  "title": "Hanada Shounen-shi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/87319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/87319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hanada Shonen-Shi"
+    ],
+    "en": "",
+    "ja": "花田少年史"
+  },
+  "start_date": "2002-10-02",
+  "end_date": "2003-03-26",
+  "synopsis": "Ichiro Hanada is a hyperactive little boy who lives with his parents, sister, and grandfather in a rural town. He is always up to some kind of mischief, often teasing his sister or making rude comments to others. Consequently, his mother constantly scolds him, and even the neighbours express disturbance from time to time on how rowdy he can be.\n\nOne day, after pulling a terrible prank, Ichiro sprints onto the streets as his mother chases him. He steals a nearby bicycle and takes on a dangerous route, eventually being hit by a truck. Miraculously, he survives the crash, requiring nine stitches to the back of his head and balding for the surgery. However, the near-death experience gains him the ability to see ghosts—the last thing he needs in his life.\n\nSince Ichiro is the only one who can communicate with them, several ghosts of people who have recently died come to him, seeking help to fulfill their last wishes before achieving enlightenment. Each adventure with a ghost leaves the young and curious boy with a different lesson that gradually makes him wiser.\n\n[Written by MAL Rewrite]",
+  "mean": 8.04,
+  "rank": 570,
+  "popularity": 5291,
+  "num_list_users": 15897,
+  "num_scoring_users": 4604,
+  "nsfw": "white",
+  "created_at": "2007-03-04T11:33:33+00:00",
+  "updated_at": "2022-04-07T08:28:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2002,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1432,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

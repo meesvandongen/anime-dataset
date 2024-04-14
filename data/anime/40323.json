@@ -1,0 +1,60 @@
+{
+  "id": 40323,
+  "title": "Gintama: Monster Strike-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1806/124660.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1806/124660l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gintama x Monster Strike"
+    ],
+    "en": "",
+    "ja": "銀魂 ～モンスターストライク編～"
+  },
+  "start_date": "2019-08-29",
+  "end_date": "2019-09-04",
+  "synopsis": "Collaboration anime between Gintama and Monster Strike.",
+  "mean": 7.49,
+  "rank": 1892,
+  "popularity": 5286,
+  "num_list_users": 15924,
+  "num_scoring_users": 5197,
+  "nsfw": "white",
+  "created_at": "2019-08-29T18:16:14+00:00",
+  "updated_at": "2022-04-02T16:14:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 701,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

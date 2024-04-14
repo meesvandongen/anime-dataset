@@ -1,0 +1,45 @@
+{
+  "id": 36391,
+  "title": "Lu La La",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/87815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/87815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "るらら"
+  },
+  "start_date": "1996-12-02",
+  "end_date": "1996-12-02",
+  "synopsis": "A man receives a strange egg for Christmas which hatches a heart creature. ",
+  "popularity": 19610,
+  "num_list_users": 237,
+  "num_scoring_users": 95,
+  "nsfw": "white",
+  "created_at": "2017-09-21T10:52:13+00:00",
+  "updated_at": "2019-01-29T15:25:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 142,
+  "rating": "g",
+  "studios": []
+}

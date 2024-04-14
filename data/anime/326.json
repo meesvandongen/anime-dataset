@@ -1,0 +1,58 @@
+{
+  "id": 326,
+  "title": "Petshop of Horrors",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/64543.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/64543l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pet Shop of Horrors",
+    "ja": "Pet Shop of Horrors (ペットショップ・オブ・ホラーズ)"
+  },
+  "start_date": "1999-03-02",
+  "end_date": "1999-03-23",
+  "synopsis": "Count D, a quite interesting pet shop owner from an area called Chinatown, sells rare and hard to come by pets to people longing for something special, but with each sale comes a contract. If the rules of the contract are followed, everything goes fine, but if someone should break the rules of the contract, the pet shop cannot be held responsible for anything unfortunate that might happen. Leon Orcot, a homicide detective, has linked many odd and unexplainable deaths together; they all were customers of Count D's pet shop, and he intends to find out why. \n\n(Source: ANN)",
+  "mean": 7.24,
+  "rank": 3037,
+  "popularity": 2607,
+  "num_list_users": 68661,
+  "num_scoring_users": 31662,
+  "nsfw": "white",
+  "created_at": "2005-11-19T08:34:36+00:00",
+  "updated_at": "2022-04-17T05:21:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1999,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1384,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

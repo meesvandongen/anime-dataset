@@ -1,0 +1,62 @@
+{
+  "id": 14735,
+  "title": "Meitantei Conan Movie 17: Zekkai no Private Eye",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/47419.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/47419l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+    "ja": "名探偵コナン 絶海の探偵"
+  },
+  "start_date": "2013-04-20",
+  "end_date": "2013-04-20",
+  "synopsis": "The warship Aegis Destroyer is conducting public exercises in Maizuru Bay where, coincidentally, a suspicious foreign ship was recently spotted. Conan Edogawa, Ran Mouri, Kogorou Mouri, Sonoko Suzuki, and the Detective Boys all receive a ticket to attend this event. However, while the ongoing military operations are underway, one of the crew members comes across a lieutenant's severed left arm. Conan later discovers that a foreign spy may have infiltrated the warship to obtain classified information by any means necessary. If the information were to leak, Japan's line of defense would be exposed, leaving the country unprotected from hostile attack.\n\nWith the help of the police at sea while other friends and allies investigate on the mainland, Conan must now prevent this national crisis and identify the spy for the sake of Japan.\n\n[Written by MAL Rewrite]",
+  "mean": 7.67,
+  "rank": 1310,
+  "popularity": 3561,
+  "num_list_users": 39165,
+  "num_scoring_users": 21816,
+  "nsfw": "white",
+  "created_at": "2012-07-06T09:39:06+00:00",
+  "updated_at": "2024-01-19T20:56:11+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 6625,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

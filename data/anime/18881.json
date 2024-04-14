@@ -1,0 +1,50 @@
+{
+  "id": 18881,
+  "title": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Omake Flash",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/71045.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/71045l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Code Geass: Lelouch of the Rebellion - A Miraculous Birthday Extra Flash",
+    "ja": "コードギアス 反逆のルルーシュ キセキの誕生日[バースデー] おまけFLASH"
+  },
+  "start_date": "2010-04-23",
+  "end_date": "2010-04-23",
+  "synopsis": "From the Code Geass: Lelouch of the Rebellion - Kiseki no Birthday DVD/Blu-ray. It is different from the 9 Omake Flash specials included in the Code Geass R2 DVD/Blu-ray. ",
+  "mean": 5.53,
+  "rank": 11506,
+  "popularity": 6114,
+  "num_list_users": 11021,
+  "num_scoring_users": 3501,
+  "nsfw": "white",
+  "created_at": "2013-05-27T21:33:08+00:00",
+  "updated_at": "2021-12-23T21:18:42+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 152,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

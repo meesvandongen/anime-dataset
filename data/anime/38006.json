@@ -1,0 +1,66 @@
+{
+  "id": 38006,
+  "title": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1085/125306.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1085/125306l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Allied Air Force Magical Idols Luminous Witches",
+      "Idol Witches",
+      "Ongakutai Witches"
+    ],
+    "en": "League of Nations Air Force Aviation Magic Band Luminous Witches",
+    "ja": "連盟空軍航空魔法音楽隊 ルミナスウィッチーズ"
+  },
+  "start_date": "2022-07-03",
+  "end_date": "2022-09-25",
+  "synopsis": "As the united world fights for its freedom against the alien forces known as the Neuroi, human girls with magical abilities—called witches—continue to battle. With the persisting conflict affecting morale, Grace Maitland Steward, a retired witch who still serves in the army, presents a plan advocating the power of music as an invaluable support that can change the tides of war.\n\nUnfortunately, her proposal is written off, prompting Grace to find a way to prove the potential of her idea to her superiors. She enlists the help of Aila Paivikki Linnamaa and Eleonore Giovanna Gassion—two witches who have already seen some success as singers—to recruit other witches and form the League of Nations Air Force's Music Squadron.\n\nThe campaign manages to produce seven promising candidates. Among them, 14-year-old Virginia Robertson, despite having no military experience whatsoever, seems to possess an ability too significant to ignore.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.69,
+  "rank": 5809,
+  "popularity": 4517,
+  "num_list_users": 23562,
+  "num_scoring_users": 5175,
+  "nsfw": "white",
+  "created_at": "2018-07-21T06:05:19+00:00",
+  "updated_at": "2022-08-29T12:48:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "21:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1466,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

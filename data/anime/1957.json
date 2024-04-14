@@ -1,0 +1,60 @@
+{
+  "id": 1957,
+  "title": "Ai Tenshi Densetsu Wedding Peach DX",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/28128.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/28128l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wedding Peach Deluxe"
+    ],
+    "en": "Wedding Peach DX",
+    "ja": "愛天使伝説ウェディング・ピーチDX"
+  },
+  "start_date": "1996-12-24",
+  "end_date": "1997-07-25",
+  "synopsis": "The 1996–1997 anime OVAs of Ai Tenshi Densetsu Wedding Peach, also known as Ai Tenshi Densetsu Wedding Peach DX (Deluxe). These four OVAs were uniquely designed and scripted, and the art style had been changed slightly from the original series as well. Each of these OVAs feature one of the Ai Tenshi along with a season: Wedding Peach—Summer, Angel Salvia—Autumn, Angel Daisy—Winter, Angel Lily—Spring. They are, however, in no way related to each other, except for some indication of previous OVAs by Hinagiku and Yuri. These are the adventures of the four Ai Tenshi, two years after their battle with Reine Devila.\n\n(Source: AniDB)",
+  "mean": 6.68,
+  "rank": 5837,
+  "popularity": 7698,
+  "num_list_users": 6289,
+  "num_scoring_users": 2722,
+  "nsfw": "white",
+  "created_at": "2007-02-18T12:48:56+00:00",
+  "updated_at": "2023-10-11T09:10:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 50,
+      "name": "KSS"
+    }
+  ]
+}

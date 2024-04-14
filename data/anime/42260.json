@@ -1,0 +1,62 @@
+{
+  "id": 42260,
+  "title": "Ninja Collection",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1997/108104.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1997/108104l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "忍者コレクション"
+  },
+  "start_date": "2020-07-13",
+  "end_date": "2020-10-26",
+  "synopsis": "Set in modern-day Tokyo where dreams and desires are afloat, a group of ninjas called \"Toukeshuu\" is set to stop the spread of \"darkness\" that prevails in the world using ancient techniques passed down through generations.\n\n(Source: MAL News)",
+  "mean": 3.78,
+  "rank": 13252,
+  "popularity": 5184,
+  "num_list_users": 16863,
+  "num_scoring_users": 5206,
+  "nsfw": "white",
+  "created_at": "2020-06-19T09:58:44+00:00",
+  "updated_at": "2022-03-17T13:50:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "03:05"
+  },
+  "source": "original",
+  "average_episode_duration": 274,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1169,
+      "name": "ILCA"
+    },
+    {
+      "id": 2056,
+      "name": "DRAWIZ"
+    },
+    {
+      "id": 2057,
+      "name": "Toho Interactive Animation"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 3713,
+  "title": "Jigoku Shoujo Mitsuganae",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/86976.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/86976l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hell Girl 3",
+      "Jigoku Shoujo 3"
+    ],
+    "en": "Hell Girl: Three Vessels",
+    "ja": "地獄少女 三鼎"
+  },
+  "start_date": "2008-10-04",
+  "end_date": "2009-04-04",
+  "synopsis": "Following the events of Jigoku Shoujo Futakomori, Ai Enma, the Hell Girl, has disappeared. Her former companions decide to lead normal lives, until their absent mistress returns to them with a new companion, and in a way that none of them anticipated.\n\nYuzuki Mikage is a normal schoolgirl who soon comes to understand the Hell Girl on an intimate level. During a dream-like trance in the bathtub, Ai kisses Yuzuki and possesses her. So when Yuzuki's friend decides to type in the name of their teacher in the Hell Correspondence website, Ai makes use of Yuzuki's body to accomplish her own task of ferrying the teacher's soul to hell. Yuzuki is disturbed by her new circumstances and wonders why she was chosen to continue Ai's work. Unfortunately for her, the Hell Girl and her assistants resume operation of Hell Correspondence, and she is dragged along for the ride towards hell itself.\n\n[Written by MAL Rewrite]",
+  "mean": 7.61,
+  "rank": 1471,
+  "popularity": 2030,
+  "num_list_users": 102920,
+  "num_scoring_users": 42122,
+  "nsfw": "white",
+  "created_at": "2008-01-12T13:46:07+00:00",
+  "updated_at": "2023-08-30T07:53:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1499,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

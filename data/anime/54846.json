@@ -1,0 +1,63 @@
+{
+  "id": 54846,
+  "title": "Aishang Ta de Liyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1070/134906.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1070/134906l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lee Du-Na!",
+      "이두나!",
+      "Shita no Kai ni wa Mio ga Iru",
+      "下の階には澪がいる"
+    ],
+    "en": "The Girl Downstairs",
+    "ja": "爱上她的理由"
+  },
+  "start_date": "2023-04-20",
+  "end_date": "2023-06-29",
+  "synopsis": "The day Lee Joon joins Minsong University to reunite with Kim Margo, his high school crush, he is attacked by his new neighbor Lee Duna, a gorgeous former idol. Violent and impulsive, Duna turns Joon's world upside down. Later, to Joon's confusion, Margo seems incapable of making time to meet with him. To add to his dismay, Joon meets fellow student Choi Ira at a party. She becomes enamored with him after the pair partake in a risqué game. As Joon progressively discovers the truth about Duna's troubled past and Margo's harsh family conditions, he tries to sort out his tangled feelings.\n\n[Written by MAL Rewrite]",
+  "mean": 7.68,
+  "rank": 1265,
+  "popularity": 4311,
+  "num_list_users": 26331,
+  "num_scoring_users": 7998,
+  "nsfw": "white",
+  "created_at": "2023-03-24T18:34:16+00:00",
+  "updated_at": "2024-03-11T22:09:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 843,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2126,
+      "name": "Red Dog Culture House"
+    }
+  ]
+}

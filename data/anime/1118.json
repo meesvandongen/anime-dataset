@@ -1,0 +1,70 @@
+{
+  "id": 1118,
+  "title": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/80288.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/80288l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokémon: Spell Of The Unown",
+      "Gekijouban Pocket Monsters: Lord of the UNKNOWN Tower ENTEI",
+      "Pokémon Movie 3"
+    ],
+    "en": "Pokémon 3: The Movie",
+    "ja": "ポケットモンスター 結晶塔の帝王 ENTEI"
+  },
+  "start_date": "2000-07-08",
+  "end_date": "2000-07-08",
+  "synopsis": "Mii Snowdon is left on her own after her father disappears while investigating the mysterious letter-shaped Pokémon called the Unown. The only clue to her father's disappearance is a box containing several tiles. While playing with these tiles, Mii makes a wish to see her father again, and this wish awakens the Unown—who summon the lion-like, legendary Pokémon Entei to act as her father.\n\nMeanwhile, Satoshi heads to Greenfield with his faithful Pokémon companion, Pikachu, to meet with his friends, Kasumi and Takeshi. When they reach the area, they are shocked to find the place crystallized. They quickly learn that the Unown are responsible for this, and that they will need to be defeated in order to restore Greenfield to its former beauty.\n\nThe situation becomes personal when Satoshi's mother is kidnapped by Entei. To discover why his mother was taken away, Satoshi, along with his friends and Pokémon, must travel the crystallized landscape to confront Entei and the Unown. \n\n[Written by MAL Rewrite]\n",
+  "mean": 7.08,
+  "rank": 3921,
+  "popularity": 1328,
+  "num_list_users": 179282,
+  "num_scoring_users": 115285,
+  "nsfw": "white",
+  "created_at": "2006-06-21T08:30:15+00:00",
+  "updated_at": "2024-04-05T19:59:55+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 4380,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

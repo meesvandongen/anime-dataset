@@ -1,0 +1,44 @@
+{
+  "id": 34190,
+  "title": "1-ri Botchi no Ookami to 7-hiki no Ko Yagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/82212.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/82212l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "１人ぼっちの狼と７ひきの子やぎ"
+  },
+  "start_date": "1994-01-15",
+  "end_date": "1994-01-15",
+  "synopsis": "An adaptation of the The Wolf and The Seven Little Goats story.",
+  "rank": 18055,
+  "popularity": 17856,
+  "num_list_users": 346,
+  "num_scoring_users": 73,
+  "nsfw": "white",
+  "created_at": "2016-10-03T05:45:56+00:00",
+  "updated_at": "2021-12-09T12:10:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "winter"
+  },
+  "source": "book",
+  "average_episode_duration": 1080,
+  "rating": "g",
+  "studios": []
+}

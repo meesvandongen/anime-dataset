@@ -1,0 +1,45 @@
+{
+  "id": 31448,
+  "title": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/75785.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/75785l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! Episode 7",
+      "The irregular at magic high school: Get to Know Magic Studies!",
+      "Mahouka for Dummies"
+    ],
+    "en": "",
+    "ja": "よくわかる魔法科！"
+  },
+  "start_date": "2015-02-25",
+  "end_date": "2015-02-25",
+  "synopsis": "Extra episode of Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! included in the BD/DVD.",
+  "mean": 6.39,
+  "rank": 7536,
+  "popularity": 5875,
+  "num_list_users": 12152,
+  "num_scoring_users": 4564,
+  "nsfw": "white",
+  "created_at": "2015-08-15T07:37:47+00:00",
+  "updated_at": "2021-09-11T03:45:51+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 205,
+  "rating": "pg_13",
+  "studios": []
+}

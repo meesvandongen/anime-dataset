@@ -1,0 +1,58 @@
+{
+  "id": 4042,
+  "title": "Hanappe Bazooka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1280/112865.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1280/112865l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hanappe Bazooka",
+    "ja": "花平バズーカ"
+  },
+  "start_date": "1992-09-04",
+  "end_date": "1992-09-04",
+  "synopsis": "Lecherous high school boy Hanappe is visited by two demons who step from his TV and immediately fall in lust with his mother and sister. The demons turn Hanappe's home into a meeting ground for their demonic friends and grant Hanappe the power of the Hanappe Bazooka. Now his index finger is capable of both a deadly blast and the ability to drive women in a lustful frenzy, but Hanappe isn't very good at controlling it and winds up in serious trouble. \n\n(Source: ANN)",
+  "mean": 5.33,
+  "rank": 12078,
+  "popularity": 9093,
+  "num_list_users": 4019,
+  "num_scoring_users": 1680,
+  "nsfw": "gray",
+  "created_at": "2008-03-02T13:23:31+00:00",
+  "updated_at": "2021-10-15T23:41:29+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2733,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 438,
+      "name": "Studio Signal"
+    }
+  ]
+}

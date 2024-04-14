@@ -1,0 +1,52 @@
+{
+  "id": 37927,
+  "title": "Nusheng Sushe Richang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1804/93052.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1804/93052l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Girls' Dormitory Life",
+      "Nu Sheng Su She Ri Chang"
+    ],
+    "en": "Girls Dorm",
+    "ja": "女生宿舍日常"
+  },
+  "start_date": "2016-11-30",
+  "end_date": "2017-02-22",
+  "synopsis": "\"Girls' Dorm Daily\" takes place in a unique college dorm and revolves around four girls from different family backgrounds and with different understandings and pursuits of college life. It is a story full of joy and youth.\n\n(Source: Academy of Arts & Design, Tsinghua University)",
+  "rank": 16934,
+  "popularity": 17494,
+  "num_list_users": 373,
+  "num_scoring_users": 72,
+  "nsfw": "white",
+  "created_at": "2018-05-24T07:37:18+00:00",
+  "updated_at": "2023-10-19T08:46:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 739,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2802,
+      "name": "Yudubai Animation"
+    }
+  ]
+}

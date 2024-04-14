@@ -1,0 +1,60 @@
+{
+  "id": 35997,
+  "title": "Märchen Mädchen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/90088.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/90088l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fairy Tale Girls"
+    ],
+    "en": "Maerchen Maedchen",
+    "ja": "メルヘン・メドヘン"
+  },
+  "start_date": "2018-01-11",
+  "end_date": "2018-03-29",
+  "synopsis": "Hazuki Kagimura is a socially awkward girl with no friends; and having been recently adopted, she struggles to connect with her new family as well. Her only refuge from this painful reality is between the pages of stories where her vivid imagination allows her to live out her dreams of friendship and adventure. However, one day, an old and mysterious text appears in her book bag. On her way back to the library to return it, Hazuki sees a familiar girl who is seemingly invisible to everyone but her. Deciding to follow her, Hazuki is led a hidden library where a world she thought only existed in her dreams awaits her. \n\nMärchen Mädchen tells the story of Hazuki's meeting with Shizuka Tsuchimikado, her very first friend, and discovering she has been chosen by the original print of Cinderella to become a powerful mage known as an Origin Master. Hazuki enrolls at Kuzunoha Girl's Magic Academy where she learns to conquer her fears and believe in her ability to create her own amazing story.\n\n[Written by MAL Rewrite]\n",
+  "mean": 5.4,
+  "rank": 11878,
+  "popularity": 3453,
+  "num_list_users": 41374,
+  "num_scoring_users": 14360,
+  "nsfw": "white",
+  "created_at": "2017-07-25T05:23:59+00:00",
+  "updated_at": "2022-04-03T20:43:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1415,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    }
+  ]
+}

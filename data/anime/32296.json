@@ -1,0 +1,47 @@
+{
+  "id": 32296,
+  "title": "Present made no Michinori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/77495.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/77495l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Road to Present"
+    ],
+    "en": "",
+    "ja": "プレゼントまでの道のり"
+  },
+  "start_date": "2009-03-22",
+  "end_date": "2009-03-22",
+  "synopsis": "Short animation by Rapparu.",
+  "mean": 4.81,
+  "rank": 12864,
+  "popularity": 13946,
+  "num_list_users": 862,
+  "num_scoring_users": 464,
+  "nsfw": "white",
+  "created_at": "2015-12-10T17:25:55+00:00",
+  "updated_at": "2018-03-22T13:02:42+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 133,
+  "rating": "pg",
+  "studios": []
+}

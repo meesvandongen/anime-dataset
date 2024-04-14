@@ -1,0 +1,60 @@
+{
+  "id": 40395,
+  "title": "Bakugan: Battle Planet Short Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1472/115413.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1472/115413l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bakugan: Small Brawl Stories"
+    ],
+    "en": "Bakugan: Beyond the Brawl",
+    "ja": "爆丸バトルプラネット　ショートアニメ"
+  },
+  "start_date": "2019-04-18",
+  "end_date": "2019-10-17",
+  "synopsis": "A series of animated web-shorts that feature the characters from  Bakugan: Battle Planet interacting in a more comedic manner.\n\n(Source: Wikipedia)",
+  "mean": 5.59,
+  "rank": 11305,
+  "popularity": 14026,
+  "num_list_users": 842,
+  "num_scoring_users": 277,
+  "nsfw": "white",
+  "created_at": "2019-09-10T23:37:45+00:00",
+  "updated_at": "2021-06-02T10:59:47+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

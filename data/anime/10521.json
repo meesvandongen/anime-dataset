@@ -1,0 +1,60 @@
+{
+  "id": 10521,
+  "title": "Working'!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/75263.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/75263l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Working!! 2"
+    ],
+    "en": "Wagnaria!!2",
+    "ja": "ワーキング’！！"
+  },
+  "start_date": "2011-10-01",
+  "end_date": "2011-12-24",
+  "synopsis": "The exciting antics of Wagnaria return as more ridiculous incidents occur, friendships are deepened, and new feelings are discovered. In addition to Souta Takanashi and his wacky co-workers, more eccentric personalities join the family restaurant: Haruna, Hyougo Otoo's missing wife, who has a habit of getting hopelessly lost through the sewer system; Kirio Yamada, Aoi's older brother, who is able to withstand Mahiru Inami's deadly punches; and twins Youhei and Mitsuki Mashiba, Kyouko Shirafuji's juniors who do not get along.\n\nAbsurdity, romance, and hilarity are all on the menu for the Wagnaria family restaurant!\n\n[Written by MAL Rewrite]",
+  "mean": 7.82,
+  "rank": 935,
+  "popularity": 913,
+  "num_list_users": 264391,
+  "num_scoring_users": 152108,
+  "nsfw": "white",
+  "created_at": "2011-04-01T16:22:35+00:00",
+  "updated_at": "2022-04-29T20:07:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 57691,
+  "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai - Dai Bounen Otanoshimikai 2023",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1544/140683.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1544/140683l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fate/Grand Order: Fujimaru Ritsuka Doesn't Get It"
+    ],
+    "en": "Fate/Grand Order: You've Lost Ritsuka Fujimaru",
+    "ja": "Fate/Grand Order 藤丸立香はわからない ~大忘年お楽しみ会2023~"
+  },
+  "start_date": "2023-12-31",
+  "end_date": "2023-12-31",
+  "synopsis": "Ritsuka Fujimaru—humanity's last master. It would not have been possible to restore humanity without him. However, he does have a shortcoming... he is far too honest! A slapstick comedy in which Fujimaru's simple questions sway the heroic spirits!\n\n(Source: MAL News)",
+  "mean": 6.22,
+  "rank": 8486,
+  "popularity": 12365,
+  "num_list_users": 1353,
+  "num_scoring_users": 190,
+  "nsfw": "white",
+  "created_at": "2023-12-31T13:28:33+00:00",
+  "updated_at": "2024-02-14T12:53:03+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 301,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

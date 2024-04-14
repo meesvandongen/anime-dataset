@@ -1,0 +1,80 @@
+{
+  "id": 24765,
+  "title": "Gakkougurashi!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1798/91548.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1798/91548l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gakkou Gurashi!"
+    ],
+    "en": "School-Live!",
+    "ja": "がっこうぐらし！"
+  },
+  "start_date": "2015-07-09",
+  "end_date": "2015-09-24",
+  "synopsis": "Carefree high school senior Yuki Takeya every day looks forward to the School Living Club. Consisting of the president Yuuri Wakasa, the athletic Kurumi Ebisuzawa, the mature Miki Naoki, the supervising teacher Megumi Sakura, and club dog Taroumaru, the club prides itself on making the most of life at school. There is only one rule the club members have to follow: all members must live their entire lives within school grounds.\n\nGakkougurashi! follows the adventures of the School Living Club as they promote independence and self-determination through their lively time residing at Megurigaoka Private High School.\n\n[Written by MAL Rewrite]",
+  "mean": 7.62,
+  "rank": 1429,
+  "popularity": 500,
+  "num_list_users": 451691,
+  "num_scoring_users": 218810,
+  "nsfw": "white",
+  "created_at": "2014-06-21T09:26:54+00:00",
+  "updated_at": "2023-11-29T01:17:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1457,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

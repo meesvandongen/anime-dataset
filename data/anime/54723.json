@@ -1,0 +1,47 @@
+{
+  "id": 54723,
+  "title": "gdgd Fairies Movie Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1671/134217.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1671/134217l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "3 Fairies Hold a Press Conference",
+      "3 Faires go to the Movies"
+    ],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2014-11-19",
+  "end_date": "2014-11-19",
+  "synopsis": "Specials bundled with bluray release of gdgd Fairies Movie.\n\nFirst episode is about the three fairies holding a press conference. Second episode is about them going to see a movie.",
+  "rank": 19667,
+  "popularity": 21712,
+  "num_list_users": 128,
+  "num_scoring_users": 29,
+  "nsfw": "white",
+  "created_at": "2023-03-15T16:33:47+00:00",
+  "updated_at": "2023-05-02T19:11:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": []
+}

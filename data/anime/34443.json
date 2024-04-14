@@ -1,0 +1,58 @@
+{
+  "id": 34443,
+  "title": "Baki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1979/93135.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1979/93135l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "バキ"
+  },
+  "start_date": "2018-06-25",
+  "end_date": "2018-12-17",
+  "synopsis": "After emerging victorious from a brutal underground tournament, Baki Hanma continues on his path to defeat his father, Yuujirou, the strongest man in the world. However, he gets no time to rest when the tournament runner, Tokugawa Mitsunari, visits him at school. He reveals to Baki that five incredibly dangerous death row inmates from around the world—all skilled in martial arts—have simultaneously escaped confinement and are heading to Tokyo, each wishing to finally know the taste of defeat. Tokugawa warns that, due to his well-known strength, Baki is bound to encounter them sooner or later, and he will not be their only target.\n\nAdapting the first saga of the second manga series, Baki centers on the all-out war between the esteemed martial artists of Japan and those of the dark underground world.\n\n[Written by MAL Rewrite]",
+  "mean": 7.31,
+  "rank": 2672,
+  "popularity": 541,
+  "num_list_users": 422180,
+  "num_scoring_users": 237296,
+  "nsfw": "white",
+  "created_at": "2016-11-28T09:52:04+00:00",
+  "updated_at": "2023-01-09T01:28:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

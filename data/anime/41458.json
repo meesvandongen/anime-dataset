@@ -1,0 +1,53 @@
+{
+  "id": 41458,
+  "title": "Origami Ninja Koyankinte",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1860/106477.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1860/106477l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Happy Smile ♡ Dream"
+    ],
+    "en": "",
+    "ja": "おりがみにんじゃ コーヤン＠きんてれ"
+  },
+  "start_date": "2020-04-07",
+  "synopsis": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
+  "rank": 17049,
+  "popularity": 18059,
+  "num_list_users": 329,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2020-03-15T21:43:15+00:00",
+  "updated_at": "2020-03-19T08:25:42+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "07:30"
+  },
+  "average_episode_duration": 0,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 324,
+      "name": "Directions"
+    }
+  ]
+}

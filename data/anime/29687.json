@@ -1,0 +1,69 @@
+{
+  "id": 29687,
+  "title": "Duel Masters VSR",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/78226.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/78226l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Duel Masters Versus Revolution",
+      "Duel Masters VS Revolution"
+    ],
+    "en": "",
+    "ja": "デュエル・マスターズ VSR"
+  },
+  "start_date": "2015-04-05",
+  "end_date": "2016-03-27",
+  "synopsis": "A next fierce fight is about to begin after Katta Kirifuda finally become the Duel Masters National Tournament champion.\n\nJapan's largest theme park, Duel Masters Land has appeared. With numerous fun attractions and events, Katta was also having fun.\n\nHowever, after meeting the mascot of the park, \"Duemouse\", Katta got involved in a ridiculous conspiracy of the park.\n\nA shadow that invades the Duel Masters World, which is the mysterious team of duelists! The mysterious identity of the legendary card is to be revealed. A new stage and revolution of Duel Masters befalls Katta!\n\n(Source: Duel Masters Wikia)",
+  "mean": 5.41,
+  "rank": 11857,
+  "popularity": 12229,
+  "num_list_users": 1414,
+  "num_scoring_users": 284,
+  "nsfw": "white",
+  "created_at": "2015-01-18T23:38:53+00:00",
+  "updated_at": "2021-05-16T22:34:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 473,
+      "name": "Ascension"
+    }
+  ]
+}

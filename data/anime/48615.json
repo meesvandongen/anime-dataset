@@ -1,0 +1,56 @@
+{
+  "id": 48615,
+  "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1762/113876.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1762/113876l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "How Not to Summon a Demon Lord Ω: Mini Anime"
+    ],
+    "en": "",
+    "ja": "異世界魔王と召喚少女の奴隷魔術Ω ミニアニメ"
+  },
+  "start_date": "2021-03-14",
+  "end_date": "2021-06-16",
+  "synopsis": "Mini anime of Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω airing on the official Twitter account.",
+  "mean": 5.94,
+  "rank": 9848,
+  "popularity": 8014,
+  "num_list_users": 5708,
+  "num_scoring_users": 1510,
+  "nsfw": "white",
+  "created_at": "2021-03-30T22:53:35+00:00",
+  "updated_at": "2022-03-14T22:11:38+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 18,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    },
+    {
+      "id": 2213,
+      "name": "Magma Studio"
+    }
+  ]
+}

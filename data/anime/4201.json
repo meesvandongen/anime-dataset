@@ -1,0 +1,55 @@
+{
+  "id": 4201,
+  "title": "Chocchan Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1696/112292.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1696/112292l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chocchan's Story"
+    ],
+    "en": "",
+    "ja": "チョッちゃん物語"
+  },
+  "start_date": "1996-03-20",
+  "end_date": "1996-03-20",
+  "synopsis": "This feature length film is based on autobiography of Cho \"Chocchan\" Kuroyanagi, who is better known as the mother of an actress Tetsuko Kuroyanagi.\n\nThe story starts in pre-World War 2 Japan when Chocchan marries violinist despite the objection of both of their families. They live in poverty, have three children and are happy together. Any misfortune they face with a smile. But new obstacle for their happiness comes when the war breaks out and Chocchan's husband must leave for the front...",
+  "mean": 6.63,
+  "rank": 6110,
+  "popularity": 11619,
+  "num_list_users": 1754,
+  "num_scoring_users": 316,
+  "nsfw": "white",
+  "created_at": "2008-03-31T08:42:46+00:00",
+  "updated_at": "2020-01-23T04:51:50+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "winter"
+  },
+  "average_episode_duration": 4505,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 110,
+      "name": "Triangle Staff"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 5395,
+  "title": "Nekketsu Saikyou Go-Saurer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1138/100815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1138/100815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nekketsu Saikyou Gosaurer",
+      "Hot-Blooded Strongest Go-Saurer",
+      "Matchless Passion Gozaurer",
+      "Eldran series #3"
+    ],
+    "en": "",
+    "ja": "熱血最強ゴウザウラー"
+  },
+  "start_date": "1993-03-03",
+  "end_date": "1994-02-23",
+  "synopsis": "The Kikaika (literally mechanization) Empire invades our solar system, and in a matter of moments they take over and convert Neptune, Uranus, Saturn, Jupiter,and Mars, and set their sights on Earth. However, one thing stands in their way. Earth's ancient protector and soldier of light, Eldoran. To fight this menace he gifts a 5th-grade class with 3 huge robotic dinosaurs, with the power to merge and form the giant robot Gosaurer, which they then can pilot and use to stop the Kikaika Empire's advances.\n\n(Source: ANN)",
+  "mean": 7.29,
+  "rank": 2780,
+  "popularity": 11750,
+  "num_list_users": 1663,
+  "num_scoring_users": 420,
+  "nsfw": "white",
+  "created_at": "2008-10-16T17:15:19+00:00",
+  "updated_at": "2022-04-13T00:06:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

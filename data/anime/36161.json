@@ -1,0 +1,50 @@
+{
+  "id": 36161,
+  "title": "Annyeong, Jeonwoochi! Dosoolrobotdaegyeoljeon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/87371.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/87371l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Jeon Woo-chi! The Battle of the Magic Robots"
+    ],
+    "en": "",
+    "ja": "안녕, 전우치! 도술로봇대결전"
+  },
+  "start_date": "2015-10-08",
+  "end_date": "2015-10-08",
+  "synopsis": "Jeon Woo-chi travels over 500 years into the year 2015 on the elevator after defeating a king who bullies his people. He meets Suk and San-cho, two kids who are masters at martial arts and they become friends. In the meantime, Jeon Woo-chi's friend and rival Woo Dang-tang and the king join forces to take revenge on Jeon Woo-chi. They even make a martial arts robot.\n\nMeanwhile, Woo-chi and his friends get trapped in a time room according to Woo Dang-tang's plan and they face danger. Their time is taken away and Jeon Woo-chi becomes a kid, losing all of his powers. The king takes this time to use the robot to bully the people. \n\n(Source: Hancinema)",
+  "rank": 18199,
+  "popularity": 19332,
+  "num_list_users": 253,
+  "num_scoring_users": 51,
+  "nsfw": "white",
+  "created_at": "2017-08-20T14:37:51+00:00",
+  "updated_at": "2018-05-27T06:09:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 5280,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": 41490,
+  "title": "Kai Ten Ryo Kou Ki with Tavito Nanao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1762/106580.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1762/106580l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "回・転・旅・行・記 with 七尾旅人"
+  },
+  "start_date": "2015-10-30",
+  "end_date": "2015-10-30",
+  "synopsis": "Music video directed by ShiShi Yamazaki for the song Kai Ten Ryo Kou Ki by Japanese music group Open Reel Ensemble, featuring Tavito Nanao.",
+  "mean": 5.45,
+  "popularity": 19477,
+  "num_list_users": 244,
+  "num_scoring_users": 121,
+  "nsfw": "white",
+  "created_at": "2020-03-21T03:19:51+00:00",
+  "updated_at": "2020-05-30T10:19:48+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 193,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1674,
+  "title": "Captain Tsubasa J",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1140/92113.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1140/92113l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "キャプテン翼Ｊ"
+  },
+  "start_date": "1994-10-21",
+  "end_date": "1995-12-22",
+  "synopsis": "The first 33 episodes are a summary of the previous series. In the first new episodes a new character, Shingo Aoi, (playing in Italy) is introduced. After that the world cup begins, this time with extraordinary, new countries like Sweden, Thailand or Uzbekistan.\n\n(Source: ANN)",
+  "mean": 7.29,
+  "rank": 2758,
+  "popularity": 4049,
+  "num_list_users": 29983,
+  "num_scoring_users": 17463,
+  "nsfw": "white",
+  "created_at": "2006-11-24T15:46:04+00:00",
+  "updated_at": "2022-12-22T00:40:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 47,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "19:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1620,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 126,
+      "name": "Studio Comet"
+    }
+  ]
+}

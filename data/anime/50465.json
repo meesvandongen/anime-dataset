@@ -1,0 +1,38 @@
+{
+  "id": 50465,
+  "title": "Odoru Pompokolin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1707/119672.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1707/119672l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "おどるポンポコリン"
+  },
+  "start_date": "2019-08-16",
+  "end_date": "2019-08-16",
+  "synopsis": "Animated music video for the song Odoru Pompokolin from Chibi Maruko-chan, covered by Momoiro Clover Z.",
+  "popularity": 19807,
+  "num_list_users": 227,
+  "num_scoring_users": 102,
+  "nsfw": "white",
+  "created_at": "2021-11-25T21:38:27+00:00",
+  "updated_at": "2021-11-29T08:20:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "average_episode_duration": 199,
+  "rating": "g",
+  "studios": []
+}

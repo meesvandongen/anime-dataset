@@ -1,0 +1,62 @@
+{
+  "id": 706,
+  "title": "Comic Party Revolution",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1100/130425.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1100/130425l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Comic Party: Revolution",
+      "Comic Party Revolution TV",
+      "Comic Party Revolution (2005)"
+    ],
+    "en": "",
+    "ja": "こみっくパーティー Revolution"
+  },
+  "start_date": "2005-04-04",
+  "end_date": "2005-06-28",
+  "synopsis": "Sendo Kazuki, failed the entrance exam for the art college he was applying to, His childhood friend, Kuhonbutsu Taishi forced Kazuki to enter the doujin (private publishing) world. \n\n(Source: AnimeNfo)",
+  "mean": 6.48,
+  "rank": 6980,
+  "popularity": 6350,
+  "num_list_users": 10059,
+  "num_scoring_users": 4107,
+  "nsfw": "white",
+  "created_at": "2006-02-05T16:52:10+00:00",
+  "updated_at": "2023-01-18T13:03:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 81,
+      "name": "Radix"
+    },
+    {
+      "id": 462,
+      "name": "Chaos Project"
+    }
+  ]
+}

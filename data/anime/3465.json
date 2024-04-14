@@ -1,0 +1,60 @@
+{
+  "id": 3465,
+  "title": "Nagasaki 1945: Angelus no Kane",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1579/112922.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1579/112922l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Bells of Nagasaki"
+    ],
+    "en": "Nagasaki 1945 ~ The Angelus Bells",
+    "ja": "NAGASAKI・1945 アンゼラスの鐘"
+  },
+  "start_date": "2005-09-09",
+  "end_date": "2005-09-09",
+  "synopsis": "August 1945. In a converted theological seminary on the outskirts of Nagasaki, a young doctor works to help his patients, as unsettling news comes of a new weapon used by the Americans on the city of Hiroshima. When the second nuclear weapon is dropped on Nagasaki, the hospital staff must work to save lives in the midst of the concentric circles of death that their city has become.",
+  "mean": 6.6,
+  "rank": 6310,
+  "popularity": 12232,
+  "num_list_users": 1413,
+  "num_scoring_users": 291,
+  "nsfw": "white",
+  "created_at": "2007-11-25T09:47:03+00:00",
+  "updated_at": "2021-05-25T22:29:34+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "book",
+  "average_episode_duration": 4925,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 37069,
+  "title": "Hana Ichi Monme",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/89913.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/89913l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "花いちもんめ"
+  },
+  "start_date": "1979-12-10",
+  "end_date": "1979-12-10",
+  "synopsis": "A music video adaptation of the classic Japanese children's game. The game is similar to the game Red Rover in the Western world. \n\n(Source: Wiki)",
+  "mean": 5.28,
+  "popularity": 19039,
+  "num_list_users": 269,
+  "num_scoring_users": 113,
+  "nsfw": "white",
+  "created_at": "2018-01-07T02:43:26+00:00",
+  "updated_at": "2018-01-07T13:02:44+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 130,
+  "rating": "g",
+  "studios": []
+}

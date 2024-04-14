@@ -1,0 +1,46 @@
+{
+  "id": 9291,
+  "title": "Hello Kitty no Cinderella",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/72447.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/72447l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty and Friends: Cinderella"
+    ],
+    "en": "Hello Kitty in Cinderella",
+    "ja": "ハローキティのシンデレラ"
+  },
+  "start_date": "1989-07-22",
+  "end_date": "1989-07-22",
+  "synopsis": "Hello Kitty version of Cinderella.",
+  "mean": 6.38,
+  "rank": 7573,
+  "popularity": 11833,
+  "num_list_users": 1617,
+  "num_scoring_users": 660,
+  "nsfw": "white",
+  "created_at": "2010-08-02T13:28:07+00:00",
+  "updated_at": "2022-03-17T15:14:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "average_episode_duration": 1845,
+  "rating": "pg",
+  "studios": []
+}

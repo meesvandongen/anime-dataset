@@ -1,0 +1,51 @@
+{
+  "id": 30144,
+  "title": "Nyuru Nyuru!! Kakusen-kun 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/72532.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/72532l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nyuru Nyuru!! Kakusen-kun 2-ki"
+    ],
+    "en": "",
+    "ja": "にゅるにゅる!!KAKUSENくん2期"
+  },
+  "start_date": "2015-04-06",
+  "end_date": "2015-06-29",
+  "synopsis": "The anime revolves around little creatures called \"Kakusen\" who live in the skin pores of humans. Child actor Yuuto Itou will return as the title character Nyuruo, a newborn Kakusen who was born in the nose. Nyuruo is ignorant of the world around him, but he is honest. His hobby is stamp rallies and his dream is to become a government worker.\n\n(Source: ANN)",
+  "rank": 16944,
+  "popularity": 15160,
+  "num_list_users": 608,
+  "num_scoring_users": 116,
+  "nsfw": "white",
+  "created_at": "2015-02-21T23:48:16+00:00",
+  "updated_at": "2018-11-25T05:51:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:54"
+  },
+  "source": "original",
+  "average_episode_duration": 306,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

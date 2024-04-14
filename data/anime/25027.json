@@ -1,0 +1,62 @@
+{
+  "id": 25027,
+  "title": "Little Polar Bear: Shirokuma-kun, Doko e?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/64087.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/64087l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "リトルポーラベア しろくまくん, どこへ?"
+  },
+  "start_date": "1990-04-28",
+  "end_date": "1990-04-28",
+  "synopsis": "Based on the childrens' book Little Polar Bear by Dutch author Hans de Beer.",
+  "mean": 6.12,
+  "rank": 8975,
+  "popularity": 14518,
+  "num_list_users": 725,
+  "num_scoring_users": 205,
+  "nsfw": "white",
+  "created_at": "2014-07-02T09:13:38+00:00",
+  "updated_at": "2021-06-12T20:14:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "spring"
+  },
+  "source": "book",
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 155,
+      "name": "animate Film"
+    }
+  ]
+}

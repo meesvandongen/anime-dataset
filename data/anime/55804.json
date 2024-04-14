@@ -1,0 +1,54 @@
+{
+  "id": 55804,
+  "title": "Kimberly Mahou Gakkou no Yukai na Nichijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1889/136950.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1889/136950l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Reign of the Seven Spellblades Mini",
+    "ja": "キンバリー魔法学校のゆかいな日常"
+  },
+  "start_date": "2023-06-28",
+  "end_date": "2023-10-20",
+  "synopsis": "Nanatsu no Maken ga Shihai suru mini anime released on the official Twitter account.",
+  "mean": 5.62,
+  "rank": 11188,
+  "popularity": 15297,
+  "num_list_users": 585,
+  "num_scoring_users": 156,
+  "nsfw": "white",
+  "created_at": "2023-06-29T17:28:12+00:00",
+  "updated_at": "2023-10-29T16:53:11+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 36,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    }
+  ]
+}

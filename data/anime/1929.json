@@ -1,0 +1,61 @@
+{
+  "id": 1929,
+  "title": "Futari wa Precure: Max Heart",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/7536.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/7536l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pretty Cure Max Heart",
+      "We Are Pretty Cure: Max Heart"
+    ],
+    "en": "",
+    "ja": "ふたりはプリキュア ー マックスハート"
+  },
+  "start_date": "2005-02-06",
+  "end_date": "2006-01-29",
+  "synopsis": "Shortly after the fall of the Wicked King, the Queen of the Garden of Light lost her memory and came to Earth, in the form of a 12-year-old girl named Hikari Kujou. Now, she—with the help of Nagisa and Honoka, endowed with new costumes and powers—must find the 12 Heartiels, which hold the key to restoring the Queen's lost memories. For together once again, they are Pretty Cure.\n\n(Source: AniDB)",
+  "mean": 7.08,
+  "rank": 3900,
+  "popularity": 4905,
+  "num_list_users": 19503,
+  "num_scoring_users": 8445,
+  "nsfw": "white",
+  "created_at": "2007-02-12T03:09:14+00:00",
+  "updated_at": "2023-02-19T14:23:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 47,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1451,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

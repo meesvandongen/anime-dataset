@@ -1,0 +1,58 @@
+{
+  "id": 34088,
+  "title": "Chiruran: Nibun no Ichi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/82948.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/82948l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Chiruran 1/2",
+    "ja": "ちるらん にぶんの壱"
+  },
+  "start_date": "2017-01-10",
+  "end_date": "2017-03-28",
+  "synopsis": "Strong, intense, and cute! The most laid-back Shinsengumi in history arrives!! An official spinoff series by Hashimoto Eiji (manga) and Umemura Shinya (story) of Chiruran Shinsengumi Requiem. Here's the laid-back everyday life of the Shinsengumi warriors.\n\n(Source: Crunchyroll)",
+  "mean": 5.63,
+  "rank": 11156,
+  "popularity": 7054,
+  "num_list_users": 7826,
+  "num_scoring_users": 3362,
+  "nsfw": "white",
+  "created_at": "2016-09-19T18:56:41+00:00",
+  "updated_at": "2022-04-08T16:18:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 563,
+      "name": "LandQ studios"
+    }
+  ]
+}

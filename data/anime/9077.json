@@ -1,0 +1,73 @@
+{
+  "id": 9077,
+  "title": "Rokudenashi Blues",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/25146.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/25146l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Good-For-Nothing Blues 1992",
+      "Rokudenashi Blues '92"
+    ],
+    "en": "",
+    "ja": "ろくでなしBLUES"
+  },
+  "start_date": "1992-07-11",
+  "end_date": "1992-07-11",
+  "synopsis": "Maeda is a new student in the Teiken High School. He stutters when he's nervous and he's rather clumsy. He gets noted immediately because he hits a teacher during the entrance ceremony. Some clubs search to enlist him as they see in him a force they can use to get even with other clubs. But Maeda is a loner and has only one dream: becoming a boxing champion.\n\n(Source: MU)",
+  "mean": 5.83,
+  "rank": 10315,
+  "popularity": 10307,
+  "num_list_users": 2675,
+  "num_scoring_users": 724,
+  "nsfw": "white",
+  "created_at": "2010-06-28T22:12:40+00:00",
+  "updated_at": "2022-02-15T01:41:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1980,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

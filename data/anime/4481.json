@@ -1,0 +1,54 @@
+{
+  "id": 4481,
+  "title": "Saiyuuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1741/100518.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1741/100518l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saiyuki",
+      "Journey to the West",
+      "The Magic Land of Alakazam"
+    ],
+    "en": "Alakazam the Great",
+    "ja": "西遊記"
+  },
+  "start_date": "1960-08-14",
+  "end_date": "1960-08-14",
+  "synopsis": "Upon a mountain, a monkey is born from stone—nameless, parentless, and friendless. That is, until one day, he encounters a young female monkey named RinRin, who offers to be his friend. Through RinRin's encouragement, he becomes king after a test of bravery; however, his personality sours. When RinRin tells him that humans are the most intelligent creatures on Earth, the monkey vows to become smarter than them. He leaves RinRin behind and trains with a mountain hermit who gives him the name Son-Goku.\n\nFollowing Goku's imprisonment for using his newfound powers to steal a celestial fruit from heaven, he is rescued by a monk. In exchange, he is asked to accompany the monk on a journey to India. This journey will prove to be yet another challenge for the monkey to overcome.\n\n[Written by MAL Rewrite]",
+  "mean": 6.23,
+  "rank": 8449,
+  "popularity": 9504,
+  "num_list_users": 3488,
+  "num_scoring_users": 1374,
+  "nsfw": "white",
+  "created_at": "2008-05-11T22:40:33+00:00",
+  "updated_at": "2024-01-12T09:29:19+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1960,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 5280,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

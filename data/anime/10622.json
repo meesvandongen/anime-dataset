@@ -1,0 +1,67 @@
+{
+  "id": 10622,
+  "title": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/29189.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/29189l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tengen Toppa Gurren Lagann Episode 5.5",
+      "Tengen Toppa Gurren Lagann OVA",
+      "TTGL DS OVA",
+      "Tengen Toppa Gurren Lagann My Gurren is Sparkling!!"
+    ],
+    "en": "Gurren Lagann: My Gurren is Shiny!!",
+    "ja": "天元突破 グレンラガン  俺のグレンはピッカピカ!!"
+  },
+  "start_date": "2007-10-25",
+  "end_date": "2007-10-25",
+  "synopsis": "A special episode bundled with the Nintendo DS game based on the series. Envious of seeing how Simon keeps his Lagann clean and neat, Kamina asks the mysterious Chitori to clean up his Gurren for him, unaware of her true intentions.\n\n(Source: Wikipedia) ",
+  "mean": 6.76,
+  "rank": 5407,
+  "popularity": 3705,
+  "num_list_users": 36220,
+  "num_scoring_users": 16346,
+  "nsfw": "white",
+  "created_at": "2011-04-21T23:51:57+00:00",
+  "updated_at": "2022-03-31T16:08:43+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 732,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

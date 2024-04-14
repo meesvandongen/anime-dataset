@@ -1,0 +1,53 @@
+{
+  "id": 2808,
+  "title": "Irregular Hunter X: The Day of Sigma",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/9131.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/9131l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Irregular Hunter X",
+      "MegaMan Maverick Hunter X: The Day of Sigma"
+    ],
+    "en": "Megaman X - The Day of Sigma",
+    "ja": "イレギュラーハンターＸ"
+  },
+  "start_date": "2005-12-15",
+  "end_date": "2005-12-15",
+  "synopsis": "The year is 21XX. Reploids are commonplace now, after Dr. Cain rediscovered Dr. Light's old lab and based several designs off of Dr.Light's original, called \"Megaman X.\" X, meanwhile, has joined the Maverick Hunters, and works with unit leader Zero under the command of General Sigma. It is their job to terminate rogue reploids, those who have become violent. \n\n(Source: ANN)",
+  "mean": 7.17,
+  "rank": 3430,
+  "popularity": 5922,
+  "num_list_users": 11949,
+  "num_scoring_users": 6428,
+  "nsfw": "white",
+  "created_at": "2007-07-18T03:52:18+00:00",
+  "updated_at": "2023-11-07T09:05:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

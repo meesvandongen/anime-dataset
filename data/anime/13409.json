@@ -1,0 +1,73 @@
+{
+  "id": 13409,
+  "title": "Moyashimon Returns",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/39775.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/39775l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Moyashimon Returns: Tales of Agriculture",
+      "Moyasimon Returns"
+    ],
+    "en": "",
+    "ja": "もやしもん リターンズ"
+  },
+  "start_date": "2012-07-06",
+  "end_date": "2012-09-14",
+  "synopsis": "In the second season the story continues exactly where it left off previously. Professor Itsuki's Fermentation Cellar and laboratory is ready for operation and with Sawaki Tadayasu's unique gift to see and communicate with microbes to help, Itsuki's motley group of students begin to process different fermented products like soy sauce and sake.\n\n(Source: ANN)",
+  "mean": 7.21,
+  "rank": 3199,
+  "popularity": 4373,
+  "num_list_users": 25403,
+  "num_scoring_users": 12926,
+  "nsfw": "white",
+  "created_at": "2012-03-23T01:53:33+00:00",
+  "updated_at": "2022-09-09T07:37:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:45"
+  },
+  "source": "manga",
+  "average_episode_duration": 1390,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    },
+    {
+      "id": 235,
+      "name": "Shirogumi"
+    }
+  ]
+}

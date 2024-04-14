@@ -1,0 +1,46 @@
+{
+  "id": 31829,
+  "title": "Sinbad: Mahou no Lamp to Ugoku Shima",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/76686.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/76686l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sinbad: The Magic Lamp and the Moving Islands",
+    "ja": "シンドバッド 魔法のランプと動く島"
+  },
+  "start_date": "2016-01-16",
+  "end_date": "2016-01-16",
+  "synopsis": "Sinbad and his friends run afoul of a storm while riding on the ship Bahal. Ali sights an island, which the ship heads toward to make repairs. Sinbad and Sana board a dinghy and land on the island. Sana sees a vision of a magical lamp, and Sinbad and the others set out to find it.\n\n(Source: ANN)",
+  "mean": 6.18,
+  "rank": 8674,
+  "popularity": 11521,
+  "num_list_users": 1811,
+  "num_scoring_users": 481,
+  "nsfw": "white",
+  "created_at": "2015-10-12T18:06:44+00:00",
+  "updated_at": "2021-02-15T01:38:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 2987,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

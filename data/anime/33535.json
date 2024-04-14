@@ -1,0 +1,45 @@
+{
+  "id": 33535,
+  "title": "Runningman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/80667.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/80667l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Runningman",
+    "ja": "「RUNNINGMAN」ランニングマン>"
+  },
+  "start_date": "2012-02-22",
+  "end_date": "2012-02-22",
+  "synopsis": "A father works hard for the family. Due to being overweight and not fitting on the couch with his wife and daughter he sets out to lose weight.",
+  "mean": 5.47,
+  "rank": 11682,
+  "popularity": 16734,
+  "num_list_users": 432,
+  "num_scoring_users": 154,
+  "nsfw": "white",
+  "created_at": "2016-07-02T05:31:20+00:00",
+  "updated_at": "2019-10-22T13:18:36+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 285,
+  "rating": "g",
+  "studios": []
+}

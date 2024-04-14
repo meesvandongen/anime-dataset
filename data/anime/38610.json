@@ -1,0 +1,66 @@
+{
+  "id": 38610,
+  "title": "Tejina-senpai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1510/99891.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1510/99891l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magical Sempai",
+    "ja": "手品先輩"
+  },
+  "start_date": "2019-07-02",
+  "end_date": "2019-09-17",
+  "synopsis": "Starting his new term at Tanenashi High School, an unmotivated freshman searches for a club that requires minimal participation to suit his needs. He then comes across the magic clubroom, and inside is a cute upperclassman practicing her magic tricks. Suffering from stage fright that causes her to slip up in her acts, she has a tendency to end up in the most embarrassing situations. Despite having little interest in a club run by an incapable magician, the freshman finds himself involved as a new member, experiencing all sorts of awkward moments with his eccentric mentor.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.39,
+  "rank": 7526,
+  "popularity": 875,
+  "num_list_users": 276575,
+  "num_scoring_users": 128746,
+  "nsfw": "gray",
+  "created_at": "2018-10-31T08:54:35+00:00",
+  "updated_at": "2024-02-07T09:35:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 750,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

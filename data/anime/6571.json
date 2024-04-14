@@ -1,0 +1,64 @@
+{
+  "id": 6571,
+  "title": "Koume-chan ga Iku!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/15018.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/15018l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koumechan ga Iku!!",
+      "Anime Ai no Awa Awa Hour",
+      "Anime Lovers' Awa Awa Hour",
+      "Anime Lovers' Bubble Bubble Hour",
+      "Modern Love's Silliness"
+    ],
+    "en": "Here Comes Koume!",
+    "ja": "小梅ちゃんが行く!!"
+  },
+  "start_date": "1999-08-01",
+  "end_date": "1999-10-01",
+  "synopsis": "Koume is a new Office Lady (OL), an employee of Caramel Ribbon, Inc., a firm of designers. This is the story of her days and nights, complete with humor unique to Osaka.\n\nSeen from outside, Kansai doesn't seem like the rest of Japan. Watching this show will make you an expert, even if you know nothing about the area right now.\n\nIt's a humorous tale of life in a Japanese company, with Koume, her effeminate boss, and Kimi, a one-time girl gang member, as they try to sell (supposedly) new and fresh designs. The voice actors also come from Kansai, ensuring authenticity.\n\n(Source: AniDB)",
+  "mean": 5.76,
+  "rank": 10619,
+  "popularity": 11897,
+  "num_list_users": 1582,
+  "num_scoring_users": 370,
+  "nsfw": "white",
+  "created_at": "2009-06-02T21:40:18+00:00",
+  "updated_at": "2019-07-05T20:53:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1999,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    },
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

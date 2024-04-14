@@ -1,0 +1,80 @@
+{
+  "id": 33028,
+  "title": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/80932.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/80932l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Danganronpa 3: The End of Hope's Peak Academy - Despair Volume"
+    ],
+    "en": "Danganronpa 3: The End of Hope's Peak High School - Despair Arc",
+    "ja": "ダンガンロンパ3 -The End of 希望ヶ峰学園- 絶望編"
+  },
+  "start_date": "2016-07-14",
+  "end_date": "2016-09-22",
+  "synopsis": "Hope's Peak Academy's unconventional class 77-B is about to have an even more eccentric addition: Chisa Yukizome, an alumna with the title of Super High School-Level Housekeeper—and their new homeroom teacher. Cheerful, passionate, and capable, Chisa immediately sets about correcting the students' problematic behavior and strengthening their relationships. It may not be easy dealing with diverse pupils ranging from princesses and nurses to yakuza and impossibly lucky students, but anything is possible with the power of hope.\n\nMeanwhile, Hajime Hinata, an unremarkable boy from the school's Reserve Course, longs for a talent. One day, he has an unexpected meeting with class 77-B's Super High School-Level Gamer Chiaki Nanami, who presents to him a new, hope-filled outlook on life. However, unbeknownst to him, the school's upper echelon is about to execute a sinister project centered around Hajime that will bring Hope's Peak—and the rest of the world—to its knees.\n\nZetsubou-hen chronicles the daily lives carried out at the talent-cultivating academy, and the darkness that lurks beneath. As despair slowly infects hope, plans are put into motion to start the Biggest, Most Awful, Most Tragic Event in Human History, and the end begins.\n\n[Written by MAL Rewrite]",
+  "mean": 7.36,
+  "rank": 2453,
+  "popularity": 741,
+  "num_list_users": 323293,
+  "num_scoring_users": 179455,
+  "nsfw": "white",
+  "created_at": "2016-03-26T03:13:18+00:00",
+  "updated_at": "2024-03-06T11:45:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:30"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1424,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

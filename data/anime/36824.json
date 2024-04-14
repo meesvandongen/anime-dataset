@@ -1,0 +1,62 @@
+{
+  "id": 36824,
+  "title": "Huyao Xiao Hongniang: Nan Guo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1739/108980.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1739/108980l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fox Spirit Matchmaker: Southern Kingdom",
+      "Little Foxspirit Matchmaker Season 6",
+      "Enmusubi no Youko-chan"
+    ],
+    "en": "Fox Spirit Matchmaker 6th Season",
+    "ja": "狐妖小红娘 南国"
+  },
+  "start_date": "2017-11-24",
+  "end_date": "2018-06-22",
+  "synopsis": "The 6th season of Huyao Xiao Hongniang",
+  "mean": 7.34,
+  "rank": 2532,
+  "popularity": 7175,
+  "num_list_users": 7499,
+  "num_scoring_users": 2059,
+  "nsfw": "white",
+  "created_at": "2017-11-17T08:18:35+00:00",
+  "updated_at": "2022-03-07T23:03:28+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1145,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1325,
+      "name": "Haoliners Animation League"
+    }
+  ]
+}

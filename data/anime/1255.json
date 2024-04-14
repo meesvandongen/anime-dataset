@@ -1,0 +1,58 @@
+{
+  "id": 1255,
+  "title": "Saint Seiya: Shinku no Shounen Densetsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/52889.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/52889l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Saint Seiya: Legend of Crimson Youth",
+    "ja": "聖闘士星矢 真紅の少年伝説"
+  },
+  "start_date": "1988-07-23",
+  "end_date": "1988-07-23",
+  "synopsis": "Sun God Apollo the brother of Athena is here to take Athena back to heaven and taking over the sanctuary. He revived the deceased gold saints and use them and a few god saints as bodyguards. But Athena did not obey him, Apollo had no choice but send her to hell. On the otherhand, the bronze saints are on their way to save Athena.\n\n(Source: ANN) ",
+  "mean": 7.21,
+  "rank": 3202,
+  "popularity": 5235,
+  "num_list_users": 16328,
+  "num_scoring_users": 9093,
+  "nsfw": "white",
+  "created_at": "2006-08-06T06:47:18+00:00",
+  "updated_at": "2021-12-02T03:09:01+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 4500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

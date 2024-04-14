@@ -1,0 +1,74 @@
+{
+  "id": 41392,
+  "title": "Urasekai Picnic",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1494/111515.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1494/111515l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Otherside Picnic",
+    "ja": "裏世界ピクニック"
+  },
+  "start_date": "2021-01-04",
+  "end_date": "2021-03-22",
+  "synopsis": "The \"Otherworld\" is a vast and dangerous realm hidden from the knowledge of the common folk. It is also home to many creatures that threaten any human who dare visit it. To witness its desolate yet oddly absorbing environment, one must search for portals that could reside anywhere, from secret elevators to shrine entrances.\n\nAfter a fateful encounter with a horrendous Otherworld denizen, Sorawo Kamikoshi ponders whether to keep going or give up in life. Meanwhile, Toriko Nishina scours the Otherworld in hopes of finding her friend Satsuki, who she believes is lost somewhere within the realm. \n\nWhen the two cross paths, friendship blossoms. In order to acquire as much information about this obscure dimension, the two travel back and forth from the real world to the other. Sorawo and Toriko's bodies are soon influenced by the Otherworld, preparing them for the many horrors to come as both of them try to fulfill their goals.\n\n[Written by MAL Rewrite]",
+  "mean": 6.64,
+  "rank": 6082,
+  "popularity": 1810,
+  "num_list_users": 120536,
+  "num_scoring_users": 39914,
+  "nsfw": "white",
+  "created_at": "2020-03-05T09:40:25+00:00",
+  "updated_at": "2023-03-24T19:32:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:30"
+  },
+  "source": "novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    },
+    {
+      "id": 1440,
+      "name": "Felix Film"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 6877,
+  "title": "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/42981.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/42981l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokemon: Pichu Bros. Wild Adventure",
+      "Pocket Monsters: Boku-tachi Pichu Brothers - Party wa Oosawagi! no Maki"
+    ],
+    "en": "Pokémon: Pichu Bros. in Party Panic",
+    "ja": "ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～"
+  },
+  "start_date": "2003-07-18",
+  "end_date": "2003-07-18",
+  "synopsis": "This is an animated cartoon that was released inside the game Pokémon Channel.\n\nA half-hour long anime show, broken into five short segments, featuring the Pichu Brothers. Meowth throws a party that the Pichu brothers and their friends are not invited to. After a series of events, they find out they were invited, but their invitations were simply delivered late. They go to Meowth's Party and hear him sing. The series has a total of five episodes, each on its own channel.\n\n(Source: Wikipedia)",
+  "mean": 6.49,
+  "rank": 6935,
+  "popularity": 5632,
+  "num_list_users": 13613,
+  "num_scoring_users": 6607,
+  "nsfw": "white",
+  "created_at": "2009-07-26T09:10:55+00:00",
+  "updated_at": "2022-03-14T03:57:08+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 1240,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

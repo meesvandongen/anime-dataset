@@ -1,0 +1,70 @@
+{
+  "id": 41589,
+  "title": "Tokyo Mew Mew New ♡",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1001/116687.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1001/116687l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tokyo Mew Mew New",
+    "ja": "東京ミュウミュウ にゅ～♡"
+  },
+  "start_date": "2022-07-06",
+  "end_date": "2022-09-21",
+  "synopsis": "Ichigo Momomiya is excited to start high school and fall in love. She is in luck when she meets the popular and good-looking Masaya Aoyama, and she immediately develops a crush on him. When Ichigo learns that Aoyama is passionate about the environment, she seizes the chance to ask him out thanks to some tickets to an exhibition about endangered animals.\n\nDuring their date, Ichigo is struck by a mysterious light and faints. Waking up to the sight of Aoyama, she remains unharmed—but they both must escape from a giant rat-like creature after it injures Aoyama. To save her crush, Ichigo awakens her powers and transforms into a heroine with the skills of a cat.\n\nAfter she defeats the monster, researchers Ryou Shirogane and Keiichiro Akasaka explain that Ichigo was chosen to become a part of the Mew Project: a group of five magical girls whose DNA has been infused with those of certain endangered species. Now, Ichigo must find the rest of her teammates to defeat the Chimera Anima—beings infected by aliens who want to take over the world—before it is too late.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.62,
+  "rank": 6178,
+  "popularity": 3341,
+  "num_list_users": 43776,
+  "num_scoring_users": 10480,
+  "nsfw": "white",
+  "created_at": "2020-04-02T13:36:19+00:00",
+  "updated_at": "2023-02-26T08:42:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1476,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    },
+    {
+      "id": 894,
+      "name": "Graphinica"
+    }
+  ]
+}

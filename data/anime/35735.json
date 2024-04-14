@@ -1,0 +1,39 @@
+{
+  "id": 35735,
+  "title": "Bussouna Yoru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/86260.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/86260l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Troubled Night",
+    "ja": "物騒な夜"
+  },
+  "start_date": "2016-03-09",
+  "end_date": "2016-03-09",
+  "synopsis": "",
+  "mean": 5.38,
+  "popularity": 18985,
+  "num_list_users": 272,
+  "num_scoring_users": 143,
+  "nsfw": "white",
+  "created_at": "2017-06-13T09:12:51+00:00",
+  "updated_at": "2018-12-02T15:25:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "average_episode_duration": 263,
+  "rating": "g",
+  "studios": []
+}

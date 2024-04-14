@@ -1,0 +1,43 @@
+{
+  "id": 55155,
+  "title": "Dugeundugeun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1799/135604.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1799/135604l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pit-A-Pat",
+    "ja": "두근두근"
+  },
+  "start_date": "2016-09-08",
+  "end_date": "2016-09-08",
+  "synopsis": "Music video for SM STATION's track Dugeundugeun 250 Remix by SM X BANA.",
+  "popularity": 22437,
+  "num_list_users": 104,
+  "num_scoring_users": 58,
+  "nsfw": "white",
+  "created_at": "2023-04-28T15:33:42+00:00",
+  "updated_at": "2023-05-17T18:41:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 252,
+  "rating": "pg_13",
+  "studios": []
+}

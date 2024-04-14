@@ -1,0 +1,56 @@
+{
+  "id": 5226,
+  "title": "Souten Kouro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/13994.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/13994l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soten Koro"
+    ],
+    "en": "Beyond the Heavens",
+    "ja": "蒼天航路"
+  },
+  "start_date": "2009-04-08",
+  "end_date": "2009-09-30",
+  "synopsis": "Souten Kouro's story is based loosely on the events taking place in Three Kingdoms period of China during the life of the last Chancellor of the Eastern Han Dynasty, Cao Cao (155 – March 15, 220), who also serves as the main character.\n\nThe Three Kingdoms period has been a popular theme in Japanese manga for decades, but Souten Kouro differs greatly from most of the others on several points. One significant difference is its highly positive portrayal of its main character, Cao Cao, who is traditionally the antagonist in not only Japanese manga, but also most novel versions of the Three Kingdoms period, including the original 14th century version, Romance of the Three Kingdoms by Luo Guanzhong. Another significant difference from others is that the storyline primarily uses the original historical account of the era, Records of Three Kingdoms by Chen Shou, as a reference rather than the aforementioned Romance of the Three Kingdoms novel. By this, the traditional hero of Romance of the Three Kingdoms, Liu Bei, takes on relatively less importance within the story and is portrayed in a less positive light. Yet, several aspects of the story are in fact based on the novel version, including the employment of its original characters such as Diao Chan, as well as anachronistic weapons such as Guan Yu's Green Dragon Crescent Blade and Zhang Fei's Viper Blade.\n\nA consistent theme throughout the story is Cao Cao's perpetual desire to break China and its people away from its old systems and ways of thinking and initiate a focus on pragmatism over empty ideals. This often puts him at odds with the prevalent customs and notions of Confucianism and those that support them.\n\n(Source: Wikipedia)",
+  "mean": 7.21,
+  "rank": 3210,
+  "popularity": 4958,
+  "num_list_users": 19075,
+  "num_scoring_users": 4457,
+  "nsfw": "white",
+  "created_at": "2008-09-10T05:04:49+00:00",
+  "updated_at": "2022-04-03T11:48:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

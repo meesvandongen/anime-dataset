@@ -1,0 +1,62 @@
+{
+  "id": 37920,
+  "title": "Ueno-san wa Bukiyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1874/111374.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1874/111374l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "How clumsy you are, Miss Ueno.",
+    "ja": "上野さんは不器用"
+  },
+  "start_date": "2019-01-07",
+  "end_date": "2019-03-25",
+  "synopsis": "As the head of her middle school's science club, it's only fitting that Ueno is also a brilliant inventor. With devices that can convert any liquid into drinkable water, deodorize the most foul smells, or even generate dark matter to be used as a means of concealment, it seems like nothing is beyond Ueno's capabilities. However, she doesn't invent these devices for the advancement of mankind. Rather, the one force that motivates her is love, the only phenomenon she can't quite figure out.\n\nUeno is head over heels for Tanaka, her nonchalant fellow club member. Yet, because she is too nervous to confess her love and he is too oblivious to notice her affection, her love life is completely stagnant. In Ueno's mind, if she could just expose him to perverted situations, then surely he'd get flustered and fall for her, right? Assisted by her stone-faced classmate and dedicated wingwoman Yamashita, Ueno employs her many inventions on Tanaka in a lewd manner in hopes that he may one day understand how she feels.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.56,
+  "rank": 6500,
+  "popularity": 1816,
+  "num_list_users": 119985,
+  "num_scoring_users": 53686,
+  "nsfw": "white",
+  "created_at": "2018-05-22T09:52:03+00:00",
+  "updated_at": "2022-04-11T04:16:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 720,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1829,
+      "name": "Lesprit"
+    }
+  ]
+}

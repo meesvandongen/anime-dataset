@@ -1,0 +1,56 @@
+{
+  "id": 36001,
+  "title": "Alice or Alice",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1033/116744.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1033/116744l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Alice or Alice: Siscon Niisan to Futago no Imouto"
+    ],
+    "en": "",
+    "ja": "ありすorありす"
+  },
+  "start_date": "2018-04-04",
+  "end_date": "2018-06-20",
+  "synopsis": "This story gives a look at the daily life of a pair of Alice twins and their older brother who has a sister complex. Them eating meals, getting into fights, playing with friends... Would you like to peek at the heart-full daily life of the cute Alices?\n\n(Source: MAL News) ",
+  "mean": 5.35,
+  "rank": 12019,
+  "popularity": 3672,
+  "num_list_users": 36860,
+  "num_scoring_users": 14581,
+  "nsfw": "white",
+  "created_at": "2017-07-25T23:58:33+00:00",
+  "updated_at": "2022-12-24T01:49:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:25"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 221,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

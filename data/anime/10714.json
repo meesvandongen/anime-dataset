@@ -1,0 +1,62 @@
+{
+  "id": 10714,
+  "title": "Towa no Quon 3: Mugen no Renza",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/32945.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/32945l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Towanoquon: The Complicity of Dreams",
+    "ja": "トワノクオン 第３章 夢幻の連座"
+  },
+  "start_date": "2011-08-13",
+  "end_date": "2011-08-13",
+  "synopsis": "The story follows a boy named Quon and others who suddenly wake up with supernatural powers.",
+  "mean": 7.41,
+  "rank": 2246,
+  "popularity": 3648,
+  "num_list_users": 37402,
+  "num_scoring_users": 19586,
+  "nsfw": "white",
+  "created_at": "2011-05-17T18:16:28+00:00",
+  "updated_at": "2021-09-15T04:59:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2880,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

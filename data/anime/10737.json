@@ -1,0 +1,60 @@
+{
+  "id": 10737,
+  "title": "A-Channel: +A-Channel",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/29573.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/29573l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A-Channel Specials"
+    ],
+    "en": "A-Channel: +A-Channel",
+    "ja": "Aチャンネル"
+  },
+  "start_date": "2011-05-25",
+  "end_date": "2011-10-26",
+  "synopsis": "Extra specials from the DVD/BDs. ",
+  "mean": 6.95,
+  "rank": 4490,
+  "popularity": 4883,
+  "num_list_users": 19768,
+  "num_scoring_users": 9830,
+  "nsfw": "white",
+  "created_at": "2011-05-20T20:53:39+00:00",
+  "updated_at": "2022-12-24T00:56:38+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 171,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

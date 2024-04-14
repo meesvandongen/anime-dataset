@@ -1,0 +1,46 @@
+{
+  "id": 49743,
+  "title": "Tabi wa ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1909/117482.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1909/117482l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tabi Hani"
+    ],
+    "en": "",
+    "ja": "旅はに"
+  },
+  "start_date": "2023-04-08",
+  "synopsis": "The anime's story centers on Akari (a quiet high schooler who has inherited a love of travel from her older sister, who took care of her in place of often absent parents) and Nagi (Akari's cheerful classmate who willingly jumps into any activity, and becomes interested in Akari due to her mysterious air), who travel throughout Japan.\n\n(Source: ANN)",
+  "rank": 13686,
+  "popularity": 10828,
+  "num_list_users": 2272,
+  "num_scoring_users": 38,
+  "nsfw": "white",
+  "created_at": "2021-09-03T16:17:48+00:00",
+  "updated_at": "2024-01-07T22:56:42+00:00",
+  "media_type": "ova",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 761,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2313,
+      "name": "studio hb"
+    }
+  ]
+}

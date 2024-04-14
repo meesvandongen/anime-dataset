@@ -1,0 +1,65 @@
+{
+  "id": 35076,
+  "title": "Juuni Taisen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/87684.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/87684l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "12 Taisen",
+      "12 Wars"
+    ],
+    "en": "Juni Taisen: Zodiac War",
+    "ja": "十二大戦"
+  },
+  "start_date": "2017-10-03",
+  "end_date": "2017-12-19",
+  "synopsis": "Every 12 years, mercenaries who possess the highest caliber of brute strength, cunning wit, and deadly precision gather to participate in the Zodiac Tournament. Each warrior bears the name and attributes of one of the 12 animals of the Chinese zodiac. With their pride and lives on the line, they engage in vicious combat until only the victor remains.\n\nThe 12th Zodiac Tournament begins in a desolate city, devoid of any evidence of the half million people who recently lived there. To raise the stakes, each warrior ingests a poisonous gem, thus setting a time limit on the tournament—and on their life. With one wish for the victor up for grabs, the Zodiac Warriors start their cutthroat battle for survival.\n\n[Written by MAL Rewrite]",
+  "mean": 6.53,
+  "rank": 6714,
+  "popularity": 835,
+  "num_list_users": 290305,
+  "num_scoring_users": 141795,
+  "nsfw": "white",
+  "created_at": "2017-03-12T03:34:10+00:00",
+  "updated_at": "2024-03-06T12:40:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:30"
+  },
+  "source": "novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 894,
+      "name": "Graphinica"
+    }
+  ]
+}

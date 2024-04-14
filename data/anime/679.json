@@ -1,0 +1,73 @@
+{
+  "id": 679,
+  "title": "Shadow Skill (1996)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/37959.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/37959l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shadow Skill OVA",
+      "Shadow Skill 2"
+    ],
+    "en": "Shadow Skill: The Movie",
+    "ja": "影技 SHADOW SKILL"
+  },
+  "start_date": "1996-09-21",
+  "end_date": "1996-11-21",
+  "synopsis": "In a war torn world of deadly conflict, one small group of heroes stands against the forces of darkness, armed only with two weapons—their unswerving dedication to good and the superhuman martial art known as the Shadow Skill... \n\n(Source: ANN) ",
+  "mean": 6.56,
+  "rank": 6550,
+  "popularity": 7780,
+  "num_list_users": 6110,
+  "num_scoring_users": 2428,
+  "nsfw": "white",
+  "created_at": "2006-02-02T16:56:27+00:00",
+  "updated_at": "2023-10-05T11:12:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1131,
+      "name": "Zero-G Room"
+    }
+  ]
+}

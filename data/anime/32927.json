@@ -1,0 +1,45 @@
+{
+  "id": 32927,
+  "title": "Kidou Senshi Gundam Unicorn: A Phantom World",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/79011.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/79011l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Gundam UC: A Phantom World",
+    "ja": "機動戦士ガンダムUC A Phantom World"
+  },
+  "start_date": "2016-03-26",
+  "end_date": "2016-03-26",
+  "synopsis": "The short begins when an Anaheim Electronics-manufacture Sinanju Stein unit, stolen and now affiliated with the Neo Zeon unit Sleeves, bursts through the Earth's stratosphere. The Unicorn takes off from the Nahel Argama and moves to intercept. While it engages with the Sinanju Stein, the Banshee Norn and Phenex are moving to assist.\n\n(Source: ANN)",
+  "mean": 5.81,
+  "rank": 10432,
+  "popularity": 11004,
+  "num_list_users": 2148,
+  "num_scoring_users": 553,
+  "nsfw": "white",
+  "created_at": "2016-03-15T00:18:19+00:00",
+  "updated_at": "2022-11-07T18:08:40+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 180,
+  "rating": "pg",
+  "studios": []
+}

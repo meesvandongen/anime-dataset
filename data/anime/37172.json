@@ -1,0 +1,54 @@
+{
+  "id": 37172,
+  "title": "Nanatsu no Bitoku Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1938/90218.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1938/90218l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Seven Heavenly Virtues Specials",
+    "ja": "七つの美徳"
+  },
+  "start_date": "2018-04-27",
+  "end_date": "2018-04-27",
+  "synopsis": "Unaired episodes included with the Blu-ray and DVD release of Nanatsu no Bitoku. ",
+  "mean": 5.51,
+  "rank": 11565,
+  "popularity": 6116,
+  "num_list_users": 11004,
+  "num_scoring_users": 3939,
+  "nsfw": "gray",
+  "created_at": "2018-01-23T12:15:55+00:00",
+  "updated_at": "2023-10-11T21:27:47+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 257,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 397,
+      "name": "Bridge"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 35231,
+  "title": "Vatican Kiseki Chousakan: Majo no Soup",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1272/98077.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1272/98077l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Vatican Kiseki Chousakan Special"
+    ],
+    "en": "Vatican Miracle Examiner OVA",
+    "ja": "バチカン奇跡調査官 魔女のスープ"
+  },
+  "start_date": "2018-04-11",
+  "end_date": "2018-04-11",
+  "synopsis": "While going through old documents, Roberto Nicholas comes upon a peculiar record. It details the agreement of a witch who concocted a soup that supposedly granted generations of popes with longevity in return for her exoneration from the brutal witch trials. Curious as to why the Vatican treated the record with such secrecy and whether the elixir of longevity truly exists, Roberto and his partner, Josef Kou Hiraga, seek to recreate the witch’s soup.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.45,
+  "rank": 7204,
+  "popularity": 8459,
+  "num_list_users": 4985,
+  "num_scoring_users": 1221,
+  "nsfw": "white",
+  "created_at": "2017-03-23T06:42:43+00:00",
+  "updated_at": "2022-10-17T10:39:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

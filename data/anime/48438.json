@@ -1,0 +1,63 @@
+{
+  "id": 48438,
+  "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1534/129413.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1534/129413l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Ancient Magus' Bride OVA",
+      "Mahoutsukai no Yome OVA",
+      "Mahoutsuaki no Yome OAD",
+      "Mahoyome"
+    ],
+    "en": "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
+    "ja": "魔法使いの嫁  西の少年と青嵐の騎士"
+  },
+  "start_date": "2021-09-10",
+  "end_date": "2022-09-09",
+  "synopsis": "Every several decades, the Wild Hunt—a group of mounted fae knights—awakens and roams the land, its presence causing old plants to wither and allowing new ones to take their place. Unfortunately, when lightning strikes the stone monument that the Wild Hunt slumbers in, it chips off a fragment containing the band's guide. As a result, when the Wild Hunt rises once more, its members cannot maintain their formation, instead aimlessly wandering the forests and leaving death in their wake.\n\nIn an attempt to remedy this predicament, Spriggan tasks Elias Ainsworth with bringing the missing guide's steed back to its master. Meanwhile, Gabriel, an asthmatic young boy who longs for adventure, discovers the chipped-off rock and ends up summoning the knight within. With his only intact memory being the desire to return, the guide must reunite with his steed and his pack before his absence can cause irreparable damage.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1647,
+  "popularity": 2505,
+  "num_list_users": 73596,
+  "num_scoring_users": 20750,
+  "nsfw": "white",
+  "created_at": "2021-03-10T03:45:44+00:00",
+  "updated_at": "2023-03-27T08:42:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1371,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2205,
+      "name": "Studio Kafka"
+    }
+  ]
+}

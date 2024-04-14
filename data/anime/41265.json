@@ -1,0 +1,70 @@
+{
+  "id": 41265,
+  "title": "Mars Red",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1212/113448.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1212/113448l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mars Red",
+    "ja": "MARS RED"
+  },
+  "start_date": "2021-04-06",
+  "end_date": "2021-06-29",
+  "synopsis": "In the year 1923, a vampire crisis takes Tokyo by storm. Provoked by the illegal trade of \"Ascra,\" an artificial blood source, the population of vampires begins to rapidly increase within the city. Under orders from Lieutenant General Sounosuke Nakajima, the Special Forces Unit 16 gathers vampires within the military to create a new undercover vampire-hunting unit known as Code Zero.\n\nLeading the unit is Colonel Yoshinobu Maeda. Responsible for locating the source of the Ascra trade as well as capturing and killing vampires, he is pressured into producing fruitful results amidst the growing criticism that threatens to decommission the unit. To make matters worse, the vampires within the unit are struggling to grasp their newfound powers and identities now that they are no longer human. With the world at odds against them, the members of Code Zero must find a way to curb the crisis or otherwise fall victim to their own demonic natures.\n\n[Written by MAL Rewrite]",
+  "mean": 6.59,
+  "rank": 6374,
+  "popularity": 1758,
+  "num_list_users": 124847,
+  "num_scoring_users": 36145,
+  "nsfw": "white",
+  "created_at": "2020-02-06T05:38:27+00:00",
+  "updated_at": "2023-01-13T04:19:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:59"
+  },
+  "source": "other",
+  "average_episode_duration": 1427,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1278,
+      "name": "Signal.MD"
+    }
+  ]
+}

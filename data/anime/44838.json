@@ -1,0 +1,50 @@
+{
+  "id": 44838,
+  "title": "Sheng Long Qibing Da Maoxian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1188/128461.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1188/128461l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Soccer Way"
+    ],
+    "en": "",
+    "ja": "圣龙奇兵大冒险"
+  },
+  "start_date": "2013-06-10",
+  "end_date": "2013-06-10",
+  "synopsis": "",
+  "rank": 17908,
+  "popularity": 23643,
+  "num_list_users": 83,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2020-12-17T15:24:12+00:00",
+  "updated_at": "2022-09-25T15:29:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 4976,
+  "rating": "pg",
+  "studios": []
+}

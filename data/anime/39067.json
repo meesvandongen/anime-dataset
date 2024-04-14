@@ -1,0 +1,50 @@
+{
+  "id": 39067,
+  "title": "Tales of the Rays: Everlasting Destiny",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1732/98432.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1732/98432l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tales of the Rays: Everlasting Destiny",
+    "ja": "テイルズ オブ ザ レイズ エバーラスティング デスティニー"
+  },
+  "start_date": "2019-07-04",
+  "end_date": "2019-07-04",
+  "synopsis": "Bandai Namco announced a new short anime titled Tales of the Rays: Everlasting Destiny. The anime will tell a story featuring the \"other side\" of the rescue of Ickx from the second chapter of the game (Mirrage Prison), showing the actions of Stahn and Leon, and will connect to the game's new story \"Fairy's Requiem\" which is the 3rd arc in the game app.\n\n(Source: ANN)",
+  "mean": 6.02,
+  "rank": 9472,
+  "popularity": 12539,
+  "num_list_users": 1279,
+  "num_scoring_users": 250,
+  "nsfw": "white",
+  "created_at": "2019-01-25T08:13:28+00:00",
+  "updated_at": "2020-03-19T15:53:46+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 900,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 36633,
+  "title": "Date A Live III",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1055/100468.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1055/100468l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Date A Live 3",
+      "Date A Live 3rd Season",
+      "DAL 3"
+    ],
+    "en": "Date A Live III",
+    "ja": "デート・ア・ライブⅢ"
+  },
+  "start_date": "2019-01-11",
+  "end_date": "2019-03-29",
+  "synopsis": "Shidou Itsuka carries on with his quest for Ratatoskr in finding Spirits and trying to seal their powers, all while maintaining his relationships with the ones he had already sealed. Moreover, as new Spirits appear, he must undergo more complicated trials—all to put a stop to further disasters as he discovers more about the Spirits' origin.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.19,
+  "rank": 3312,
+  "popularity": 586,
+  "num_list_users": 392350,
+  "num_scoring_users": 208015,
+  "nsfw": "white",
+  "created_at": "2017-10-21T02:46:16+00:00",
+  "updated_at": "2024-02-15T12:37:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

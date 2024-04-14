@@ -1,0 +1,52 @@
+{
+  "id": 33886,
+  "title": "Jikkyou Chuukei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/81557.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/81557l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Radwimps",
+      "Jikkyo Chukei"
+    ],
+    "en": "",
+    "ja": "実況中継"
+  },
+  "start_date": "2014-02-04",
+  "end_date": "2014-02-04",
+  "synopsis": "Official music video for Radwimps' Jikkyou Chuukei song.",
+  "mean": 5.44,
+  "popularity": 14795,
+  "num_list_users": 668,
+  "num_scoring_users": 364,
+  "nsfw": "white",
+  "created_at": "2016-08-17T04:19:46+00:00",
+  "updated_at": "2018-11-26T07:46:48+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "music",
+  "average_episode_duration": 323,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1872,
+      "name": "P.I.C.S."
+    }
+  ]
+}

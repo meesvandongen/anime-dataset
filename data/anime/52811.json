@@ -1,0 +1,63 @@
+{
+  "id": 52811,
+  "title": "Ori no Naka no Soloist PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1450/127112.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1450/127112l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soloist in a Cage\tPV"
+    ],
+    "en": "",
+    "ja": "檻ノ中のソリスト"
+  },
+  "start_date": "2022-05-20",
+  "end_date": "2022-05-20",
+  "synopsis": "Promotional video for the Shounen Jump+ manga Ori no Naka no Soloist.",
+  "mean": 5.93,
+  "popularity": 15537,
+  "num_list_users": 552,
+  "num_scoring_users": 214,
+  "nsfw": "white",
+  "created_at": "2022-08-18T05:25:47+00:00",
+  "updated_at": "2023-12-26T20:59:49+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 4752,
+  "title": "Vampire Knight Guilty",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/10075.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/10075l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Vampire Kishi 2",
+      "Vampire Knight 2",
+      "Vampire Kishi Guilty"
+    ],
+    "en": "Vampire Knight Guilty",
+    "ja": "ヴァンパイア騎士〈ナイト〉Guilty"
+  },
+  "start_date": "2008-10-07",
+  "end_date": "2008-12-30",
+  "synopsis": "When the missing Zero Kiryuu returns to Cross Academy, Yuuki Cross is relieved to see him safe, but finds that Zero has changed in more ways than one. As a result of choices he made, Zero is plagued by visions, and he seeks to uncover the reason behind them—unaware that the answers may be much closer than he thinks.\n\nSoon Yuuki also begins to be tormented by ghastly hallucinations, and she seeks an explanation about her shrouded past from the only one who can provide clarity: Pureblood vampire Kaname Kuran, who is closest to her heart. But what will happen when the truth is finally revealed?\n\n[Written by MAL Rewrite]",
+  "mean": 7.08,
+  "rank": 3933,
+  "popularity": 638,
+  "num_list_users": 367286,
+  "num_scoring_users": 223839,
+  "nsfw": "white",
+  "created_at": "2008-06-23T19:56:23+00:00",
+  "updated_at": "2022-10-18T02:40:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

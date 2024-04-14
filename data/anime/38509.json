@@ -1,0 +1,46 @@
+{
+  "id": 38509,
+  "title": "Kensaku Shounen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1316/95534.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1316/95534l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nanao Tabito"
+    ],
+    "en": "",
+    "ja": "検索少年"
+  },
+  "start_date": "2010-08",
+  "end_date": "2010-08",
+  "synopsis": "Nanao Tabito's song Kensaku Shounen held a music video contest. Where anyone could create a music video and submit it for prize money. Saigo no Shudan competed with an entirely animated piece and won the grand prize.",
+  "popularity": 20159,
+  "num_list_users": 207,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2018-10-11T04:47:15+00:00",
+  "updated_at": "2018-11-09T16:41:47+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 299,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1934,
+      "name": "Saigo no Shudan"
+    }
+  ]
+}

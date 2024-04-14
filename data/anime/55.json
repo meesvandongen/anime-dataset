@@ -1,0 +1,68 @@
+{
+  "id": 55,
+  "title": "Arc the Lad",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/49041.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/49041l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Arc"
+    ],
+    "en": "",
+    "ja": "アークザラッド"
+  },
+  "start_date": "1999-04-05",
+  "end_date": "1999-10-11",
+  "synopsis": "The story follows Elk, a bounty hunter in some strange futuristic world. On this world archaic but advanced technology exists side by side with primitive attitudes, beasts and magic. In other words it's got a bit of everything. It also has an evil conspiracy who are able to produce powerful monsters called chimera, who can also appear as human. Naturally it is not long before Elk has rescued a young female beast-master and gained himself some serious enemies. \n\n(Source: ANN)",
+  "mean": 6.51,
+  "rank": 6803,
+  "popularity": 5224,
+  "num_list_users": 16525,
+  "num_scoring_users": 6038,
+  "nsfw": "white",
+  "created_at": "2005-11-11T06:07:11+00:00",
+  "updated_at": "2023-01-03T10:42:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1320,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 5,
+      "name": "Bee Train"
+    }
+  ]
+}

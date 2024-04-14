@@ -1,0 +1,42 @@
+{
+  "id": 42121,
+  "title": "Kanashimi no Kodomo-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1897/107905.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1897/107905l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Children of Sadness"
+    ],
+    "en": "",
+    "ja": "悲しみの子供たち"
+  },
+  "start_date": "2020-02-15",
+  "end_date": "2020-02-15",
+  "synopsis": "Music video directed and animated by Mirai Mizue for the song Kanashimi no Kodomo-tachi by Japanese idol group Maison book girl.",
+  "mean": 5.71,
+  "popularity": 16206,
+  "num_list_users": 479,
+  "num_scoring_users": 243,
+  "nsfw": "white",
+  "created_at": "2020-06-01T05:40:09+00:00",
+  "updated_at": "2020-06-05T06:20:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 190,
+  "rating": "pg_13",
+  "studios": []
+}

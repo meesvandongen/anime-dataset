@@ -1,0 +1,57 @@
+{
+  "id": 22435,
+  "title": "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/58637.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/58637l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mobile Suit Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai",
+      "Mobile Suit Gundam Wing: Frozen Teardrop Picture Drama - A New Battle"
+    ],
+    "en": "",
+    "ja": "新機動戦記ガンダムW Frozen Teardrop ピクチャードラマ"
+  },
+  "start_date": "2014-01-29",
+  "end_date": "2014-01-29",
+  "synopsis": "Special included in the second of two remastered Gundam Wing Blu-ray boxes based on the novel series Gundam Wing Frozen Teardrop\n\n(Source: ANN)",
+  "mean": 6.06,
+  "rank": 9305,
+  "popularity": 9126,
+  "num_list_users": 3959,
+  "num_scoring_users": 1388,
+  "nsfw": "white",
+  "created_at": "2014-02-02T16:46:56+00:00",
+  "updated_at": "2022-11-07T22:05:10+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1014,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

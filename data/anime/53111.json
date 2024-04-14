@@ -1,0 +1,60 @@
+{
+  "id": 53111,
+  "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1476/128693.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1476/128693l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DanMachi 4th Season Part 2, Is It Wrong That I Want to Meet You in a Dungeon 4th Season Part 2"
+    ],
+    "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2",
+    "ja": "ダンジョンに出会いを求めるのは間違っているだろうかⅣ深章 厄災篇"
+  },
+  "start_date": "2023-01-07",
+  "end_date": "2023-03-18",
+  "synopsis": "Second part of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV.",
+  "mean": 8.23,
+  "rank": 333,
+  "popularity": 1149,
+  "num_list_users": 209282,
+  "num_scoring_users": 109050,
+  "nsfw": "white",
+  "created_at": "2022-09-22T12:02:28+00:00",
+  "updated_at": "2023-03-16T15:45:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:05"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

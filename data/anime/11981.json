@@ -1,0 +1,69 @@
+{
+  "id": 11981,
+  "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/54231.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahou Shoujo Madoka Magika Movie 3",
+      "Magical Girl Madoka Magica Movie 3"
+    ],
+    "en": "Puella Magi Madoka Magica the Movie: Rebellion",
+    "ja": "劇場版 魔法少女まどか☆マギカ 叛逆の物語"
+  },
+  "start_date": "2013-10-26",
+  "end_date": "2013-10-26",
+  "synopsis": "The young girls of Mitakihara happily live their lives, occasionally fighting off evil, but otherwise going about their peaceful, everyday routines. However, Homura Akemi feels that something is wrong with this unusually pleasant atmosphere—though the others remain oblivious, she can't help but suspect that there is more to what is going on than meets the eye: someone who should not exist is currently present to join in on their activities.\n\nMahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari follows Homura in her struggle to uncover the painful truth behind the mysterious circumstances, as she selfishly and desperately fights for the sake of her undying love in this despair-ridden conclusion to the story of five magical girls.\n\n[Written by MAL Rewrite]",
+  "mean": 8.48,
+  "rank": 141,
+  "popularity": 615,
+  "num_list_users": 378776,
+  "num_scoring_users": 225681,
+  "nsfw": "white",
+  "created_at": "2011-11-08T17:22:03+00:00",
+  "updated_at": "2023-10-16T00:53:30+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 6960,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

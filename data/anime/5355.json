@@ -1,0 +1,70 @@
+{
+  "id": 5355,
+  "title": "Sengoku Basara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/21849.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/21849l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sengoku Basara: Samurai Kings",
+    "ja": "戦国BASARA"
+  },
+  "start_date": "2009-04-02",
+  "end_date": "2009-06-18",
+  "synopsis": "In the Sengoku period, the struggle for power and unification has brought endless bloodshed to the unstable Japan. Out of all the warring generals, Nobunaga Oda—the \"Demon King of Owari\"—has established himself as the strongest ruler. Friend or foe, he is determined to crush anyone who stands in his way of creating a tyrannical central government. \n\nThe only two who dare rebel against Oda are the \"One-eyed Dragon of Oshu\" Masamune Date, and the distinguished but hot-blooded warrior of the Takeda clan, Yukimura Sanada. Though they share the goal of preventing Oda from unifying the domains, Masamune and Yukimura cannot see eye-to-eye. Equally skilled in combat, mutual admiration for one another causes these two feuding warriors to forge a fierce rivalry, thwarting any attempts to form a united front against the Demon King of Owari. \n\nWith Oda's forces closing in on their respective territories, Masamune and Yukimura reluctantly learn to put aside their differences and fight together against the threatening usurpator.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.33,
+  "rank": 2582,
+  "popularity": 1445,
+  "num_list_users": 161753,
+  "num_scoring_users": 65332,
+  "nsfw": "white",
+  "created_at": "2008-10-08T19:50:34+00:00",
+  "updated_at": "2024-01-06T13:27:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:29"
+  },
+  "source": "game",
+  "average_episode_duration": 1422,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

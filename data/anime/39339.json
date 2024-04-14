@@ -1,0 +1,53 @@
+{
+  "id": 39339,
+  "title": "Osomatsu-san Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1245/99297.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1245/99297l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga no Osomatsu-san: Gekijou Koukai Kinen - Original Tanpen Gekijou",
+      "Mr. Osomatsu the Movie: Gekijou Koukai Kinen - Original Tanpen Gekijou"
+    ],
+    "en": "",
+    "ja": "えいがのおそ松さん 劇場公開記念 オリジナル短編劇場"
+  },
+  "start_date": "2019-03-01",
+  "end_date": "2019-03-15",
+  "synopsis": "A short series depicting side stories about the brothers' daily life, released on dTV streaming service.\n\nIt received an advance screening together with the movie on March 7 in Tokyo.\n\n(Source: AniDB)",
+  "mean": 6.29,
+  "rank": 8114,
+  "popularity": 12437,
+  "num_list_users": 1323,
+  "num_scoring_users": 287,
+  "nsfw": "white",
+  "created_at": "2019-02-21T15:18:43+00:00",
+  "updated_at": "2020-06-24T01:41:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 163,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

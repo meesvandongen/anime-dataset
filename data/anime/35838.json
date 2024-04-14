@@ -1,0 +1,72 @@
+{
+  "id": 35838,
+  "title": "Shoujo Shuumatsu Ryokou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/88321.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/88321l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The End Girl Trip"
+    ],
+    "en": "Girls' Last Tour",
+    "ja": "少女終末旅行"
+  },
+  "start_date": "2017-10-06",
+  "end_date": "2017-12-22",
+  "synopsis": "Amid the desolate remains of a once-thriving city, only the rumbling of a motorbike breaks the cold winter silence. Its riders, Chito and Yuuri, are the last survivors in the war-torn city. Scavenging old military sites for food and parts, the two girls explore the wastelands and speculate about the old world to pass the time. Chito and Yuuri each occasionally struggle with the looming solitude, but when they have each other, sharing the weight of being two of the last humans becomes a bit more bearable. Between Yuuri's clumsy excitement and Chito's calm composure, their dark days get a little brighter with shooting practice, new books, and snowball fights on the frozen battlefield. \n\nAmong a scenery of barren landscapes and deserted buildings, Shoujo Shuumatsu Ryokou tells the uplifting tale of two girls and their quest to find hope in a bleak and dying world.\n\n[Written by MAL Rewrite]",
+  "mean": 8.21,
+  "rank": 356,
+  "popularity": 682,
+  "num_list_users": 343147,
+  "num_scoring_users": 129981,
+  "nsfw": "white",
+  "created_at": "2017-07-02T21:24:34+00:00",
+  "updated_at": "2024-03-06T12:45:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

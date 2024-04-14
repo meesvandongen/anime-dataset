@@ -1,0 +1,53 @@
+{
+  "id": 3668,
+  "title": "Telepathy Shoujo Ran",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/21526.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/21526l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Telepathy Shojo Ran",
+      "The Telepathy Girl Ran"
+    ],
+    "en": "",
+    "ja": "テレパシー少女 蘭"
+  },
+  "start_date": "2008-06-21",
+  "end_date": "2008-12-20",
+  "synopsis": "Ran is a bright and energetic first-grader in junior high school who possesses supernatual abilities. Together with Midori (her friend who also has supernatural powers) and Rui, the threesome are constantly embroiled in mysterious circumstances. Ran is troubled by her powers because it seems to spark off the ill intentions of people in contact with her. However, with the support of her family and peers, Ran learns to deal with her 'other' side and accepts who she is. The threesome also learn how to team up as a whole and solve these mysterious events. \n\n(Source: ANN)",
+  "mean": 6.63,
+  "rank": 6158,
+  "popularity": 6577,
+  "num_list_users": 9265,
+  "num_scoring_users": 2662,
+  "nsfw": "white",
+  "created_at": "2008-01-02T23:44:25+00:00",
+  "updated_at": "2021-08-16T04:17:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

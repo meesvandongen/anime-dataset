@@ -1,0 +1,64 @@
+{
+  "id": 230,
+  "title": "Air Master",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/21019.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/21019l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Airmaster"
+    ],
+    "en": "Air Master",
+    "ja": "エアマスター"
+  },
+  "start_date": "2003-04-02",
+  "end_date": "2003-10-01",
+  "synopsis": "A former gymnast, Aikawa Maki has turned her skills to a different way of life—street fighting. The only thing that truly makes her feel alive is violence. With amazing power and grace, she fights opponent after opponent, repeatedly demonstrating the gymnastic talent that earns her her nom de guerre, \"Airmaster.\"",
+  "mean": 6.95,
+  "rank": 4491,
+  "popularity": 3555,
+  "num_list_users": 39268,
+  "num_scoring_users": 16197,
+  "nsfw": "white",
+  "created_at": "2005-11-13T02:22:02+00:00",
+  "updated_at": "2022-04-03T19:45:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 27,
+  "start_season": {
+    "year": 2003,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:58"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

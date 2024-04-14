@@ -1,0 +1,45 @@
+{
+  "id": 4541,
+  "title": "Vicious",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1659/112127.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1659/112127l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Vicious",
+    "ja": "ヴィシャス"
+  },
+  "start_date": "2001-01-18",
+  "end_date": "2001-05-01",
+  "synopsis": "Angela, a beautiful young woman, is trapped in a loveless existence. Hate is the only word to describe her feelings for her cold-blooded father who forces himself on the family maid, Bridget. However, along with her budding adolescence she finds lust and love with John, the Butler.\n\n(Source: AniDB)",
+  "mean": 5.83,
+  "popularity": 10908,
+  "num_list_users": 2228,
+  "num_scoring_users": 815,
+  "nsfw": "gray",
+  "created_at": "2008-05-21T05:49:26+00:00",
+  "updated_at": "2021-11-28T13:25:47+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2001,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1715,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2348,
+      "name": "KKC Animation Production"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 41381,
+  "title": "Garugaku.: Sei Girls Square Gakuin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1369/117208.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1369/117208l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ガル学. ~聖ガールズスクエア学院~"
+  },
+  "start_date": "2020-04-06",
+  "end_date": "2021-03-29",
+  "synopsis": "The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)",
+  "mean": 5.67,
+  "rank": 10990,
+  "popularity": 10694,
+  "num_list_users": 2383,
+  "num_scoring_users": 425,
+  "nsfw": "white",
+  "created_at": "2020-03-03T03:39:40+00:00",
+  "updated_at": "2022-02-24T21:52:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "07:05"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    },
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

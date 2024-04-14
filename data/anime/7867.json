@@ -1,0 +1,62 @@
+{
+  "id": 7867,
+  "title": "Gon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/36931.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/36931l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ゴン"
+  },
+  "start_date": "2012-04-02",
+  "end_date": "2013-03-25",
+  "synopsis": "The Gon series features the completely wordless adventures of the irascible title character, a tiny fictional dinosaur, as he interacts with the natural world. Gon somehow survived the extinction of his fellow dinosaurs and interacts with paleolithic animals. \n\n(Source: Wikipedia)",
+  "mean": 5.88,
+  "rank": 10104,
+  "popularity": 10845,
+  "num_list_users": 2265,
+  "num_scoring_users": 894,
+  "nsfw": "white",
+  "created_at": "2010-01-13T11:33:50+00:00",
+  "updated_at": "2022-04-06T18:30:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1435,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 228,
+      "name": "Daewon Media"
+    }
+  ]
+}

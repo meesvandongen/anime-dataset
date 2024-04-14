@@ -1,0 +1,54 @@
+{
+  "id": 38254,
+  "title": "Hashiri Tsuzukete Yokatta tte.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1533/94555.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1533/94555l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "I'm glad I could keep running.",
+    "ja": "走り続けてよかったって。"
+  },
+  "start_date": "2018-10-09",
+  "end_date": "2018-10-30",
+  "synopsis": "Minato visits a recitation at an anime event with his friend. He is captivated by the voice actors' performances and decides to enroll in Suidoubashi Animation Academy. There, he meets Chikako, who used to live in the room he is moving into and who left a message in a USB drive. Minato, who aims to be a voice actor but is unable to put himself into the role, and Chikako, who lives with a past trauma, encourage one another and try to improve themselves. With the help of seniors such as Ryouta and Kei watching over them, they try to mature. As they stumble and worry, what lies ahead for them both?\n\n(Source: MAL News)",
+  "mean": 6.38,
+  "rank": 7572,
+  "popularity": 5809,
+  "num_list_users": 12535,
+  "num_scoring_users": 4544,
+  "nsfw": "white",
+  "created_at": "2018-09-01T05:27:27+00:00",
+  "updated_at": "2022-10-15T07:12:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "02:40"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1278,
+      "name": "Signal.MD"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 95,
+  "title": "Turn A Gundam",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/78330.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/78330l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mobile Suit Gundam Turn A"
+    ],
+    "en": "∀ Gundam",
+    "ja": "∀ガンダム"
+  },
+  "start_date": "1999-04-09",
+  "end_date": "2000-04-14",
+  "synopsis": "It is the Correct Century, two millennia after a devastating conflict which left the world broken. Earth is now mostly uninhabitable, and thus a remnant of humanity has resided on the Moon while the Earth and its few survivors recover. For years, the \"Moonrace,\" the people of the Moon, have continued to check if Earth is fit for resettlement.\n\nA boy named Loran Cehack and two others are sent down to Earth for a reconnaissance mission. Loran ends up spending a year on the planet working for the Heim Family, aristocrats living in a Victorian-like society. This family, like others of similar wealthy status, celebrates one's coming of age with a ceremony involving a giant stone statue known as the \"White Doll.\"\n\nTo Loran's surprise, the Moonrace suddenly touches down on Earth with the intent of taking it by force. During the attack, the White Doll is broken apart, revealing a mobile suit called the \"Turn A Gundam\" inside. With Loran in its cockpit, the Turn A causes a standoff between the forces of Earth and Moon. The young pilot, along with the people of both sides, must keep the peace and avoid another all-out, catastrophic war.\n\n[Written by MAL Rewrite]",
+  "mean": 7.79,
+  "rank": 1005,
+  "popularity": 3148,
+  "num_list_users": 48734,
+  "num_scoring_users": 17270,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:54:05+00:00",
+  "updated_at": "2023-07-20T13:57:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1445,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

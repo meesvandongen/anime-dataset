@@ -1,0 +1,43 @@
+{
+  "id": 37058,
+  "title": "Jian Wangchao 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/89901.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/89901l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ken Ouchou (2017)"
+    ],
+    "en": "Sword Dynasty 2",
+    "ja": "剣王朝2"
+  },
+  "start_date": "2017-10-12",
+  "end_date": "2017-12-21",
+  "synopsis": "",
+  "mean": 5.88,
+  "rank": 10111,
+  "popularity": 14045,
+  "num_list_users": 838,
+  "num_scoring_users": 150,
+  "nsfw": "white",
+  "created_at": "2018-01-06T13:30:41+00:00",
+  "updated_at": "2019-08-12T16:11:11+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 822,
+  "rating": "pg_13",
+  "studios": []
+}

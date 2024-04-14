@@ -1,0 +1,60 @@
+{
+  "id": 34284,
+  "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/83012.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/83012l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "WaSuYu"
+    ],
+    "en": "Yuki Yuna is a Hero: The Washio Sumi Chapter",
+    "ja": "結城友奈は勇者である -鷲尾須美の章-"
+  },
+  "start_date": "2017-10-07",
+  "end_date": "2017-11-11",
+  "synopsis": "Three girls have been chosen by the great Shinju-sama to be heroes and fight against the destructive beings known as Vertexes—enemies that threaten the harmony and safety of the world.\n\nUnsure of when they would be called to duty, Sumi Washio, Sonoko Nogi, and Gin Minowa spent their time idly. However, with the sudden appearance of a Vertex, they realize they have no idea how to fight together as magical girls when they are nearly bested. They manage to defeat their enemy by sheer determination, but in the aftermath of the battle, the three decide to fix their teamwork issues and improve their combat capabilities.\n\nBut as more enemies appear—and requiring even more power to defeat their nemeses—the girls may find themselves irreversibly changed by the use of their magic. What price will they have to pay to ensure victory, and is it one worth paying if humanity will be saved?\n\n[Written by MAL Rewrite]",
+  "mean": 7.72,
+  "rank": 1182,
+  "popularity": 3287,
+  "num_list_users": 44986,
+  "num_scoring_users": 16638,
+  "nsfw": "white",
+  "created_at": "2016-10-23T10:40:57+00:00",
+  "updated_at": "2022-12-20T08:39:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:55"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1467,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

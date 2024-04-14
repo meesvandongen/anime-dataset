@@ -1,0 +1,49 @@
+{
+  "id": 55821,
+  "title": "You Shou Yan 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1350/136787.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1350/136787l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fabulous Beasts 2nd Season",
+    "ja": "有兽焉 第二季"
+  },
+  "start_date": "2023-06-30",
+  "end_date": "2023-09-15",
+  "synopsis": "",
+  "rank": 15048,
+  "popularity": 18484,
+  "num_list_users": 302,
+  "num_scoring_users": 95,
+  "nsfw": "white",
+  "created_at": "2023-07-01T06:35:11+00:00",
+  "updated_at": "2023-09-16T15:51:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 360,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2076,
+      "name": "Fenz"
+    }
+  ]
+}

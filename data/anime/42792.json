@@ -1,0 +1,49 @@
+{
+  "id": 42792,
+  "title": "Nijiiro Love Letter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1262/109065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1262/109065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "虹色ラブレター"
+  },
+  "start_date": "2009-02-02",
+  "end_date": "2009-02-02",
+  "synopsis": "Music video for the song Nijiiro Love Letter by Mio Isayama that was featured on NHK's Minna no Uta program. The video was animated by Toshio Nishiuchi.",
+  "popularity": 20477,
+  "num_list_users": 190,
+  "num_scoring_users": 86,
+  "nsfw": "white",
+  "created_at": "2020-09-02T22:37:58+00:00",
+  "updated_at": "2020-09-02T22:37:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 290,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 32467,
+  "title": "Under the Dog: Anthea-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/77902.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/77902l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Under the Dog Short Animation"
+    ],
+    "en": "UNDER THE DOG Anthea-chan",
+    "ja": "UNDER THE DOG アンシアちゃん"
+  },
+  "start_date": "2015-08-08",
+  "end_date": "2015-08-08",
+  "synopsis": "Surprise special for the 1 year anniversary for Under the Dog's Kickstarter campaign.",
+  "mean": 4.62,
+  "rank": 13037,
+  "popularity": 8803,
+  "num_list_users": 4460,
+  "num_scoring_users": 1862,
+  "nsfw": "white",
+  "created_at": "2016-01-01T12:17:55+00:00",
+  "updated_at": "2020-07-14T17:34:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

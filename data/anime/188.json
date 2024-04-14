@@ -1,0 +1,57 @@
+{
+  "id": 188,
+  "title": "Gosenzo San'e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/78241.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/78241l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Masquerade",
+    "ja": "御先祖賛江"
+  },
+  "start_date": "1998-09-25",
+  "end_date": "1999-03-25",
+  "synopsis": "Masquerade is the story surrounding the Hiraga bloodline in which Gen is a part of. Recently orphaned, he moves in to his grandmother's house and unwittingly triggers the Hiraga clan's curse in which nearly every member leads a tragically short life. In his grandmother's house, Gen begins to unravel vaguely remembered memories from a dream he's always had. With the help of an American graduate student, they try to uncover the secret of the Hiraga bloodline, the whispered legend of immortality that is locked in his genes, and a way to keep Gen from sharing the same fate that every one of his ancestors before him has suffered. \n\n(Source: ANN)",
+  "mean": 6.09,
+  "popularity": 9719,
+  "num_list_users": 3252,
+  "num_scoring_users": 1039,
+  "nsfw": "gray",
+  "created_at": "2005-11-12T06:52:21+00:00",
+  "updated_at": "2021-12-28T18:41:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1998,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2848,
+  "title": "Kappa no Coo to Natsuyasumi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/4001.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/4001l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kappa no Coo to Natsuyasumi"
+    ],
+    "en": "Summer Days with Coo",
+    "ja": "河童のクゥと夏休み"
+  },
+  "start_date": "2007-07-28",
+  "end_date": "2007-07-28",
+  "synopsis": "Kouichi Uehara is a fourth grade student living in the suburb of Tokyo. One day, he picks up a large stone which turns out to be a fossil of a baby \"Kappa\" who has been sleeping underground for the past 300 years, and names it \"Coo.\" They become good friends and Coo starts living with Kouichi's family. However, Coo has a hard time adjusting to life among humans and misses his kind.",
+  "mean": 7.5,
+  "rank": 1863,
+  "popularity": 5090,
+  "num_list_users": 17770,
+  "num_scoring_users": 7624,
+  "nsfw": "white",
+  "created_at": "2007-07-27T12:24:37+00:00",
+  "updated_at": "2022-12-13T12:57:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 8505,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

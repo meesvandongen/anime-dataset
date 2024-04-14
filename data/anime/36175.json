@@ -1,0 +1,47 @@
+{
+  "id": 36175,
+  "title": "Diary",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/87396.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/87396l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "SCOOP"
+    ],
+    "en": "Diary",
+    "ja": "DIARY"
+  },
+  "start_date": "2015-07-23",
+  "end_date": "2015-07-23",
+  "synopsis": "Official music video for Ken Kamikita's song Diary which was also released on his first album titled \"SCOOP\".",
+  "mean": 6.17,
+  "popularity": 16998,
+  "num_list_users": 411,
+  "num_scoring_users": 219,
+  "nsfw": "white",
+  "created_at": "2017-08-21T22:26:12+00:00",
+  "updated_at": "2017-09-10T19:25:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 344,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1725,
+      "name": "Minakata Laboratory"
+    }
+  ]
+}

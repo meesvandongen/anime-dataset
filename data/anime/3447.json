@@ -1,0 +1,59 @@
+{
+  "id": 3447,
+  "title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/5699.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/5699l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ghost in the Shell: Stand Alone Complex - Solid State Society - Uchikoma na Hibi",
+      "Koukaku Kidoutai Stand Alone Complex: Solid State Society - Uchikoma na Hibi",
+      "GitS SAC SSS - Uchikoma na Hibi",
+      "GitS: SAC 3 - Uchikoma na Hibi"
+    ],
+    "en": "Ghost in the Shell: Stand Alone Complex - Solid State Society: Uchikomatic Days",
+    "ja": "攻殻機動隊 ウチコマナ日々"
+  },
+  "start_date": "2007-07-24",
+  "end_date": "2007-07-24",
+  "synopsis": "Uchikomatic Days is a 5 minute short telling the story of the birth of the Uchikomas, the 'ugly duckling' second generation think-tanks that made substandard replacement models for the Tachikomas. The short features a music performance by the A.I. Tough Guy Uchikomas, a group of rising stars that will provide entertainment at the Harima City for Academic Research New Year's Eve Party.\n\nThis special feature is available on the Ghost in the Shell: S.A.C. Solid State Society DVD. ",
+  "mean": 6.87,
+  "rank": 4864,
+  "popularity": 5777,
+  "num_list_users": 12653,
+  "num_scoring_users": 4763,
+  "nsfw": "white",
+  "created_at": "2007-11-19T23:51:52+00:00",
+  "updated_at": "2021-10-27T19:46:38+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 287,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

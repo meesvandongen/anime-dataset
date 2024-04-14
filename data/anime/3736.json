@@ -1,0 +1,56 @@
+{
+  "id": 3736,
+  "title": "Parappa the Rapper",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/6602.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/6602l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "PaRappa the Rapper"
+    ],
+    "en": "",
+    "ja": "パラッパラッパー"
+  },
+  "start_date": "2001-04-14",
+  "end_date": "2002-01-11",
+  "synopsis": "Parappa is just your ordinary talking dog; he enjoys spending time with his friends, listening to music, and going on adventures. Together with his friends, Parappa gets into many strange situations, all the while learning to navigate through life, get along with his friends, and pine for the girl of his dreams, Sunny Funny.\n\nBased on an equally quirky rhythm game, Parappa the Rapper boasts a unique flat style, blasts of color, and a string of strange but charming characters. Among Parappa’s friends are an anthropomorphized blue cat, lamb, and even a flower.\n\nParappa's adventures range from the ordinary to the bizarre. He crosses paths with mischievous baddies, helps resolve questions of friendship and love, and even goes on trips through time itself. Nothing can change Parappa's positive outlook on life.",
+  "mean": 6.26,
+  "rank": 8283,
+  "popularity": 8732,
+  "num_list_users": 4564,
+  "num_scoring_users": 1389,
+  "nsfw": "white",
+  "created_at": "2008-01-18T05:00:41+00:00",
+  "updated_at": "2022-04-02T03:01:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1390,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    },
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

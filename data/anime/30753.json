@@ -1,0 +1,51 @@
+{
+  "id": 30753,
+  "title": "Himitsukessha Taka no Tsume The Movie 4: Kaspersky wo Motsu Otoko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74060.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74060l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Secret Society Eagle Talon The Movie 4",
+      "Himitsukessha Taka no Tsume The Movie 4: The Man with Kaspersky"
+    ],
+    "en": "",
+    "ja": "秘密結社鷹の爪 THE MOVIE4 〜カスペルスキーを持つ男〜"
+  },
+  "start_date": "2010-06-10",
+  "end_date": "2010-06-10",
+  "synopsis": "Fourth film in the Secret Society Eagle Talon film series. Initially released directly to DVD, but was later screened at TOHO Cinemas Roppongi Hills.",
+  "rank": 20098,
+  "popularity": 16225,
+  "num_list_users": 478,
+  "num_scoring_users": 108,
+  "nsfw": "white",
+  "created_at": "2015-05-11T00:59:15+00:00",
+  "updated_at": "2015-05-14T14:02:46+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "average_episode_duration": 2580,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

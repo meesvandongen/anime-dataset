@@ -1,0 +1,53 @@
+{
+  "id": 37552,
+  "title": "Minion",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1817/91256.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1817/91256l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Apocalypsis",
+      "Mutabloop",
+      "oktometempsychosis"
+    ],
+    "en": "Minion",
+    "ja": "Minion"
+  },
+  "start_date": "2014-12-12",
+  "end_date": "2019-09-09",
+  "synopsis": "Minion works by Rabbit MACHINE and Tsubura are aesthetic loop animations with music.",
+  "mean": 5.5,
+  "rank": 11581,
+  "popularity": 16702,
+  "num_list_users": 434,
+  "num_scoring_users": 188,
+  "nsfw": "white",
+  "created_at": "2018-03-20T09:51:50+00:00",
+  "updated_at": "2021-07-20T17:33:20+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 152,
+  "rating": "g",
+  "studios": []
+}

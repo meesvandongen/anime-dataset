@@ -1,0 +1,65 @@
+{
+  "id": 52736,
+  "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1053/129004.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1053/129004l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tenten Kakumei",
+      "MagiRevo"
+    ],
+    "en": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+    "ja": "転生王女と天才令嬢の魔法革命"
+  },
+  "start_date": "2023-01-04",
+  "end_date": "2023-03-22",
+  "synopsis": "Princess Anisphia \"Anis\" Wynn Palletia has always dreamed of flying through the sky, even though the people of her kingdom consider it a silly ambition. Also at odds with her goal is the fact that Anis is incapable of using magic despite her noble status. Refusing to give up so easily, she renounces her right to the throne, and focuses on developing \"magicology\" by combining various resources with knowledge from her previous life on Earth.\n\nDue to Anis' nature, responsibility for the kingdom's future is passed onto her younger brother, Algard. Pushed into a political marriage with Euphyllia Magenta, a girl he hardly knows, Algard rebels by spending more time with a commoner girl than his fiancée. After Euphyllia tries to intervene, Algard publicly calls off their marriage and denounces his ex-fiancée as a bully.\n\nAfter crashing into the banquet where Algard makes the announcement, Anis rescues Euphyllia on the flying broom she is testing. She decides to make Euphyllia her assistant, which the other girl reluctantly agrees to. Although their partnership appears random at first, Anis has an ulterior motive for wanting Euphyllia's company.\n\n[Written by MAL Rewrite]",
+  "mean": 7.48,
+  "rank": 1937,
+  "popularity": 1297,
+  "num_list_users": 183453,
+  "num_scoring_users": 88816,
+  "nsfw": "gray",
+  "created_at": "2022-08-12T05:28:24+00:00",
+  "updated_at": "2023-03-03T16:42:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "21:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 51,
+      "name": "Diomedéa"
+    }
+  ]
+}

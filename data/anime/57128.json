@@ -1,0 +1,57 @@
+{
+  "id": 57128,
+  "title": "Miniforce:  Super Dino 7",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1728/139590.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1728/139590l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "미니특공대 슈퍼공룡파워 슈퍼다이노7"
+  },
+  "start_date": "2021-04-12",
+  "end_date": "2021-04-19",
+  "synopsis": "",
+  "rank": 16478,
+  "popularity": 24127,
+  "num_list_users": 76,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2023-11-10T14:44:10+00:00",
+  "updated_at": "2023-11-11T10:15:50+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 680,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2541,
+      "name": "SAMG Entertainment "
+    }
+  ]
+}

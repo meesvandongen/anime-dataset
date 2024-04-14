@@ -1,0 +1,66 @@
+{
+  "id": 899,
+  "title": "Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1007/93669.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1007/93669l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon Ball Z: The Return of Cooler",
+    "ja": "ドラゴンボールZ 激突!!100億パワーの戦士たち"
+  },
+  "start_date": "1992-03-07",
+  "end_date": "1992-03-07",
+  "synopsis": "A mysterious entity known as the \"Big Gete Star\" clings onto planet New Namek to absorb its energy, putting all Namekians in grave danger. Dende, Earth's new guardian, learns about the prevailing situation in his homeland and quickly requests Gokuu Son and his friends for help. \n\nUpon arrival in New Namek, they discover that the Namekians are held captive by powerful robots, whose leader turns out to be Cooler. He explains that the advanced technology of the Big Gete Star saved him from what otherwise would have been certain death. Alongside his mechanical army, Cooler proceeds to attack Gokuu and his friends to get rid of them once and for all.\n\n[Written by MAL Rewrite]",
+  "mean": 6.79,
+  "rank": 5273,
+  "popularity": 1730,
+  "num_list_users": 128603,
+  "num_scoring_users": 80647,
+  "nsfw": "white",
+  "created_at": "2006-04-15T06:46:46+00:00",
+  "updated_at": "2022-04-07T03:44:33+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2748,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

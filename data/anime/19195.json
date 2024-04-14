@@ -1,0 +1,72 @@
+{
+  "id": 19195,
+  "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1948/140411.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1948/140411l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone"
+    ],
+    "en": "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone",
+    "ja": "攻殻機動隊ARISE -GHOST IN THE SHELL- border:4 Ghost Stands Alone"
+  },
+  "start_date": "2014-09-06",
+  "end_date": "2014-09-06",
+  "synopsis": "The story of this fourth installment takes place amidst signs of postwar reconstruction in the winter of 2028. Tensions are rising in New Port City as demonstrations are held concerning the interests of foreign cartels. This leads to a shooting incident involving riot police. It all started with a cyberbrain infection released by the terrorist \"Fire Starter.\" An independent offensive unit led by Motoko Kusanagi entrusts the suppression of the situation to their ghosts and aims for their own justice. Below the surface of the incident, lies the \"tin girl\" Emma and the \"scarecrow man\" Burinda Junior. As Kusanagi deals with the incident, she draws near to what those two ghosts were seeking.\n\n(Source: ANN)",
+  "mean": 7.43,
+  "rank": 2137,
+  "popularity": 3437,
+  "num_list_users": 41683,
+  "num_scoring_users": 18042,
+  "nsfw": "white",
+  "created_at": "2013-06-23T09:29:29+00:00",
+  "updated_at": "2024-03-06T12:02:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 3540,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 36242,
+  "title": "TOHO Cinemas x One Piece Film: Gold - Tokubetsu Eizou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/87543.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/87543l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "TOHO Cinemas x One Piece Film: Gold - Special Video",
+    "ja": "ONE PIECE FILM GOLD×ＴＯＨＯシネマズ 特別映像"
+  },
+  "start_date": "2016-02-29",
+  "end_date": "2016-02-29",
+  "synopsis": "A collaboration between One Piece Film: Gold and TOHO Cinemas. It features the One Piece cast in a manga sakuga style batting around ball which then becomes gold colored with the cast gaining their colored anime film's design too. The golden ball then turns into the TOHO Cinemas logo as Luffy holds it out to the viewer.\n\nEiichiro Oda himself supervised the collaboration to give the most manga-art accurate imagery possible.",
+  "mean": 6.16,
+  "popularity": 8387,
+  "num_list_users": 5082,
+  "num_scoring_users": 1869,
+  "nsfw": "white",
+  "created_at": "2017-09-02T05:40:56+00:00",
+  "updated_at": "2023-12-26T22:59:04+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 21,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

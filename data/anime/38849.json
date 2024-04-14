@@ -1,0 +1,41 @@
+{
+  "id": 38849,
+  "title": "Kaibutsu ga, Umareta Hi.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1773/97553.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1773/97553l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "かいぶつが、うまれた日。"
+  },
+  "start_date": "2017-03-31",
+  "end_date": "2017-03-31",
+  "synopsis": "Okawara was commissioned to create this animated short to promote the live-action TV series Frankenstein's Love. Loosely based on Mary Shelley's Frankenstein, it depicts the lonely life of a monster over the course of more than a century.\n\n(Source: NHK)",
+  "mean": 5.62,
+  "rank": 11185,
+  "popularity": 18199,
+  "num_list_users": 320,
+  "num_scoring_users": 142,
+  "nsfw": "white",
+  "created_at": "2018-12-18T00:20:07+00:00",
+  "updated_at": "2018-12-19T12:57:30+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 118,
+  "rating": "pg",
+  "studios": []
+}

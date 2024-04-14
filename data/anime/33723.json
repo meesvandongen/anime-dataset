@@ -1,0 +1,50 @@
+{
+  "id": 33723,
+  "title": "Mahou Shoujo? Naria☆Girls Nama de Anime wo Tsukuru Sama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/81105.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/81105l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "魔法少女? なりあ☆がーるず生でアニメをつくるさま"
+  },
+  "start_date": "2016-07-01",
+  "end_date": "2016-09-16",
+  "synopsis": "Urara, Hanabi, and Inaho are three girls who aim to become nationally-renowned characters by creating animation of themselves! They chose the magical girl theme to catch the attention of everyone from children to adults! Can they safely become popular characters in a one-cours magical girl anime?\n\n(Source: MAL News)",
+  "mean": 5.41,
+  "rank": 11836,
+  "popularity": 14287,
+  "num_list_users": 779,
+  "num_scoring_users": 127,
+  "nsfw": "white",
+  "created_at": "2016-07-25T03:45:58+00:00",
+  "updated_at": "2020-12-17T04:01:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1487,
+      "name": "Bouncy"
+    }
+  ]
+}

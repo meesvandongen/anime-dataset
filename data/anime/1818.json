@@ -1,0 +1,66 @@
+{
+  "id": 1818,
+  "title": "Claymore",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/21834l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Claymore",
+    "ja": "クレイモア"
+  },
+  "start_date": "2007-04-04",
+  "end_date": "2007-09-26",
+  "synopsis": "When a shapeshifting demon with a thirst for human flesh, known as \"youma,\" arrives in Raki's village, a lone woman with silver eyes walks into town with only a sword upon her back. She is a \"Claymore,\" a being manufactured as half-human and half-youma, for the express purpose of exterminating these monsters. After Raki's family is killed, the Claymore saves his life, but he is subsequently banished from his home. With nowhere else to go, Raki finds the Claymore, known as Clare, and decides to follow her on her journeys.\n\nAs the pair travel from town to town, defeating youma along the way, more about Clare's organization and her fellow warriors comes to light. With every town cleansed and every demon destroyed, they come closer to the youma on which Clare has sought vengeance ever since she chose to become a Claymore.\n\n[Written by MAL Rewrite]",
+  "mean": 7.74,
+  "rank": 1120,
+  "popularity": 301,
+  "num_list_users": 671925,
+  "num_scoring_users": 326526,
+  "nsfw": "white",
+  "created_at": "2007-01-04T02:31:52+00:00",
+  "updated_at": "2023-04-19T08:49:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:26"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

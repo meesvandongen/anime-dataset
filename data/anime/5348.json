@@ -1,0 +1,64 @@
+{
+  "id": 5348,
+  "title": "Meitantei Conan Magic File 2: Kudou Shinichi Nazo no Kabe to Kuro Lab Jiken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1509/124723.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1509/124723l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Detective Conan Movie 12 Side-Story OVA: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab"
+    ],
+    "en": "Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab",
+    "ja": "名探偵コナンMagic File 2 ～工藤新一 謎の壁と黒ラブ事件～"
+  },
+  "start_date": "2008-04-19",
+  "end_date": "2008-04-19",
+  "synopsis": "Magic File 2 was sold at select retailers (7-11 branded equivalents) in Japan, along with PPV episodes of the show (episodes released long before, such as the NY case). The first disc housed the Movie 12 Side-Story OVA, which features Kudou Shinichi and details a bit of the backstory from the upcoming movie. The second disc was the one with the PPV episodes.\n\n(Source: DCTP Forum)",
+  "mean": 7.5,
+  "rank": 1868,
+  "popularity": 5693,
+  "num_list_users": 13251,
+  "num_scoring_users": 6151,
+  "nsfw": "white",
+  "created_at": "2008-10-06T19:38:38+00:00",
+  "updated_at": "2023-11-25T14:08:26+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1680,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 17705,
+  "title": "DD Hokuto no Ken (2013)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/50323.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/50323l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "DD Fist of the North Star",
+    "ja": "DD北斗の拳"
+  },
+  "start_date": "2013-04-03",
+  "end_date": "2013-06-26",
+  "synopsis": "It's a special project commemorating the 30th anniversary of Hokuto no Ken.",
+  "mean": 6.48,
+  "rank": 6982,
+  "popularity": 8883,
+  "num_list_users": 4334,
+  "num_scoring_users": 1520,
+  "nsfw": "white",
+  "created_at": "2013-03-06T19:51:39+00:00",
+  "updated_at": "2020-10-21T19:05:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

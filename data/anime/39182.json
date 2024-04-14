@@ -1,0 +1,41 @@
+{
+  "id": 39182,
+  "title": "H'or Cafe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1452/98740.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1452/98740l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "H'or Cafe",
+    "ja": "H’or Cafe"
+  },
+  "start_date": "2014-11-03",
+  "end_date": "2014-11-03",
+  "synopsis": "Commercial for H'or Cafe, directed by Masanobu Hiraoka, based off illustrations by Masaki Hanahara.",
+  "mean": 5.66,
+  "rank": 11050,
+  "popularity": 16893,
+  "num_list_users": 418,
+  "num_scoring_users": 217,
+  "nsfw": "white",
+  "created_at": "2019-02-02T22:40:06+00:00",
+  "updated_at": "2021-04-22T16:43:01+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 82,
+  "rating": "g",
+  "studios": []
+}

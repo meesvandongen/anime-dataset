@@ -1,0 +1,65 @@
+{
+  "id": 10547,
+  "title": "Oretachi ni Tsubasa wa Nai: Hadairo Ritsu Kyuuwari Zou!?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/64495.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/64495l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ore-tachi ni Tsubasa wa Nai OVA",
+      "Oretachi ni Tsubasa wa Nai OVA"
+    ],
+    "en": "",
+    "ja": "俺たちに翼はない 肌色率九割増!?"
+  },
+  "start_date": "2011-06-24",
+  "end_date": "2011-06-24",
+  "synopsis": "An OVA bundled with the non-adult version of the OreTsuba PC game. The OVA has more fan service than the TV series (what they call, \"nakedness plus 90%\").",
+  "mean": 6.4,
+  "rank": 7452,
+  "popularity": 5651,
+  "num_list_users": 13524,
+  "num_scoring_users": 5785,
+  "nsfw": "white",
+  "created_at": "2011-04-04T22:01:48+00:00",
+  "updated_at": "2021-07-19T00:04:26+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1452,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

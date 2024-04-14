@@ -1,0 +1,66 @@
+{
+  "id": 40052,
+  "title": "Great Pretender",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1418/107954.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1418/107954l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2020-07-09",
+  "end_date": "2020-12-17",
+  "synopsis": "A series of unfortunate events has led Makoto Edamura to adopt the life of crime—pickpocketing and scamming others for a living. However, after swindling a seemingly clueless tourist, Makoto discovers that he was the one tricked and, to make matters worse, that the police are now after him. \n\nWhile making his escape, he runs into the tourist once again, who turns out to be a fellow con man named Laurent Thierry, and ends up following him to Los Angeles. In an attempt to defend his self-proclaimed title of \"Japan's Greatest Swindler,\" Makoto challenges his rival to determine the better scammer. Accepting the competition, Laurent drops them off outside a huge mansion and claims that their target will be the biggest mafia boss on the West Coast.\n\nAs Makoto becomes increasingly involved with the cunning Laurent, his colorful associates, and the world of international high-stakes fraud, he soon realizes that he got more than what he bargained for as his self-declared skills are continually put to the test.\n\n[Written by MAL Rewrite]",
+  "mean": 8.21,
+  "rank": 354,
+  "popularity": 310,
+  "num_list_users": 660822,
+  "num_scoring_users": 319852,
+  "nsfw": "white",
+  "created_at": "2019-07-04T18:16:32+00:00",
+  "updated_at": "2024-03-23T10:38:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:55"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

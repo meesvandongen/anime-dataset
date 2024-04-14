@@ -1,0 +1,56 @@
+{
+  "id": 49431,
+  "title": "Kanashiki Debu Neko-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1626/116549.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1626/116549l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Sad and Fat Cat"
+    ],
+    "en": "",
+    "ja": "かなしきデブ猫ちゃん"
+  },
+  "start_date": "2021-12-06",
+  "end_date": "2021-12-17",
+  "synopsis": "The anime's story centers on a cat named Maru, adopted by a girl named Anna from a shelter in Matsuyama city. Loved and well fed by the family, Maru gets rounder and fatter every day, spending most of his day sitting by the window and looking at the garden outside. When the family gets a new cat named Cerisier and begins doting on it, Maru gets jealous. In a fight with Cerisier, Maru is hurt by the family's words to him, and follows the advice of another cat to leave and see the world.\n\n(Source: ANN)",
+  "mean": 6.24,
+  "rank": 8357,
+  "popularity": 9758,
+  "num_list_users": 3208,
+  "num_scoring_users": 199,
+  "nsfw": "white",
+  "created_at": "2021-07-15T02:19:04+00:00",
+  "updated_at": "2023-01-05T18:35:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:30"
+  },
+  "source": "other",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1099,
+      "name": "Cyclone Graphics"
+    }
+  ]
+}

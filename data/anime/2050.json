@@ -1,0 +1,72 @@
+{
+  "id": 2050,
+  "title": "Honoo no Tenkousei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/79406.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/79406l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Blazing Transfer Student"
+    ],
+    "en": "",
+    "ja": "炎の転校生"
+  },
+  "start_date": "1991-05-21",
+  "end_date": "1991-05-21",
+  "synopsis": "Transfer student Takisawa Noboru quickly learns that all disputes at his new school are settled in the boxing ring. Now he finds himself in a series of showdowns with the local top dog, Ibuki Saburo, for the love and respect of the beautiful Yukari.\n\n(Source: ANN)",
+  "mean": 6.59,
+  "rank": 6366,
+  "popularity": 7256,
+  "num_list_users": 7248,
+  "num_scoring_users": 3285,
+  "nsfw": "white",
+  "created_at": "2007-03-09T23:30:58+00:00",
+  "updated_at": "2024-03-06T11:01:55+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

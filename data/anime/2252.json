@@ -1,0 +1,64 @@
+{
+  "id": 2252,
+  "title": "Devilman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/72913.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/72913l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Debiruman"
+    ],
+    "en": "",
+    "ja": "デビルマン"
+  },
+  "start_date": "1972-07-08",
+  "end_date": "1973-04-07",
+  "synopsis": "Devilman features Akira Fudo, a shy and timid teenager who has gone mountain climbing in the Himalayas with his father. While in the middle of the expedition, both father and son are killed in a tragic accident. Akira's body is found and possessed by the demon soldier Devilman, who uses his new human form as a disguise in order to fulfill his mission of causing chaos on Earth in order to pave the way for a demonic invasion of the planet.\n\nBefore his mission can begin in earnest, Devilman meets Akira's childhood friend Miki Makimura and quickly falls in love with her. Devilman resolves to protect Miki and humanity as a whole by battling against his fellow demons. Demon Tribe leader Zennon becomes greatly angered at Devilman's betrayal and is quick to send Devilman's former comrades to destroy him. The other demons soon learn that Miki is precious to Devilman and he must now work to protect her, as well as protect himself. Will the power of love be able to overcome that of true evil?",
+  "mean": 6.5,
+  "rank": 6880,
+  "popularity": 3869,
+  "num_list_users": 32993,
+  "num_scoring_users": 7765,
+  "nsfw": "white",
+  "created_at": "2007-04-10T14:46:28+00:00",
+  "updated_at": "2022-04-16T20:52:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1972,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "20:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

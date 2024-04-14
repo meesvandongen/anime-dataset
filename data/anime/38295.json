@@ -1,0 +1,64 @@
+{
+  "id": 38295,
+  "title": "Joshikausei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1660/98376.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1660/98376l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jyoshi Kausei"
+    ],
+    "en": "Joshi Kausei",
+    "ja": "女子かう生"
+  },
+  "start_date": "2019-04-06",
+  "end_date": "2019-06-22",
+  "synopsis": "Momoko Futo is an average high-school girl going about her everyday life. Though laid-back and cheerful, her life is anything but mundane as her eccentricity and clumsiness never fail to spice up her days. Her two best friends are always with her: the cute and innocent Mayumi Furui, and the calm and cool Shibumi Shibusawa. Without any spoken dialogue or narration, Joshikausei aims to recount the comedic shenanigans these girls get up to through the expressive sounds and gestures that they make.\n\n[Written by MAL Rewrite]\n",
+  "mean": 5.82,
+  "rank": 10371,
+  "popularity": 2656,
+  "num_list_users": 66833,
+  "num_scoring_users": 25211,
+  "nsfw": "white",
+  "created_at": "2018-09-11T23:24:04+00:00",
+  "updated_at": "2022-04-16T15:34:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:15"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 541,
+      "name": "Seven"
+    }
+  ]
+}

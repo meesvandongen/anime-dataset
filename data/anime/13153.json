@@ -1,0 +1,42 @@
+{
+  "id": 13153,
+  "title": "Renkyori Enai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/36829.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/36829l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Love Distance Long Affair"
+    ],
+    "en": "",
+    "ja": "恋距離遠愛"
+  },
+  "start_date": "2011-11-10",
+  "end_date": "2011-11-10",
+  "synopsis": "Music video from DECO*27.",
+  "mean": 6.29,
+  "popularity": 12578,
+  "num_list_users": 1262,
+  "num_scoring_users": 739,
+  "nsfw": "white",
+  "created_at": "2012-03-01T14:00:09+00:00",
+  "updated_at": "2020-04-17T18:40:21+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 274,
+  "rating": "g",
+  "studios": []
+}

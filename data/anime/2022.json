@@ -1,0 +1,56 @@
+{
+  "id": 2022,
+  "title": "Fight!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1623/94539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1623/94539l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fight!! Spirit of the Sword"
+    ],
+    "en": "",
+    "ja": "FIGHT!!"
+  },
+  "start_date": "1993-06-18",
+  "end_date": "1993-06-18",
+  "synopsis": "Yonosuke Hikura appears to be an ordinary high school student. Yet he has inherited the important role of protecting the harmony between Heaven and Earth. With the help of the magical sword Chitentai, and Tsukinojo Inbe, he courageously battles the demons, sending them back to the Earth World, from which they have escaped. ",
+  "mean": 4.81,
+  "rank": 12868,
+  "popularity": 11940,
+  "num_list_users": 1561,
+  "num_scoring_users": 602,
+  "nsfw": "white",
+  "created_at": "2007-03-08T00:18:09+00:00",
+  "updated_at": "2021-06-05T03:10:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

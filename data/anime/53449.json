@@ -1,0 +1,48 @@
+{
+  "id": 53449,
+  "title": "Hanhua Riji 4th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1477/138814.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1477/138814l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "God Troubles Me 4th Season",
+    "ja": "汉化日记 第四季"
+  },
+  "start_date": "2024-03-10",
+  "synopsis": "Fourth season of Hanhua Riji.",
+  "rank": 19934,
+  "popularity": 13092,
+  "num_list_users": 1084,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2022-10-29T14:18:55+00:00",
+  "updated_at": "2023-04-18T22:53:05+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1268,
+      "name": "L²Studio"
+    }
+  ]
+}

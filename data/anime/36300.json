@@ -1,0 +1,46 @@
+{
+  "id": 36300,
+  "title": "Oniichan Zurui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/87693.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/87693l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "お兄ちゃんずるい"
+  },
+  "start_date": "1987-10-02",
+  "end_date": "1987-10-02",
+  "synopsis": "A younger brother hates how his older brother is unfair. He takes his toys, gets, gets to choose the TV channel so the younger brother decides to eat a lot in order to become the bigger brother through sheer growth spurts.",
+  "mean": 5.48,
+  "popularity": 19613,
+  "num_list_users": 237,
+  "num_scoring_users": 108,
+  "nsfw": "white",
+  "created_at": "2017-09-13T08:49:42+00:00",
+  "updated_at": "2019-02-01T17:20:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 139,
+  "rating": "g",
+  "studios": []
+}

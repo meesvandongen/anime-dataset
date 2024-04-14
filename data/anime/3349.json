@@ -1,0 +1,60 @@
+{
+  "id": 3349,
+  "title": "Kiddy GiRL-AND",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/74159.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/74159l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kiddy Grade 2"
+    ],
+    "en": "Kiddy Girl-AND",
+    "ja": "キディ・ガーランド"
+  },
+  "start_date": "2009-10-16",
+  "end_date": "2010-03-26",
+  "synopsis": "Twenty-five years after Éclair and Lumière, (from the flagship Kiddy Grade series), rescued the galaxy from destruction's doorstep, the GTO (Galactic Trade Organization), created after the defeat of the GOTT (Galactic Organization of Trade and Tariffs), act on behalf of universal peace by combating criminal activity.\n\nTheir special ES division mirrored after the GOTT's ES (Encounter of Shadow-work) force, now includes publicly acknowledged ES member candidates. The series follows two such trainees, Ascoeur and Q-feuille, as they work their way to ES membership.\n\n(Source: Wikipedia)",
+  "mean": 6.83,
+  "rank": 5062,
+  "popularity": 5068,
+  "num_list_users": 17956,
+  "num_scoring_users": 6292,
+  "nsfw": "white",
+  "created_at": "2007-11-02T20:33:33+00:00",
+  "updated_at": "2021-09-03T02:51:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

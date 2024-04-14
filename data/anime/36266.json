@@ -1,0 +1,78 @@
+{
+  "id": 36266,
+  "title": "Mahou Shoujo Site",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1720/95064.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1720/95064l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magical Girl Site",
+    "ja": "魔法少女サイト"
+  },
+  "start_date": "2018-04-07",
+  "end_date": "2018-06-23",
+  "synopsis": "Every day, Aya Asagiri thinks about killing herself. She is bullied relentlessly at school, and at home, her older brother Kaname physically abuses her to relieve the academic stress put on him by their father.\n\nOne night, as she lies awake wishing for death, a mysterious website called Magical Girl Site appears on her laptop, promising to give her magical powers. At first, she dismisses it as a creepy prank, but when she finds a magical gun in her shoe locker the next day, she doesn't know what to believe. Deciding to take it with her, she soon runs into her bullies once again. But this time, desperate for anything to save her, she uses the gun—and her assailants are transported to a nearby railroad crossing, where they are run over. \n\nAya's conscience is unable to handle the fact that she murdered two of her classmates with magic, and she desperately tries to understand the situation. However, when she finds herself in trouble again, she is saved by Tsuyuno Yatsumura, a classmate who can use magic to stop time. This duo has a lot to do: not only do they have to fight alongside and against other magical girls, but they also need to uncover the truth behind the website and the apocalyptic event known as \"The Tempest\" that is soon to occur.\n\n[Written by MAL Rewrite]",
+  "mean": 6.52,
+  "rank": 6748,
+  "popularity": 1017,
+  "num_list_users": 237314,
+  "num_scoring_users": 97716,
+  "nsfw": "white",
+  "created_at": "2017-09-06T08:37:32+00:00",
+  "updated_at": "2024-03-06T12:20:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1467,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1669,
+      "name": "production doA"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 41545,
+  "title": "Ogaki Matsuri ni Ikou yo!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1425/106763.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1425/106763l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ogaki-shi",
+      "Ogaki Shi",
+      "Ougaki-shi",
+      "Ougaki Shi"
+    ],
+    "en": "",
+    "ja": "大垣まつりにいこうよ！"
+  },
+  "start_date": "2020-03-30",
+  "end_date": "2020-03-30",
+  "synopsis": "A tourism promotion anime for Ogaki City in the Gifu Prefecture. The story's script was written by Kou Nakamura, a famous novelist from Ogaki City.\n\nA love story set during the Ogaki Festival preparations. The festival itself is held in May.",
+  "mean": 5.69,
+  "rank": 10932,
+  "popularity": 13546,
+  "num_list_users": 957,
+  "num_scoring_users": 235,
+  "nsfw": "white",
+  "created_at": "2020-03-30T07:13:03+00:00",
+  "updated_at": "2024-02-09T11:53:11+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 545,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1399,
+      "name": "Asura Film"
+    },
+    {
+      "id": 2053,
+      "name": "l-a-unch・BOX"
+    }
+  ]
+}

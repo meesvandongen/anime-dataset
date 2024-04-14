@@ -1,0 +1,48 @@
+{
+  "id": 57846,
+  "title": "VSPO! x Vanguard Animation PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1513/140923.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1513/140923l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぶいすぽっ！×ヴァンガード アニメーションPV"
+  },
+  "start_date": "2024-01-06",
+  "end_date": "2024-01-06",
+  "synopsis": "An animated promotional video for a collaboration between VSPO! and Cardfight!! Vanguard.",
+  "popularity": 21274,
+  "num_list_users": 148,
+  "num_scoring_users": 69,
+  "nsfw": "white",
+  "created_at": "2024-01-15T21:10:51+00:00",
+  "updated_at": "2024-01-20T07:24:23+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 66,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2881,
+      "name": "Andraft"
+    }
+  ]
+}

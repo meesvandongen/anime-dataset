@@ -1,0 +1,55 @@
+{
+  "id": 6032,
+  "title": "Aquarion Movie: Ippatsu Gyakuten-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/53887.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/53887l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Aquarion: Ippatsu Gyakuten Hen"
+    ],
+    "en": "",
+    "ja": "劇場版アクエリオン -壱発逆転篇-"
+  },
+  "start_date": "2007-09-22",
+  "end_date": "2007-09-22",
+  "synopsis": "This movie is an alternative version of the TV series; it is composed of the two 2007 OVAs, edited to improve the pacing of the plot, and an extra segment akin to a TV episode where the cast are given the task of studying flowers.\n\nThe plot has several differences to the TV series.",
+  "mean": 6.71,
+  "rank": 5671,
+  "popularity": 7498,
+  "num_list_users": 6702,
+  "num_scoring_users": 2300,
+  "nsfw": "white",
+  "created_at": "2009-02-07T08:06:26+00:00",
+  "updated_at": "2021-06-22T00:10:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "average_episode_duration": 6960,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

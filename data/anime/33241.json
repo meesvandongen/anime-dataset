@@ -1,0 +1,58 @@
+{
+  "id": 33241,
+  "title": "Honobono Log",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1307/121781.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1307/121781l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ほのぼのログ"
+  },
+  "start_date": "2016-06-07",
+  "end_date": "2016-06-18",
+  "synopsis": "Some of us are fortunate enough to have a partner to confide in on our bad days. In even the most devastating times, we can depend on our comrades for support. Others are incredibly lucky to have a special someone that they can just randomly embrace. No matter the situation, there always tends to be a close ally to help us get by.\n\nHonobono Log showcases the best and worst of couples and families, enticing romantic-comedy lovers with various relatable situations.\n\n[Written by MAL Rewrite]",
+  "mean": 7.33,
+  "rank": 2609,
+  "popularity": 2383,
+  "num_list_users": 79756,
+  "num_scoring_users": 34402,
+  "nsfw": "white",
+  "created_at": "2016-04-26T00:53:22+00:00",
+  "updated_at": "2022-04-17T21:49:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "other",
+    "start_time": "00:08"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 866,
+      "name": "Fanworks"
+    }
+  ]
+}

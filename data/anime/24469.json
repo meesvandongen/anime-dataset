@@ -1,0 +1,58 @@
+{
+  "id": 24469,
+  "title": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/67521.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/67521l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "バディ・コンプレックス 完結編 ―あの空に還る未来で―"
+  },
+  "start_date": "2014-09-30",
+  "end_date": "2014-10-01",
+  "synopsis": "The two part finale of Buddy Complex television series deals with the final battle between the Free Treaty Alliance and the space division of Zogiria, lead by an elderly Bizon, as Earth and time itself hang in the balance.",
+  "mean": 7.28,
+  "rank": 2817,
+  "popularity": 4315,
+  "num_list_users": 26271,
+  "num_scoring_users": 15744,
+  "nsfw": "white",
+  "created_at": "2014-06-01T14:32:23+00:00",
+  "updated_at": "2023-12-27T16:41:31+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1421,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

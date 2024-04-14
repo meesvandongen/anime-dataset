@@ -1,0 +1,51 @@
+{
+  "id": 20877,
+  "title": "Music S.T.A.R.T!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/55555.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/55555l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Love Live! School Idol Project: Music S.T.A.R.T!!"
+    ],
+    "en": "",
+    "ja": "Music S.T.A.R.T!!"
+  },
+  "start_date": "2013-11-27",
+  "end_date": "2013-11-27",
+  "synopsis": "Music video bundled with the sixth single of the anime-idol group μ's.",
+  "mean": 7.17,
+  "popularity": 5743,
+  "num_list_users": 12927,
+  "num_scoring_users": 6983,
+  "nsfw": "white",
+  "created_at": "2013-10-14T01:19:29+00:00",
+  "updated_at": "2023-12-28T05:15:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 343,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

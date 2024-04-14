@@ -1,0 +1,60 @@
+{
+  "id": 3689,
+  "title": "Hatsumei Boy Kanipan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/46389.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/46389l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Inventor Boy Kanipan",
+      "Gadget Boy Kanipan"
+    ],
+    "en": "",
+    "ja": "発明BOYカニパン"
+  },
+  "start_date": "1998-07-03",
+  "end_date": "1999-01-29",
+  "synopsis": "The story revolves around Kanipan aiming to be the best inventor and his adventures while trying to accomplish this.",
+  "mean": 6.87,
+  "rank": 4857,
+  "popularity": 12999,
+  "num_list_users": 1118,
+  "num_scoring_users": 354,
+  "nsfw": "white",
+  "created_at": "2008-01-09T01:17:00+00:00",
+  "updated_at": "2021-05-16T22:20:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 31,
+  "start_season": {
+    "year": 1998,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "18:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1475,
+  "rating": "pg",
+  "studios": []
+}

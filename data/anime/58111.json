@@ -1,0 +1,39 @@
+{
+  "id": 58111,
+  "title": "Suki na Koto dake de Ii desu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1433/141375.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1433/141375l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "All I Need are Things I Like",
+    "ja": "すきなことだけでいいです"
+  },
+  "start_date": "2016-05-01",
+  "end_date": "2016-05-01",
+  "synopsis": "Music video for PinocchioP's Vocaloid song Suki na Koto dake de Ii desu featuring Hatsune Miku.\n\n",
+  "popularity": 24817,
+  "num_list_users": 66,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2024-02-12T15:22:00+00:00",
+  "updated_at": "2024-03-06T13:50:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 273,
+  "rating": "pg_13",
+  "studios": []
+}

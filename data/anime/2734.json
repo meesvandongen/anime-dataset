@@ -1,0 +1,52 @@
+{
+  "id": 2734,
+  "title": "Mazinkaiser: Shitou! Ankoku Dai Shogun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/51795.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/51795l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mazinkaiser: OVA 8"
+    ],
+    "en": "Mazinkaiser: Deathmatch! General Dark",
+    "ja": "マジンカイザー　死闘！暗黒大将軍"
+  },
+  "start_date": "2003-07-25",
+  "end_date": "2003-07-25",
+  "synopsis": "Koji is on holiday when the 7 generals from Mikene attacks the world, under the leadership of the general of darkness.How will Koji be able to stop them...\n\n(Source: AniDB)",
+  "mean": 7.09,
+  "rank": 3843,
+  "popularity": 8372,
+  "num_list_users": 5111,
+  "num_scoring_users": 2496,
+  "nsfw": "white",
+  "created_at": "2007-06-26T04:18:17+00:00",
+  "updated_at": "2022-02-14T16:20:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 3360,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

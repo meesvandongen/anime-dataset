@@ -1,0 +1,53 @@
+{
+  "id": 39191,
+  "title": "Wan Jie Shen Zhu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1049/98778.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1049/98778l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wanjie Shenzhu",
+      "Lord of the Universe"
+    ],
+    "en": "",
+    "ja": "万界神主"
+  },
+  "start_date": "2019-02-06",
+  "end_date": "2019-08-31",
+  "synopsis": "Ye Chen, an ancient god, who fell from the world of the gods into a heavenly and peaceful world. In this world there are hundreds of countries, surrounded by thousands of states, who are strong and arrogant. Ye Chen has been in this world for hundreds of years and has established great strength, moreover his existence has always been a legend. But the power of the gods' world extends slowly into this world, beginning one of the most cruel and ferocious battles.",
+  "mean": 6.74,
+  "rank": 5507,
+  "popularity": 9601,
+  "num_list_users": 3386,
+  "num_scoring_users": 992,
+  "nsfw": "white",
+  "created_at": "2019-02-03T23:19:15+00:00",
+  "updated_at": "2022-04-10T14:37:19+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 60,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 540,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2042,
+      "name": "Ruo Hong Culture"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 4554,
+  "title": "Dokkiri Doctor",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/45498.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/45498l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dr. Dokkiri"
+    ],
+    "en": "Startling Doctor",
+    "ja": "どっきりドクター"
+  },
+  "start_date": "1998-10-21",
+  "end_date": "1999-06-23",
+  "synopsis": "Haruka Nishikikoji is an overweight doctor that never seems to attract any girls. Fate finds a way as he lands a job as a doctor in an elementary school, wherein his workplace can be found on top of the schools' roof and the actual clinic looks like a medieval castle. Just when everything seems to go downhill, a surprise came one day, her first love Koizumi Miyuki, applies as her soon to be nurse.",
+  "mean": 7.1,
+  "rank": 3800,
+  "popularity": 12004,
+  "num_list_users": 1525,
+  "num_scoring_users": 432,
+  "nsfw": "white",
+  "created_at": "2008-05-24T02:58:46+00:00",
+  "updated_at": "2022-11-06T09:28:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "19:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

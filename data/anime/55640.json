@@ -1,0 +1,53 @@
+{
+  "id": 55640,
+  "title": "Wasure Hoshi no Volicia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1098/136439.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1098/136439l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Volicia of Pluto: Vapor Trail Another Age 2006",
+    "ja": "忘星のヴァリシア"
+  },
+  "start_date": "2023-07-03",
+  "end_date": "2023-07-03",
+  "synopsis": "",
+  "mean": 6.09,
+  "rank": 9154,
+  "popularity": 10377,
+  "num_list_users": 2619,
+  "num_scoring_users": 280,
+  "nsfw": "gray",
+  "created_at": "2023-06-13T14:03:39+00:00",
+  "updated_at": "2023-06-16T15:52:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1945,
+  "rating": "pg_13",
+  "studios": []
+}

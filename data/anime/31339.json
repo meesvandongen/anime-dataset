@@ -1,0 +1,92 @@
+{
+  "id": 31339,
+  "title": "Drifters",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/80271.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/80271l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Drifters: Battle in a Brand-new World War"
+    ],
+    "en": "Drifters",
+    "ja": "DRIFTERS"
+  },
+  "start_date": "2016-10-07",
+  "end_date": "2016-12-23",
+  "synopsis": "At the Battle of Sekigahara in 1600, Toyohisa Shimazu is the rearguard for his retreating troops, and is critically wounded when he suddenly finds himself in a modern, gleaming white hallway. Faced with only a stoic man named Murasaki and hundreds of doors on both sides, Toyohisa is pulled into the nearest door and into a world completely unlike his own.\n\nThe strange land is populated by all manner of fantastical creatures, as well as warriors from different eras of Toyohisa's world who were thought to be dead. Quickly befriending the infamous warlord Nobunaga Oda and the ancient archer Yoichi Suketaka Nasu, Toyohisa learns of the political unrest tearing through the continent. Furthermore, they have been summoned as \"Drifters\" to fight against the \"Ends,\" people who are responsible for the creation of the Orte Empire and are trying to annihilate the Drifters. As the Ends grow more powerful, so does the Empire's persecution of elves and other demihumans. It is up to Toyohisa and his group of unconventional heroes to battle in a brand-new world war to help the Empire's subjects, while protecting the land to claim for themselves and challenging the Ends.\n\n[Written by MAL Rewrite]",
+  "mean": 7.89,
+  "rank": 794,
+  "popularity": 383,
+  "num_list_users": 567386,
+  "num_scoring_users": 273114,
+  "nsfw": "white",
+  "created_at": "2015-07-25T07:35:53+00:00",
+  "updated_at": "2023-09-02T21:13:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    }
+  ]
+}

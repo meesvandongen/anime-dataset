@@ -1,0 +1,50 @@
+{
+  "id": 27957,
+  "title": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/71319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/71319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
+    "ja": "Steins;Gate 聡明叡智のコグニティブ・コンピューティング"
+  },
+  "start_date": "2014-10-15",
+  "end_date": "2014-11-12",
+  "synopsis": "Mayuri Shiina brings a cognitive computing system—with a large pink Oopa toy serving as its terminal—to the Future Gadget Lab, insisting that it will help her and Kurisu Makise prepare fried chicken for the group, much to the dismay of Rintarou Okabe and Itaru \"Daru\" Hashida. Despite not having the proper ingredients, the Oopa cognitive computer assists Mayuri and Kurisu in perfecting a dish that the other lab members will enjoy.\n\nIn the following episodes, the cognitive computer continues to aid Okabe and his friends in their day-to-day lives. From helping Okabe and Kurisu to reconcile after an argument, to collecting input from the lab members to suggest improvements for the Lab; Okabe may not realize it yet, but his lab has gained a valuable asset!\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2170,
+  "popularity": 1930,
+  "num_list_users": 110852,
+  "num_scoring_users": 59835,
+  "nsfw": "white",
+  "created_at": "2014-10-15T14:50:13+00:00",
+  "updated_at": "2022-04-17T20:47:51+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 232,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

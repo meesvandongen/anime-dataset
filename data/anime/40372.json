@@ -1,0 +1,53 @@
+{
+  "id": 40372,
+  "title": "Haikyuu!! (OVA)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1618/102929.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1618/102929l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haikyuu!! Puppet Animation",
+      "Haikyuu!! Stop-motion Animation",
+      "Haikyuu!!: Ningyou Anime"
+    ],
+    "en": "",
+    "ja": "ハイキュー!!"
+  },
+  "start_date": "2020-03-04",
+  "end_date": "2020-03-04",
+  "synopsis": "A stop-motion anime that will bundle with the 42nd compiled book volume of Haruichi Furudate's Haikyu!! manga. Anime will have 10 short episodes featuring the Karasuno team as puppets.\n\n(Source: ANN)",
+  "mean": 7.82,
+  "rank": 945,
+  "popularity": 3937,
+  "num_list_users": 32026,
+  "num_scoring_users": 10493,
+  "nsfw": "white",
+  "created_at": "2019-09-04T21:34:11+00:00",
+  "updated_at": "2022-04-14T20:40:23+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 170,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": 48918,
+  "title": "Peeping Life × Jidousha Tenken Seibi Suishin Undou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1362/115584.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1362/115584l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Peeping Life×自動車点検整備推進運動"
+  },
+  "start_date": "2014-09-01",
+  "end_date": "2014-09-01",
+  "synopsis": "",
+  "popularity": 18567,
+  "num_list_users": 297,
+  "num_scoring_users": 101,
+  "nsfw": "white",
+  "created_at": "2021-05-10T06:45:44+00:00",
+  "updated_at": "2023-12-26T21:24:11+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 270,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
+}

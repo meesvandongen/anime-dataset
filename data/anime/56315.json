@@ -1,0 +1,44 @@
+{
+  "id": 56315,
+  "title": "Fei Xiang Yueqiu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1370/137821.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1370/137821l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Journey to the Moon",
+    "ja": "飞向月球"
+  },
+  "start_date": "2023-08-13",
+  "end_date": "2023-08-13",
+  "synopsis": "",
+  "rank": 19488,
+  "popularity": 21823,
+  "num_list_users": 123,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2023-08-15T17:13:49+00:00",
+  "updated_at": "2023-08-16T08:29:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5280,
+  "rating": "g",
+  "studios": []
+}

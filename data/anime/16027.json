@@ -1,0 +1,50 @@
+{
+  "id": 16027,
+  "title": "Greek Roman Sinhwa: Olympus Guardian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/43449.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/43449l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Greek & Roman Mythology: Olympus Guardian"
+    ],
+    "en": "",
+    "ja": "그리스 로마 신화-올림포스 가디언"
+  },
+  "start_date": "2002-12-11",
+  "end_date": "2003-07-31",
+  "synopsis": "The animated form of the Korean manhwa. ",
+  "mean": 5.85,
+  "rank": 10228,
+  "popularity": 12202,
+  "num_list_users": 1424,
+  "num_scoring_users": 237,
+  "nsfw": "white",
+  "created_at": "2012-10-20T08:38:13+00:00",
+  "updated_at": "2022-03-01T08:41:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2003,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1500,
+  "studios": []
+}

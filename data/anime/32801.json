@@ -1,0 +1,62 @@
+{
+  "id": 32801,
+  "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/81432.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/81432l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DanMachi OVA",
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon? OVA",
+      "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Dungeon ni Onsen wo Motomeru no wa Machigatteiru Darou ka"
+    ],
+    "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?",
+    "ja": "ダンジョンに出会いを求めるのは間違っているだろうか OVA「ダンジョンに温泉を求めるのは 間違っているだろうか」"
+  },
+  "start_date": "2016-12-07",
+  "end_date": "2016-12-07",
+  "synopsis": "On their way back from the 18th floor, Hestia, Bell, and the others accidentally uncover a hidden, mystical hot spring, and they decide to stop by to refresh themselves until creatures lurking in the dark appear to attack them.",
+  "mean": 7.05,
+  "rank": 4037,
+  "popularity": 1340,
+  "num_list_users": 177059,
+  "num_scoring_users": 94342,
+  "nsfw": "white",
+  "created_at": "2016-02-22T00:26:25+00:00",
+  "updated_at": "2022-10-11T07:37:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1473,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

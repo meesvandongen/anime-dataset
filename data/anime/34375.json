@@ -1,0 +1,60 @@
+{
+  "id": 34375,
+  "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/86480.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/86480l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuki Yuna Is A Hero: Washio Sumi Chapter 2 - Spirit"
+    ],
+    "en": "",
+    "ja": "結城友奈は勇者である -鷲尾須美の章- 第２章「たましい」"
+  },
+  "start_date": "2017-04-15",
+  "end_date": "2017-04-15",
+  "synopsis": "The second movie in the Washio Sumi no Shou trilogy.\n\n",
+  "mean": 7.79,
+  "rank": 1006,
+  "popularity": 5470,
+  "num_list_users": 14568,
+  "num_scoring_users": 5412,
+  "nsfw": "white",
+  "created_at": "2016-11-13T08:18:51+00:00",
+  "updated_at": "2022-04-10T17:19:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 2820,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

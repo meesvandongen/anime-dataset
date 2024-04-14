@@ -1,0 +1,72 @@
+{
+  "id": 31098,
+  "title": "Ushio to Tora (TV) 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1092/117404.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1092/117404l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ushio and Tora"
+    ],
+    "en": "Ushio & Tora (2016)",
+    "ja": "うしおととら"
+  },
+  "start_date": "2016-04-01",
+  "end_date": "2016-06-24",
+  "synopsis": "Continuation of Ushio to Tora TV series.",
+  "mean": 7.89,
+  "rank": 807,
+  "popularity": 1689,
+  "num_list_users": 132457,
+  "num_scoring_users": 66207,
+  "nsfw": "white",
+  "created_at": "2015-06-24T23:57:55+00:00",
+  "updated_at": "2023-10-01T18:51:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    },
+    {
+      "id": 1244,
+      "name": "Studio VOLN"
+    }
+  ]
+}

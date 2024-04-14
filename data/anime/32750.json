@@ -1,0 +1,43 @@
+{
+  "id": 32750,
+  "title": "Ashita e Mukau Hito",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/78578.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/78578l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Asu he Mukau Hito",
+      "People Toward Tomorrow"
+    ],
+    "en": "The One that Heads to Tomorrow",
+    "ja": "明日へ向かう人"
+  },
+  "start_date": "2015-04-06",
+  "end_date": "2015-04-06",
+  "synopsis": "A music video for \"Ashita e Mukau Hito\" by Yoshiko Hanzaki.",
+  "mean": 5.68,
+  "popularity": 15224,
+  "num_list_users": 597,
+  "num_scoring_users": 317,
+  "nsfw": "white",
+  "created_at": "2016-02-18T20:20:24+00:00",
+  "updated_at": "2021-12-03T05:34:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 310,
+  "rating": "g",
+  "studios": []
+}

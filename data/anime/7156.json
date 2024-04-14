@@ -1,0 +1,57 @@
+{
+  "id": 7156,
+  "title": "Arei no Kagami: Way to the Virgin Space",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1901/97244.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1901/97244l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Arei's Mirror ~ Way to the Virgin Space",
+    "ja": "アレイの鏡 ~ Way to the Virgin Space"
+  },
+  "start_date": "1985-03-16",
+  "end_date": "1985-03-16",
+  "synopsis": "The story follows Daichi Meguru and Mayu, a young boy and a pilot, as they flee their war torn planet and into space. Upon their ship a stowaway android named Zero joins their quest as they travel through Halley's Mirror.\n\n(Source: Wikipedia)",
+  "mean": 5.42,
+  "rank": 11816,
+  "popularity": 11314,
+  "num_list_users": 1943,
+  "num_scoring_users": 786,
+  "nsfw": "white",
+  "created_at": "2009-09-09T03:52:19+00:00",
+  "updated_at": "2017-08-05T16:54:19+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "winter"
+  },
+  "average_episode_duration": 1589,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

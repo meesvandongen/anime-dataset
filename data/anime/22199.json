@@ -1,0 +1,68 @@
+{
+  "id": 22199,
+  "title": "Akame ga Kill!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1429/95946l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Akame ga Kiru!"
+    ],
+    "en": "Akame ga Kill!",
+    "ja": "アカメが斬る！"
+  },
+  "start_date": "2014-07-07",
+  "end_date": "2014-12-15",
+  "synopsis": "Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience. Without a strong and benevolent leader, the rest of the nation is left to drown in poverty, strife, and ruin. Though the Night Raid members are all experienced killers, they understand that taking lives is far from commendable and that they will likely face retribution as they mercilessly eliminate anyone who stands in the revolution's way.\n\nThis merry band of assassins' newest member is Tatsumi, a naïve boy from a remote village who had embarked on a journey to help his impoverished hometown and was won over by not only Night Raid's ideals, but also their resolve. Akame ga Kill! follows Tatsumi as he fights the Empire and comes face-to-face with powerful weapons, enemy assassins, challenges to his own morals and values, and ultimately, what it truly means to be an assassin with a cause.\n\n[Written by MAL Rewrite]",
+  "mean": 7.47,
+  "rank": 1956,
+  "popularity": 29,
+  "num_list_users": 2083323,
+  "num_scoring_users": 1307291,
+  "nsfw": "white",
+  "created_at": "2014-01-20T15:10:34+00:00",
+  "updated_at": "2023-03-10T04:27:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

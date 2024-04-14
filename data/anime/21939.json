@@ -1,0 +1,81 @@
+{
+  "id": 21939,
+  "title": "Mushishi Zoku Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/58533.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mushi-shi Zoku Shou",
+      "Mushishi: The Next Chapter"
+    ],
+    "en": "Mushi-shi: Next Passage Part 1",
+    "ja": "蟲師 続章"
+  },
+  "start_date": "2014-04-05",
+  "end_date": "2014-06-21",
+  "synopsis": "Perceived as strange and feared by man, over time the misshapen ones came to be known as Mushi. Although they harbor no ill intentions towards humans, many suffer from the side effects of their existence and strange nature; exploiting the Mushi without understanding them, even unintentionally, can lead to disaster and strife for any involved. Mushishi Zoku Shou continues the story of Mushishi Ginko on his journey to help the visible world to coexist with the Mushi.\n\nDuring his travels, Ginko discovers various gifted individuals—those cursed by circumstance and those maintaining a fragile symbiosis with the Mushi—inevitably confronting the question of whether humanity, talented and tortured alike, can manage the responsibility of the unseen. Moreover, as a Mushishi, Ginko must learn more about these strange beings and decide if he has the right to interfere with the complex relationships between Mushi and mankind.\n\n[Written by MAL Rewrite]",
+  "mean": 8.69,
+  "rank": 59,
+  "popularity": 803,
+  "num_list_users": 299709,
+  "num_scoring_users": 118709,
+  "nsfw": "white",
+  "created_at": "2014-01-04T16:29:06+00:00",
+  "updated_at": "2023-04-20T11:10:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 8,
+      "name": "Artland"
+    }
+  ]
+}

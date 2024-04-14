@@ -1,0 +1,56 @@
+{
+  "id": 18449,
+  "title": "Kidou Senshi Gundam Senki: Avant Title",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/49393.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/49393l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kidou Senshi Gundam Senki: Avant Title"
+    ],
+    "en": "Mobile Suit Gundam Battlefield Record: Avant-Title",
+    "ja": "機動戦士ガンダム戦記 アバンタイトル"
+  },
+  "start_date": "2009-09-03",
+  "end_date": "2009-09-03",
+  "synopsis": "A short animation serving as a prequel to the events depicted in the PlayStation 3 game, Mobile Suit Gundam: Battlefield Record U.C. 0081.\n\n(Source: AniDB)",
+  "mean": 6.22,
+  "rank": 8454,
+  "popularity": 9782,
+  "num_list_users": 3190,
+  "num_scoring_users": 1117,
+  "nsfw": "white",
+  "created_at": "2013-04-22T07:00:55+00:00",
+  "updated_at": "2022-11-07T18:13:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

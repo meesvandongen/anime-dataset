@@ -1,0 +1,70 @@
+{
+  "id": 1536,
+  "title": "Busou Renkin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/75566.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/75566l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "BoRe",
+      "BuRe",
+      "Arms Alchemy"
+    ],
+    "en": "Buso Renkin",
+    "ja": "武装錬金"
+  },
+  "start_date": "2006-10-05",
+  "end_date": "2007-03-29",
+  "synopsis": "The story begins when high school student Kazuki Muto is killed one night saving a mysterious girl from a monster, only to wake up in his school dorm, believing it to have been a dream; however, he soon finds out that dream wasn't a dream at all when a giant serpentine monster attacks him and his sister. Tokiko Tsumura, the girl he saved, explains that the monster is a homunculus. Kazuki had been attacked and killed by it when he was rescuing her; however, she, feeling responsible for him, revived him by placing a Kakugane medallion in his chest, serving as a replacement heart.\n\nThe Kakugane, as Tokiko explains, is an alchemical device that, when activated, takes a certain form based on the Kakugane's user, forming a unique Buso Renkin. The Buso Renkin is the only thing that can destroy a homunculus monster. Using this, Kazuki creates his own Buso Renkin (the \"Sunlight Heart,\" a huge lance). Along with Tokiko and her own Buso Renkin (the \"Valkyrie Skirt,\" an execution scythe), Kazuki joins the fight against the homunculi and their master.",
+  "mean": 7.29,
+  "rank": 2757,
+  "popularity": 1361,
+  "num_list_users": 172557,
+  "num_scoring_users": 80556,
+  "nsfw": "white",
+  "created_at": "2006-10-04T03:43:13+00:00",
+  "updated_at": "2024-01-05T05:15:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

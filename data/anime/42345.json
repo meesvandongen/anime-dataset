@@ -1,0 +1,44 @@
+{
+  "id": 42345,
+  "title": "Get Up! Get Live! #GeraGera Episode 0",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1064/108300.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1064/108300l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "GET UP! GET LIVE! #ゲラゲラ ０話"
+  },
+  "start_date": "2020-07-03",
+  "end_date": "2020-07-03",
+  "synopsis": "Episode 0 of Get Up! Get Live! #GeraGera.",
+  "rank": 19705,
+  "popularity": 16676,
+  "num_list_users": 436,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2020-07-01T02:39:10+00:00",
+  "updated_at": "2020-07-01T07:41:25+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 506,
+  "rating": "pg_13",
+  "studios": []
+}

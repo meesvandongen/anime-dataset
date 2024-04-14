@@ -1,0 +1,66 @@
+{
+  "id": 4615,
+  "title": "Yama Nezumi Rocky Chuck",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/56399.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/56399l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rocky Chuck the Mountain Rat",
+      "Rocky Chuck the Woodchuck",
+      "Peter Conttontail in The Green Forest",
+      "Peter Cottontail and Friends"
+    ],
+    "en": "Fables of the Green Forest",
+    "ja": "山ねずみ ロッキーチャック"
+  },
+  "start_date": "1973-01-07",
+  "end_date": "1973-12-30",
+  "synopsis": "Various stories about a group of animals that live together in a forest. The stories are adaptations from the many children's books written by Thornton W. Burgess.",
+  "mean": 6.24,
+  "rank": 8389,
+  "popularity": 11740,
+  "num_list_users": 1672,
+  "num_scoring_users": 505,
+  "nsfw": "white",
+  "created_at": "2008-05-29T22:16:19+00:00",
+  "updated_at": "2021-12-11T10:32:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1973,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "19:30"
+  },
+  "average_episode_duration": 1551,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

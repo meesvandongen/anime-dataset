@@ -1,0 +1,53 @@
+{
+  "id": 36983,
+  "title": "Oshiri Tantei: Puputto Fumutto Kaiketsu Dance",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/89614.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/89614l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Butt Detective: A Wind-Breaking Victory Dance",
+    "ja": "おしりたんてい「ププッとフムッとかいけつダンス」"
+  },
+  "start_date": "2017-12-07",
+  "end_date": "2017-12-07",
+  "synopsis": "",
+  "mean": 4.98,
+  "popularity": 15857,
+  "num_list_users": 516,
+  "num_scoring_users": 245,
+  "nsfw": "white",
+  "created_at": "2017-12-23T20:35:04+00:00",
+  "updated_at": "2021-05-06T02:08:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 146,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 51128,
+  "title": "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1384/127328.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1384/127328l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+    "ja": "農民関連のスキルばっか上げてたら何故か強くなった。"
+  },
+  "start_date": "2022-10-01",
+  "end_date": "2022-12-17",
+  "synopsis": "Al Wayne's greatest goal is to become the best farmer he can be. With utmost effort, he reaches the apex of his farming skills and earns the title of a first-rate cultivator. Due to this achievement, Al gains a substantial upgrade to his stats which now eclipse even the strength of legendary heroes of old.\n\nSoon after discovering his potential, the royal family enlists his help against the rising number of disasters that coincidentally began right as his true power was awakened. Although reluctant, Al concedes that in order to protect his precious fields, he must do his best to keep all threats at bay.\n\n[Written by MAL Rewrite]",
+  "mean": 5.95,
+  "rank": 9799,
+  "popularity": 1705,
+  "num_list_users": 131327,
+  "num_scoring_users": 51749,
+  "nsfw": "white",
+  "created_at": "2022-02-25T15:22:17+00:00",
+  "updated_at": "2022-12-29T08:18:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1209,
+      "name": "Studio A-CAT"
+    }
+  ]
+}

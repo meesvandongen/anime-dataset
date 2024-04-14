@@ -1,0 +1,73 @@
+{
+  "id": 31240,
+  "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Re: Life in a different world from zero",
+      "ReZero"
+    ],
+    "en": "Re:ZERO -Starting Life in Another World-",
+    "ja": "Re：ゼロから始める異世界生活"
+  },
+  "start_date": "2016-04-04",
+  "end_date": "2016-09-19",
+  "synopsis": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things are not looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, happens upon Subaru and saves him. In order to thank the honest and kindhearted girl, Subaru offers to help in her search, and later that night, he even finds the whereabouts of that which she seeks. But unbeknownst to them, a much darker force stalks the pair from the shadows, and just minutes after locating the insignia, Subaru and Satella are brutally murdered.\n\nHowever, Subaru immediately reawakens to a familiar scene—confronted by the same group of thugs, meeting Satella all over again—the enigma deepens as history inexplicably repeats itself.\n\n[Written by MAL Rewrite]",
+  "mean": 8.23,
+  "rank": 330,
+  "popularity": 25,
+  "num_list_users": 2188448,
+  "num_scoring_users": 1407030,
+  "nsfw": "white",
+  "created_at": "2015-07-13T23:58:43+00:00",
+  "updated_at": "2024-03-03T21:49:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:05"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1584,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

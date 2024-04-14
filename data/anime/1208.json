@@ -1,0 +1,62 @@
+{
+  "id": 1208,
+  "title": "Tatsu no Ko Tarou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1874/112893.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1874/112893l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Taro the Dragon Boy",
+    "ja": "龍の子太郎"
+  },
+  "start_date": "1979-03-17",
+  "end_date": "1979-03-17",
+  "synopsis": "Patterned after Japanese art and silk screens, Taro, The Dragon Boy is an animated feature about Japanese mythology and cultures, focusing on Taro, a young boy who has to make a voyage to a distant lake to save his mother, who has been turned into a dragon.",
+  "mean": 6.77,
+  "rank": 5336,
+  "popularity": 8950,
+  "num_list_users": 4226,
+  "num_scoring_users": 1626,
+  "nsfw": "white",
+  "created_at": "2006-07-12T13:25:39+00:00",
+  "updated_at": "2021-08-21T14:05:52+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 4500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

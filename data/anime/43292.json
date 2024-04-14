@@ -1,0 +1,45 @@
+{
+  "id": 43292,
+  "title": "Toriaezu, Tamade.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1626/109661.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1626/109661l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "とりあえず、タマで。"
+  },
+  "start_date": "2015-08-02",
+  "end_date": "2015-08-02",
+  "synopsis": "Music video for the song Toriaezu, Tamade. by Japanese singer Asu that was featured on NHK's Minna no Uta program. The video was animated by Toshiko Hata.",
+  "popularity": 20957,
+  "num_list_users": 162,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2020-10-08T03:52:39+00:00",
+  "updated_at": "2020-10-08T03:52:39+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

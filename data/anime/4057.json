@@ -1,0 +1,55 @@
+{
+  "id": 4057,
+  "title": "Inyouchuu Shoku: Ryoushokutou Taimaroku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1441/104065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1441/104065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Inyouchu Shoku"
+    ],
+    "en": "",
+    "ja": "淫妖蟲・蝕 ～凌触島退魔録～"
+  },
+  "start_date": "2008-04-25",
+  "end_date": "2008-08-25",
+  "synopsis": "The demon hunters are back! Mikoto, Sui, and Takeru are sent to investigate a mysterious island where people have been disappearing repeatedly and dark yoma are rumored to be the cause. When the team first arrives it almost feels like a vacation to them, but it doesn't take them long to the feel the presence of something dark and evil...",
+  "mean": 6.27,
+  "popularity": 7526,
+  "num_list_users": 6644,
+  "num_scoring_users": 2386,
+  "nsfw": "gray",
+  "created_at": "2008-03-05T15:06:19+00:00",
+  "updated_at": "2023-01-24T11:05:46+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1597,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 1463,
+      "name": "Anime Antenna Iinkai"
+    }
+  ]
+}

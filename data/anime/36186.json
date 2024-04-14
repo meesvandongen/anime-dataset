@@ -1,0 +1,50 @@
+{
+  "id": 36186,
+  "title": "The iDOLM@STER Prologue SideM: Episode of Jupiter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/88109.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/88109l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The iDOLM@STER Side M: Episode of Jupiter",
+    "ja": "THE IDOLM@STER Prologue SideM Episode of Jupiter"
+  },
+  "start_date": "2017-10-01",
+  "end_date": "2017-10-01",
+  "synopsis": "Prequel story of The iDOLM@STER SideM featuring Jupiter.",
+  "mean": 7.17,
+  "rank": 3464,
+  "popularity": 7688,
+  "num_list_users": 6309,
+  "num_scoring_users": 3060,
+  "nsfw": "white",
+  "created_at": "2017-08-22T14:39:13+00:00",
+  "updated_at": "2022-03-25T17:28:55+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 2056,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

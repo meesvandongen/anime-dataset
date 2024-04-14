@@ -1,0 +1,44 @@
+{
+  "id": 51485,
+  "title": "Talk with God",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1336/122184.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1336/122184l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Talk with God"
+  },
+  "start_date": "2022-01-19",
+  "end_date": "2022-01-19",
+  "synopsis": "A music video for the song Talk with God by moeki.",
+  "mean": 5.94,
+  "popularity": 19486,
+  "num_list_users": 244,
+  "num_scoring_users": 127,
+  "nsfw": "white",
+  "created_at": "2022-03-31T23:01:35+00:00",
+  "updated_at": "2022-04-01T08:47:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 217,
+  "rating": "g",
+  "studios": []
+}

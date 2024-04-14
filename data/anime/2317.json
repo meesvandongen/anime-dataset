@@ -1,0 +1,54 @@
+{
+  "id": 2317,
+  "title": "Hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/4818.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/4818l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Strange Love",
+    "ja": "変"
+  },
+  "start_date": "1997-03-21",
+  "end_date": "1997-05-09",
+  "synopsis": "Yoshida Chizuru is the sexiest co-ed in her class. Secretly, she's been appearing in TV commercials—despite the fact that students are forbidden from working. But one of her professors has uncovered her secret and hopes to use this information to his advantage. Yoshida's got plans of her own, and has no intention of giving up her acting career...",
+  "mean": 5.02,
+  "rank": 12653,
+  "popularity": 7640,
+  "num_list_users": 6407,
+  "num_scoring_users": 2502,
+  "nsfw": "gray",
+  "created_at": "2007-04-17T18:05:18+00:00",
+  "updated_at": "2022-03-06T15:03:39+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1997,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2365,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

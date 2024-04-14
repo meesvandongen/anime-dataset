@@ -1,0 +1,56 @@
+{
+  "id": 30952,
+  "title": "New Initial D Movie: Legend 3 - Mugen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/76759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/76759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Gekijouban Initial D: Legend 3 - Mugen"
+    ],
+    "en": "Initial D Legend 3: Dream",
+    "ja": "新劇場版　頭文字［イニシャル］D Legend3 -夢現-"
+  },
+  "start_date": "2016-02-06",
+  "end_date": "2016-02-06",
+  "synopsis": "After spending his summer racing against some of the best racers in Gunma, Takumi Fujiwara receives a formal challenge from the leader of the Akagi Red Suns, Ryousuke Takahashi. Despite his initial reluctance to get into the hobby, Takumi cannot help but feel excited to go up against the former \"White Comet of Akagi.\" In preparation for the battle, Ryousuke downgrades his car, putting his pride and racing career at stake. \n\nWith the title of the fastest racer in all of Gunma on the line, will Takumi and his panda-colored Toyota AE86 be able to defeat Ryousuke's Mazda RX-7 FC? \n\n[Written by MAL Rewrite]",
+  "mean": 7.87,
+  "rank": 843,
+  "popularity": 4176,
+  "num_list_users": 28036,
+  "num_scoring_users": 13018,
+  "nsfw": "white",
+  "created_at": "2015-06-11T14:06:47+00:00",
+  "updated_at": "2022-04-17T00:45:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 3600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    },
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 37706,
+  "title": "Akuma no Kimuraa-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1986/91788.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1986/91788l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cup Noodles"
+    ],
+    "en": "",
+    "ja": "アクマのキムラー 篇"
+  },
+  "start_date": "2017-06-07",
+  "end_date": "2020-03-25",
+  "synopsis": "A cup noodle commercials where [Kuro] Hiyoko-chan, the mascot of the \"Chikin Ramen\" line from Nissin, uses black magic to summon devil powers to turn into [Kuro] Hiyoko Akuma. This year marked the 60th anniversary of instant noodles' invention.\n",
+  "mean": 6.04,
+  "popularity": 11595,
+  "num_list_users": 1766,
+  "num_scoring_users": 677,
+  "nsfw": "white",
+  "created_at": "2018-04-07T15:32:02+00:00",
+  "updated_at": "2023-12-26T21:38:47+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1857,
+      "name": "Geek Toys"
+    },
+    {
+      "id": 1934,
+      "name": "Saigo no Shudan"
+    },
+    {
+      "id": 1972,
+      "name": "HOTZIPANG"
+    }
+  ]
+}

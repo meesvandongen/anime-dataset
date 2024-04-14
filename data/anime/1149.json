@@ -1,0 +1,64 @@
+{
+  "id": 1149,
+  "title": "Choujuushin Gravion Zwei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75167.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75167l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gravion Zwei"
+    ],
+    "en": "Super Heavy God Gravion Zwei",
+    "ja": "超重神グラヴィオンツヴァイ"
+  },
+  "start_date": "2004-01-09",
+  "end_date": "2004-03-26",
+  "synopsis": "After Gravion was able to use its ultimate attack, the Zeravire threat seemed to have temporary stopped. However when it rises back up all of a sudden, the Earth Gult and its trump card, the super robot Gravion, is needed to defend this world again. All this while, the EFA is planning to create their own weapons to counter the Zeravire, the Grand Trooper. Now as they attempt to fend off the Zeravire, the people of the Earth Gult and EFA must protect their future as well as confront their pasts, and unveil the mysteries of the Zeravire.\n\n(Source: ANN)",
+  "mean": 6.63,
+  "rank": 6111,
+  "popularity": 6572,
+  "num_list_users": 9273,
+  "num_scoring_users": 3724,
+  "nsfw": "white",
+  "created_at": "2006-07-05T23:53:28+00:00",
+  "updated_at": "2023-01-27T08:50:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1436,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

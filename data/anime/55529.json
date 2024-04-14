@@ -1,0 +1,59 @@
+{
+  "id": 55529,
+  "title": "Honto ni Atta! Reibai Sensei: Gyakushuu no Kurage.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1836/136228.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1836/136228l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Honto ni Atta! Reibai Sensei Special"
+    ],
+    "en": "",
+    "ja": "ほんとにあった! 霊媒先生 逆襲のクラゲ."
+  },
+  "start_date": "2011-12-07",
+  "end_date": "2011-12-07",
+  "synopsis": "Unaired episode included in the DVD Volume 2.",
+  "rank": 20171,
+  "popularity": 19135,
+  "num_list_users": 264,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2023-05-29T21:52:23+00:00",
+  "updated_at": "2023-05-30T15:23:46+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

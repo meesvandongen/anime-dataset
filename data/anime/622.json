@@ -1,0 +1,65 @@
+{
+  "id": 622,
+  "title": "Natsu-iro no Sunadokei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/75239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/75239l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hourglass of Summer Colours",
+      "Natsuiro no Sunadokei"
+    ],
+    "en": "Sandglass of Summer Colors",
+    "ja": "夏色の砂時計"
+  },
+  "start_date": "2004-05-21",
+  "end_date": "2004-07-23",
+  "synopsis": "Makimura Koutarou has made up his mind: during the summer vacation, he is going to confess his love to the seemingly unapproachable Serizawa Kaho. Yet, on the night before, he has a run-in with a strange girl - an encounter which propels him into the future. There, he learns that not only has Kaho-chan become his girlfriend, but she has also died in a tragic accident. Returning to his own time, Koutarou sets out to change the future and save his love.\n\n(Source: ANN)",
+  "mean": 6.44,
+  "rank": 7251,
+  "popularity": 6664,
+  "num_list_users": 8930,
+  "num_scoring_users": 3668,
+  "nsfw": "white",
+  "created_at": "2006-02-02T15:36:46+00:00",
+  "updated_at": "2021-04-13T12:17:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 78,
+      "name": "Picture Magic"
+    },
+    {
+      "id": 253,
+      "name": "Rikuentai"
+    }
+  ]
+}

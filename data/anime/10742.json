@@ -1,0 +1,43 @@
+{
+  "id": 10742,
+  "title": "Saru to Kani no Gassen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/83742.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/83742l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Battle of the Monkey and the Crab"
+    ],
+    "en": "",
+    "ja": "サルとカニの合戦"
+  },
+  "start_date": "1917-05-20",
+  "end_date": "1917-05-20",
+  "synopsis": "A monkey tricks a crab and steals his food. More crabs arrive and begin fighting the monkey.\n\n(Source: AniDB)",
+  "mean": 4.92,
+  "rank": 12755,
+  "popularity": 12955,
+  "num_list_users": 1132,
+  "num_scoring_users": 426,
+  "nsfw": "white",
+  "created_at": "2011-05-21T07:03:42+00:00",
+  "updated_at": "2021-11-18T14:13:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1917,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 360,
+  "rating": "g",
+  "studios": []
+}

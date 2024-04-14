@@ -1,0 +1,56 @@
+{
+  "id": 36290,
+  "title": "Xiang Ling Ji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1602/93041.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1602/93041l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tales of Exorcism"
+    ],
+    "en": "",
+    "ja": "降灵记"
+  },
+  "start_date": "2017-03-22",
+  "end_date": "2017-08-16",
+  "synopsis": "The 19-year-old tomboy exorcist Hua Jiu got to know 'evil spirit' Seven Lord and forced him to be her spirit servant when cleansing spirits. Later the human being and the spirit set forth on a journey of ranting each other and cleansing spirits. However, Hua Jiu's enemy started insidious revenge at the same time... \n\n(Source: Donghua List)",
+  "mean": 6.35,
+  "rank": 7707,
+  "popularity": 10459,
+  "num_list_users": 2554,
+  "num_scoring_users": 726,
+  "nsfw": "white",
+  "created_at": "2017-09-11T05:42:48+00:00",
+  "updated_at": "2022-01-16T07:11:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 939,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1325,
+      "name": "Haoliners Animation League"
+    }
+  ]
+}

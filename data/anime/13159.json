@@ -1,0 +1,56 @@
+{
+  "id": 13159,
+  "title": "Kuromajo-san ga Tooru!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/75496.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/75496l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kuromajyo-san ga Toru!!"
+    ],
+    "en": "Here Comes the Black Witch!!",
+    "ja": "黒魔女さんが通る!!"
+  },
+  "start_date": "2012-04-04",
+  "end_date": "2014-02-19",
+  "synopsis": "Kurotori Chiyoko, a 5th-grader in elementary school, loves the occult. One day, a friend requests her to do a love fortune-telling. Chiyoko tries to summon Cupid, but thanks to a stuffy nose, accidentally summons a witch named Gyubid instead!\n\nFrom that day on, Chiyoko starts learning witchcraft from Gyubid, the self-proclaimed hottest instructor of the magic world. The training regimen is tough, and punishment for slacking is harsh. Fortunately, Chiyoko is able to keep her extra-curricular studies secret, aided by the fact that no one else can see Gyubid.\n\n(Source: AnimeNfo.com)",
+  "mean": 6.64,
+  "rank": 6056,
+  "popularity": 6471,
+  "num_list_users": 9647,
+  "num_scoring_users": 2627,
+  "nsfw": "white",
+  "created_at": "2012-03-02T04:05:19+00:00",
+  "updated_at": "2022-03-22T00:50:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 60,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 420,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

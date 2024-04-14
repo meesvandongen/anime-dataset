@@ -1,0 +1,70 @@
+{
+  "id": 23423,
+  "title": "Mujaki no Rakuen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/74733.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/74733l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Paradise of Innocence",
+    "ja": "無邪気の楽園"
+  },
+  "start_date": "2014-08-29",
+  "end_date": "2016-08-29",
+  "synopsis": "Shouta Handa is a jobless 25 year old who is sick and tired of his boring life. One evening, at the class reunion, he gets to meet all of the cute girls that used to be his classmates. He soon discovers that they are all successful with interesting careers, and even more importantly—really beautiful now, with bigger curves. Unfortunately, it seems that they are all aware of his boring, unsuccessful life, so they mock him and call him a loser, just like in the old days.\n\nEverything changes when Shouta goes for a walk to have a smoke and accidentally falls into the school swimming pool. This triggers a supernatural phenomenon that takes him back ten years into the past. He finds himself in the same swimming pool during swimming class, surrounded by his female classmates in bikinis. How is Shouta going to deal with their cuteness and closeness now that he is a grown man in a boy's body?",
+  "mean": 5.88,
+  "rank": 10118,
+  "popularity": 4331,
+  "num_list_users": 26079,
+  "num_scoring_users": 9776,
+  "nsfw": "white",
+  "created_at": "2014-03-26T15:42:56+00:00",
+  "updated_at": "2023-09-16T11:23:59+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1485,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 541,
+      "name": "Seven"
+    },
+    {
+      "id": 2315,
+      "name": "Office No. 8"
+    }
+  ]
+}

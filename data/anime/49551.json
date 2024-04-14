@@ -1,0 +1,50 @@
+{
+  "id": 49551,
+  "title": "Hanabi-chan wa Okuregachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1006/126132.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1006/126132l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hanabi-chan: The Girl Who Popped Out of the Game World",
+    "ja": "ハナビちゃんは遅れがち"
+  },
+  "start_date": "2022-07-10",
+  "end_date": "2022-09-25",
+  "synopsis": "Recent college graduate Musashi Shinonome is visiting the Shitamachi God Heaven pachinko hall after inheriting it from his late grandfather. Inside, he stumbles upon a girl sleeping in a futon, who wakes up upon his arrival. She introduces herself as Hanabi Hana Ariake: a self-proclaimed perfected pachislot machine that has turned into a human. To prove this, she demonstrates her ability to transform and shoot fireworks out of her body.\n\nOver the following days, Musashi meets two of Ariake's human pachislot machine sisters—the energetic Versus Ikusa Takanawa and the loving Thunder Rai Nihonbashi. Now, Musashi and the dynamic trio must work together to make the grand reopening of Shitamachi God Heaven a success.\n\n[Written by MAL Rewrite]",
+  "mean": 6.13,
+  "rank": 8936,
+  "popularity": 8418,
+  "num_list_users": 5038,
+  "num_scoring_users": 2200,
+  "nsfw": "white",
+  "created_at": "2021-08-07T10:20:12+00:00",
+  "updated_at": "2022-12-04T11:09:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "21:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 270,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1314,
+      "name": "Gaina"
+    }
+  ]
+}

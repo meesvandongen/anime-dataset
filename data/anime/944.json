@@ -1,0 +1,60 @@
+{
+  "id": 944,
+  "title": "The Third: Aoi Hitomi no Shoujo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/75545.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/75545l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Third: The Girl with the Blue Eye"
+    ],
+    "en": "",
+    "ja": "ザ・サード 蒼い瞳の少女"
+  },
+  "start_date": "2006-04-14",
+  "end_date": "2006-10-27",
+  "synopsis": "In the distant future, because of an interplanetary war that had continued on for centuries, civilizations were ruined. Human beings have lost everything, and only 1/5th of the population survived. A strange breed of humans, ''The Third'' is said to have appeared just after the war. They possess a third eye, as their name suggests, that appear as oval-shaped red pupils called \"space eyes'' over their conventional two eyes. Using them, they can control computer systems and so on, and as such, rule the world by their superior power over technology.\n\nIn this world, there is a young woman named Honoka; she is a \"jack-of-all-trades\" sellsword, and she accepts any job except murder. One day, she happens to find and rescue a young man named Ikus in the desert. Entering his world, and accepting a job from him, the adventure begins for Honoka and Ikus.\n\n(Source: BestAnime, modified)",
+  "mean": 7.31,
+  "rank": 2664,
+  "popularity": 4669,
+  "num_list_users": 21871,
+  "num_scoring_users": 7902,
+  "nsfw": "white",
+  "created_at": "2006-04-30T13:38:03+00:00",
+  "updated_at": "2022-12-24T00:17:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1434,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

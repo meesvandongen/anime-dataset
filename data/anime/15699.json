@@ -1,0 +1,62 @@
+{
+  "id": 15699,
+  "title": "Haiyore! Nyaruko-san W",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/47533.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/47533l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haiyore! Nyaruko-san 2",
+      "Haiyoru! Nyaruko-san 2",
+      "Nyarko-san: Another Crawling Chaos W"
+    ],
+    "en": "Nyaruko: Crawling With Love! Second Season",
+    "ja": "這いよれ！ニャル子さん W"
+  },
+  "start_date": "2013-04-08",
+  "end_date": "2013-07-01",
+  "synopsis": "Nyaruko still wants Mahiro, as does Hasuta. Kūko wants Nyaruko, but believes both Nyaruko's and Mahiro's \"first time\" belongs to her. Yoriko puts up with all of it and cheerfully runs the house where they all live. Mahiro just wants some sanity. He doesn't want to be the love toy of a Nyarlathotepan, Cthughan, or a shots-like Hasturan. He may or may not hold out.\n\n(Source: ANN)",
+  "mean": 7.21,
+  "rank": 3237,
+  "popularity": 1309,
+  "num_list_users": 182012,
+  "num_scoring_users": 93003,
+  "nsfw": "white",
+  "created_at": "2012-09-28T12:14:50+00:00",
+  "updated_at": "2022-04-15T22:27:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:05"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

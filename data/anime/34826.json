@@ -1,0 +1,56 @@
+{
+  "id": 34826,
+  "title": "Maple Town Monogatari (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/84048.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/84048l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maple Town Stories Movie",
+      "Maple Town Stories (1986)"
+    ],
+    "en": "",
+    "ja": "メイプルタウン物語"
+  },
+  "start_date": "1986-07-12",
+  "end_date": "1986-07-12",
+  "synopsis": "",
+  "rank": 16244,
+  "popularity": 15783,
+  "num_list_users": 523,
+  "num_scoring_users": 100,
+  "nsfw": "white",
+  "created_at": "2017-01-28T14:35:03+00:00",
+  "updated_at": "2023-10-15T05:29:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1560,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

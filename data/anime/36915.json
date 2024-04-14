@@ -1,0 +1,54 @@
+{
+  "id": 36915,
+  "title": "Fate/Grand Order: Moonlight/Lostroom",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1517/127324.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1517/127324l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Fate/Grand Order -MOONLIGHT/LOSTROOM-"
+  },
+  "start_date": "2017-12-31",
+  "end_date": "2017-12-31",
+  "synopsis": "Short centering on a \"Lost Room\" where you can find what was lost—or those who lost. This room, which belongs to no one, lies forgotten in a corner of Chaldea.\n\n(Source: ANN)",
+  "mean": 6.32,
+  "rank": 7903,
+  "popularity": 2836,
+  "num_list_users": 59474,
+  "num_scoring_users": 28927,
+  "nsfw": "white",
+  "created_at": "2017-12-09T12:19:50+00:00",
+  "updated_at": "2024-02-04T15:56:22+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1964,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1087,
+      "name": "Lay-duce"
+    }
+  ]
+}

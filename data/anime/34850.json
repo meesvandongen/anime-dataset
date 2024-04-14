@@ -1,0 +1,43 @@
+{
+  "id": 34850,
+  "title": "This Is My House",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1692/97548.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1692/97548l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sugar Lump",
+    "ja": "ディス イズ マイ ハウス"
+  },
+  "start_date": "2015-11-01",
+  "end_date": "2015-11-01",
+  "synopsis": "This is a story of an adolescent boy living in a burning house with his parents. He can't drink black coffee yet he refuses his mother's offer of sugar lump. Rejecting his mother's kindness and ignoring his father's concern, he struggles with his own internal conflicts and continues to perform the minor rebellions of youth. Trying to attract the attention of a girl, the boy crashes a stolen motorcycle. In the aftermath of the accident he finds in his pocket a bill stolen from his mother's purse, now changed into a sugar lump. Rather than mend the relationship with his family, he takes the sugar lump to his friends, but they reject him, throwing the sugar lump away.\n\n(Source: airport-anifes.jp)",
+  "rank": 13866,
+  "popularity": 18794,
+  "num_list_users": 283,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2017-02-01T10:54:24+00:00",
+  "updated_at": "2017-02-01T10:54:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 835,
+  "studios": []
+}

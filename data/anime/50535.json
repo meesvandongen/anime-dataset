@@ -1,0 +1,47 @@
+{
+  "id": 50535,
+  "title": "Toon Blast",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1390/119937.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1390/119937l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Peak Games"
+    ],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2020-08-28",
+  "end_date": "2021-12-31",
+  "synopsis": "Bruno, Cooper, and Wally's first mystical adventure.\n\n(Source: Vimeo)",
+  "rank": 13995,
+  "popularity": 21967,
+  "num_list_users": 118,
+  "num_scoring_users": 56,
+  "nsfw": "white",
+  "created_at": "2021-12-06T13:57:35+00:00",
+  "updated_at": "2022-12-01T10:11:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 77,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2398,
+      "name": "VCRWORKS"
+    }
+  ]
+}

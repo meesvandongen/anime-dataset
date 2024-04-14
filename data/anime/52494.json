@@ -1,0 +1,50 @@
+{
+  "id": 52494,
+  "title": "Bao Mu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1024/125870.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1024/125870l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baumu"
+    ],
+    "en": "",
+    "ja": "褓母"
+  },
+  "start_date": "2016-07-03",
+  "end_date": "2016-07-03",
+  "synopsis": "A female killer, who desires to have a child and a cold-blooded male killer. They go to an apartment at night to assassinate a drug addict. Unfortunately, the drug addict's wife is there on the scene. The female killer has no choice but kills the wife too. Then she finds something underneath the woman's body - it's a baby.\n\n(Source: IMDB)",
+  "rank": 18439,
+  "popularity": 19046,
+  "num_list_users": 268,
+  "num_scoring_users": 74,
+  "nsfw": "white",
+  "created_at": "2022-07-25T02:29:35+00:00",
+  "updated_at": "2022-07-26T08:36:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 540,
+  "rating": "r",
+  "studios": []
+}

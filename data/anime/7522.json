@@ -1,0 +1,57 @@
+{
+  "id": 7522,
+  "title": "Taichi Senjimon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/22328.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/22328l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tai Chi Chasers",
+    "ja": "太極千字文"
+  },
+  "start_date": "2007-04-29",
+  "end_date": "2008-01-20",
+  "synopsis": "After a strange and devastating attack on his home, a young boy named Rai is shocked to discover he's a secret descendent of the Tigeroids: an ancient race of peaceful beings locked in a struggle with the ruthless and cunning Dragonoids. In a parallel universe called Suhn, the Tigeroids and Dragonoids are battling furiously to recover 500 lost tai chi characters. Whoever retrieves these precious and potent symbols will possess the ultimate power to rule their realm…and destroy their enemies. As Rai hones his innate tai chi skills to fight the Dragonoids, he must find the lost tai chi and battle to become one of the champion Tai Chi Chasers!\n\n(Source: 4Kids Entertainment)",
+  "mean": 6.31,
+  "rank": 7980,
+  "popularity": 11610,
+  "num_list_users": 1759,
+  "num_scoring_users": 585,
+  "nsfw": "white",
+  "created_at": "2009-11-15T13:32:41+00:00",
+  "updated_at": "2021-03-17T12:16:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "average_episode_duration": 1636,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    },
+    {
+      "id": 336,
+      "name": "JM Animation"
+    }
+  ]
+}

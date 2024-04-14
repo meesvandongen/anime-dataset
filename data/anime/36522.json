@@ -1,0 +1,65 @@
+{
+  "id": 36522,
+  "title": "Ling Qi 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1328/90485.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1328/90485l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spirit Pact: Yomi no Chigiri",
+      "Spirit Pact: Bond of the Underworld"
+    ],
+    "en": "Spiritpact: Bond of the Underworld",
+    "ja": "灵契 2"
+  },
+  "start_date": "2018-02-23",
+  "end_date": "2018-05-11",
+  "synopsis": "In this new season, we will discover the backstory of Tanmoki and who will learn through his memories who was his ancestor Rakugetsu.\n\n(Source: ANN)",
+  "mean": 7.46,
+  "rank": 2019,
+  "popularity": 3170,
+  "num_list_users": 48316,
+  "num_scoring_users": 19232,
+  "nsfw": "white",
+  "created_at": "2017-10-06T10:24:08+00:00",
+  "updated_at": "2022-04-17T12:26:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "21:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1325,
+      "name": "Haoliners Animation League"
+    }
+  ]
+}

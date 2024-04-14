@@ -1,0 +1,51 @@
+{
+  "id": 19745,
+  "title": "Naniwa Yuukyouden: Chou Gokudou! Yoru no Bat wa Manrui-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/52761.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/52761l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "なにわ遊侠伝: 超極道!夜のバットはマン塁篇"
+  },
+  "start_date": "1993-01-08",
+  "end_date": "1993-01-08",
+  "synopsis": "",
+  "rank": 16758,
+  "popularity": 18197,
+  "num_list_users": 321,
+  "num_scoring_users": 70,
+  "nsfw": "white",
+  "created_at": "2013-07-28T06:45:24+00:00",
+  "updated_at": "2020-10-06T07:55:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "winter"
+  },
+  "average_episode_duration": 3540,
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

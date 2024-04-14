@@ -1,0 +1,40 @@
+{
+  "id": 49903,
+  "title": "Game of Dice",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1339/117917.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1339/117917l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "GAME OF DICE",
+    "ja": "GAME OF DICE"
+  },
+  "start_date": "2020-12-18",
+  "end_date": "2020-12-18",
+  "synopsis": "",
+  "mean": 5.84,
+  "popularity": 19335,
+  "num_list_users": 253,
+  "num_scoring_users": 134,
+  "nsfw": "gray",
+  "created_at": "2021-09-23T21:29:50+00:00",
+  "updated_at": "2023-07-31T06:49:55+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 185,
+  "rating": "pg_13",
+  "studios": []
+}

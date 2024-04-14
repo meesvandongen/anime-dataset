@@ -1,0 +1,39 @@
+{
+  "id": 44597,
+  "title": "Shijiu Guo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1834/123032.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1834/123032l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "十九國"
+  },
+  "start_date": "2014-06-08",
+  "synopsis": "",
+  "rank": 18001,
+  "popularity": 23447,
+  "num_list_users": 86,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2020-12-13T16:51:09+00:00",
+  "updated_at": "2022-04-19T11:36:28+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 109,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 756,
+  "rating": "pg_13",
+  "studios": []
+}

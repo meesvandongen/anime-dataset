@@ -1,0 +1,61 @@
+{
+  "id": 924,
+  "title": "Transformers: Choujin Master Force",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1437/92789.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1437/92789l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Transformers Chojin Master Force",
+      "Transformers Masterforce"
+    ],
+    "en": "Transformers Super-God Masterforce",
+    "ja": "トランスフォーマー・超神マスターフォース"
+  },
+  "start_date": "1988-04-12",
+  "end_date": "1989-03-07",
+  "synopsis": "Even though the Decepticons have been driven off Earth, a small team of Autobot Pretenders have remained behind, just in case. Led by Metalhawk (\"Hawk\" in his human identity), the Pretenders live among the humans, using their Pretender shells to assume human size and appearance. The Autobots' caution is rewarded: Decepticon Pretenders soon appear, led by a mysterious force called Devil Z. The Autobots and Decepticons soon build up their forces, recruiting humans to become Junior Headmasters and Godmasters (Powermasters).\n\n(Source: ANN) ",
+  "mean": 6.63,
+  "rank": 6163,
+  "popularity": 9457,
+  "num_list_users": 3542,
+  "num_scoring_users": 1446,
+  "nsfw": "white",
+  "created_at": "2006-04-21T20:54:56+00:00",
+  "updated_at": "2022-12-13T13:09:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 43,
+  "start_season": {
+    "year": 1988,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 51584,
+  "title": "Butsu Zone",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1488/122649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1488/122649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "仏ゾーン"
+  },
+  "start_date": "2003-07-24",
+  "end_date": "2003-07-24",
+  "synopsis": "Bundled as a bonus video within the VHS/DVD release of Shaman King: Kanashimi no Katachi.",
+  "rank": 18675,
+  "popularity": 20874,
+  "num_list_users": 167,
+  "num_scoring_users": 27,
+  "nsfw": "white",
+  "created_at": "2022-04-08T21:22:16+00:00",
+  "updated_at": "2022-04-10T18:15:02+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

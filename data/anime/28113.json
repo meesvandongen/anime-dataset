@@ -1,0 +1,54 @@
+{
+  "id": 28113,
+  "title": "Ooi! Adacchii!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/68027.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/68027l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ooi! Adatchii!",
+      "Ooi! Adatchi!",
+      "Ooi! Adacchi!",
+      "Ooi! Adachi!",
+      "Ooi! Adachii!"
+    ],
+    "en": "Hey, Addachi!",
+    "ja": "おーい! アダッチー"
+  },
+  "start_date": "1992-01-03",
+  "end_date": "1992-01-03",
+  "synopsis": "An anime made in honor of the 60th Anniversary of Adachi's union to Tokyo City. It follows 2 kids and the anthropomorphic version of Adachi called Adacchii.",
+  "rank": 17034,
+  "popularity": 19404,
+  "num_list_users": 249,
+  "num_scoring_users": 51,
+  "nsfw": "white",
+  "created_at": "2014-10-24T11:55:10+00:00",
+  "updated_at": "2014-10-24T13:40:42+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "winter"
+  },
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
+}

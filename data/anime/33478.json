@@ -1,0 +1,65 @@
+{
+  "id": 33478,
+  "title": "UQ Holder! Mahou Sensei Negima! 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/88354.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/88354l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuukyuu Holder",
+      "Eternal Holder"
+    ],
+    "en": "UQ Holder!",
+    "ja": "UQ HOLDER! ～魔法先生ネギま！2～"
+  },
+  "start_date": "2017-10-03",
+  "end_date": "2017-12-19",
+  "synopsis": "Touta Konoe is an ordinary boy raised in a small rural town. His mundane life suddenly changes when his mentor, Yukihime, reveals herself to be a vampire; after saving Touta from a mortal wound, she causes him to become immortal as well.\n\nAlready yearning to explore the world, young Touta finally puts his dream to ascend to the top of Amanomihashira—a tower that leads to outer space—into realization. Along the way, he finds a secret society filled with immortals just like him called \"UQ Holders.\" Gaining new comrades and mentorship along the way, Touta embarks on his own unique, magical adventure.\n\n[Written by MAL Rewrite]",
+  "mean": 6.91,
+  "rank": 4679,
+  "popularity": 1141,
+  "num_list_users": 211352,
+  "num_scoring_users": 84364,
+  "nsfw": "white",
+  "created_at": "2016-06-20T23:56:44+00:00",
+  "updated_at": "2022-11-30T09:37:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1425,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

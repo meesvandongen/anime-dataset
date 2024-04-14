@@ -1,0 +1,49 @@
+{
+  "id": 54015,
+  "title": "Goblin no Suana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1340/132131.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1340/132131l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ゴブリンの巣穴"
+  },
+  "start_date": "2023-03-31",
+  "end_date": "2023-11-24",
+  "synopsis": "",
+  "mean": 5.6,
+  "popularity": 9459,
+  "num_list_users": 3542,
+  "num_scoring_users": 1365,
+  "nsfw": "gray",
+  "created_at": "2022-12-27T06:09:20+00:00",
+  "updated_at": "2023-11-25T15:23:00+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 994,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 767,
+      "name": "Majin"
+    }
+  ]
+}

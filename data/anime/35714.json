@@ -1,0 +1,62 @@
+{
+  "id": 35714,
+  "title": "Yami Shibai 5",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/86158.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/86158l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yamishibai: Japanese Ghost Stories Fifth Season",
+      "Theater of Darkness 5th Season",
+      "Japanese Ghost Stories 5"
+    ],
+    "en": "Theatre of Darkness: Yamishibai 5",
+    "ja": "闇芝居 5期"
+  },
+  "start_date": "2017-07-03",
+  "end_date": "2017-10-02",
+  "synopsis": "The mysterious masked Storyteller returns to tell more twisted tales of horror. Continuing his particular style of kamishibai inspired storytelling, he now finds that his audience is an eerie crowd of young girls, who eagerly await his devilish stories.\n\nHe recounts ghostly legends involving girls of all ages: a housewife who receives a barrage of chilling phone calls; a strange girl whose flower readings are always right; a mother and daughter's ominous meeting with the \"crow lady\"; and a young girl whose demands from others grow more and more outrageous with each request. Witness once again the Storyteller's haunting and gripping tales, which are sure to leave one with more than just chills...\n\n[Written by MAL Rewrite]",
+  "mean": 6.32,
+  "rank": 7882,
+  "popularity": 4249,
+  "num_list_users": 27068,
+  "num_scoring_users": 12973,
+  "nsfw": "white",
+  "created_at": "2017-06-09T23:25:34+00:00",
+  "updated_at": "2022-02-26T08:56:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "03:05"
+  },
+  "source": "original",
+  "average_episode_duration": 274,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1169,
+      "name": "ILCA"
+    }
+  ]
+}

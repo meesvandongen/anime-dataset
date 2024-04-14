@@ -1,0 +1,53 @@
+{
+  "id": 36843,
+  "title": "Youtai Nuhai Zai Shanghai 2: Xianglian Mima",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/89106.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/89106l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "A Jewish Girl in Shanghai Part 2: The Mystery of the Necklace",
+    "ja": "犹太女孩在上海2：项链密码"
+  },
+  "start_date": "2015-08-28",
+  "end_date": "2015-08-28",
+  "synopsis": "The second Youtai Nuhai Zai Shanghai film which expands the back story of Rina and Michalli. It focuses on what happened to their parents fleeing and how the two children ended up in Shanghai as the Nazis try to hunt them down.",
+  "rank": 15064,
+  "popularity": 18800,
+  "num_list_users": 282,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2017-11-22T08:44:12+00:00",
+  "updated_at": "2020-08-22T12:44:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 4761,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 471,
+      "name": "Shanghai Animation Film Studio"
+    }
+  ]
+}

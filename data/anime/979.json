@@ -1,0 +1,58 @@
+{
+  "id": 979,
+  "title": "Street Fighter Zero The Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1138/107135.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1138/107135l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Street Fighter Alpha: The Movie",
+    "ja": "ストリートファイターZERO THE ANIMATION"
+  },
+  "start_date": "1999-12-22",
+  "end_date": "1999-12-22",
+  "synopsis": "Ryu, the current Street Fighter champion, must overcome the power of the \"Dark Hadou\" which consumed Akuma, the brother of his sensei, Gouken. Plus, he deals with the unexpected arrival of Shun, a young boy who proclaims to be his long-lost brother. \n\n(Source: ANN)",
+  "mean": 6.51,
+  "rank": 6849,
+  "popularity": 5216,
+  "num_list_users": 16574,
+  "num_scoring_users": 9831,
+  "nsfw": "white",
+  "created_at": "2006-05-17T15:47:47+00:00",
+  "updated_at": "2022-11-23T20:48:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 5400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 107,
+      "name": "Plum"
+    }
+  ]
+}

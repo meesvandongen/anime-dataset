@@ -1,0 +1,63 @@
+{
+  "id": 4578,
+  "title": "Time Bokan Oudou Fukko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1740/136188.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1740/136188l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Time Bokan OVA"
+    ],
+    "en": "Time Bokan: Royal Revival",
+    "ja": "タイムボカン王道復古"
+  },
+  "start_date": "1993-11-26",
+  "end_date": "1994-01-01",
+  "synopsis": "A laugh-out-loud hilarious adventure from the studio behind Gatchaman and Speed Racer!\n\nWho has what it takes to be the baddest of the bad? It's evil versus evil as teams of bad guys compete to be the meanest villains ever! Watch and laugh as the Dorombo Gang and their Kitchen Robot take on the worst of the worst in a wacky race to be the greatest villains in anime history! The only force that stands in their way are the superheroes of anime. Will the Gatchaman ninja arrive in time to save the day?\n\n(Source: AniDB) ",
+  "mean": 6.04,
+  "rank": 9394,
+  "popularity": 10748,
+  "num_list_users": 2336,
+  "num_scoring_users": 644,
+  "nsfw": "white",
+  "created_at": "2008-05-25T22:17:53+00:00",
+  "updated_at": "2020-10-14T00:04:44+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "average_episode_duration": 1800,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

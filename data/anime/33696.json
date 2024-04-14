@@ -1,0 +1,49 @@
+{
+  "id": 33696,
+  "title": "3D Onara Gorou ga Dance Dance Dance!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/81039.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/81039l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "3Dおなら吾郎がDANCE DANCE DANCE！！"
+  },
+  "start_date": "2016-04-21",
+  "end_date": "2016-04-21",
+  "synopsis": "Onara Gorou is now in 3D with a little dance and music number.",
+  "mean": 3.33,
+  "popularity": 9551,
+  "num_list_users": 3430,
+  "num_scoring_users": 2322,
+  "nsfw": "white",
+  "created_at": "2016-07-20T08:15:36+00:00",
+  "updated_at": "2022-04-15T12:26:54+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 25,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1169,
+      "name": "ILCA"
+    }
+  ]
+}

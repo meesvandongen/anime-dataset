@@ -1,0 +1,60 @@
+{
+  "id": 12259,
+  "title": "Mikeneko Holmes no Yuurei Joushu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/34521.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/34521l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Calico Cat Holmes and the Lord of the Haunted Castle"
+    ],
+    "en": "",
+    "ja": "三毛猫ホームズの幽霊城主"
+  },
+  "start_date": "1992-07-21",
+  "end_date": "1992-07-21",
+  "synopsis": "Based on Akagawa Jirou's popular book series about hapless detective Katayama Yoshitaro who lives with his sister Harumi and their cat Holmes, which has a sixth sense when it comes to solve mysteries. \n\nIn this stand alone OVA the aftershow party of Harumi's acting troupe becomes the showplace of murder and tragedy. Luckily Yoshitaro brought Holmes along. \n\n(Source: AniDB) ",
+  "mean": 5.81,
+  "rank": 10438,
+  "popularity": 13869,
+  "num_list_users": 877,
+  "num_scoring_users": 315,
+  "nsfw": "white",
+  "created_at": "2011-12-04T13:39:02+00:00",
+  "updated_at": "2011-12-04T22:03:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 2682,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2255,
+  "title": "Choujuu Kishin Dancougar",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/30451.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/30451l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dancougar - Super Beast Machine God"
+    ],
+    "en": "Super Bestial Machine God Dancougar",
+    "ja": "超獣機神ダンクーガ"
+  },
+  "start_date": "1985-04-05",
+  "end_date": "1985-12-27",
+  "synopsis": "Emperor Muge Zarbados and his Empire of Death decide that their next conquest will be the faraway planet of Earth. Muge becomes even more fearsome because of Shapiro Keats, a power-hungry Earthling-turned-traitor. It's up to Shinobu, Sara (Shapiro's old girlfriend), Masato, and Ryo of the Jyusenkitai/Cyber Beast Force to pilot the four Jyusenki/Beast Mecha (Eagle Fighter, Land Cougar, Land Liger, and Big Moth [a mammoth mecha]), which can combine into the giant mech Dancougar.\n\n(Source: ANN)\n",
+  "mean": 6.72,
+  "rank": 5614,
+  "popularity": 8067,
+  "num_list_users": 5627,
+  "num_scoring_users": 1347,
+  "nsfw": "white",
+  "created_at": "2007-04-10T15:01:03+00:00",
+  "updated_at": "2024-03-31T01:48:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 1985,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1416,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 196,
+      "name": "Production Reed"
+    },
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 55717,
+  "title": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1158/141710.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1158/141710l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Banished Former Hero Lives as He Pleases",
+    "ja": "出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした"
+  },
+  "start_date": "2024-04-02",
+  "synopsis": "Deemed a \"good-for-nothing\" for his low level and lack of a god-given Gift, Allen is stripped of his noble status and banished from the Duchy of Westfeldt. But Allen has a secret: he was a great hero in a previous life, and he's thrilled for the chance to finally live the way he pleases! His drama-free existence, however, is soon interrupted by a desperate encounter with his ex-fiancée. As a former hero who still possesses the incredible powers from his past life, Allen can't ignore someone in need—no matter how much he might like to! And so begins the new heroic saga our former hero never wanted!\n\n(Source: J-Novel Club)",
+  "mean": 5.27,
+  "rank": 12212,
+  "popularity": 3573,
+  "num_list_users": 38978,
+  "num_scoring_users": 5839,
+  "nsfw": "white",
+  "created_at": "2023-06-20T11:53:46+00:00",
+  "updated_at": "2024-04-01T19:03:45+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "02:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    },
+    {
+      "id": 553,
+      "name": "Marvy Jack"
+    }
+  ]
+}

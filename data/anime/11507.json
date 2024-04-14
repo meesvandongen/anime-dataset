@@ -1,0 +1,47 @@
+{
+  "id": 11507,
+  "title": "Kami nomi zo Shiru Sekai: Nonstop!! Hunters",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/32091.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/32091l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaminomi: Nonstop!! Hunters"
+    ],
+    "en": "",
+    "ja": "神のみぞ知るセカイ Nonstop!! Hunters"
+  },
+  "start_date": "2011-09-21",
+  "end_date": "2011-09-21",
+  "synopsis": "DVD bundled with the limited edition of the Greetings from Special Agents Elucia de Lute Ima and Haqua du Lot Herminium album.",
+  "mean": 6.54,
+  "popularity": 5874,
+  "num_list_users": 12165,
+  "num_scoring_users": 5472,
+  "nsfw": "white",
+  "created_at": "2011-09-05T20:48:45+00:00",
+  "updated_at": "2022-02-20T05:37:51+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 168,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    }
+  ]
+}

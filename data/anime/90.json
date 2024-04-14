@@ -1,0 +1,72 @@
+{
+  "id": 90,
+  "title": "Shin Kidou Senki Gundam Wing",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1884/114414.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1884/114414l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "New Mobile Report Gundam Wing"
+    ],
+    "en": "Mobile Suit Gundam Wing",
+    "ja": "新機動戦記ガンダムW"
+  },
+  "start_date": "1995-04-07",
+  "end_date": "1996-03-29",
+  "synopsis": "The United Earth Sphere Alliance is a powerful military organization that has ruled over Earth and space colonies with an iron fist for several decades. When the colonies proclaimed their opposition to this, their leader was assassinated. Now, in the year After Colony 195, bitter colonial rebels have launched \"Operation Meteor,\" sending five powerful mobile suits to Earth for vengeance. Built out of virtually indestructible material called Gundanium Alloy, these \"Gundams\" begin an assault against the Alliance and its sub organization OZ.\n\nOne Gundam, whose pilot has taken the name of the slain colony leader Heero Yuy, is forced to make a crash landing into the ocean after an atmospheric battle against OZ's ace pilot Zechs Marquise. Upon coming ashore, he is found by Relena Peacecraft, daughter of a peace-seeking politician, who witnesses Heero's descent to Earth. Although neither of them realize it yet, this encounter will have a profound impact on both their lives, as well as those on Earth and in space colonies.\n\n[Written by MAL Rewrite]",
+  "mean": 7.68,
+  "rank": 1285,
+  "popularity": 1457,
+  "num_list_users": 160454,
+  "num_scoring_users": 89903,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:47:14+00:00",
+  "updated_at": "2022-11-07T22:03:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 49,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1544,
+  "title": "Super Robot Taisen OG The Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/24378.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/24378l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Super Robot Taisen Original Generation - The Animation",
+      "Super Robot Wars OG: The Animation",
+      "SRWOG"
+    ],
+    "en": "Super Robot Wars Original Generation: The Animation",
+    "ja": "スーパーロボット大戦 ORIGINAL GENERATION THE ANIMATION"
+  },
+  "start_date": "2005-05-27",
+  "end_date": "2005-12-23",
+  "synopsis": "Dr. Jurgen of DC developed a global defense system to combat potential alien threats. This system has two elements. First is the VTX-001 Vartoul unmanned anti alien PT. Governing these drones is the ODE worldwide network system. However, this system has a noteworthy secret. A living human is needed to control the ODE core. Furthermore, the ODE core needs human organs to support itself. At the present day, the drone have gone on a mass abduction spree. Kyosuke and co has been sent in to take care of the problem.\n\n(Source: ANN)",
+  "mean": 6.59,
+  "rank": 6330,
+  "popularity": 8906,
+  "num_list_users": 4309,
+  "num_scoring_users": 1746,
+  "nsfw": "white",
+  "created_at": "2006-10-08T12:54:47+00:00",
+  "updated_at": "2023-06-04T18:22:18+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1689,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

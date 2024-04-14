@@ -1,0 +1,66 @@
+{
+  "id": 2459,
+  "title": "Maison Ikkoku: Bangai-hen - Ikkokujima Nanpa Shimatsuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/4678.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/4678l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maison Ikkoku: Deserted Island",
+      "Maison Ikkoku Bangai-hen: Ikkokujima Nanpa Shimatsu Ki",
+      "Maison Ikkoku: Ikkoku-tou Nanpa Shimatsu ki"
+    ],
+    "en": "",
+    "ja": "めぞん一刻番外編 一刻島ナンパ始末記"
+  },
+  "start_date": "1991-05-21",
+  "end_date": "1991-05-21",
+  "synopsis": "Yotsuya and Ichinose are enjoying a hot afternoon when they recall the time that the tenants of Ikkoku-kan and Mitaka go off on a cruise to party hard aboard Mitaka's new boat; however, the boat falls apart, and everyone is shipwrecked on a deserted island. With everyone up to their usual antics and shenanigans, what can happen in such a desolate place?",
+  "mean": 6.83,
+  "rank": 5064,
+  "popularity": 7972,
+  "num_list_users": 5767,
+  "num_scoring_users": 2392,
+  "nsfw": "white",
+  "created_at": "2007-05-08T07:56:10+00:00",
+  "updated_at": "2022-12-20T07:49:43+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

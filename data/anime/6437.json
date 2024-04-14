@@ -1,0 +1,58 @@
+{
+  "id": 6437,
+  "title": "Sora wo Kakeru Shoujo Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/22636.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/22636l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Girl Who Leapt Through Space Picture Drama",
+    "ja": "宇宙をかける少女 ピクチャードラマ"
+  },
+  "start_date": "2009-04-24",
+  "end_date": "2009-11-24",
+  "synopsis": "Short specials added to DVDs and Blu-rays.",
+  "mean": 6.27,
+  "rank": 8240,
+  "popularity": 10636,
+  "num_list_users": 2416,
+  "num_scoring_users": 826,
+  "nsfw": "white",
+  "created_at": "2009-05-01T13:30:48+00:00",
+  "updated_at": "2019-07-12T11:48:30+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 9,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 190,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

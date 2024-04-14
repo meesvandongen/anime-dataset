@@ -1,0 +1,47 @@
+{
+  "id": 18087,
+  "title": "Kerokero Keroppi no Bouken: Pink no Kinoko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/48021.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/48021l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty and Friends: Find the Pink Mushroom",
+      "Keroppi and Friends: Find the Pink Mushroom"
+    ],
+    "en": "Keroppi in Find the Pink Mushroom",
+    "ja": "けろけろけろっぴの大冒険~ピンクのきのこ"
+  },
+  "start_date": "1993-06-21",
+  "end_date": "1993-06-21",
+  "synopsis": "In search of a pink mushroom to heal a brother's sickness.",
+  "mean": 5.53,
+  "rank": 11492,
+  "popularity": 15517,
+  "num_list_users": 554,
+  "num_scoring_users": 178,
+  "nsfw": "white",
+  "created_at": "2013-03-29T15:07:04+00:00",
+  "updated_at": "2023-07-17T11:28:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "average_episode_duration": 608,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 3619,
+  "title": "Nanako SOS",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/6635.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/6635l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nana the Super Girl"
+    ],
+    "en": "Nanako SOS",
+    "ja": "ななこSOS"
+  },
+  "start_date": "1983-04-02",
+  "end_date": "1983-12-24",
+  "synopsis": "Nanako is a young girl who unexpectedly acquires supernatural powers and at the same time loses her past memory. By accident, a scientific genius called Marlow, is present when she acquires her powers. Marlow is an industrious high school boy with extraordinary ambitions. He talks to Nanako into joining his detective agency by promising to help her regain her memory. Nanako innocently believes him, but Marlow's real intent is to use her powers to benefit his agency and himself.\n\nThe story unfolds as Nanako encounters a variety of dangerous missions and mysterious events, but her natural sunny disposition helps her through all the incidents as she solves each mystery one after the other.\n\n(Source: Wikipedia)",
+  "mean": 6.96,
+  "rank": 4458,
+  "popularity": 10518,
+  "num_list_users": 2505,
+  "num_scoring_users": 725,
+  "nsfw": "white",
+  "created_at": "2007-12-23T17:09:16+00:00",
+  "updated_at": "2021-07-03T23:50:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1983,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 281,
+      "name": "Kokusai Eigasha"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 7395,
+  "title": "Card Wang: Mix Master",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1999/133010.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1999/133010l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Card Ou Mix Master"
+    ],
+    "en": "Mix Master: King of Cards",
+    "ja": "카드왕 믹스마스터"
+  },
+  "start_date": "2005-10-04",
+  "end_date": "2006-07-18",
+  "synopsis": "Mix Masters is a Korea-Japan co-produced anime series, also known by the name Mix Master: King of Cards. It is a co-production by Nippon Animation of Japan and Sunwoo Entertainment and KBS of Korea. The story centers on the fantasy and adventure card game, Mix Master, and the transference of this game from a video game to the real world after a scientist's new invention goes terribly wrong. Creatures from the video game called henches run loose upon the real world and it is up to the Mix Master to stop those creatures from causing trouble. All the while, an evil leader from the video game, Prince Brad, causes trouble for them for some nefarious purpose.\n\n(Source: Wikipedia)",
+  "mean": 6.35,
+  "rank": 7720,
+  "popularity": 11334,
+  "num_list_users": 1934,
+  "num_scoring_users": 743,
+  "nsfw": "white",
+  "created_at": "2009-10-25T19:57:00+00:00",
+  "updated_at": "2022-10-23T14:31:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

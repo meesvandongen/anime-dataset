@@ -1,0 +1,73 @@
+{
+  "id": 9252,
+  "title": "Break Blade Movie 3: Kyoujin no Ato",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/68083.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/68083l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Breaker Blade 3",
+      "Break Blade 3: Scars from an Assassin's Blade"
+    ],
+    "en": "Broken Blade 3",
+    "ja": "ブレイク ブレイド 第三章 凶刃ノ痕"
+  },
+  "start_date": "2010-09-25",
+  "end_date": "2010-09-25",
+  "synopsis": "Third Break Blade movie.",
+  "mean": 7.77,
+  "rank": 1041,
+  "popularity": 2851,
+  "num_list_users": 58982,
+  "num_scoring_users": 35814,
+  "nsfw": "white",
+  "created_at": "2010-07-26T07:42:19+00:00",
+  "updated_at": "2022-04-30T00:50:44+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2863,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

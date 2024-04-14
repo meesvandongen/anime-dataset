@@ -1,0 +1,56 @@
+{
+  "id": 17379,
+  "title": "Street Fighter II: Yomigaeru Fujiwara-Kyou - Toki wo Kaketa Fighter-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1836/113597.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1836/113597l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Street Fighter II: Return to the Fujiwara Capital"
+    ],
+    "en": "",
+    "ja": "ストリートファイターII よみがえる藤原京 時を駆けたファイターたち"
+  },
+  "start_date": "1995-03-29",
+  "end_date": "1995-03-29",
+  "synopsis": "An educational anime featuring Ryu, Ken, Chun-Li, and E. Honda. The four travel back in time and talk about historic things.\n",
+  "mean": 5.98,
+  "rank": 9662,
+  "popularity": 10946,
+  "num_list_users": 2197,
+  "num_scoring_users": 705,
+  "nsfw": "white",
+  "created_at": "2013-02-04T08:00:22+00:00",
+  "updated_at": "2023-11-12T16:58:55+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 1393,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 35739,
+  "title": "Pikotarou no Lullaby Lullaby (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/86266.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/86266l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pikotaro's Lullaby La La By (TV)",
+    "ja": "ピコ太郎のララバイラーラバイ"
+  },
+  "start_date": "2017-08-02",
+  "end_date": "2017-09-27",
+  "synopsis": "Piko-tarou will improvise the story of each three-minute episode using an illustration by the anime's director Takashi Taniguchi. He will tell each story in the style of a fairy tale and voice every character, including himself. \n\n(Source: ANN)",
+  "mean": 5.57,
+  "rank": 11384,
+  "popularity": 8050,
+  "num_list_users": 5650,
+  "num_scoring_users": 2838,
+  "nsfw": "white",
+  "created_at": "2017-06-14T00:03:50+00:00",
+  "updated_at": "2022-03-31T14:05:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 9,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:48"
+  },
+  "source": "original",
+  "average_episode_duration": 170,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

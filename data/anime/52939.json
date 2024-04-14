@@ -1,0 +1,41 @@
+{
+  "id": 52939,
+  "title": "Kangaroo wa Doko ni Itta no ka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1428/132872.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1428/132872l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Where did the kangaroo go?"
+    ],
+    "en": "",
+    "ja": "カンガルーはどこに行ったのか"
+  },
+  "start_date": "2021-04-17",
+  "end_date": "2021-04-17",
+  "synopsis": "Music video for Kangaroo wa Doko ni Itta no ka by Uchikubi Gokumon Doukoukai.",
+  "popularity": 21677,
+  "num_list_users": 129,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2022-09-01T12:48:18+00:00",
+  "updated_at": "2022-09-02T07:42:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 165,
+  "rating": "g",
+  "studios": []
+}

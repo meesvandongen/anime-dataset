@@ -1,0 +1,53 @@
+{
+  "id": 22441,
+  "title": "Hello Kitty: Ringo no Mori to Parallel Town",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1030/102887.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1030/102887l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hello Kitty: Apple Forest and Parallel Town",
+    "ja": "ハローキティ りんごの森とパラレルタウン"
+  },
+  "start_date": "2007-10-02",
+  "end_date": "2008-03-25",
+  "synopsis": "Kitty and Mimmy fall through a hole and end up in a parallel world. It's identical to the one the sisters live in but it's inhabited by humans with transparent wings and pointy ears. Kitty becomes friends with Emily, a supermodel in this parallel world, and together they try to rescue Mimmy who has disappeared. Their search is hampered by Akuro--a black cat who has a mean streak.",
+  "mean": 6.17,
+  "rank": 8718,
+  "popularity": 13987,
+  "num_list_users": 853,
+  "num_scoring_users": 193,
+  "nsfw": "white",
+  "created_at": "2014-02-03T21:49:20+00:00",
+  "updated_at": "2021-10-18T12:37:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 27,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "average_episode_duration": 540,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

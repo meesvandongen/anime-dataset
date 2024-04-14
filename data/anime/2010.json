@@ -1,0 +1,74 @@
+{
+  "id": 2010,
+  "title": "Taiho Shichau zo in America",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75565.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75565l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "You're Under Arrest in America",
+      "Taiho Shichauzo in America",
+      "Taiho Shichau zo: No Mercy!!"
+    ],
+    "en": "You're Under Arrest: No Mercy!!",
+    "ja": "逮捕しちゃうぞ イン アメリカ"
+  },
+  "start_date": "2002-03-29",
+  "end_date": "2002-03-29",
+  "synopsis": "Fresh from being transferred to the LAPD, Miyuki and Natsumi must investigate some unusual car theft incidents in their area. And when Miyuki's yellow 1973 Ford Mustang Mach 1 is \"gone in 60 seconds\" (literally), the situation gets more complicated when they discover who the thief is.\n\n(Source: ANN) ",
+  "mean": 6.48,
+  "rank": 7016,
+  "popularity": 8175,
+  "num_list_users": 5452,
+  "num_scoring_users": 2042,
+  "nsfw": "white",
+  "created_at": "2007-03-05T21:51:44+00:00",
+  "updated_at": "2023-12-27T07:22:42+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

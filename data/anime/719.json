@@ -1,0 +1,62 @@
+{
+  "id": 719,
+  "title": "Ai no Kusabi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/6531.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/6531l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Love Wedge",
+      "The Space Between",
+      "Wedge of interval",
+      "Wedge of Love"
+    ],
+    "en": "Ai no Kusabi",
+    "ja": "間の楔"
+  },
+  "start_date": "1992-08-01",
+  "end_date": "1994-05-01",
+  "synopsis": "On the planet Amoi, a person's status is primarily dictated by the color of their hair. This society is run by the AI supercomputer known as Jupiter and its governing board of perfect blondes, referred to as Blondies, living in the capital city of Tanagura. However, the darker-haired humans live out their lives in the golden \"pleasure city\" of Midas and its outlying slum Ceres. They are known as \"mongrels,\" and most cannot progress out of the slums.\n\nThree years ago, a boy named Riki disappeared from the slums of Ceres. Once the revered leader of the gang Bison, a sudden encounter with an elite Blondie, Iason Mink, forced Riki to abandon everything he had cultivated. The boy was snatched from his home and forced to become Iason's pet. Riki has spent the past three years enduring numerous blows to his pride, his time in Tanagura nothing but a form of torture.\n\nNow that Riki has returned, Bison once again rallies behind him. The risk he finds himself in, however, is much greater than ever before—there is always someone ready to sell him out.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.05,
+  "popularity": 3606,
+  "num_list_users": 38375,
+  "num_scoring_users": 19678,
+  "nsfw": "gray",
+  "created_at": "2006-02-17T21:44:30+00:00",
+  "updated_at": "2022-08-15T12:21:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 3252,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

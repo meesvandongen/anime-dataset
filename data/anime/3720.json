@@ -1,0 +1,44 @@
+{
+  "id": 3720,
+  "title": "Jack to Mame no Ki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/11749.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/11749l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Jack and the Beanstalk",
+    "ja": "ジャックと豆の木"
+  },
+  "start_date": "1974-07-20",
+  "end_date": "1974-07-20",
+  "synopsis": "An old fairy tale gets some new wrinkles in this fanciful animated adaptation. After young Jack is conned into trading his family's prize cow for a handful of beans, he plants them and discovers they produce a magical vine that rises through the clouds. Climbing the beanstalk, Jack encounters a strange and remarkable world ruled by the magical Princess Margaret. The princess is in love with Prince Tulip despite his unattractive features and harsh personality, but as it turns out, this is the work of Madam Noir, an evil witch who has cast a spell on the princess so she will marry Tulip, her only son. Can Jack help the princess avoid this awful fate? Directed by Japanese animator Gisaburo Sugii, this free adaptation of Jack and the Beanstalk has won a cult following for its fanciful story and wildly colorful design. ",
+  "mean": 6.33,
+  "rank": 7841,
+  "popularity": 11317,
+  "num_list_users": 1943,
+  "num_scoring_users": 940,
+  "nsfw": "white",
+  "created_at": "2008-01-13T03:48:31+00:00",
+  "updated_at": "2022-02-08T10:54:43+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1974,
+    "season": "summer"
+  },
+  "average_episode_duration": 5877,
+  "rating": "g",
+  "studios": []
+}

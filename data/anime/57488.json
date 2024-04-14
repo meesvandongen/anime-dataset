@@ -1,0 +1,50 @@
+{
+  "id": 57488,
+  "title": "Kabigon to Karakara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1982/140236.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1982/140236l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Adventures of Snorlax & Cubone",
+    "ja": "カビゴンとカラカラ"
+  },
+  "start_date": "2023-12-08",
+  "end_date": "2023-12-29",
+  "synopsis": "The friendship between Cubone and Snorlax blossoms over the course of all four seasons!\n\n(Source: YouTube)",
+  "mean": 6.56,
+  "rank": 6529,
+  "popularity": 17516,
+  "num_list_users": 372,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2023-12-08T09:18:59+00:00",
+  "updated_at": "2023-12-30T15:52:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 60,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1023,
+      "name": "Polygon Pictures"
+    }
+  ]
+}

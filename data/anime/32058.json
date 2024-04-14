@@ -1,0 +1,48 @@
+{
+  "id": 32058,
+  "title": "Four Seasons: Fuuka to Nanami",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/86102.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/86102l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Four Seasons: Fuuka and Nanami -Master of Torque- Spin-off Episode"
+    ],
+    "en": "Four Seasons: Fuuka and Nanami",
+    "ja": "Four Seasons 楓花と七波"
+  },
+  "start_date": "2015-10-30",
+  "end_date": "2015-10-30",
+  "synopsis": "A spin-off episode of Yamaha Motor’s original video animation “Master of Torque,” featuring Fuuka Torimi and Nanami Hiyoshi that illustrates the changing of the four seasons and the different joys of motorcycling that come with them.\n\n(Source: Official Site)",
+  "mean": 4.84,
+  "rank": 12840,
+  "popularity": 11702,
+  "num_list_users": 1693,
+  "num_scoring_users": 549,
+  "nsfw": "white",
+  "created_at": "2015-11-12T03:30:07+00:00",
+  "updated_at": "2021-08-12T00:27:30+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 292,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1324,
+      "name": "Shimogumi"
+    }
+  ]
+}

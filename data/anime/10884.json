@@ -1,0 +1,60 @@
+{
+  "id": 10884,
+  "title": "Saki Achiga-hen: Episode of Side-A",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/75513.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/75513l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saki Achiga-hen: Episode of Side-A"
+    ],
+    "en": "Saki Episode of Side A",
+    "ja": "咲-Saki-阿知賀編 episode of side-A"
+  },
+  "start_date": "2012-04-09",
+  "end_date": "2012-07-02",
+  "synopsis": "The Achiga Girls' Academy in Nara once defeated regional mahjong powerhouse Bansei High School. It advanced into the national team semifinals but lost to the eventual champion, and the mahjong club was later disbanded.\n\nSix years later, elementary school student Shizuno Takakamo befriends transfer student Nodoka Haramura. The two eventually enter Achiga Girls', but Nodoka transfers out of the school in the second year.\n\nWhen Shizuno sees Nodoka on television the following year as the national middle school individual mahjong champion, she decides to revive Achiga's mahjong club.",
+  "mean": 7.34,
+  "rank": 2554,
+  "popularity": 3652,
+  "num_list_users": 37305,
+  "num_scoring_users": 16112,
+  "nsfw": "white",
+  "created_at": "2011-06-28T13:46:44+00:00",
+  "updated_at": "2022-03-31T18:06:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 1464,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

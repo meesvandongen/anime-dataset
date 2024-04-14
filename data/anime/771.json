@@ -1,0 +1,52 @@
+{
+  "id": 771,
+  "title": "Ginyuu Mokushiroku Meine Liebe Wieder",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/75548.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/75548l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Meine Liebe Wieder"
+    ],
+    "en": "",
+    "ja": "吟遊黙示録マイネリーベ ヴィーダー"
+  },
+  "start_date": "2006-01-22",
+  "end_date": "2006-04-13",
+  "synopsis": "The Strahl candidates are enjoying a brief holiday in their various homes. However, many surprises await them when they finally come back to their elite boarding school: Rosenstolz Academy. There is a new headmaster, and his policies are not necessarily to the advantage of the main characters. \n\n(Source: Wikipedia)",
+  "mean": 6.63,
+  "rank": 6125,
+  "popularity": 7093,
+  "num_list_users": 7705,
+  "num_scoring_users": 2355,
+  "nsfw": "white",
+  "created_at": "2006-02-19T11:56:58+00:00",
+  "updated_at": "2023-09-18T09:08:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 5,
+      "name": "Bee Train"
+    }
+  ]
+}

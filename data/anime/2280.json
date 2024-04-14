@@ -1,0 +1,49 @@
+{
+  "id": 2280,
+  "title": "Hare Tokidoki Buta (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/2515.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/2515l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tokyo Pig",
+    "ja": "はれときどきぶた"
+  },
+  "start_date": "1997-07-03",
+  "end_date": "1998-09-29",
+  "synopsis": "Tokyo Pig is the wacky and crazy story of a young boy named Spencer and his magical pet pig named Sunny. This is the wierd adventures of these two wierdos.\n\n(Source: ANN)",
+  "mean": 6.48,
+  "rank": 6986,
+  "popularity": 11983,
+  "num_list_users": 1537,
+  "num_scoring_users": 397,
+  "nsfw": "white",
+  "created_at": "2007-04-13T06:41:18+00:00",
+  "updated_at": "2022-04-08T03:23:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 61,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:30"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1380,
+  "rating": "pg",
+  "studios": []
+}

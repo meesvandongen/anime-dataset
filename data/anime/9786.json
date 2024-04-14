@@ -1,0 +1,57 @@
+{
+  "id": 9786,
+  "title": "Meitantei Conan: Conan vs. Kid - Shikkoku no Sniper",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/27102.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/27102l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detective Conan: Conan vs. Kid - Jet Black Sniper",
+    "ja": "名探偵コナン コナンvsキッド 漆黒の狙撃者(スナイパー)"
+  },
+  "start_date": "2006-07-28",
+  "end_date": "2006-07-28",
+  "synopsis": "3D IMAX movie, shown only at the Suntory Museum in Osaka.\n\nThe story involves a heist taking place on 15 Aug at the Takaramachi Jewelry Museum where a jewel worth 1 Billion Yen is stolen.",
+  "mean": 7.22,
+  "rank": 3177,
+  "popularity": 8267,
+  "num_list_users": 5298,
+  "num_scoring_users": 1359,
+  "nsfw": "white",
+  "created_at": "2010-11-06T14:31:47+00:00",
+  "updated_at": "2023-11-25T14:19:30+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 960,
+  "rating": "pg",
+  "studios": []
+}

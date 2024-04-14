@@ -1,0 +1,53 @@
+{
+  "id": 11389,
+  "title": "Happy Kappy Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/31771.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/31771l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Happy Kappy Episode 19.5",
+      "Happy Kappy Special",
+      "Happy Kappi Recap"
+    ],
+    "en": "",
+    "ja": "特別編「カッピだいすき!」"
+  },
+  "start_date": "2011-08-17",
+  "end_date": "2011-08-17",
+  "synopsis": "Recap episode aired between episodes 19 and 20. ",
+  "mean": 5.55,
+  "rank": 11435,
+  "popularity": 16575,
+  "num_list_users": 445,
+  "num_scoring_users": 155,
+  "nsfw": "white",
+  "created_at": "2011-08-25T11:09:52+00:00",
+  "updated_at": "2024-02-06T16:57:13+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 324,
+  "rating": "g",
+  "studios": []
+}

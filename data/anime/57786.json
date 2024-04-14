@@ -1,0 +1,53 @@
+{
+  "id": 57786,
+  "title": "Sekai no Chizu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1855/140833.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1855/140833l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "世界の地図"
+  },
+  "start_date": "2020-06-01",
+  "end_date": "2020-06-01",
+  "synopsis": "Music video for the song Sekai no Chizu by OAU and the Suginami Jidou Gasshoudan that was featured on NHK's Minna no Uta program.",
+  "popularity": 24580,
+  "num_list_users": 70,
+  "num_scoring_users": 35,
+  "nsfw": "white",
+  "created_at": "2024-01-10T06:22:05+00:00",
+  "updated_at": "2024-01-10T06:22:05+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

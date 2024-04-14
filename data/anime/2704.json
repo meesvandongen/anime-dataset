@@ -1,0 +1,65 @@
+{
+  "id": 2704,
+  "title": "Kaiketsu Jouki Tanteidan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/20557.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/20557l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Steam Detective",
+      "Kaiketsu Shoki Tanteidan"
+    ],
+    "en": "Steam Detectives",
+    "ja": "快傑蒸気探偵団"
+  },
+  "start_date": "1998-10-07",
+  "end_date": "1999-03-31",
+  "synopsis": "The scene is Steam City, a London-ish city which represents an entire civilization run by coal and steam power. Because of steam, the city is sometimes covered in a mist. Villains take advantage of the steamy mist to hide and execute their evil plans. Only a few dare venture into what's beyond the steamy mist. They are known as the Steam Detectives: Narutaki (and his convertible all-purpose pistol), his nurse-assistant Lingling, and his Megamaton robot Gohliki.\n \n(Source: ANN)",
+  "mean": 6.65,
+  "rank": 6026,
+  "popularity": 8406,
+  "num_list_users": 5056,
+  "num_scoring_users": 1208,
+  "nsfw": "white",
+  "created_at": "2007-06-23T02:41:43+00:00",
+  "updated_at": "2022-03-15T05:05:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

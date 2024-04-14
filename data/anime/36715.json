@@ -1,0 +1,54 @@
+{
+  "id": 36715,
+  "title": "Ponkotsu Quest x Digimon Story: Cyber Sleuth - Hacker's Memory",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/88775.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/88775l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "「ポンコツクエスト」×「デジモンストーリー サイバースルゥース ハッカーズメモリー」"
+  },
+  "start_date": "2017-10-31",
+  "end_date": "2017-10-31",
+  "synopsis": "A collaboration between Ponkotsu Quest and the video game Digimon Story: Cyber Sleuth - Hacker's Memory for the latter's release on December 14, 2017.",
+  "mean": 5.27,
+  "rank": 12222,
+  "popularity": 13002,
+  "num_list_users": 1117,
+  "num_scoring_users": 324,
+  "nsfw": "white",
+  "created_at": "2017-10-31T16:50:18+00:00",
+  "updated_at": "2022-02-06T23:22:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 260,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1229,
+      "name": "Pie in the sky"
+    }
+  ]
+}

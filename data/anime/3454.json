@@ -1,0 +1,46 @@
+{
+  "id": 3454,
+  "title": "Kowaremono",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/41607.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/41607l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fragile Hearts"
+    ],
+    "en": "Slave Doll - Maid to Order",
+    "ja": "こわれもの"
+  },
+  "start_date": "2000-05-20",
+  "end_date": "2000-11-20",
+  "synopsis": "Aki is an Andromaid, half android, half maid. Created to infiltrate the house of Kenichi, she disguises herself as an ordinary housekeeper. Her mission is to capture a sample of Kenichi`s superior sperm, but she ends up with more than she bargained for. Will her android heart find love after comforting her sad new master? \n\n(Source: AniDB)",
+  "mean": 5.5,
+  "popularity": 9343,
+  "num_list_users": 3680,
+  "num_scoring_users": 1071,
+  "nsfw": "gray",
+  "created_at": "2007-11-22T17:18:48+00:00",
+  "updated_at": "2021-12-05T23:08:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2000,
+    "season": "spring"
+  },
+  "average_episode_duration": 1800,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2421,
+      "name": "M&M"
+    }
+  ]
+}

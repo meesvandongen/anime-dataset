@@ -1,0 +1,56 @@
+{
+  "id": 32676,
+  "title": "Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1664/127023.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1664/127023l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Go! Anpanman: Nanda and Runda of the Toy Star"
+    ],
+    "en": "Anpanman: Nanda and Runda From the Star of Toys",
+    "ja": "それいけ! アンパンマン おもちゃの星のナンダとルンダ"
+  },
+  "start_date": "2016-07-02",
+  "end_date": "2016-07-02",
+  "synopsis": "The super pastry hero must help a selfish princess with a kind robot to find her missing magic wand that turns anything in its path into toys! \n\n(Source: TMDB)",
+  "mean": 6.41,
+  "rank": 7388,
+  "popularity": 16664,
+  "num_list_users": 437,
+  "num_scoring_users": 112,
+  "nsfw": "white",
+  "created_at": "2016-02-06T08:01:40+00:00",
+  "updated_at": "2022-08-15T16:16:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 3730,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

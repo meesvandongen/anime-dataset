@@ -1,0 +1,57 @@
+{
+  "id": 31530,
+  "title": "Classroom☆Crisis: Tabi no Haji wa Uwanuri",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75999.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75999l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Classroom☆Crisis Special",
+      "Classroom Crisis Episode 5.5"
+    ],
+    "en": "",
+    "ja": "クラスルーム☆クライシス 第5.5話 旅の恥は上塗り"
+  },
+  "start_date": "2015-12-23",
+  "end_date": "2015-12-23",
+  "synopsis": "Unaired episode included with the third Blu-ray and DVD volume. ",
+  "mean": 6.39,
+  "rank": 7485,
+  "popularity": 7528,
+  "num_list_users": 6639,
+  "num_scoring_users": 1594,
+  "nsfw": "white",
+  "created_at": "2015-08-29T22:20:36+00:00",
+  "updated_at": "2024-03-03T02:36:08+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1512,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1087,
+      "name": "Lay-duce"
+    }
+  ]
+}

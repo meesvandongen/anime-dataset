@@ -1,0 +1,70 @@
+{
+  "id": 2287,
+  "title": "Kakutou Ryouri Densetsu Bistro Recipe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1715/105092.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1715/105092l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bistro Recipe",
+      "Bistro Recipe - Fighting Chef Zen",
+      "Legend of Grapple Cooking Bistro Recipe"
+    ],
+    "en": "Fighting Foodons",
+    "ja": "格闘料理伝説ビストロレシピ"
+  },
+  "start_date": "2001-12-11",
+  "end_date": "2002-06-25",
+  "synopsis": "An 11-year old boy named Zen bands together with his younger sister, Karen, and a young boy who has a large appetite, Pitan, to battle an evil empire by using their \"Foodons\"; strange monsters that are created from various foods.\n\n(Source: ANN)",
+  "mean": 6.03,
+  "rank": 9436,
+  "popularity": 8340,
+  "num_list_users": 5168,
+  "num_scoring_users": 2158,
+  "nsfw": "white",
+  "created_at": "2007-04-13T08:10:17+00:00",
+  "updated_at": "2022-03-18T02:17:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

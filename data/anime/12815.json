@@ -1,0 +1,69 @@
+{
+  "id": 12815,
+  "title": "Shirokuma Cafe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/75649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/75649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Polar Bear Café",
+      "Shirokuma Café"
+    ],
+    "en": "Polar Bear Cafe",
+    "ja": "しろくまカフェ"
+  },
+  "start_date": "2012-04-05",
+  "end_date": "2013-03-28",
+  "synopsis": "Situated near the local zoo and owned by the charismatic polar bear Shirokuma, Shirokuma Cafe is a popular spot for animals and humans alike, allowing them to sit back and relax after a hard day of work. Whether it's a cold beverage or the latest item on his menu, Shirokuma finds joy in being able to serve his customers, often striking up conversations about various subjects.\n\nTogether with the sarcastic Penguin and the clumsy Panda, they form an odd trio who get themselves caught up in all sorts of misadventures with their other friends such as Grizzly, a bar owner, and Sasako, a human who works at the cafe. From dealing with unrequited love, outdoor camping trips, karaoke sessions, and even the secret to brewing delicious coffee, there's always something bound to be happening in Shirokuma Cafe!\n\n[Written by MAL Rewrite]",
+  "mean": 7.9,
+  "rank": 776,
+  "popularity": 2146,
+  "num_list_users": 94873,
+  "num_scoring_users": 23451,
+  "nsfw": "white",
+  "created_at": "2012-01-26T17:10:56+00:00",
+  "updated_at": "2024-03-06T11:41:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "17:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

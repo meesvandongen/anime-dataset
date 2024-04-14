@@ -1,0 +1,62 @@
+{
+  "id": 37752,
+  "title": "Gonglyong Mecard",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1868/98715.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1868/98715l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dinosaur Mecard"
+    ],
+    "en": "Dino Mecard",
+    "ja": "공룡메카드"
+  },
+  "start_date": "2017-11-23",
+  "end_date": "2018-12-27",
+  "synopsis": "Gonglyong Mecard is a spin-off-series of Mecard, based on the idea that dinosaurs didn't become extinct 65 million years ago, but transformed into mecanimals. Its characters don't have any relations to the cast from Turning Mecard, Turning Mecard W and Turning Mecard R.\n\n(Source: Gonglyong Mecard Wikia)",
+  "rank": 19755,
+  "popularity": 16290,
+  "num_list_users": 472,
+  "num_scoring_users": 111,
+  "nsfw": "white",
+  "created_at": "2018-04-16T19:46:01+00:00",
+  "updated_at": "2021-04-23T19:54:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "13:50"
+  },
+  "source": "original",
+  "average_episode_duration": 1680,
+  "rating": "pg",
+  "studios": []
+}

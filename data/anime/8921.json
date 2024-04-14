@@ -1,0 +1,55 @@
+{
+  "id": 8921,
+  "title": "Believe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/24743.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/24743l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Arashi - Believe",
+      "Animation Film of Believe"
+    ],
+    "en": "",
+    "ja": "Believe"
+  },
+  "start_date": "2008-04-03",
+  "end_date": "2008-04-03",
+  "synopsis": "An animation made to promote the movie Yatterman, which stars Arashi member Sakurai Sho and uses \"Believe\" as its theme song. \n\nEach member of Arashi is animated and transforms into a character from the Yatterman series, fighting the bad guys and saving the day.\n",
+  "mean": 5.76,
+  "popularity": 12650,
+  "num_list_users": 1231,
+  "num_scoring_users": 536,
+  "nsfw": "white",
+  "created_at": "2010-06-04T22:22:30+00:00",
+  "updated_at": "2019-08-26T11:44:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "average_episode_duration": 660,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

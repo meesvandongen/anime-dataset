@@ -1,0 +1,62 @@
+{
+  "id": 37374,
+  "title": "Pastel Memories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1563/95294.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1563/95294l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぱすてるメモリーズ"
+  },
+  "start_date": "2019-01-08",
+  "end_date": "2019-03-26",
+  "synopsis": "The story takes place in the future, the city of Akihabara. It was once called a \"Holy land of otaku\" but now has become an office town. Otaku culture has declined, people are losing memories of anime and manga, and only a few specialty shops remain open. \n\nWhat supports the world of creative works are \"memories\" of manga and anime in people's minds, but when the world of the creative work is destroyed by a virus, it disappears from everyone's memory and is erased from the material world.\n\n12 girls working in a small shop in a corner of Akihabara are fighting the virus to protect everyone's important memories about their favorite manga and anime, and return Akihabara to the way it was before!",
+  "mean": 5.14,
+  "rank": 12454,
+  "popularity": 4842,
+  "num_list_users": 20168,
+  "num_scoring_users": 5429,
+  "nsfw": "white",
+  "created_at": "2018-02-23T10:13:39+00:00",
+  "updated_at": "2024-01-20T13:58:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1465,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

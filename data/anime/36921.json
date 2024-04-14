@@ -1,0 +1,42 @@
+{
+  "id": 36921,
+  "title": "That Is How I Roll!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/89637.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/89637l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Afterglow"
+    ],
+    "en": "That Is How I Roll!",
+    "ja": "That Is How I Roll!"
+  },
+  "start_date": "2017-03-07",
+  "end_date": "2017-03-07",
+  "synopsis": "Music video of the band project Afterglow.",
+  "mean": 6.29,
+  "popularity": 11100,
+  "num_list_users": 2087,
+  "num_scoring_users": 1044,
+  "nsfw": "white",
+  "created_at": "2017-12-10T03:59:51+00:00",
+  "updated_at": "2023-07-16T07:37:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 102,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": 30409,
+  "title": "Nepos Napos",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/72768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/72768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Nepos Napos",
+    "ja": "ネポス・ナポス"
+  },
+  "start_date": "2005-01-31",
+  "end_date": "2005-07-25",
+  "synopsis": "You see a whale-shaped cloud drifting in the blue sky. What you don't see is a strange land of Nepos Napos that lies above it. Don't you want to know what is happening and how everybody lives up there?\n\n(Source: The Answer Studio)",
+  "rank": 16819,
+  "popularity": 18948,
+  "num_list_users": 274,
+  "num_scoring_users": 49,
+  "nsfw": "white",
+  "created_at": "2015-03-21T19:44:43+00:00",
+  "updated_at": "2021-04-03T14:33:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "average_episode_duration": 360,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 229,
+      "name": "The Answer Studio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 37352,
+  "title": "Quote",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1042/90665.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1042/90665l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Red",
+      "Cambell",
+      "Amador"
+    ],
+    "en": "Quote",
+    "ja": "Quote"
+  },
+  "start_date": "2017-12-18",
+  "end_date": "2018-01-29",
+  "synopsis": "Three official music videos for Red, Cambell, and Amador on Suda Keina's \"Quote\" album that was released on January 31, 2018. Avogado6 animated them and they were released on Suda Keina's official YouTube channel as well as airing on Space Shower TV under U&R Records' label.",
+  "mean": 6,
+  "popularity": 13979,
+  "num_list_users": 856,
+  "num_scoring_users": 430,
+  "nsfw": "white",
+  "created_at": "2018-02-18T09:44:08+00:00",
+  "updated_at": "2019-11-15T14:39:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 248,
+  "rating": "g",
+  "studios": []
+}

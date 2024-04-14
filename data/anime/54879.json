@@ -1,0 +1,39 @@
+{
+  "id": 54879,
+  "title": "Kokoro no Compass",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1078/134840.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1078/134840l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ココロノコンパス"
+  },
+  "start_date": "2005-11-02",
+  "end_date": "2005-11-02",
+  "synopsis": "Music video for the song Kokoro no Compass by Noriyuki Makihara.",
+  "popularity": 22690,
+  "num_list_users": 98,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2023-03-27T06:06:15+00:00",
+  "updated_at": "2023-04-07T09:34:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 364,
+  "rating": "g",
+  "studios": []
+}

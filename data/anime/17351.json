@@ -1,0 +1,57 @@
+{
+  "id": 17351,
+  "title": "Mangirl!: Asobu Henshuu Girl",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/46513.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/46513l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mangirl! Special",
+      "Mangirl! Episode 14"
+    ],
+    "en": "",
+    "ja": "まんがーる! 遊ぶへんしゅうがぁる"
+  },
+  "start_date": "2013-05-24",
+  "end_date": "2013-05-24",
+  "synopsis": "Unaired 14th Episode of Mangirl! that was released with the BD/DVD.",
+  "mean": 5.85,
+  "rank": 10238,
+  "popularity": 7233,
+  "num_list_users": 7322,
+  "num_scoring_users": 4008,
+  "nsfw": "white",
+  "created_at": "2013-02-01T11:19:13+00:00",
+  "updated_at": "2022-02-12T19:53:17+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 589,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

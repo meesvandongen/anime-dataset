@@ -1,0 +1,64 @@
+{
+  "id": 471,
+  "title": "To Heart 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/57423.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/57423l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ToHeart2"
+    ],
+    "en": "To Heart 2",
+    "ja": "トゥハート2"
+  },
+  "start_date": "2005-10-04",
+  "end_date": "2006-01-03",
+  "synopsis": "Following her graduation from middle school, Konomi Yuzuhara enters the same high school as Takaaki Kono, her childhood friend. As the new school year begins, they meet their childhood friend Tamaki Kosaka, as well as many new accquaintances. Unbeknownst to the group, their encounters with each other will soon lead to many memorable adventures. \n\n(Source: ANN)",
+  "mean": 6.53,
+  "rank": 6676,
+  "popularity": 4701,
+  "num_list_users": 21448,
+  "num_scoring_users": 7279,
+  "nsfw": "white",
+  "created_at": "2005-12-31T04:41:47+00:00",
+  "updated_at": "2022-12-20T08:18:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

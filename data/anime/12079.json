@@ -1,0 +1,56 @@
+{
+  "id": 12079,
+  "title": "Black★Rock Shooter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/54331.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/54331l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "BRS",
+      "Supercell: Black Rock Shooter",
+      "Hatsune Miku's Black★Rock Shooter"
+    ],
+    "en": "",
+    "ja": "ブラック★ロックシューター"
+  },
+  "start_date": "2008-06-13",
+  "end_date": "2008-06-13",
+  "synopsis": "The official music video that eventually spawned the entire Black Rock Shooter franchise. Inspired by the first official illustration by huke, the song was composed by ryo of supercell, illustrated by huke and sung by Hatsune Miku, a VOCALOID.",
+  "mean": 7.04,
+  "popularity": 2608,
+  "num_list_users": 68660,
+  "num_scoring_users": 33742,
+  "nsfw": "white",
+  "created_at": "2011-11-17T12:29:55+00:00",
+  "updated_at": "2023-10-07T21:00:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 292,
+  "rating": "pg_13",
+  "studios": []
+}

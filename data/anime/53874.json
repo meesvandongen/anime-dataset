@@ -1,0 +1,68 @@
+{
+  "id": 53874,
+  "title": "Pokemon: Mezase Pokemon Master",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1246/134209.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1246/134209l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokemon: Aim to Be a Pokemon Master"
+    ],
+    "en": "Pokémon: To Be a Pokémon Master",
+    "ja": "ポケットモンスター めざせポケモンマスター"
+  },
+  "start_date": "2023-01-13",
+  "end_date": "2023-03-24",
+  "synopsis": "By embracing challenges, learning from failures, overcoming obstacles, and beating the best in the world, Satoshi finally achieves his long-held dream. His adventurous spirit, however, still runs high as he continues to explore new regions, witness unfamiliar Pokémon, and forge unexpected friendships and rivalries.\n\nAs the world opens its vast horizons to Satoshi, he once more encounters the people who helped shape his momentous path to success. A legendary journey nears its end just as an entirely new one is about to begin, with the bond between humans and Pokémon continuing forevermore.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1655,
+  "popularity": 4561,
+  "num_list_users": 22912,
+  "num_scoring_users": 10320,
+  "nsfw": "white",
+  "created_at": "2022-12-16T14:50:17+00:00",
+  "updated_at": "2023-02-11T13:12:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "18:55"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

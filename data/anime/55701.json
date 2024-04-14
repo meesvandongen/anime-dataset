@@ -1,0 +1,59 @@
+{
+  "id": 55701,
+  "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1136/141893.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1136/141893l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+    "ja": "鬼滅の刃 柱稽古編"
+  },
+  "start_date": "2024-05-12",
+  "synopsis": "New season of Kimetsu no Yaiba.",
+  "popularity": 957,
+  "num_list_users": 253111,
+  "num_scoring_users": 3069,
+  "nsfw": "white",
+  "created_at": "2023-06-18T18:27:00+00:00",
+  "updated_at": "2024-03-30T07:06:31+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:15"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

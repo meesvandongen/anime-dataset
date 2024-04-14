@@ -1,0 +1,40 @@
+{
+  "id": 48773,
+  "title": "Live Beyond!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1975/114485.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1975/114485l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Live Beyond!!"
+  },
+  "start_date": "2021-04-18",
+  "end_date": "2021-04-18",
+  "synopsis": "Promotional music video of the project band Poppin' Party.",
+  "mean": 6.25,
+  "popularity": 14916,
+  "num_list_users": 646,
+  "num_scoring_users": 336,
+  "nsfw": "white",
+  "created_at": "2021-04-18T20:51:08+00:00",
+  "updated_at": "2023-07-16T07:41:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 134,
+  "rating": "pg_13",
+  "studios": []
+}

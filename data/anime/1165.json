@@ -1,0 +1,66 @@
+{
+  "id": 1165,
+  "title": "Sakura Taisen: Ouka Kenran",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/15969.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/15969l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sakura Wars: The Gorgeous Blooming Cherry Blossoms",
+      "Sakura Taisen OVA",
+      "Sakura Wars OVA"
+    ],
+    "en": "Sakura Wars",
+    "ja": "サクラ大戦 桜華絢爛"
+  },
+  "start_date": "1997-12-18",
+  "end_date": "1998-07-24",
+  "synopsis": "The year is around the 1920's and the darkness of the demons have arrived. Now, only the people with large amounts of spirit energy can save the Earth. The Flower Division is now going to be sent out destroy the demons for they're our only hope for survival with their new steam-powered machines and unique fighting techniques. \n\n(Source: ANN)",
+  "mean": 6.68,
+  "rank": 5873,
+  "popularity": 7659,
+  "num_list_users": 6361,
+  "num_scoring_users": 2444,
+  "nsfw": "white",
+  "created_at": "2006-07-06T05:03:29+00:00",
+  "updated_at": "2023-01-26T23:28:19+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1715,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 81,
+      "name": "Radix"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 54123,
+  "title": "Shixiong A Shixiong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1209/132496.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1209/132496l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wo Shixiong Shizai Tai Wenjian Le"
+    ],
+    "en": "My Senior Brother Is Too Steady",
+    "ja": "师兄啊师兄"
+  },
+  "start_date": "2023-01-19",
+  "end_date": "2023-04-06",
+  "synopsis": "After being reborn in ancient times before the Great God-Conferment War, Li Changshou became a small cultivator.\n\nTo survive in the cruel Primordial Times, Li Changshou tries hard not to accumulate any karma. He always plans thoroughly before doing anything and never allows himself to walk into dangerous situations. He hides his trump cards well, trains himself in escape techniques, refines poisonous pills, and masters mystical abilities.\nLi Changshou originally planned to remain hidden and safe in the mountain until his ascension to immortality. However, everything changed one year when his master brought home a junior sister…\n\n(Source: Realm Scans)",
+  "mean": 7.52,
+  "rank": 1774,
+  "popularity": 12142,
+  "num_list_users": 1460,
+  "num_scoring_users": 595,
+  "nsfw": "white",
+  "created_at": "2023-01-07T16:31:16+00:00",
+  "updated_at": "2023-04-10T01:27:31+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1768,
+      "name": "Sparkly Key Animation Studio"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 27379,
+  "title": "Sekai no Ouja: King Kong Taikai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/66461.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/66461l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "世界の王者 キングコング大会"
+  },
+  "start_date": "1966-12-31",
+  "end_date": "1966-12-31",
+  "synopsis": "Recap of the first episodes of the TV Series.",
+  "rank": 17770,
+  "popularity": 17254,
+  "num_list_users": 392,
+  "num_scoring_users": 65,
+  "nsfw": "white",
+  "created_at": "2014-09-03T16:23:34+00:00",
+  "updated_at": "2024-02-04T16:53:24+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1966,
+    "season": "fall"
+  },
+  "average_episode_duration": 3360,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

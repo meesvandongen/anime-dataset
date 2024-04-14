@@ -1,0 +1,62 @@
+{
+  "id": 3692,
+  "title": "Yes! Precure 5 GoGo!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/25746.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/25746l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Yes! プリキュア5 GoGo!"
+  },
+  "start_date": "2008-02-03",
+  "end_date": "2009-01-25",
+  "synopsis": "Nozomi and friends are back, their role as Precure far from over. The girls are given new powers by the mysterious Flora, who awaits their arrival in a place called the Cure Rose Garden. But to reach that garden of legend, they have to use a magical relic known as the Rose Pact. Problem is, our heroes don't know how to use the thing. This leads them to seek help from the four monarchs of Palmier's neighboring  countries. \n\nNot to make things too easy, dark forces are afoot once again. An evil organization, Eternal, is keen on adding the Rose Pact to its ever-growing collection of treasures. To make matters worse, the director of this dastardly museum seems to have a vested interest in the Cure Rose Garden. \n\nFortunately, a new story brings with it new allies. Enter Syrup, the courier boy with a bad attitude. His desire to reach the Garden is pure, but who exactly is he? And for that matter, who's the new girl in town and why does she smell like roses?\n\n(Source: W-M)",
+  "mean": 7.28,
+  "rank": 2809,
+  "popularity": 5997,
+  "num_list_users": 11575,
+  "num_scoring_users": 4629,
+  "nsfw": "white",
+  "created_at": "2008-01-09T16:12:40+00:00",
+  "updated_at": "2023-01-08T05:59:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 48,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

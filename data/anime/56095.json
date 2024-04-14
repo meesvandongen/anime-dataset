@@ -1,0 +1,39 @@
+{
+  "id": 56095,
+  "title": "Kyuuseishu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1166/137385.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1166/137385l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "救世主"
+  },
+  "start_date": "2023-07-13",
+  "end_date": "2023-07-13",
+  "synopsis": "Music video Kyuuseishu by Tsukuyomi. The song was featured as the opening for Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+  "popularity": 21350,
+  "num_list_users": 143,
+  "num_scoring_users": 70,
+  "nsfw": "white",
+  "created_at": "2023-07-26T20:33:32+00:00",
+  "updated_at": "2024-01-19T09:27:52+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 201,
+  "rating": "pg_13",
+  "studios": []
+}

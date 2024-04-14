@@ -1,0 +1,80 @@
+{
+  "id": 1454,
+  "title": "Kemonozume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/86766.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/86766l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Beast Claw"
+    ],
+    "en": "",
+    "ja": "ケモノヅメ"
+  },
+  "start_date": "2006-08-06",
+  "end_date": "2006-11-05",
+  "synopsis": "Creatures known as Shokujinki have been secretly living alongside humans for hundreds of years. Though they may look like humans, Shokujinki are able to transform into uncontrollable beasts with gigantic claws and consume humans to survive. The equally secretive Kifuuken dojo specializes in killing Shokujinki by cutting off their arms, and is the only force preventing unchecked Shokujinki domination.\n\nToshihiko Momota, the son of the leader of the Kifuuken, is instantly charmed by a mysterious woman named Yuka Kamitsuki. Their relationship is complicated, however, because unbeknownst to them both, Yuka is a Shokujinki and Toshihiko is sworn to kill her. Meanwhile, the Kifuuken is having a crisis of confidence as Toshihiko's brother Kazuma pushes against tradition and tries to modernize the Kifuuken. As emotions are strained and the secrets of both the past and present are revealed, who will live, and who will be eaten?\n\n[Written by MAL Rewrite]",
+  "mean": 7.35,
+  "rank": 2485,
+  "popularity": 2465,
+  "num_list_users": 75229,
+  "num_scoring_users": 19861,
+  "nsfw": "white",
+  "created_at": "2006-08-25T16:05:35+00:00",
+  "updated_at": "2024-02-06T05:50:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1430,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

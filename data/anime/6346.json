@@ -1,0 +1,53 @@
+{
+  "id": 6346,
+  "title": "Cherry no Manma",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/16025.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/16025l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "CnM",
+      "Cherry no Mama"
+    ],
+    "en": "Cherry no Manma",
+    "ja": "Cherryのまんま"
+  },
+  "start_date": "1989-10-14",
+  "end_date": "1989-10-14",
+  "synopsis": "A short story about a young girl and her two housemaid boyfriends.",
+  "mean": 4.68,
+  "rank": 12993,
+  "popularity": 10704,
+  "num_list_users": 2371,
+  "num_scoring_users": 1231,
+  "nsfw": "white",
+  "created_at": "2009-04-11T22:52:45+00:00",
+  "updated_at": "2022-04-01T12:50:21+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 246,
+      "name": "Visual 80"
+    }
+  ]
+}

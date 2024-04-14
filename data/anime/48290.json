@@ -1,0 +1,45 @@
+{
+  "id": 48290,
+  "title": "Aerover: Pinigseuui Buhwal",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1745/115323.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1745/115323l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Aerover Second Season"
+    ],
+    "en": "Aerover: Rebirth Of the Phoenix",
+    "ja": "에어로버: 피닉스의 부활"
+  },
+  "start_date": "2018-09-05",
+  "end_date": "2018-12-19",
+  "synopsis": "Second season of Aerover series.",
+  "rank": 18096,
+  "popularity": 19035,
+  "num_list_users": 269,
+  "num_scoring_users": 41,
+  "nsfw": "white",
+  "created_at": "2021-02-22T13:35:42+00:00",
+  "updated_at": "2024-03-06T10:53:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "average_episode_duration": 620,
+  "rating": "g",
+  "studios": []
+}

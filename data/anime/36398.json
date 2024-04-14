@@ -1,0 +1,50 @@
+{
+  "id": 36398,
+  "title": "Na mo Nai Hana no Youni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/87822.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/87822l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "名もない花のように"
+  },
+  "start_date": "2000-06-01",
+  "end_date": "2000-06-01",
+  "synopsis": "Various people take care of their pet dogs.",
+  "mean": 5.32,
+  "popularity": 19193,
+  "num_list_users": 261,
+  "num_scoring_users": 118,
+  "nsfw": "white",
+  "created_at": "2017-09-21T11:37:51+00:00",
+  "updated_at": "2019-08-09T02:39:54+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 144,
+  "rating": "g",
+  "studios": []
+}

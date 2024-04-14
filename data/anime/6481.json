@@ -1,0 +1,48 @@
+{
+  "id": 6481,
+  "title": "Sugar Bunnies Fleur",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/46117.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/46117l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sugar Bunnies 3",
+      "Sugarbunnies"
+    ],
+    "en": "",
+    "ja": "シュガーバニーズ フルール"
+  },
+  "start_date": "2009-04-07",
+  "end_date": "2009-09-29",
+  "synopsis": "Sequel to Sugar Bunnies Chocolate!\n\nAired inside the anime corner of the Kitty's Paradise TV block.",
+  "mean": 5.9,
+  "rank": 9996,
+  "popularity": 13952,
+  "num_list_users": 861,
+  "num_scoring_users": 125,
+  "nsfw": "white",
+  "created_at": "2009-05-12T16:06:58+00:00",
+  "updated_at": "2021-10-23T11:55:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "average_episode_duration": 680,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

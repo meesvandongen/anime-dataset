@@ -1,0 +1,58 @@
+{
+  "id": 2595,
+  "title": "D.C.II: Da Capo II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75305.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75305l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "D.C.II ～ダ・カーポII～"
+  },
+  "start_date": "2007-10-02",
+  "end_date": "2007-12-25",
+  "synopsis": "The undying Sakura Trees return. Based on a PS2 sequel of the original DaCapo game, the story once again takes place on Hatsunejima, but is set 53 years after the events of D.C. and D.C.S.S.. Although some characters will probably look a bit familiar to the initiated eye, the cast is a new one. The new main protagonist is Yoshiyuki Sakurai, who lives next door to the Asakura sisters Yume and Otome, who are the granddaughters of Junichi and Nemu from the first season.\n\n[Written by MAL Rewrite]",
+  "mean": 6.86,
+  "rank": 4907,
+  "popularity": 3669,
+  "num_list_users": 36919,
+  "num_scoring_users": 16268,
+  "nsfw": "white",
+  "created_at": "2007-06-09T00:36:47+00:00",
+  "updated_at": "2022-04-14T18:34:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

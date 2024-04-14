@@ -1,0 +1,58 @@
+{
+  "id": 7468,
+  "title": "Princess Lover! Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/18207.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/18207l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "プリンセスラバー!"
+  },
+  "start_date": "2009-10-23",
+  "end_date": "2010-03-25",
+  "synopsis": "Specials included on the Princess Lover! Blu-ray/DVD volumes.",
+  "mean": 6.19,
+  "rank": 8603,
+  "popularity": 5357,
+  "num_list_users": 15411,
+  "num_scoring_users": 5582,
+  "nsfw": "white",
+  "created_at": "2009-11-07T13:10:04+00:00",
+  "updated_at": "2022-03-06T12:27:32+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 540,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 309,
+      "name": "GoHands"
+    }
+  ]
+}

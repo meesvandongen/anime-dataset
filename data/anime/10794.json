@@ -1,0 +1,64 @@
+{
+  "id": 10794,
+  "title": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/56161.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/56161l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "IS: Infinite Stratos Encore - Koi ni Kogareru Sextet"
+    ],
+    "en": "",
+    "ja": "IS 〈インフィニット・ストラトス〉 アンコール『恋に焦がれる六重奏』"
+  },
+  "start_date": "2011-12-07",
+  "end_date": "2011-12-07",
+  "synopsis": "On a hot day of summer vacation, Charlotte's plan to spend time alone with Ichika at his house is somewhat ruined when Cecilia gets the same idea, later followed by Houki, Lingyin and Laura. The next day, Houki helps out at a summer festival being held at her family's shrine and is surprised when Ichika shows up.\n\n(Source: Wikipedia)",
+  "mean": 6.82,
+  "rank": 5117,
+  "popularity": 1783,
+  "num_list_users": 123047,
+  "num_scoring_users": 68310,
+  "nsfw": "white",
+  "created_at": "2011-06-08T22:02:46+00:00",
+  "updated_at": "2024-03-03T19:31:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1611,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

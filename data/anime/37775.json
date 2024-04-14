@@ -1,0 +1,47 @@
+{
+  "id": 37775,
+  "title": "Slide",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1584/92043.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1584/92043l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Slide (2015)"
+    ],
+    "en": "Slide",
+    "ja": "SLIDE"
+  },
+  "start_date": "2017-07-10",
+  "end_date": "2017-07-10",
+  "synopsis": "Based on the figure skater Mao Asada. On July 10th, Tekken posted the full version of the video on his official YouTube channel. The story took 2,890 hand drawn sheets. Tekken originally made a short version back in 2015 but when Mao Asada announced her retirement on April 10, 2017--he decided to expand upon it by creating 5 minutes worth of additional content.",
+  "mean": 6.1,
+  "rank": 9074,
+  "popularity": 16391,
+  "num_list_users": 462,
+  "num_scoring_users": 210,
+  "nsfw": "white",
+  "created_at": "2018-04-23T15:14:31+00:00",
+  "updated_at": "2021-06-22T20:44:19+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 475,
+  "rating": "g",
+  "studios": []
+}

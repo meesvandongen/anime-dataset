@@ -1,0 +1,68 @@
+{
+  "id": 2923,
+  "title": "Shugo Chara!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/5061.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/5061l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Guardian Character!"
+    ],
+    "en": "Shugo Chara!",
+    "ja": "しゅごキャラ！"
+  },
+  "start_date": "2007-10-06",
+  "end_date": "2008-09-27",
+  "synopsis": "Amu Hinamori is a shy girl who struggles to make friends in part due to the rumors spread around school about her \"cool and spicy\" personality. Wishing that she could show everyone her \"would-be\" self, Amu wakes up to the presence of three colorful and ornately decorated eggs in her bed. Each of these \"Hearts Eggs\" houses a \"Guardian Character\"—manifestations of someone's would-be self and their dreams. With the aid of Ran, Miki, and Su, Amu now finds herself able to express who she truly is. However, things do not always pan out in her favor.\n\nThe sudden appearance of Amu's Guardian Characters prompts the Seiyo Elementary Guardians, a student council-like group with each member possessing their own Guardian Character, to take notice of her. As someone who has multiple Characters, Amu is roped into being the Guardians' \"Joker,\" tasked with helping them find X Eggs—corrupted versions of one's Hearts Egg. \n\nAs she becomes entangled in the Guardians' quest, Amu begins to uncover more about these mysterious Characters, the X Eggs, and the organization that seems to be at the center of it all.\n\n[Written by MAL Rewrite]",
+  "mean": 7.4,
+  "rank": 2252,
+  "popularity": 1099,
+  "num_list_users": 219481,
+  "num_scoring_users": 105718,
+  "nsfw": "white",
+  "created_at": "2007-08-05T15:00:23+00:00",
+  "updated_at": "2023-05-08T11:57:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "09:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1479,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

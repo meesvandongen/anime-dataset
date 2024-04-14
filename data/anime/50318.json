@@ -1,0 +1,44 @@
+{
+  "id": 50318,
+  "title": "Prima Stella",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1735/119257.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1735/119257l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Prima Stella (プリマステラ)"
+  },
+  "start_date": "2016-04-15",
+  "end_date": "2016-04-15",
+  "synopsis": "Official music video for the song Prima Stella by Kano.\nIncluded in 1st Album \"nowhere\".\n",
+  "mean": 6,
+  "popularity": 19556,
+  "num_list_users": 240,
+  "num_scoring_users": 127,
+  "nsfw": "white",
+  "created_at": "2021-11-06T14:22:25+00:00",
+  "updated_at": "2022-02-11T21:49:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 265,
+  "rating": "g",
+  "studios": []
+}

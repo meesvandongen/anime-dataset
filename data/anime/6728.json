@@ -1,0 +1,46 @@
+{
+  "id": 6728,
+  "title": "Helen Keller Monogatari: Ai to Hikari no Tenshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/15467.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/15467l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Helen Keller"
+    ],
+    "en": "The Story of Hellen Keller: Angel of Love and Light",
+    "ja": "ヘレン・ケラー物語　愛と光の天使"
+  },
+  "start_date": "1981-05-05",
+  "end_date": "1981-05-05",
+  "synopsis": "Based on Hellen Keller's (1880-1968) autobiography.",
+  "mean": 6.32,
+  "rank": 7908,
+  "popularity": 13372,
+  "num_list_users": 1005,
+  "num_scoring_users": 276,
+  "nsfw": "white",
+  "created_at": "2009-07-01T05:59:48+00:00",
+  "updated_at": "2024-02-04T16:10:38+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1981,
+    "season": "spring"
+  },
+  "average_episode_duration": 4320,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2312,
+  "title": "Daishizen no Majuu: Bagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/56739.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/56739l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Daishizen no Majyu Bagi",
+      "Daishizen no Majuu Bagi",
+      "Taishizen no Makemono Bagi"
+    ],
+    "en": "Bagi, the Monster of Mighty Nature",
+    "ja": "大自然の魔獣 バギ"
+  },
+  "start_date": "1984-08-19",
+  "end_date": "1984-08-19",
+  "synopsis": "Ryo is sent out by the people of a village to kill the monster which has been attacking the villagers. It is rumored that this monster is a cat-woman named Bagi. As Ryo waits for the monster to come to its watering hole, he thinks back to how he first met Bagi as a kitten who learned how to write, and later reenters his life on a quest to discover who and what she really is. But now she has gone wild, and as the time of her arrival approaches, he strengthens his resolve to kill her.\n\n(Source: ANN)",
+  "mean": 6.6,
+  "rank": 6288,
+  "popularity": 9391,
+  "num_list_users": 3618,
+  "num_scoring_users": 1661,
+  "nsfw": "white",
+  "created_at": "2007-04-15T04:47:02+00:00",
+  "updated_at": "2023-12-27T16:17:27+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5084,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
+}

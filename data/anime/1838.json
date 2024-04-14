@@ -1,0 +1,60 @@
+{
+  "id": 1838,
+  "title": "Mitsu x Mitsu Drops",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/1838.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/1838l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Honey & Honey Drops"
+    ],
+    "en": "Honey x Honey Drops",
+    "ja": "蜜×蜜ドロップス"
+  },
+  "start_date": "2006-04-28",
+  "end_date": "2006-07-28",
+  "synopsis": "Students at the Houjou academy are perfectly normal—except for those who take the Kuge course. This special course is reserved only for elite and rich students and their \"honeys.\" Hagino Yuzuru enrolls in the course through Kai Renge, and she quickly regrets it.\n\nTo become a honey, a student must get someone already in the Kuge course to sponsor her. Kai becomes Hagino's sponsor, getting her into the course and paying the price to cover it. But in return, Hagino must submit to him as her master, catering to his every whim.\n\nHagino may have gotten herself into something she can't handle. But if she pulls out now, she gets expelled from the school. Can she make things work with Kai, or will she call it quits before he does something she'll regret?",
+  "mean": 5.89,
+  "rank": 10045,
+  "popularity": 4350,
+  "num_list_users": 25819,
+  "num_scoring_users": 13221,
+  "nsfw": "white",
+  "created_at": "2007-01-11T17:02:38+00:00",
+  "updated_at": "2022-04-14T15:59:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1620,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 81,
+      "name": "Radix"
+    }
+  ]
+}

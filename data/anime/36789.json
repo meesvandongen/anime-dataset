@@ -1,0 +1,50 @@
+{
+  "id": 36789,
+  "title": "Golden Time (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/89350.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/89350l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Golden Time",
+    "ja": "ゴールデンタイム"
+  },
+  "start_date": "2013-12-05",
+  "end_date": "2013-12-05",
+  "synopsis": "In Japan's economic bubble years during the 1980s, a long-serving furniture-style television set made in the 1960s is abandoned at a junkyard. It attempts to escape from its new surroundings.",
+  "mean": 7.04,
+  "rank": 4112,
+  "popularity": 6509,
+  "num_list_users": 9534,
+  "num_scoring_users": 2153,
+  "nsfw": "white",
+  "created_at": "2017-11-11T15:41:22+00:00",
+  "updated_at": "2022-04-01T12:14:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 249,
+      "name": "Robot Communications"
+    }
+  ]
+}

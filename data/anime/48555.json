@@ -1,0 +1,54 @@
+{
+  "id": 48555,
+  "title": "Bakugan: Geogan Rising",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1945/113692.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1945/113692l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "爆丸ジオガンライジング"
+  },
+  "start_date": "2021-04-02",
+  "end_date": "2022-03-18",
+  "synopsis": "Bakugan: Geogan Rising sees hero Dragonoid return as the Awesome Brawlers bakugan remain in a deep slumber, healing from the last time they had to save the world. This time, the gang will face adventures with a new set of Bakugan characters including Geogan, Bakugan-like creatures fused with elements of crystals and forming a new geometric form. Not only do Geogans look different than their Bakugan counterparts, but they are exceptionally strong and built to brawl. It's not long before the Awesome Brawlers turn this group of misfit Bakugan into loyal partners, and Geogan have arrived on the scene, ready to prove their worth and dominate in the Bakugan battle arena.\n\n(Source: Bakugan Wiki)",
+  "mean": 5.59,
+  "rank": 11306,
+  "popularity": 11195,
+  "num_list_users": 2028,
+  "num_scoring_users": 563,
+  "nsfw": "white",
+  "created_at": "2021-03-26T11:57:25+00:00",
+  "updated_at": "2022-03-20T00:27:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

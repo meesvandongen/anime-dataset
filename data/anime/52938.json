@@ -1,0 +1,41 @@
+{
+  "id": 52938,
+  "title": "Ashita no Keikaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1977/127582.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1977/127582l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tomorrow's Plan"
+    ],
+    "en": "",
+    "ja": "明日の計画"
+  },
+  "start_date": "2020-05-25",
+  "end_date": "2020-05-25",
+  "synopsis": "Music video for Ashita no Keikaku by Uchikubi Gokumon Doukoukai.",
+  "popularity": 21337,
+  "num_list_users": 144,
+  "num_scoring_users": 70,
+  "nsfw": "white",
+  "created_at": "2022-09-01T12:44:29+00:00",
+  "updated_at": "2022-09-02T07:31:50+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 199,
+  "rating": "g",
+  "studios": []
+}

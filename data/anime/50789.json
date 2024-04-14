@@ -1,0 +1,50 @@
+{
+  "id": 50789,
+  "title": "Jantama Pong☆",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1080/124640.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1080/124640l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mahjong Soul Pon☆",
+    "ja": "じゃんたま PONG☆"
+  },
+  "start_date": "2022-04-09",
+  "end_date": "2022-06-18",
+  "synopsis": "Based on characters from the free to play online mahjong game; Mahjong Soul; Janatama Pong is chibi comedy following the lives and random strange occurences that befall the inhabitants of the mahjong soul shrine.",
+  "mean": 6.07,
+  "rank": 9267,
+  "popularity": 7007,
+  "num_list_users": 7949,
+  "num_scoring_users": 3548,
+  "nsfw": "gray",
+  "created_at": "2022-01-10T10:23:59+00:00",
+  "updated_at": "2023-02-13T18:15:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:50"
+  },
+  "source": "game",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2379,
+      "name": "Scooter Films"
+    }
+  ]
+}

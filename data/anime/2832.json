@@ -1,0 +1,116 @@
+{
+  "id": 2832,
+  "title": "Ani*Kuri15",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/62923.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/62923l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ani*Cre15",
+      "Ani Kuri 15",
+      "Ani-Kuri 15",
+      "Anikuri 15",
+      "Neko no Shuukai"
+    ],
+    "en": "",
+    "ja": "アニ＊クリ15"
+  },
+  "start_date": "2007-05-07",
+  "end_date": "2007-12-10",
+  "synopsis": "15 one-minute shorts created by various people from Japan's animation industry. The title of the collection, Ani*Kuri15, is abbreviated from the words \"anime\" and \"creators\".\n\nSeason One\nShinji Kimura (Studio 4°C; Art Director, Steamboy) - title: Attack of Higashimachi Ni Chome/Attack of Higashimachi 2nd Burough\nShōjirō Nishimi (Studio 4°C; Character Designer, Tekkonkinkreet) - Uchujin Raikou Hiroshi no Baai/Invasion from Space - Hiroshi's Case\nAkemi Hayashi (Gainax; Character Designer, Fruits Basket) - Namida no Mukou/From the Other Side of the Tears\nOsamu Kobayashi (Madhouse; Art/Mecha Desgin, Gungrave) - Sancha Blues/The Aromatic Tea Blues\nYasufumi Soejima (Gonzo; 3D/CG Director, Last Exile) - Hyotoko/Blaze Man\n\nSeason Two\nAtsushi Takeuchi (Production I.G; Mecha Design, Ghost in the Shell) - Wandaba Kiss\nMamoru Oshii (Production I.G; Director, Ghost in the Shell) - Project Mermaid\nKazuto Nakazawa (Studio 4°C; First Unit Director, Kill Bill Chapter 3: The Origin of O-Ren from Kill Bill: Volume 1) - \"yurururu\" ~Nichijou Hen~\nRanji Murata (Gonzo; Character Design, Blue Submarine No. 6) and Tatsuya Yabuta (Gonzo; Story Design, Final Fantasy VII) - Gyrosopter\nTobira Oda (Original Manga, Danchi Tomō) and Yasuyuki Shimizu (Key Animation, Naruto (movies)) (Studio 4°C) - Supaatsu Taisa/Colonel Sports\n\nSeason Three\nMichael Arias (Studio 4°C; Director, Tekkonkinkreet) - Okkakekko\nMakoto Shinkai (Comix Wave Film; Director, The Place Promised in Our Early Days) - Neko no Shuukai/A Gathering of Cats\nShōji Kawamori (Satelight; Director, The Super Dimension Fortress Macross: Do You Remember Love?) - Project Omega\nMahiro Maeda (Gonzo; Director, Gankutsuou: The Count of Monte Cristo) - Onmitsu Hime/Princess Onmitsu\nSatoshi Kon (Madhouse; Director, Paprika) - Ohayō/Good Morning",
+  "mean": 6.69,
+  "rank": 5776,
+  "popularity": 4526,
+  "num_list_users": 23413,
+  "num_scoring_users": 10979,
+  "nsfw": "white",
+  "created_at": "2007-07-21T09:22:25+00:00",
+  "updated_at": "2023-12-27T14:09:13+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    },
+    {
+      "id": 6,
+      "name": "Gainax"
+    },
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 11,
+      "name": "Madhouse"
+    },
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    },
+    {
+      "id": 41,
+      "name": "Satelight"
+    },
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
+}

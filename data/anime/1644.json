@@ -1,0 +1,57 @@
+{
+  "id": 1644,
+  "title": "Princess Rouge",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1405/112400.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1405/112400l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Legend of the Last Labyrinth",
+      "Princess Rouge: Legend of the Last Labyrinth"
+    ],
+    "en": "",
+    "ja": "プリンセス・ルージュ"
+  },
+  "start_date": "1997-09-25",
+  "end_date": "1998-06-10",
+  "synopsis": "Yusuke, an orphan, literally has Rouge, the amnesiac oldest daughter of the Underworld's deposed royal family, fall out of the sky into his lap. She is soon followed by her two younger sisters and also their family's enemies. Rouge must decide if she wants her memory to return, while Yusuke must deal with the upheavals in his life the Princesses have caused.\n\n(Source: ANN)",
+  "mean": 5.79,
+  "rank": 10509,
+  "popularity": 10658,
+  "num_list_users": 2403,
+  "num_scoring_users": 838,
+  "nsfw": "white",
+  "created_at": "2006-11-09T01:39:30+00:00",
+  "updated_at": "2022-02-01T20:51:18+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1702,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    },
+    {
+      "id": 69,
+      "name": "Front Line"
+    }
+  ]
+}

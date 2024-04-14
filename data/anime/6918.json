@@ -1,0 +1,54 @@
+{
+  "id": 6918,
+  "title": "Wolverine",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1939/121861.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1939/121861l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Wolverine",
+    "ja": "ウルヴァリン"
+  },
+  "start_date": "2011-01-07",
+  "end_date": "2011-03-25",
+  "synopsis": "Logan learns that his girlfriend, Mariko Yashida, who disappeared a year ago, has been taken to Tokyo by her father Shingen, who is the head of a Japanese crime syndicate and a supplier of AIM. He then decides to head to Japan to find her and take her back, no matter what.",
+  "mean": 6.01,
+  "rank": 9544,
+  "popularity": 4228,
+  "num_list_users": 27313,
+  "num_scoring_users": 13100,
+  "nsfw": "white",
+  "created_at": "2009-07-31T06:38:43+00:00",
+  "updated_at": "2023-10-07T20:54:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

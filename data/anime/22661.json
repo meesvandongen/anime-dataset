@@ -1,0 +1,54 @@
+{
+  "id": 22661,
+  "title": "One Piece: Cry Heart",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/60173.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/60173l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece: Banpresto's \"Cry Heart\" Short",
+      "Fuyujima ni Furu Sakura",
+      "Children's Dream",
+      "Ace no Saigo"
+    ],
+    "en": "",
+    "ja": "ワンピース Cry heart～冬島に降る桜～"
+  },
+  "start_date": "2014-01-19",
+  "end_date": "2015-04-22",
+  "synopsis": "Episode 1: Fuyujima ni Furu Sakura\n\nDiligent animators took Banpresto's \"One Piece Cry heart ~Fuyujima ni Furu Sakura~\" (One Piece Cry heart ~The Cherry Blossoms That Fall on Winter Island~) line of crane game prize figures and created a five-minute stop-motion short. The short recreates the famous \"Hiluluk's Cherry Blossoms\" scene from Eiichiro Oda's manga and anime One Piece.\n\n\nEpisode 2: Fuyujima ni Furu Sakura\n\nA stop-motion animated video for Banpresto's \"One Piece Cry heart ~children's dream~\" line of crane game prize figures. The short recreates the famous \"Oath of Brothers\" scene from Eiichiro Oda's manga and anime.\n\nEpisode 3: Ace no Saigo\n\n(Source: ANN)",
+  "mean": 6.46,
+  "rank": 7094,
+  "popularity": 6363,
+  "num_list_users": 10017,
+  "num_scoring_users": 3713,
+  "nsfw": "white",
+  "created_at": "2014-02-11T12:22:56+00:00",
+  "updated_at": "2022-04-01T20:56:48+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 320,
+  "rating": "pg_13",
+  "studios": []
+}

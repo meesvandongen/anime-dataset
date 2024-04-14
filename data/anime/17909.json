@@ -1,0 +1,72 @@
+{
+  "id": 17909,
+  "title": "Uchouten Kazoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/85433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/85433l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uchoten Kazoku"
+    ],
+    "en": "The Eccentric Family",
+    "ja": "有頂天家族"
+  },
+  "start_date": "2013-07-07",
+  "end_date": "2013-09-29",
+  "synopsis": "Kyoto has been populated by groups of tanuki and tengu for years, living alongside humans who are oblivious to the existence of these creatures. Yasaburou Shimogamo is the third son of an influential tanuki family who spends his carefree days taking care of an old tengu, observing humans through his ability to shapeshift, and dealing with the mysterious woman named Benten.\n\nBehind the peace and tranquility, however, is a painful memory from long ago as Yasaburou's father, head of the tanuki community, was killed and eaten by a group of humans known as the Friday Fellows. Uchouten Kazoku follows the trials and tribulations of the Shimogamo brothers as they struggle to avoid their own grisly demise while coming ever closer to unraveling the truth behind their father's death.\n\n[Written by MAL Rewrite]",
+  "mean": 7.83,
+  "rank": 927,
+  "popularity": 1397,
+  "num_list_users": 167741,
+  "num_scoring_users": 54082,
+  "nsfw": "white",
+  "created_at": "2013-03-21T02:44:08+00:00",
+  "updated_at": "2023-11-24T02:30:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

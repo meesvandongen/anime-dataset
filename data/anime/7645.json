@@ -1,0 +1,64 @@
+{
+  "id": 7645,
+  "title": "Heartcatch Precure!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/25915.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/25915l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Heartcatch Pretty Cure!"
+    ],
+    "en": "",
+    "ja": "ハートキャッチプリキュア!"
+  },
+  "start_date": "2010-02-07",
+  "end_date": "2011-01-30",
+  "synopsis": "Young flower enthusiast Tsubomi Hanasaki is often modest and quiet. But with her family moving to a new town, she aims to reinvent her image at her new school as someone more confident and outgoing. On moving day, she dreams of a mysterious tree in the sky guarded by a warrior named \"Cure Moonlight.\"\n\nTsubomi quickly learns that this was no ordinary dream when she encounters two mysterious fairies—Chypre and Coffret—who are being hunted down by a strange woman. When the woman summons a giant monster to attack the city, Tsubomi finds herself transforming into a warrior to fight the enemy! Taking on the alias \"Cure Blossom,\" Tsubomi learns that the woman is part of a villainous group that aims to turn the world into a lifeless desert, with her new duty being to stop it from happening. As Tsubomi continues to battle more monsters and uncover the secrets behind Cure Moonlight, will she find the confidence needed to overcome her timid nature?\n\n[Written by MAL Rewrite]",
+  "mean": 7.96,
+  "rank": 687,
+  "popularity": 3882,
+  "num_list_users": 32751,
+  "num_scoring_users": 12510,
+  "nsfw": "white",
+  "created_at": "2009-12-03T10:51:12+00:00",
+  "updated_at": "2023-01-08T06:00:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 49,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1450,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 50999,
+  "title": "Extreme Hearts",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1413/121836.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1413/121836l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Extreme Hearts（エクストリームハーツ）"
+  },
+  "start_date": "2022-07-10",
+  "end_date": "2022-09-25",
+  "synopsis": "Hiyori Hayama is an aspiring singer who moved to Tokyo to make her debut. She has always loved singing and hopes to stand on stage like her favorite artist. Unfortunately, the entertainment industry is not all fun and games, as she fails her auditions one after another and struggles to sell her songs.\n\nFinding herself still standing at the start line, Hiyori pursues her only opportunity to take the next step forward—partaking in Extreme Hearts. The popular event is a Hyper Sports tournament where participants compete in various sports using ability-enhancing gear for a chance to make their big break. Despite being athletic, however, Hiyori's lack of familiarity with Hyper Sports poses a problem for her. Fortunately, she befriends girls experienced in different sports, and they join the tournament alongside Hiyori, hoping to see her rise to the top.\n\nNow playing under Team RISE, Hiyori and her teammates learn about the unspoken rule of Extreme Hearts—all competitors must be entertainers or aspire to be one. For the members of Team RISE, facing the competition head-on is an inspiring endeavor that paves the way to discovering newfound interests and everlasting friendships.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.54,
+  "rank": 6628,
+  "popularity": 5958,
+  "num_list_users": 11763,
+  "num_scoring_users": 4111,
+  "nsfw": "white",
+  "created_at": "2022-02-10T16:09:31+00:00",
+  "updated_at": "2023-11-06T23:24:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1445,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 35,
+      "name": "Seven Arcs"
+    }
+  ]
+}

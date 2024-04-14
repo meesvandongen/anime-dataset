@@ -1,0 +1,66 @@
+{
+  "id": 41433,
+  "title": "Akudama Drive",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1468/109172l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Akudama Drive",
+    "ja": "アクダマドライブ"
+  },
+  "start_date": "2020-10-08",
+  "end_date": "2020-12-24",
+  "synopsis": "The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as \"Akudama.\" \n\nNo stranger to these individuals, Kansai police begin the countdown to the public execution of an infamous Akudama \"Cutthroat,\" guilty of killing 999 people. However, a mysterious message is sent to several elite Akudama, enlisting them to free Cutthroat for a substantial amount of money. An invisible hand seeks to gather these dangerous personas in one place, ensuring that the execution is well underway to becoming a full-blown bloodbath.\n\n[Written by MAL Rewrite]",
+  "mean": 7.59,
+  "rank": 1510,
+  "popularity": 523,
+  "num_list_users": 432132,
+  "num_scoring_users": 201683,
+  "nsfw": "white",
+  "created_at": "2020-03-13T09:37:13+00:00",
+  "updated_at": "2024-01-27T15:10:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1469,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

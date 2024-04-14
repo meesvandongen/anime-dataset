@@ -1,0 +1,50 @@
+{
+  "id": 2707,
+  "title": "Majime ni Fumajime Kaiketsu Zorori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/31033.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/31033l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "まじめにふまじめ　かいけつゾロリ"
+  },
+  "start_date": "2005-02-13",
+  "end_date": "2007-01-28",
+  "synopsis": "Season 1 focuses on the wizard Nelly and the mysterious Najo as Zorori, Ishishi, and Noshishi help them restore the magic forest in a magical country (episodes 1-50).\n\nSeason 2 focuses on Puppe's search for the Minus Eel (episodes 51-97).\n\n(Source: Wikipedia)",
+  "mean": 6.77,
+  "rank": 5369,
+  "popularity": 12264,
+  "num_list_users": 1397,
+  "num_scoring_users": 432,
+  "nsfw": "white",
+  "created_at": "2007-06-23T03:04:38+00:00",
+  "updated_at": "2022-12-25T09:20:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 97,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1460,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

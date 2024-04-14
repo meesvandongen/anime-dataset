@@ -1,0 +1,41 @@
+{
+  "id": 57732,
+  "title": "Moshi Boku ga",
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "もしぼくが"
+  },
+  "start_date": "1962-04",
+  "end_date": "1962-04",
+  "synopsis": "Music video for the song Moshi Boku ga by Teruo Hata that was featured on NHK's Minna no Uta program. It is considered to be lost media.",
+  "popularity": 26231,
+  "num_list_users": 55,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2024-01-04T06:18:46+00:00",
+  "updated_at": "2024-01-04T06:18:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1962,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

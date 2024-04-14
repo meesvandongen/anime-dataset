@@ -1,0 +1,62 @@
+{
+  "id": 718,
+  "title": "Yume de Aetara (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1949/127321.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1949/127321l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "If I See You in My Dreams",
+    "ja": "夢で逢えたら"
+  },
+  "start_date": "1998-11-30",
+  "end_date": "1998-12-24",
+  "synopsis": "Fuguno Matsuo has never had a girlfriend all his 24 years in life and what makes things worse is that a fortune teller predicted that he never will. However, when he laid his eye on Nagisa-sensei he fell in-love right away and began earnestly wooing her. Along comes Hamaoka, a co-worker who is smitten with Fuguno, and a love-triangle ensues.",
+  "mean": 6.34,
+  "rank": 7789,
+  "popularity": 7075,
+  "num_list_users": 7747,
+  "num_scoring_users": 2863,
+  "nsfw": "white",
+  "created_at": "2006-02-17T21:42:15+00:00",
+  "updated_at": "2023-12-02T21:31:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 460,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 5931,
+  "title": "Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/57437.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/57437l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Marina the Manga Artist Goes to Camelot"
+    ],
+    "en": "Camelot",
+    "ja": "愛と剣のキャメロット まんが家マリナ タイムスリップ事件"
+  },
+  "start_date": "1990-08-25",
+  "end_date": "1990-08-25",
+  "synopsis": "Self-described \"third-rate\" mangaka Ikeda Marina is attending a birthday party for a wealthy friend, when suddenly a time-traveling dragon whisks the entire party away to Camelot in sixth-century Britain. There, Marina must help would-be king Arthur fend off civil war by extracting the sword Excalibur from its stone during the forthcoming solar eclipse. But the evil Lady Dola intends to thwart this plan and seize Camelot for herself...\n\n(Source: Collectr's Blog)",
+  "mean": 5.25,
+  "rank": 12248,
+  "popularity": 13210,
+  "num_list_users": 1050,
+  "num_scoring_users": 319,
+  "nsfw": "white",
+  "created_at": "2009-01-18T04:00:43+00:00",
+  "updated_at": "2021-03-26T15:12:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "summer"
+  },
+  "average_episode_duration": 2935,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 56685,
+  "title": "Boku no Hero Academia: UA Heroes Battle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1094/138734.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1094/138734l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Hero Academia: UA Heroes Battle",
+    "ja": "僕のヒーローアカデミア 雄英ヒーローズ・バトル"
+  },
+  "start_date": "2023-10-20",
+  "end_date": "2023-10-20",
+  "synopsis": "The stage this time is the UA dormitory, taking place just before the Endeavor Internship arc.\n\nThird-year Mirio Togata appears suddenly as the first-year students in Class A are bored during their ban from going outside. He brings with him the card game \"Yuuei Heroes Battle,\" created by the support class. As each student picks cards and joins the fierce battle, there seems to be more to the game than meets the eye. At the end, who will emerge victorious?\n\n(Source: ANN)",
+  "mean": 6.67,
+  "rank": 5912,
+  "popularity": 5277,
+  "num_list_users": 15965,
+  "num_scoring_users": 6842,
+  "nsfw": "white",
+  "created_at": "2023-09-18T11:57:28+00:00",
+  "updated_at": "2024-01-28T15:24:59+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

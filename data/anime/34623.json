@@ -1,0 +1,60 @@
+{
+  "id": 34623,
+  "title": "Bakuon!! no Kobeya",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/83535.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/83535l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Bakuon!! Clubhouse"
+    ],
+    "en": "",
+    "ja": "ばくおん!!の小部屋"
+  },
+  "start_date": "2016-08-24",
+  "end_date": "2016-11-18",
+  "synopsis": "Short specials included with the Bakuon!! BD/DVD volumes.",
+  "mean": 6.17,
+  "rank": 8700,
+  "popularity": 9313,
+  "num_list_users": 3713,
+  "num_scoring_users": 1216,
+  "nsfw": "white",
+  "created_at": "2016-12-27T00:30:03+00:00",
+  "updated_at": "2021-12-14T07:32:58+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 95,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

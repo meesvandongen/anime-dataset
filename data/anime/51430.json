@@ -1,0 +1,40 @@
+{
+  "id": 51430,
+  "title": "Real Melancholy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1192/128229.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1192/128229l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "リアルメランコリー"
+  },
+  "start_date": "2021-05-22",
+  "end_date": "2021-05-22",
+  "synopsis": "An original track created as the second part of AZKi's \"Virtual Diva AZKi\" campaign, where she released songs regularly for eight consecutive months. This song embodies AZKi's desire to maintain her identity and continue to perform as herself, despite the troubles and worries that accompany working in the online space.\n\n(Source: Hololive Production)",
+  "mean": 6.1,
+  "popularity": 16640,
+  "num_list_users": 439,
+  "num_scoring_users": 234,
+  "nsfw": "white",
+  "created_at": "2022-03-26T17:19:05+00:00",
+  "updated_at": "2022-09-22T07:30:50+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 232,
+  "rating": "g",
+  "studios": []
+}

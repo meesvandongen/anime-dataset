@@ -1,0 +1,73 @@
+{
+  "id": 49877,
+  "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1745/128238.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1745/128238l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "TenSura",
+      "That Time I Got Reincarnated as a Slime Movie"
+    ],
+    "en": "That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond",
+    "ja": "劇場版 転生したらスライムだった件 紅蓮の絆編"
+  },
+  "start_date": "2022-11-25",
+  "end_date": "2022-11-25",
+  "synopsis": "In Raja, a small country located to the west of Tempest. Rimuru and his companions get involved in a long-running conspiracy that swirls around the mysterious power of the queen. Rimuru and his commander Benimaru also encounter another ogre survivor named Hiiro, a man that used to be the brother of Benimaru.\n\n(Source: ANN)",
+  "mean": 7.64,
+  "rank": 1360,
+  "popularity": 1214,
+  "num_list_users": 197203,
+  "num_scoring_users": 79329,
+  "nsfw": "white",
+  "created_at": "2021-09-21T15:38:39+00:00",
+  "updated_at": "2023-09-05T01:47:56+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 6515,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

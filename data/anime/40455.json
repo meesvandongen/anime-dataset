@@ -1,0 +1,56 @@
+{
+  "id": 40455,
+  "title": "Sylvanian Families: Mini Story - Clover",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1090/127712.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1090/127712l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sylvanian Families: Mini Episodes - Clover",
+      "Sylvanian Families: Mini Story 3rd Season"
+    ],
+    "en": "Calico Critters: Mini Episodes - Clover",
+    "ja": "シルバニアファミリー ミニストーリー クローバー"
+  },
+  "start_date": "2019-10-03",
+  "end_date": "2019-12-19",
+  "synopsis": "The story takes place in a village called Sylvania, and centers on Chocolate Usagi-chan, Kurumi Risu-kun, and their friends and families.\n\n(Source: ANN)",
+  "rank": 13673,
+  "popularity": 19899,
+  "num_list_users": 223,
+  "num_scoring_users": 50,
+  "nsfw": "white",
+  "created_at": "2019-09-28T10:59:36+00:00",
+  "updated_at": "2023-02-18T23:37:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "19:26"
+  },
+  "source": "other",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 474,
+      "name": "Shogakukan Music & Digital Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3811,
+  "title": "Hoshi no Oujisama Petit Prince",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/36539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/36539l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hoshi no Ojisama Petit Prince",
+      "The Little Prince",
+      "Le Petit Prince",
+      "The Prince of the Stars: Le Petit Prince"
+    ],
+    "en": "The Adventures of the Little Prince",
+    "ja": "星の王子さま　プチ・プランス"
+  },
+  "start_date": "1978-07-04",
+  "end_date": "1979-03-27",
+  "synopsis": "The Little Prince lives on Asteroid B612, a tiny rock floating in space. He spends his days cleaning out the three small volcanoes on the asteroid (which he also uses to cook his breakfast) weeding out the baobob trees that threaten to take over, and caring for his friend the Rose Girl. When he gets lonely for company he catches a comet in his butterfly net and flies off to Earth for all sorts of adventures.\n\n(Source: ANN) ",
+  "mean": 6.79,
+  "rank": 5286,
+  "popularity": 10822,
+  "num_list_users": 2281,
+  "num_scoring_users": 651,
+  "nsfw": "white",
+  "created_at": "2008-01-30T17:04:42+00:00",
+  "updated_at": "2022-04-17T10:55:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 35,
+  "start_season": {
+    "year": 1978,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 452,
+      "name": "Knack Productions"
+    }
+  ]
+}

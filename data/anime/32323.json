@@ -1,0 +1,61 @@
+{
+  "id": 32323,
+  "title": "Aishen Qiaokeli-ing...",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/78011.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/78011l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cupid's Chocolates",
+      "Aishen Qiaokeli Jinxingshi"
+    ],
+    "en": "Cupid's Chocolate",
+    "ja": "爱神巧克力ING..."
+  },
+  "start_date": "2015-12-02",
+  "end_date": "2016-03-16",
+  "synopsis": "Jiang Hao Yi, a normal, high school student who is extremely scared of getting into trouble suddenly becomes the Harem King of his school and gets confessed to by a bunch of beautiful girls! The worst thing is, Jiang hao doesn't know any of the girls who confessed to him! What on earth is happening?\n\n(Source: Overworld Scans)",
+  "mean": 6.8,
+  "rank": 5188,
+  "popularity": 2204,
+  "num_list_users": 90544,
+  "num_scoring_users": 30976,
+  "nsfw": "white",
+  "created_at": "2015-12-13T16:33:39+00:00",
+  "updated_at": "2022-04-18T04:03:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 15,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 840,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1350,
+      "name": "B.CMAY PICTURES"
+    }
+  ]
+}

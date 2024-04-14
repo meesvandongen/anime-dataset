@@ -1,0 +1,65 @@
+{
+  "id": 37965,
+  "title": "Kaze ga Tsuyoku Fuiteiru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1936/129119.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1936/129119l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaze ga Tsuyoku Fuite Iru",
+      "Kazetsuyo"
+    ],
+    "en": "Run with the Wind",
+    "ja": "風が強く吹いている"
+  },
+  "start_date": "2018-10-03",
+  "end_date": "2019-03-27",
+  "synopsis": "Former ace runner of Sendai Josei High School, Kakeru Kurahara is chased away from a convenience store for shoplifting. Shaking off his pursuer, he runs into Haiji Kiyose, another student from his university. Haiji is impressed by Kakeru's agility and persuades him to live in Chikusei-sou, the run-down apartment where Haiji resides along with eight other students. Having lost his entire apartment deposit at a mahjong parlor, Kakeru accepts the offer reluctantly.\n\nHowever, Haiji reveals a secret during Kakeru's welcoming party: the apartment is actually the dormitory of the Kansei University Track Club. He unveils his ultimate goal of participating in the Hakone Ekiden—one of the most prominent university marathon relay races in Japan. Unfortunately, all the residents apart from Haiji and Kakeru are complete running novices. Worse still, none of the inhabitants are even remotely interested in being involved with Haiji's ridiculous plan! With only months before the deadline, will the fourth-year student be able to convince them otherwise and realize his elusive dream of running in the Hakone Ekiden?\n\n[Written by MAL Rewrite]",
+  "mean": 8.38,
+  "rank": 195,
+  "popularity": 800,
+  "num_list_users": 300257,
+  "num_scoring_users": 137119,
+  "nsfw": "white",
+  "created_at": "2018-07-20T18:39:19+00:00",
+  "updated_at": "2024-01-20T14:04:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:29"
+  },
+  "source": "novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

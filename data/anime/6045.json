@@ -1,0 +1,64 @@
+{
+  "id": 6045,
+  "title": "Kimi ni Todoke",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1502/124384.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1502/124384l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Reaching You"
+    ],
+    "en": "Kimi ni Todoke: From Me to You",
+    "ja": "君に届け"
+  },
+  "start_date": "2009-10-07",
+  "end_date": "2010-03-31",
+  "synopsis": "Known for her semblance to the Sadako character of The Ring series, Sawako Kuronuma is given the nickname \"Sadako\" and misunderstood to be frightening and malicious like her fictional counterpart, despite having a timid and sweet nature. Longing to make friends and live a normal life, Sawako is naturally drawn to the cheerful and friendly Shouta Kazehaya, the most popular boy in her class. From their first meeting, Sawako has admired Kazehaya's ability to be the center of attention and aspires to be like him.\n\nWhen Kazehaya organizes a test of courage for the entire class and encourages her to attend, Sawako sees this as an opportunity to get along with her classmates, starting with Ayane Yano and Chizuru Yoshida. Through each new encounter and emotion she experiences, Sawako believes that meeting Kazehaya has changed her for the better. Little does Sawako know, her presence has also changed Kazehaya.\n\n[Written by MAL Rewrite]",
+  "mean": 8.01,
+  "rank": 616,
+  "popularity": 165,
+  "num_list_users": 945632,
+  "num_scoring_users": 460674,
+  "nsfw": "white",
+  "created_at": "2009-02-09T16:03:39+00:00",
+  "updated_at": "2022-12-20T07:17:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:59"
+  },
+  "source": "manga",
+  "average_episode_duration": 1364,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

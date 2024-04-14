@@ -1,0 +1,67 @@
+{
+  "id": 51791,
+  "title": "Xi Xing Ji: Chongsheng Pian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1790/124208.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1790/124208l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Xi Xing Ji 4th Season",
+      "Journey to the West",
+      "Westbound",
+      "Westbound Discipline"
+    ],
+    "en": "The Westward 4th Season",
+    "ja": "西行纪 第4季"
+  },
+  "start_date": "2022-06-01",
+  "end_date": "2022-08-03",
+  "synopsis": "The fourth season of Xi Xing Ji.",
+  "mean": 6.74,
+  "rank": 5511,
+  "popularity": 14048,
+  "num_list_users": 838,
+  "num_scoring_users": 240,
+  "nsfw": "white",
+  "created_at": "2022-05-10T01:56:19+00:00",
+  "updated_at": "2023-08-02T04:56:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1347,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2055,
+      "name": "BYMENT"
+    }
+  ]
+}

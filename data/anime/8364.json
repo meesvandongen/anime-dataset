@@ -1,0 +1,69 @@
+{
+  "id": 8364,
+  "title": "Crayon Shin-chan Movie 12: Arashi wo Yobu! Yuuhi no Kasukabe Boys",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/22028.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/22028l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Crayon Shin-chan: Arashi o Yobu! Yuhi no Kasukabe Boys",
+      "Crayon Shin-chan: The Storm Called: The Kasukabe Boys of the Evening Sun"
+    ],
+    "en": "",
+    "ja": "映画 クレヨンしんちゃん　嵐を呼ぶ！夕陽のカスカベボーイズ"
+  },
+  "start_date": "2004-04-17",
+  "end_date": "2004-04-17",
+  "synopsis": "A fantasy action set in a world of Western films. One day the Nohara family, Kasukabe Defense Forces (Shinnosuke Nohara and his mates: Kazama-kun, Nene-chan, Masao-kun and Bo-chan), and other people living in Kasukabe City get lost in a world within a Wild West film, which is a city ruled by an evil governor named Justice. The time progression has been stopped there because the film is unfinished but people are losing their memories about the past little by little. To go back to their former world, the Kasukabe Defense Forces tries to defeat Governor Justice and finish the film before everyone loses their memories. \n\n(Source: Manabu Tsuribe)",
+  "mean": 7.16,
+  "rank": 3489,
+  "popularity": 8911,
+  "num_list_users": 4299,
+  "num_scoring_users": 2156,
+  "nsfw": "white",
+  "created_at": "2010-03-11T06:49:08+00:00",
+  "updated_at": "2022-03-02T02:30:12+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 5820,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

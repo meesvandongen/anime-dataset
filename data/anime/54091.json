@@ -1,0 +1,56 @@
+{
+  "id": 54091,
+  "title": "Uchuu Nanchara Kotetsu-kun Planetarium",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1066/132352.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1066/132352l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "宇宙なんちゃら こてつくん　プラネタリウム"
+  },
+  "start_date": "2022-09-03",
+  "end_date": "2022-09-03",
+  "synopsis": "",
+  "rank": 14118,
+  "popularity": 22264,
+  "num_list_users": 109,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2023-01-04T15:53:41+00:00",
+  "updated_at": "2023-01-05T09:36:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": []
+}

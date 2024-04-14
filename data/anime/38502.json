@@ -1,0 +1,54 @@
+{
+  "id": 38502,
+  "title": "Mizu no Naka no Suisougaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1208/95527.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1208/95527l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Instant",
+      "QB House",
+      "Q.B. House",
+      "Nishinakajima Kinako"
+    ],
+    "en": "",
+    "ja": "水の中の吹奏楽"
+  },
+  "start_date": "2016-11-02",
+  "end_date": "2016-11-02",
+  "synopsis": "Official music videos for Nishinakajima Kinako's 1st album \"Mizu no Naka no Suisougaku.\" This includes the song Instant and QB House, the music videos aired on Space Shower TV.",
+  "mean": 4.97,
+  "popularity": 19587,
+  "num_list_users": 238,
+  "num_scoring_users": 112,
+  "nsfw": "white",
+  "created_at": "2018-10-11T04:43:39+00:00",
+  "updated_at": "2018-11-09T16:54:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 132,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1934,
+      "name": "Saigo no Shudan"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 11685,
+  "title": "Takarajima Memorial: Yuunagi to Yobareta Otoko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1028/136446.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1028/136446l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Treasure Island Memorial"
+    ],
+    "en": "",
+    "ja": "宝島メモリアル「夕凪と呼ばれた男」"
+  },
+  "start_date": "1992-12-21",
+  "end_date": "1992-12-21",
+  "synopsis": "A short story during Jim's adventure at sea. He encounters a man at a bar who told a tail about a one-legged man. Thinking it's Silver who the man is referring too, Jim later asked him for details. The man told Jim that, near the coast Maratoran, Silver left the ship they were on  went to the island on a small boat. Jim, who couldn't go at the time, left for Maratoran six years later. He met Silver's wife and son there.",
+  "mean": 6.49,
+  "rank": 6946,
+  "popularity": 11795,
+  "num_list_users": 1638,
+  "num_scoring_users": 720,
+  "nsfw": "white",
+  "created_at": "2011-09-23T09:44:32+00:00",
+  "updated_at": "2023-06-14T04:25:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 429,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

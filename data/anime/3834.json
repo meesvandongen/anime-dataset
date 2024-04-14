@@ -1,0 +1,52 @@
+{
+  "id": 3834,
+  "title": "Hoshi no Ko Chobin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/58851.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/58851l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chobin the Star Child"
+    ],
+    "en": "Starchild Chobin",
+    "ja": "星の子チョビン"
+  },
+  "start_date": "1974-04-05",
+  "end_date": "1974-09-27",
+  "synopsis": "Chobin is a cute little alien prince from another planet, who crash landed on earth. Looking for his mother, he has a magical bracelet that will help him on his quest.",
+  "mean": 6.56,
+  "rank": 6527,
+  "popularity": 13843,
+  "num_list_users": 883,
+  "num_scoring_users": 329,
+  "nsfw": "white",
+  "created_at": "2008-01-31T01:32:20+00:00",
+  "updated_at": "2020-01-23T14:57:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1974,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1260,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 435,
+      "name": "Studio Zero"
+    }
+  ]
+}

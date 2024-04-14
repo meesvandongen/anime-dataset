@@ -1,0 +1,66 @@
+{
+  "id": 1244,
+  "title": "Ankoku Shindenshou Takegami",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1837/97239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1837/97239l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Takegami: Guardian of Darkness",
+      "Ankoku Shinden Takegami",
+      "Ankokushin Denshou Bushin"
+    ],
+    "en": "Guardian of Darkness",
+    "ja": "暗黒神伝承 武神 (Takegami)"
+  },
+  "start_date": "1990-03-23",
+  "end_date": "1992-01-24",
+  "synopsis": "A trio of diabolical dragons stirs from eons of slumber deep within the earth. Charging to the surface, they launch a bloody rampage against humanity, feasting on the weak and gaining strength from their hapless victims' souls. It will take the power of ancient god Takegami, the Guardian of Darkness, to vanquish the evil serpent forces. But alas, the mortal body Takegami inhabits belongs to a host reluctant to fight.",
+  "mean": 5.55,
+  "rank": 11425,
+  "popularity": 10464,
+  "num_list_users": 2552,
+  "num_scoring_users": 780,
+  "nsfw": "white",
+  "created_at": "2006-08-04T19:15:39+00:00",
+  "updated_at": "2019-08-26T09:00:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 2538,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

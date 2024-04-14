@@ -1,0 +1,52 @@
+{
+  "id": 33106,
+  "title": "Love Live! μ's Final Love Live! Opening Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/88034.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/88034l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "μ's Final Love Live Special Anime"
+    ],
+    "en": "",
+    "ja": "ラブライブ! μ's Final LoveLive! オープニングアニメーション"
+  },
+  "start_date": "2016-03-31",
+  "end_date": "2016-03-31",
+  "synopsis": "An anime special shown prior to the μ's Final Love Live Live concert that took place in the Tokyo Dome on March 31st and April 1st 2016. In the episode, the members of μ's visit the school's new baby alpaca, and muse about their current selves.",
+  "mean": 7.33,
+  "rank": 2563,
+  "popularity": 7058,
+  "num_list_users": 7809,
+  "num_scoring_users": 2522,
+  "nsfw": "white",
+  "created_at": "2016-04-02T15:13:27+00:00",
+  "updated_at": "2022-02-28T22:06:47+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 327,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

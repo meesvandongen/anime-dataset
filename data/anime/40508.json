@@ -1,0 +1,51 @@
+{
+  "id": 40508,
+  "title": "Anata no Koe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1362/103434.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1362/103434l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Your Voice"
+    ],
+    "en": "",
+    "ja": "あなたの声"
+  },
+  "start_date": "2017-10-02",
+  "end_date": "2017-10-02",
+  "synopsis": "Music video for the song Anata no Koe by Mone Kamishiraishi, that was featured on NHK's Minna no Uta program. The song was released as a single two days later. The video was animated by Ryouzou Oominato.",
+  "mean": 6.24,
+  "popularity": 17148,
+  "num_list_users": 398,
+  "num_scoring_users": 188,
+  "nsfw": "white",
+  "created_at": "2019-10-07T20:41:32+00:00",
+  "updated_at": "2022-03-03T10:46:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 284,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 51573,
+  "title": "Heart Beat (2019)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1689/122589.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1689/122589l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Heartbeat"
+    ],
+    "en": "",
+    "ja": "ハートビート"
+  },
+  "start_date": "2019-07-19",
+  "end_date": "2019-07-19",
+  "synopsis": "Music video for the song Heart Beat by AZKi.",
+  "mean": 5.71,
+  "popularity": 16253,
+  "num_list_users": 475,
+  "num_scoring_users": 263,
+  "nsfw": "white",
+  "created_at": "2022-04-08T14:35:03+00:00",
+  "updated_at": "2022-07-06T19:53:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 261,
+  "rating": "pg_13",
+  "studios": []
+}

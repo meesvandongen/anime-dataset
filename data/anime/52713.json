@@ -1,0 +1,48 @@
+{
+  "id": 52713,
+  "title": "Daocao Ji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1220/126829.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1220/126829l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Paddy",
+    "ja": "稻草记"
+  },
+  "start_date": "2021-07-26",
+  "end_date": "2021-07-26",
+  "synopsis": "To find his favourite toy, a scarecrow goes on an adventure. Along the way, he encounters a lot of strange sights. He keeps asking the same question, but no answer comes. In the end, his toy comes back, but something inside him has changed.\n\n(Source: Goldenhorse)",
+  "rank": 19139,
+  "popularity": 21187,
+  "num_list_users": 151,
+  "num_scoring_users": 32,
+  "nsfw": "white",
+  "created_at": "2022-08-10T19:17:45+00:00",
+  "updated_at": "2022-08-12T11:38:29+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": []
+}

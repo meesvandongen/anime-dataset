@@ -1,0 +1,41 @@
+{
+  "id": 51397,
+  "title": "Bai Yue Er",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1730/121824.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1730/121824l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The White Moon",
+    "ja": "白月儿"
+  },
+  "start_date": "2021-11-17",
+  "end_date": "2021-11-17",
+  "synopsis": "",
+  "mean": 6.15,
+  "rank": 8794,
+  "popularity": 18960,
+  "num_list_users": 273,
+  "num_scoring_users": 107,
+  "nsfw": "white",
+  "created_at": "2022-03-25T03:49:58+00:00",
+  "updated_at": "2022-05-23T14:51:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 529,
+  "rating": "pg_13",
+  "studios": []
+}

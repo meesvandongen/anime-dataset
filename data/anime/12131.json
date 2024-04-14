@@ -1,0 +1,60 @@
+{
+  "id": 12131,
+  "title": "30-sai no Hoken Taiiku Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/55889.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/55889l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sanjuu-sai no Hoken Taiiku Specials"
+    ],
+    "en": "",
+    "ja": "30歳の保健体育"
+  },
+  "start_date": "2011-07-22",
+  "end_date": "2011-09-23",
+  "synopsis": "DVD specials.\n\nEpisode 1 -  朗読少年 (Lecture Shounen): \nMacaron's special training by Kuu-chan.\n\nEpisode 2 - 朗読兄弟 (Lecture brothers): \nMacaron's special training by his brother Daigorou.\n\nEpisode 3 - もう一つのエンディング~囚われの安藤なつ~ (Another ending ~ Natsu Andou's imprisonment):",
+  "mean": 6.11,
+  "rank": 9023,
+  "popularity": 7516,
+  "num_list_users": 6659,
+  "num_scoring_users": 2053,
+  "nsfw": "white",
+  "created_at": "2011-11-23T08:23:44+00:00",
+  "updated_at": "2023-09-16T07:26:08+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "book",
+  "average_episode_duration": 600,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 400,
+      "name": "Gathering"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 14537,
+  "title": "Cinnamon no Parade",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/39633.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/39633l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cinnamoroll's Parade",
+      "Cinnamoroll 10th Anniversary",
+      "Cinnamon's Parade"
+    ],
+    "en": "",
+    "ja": "シナモンのパレード"
+  },
+  "start_date": "2012-06-21",
+  "end_date": "2012-06-21",
+  "synopsis": "In the eight-minute video to celebrate Cinnamoroll's tenth anniversary, the white puppy takes a nap and falls into an abandoned amusement park where he meets the rabbit Chocolat. \n\n(Source: ANN)",
+  "mean": 5.77,
+  "rank": 10588,
+  "popularity": 14256,
+  "num_list_users": 784,
+  "num_scoring_users": 254,
+  "nsfw": "white",
+  "created_at": "2012-06-21T14:41:53+00:00",
+  "updated_at": "2022-01-31T11:48:33+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 500,
+  "rating": "g",
+  "studios": []
+}

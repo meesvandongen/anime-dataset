@@ -1,0 +1,57 @@
+{
+  "id": 31867,
+  "title": "Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1625/130771.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1625/130771l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The girls who aim for the wildlands OVA",
+      "Shoujo-tachi wa Kouya wo Mezasu OVA"
+    ],
+    "en": "",
+    "ja": "少女たちは荒野を目指す 言うべきものかしら"
+  },
+  "start_date": "2016-03-25",
+  "end_date": "2016-03-25",
+  "synopsis": "Buntarou doesn't know what he wants to do in the future. He does not have any kind of dream that he wants to pursue, so currently he just spends his days hanging around with his friends. One day, his classmate Sayuki asks him if he wants to help with development of a gal game. She says that she had become interested in his help after she read one his works intended for the drama club.\n\nBuntarou doesn't know anything about gal games, but Sayuki claims that she has the ability to make it a success. Can they make the game and will it be a success like she claims it will be? This is the story of youths taking a daring step into the unknown...\n\n(Source: Otaku Lair)",
+  "mean": 6.33,
+  "rank": 7863,
+  "popularity": 5713,
+  "num_list_users": 13157,
+  "num_scoring_users": 5169,
+  "nsfw": "white",
+  "created_at": "2015-10-17T14:19:35+00:00",
+  "updated_at": "2022-11-21T05:46:47+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1415,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 271,
+      "name": "Barnum Studio"
+    },
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

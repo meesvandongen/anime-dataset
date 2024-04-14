@@ -1,0 +1,72 @@
+{
+  "id": 27629,
+  "title": "Tantei Kageki Milky Holmes TD",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/66891.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/66891l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tantei Opera Milky Holmes TD"
+    ],
+    "en": "",
+    "ja": "探偵歌劇ミルキィホームズTD"
+  },
+  "start_date": "2015-01-03",
+  "end_date": "2015-03-28",
+  "synopsis": "There have been many cases of stolen songs happening among the idols in Yokohama District recently. Even super idol Marine Amagi's hit song \"Kiseki no Uta\" was taken away. At the request of Marine, the Milky Holmes team starts investigating the case.\n\n(Source: Crunchyroll)",
+  "mean": 6.45,
+  "rank": 7200,
+  "popularity": 6566,
+  "num_list_users": 9287,
+  "num_scoring_users": 3300,
+  "nsfw": "white",
+  "created_at": "2014-09-18T07:37:29+00:00",
+  "updated_at": "2023-12-10T23:35:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    },
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

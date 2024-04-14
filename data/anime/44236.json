@@ -1,0 +1,54 @@
+{
+  "id": 44236,
+  "title": "Senyoku no Sigrdrifa: Dai-909 Senjutsu Hime-tai Sentou Kiroku!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1256/110447.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1256/110447l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Senyoku no Sigrdrifa Recap",
+      "Senyoku no Sigrdrifa Episode 8.5",
+      "Warlords of Sigrdrifa Recap"
+    ],
+    "en": "",
+    "ja": "戦翼のシグルドリーヴァ 第909戦術姫隊戦闘記録！"
+  },
+  "start_date": "2020-11-28",
+  "end_date": "2020-11-28",
+  "synopsis": "Recap of the first eight episodes of Senyoku no Sigrdrifa.",
+  "mean": 5.89,
+  "rank": 10055,
+  "popularity": 10482,
+  "num_list_users": 2533,
+  "num_scoring_users": 864,
+  "nsfw": "white",
+  "created_at": "2020-11-30T20:40:35+00:00",
+  "updated_at": "2024-02-07T15:32:39+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1452,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

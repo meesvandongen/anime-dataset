@@ -1,0 +1,69 @@
+{
+  "id": 9204,
+  "title": "Omae Umasou da na",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/27167.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/27167l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Omae Umasou da na",
+      "You Are Umasou"
+    ],
+    "en": "Heart and Yummie",
+    "ja": "おまえうまそうだな"
+  },
+  "start_date": "2010-10-16",
+  "end_date": "2010-10-16",
+  "synopsis": "By a twist of fate, a herbivorous dinosaur finds a lost egg and brings it back to her nest. When the egg hatches, however, a carnivorous dinosaur emerges. Unable to abandon the child, she names him \"Heart\" and raises him in exile alongside her own child. As Heart comes of age, he struggles to eat the same food as his family and runs away in disgrace when he learns that he cannot live properly without meat. \n\nYears later, the now feared predator Heart encounters a situation similar to his past—he spots a dinosaur egg opposite his kind. As it emerges, Heart remarks that the newborn is delicious-looking. The newborn herbivore thinks that Heart is his father and takes delicious-looking, or \"Umasou,\" as his name. Unable to eat a newborn who loves him, Heart reluctantly decides to raise Umasou as his own. As he nurtures a forbidden child like his mother before him, Heart struggles to deal with an unforgiving world and the true natures of predator and prey.\n\n[Written by MAL Rewrite]",
+  "mean": 8.01,
+  "rank": 619,
+  "popularity": 4846,
+  "num_list_users": 20154,
+  "num_scoring_users": 8285,
+  "nsfw": "white",
+  "created_at": "2010-07-17T12:18:19+00:00",
+  "updated_at": "2023-09-20T07:25:37+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

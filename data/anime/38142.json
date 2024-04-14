@@ -1,0 +1,46 @@
+{
+  "id": 38142,
+  "title": "Out Of My Head",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1543/93368.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1543/93368l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "CHVRCHES - Out Of My Head ft. WEDNESDAY CAMPANELLA"
+    ],
+    "en": "",
+    "ja": "CHVRCHES「Out Of My Head feat. 水曜日のカンパネラ」"
+  },
+  "start_date": "2018-08-03",
+  "end_date": "2018-08-03",
+  "synopsis": "Scottish synth-pop group CHVRCHES has shared a vibrant new song and visual featuring the Japanese EDM group Wednesday Campanella.\n\n\"Out My Head\" is accompanied by an animated music video by famed anime creatives Junichi Yamamoto and Yoshiki Imazu. Lauren Mayberry, the lead vocalist of CHVRCHES, has said that Japan is a special country for the band.\n\n(Source: billboard.com)",
+  "mean": 5.69,
+  "popularity": 15252,
+  "num_list_users": 593,
+  "num_scoring_users": 325,
+  "nsfw": "white",
+  "created_at": "2018-08-07T10:37:26+00:00",
+  "updated_at": "2018-08-08T12:58:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 199,
+  "rating": "g",
+  "studios": []
+}

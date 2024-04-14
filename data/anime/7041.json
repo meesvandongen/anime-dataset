@@ -1,0 +1,56 @@
+{
+  "id": 7041,
+  "title": "Seto no Hanayome OVA Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/22430.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/22430l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seto no Hanayome OVA Omakes"
+    ],
+    "en": "Seto no Hanayome OVA Extras",
+    "ja": "瀬戸の花嫁 OVA Extras"
+  },
+  "start_date": "2008-11-03",
+  "end_date": "2009-01-05",
+  "synopsis": "30 seconds sketches/omakes from the OVAs.",
+  "mean": 7.36,
+  "rank": 2433,
+  "popularity": 5725,
+  "num_list_users": 13067,
+  "num_scoring_users": 5048,
+  "nsfw": "white",
+  "created_at": "2009-08-18T23:56:57+00:00",
+  "updated_at": "2022-03-31T11:30:42+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 40,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

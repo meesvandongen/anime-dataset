@@ -1,0 +1,88 @@
+{
+  "id": 33032,
+  "title": "Drifters: Special Edition",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1141/97770.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1141/97770l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Drifters OVA"
+    ],
+    "en": "",
+    "ja": "DRIFTERS Special edition"
+  },
+  "start_date": "2016-06-06",
+  "end_date": "2016-06-06",
+  "synopsis": "Bundled with the fifth manga volume.",
+  "mean": 7.64,
+  "rank": 1370,
+  "popularity": 3786,
+  "num_list_users": 34389,
+  "num_scoring_users": 16142,
+  "nsfw": "white",
+  "created_at": "2016-03-26T06:41:04+00:00",
+  "updated_at": "2023-09-02T21:14:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 2493,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    }
+  ]
+}

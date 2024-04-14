@@ -1,0 +1,58 @@
+{
+  "id": 33797,
+  "title": "ID-0",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/84421.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/84421l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "ID-0",
+    "ja": "ID-0"
+  },
+  "start_date": "2017-04-09",
+  "end_date": "2017-06-25",
+  "synopsis": "Transferring the human consciousness into a robotic \"I-Machine\" is now a reality thanks to the discovery of a valuable ore called \"orichalt.\" However, there is the possibility of the consciousness failing to return to the host's body, rendering them stuck inside their new metallic frame for good. Such is the situation of members of the Excavate Company, a reckless band of I-Machine miners led by the notorious Grayman that aims to gather orichalt for profit.  \n\nDuring a mining incursion, the group rescues Maya Mikuri, a student who was abandoned by her crew. Accused of stealing classified information on orichalt by her former colleagues, she joins the Excavate Company in hopes of clearing her name. They then begin an adventure that will change their lives—including that of Ido, an ace member of the group with no memory of his past. For the first time, Ido might have the chance to rediscover his true identity.\n\n[Written by MAL Rewrite]",
+  "mean": 6.51,
+  "rank": 6816,
+  "popularity": 4706,
+  "num_list_users": 21392,
+  "num_scoring_users": 9289,
+  "nsfw": "white",
+  "created_at": "2016-08-07T16:52:23+00:00",
+  "updated_at": "2022-04-04T03:17:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    }
+  ]
+}

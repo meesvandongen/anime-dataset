@@ -1,0 +1,42 @@
+{
+  "id": 24429,
+  "title": "Daze",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/68981.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/68981l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Deizu"
+    ],
+    "en": "",
+    "ja": "デイズ"
+  },
+  "start_date": "2014-05-29",
+  "end_date": "2014-05-29",
+  "synopsis": "daze  is the opening theme of Mekakucity Actors performed by MARiA from GARNiDELiA. The song was composed by Shizen no Teki-P (a.k.a. Jin) and a PV for the anime was illustrated and directed by Shidu. The full song was released on May 29, 2014 by Jin.\n\n(Source: Kagerou Project Wikia)",
+  "mean": 7.18,
+  "popularity": 7437,
+  "num_list_users": 6842,
+  "num_scoring_users": 3805,
+  "nsfw": "white",
+  "created_at": "2014-05-29T17:39:56+00:00",
+  "updated_at": "2023-11-13T16:09:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 232,
+  "rating": "g",
+  "studios": []
+}

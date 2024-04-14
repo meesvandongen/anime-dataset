@@ -1,0 +1,57 @@
+{
+  "id": 36486,
+  "title": "Lalala Lala-chan ★Uchuu ni Muchuu★",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1591/91149.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1591/91149l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ラララ ララちゃん ★ウチュ～にムチュ～★"
+  },
+  "start_date": "2017-10-06",
+  "end_date": "2017-12-22",
+  "synopsis": "An alien named Luckle from the planet Lucky Star crashes their spaceship in Mori Town. He has the ability to give \"lucky\" or \"unlucky\" outcomes to people via telekinesis. Lala-chan helps him get to safety but in doing so, the town (and her friends) thinks she's harboring a dangerous being using it to do crimes no thanks to Salmiakki. Unfortunately a darker power lurks to bring wickedness upon Mori Town by corrupting Salmiakki even further.",
+  "rank": 15923,
+  "popularity": 18150,
+  "num_list_users": 323,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2017-10-02T07:36:57+00:00",
+  "updated_at": "2018-04-03T11:41:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "other",
+    "start_time": "10:25"
+  },
+  "source": "other",
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 472,
+      "name": "Usagi Ou"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 25083,
+  "title": "Nanatsu no Umi no Tico Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/64143.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/64143l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai Meisaku Gekijou Kanketsu Ban: Nanatsu no Umi no Tico",
+      "World Masterpiece Theater Complete Edition: Tico & Friends"
+    ],
+    "en": "",
+    "ja": "世界名作劇場・完結版 七つの海のティコ"
+  },
+  "start_date": "2001-06",
+  "end_date": "2001-06",
+  "synopsis": "A summary of the Nanatsu no Umi no Tico full series aired as a TV specials. ",
+  "mean": 6.28,
+  "rank": 8134,
+  "popularity": 14758,
+  "num_list_users": 672,
+  "num_scoring_users": 139,
+  "nsfw": "white",
+  "created_at": "2014-07-03T13:17:45+00:00",
+  "updated_at": "2024-02-04T16:51:08+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 2700,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

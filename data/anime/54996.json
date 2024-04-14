@@ -1,0 +1,53 @@
+{
+  "id": 54996,
+  "title": "Akuyaku Mahou Shoujo Midoro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1837/135286.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1837/135286l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "悪役魔法少女ミドロ"
+  },
+  "start_date": "2018-05-12",
+  "end_date": "2018-05-12",
+  "synopsis": "A magical girl who has become a villain and an Aquapazza army that plans to conquer the stars!\nThey fight against the hero of justice, Majin Sentai Death Ranger, and gradually gain control in various ways.",
+  "rank": 18140,
+  "popularity": 21779,
+  "num_list_users": 124,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2023-04-14T10:00:17+00:00",
+  "updated_at": "2023-05-03T05:57:50+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 546,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1252,
+      "name": "Studio Binzo"
+    }
+  ]
+}

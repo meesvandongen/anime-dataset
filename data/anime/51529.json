@@ -1,0 +1,40 @@
+{
+  "id": 51529,
+  "title": "Kamisama no Idenshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1284/122281.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1284/122281l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "神様の遺伝子"
+  },
+  "start_date": "2021-10-18",
+  "end_date": "2021-10-18",
+  "synopsis": "Animated music video for the song Kamisama no Idenshi by Mafumafu.",
+  "mean": 6.17,
+  "popularity": 18560,
+  "num_list_users": 297,
+  "num_scoring_users": 166,
+  "nsfw": "white",
+  "created_at": "2022-04-02T23:51:28+00:00",
+  "updated_at": "2022-04-03T14:56:48+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 293,
+  "rating": "pg_13",
+  "studios": []
+}

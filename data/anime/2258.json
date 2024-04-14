@@ -1,0 +1,60 @@
+{
+  "id": 2258,
+  "title": "Choro Q Dagram",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/2493.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/2493l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Choro Q Dougram"
+    ],
+    "en": "",
+    "ja": "チョロＱダグラム"
+  },
+  "start_date": "1983-07-09",
+  "end_date": "1983-07-09",
+  "synopsis": "Malcontents on the Deloyer colony agitate for the independence of their world from the Earth Federation. In an unexpected coup, the elected Governor declares martial law and sets himself up as absolute dictator. With the approval of the Federation, he rules the planet with an iron fist. In reaction, a ragtag group (including the governor's estranged son) rises in open rebellion, using a powerful prototype Combat Armor: the Dougram. Their goal is the end of the dictatorship and total independence from the Federation's influence.\n\nThe story follows the action of the guerilla freedom fighters known as \"The Fang of the Sun.\" The war is fought across the planet Deloyer as the Federation vigorously pursues the rebels.\n\n(Source: AniDB)",
+  "mean": 5.35,
+  "rank": 12024,
+  "popularity": 12949,
+  "num_list_users": 1134,
+  "num_scoring_users": 407,
+  "nsfw": "white",
+  "created_at": "2007-04-10T20:47:09+00:00",
+  "updated_at": "2022-10-12T07:22:00+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 480,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 33729,
+  "title": "Chain Chronicle: Haecceitas no Hikari Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/83105.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/83105l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Chain Chronicle: The Light of Haecceitas Part 2",
+    "ja": "チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第２章"
+  },
+  "start_date": "2017-01-14",
+  "end_date": "2017-01-14",
+  "synopsis": "Set in the land of Yuguto, the people thought that the land they live is the size of the world, but it’s actually divided into several areas, each with a respective king. Even though there were small wars among areas, the kings had roundtable meetings to maintain peace and balance. It was until a dark group of dark monsters appeared...\n\n(Source: MAL News)",
+  "mean": 6.98,
+  "rank": 4363,
+  "popularity": 5211,
+  "num_list_users": 16617,
+  "num_scoring_users": 5324,
+  "nsfw": "white",
+  "created_at": "2016-07-26T07:16:56+00:00",
+  "updated_at": "2022-12-13T12:45:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 5370,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    },
+    {
+      "id": 894,
+      "name": "Graphinica"
+    }
+  ]
+}

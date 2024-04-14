@@ -1,0 +1,58 @@
+{
+  "id": 8132,
+  "title": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/20218.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/20218l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cho Denei-ban SD Gundam Sangokuden Brave Battle Warriors",
+      "SD Gundam Sangoku Den Brave Battle Warriors",
+      "BB Senshi"
+    ],
+    "en": "",
+    "ja": "超電影版SDガンダム三国伝 Brave Battle Warriors"
+  },
+  "start_date": "2010-02-27",
+  "end_date": "2010-02-27",
+  "synopsis": "A Romance of the Three Kingdoms retelling using SD Gundams.",
+  "mean": 5.86,
+  "rank": 10202,
+  "popularity": 10548,
+  "num_list_users": 2472,
+  "num_scoring_users": 727,
+  "nsfw": "white",
+  "created_at": "2010-02-10T10:39:53+00:00",
+  "updated_at": "2022-03-05T16:30:50+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 780,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 51989,
+  "title": "BanG Dream! Morfonication",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1411/124237.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1411/124237l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "BanG Dream! Morfonication",
+    "ja": "BanG Dream! Morfonication"
+  },
+  "start_date": "2022-07-28",
+  "end_date": "2022-07-29",
+  "synopsis": "Two special episodes featuring a violin rock band, Morfonica. ",
+  "mean": 7.62,
+  "rank": 1424,
+  "popularity": 7818,
+  "num_list_users": 6047,
+  "num_scoring_users": 2546,
+  "nsfw": "white",
+  "created_at": "2022-06-03T00:01:50+00:00",
+  "updated_at": "2022-10-20T12:10:05+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    }
+  ]
+}

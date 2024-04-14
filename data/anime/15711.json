@@ -1,0 +1,58 @@
+{
+  "id": 15711,
+  "title": "Bakuman.: Deraman.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/60857.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/60857l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "バクマン。 スペシャル「デラマン。」"
+  },
+  "start_date": "2012-09-29",
+  "end_date": "2013-01-02",
+  "synopsis": "Summary of the previous two seasons of Bakuman.",
+  "mean": 7.16,
+  "rank": 3481,
+  "popularity": 5122,
+  "num_list_users": 17404,
+  "num_scoring_users": 4972,
+  "nsfw": "white",
+  "created_at": "2012-09-29T22:30:01+00:00",
+  "updated_at": "2022-03-07T04:13:13+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

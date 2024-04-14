@@ -1,0 +1,52 @@
+{
+  "id": 31898,
+  "title": "Robocar Poli",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/76801.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/76801l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "로보카 폴리"
+  },
+  "start_date": "2011-02-28",
+  "end_date": "2011-07-12",
+  "synopsis": "In Brooms Town, every vehicle has a voice and a personality, and they work together with the human residents in a peaceful harmony. The residents are happy and carefree, but once in a while trouble rears its head. Brooms Town can rest easy, though, for at any sign of danger, the Rescue Team is there. Poli the police car, Roy the fire truck, and Amber the ambulance are joined by their friends as they patrol the streets of Brooms Town and help out its citizens.\n\nRobocar Poli is aimed at small children, and has a charming cast of characters composed of rescue vehicles that can transform into humanoid robots. Aimed at teaching children about safety rules, every episode has a moral to be learned. Poli and his friends are here to teach everything from road safety to the value of friendship and teamwork.",
+  "mean": 5.41,
+  "rank": 11842,
+  "popularity": 15179,
+  "num_list_users": 605,
+  "num_scoring_users": 239,
+  "nsfw": "white",
+  "created_at": "2015-10-21T13:49:46+00:00",
+  "updated_at": "2023-11-04T15:48:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": []
+}

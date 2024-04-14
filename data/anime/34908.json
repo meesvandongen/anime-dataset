@@ -1,0 +1,42 @@
+{
+  "id": 34908,
+  "title": "Calihara no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/84224.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/84224l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Karihara no Uta"
+    ],
+    "en": "",
+    "ja": "カリハラのうた"
+  },
+  "start_date": "2014-05-10",
+  "end_date": "2014-05-10",
+  "synopsis": "Music video by Miyo Satou for the song Calihara no Uta by Tomohiko Banse that is featured on his first album \"Calihara\".",
+  "mean": 5.43,
+  "popularity": 16183,
+  "num_list_users": 483,
+  "num_scoring_users": 252,
+  "nsfw": "white",
+  "created_at": "2017-02-11T03:30:21+00:00",
+  "updated_at": "2020-01-26T11:43:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 251,
+  "rating": "g",
+  "studios": []
+}

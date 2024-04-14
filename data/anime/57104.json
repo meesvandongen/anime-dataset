@@ -1,0 +1,44 @@
+{
+  "id": 57104,
+  "title": "Nyankamuchu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1869/139571.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1869/139571l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Cat Bites Mouse",
+    "ja": "にゃんかむちゅ～"
+  },
+  "start_date": "2022-04-17",
+  "end_date": "2022-04-18",
+  "synopsis": "",
+  "rank": 16939,
+  "popularity": 24018,
+  "num_list_users": 78,
+  "num_scoring_users": 17,
+  "nsfw": "gray",
+  "created_at": "2023-11-09T18:54:33+00:00",
+  "updated_at": "2023-11-10T09:53:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": []
+}

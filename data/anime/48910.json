@@ -1,0 +1,60 @@
+{
+  "id": 48910,
+  "title": "Shaonian Jinyiwei Xuzhang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1374/114823.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1374/114823l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Young Imperial Guards Prologue",
+      "The Young Imperial Guards Episode 0"
+    ],
+    "en": "",
+    "ja": "少年锦衣卫 序章"
+  },
+  "start_date": "2016-12-29",
+  "end_date": "2016-12-29",
+  "synopsis": "Prologue of Shaonian Jinyiwei.",
+  "rank": 17849,
+  "popularity": 20192,
+  "num_list_users": 205,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2021-05-08T20:28:43+00:00",
+  "updated_at": "2021-05-10T08:29:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 415,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1811,
+      "name": "Boyan Pictures"
+    }
+  ]
+}

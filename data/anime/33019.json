@@ -1,0 +1,56 @@
+{
+  "id": 33019,
+  "title": "Reikenzan: Eichi e no Shikaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1277/141050.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1277/141050l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Reikenzan: Hoshikuzu-tachi no Utage 2nd Season"
+    ],
+    "en": "",
+    "ja": "霊剣山 叡智への資格"
+  },
+  "start_date": "2017-01-08",
+  "end_date": "2017-03-26",
+  "synopsis": "After two years of studying within the Reiken clan, Ouriku and other inexperienced disciples are ordered to descend to the temporal world for further studies, and Ouriku embarks the journey back to his birthplace.\n\n(Source: ANN)",
+  "mean": 6.86,
+  "rank": 4949,
+  "popularity": 3293,
+  "num_list_users": 44802,
+  "num_scoring_users": 18584,
+  "nsfw": "white",
+  "created_at": "2016-03-25T13:45:07+00:00",
+  "updated_at": "2022-01-24T14:26:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

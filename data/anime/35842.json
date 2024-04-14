@@ -1,0 +1,78 @@
+{
+  "id": 35842,
+  "title": "FLCL Alternative",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1494/93701.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1494/93701l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "FLCL 3",
+      "Fooly Cooly Alternative",
+      "Furi Kuri Alternative"
+    ],
+    "en": "FLCL Alternative",
+    "ja": "フリクリ オルタナ"
+  },
+  "start_date": "2018-09-07",
+  "end_date": "2018-09-07",
+  "synopsis": "Life seems to drift by for Kana Koumoto and her friends in their small Japanese town. Every day is just like the last, and it feels like every new day will be the same. Kana goes to school, hangs out with her friends, and likes to paint her nails and listen to music, but it feels like nothing special is ever going to happen. \n\nAs a change of pace, Kana and her friends decide to design a bottle rocket and launch it into space, even though it might not get there at all. However, just when the rocket is completed, a robot suddenly crashes into and destroys it, shortly followed by a pink-haired woman claiming to be a \"Galactic Investigator.\" Kana's life quickly becomes more exciting than she ever imagined, dealing with new feelings, changing friends, and even boy troubles. It turns out life can go by in the blink of an eye, fast enough to even miss it, so what's with these weird robots that seem to show up at the worst times?!\n\n[Written by MAL Rewrite]",
+  "mean": 6.49,
+  "rank": 6966,
+  "popularity": 2107,
+  "num_list_users": 97310,
+  "num_scoring_users": 29007,
+  "nsfw": "white",
+  "created_at": "2017-07-03T01:34:15+00:00",
+  "updated_at": "2022-04-07T19:25:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 8100,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 1567,
+      "name": "Nut"
+    },
+    {
+      "id": 1692,
+      "name": "Revoroot"
+    }
+  ]
+}

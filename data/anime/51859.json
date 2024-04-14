@@ -1,0 +1,61 @@
+{
+  "id": 51859,
+  "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1941/142048.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1941/142048l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "刀剣乱舞 廻 -虚伝 燃ゆる本能寺-"
+  },
+  "start_date": "2024-04-02",
+  "synopsis": "Anime adaptation of the stage play Touken Ranbu: Kyoden Moyuru Honnouji.",
+  "mean": 5.77,
+  "rank": 10574,
+  "popularity": 6823,
+  "num_list_users": 8460,
+  "num_scoring_users": 390,
+  "nsfw": "white",
+  "created_at": "2022-05-19T22:55:05+00:00",
+  "updated_at": "2024-03-30T07:27:31+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "other",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1380,
+      "name": "domerica"
+    }
+  ]
+}

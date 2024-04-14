@@ -1,0 +1,54 @@
+{
+  "id": 10258,
+  "title": "Gokicha!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/77941.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/77941l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Cockroach Girls",
+    "ja": "ごきチャ!!"
+  },
+  "start_date": "2012-09-14",
+  "end_date": "2012-09-14",
+  "synopsis": "Gokicha is a small cockroach girl who has moved from Kanto to Hokkaido. She hopes the people in Hokkaido, who are less used to her kind, will become her friends. Despite her best intentions, however, she always seems to find herself on the bottom of someone's shoe or covered in insecticide. As Gokicha and her friend Chaba try to make it on the streets, it becomes apparent that the lives of cockroaches are full of peril.\n\n[Written by MAL Rewrite]",
+  "mean": 5.53,
+  "rank": 11511,
+  "popularity": 5436,
+  "num_list_users": 14808,
+  "num_scoring_users": 7138,
+  "nsfw": "white",
+  "created_at": "2011-01-26T02:23:26+00:00",
+  "updated_at": "2022-03-05T04:16:36+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 506,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 318,
+      "name": "WAO World"
+    },
+    {
+      "id": 1193,
+      "name": "MooGoo"
+    }
+  ]
+}

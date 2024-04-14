@@ -1,0 +1,51 @@
+{
+  "id": 21019,
+  "title": "Noonbory",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/55481.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/55481l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nunbory",
+      "Noonbory and the Super Seven"
+    ],
+    "en": "Noonbory & the Super 7",
+    "ja": "눈보리"
+  },
+  "start_date": "2009-09-19",
+  "end_date": "2009-12-12",
+  "synopsis": "Having not only a narrator that enhances the educational aspect of the show, it also stars \"super\" seven heroes based on the five physical senses in addition to the two mental senses (nonsense and common sense). Noonbory (the main character) is considered to have the ability for common sense. The settings include the four seasons that make up the Technicolor world of Toobalooba.\n\nThe cast of villains include Wangury and his band of Bullygury pirates, a lonely girl named Rosygury and an abominable snowman named Coldygury that can throw snowballs from his hat when he is angry at \"somebory\" or \"somegury.\"\n\n(Source: Wikipedia)",
+  "rank": 16908,
+  "popularity": 18691,
+  "num_list_users": 289,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2013-10-25T07:48:24+00:00",
+  "updated_at": "2022-11-01T21:22:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "average_episode_duration": 1680,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 228,
+      "name": "Daewon Media"
+    }
+  ]
+}

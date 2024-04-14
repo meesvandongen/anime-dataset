@@ -1,0 +1,39 @@
+{
+  "id": 54341,
+  "title": "Billimillion",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1716/133042.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1716/133042l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ビリミリオン"
+  },
+  "start_date": "2023-01-19",
+  "end_date": "2023-01-19",
+  "synopsis": "Music video for the song Billimillion by Yuuri.",
+  "popularity": 20657,
+  "num_list_users": 179,
+  "num_scoring_users": 101,
+  "nsfw": "white",
+  "created_at": "2023-01-27T16:46:20+00:00",
+  "updated_at": "2023-02-05T08:05:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 228,
+  "rating": "g",
+  "studios": []
+}

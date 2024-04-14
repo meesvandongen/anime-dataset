@@ -1,0 +1,78 @@
+{
+  "id": 41762,
+  "title": "Tenchi Souzou Design-bu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1339/113938.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1339/113938l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tenchisozo Design Bu",
+      "[Ten-De-Bu] What a strange animal!",
+      "Tendebu"
+    ],
+    "en": "Heaven's Design Team",
+    "ja": "天地創造デザイン部"
+  },
+  "start_date": "2021-01-07",
+  "end_date": "2021-03-25",
+  "synopsis": "In the beginning, God created the heavens and the earth. He also sought after a wide variety of animals to populate the planet. However, he felt that it was too tiresome to think of new ideas within his criteria. To address this problem, God appointed an organization—the Heaven's Design Team—to do the work instead!\n\nShimoda is a newly-hired angel who serves as the mediator between God and the design team. As he steps into his role, he witnesses his coworkers conceive interesting ideas for many unique life forms according to God's desires. From giraffes and snakes to birds, anteaters, and everything in between, the possibilities for different animal species are endless!\n\n[Written by MAL Rewrite]",
+  "mean": 7.16,
+  "rank": 3472,
+  "popularity": 2400,
+  "num_list_users": 78799,
+  "num_scoring_users": 32404,
+  "nsfw": "white",
+  "created_at": "2020-04-21T09:09:48+00:00",
+  "updated_at": "2023-02-12T02:51:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

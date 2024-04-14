@@ -1,0 +1,51 @@
+{
+  "id": 37943,
+  "title": "Cocomong 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1489/93097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1489/93097l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Reizou Kono Kuni no Cocomong 2",
+      "Cocomong 2011"
+    ],
+    "en": "Cocomong 2",
+    "ja": "코코몽2"
+  },
+  "start_date": "2011-03-04",
+  "end_date": "2011-08-26",
+  "synopsis": "The second season of Cocomong.",
+  "rank": 18981,
+  "popularity": 19674,
+  "num_list_users": 234,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2018-05-26T06:44:50+00:00",
+  "updated_at": "2018-05-26T07:47:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday"
+  },
+  "source": "original",
+  "average_episode_duration": 831,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1171,
+      "name": "Olive Studio"
+    }
+  ]
+}

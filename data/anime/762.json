@@ -1,0 +1,65 @@
+{
+  "id": 762,
+  "title": "Bleach: Memories in the Rain",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1022/129092.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1022/129092l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bleach: Jump Festa 2004",
+      "ブリーチ Memories in the Rain"
+    ],
+    "en": "Bleach: Memories in the Rain",
+    "ja": "BLEACH Memories in the Rain"
+  },
+  "start_date": "2004-12-18",
+  "end_date": "2004-12-18",
+  "synopsis": "Kurosaki Ichigo, the temporary Shinigami(Death God) for Kuchiki Rukia, discovers his mother's killer as one of the Hollows he has been hunting. He does battle with it in a prideful battle of revenge. This Special is actually a flashback of previous episodes in Bleach. After the ending credits, a short plays showing Shinigami and their Zanpakutos to \"Number One\" from the Bleach Soundtrack. \n",
+  "mean": 7.18,
+  "rank": 3397,
+  "popularity": 1734,
+  "num_list_users": 128126,
+  "num_scoring_users": 70622,
+  "nsfw": "white",
+  "created_at": "2006-02-18T14:29:14+00:00",
+  "updated_at": "2022-04-11T18:16:39+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1753,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

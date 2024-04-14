@@ -1,0 +1,46 @@
+{
+  "id": 56905,
+  "title": "Yuusha-hime Miria",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1884/139086.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1884/139086l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuusha Hime Milia"
+    ],
+    "en": "",
+    "ja": "勇者姫ミリア"
+  },
+  "start_date": "2023-12-22",
+  "synopsis": "",
+  "mean": 5.6,
+  "popularity": 12098,
+  "num_list_users": 1485,
+  "num_scoring_users": 397,
+  "nsfw": "gray",
+  "created_at": "2023-10-14T00:50:42+00:00",
+  "updated_at": "2023-10-14T09:17:51+00:00",
+  "media_type": "ova",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1200,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 767,
+      "name": "Majin"
+    }
+  ]
+}

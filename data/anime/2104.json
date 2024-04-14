@@ -1,0 +1,80 @@
+{
+  "id": 2104,
+  "title": "Seto no Hanayome",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/58383.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/58383l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Inland Sea Bride"
+    ],
+    "en": "My Bride is a Mermaid",
+    "ja": "瀬戸の花嫁"
+  },
+  "start_date": "2007-04-02",
+  "end_date": "2007-10-01",
+  "synopsis": "During his summer vacation, middle school student Nagasumi Michishio travels to the Seto Inland Sea. One day, while swimming at Mio Sun Beach, his leg suddenly cramps. No one is close enough to notice his desperate screams for help, and so he sinks into the ocean, where he is left to drown alone. Just as he loses consciousness, however, a mermaid appears and saves his life.\n\nThat night, Nagasumi is visited by his savior, a girl who introduces herself as Sun Seto—a mermaid from a yakuza family. As it turns out, under mermaid law, a mermaid whose identity is revealed to a human must be punished by execution. To avoid this harrowing outcome, the Seto family propose a solution: Nagasumi must marry Sun or die at the hands of Gouzaburou, Sun's father and boss of the Seto clan. Faced with no other option, Nagasumi takes her hand in marriage.\n\nNow, the newlyweds face the difficult task of keeping their relationship secret. Between Gouzaburou's unending attempts on Nagasumi's life and the eccentric antics of a slew of antagonists, a genuine and innocent love blossoms between the pair as they adapt to their new life. \n\n[Written by MAL Rewrite]",
+  "mean": 7.66,
+  "rank": 1321,
+  "popularity": 727,
+  "num_list_users": 328157,
+  "num_scoring_users": 144838,
+  "nsfw": "white",
+  "created_at": "2007-03-10T19:24:31+00:00",
+  "updated_at": "2024-03-08T06:12:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "02:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    },
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

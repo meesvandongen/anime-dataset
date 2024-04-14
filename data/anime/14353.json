@@ -1,0 +1,70 @@
+{
+  "id": 14353,
+  "title": "Death Billiards",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/48721.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/48721l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2012 Young Animator Training Project",
+      "Anime Mirai 2012"
+    ],
+    "en": "Death Billiards",
+    "ja": "デス・ビリヤード"
+  },
+  "start_date": "2013-03-02",
+  "end_date": "2013-03-02",
+  "synopsis": "Two men have just arrived at a location known as Quindecim and are unable to remember how they got there. They are immediately greeted by a young woman who escorts them to a small bar, where a bartender awaits them. They are told that they will have to participate in a game, randomly chosen by roulette, and will be unable to leave until its completion; if they refuse, the consequences will be dire. In addition to the rules of the game, the two men are told to play as if their lives are at stake.\n \nThe game that has been chosen is billiards. But there's more to it than just pocketing pool balls, as the two are about to find out the outcome could mean life or death.\n\n[Written by MAL Rewrite]",
+  "mean": 7.88,
+  "rank": 819,
+  "popularity": 1004,
+  "num_list_users": 239430,
+  "num_scoring_users": 137283,
+  "nsfw": "white",
+  "created_at": "2012-06-06T21:13:18+00:00",
+  "updated_at": "2022-04-17T09:29:40+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

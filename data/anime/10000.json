@@ -1,0 +1,53 @@
+{
+  "id": 10000,
+  "title": "Esper Mami Special: My Angel Mami-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/27652.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/27652l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "エスパー魔美スペシャル マイエンジェル魔美ちゃん"
+  },
+  "start_date": "1988-12-27",
+  "end_date": "1988-12-27",
+  "synopsis": "An end-of-year special, aired between episodes 84 and 85.",
+  "mean": 6.2,
+  "rank": 8559,
+  "popularity": 15644,
+  "num_list_users": 539,
+  "num_scoring_users": 127,
+  "nsfw": "white",
+  "created_at": "2010-12-11T12:47:15+00:00",
+  "updated_at": "2020-07-22T08:59:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "fall"
+  },
+  "average_episode_duration": 1434,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

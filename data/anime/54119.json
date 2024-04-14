@@ -1,0 +1,45 @@
+{
+  "id": 54119,
+  "title": "Fighting 32nd Olympic",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1357/132540.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1357/132540l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "fighting 32th olympic"
+  },
+  "start_date": "2022-02-15",
+  "end_date": "2022-02-15",
+  "synopsis": "An Olympic Opening AD made by SteamWorks Studio using paper-cut animation. This animation used 45 kinds of different paper and more than 600 pieces of props.\n\n(Source: YouTube)",
+  "rank": 19542,
+  "popularity": 20773,
+  "num_list_users": 173,
+  "num_scoring_users": 68,
+  "nsfw": "white",
+  "created_at": "2023-01-06T23:02:25+00:00",
+  "updated_at": "2023-01-09T15:37:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 79,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2682,
+      "name": "Steamworks"
+    }
+  ]
+}

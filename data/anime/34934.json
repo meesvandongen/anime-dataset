@@ -1,0 +1,62 @@
+{
+  "id": 34934,
+  "title": "Koi to Uso",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/86663.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/86663l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Love and Lies",
+    "ja": "恋と嘘"
+  },
+  "start_date": "2017-07-04",
+  "end_date": "2017-09-19",
+  "synopsis": "In a futuristic society, Japan has implemented a complex system referred to as \"The Red Threads of Science\" to encourage successful marriages and combat increasingly low birthrates. Based on a compatibility calculation, young people at the age of 16 are assigned marriage partners by the government, with severe repercussions awaiting those who disobey the arrangement. For Yukari Nejima, a teen that considers himself average in every way, this system might be his best shot at living a fulfilling life.\n\nHowever, spurred by his infatuation for his classmate and long-time crush, Misaki Takasaki, Yukari defies the system and confesses his love. After some initial reluctance, Misaki reciprocates his feelings in a moment of passion. Unfortunately, before the two can further their relationship, Yukari receives his marriage notice. He is then thrown into a confusing web of love and lies when his less-than-thrilled assigned partner, Ririna Sanada, becomes fascinated with his illicit romance.\n\n[Written by MAL Rewrite]",
+  "mean": 6.49,
+  "rank": 6920,
+  "popularity": 550,
+  "num_list_users": 417732,
+  "num_scoring_users": 198130,
+  "nsfw": "white",
+  "created_at": "2017-02-17T07:34:51+00:00",
+  "updated_at": "2023-04-12T10:31:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

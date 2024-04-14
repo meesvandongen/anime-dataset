@@ -1,0 +1,40 @@
+{
+  "id": 51248,
+  "title": "Saseum Kkoch",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1085/121435.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1085/121435l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Deer Flower",
+    "ja": "사슴꽃"
+  },
+  "start_date": "2016-08-18",
+  "end_date": "2016-08-18",
+  "synopsis": "In the summer of 1992, Dujung, an elementary student, goes to a farm in the suburbs with his parents. While his parents believe the expensive and rare specialty from the farm will strengthen their son’s body, Dujung suffers side effects.\n\n(Source: Vimeo)",
+  "rank": 17743,
+  "popularity": 21444,
+  "num_list_users": 139,
+  "num_scoring_users": 56,
+  "nsfw": "white",
+  "created_at": "2022-03-12T20:28:45+00:00",
+  "updated_at": "2022-04-01T16:38:49+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 474,
+  "rating": "pg_13",
+  "studios": []
+}

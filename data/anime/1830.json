@@ -1,0 +1,64 @@
+{
+  "id": 1830,
+  "title": "Utawarerumono Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1319/99303.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1319/99303l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The One Being Sung Specials",
+      "Utawarerumono Q&A",
+      "Utawarerumono Questions Answered",
+      "Utawarerumono: Naze Nani Utawarerumono",
+      "Utawarerumono Omake"
+    ],
+    "en": "",
+    "ja": "うたわれるもの"
+  },
+  "start_date": "2006-08-23",
+  "end_date": "2007-02-21",
+  "synopsis": "DVD specials of comedic events that occurred during the story of Utawarerumono. The specials are included in the DVD Box special disc.",
+  "mean": 7.55,
+  "rank": 1670,
+  "popularity": 5304,
+  "num_list_users": 15809,
+  "num_scoring_users": 8062,
+  "nsfw": "white",
+  "created_at": "2007-01-08T19:49:25+00:00",
+  "updated_at": "2022-04-16T09:12:25+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 719,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

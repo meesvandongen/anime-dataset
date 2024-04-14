@@ -1,0 +1,39 @@
+{
+  "id": 55170,
+  "title": "Don't Call Me (ESAI Remix)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1267/139906.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1267/139906l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Don't Call Me (ESAI Remix)"
+  },
+  "start_date": "2021-03-27",
+  "end_date": "2021-03-27",
+  "synopsis": "Music video for SHINee's Don't Call Me (ESAI Remix).",
+  "popularity": 26489,
+  "num_list_users": 47,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2023-04-29T19:38:39+00:00",
+  "updated_at": "2024-02-24T12:52:43+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 189,
+  "rating": "pg_13",
+  "studios": []
+}

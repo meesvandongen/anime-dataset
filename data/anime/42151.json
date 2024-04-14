@@ -1,0 +1,53 @@
+{
+  "id": 42151,
+  "title": "Qiang Shen Ji: Xuezu Mishi Pian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1898/108205.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1898/108205l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Age of Gunslingers 3",
+      "Qiang Shen Ji 3rd Season"
+    ],
+    "en": "",
+    "ja": "枪神记 血族秘史篇"
+  },
+  "start_date": "2019-12-15",
+  "end_date": "2020-02-23",
+  "synopsis": "Third season of Qiang Shen Ji.",
+  "mean": 6.44,
+  "rank": 7263,
+  "popularity": 15968,
+  "num_list_users": 506,
+  "num_scoring_users": 120,
+  "nsfw": "white",
+  "created_at": "2020-06-03T15:21:58+00:00",
+  "updated_at": "2020-12-28T01:22:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1230,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2064,
+      "name": "Mokai Technology"
+    }
+  ]
+}

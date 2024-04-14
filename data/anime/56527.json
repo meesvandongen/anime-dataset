@@ -1,0 +1,43 @@
+{
+  "id": 56527,
+  "title": "Binggrae CM",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1319/138222.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1319/138222l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "빙그레 메이커를 위하여"
+  },
+  "start_date": "2020-08-24",
+  "end_date": "2020-08-24",
+  "synopsis": "Promotional video for the Binggrae confectionery company.",
+  "popularity": 22446,
+  "num_list_users": 103,
+  "num_scoring_users": 36,
+  "nsfw": "white",
+  "created_at": "2023-09-02T16:47:49+00:00",
+  "updated_at": "2023-12-26T22:05:34+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": []
+}

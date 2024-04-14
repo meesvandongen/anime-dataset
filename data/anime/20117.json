@@ -1,0 +1,48 @@
+{
+  "id": 20117,
+  "title": "Kotowaza House",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/53601.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/53601l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ことわざハウス"
+  },
+  "start_date": "1987-04-04",
+  "end_date": "1994-09-28",
+  "synopsis": "A public service proverb-of-the-week anime.\n\nPeter the salary man lives a very unhealthy lifestyle, starving then bingeing until he feels seek, or slobbing around the house until badgered into taking up exercise, during which he invariably pulls a muscle.\n\n(Source: ANN)",
+  "mean": 5.64,
+  "rank": 11127,
+  "popularity": 15046,
+  "num_list_users": 622,
+  "num_scoring_users": 185,
+  "nsfw": "white",
+  "created_at": "2013-08-14T15:48:49+00:00",
+  "updated_at": "2020-03-05T18:43:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 773,
+  "start_season": {
+    "year": 1987,
+    "season": "spring"
+  },
+  "average_episode_duration": 300,
+  "studios": [
+    {
+      "id": 191,
+      "name": "Eiken"
+    }
+  ]
+}

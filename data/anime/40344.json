@@ -1,0 +1,42 @@
+{
+  "id": 40344,
+  "title": "Baumkuchen End",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1762/102855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1762/102855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eve"
+    ],
+    "en": "Baumkuchen End",
+    "ja": "Baumkuchen End"
+  },
+  "start_date": "2019-08-29",
+  "end_date": "2019-08-29",
+  "synopsis": "Official music video for Eve's song Baumkuchen End made in collaboration with Space Shower TV as it is the station's 30th anniversary. The music video will also be used in part as a Station ID.",
+  "mean": 6.91,
+  "popularity": 11356,
+  "num_list_users": 1919,
+  "num_scoring_users": 1175,
+  "nsfw": "white",
+  "created_at": "2019-09-01T06:01:50+00:00",
+  "updated_at": "2022-02-21T14:13:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 212,
+  "rating": "g",
+  "studios": []
+}

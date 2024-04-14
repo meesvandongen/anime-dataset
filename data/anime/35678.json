@@ -1,0 +1,61 @@
+{
+  "id": 35678,
+  "title": "Hibike! Euphonium Movie 3: Chikai no Finale",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1141/102223.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1141/102223l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Hibike! Euphonium: Chikai no Finale",
+      "Sound! Euphonium: Oath's Finale"
+    ],
+    "en": "Sound! Euphonium: Our Promise: A Brand New Day",
+    "ja": "劇場版 響け！ユーフォニアム～誓いのフィナーレ～"
+  },
+  "start_date": "2019-04-19",
+  "end_date": "2019-04-19",
+  "synopsis": "A new year signifies a new beginning, and that seems to be the case for Kitauji High School’s concert band. Following the graduation of the third-year seniors comes the entrance of the first-year juniors. The band members put in their utmost effort in practicing for their goal—to enter nationals.\n\nThe now second-year Kumiko Oumae, along with her friends, is met with the new and quirky batch of first-years, resulting in friction and conflict between the band members. However, as time passes, their inner feelings slowly unravel, but not every conflict is as easy to solve as the other. The trust and bonds between the band members will be challenged as they push forward for their regionals.\n\n[Written by MAL Rewrite] ",
+  "mean": 7.76,
+  "rank": 1069,
+  "popularity": 2620,
+  "num_list_users": 68119,
+  "num_scoring_users": 31121,
+  "nsfw": "white",
+  "created_at": "2017-06-04T09:04:36+00:00",
+  "updated_at": "2024-04-12T17:28:38+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 6060,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

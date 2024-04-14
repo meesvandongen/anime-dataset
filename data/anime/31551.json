@@ -1,0 +1,52 @@
+{
+  "id": 31551,
+  "title": "Yurumates 3D Plus: Natsuyasumi Maison du Wish Report",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/76066.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/76066l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yurumates 3D Plus OVA",
+      "Yurumates (2012)"
+    ],
+    "en": "",
+    "ja": "ゆるめいつ 3でぃPLUS ｢夏休みメゾンドウィッシュレポート｣"
+  },
+  "start_date": "2012-08-30",
+  "end_date": "2012-08-30",
+  "synopsis": "An original anime DVD bundled with a limited edition of saxyun's 4th Yurumates manga volume. The bundled DVD contained the opening animation sequence for the television anime series and its first episode, as well as two unaired episodes. The limited edition also included an exclusive booklet.\n\n(Source: ANN)",
+  "mean": 6.09,
+  "rank": 9156,
+  "popularity": 13031,
+  "num_list_users": 1103,
+  "num_scoring_users": 499,
+  "nsfw": "white",
+  "created_at": "2015-09-05T04:27:13+00:00",
+  "updated_at": "2022-11-14T09:11:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 187,
+  "rating": "pg_13",
+  "studios": []
+}

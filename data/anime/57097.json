@@ -1,0 +1,53 @@
+{
+  "id": 57097,
+  "title": "Wanneng Lian Ai Zahuo Dian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1223/139544.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1223/139544l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Universal Love Grocery",
+      "Wan Neng Lian Ai Za Huo Dian"
+    ],
+    "en": "Love Magic Grocery",
+    "ja": "万能恋爱杂货店"
+  },
+  "start_date": "2023-11-09",
+  "end_date": "2024-02-08",
+  "synopsis": "Shi Ye is a police inspector who has no such interests in things like love and romance. One day, Ye finds himself up against a crafty witch who offers peculiar solutions to love problems. Follow Shi Ye as he tries to solve the mystery of the Ultimate Love Bazaar and its peculiar owner.\n\n(Source: INKR)",
+  "mean": 7.37,
+  "rank": 2383,
+  "popularity": 14425,
+  "num_list_users": 748,
+  "num_scoring_users": 191,
+  "nsfw": "white",
+  "created_at": "2023-11-09T04:55:26+00:00",
+  "updated_at": "2024-02-08T10:31:42+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1054,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2251,
+      "name": "TthunDer Animation"
+    }
+  ]
+}

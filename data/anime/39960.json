@@ -1,0 +1,70 @@
+{
+  "id": 39960,
+  "title": "Yatogame-chan Kansatsu Nikki Nisatsume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1878/111514.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1878/111514l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yatogame-chan Kansatsu Nikki 2nd Season",
+      "Yatogame-chan Kansatsu Nikki Second Season",
+      "Yatogame-chan Kansatsu Nikki 2-satsume"
+    ],
+    "en": "Yatogame-chan Kansatsu Nikki 2",
+    "ja": "八十亀ちゃんかんさつにっき 2さつめ"
+  },
+  "start_date": "2020-01-05",
+  "end_date": "2020-03-22",
+  "synopsis": "Second season of Yatogame-chan Kansatsu Nikki.",
+  "mean": 6.36,
+  "rank": 7700,
+  "popularity": 4922,
+  "num_list_users": 19364,
+  "num_scoring_users": 8698,
+  "nsfw": "white",
+  "created_at": "2019-06-20T12:05:51+00:00",
+  "updated_at": "2022-02-28T09:26:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "21:54"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1195,
+      "name": "Creators in Pack"
+    },
+    {
+      "id": 1853,
+      "name": "Saetta"
+    }
+  ]
+}

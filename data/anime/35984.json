@@ -1,0 +1,64 @@
+{
+  "id": 35984,
+  "title": "Mahou Shoujo Lyrical Nanoha: Detonation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1084/93086.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1084/93086l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Magical Girl Lyrical Nanoha: Detonation"
+    ],
+    "en": "",
+    "ja": "魔法少女リリカルなのは Detonation"
+  },
+  "start_date": "2018-10-19",
+  "end_date": "2018-10-19",
+  "synopsis": "During a rash attempt to save her father and her dying home planet of Eltria, Kyrie Florian is betrayed by her childhood friend, Iris. Furthermore, the power Kyrie has gathered from Nanoha Takamachi and the other Earth protectors cannot be used to help her father.\n\nIris casts the despairing Kyrie aside, having acquired what she desired to exact revenge on Yuri Eberwein, a powerful being who lies dormant on Earth. Left to pick up the pieces, Nanoha and her allies must confront the troublesome Iris to uncover the truth and stop the conflict between her and Yuri.\n\nHowever, amidst the raging battles, a much more dangerous threat lingers in the shadows. No matter the obstacle, Nanoha remains diligent and does not hesitate to help those in need with her magic.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1646,
+  "popularity": 6617,
+  "num_list_users": 9142,
+  "num_scoring_users": 3196,
+  "nsfw": "white",
+  "created_at": "2017-07-22T02:56:59+00:00",
+  "updated_at": "2023-04-12T13:58:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 6660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1569,
+      "name": "Seven Arcs Pictures"
+    }
+  ]
+}

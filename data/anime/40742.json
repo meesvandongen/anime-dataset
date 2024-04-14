@@ -1,0 +1,45 @@
+{
+  "id": 40742,
+  "title": "Hakken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1034/104418.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1034/104418l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "発見"
+  },
+  "start_date": "2018-07-25",
+  "end_date": "2018-07-25",
+  "synopsis": "Music video directed by ONIONSKIN for the song Hakken by sora tob sakana. The song is featured on their single \"New Stranger\".",
+  "mean": 5.63,
+  "popularity": 19523,
+  "num_list_users": 242,
+  "num_scoring_users": 114,
+  "nsfw": "white",
+  "created_at": "2019-11-18T22:39:05+00:00",
+  "updated_at": "2019-11-18T22:39:05+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 233,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1717,
+      "name": "Onionskin"
+    }
+  ]
+}

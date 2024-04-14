@@ -1,0 +1,49 @@
+{
+  "id": 55905,
+  "title": "Asana Yuuna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1983/137030.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1983/137030l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "あさな ゆうな"
+  },
+  "start_date": "2009-08-01",
+  "end_date": "2009-08-01",
+  "synopsis": "Music video for the song Asana Yuuna by Minami Kizuki that was featured on NHK's Minna no Uta program.",
+  "popularity": 22380,
+  "num_list_users": 105,
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "created_at": "2023-07-09T04:58:22+00:00",
+  "updated_at": "2023-07-09T08:01:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

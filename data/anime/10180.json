@@ -1,0 +1,65 @@
+{
+  "id": 10180,
+  "title": "Otome Youkai Zakuro Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/28077.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/28077l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Otome Yokai Zakuro Picture Drama",
+      "Girl Demon Zakuro Picture Drama"
+    ],
+    "en": "",
+    "ja": "おとめ妖怪 ざくろ"
+  },
+  "start_date": "2010-11-24",
+  "end_date": "2011-01-26",
+  "synopsis": "Picture dramas included with the first and third limited edition DVD volumes.",
+  "mean": 6.3,
+  "rank": 8043,
+  "popularity": 7838,
+  "num_list_users": 5994,
+  "num_scoring_users": 1639,
+  "nsfw": "white",
+  "created_at": "2011-01-12T17:19:32+00:00",
+  "updated_at": "2021-11-21T03:13:11+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1040,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

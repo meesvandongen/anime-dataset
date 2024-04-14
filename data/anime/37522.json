@@ -1,0 +1,74 @@
+{
+  "id": 37522,
+  "title": "Pet",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1399/94794l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pet",
+    "ja": "ペット"
+  },
+  "start_date": "2020-01-06",
+  "end_date": "2020-03-30",
+  "synopsis": "Despite endless research, the human mind remains a mystery to this day. Unknown to the public, there exist special individuals who are able to dive deep into the minds of people and even manipulate their memories.\n\nGifted with this ability, Hiroki, Tsukasa, and Satoru are among those who use their power to commit crime under the orders of their leader, Katsuragi. The three step into the dangerous territory of the human mind in order to destroy their assigned targets while striving to keep their own minds and memories safe.\n\n[Written by MAL Rewrite]",
+  "mean": 6.44,
+  "rank": 7258,
+  "popularity": 2162,
+  "num_list_users": 93910,
+  "num_scoring_users": 29327,
+  "nsfw": "white",
+  "created_at": "2018-03-19T13:44:30+00:00",
+  "updated_at": "2024-02-15T23:02:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1435,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1393,
+      "name": "Geno Studio"
+    }
+  ]
+}

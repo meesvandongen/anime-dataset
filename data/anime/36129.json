@@ -1,0 +1,45 @@
+{
+  "id": 36129,
+  "title": "Oyoge! Taiyaki-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/87297.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/87297l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hirake! Ponkikki"
+    ],
+    "en": "",
+    "ja": "およげ!たいやきくん"
+  },
+  "start_date": "2008-03-05",
+  "end_date": "2008-03-05",
+  "synopsis": "A song originally used in the children's television program Hirake! Ponkikki. The popular CD was originally released in 1975. In 2008, it was released alongside an anime DVD with a music video.\n\nThe song starts by expressing how Taiyaki-kun and other taiyaki pancakes are fed up with being relentlessly cooked up on a hot plate day after day. In the song, Taiyaki-kun escapes to the sea, but ends up being caught and eaten by an angler.\n\n(Source: Pop Matters)",
+  "popularity": 20009,
+  "num_list_users": 216,
+  "num_scoring_users": 97,
+  "nsfw": "white",
+  "created_at": "2017-08-10T21:29:37+00:00",
+  "updated_at": "2017-10-15T05:24:57+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "source": "music",
+  "average_episode_duration": 246,
+  "rating": "g",
+  "studios": []
+}

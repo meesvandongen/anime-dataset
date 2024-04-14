@@ -1,0 +1,49 @@
+{
+  "id": 54727,
+  "title": "Rhapsody",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1766/139762.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1766/139762l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ラプソディ"
+  },
+  "start_date": "2023-11-20",
+  "end_date": "2023-11-20",
+  "synopsis": "",
+  "rank": 17509,
+  "popularity": 19507,
+  "num_list_users": 243,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2023-03-16T09:10:31+00:00",
+  "updated_at": "2023-11-20T19:03:29+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 894,
+      "name": "Graphinica"
+    },
+    {
+      "id": 951,
+      "name": "NAZ"
+    }
+  ]
+}

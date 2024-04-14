@@ -1,0 +1,54 @@
+{
+  "id": 33103,
+  "title": "Zekkyou Gakkyuu: Tensei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/79529.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/79529l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Scary Lessons: Hide-And-Seek Ogre",
+      "Zekkyou Gakkyuu: Kakurenbo Oni",
+      "Screaming Lessons: Hide-And-Seek Ogre",
+      "Ribon x Oha Suta Special"
+    ],
+    "en": "",
+    "ja": "絶叫学級 転生"
+  },
+  "start_date": "2016-04-26",
+  "end_date": "2016-05-31",
+  "synopsis": "A girl's classmate disappears during a game of hide-and-seek. When she goes out to look for him, she hides when she hears someone pursuing her. After a while, she peeks out to see if her pursuer has given up.\n\n(Source: ANN)",
+  "mean": 5.39,
+  "rank": 11901,
+  "popularity": 9040,
+  "num_list_users": 4081,
+  "num_scoring_users": 1661,
+  "nsfw": "white",
+  "created_at": "2016-04-02T07:32:10+00:00",
+  "updated_at": "2019-05-27T15:39:15+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 96,
+  "rating": "g",
+  "studios": []
+}

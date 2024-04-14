@@ -1,0 +1,49 @@
+{
+  "id": 49445,
+  "title": "Tora to Mike",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1718/117571.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1718/117571l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "トラとミケ"
+  },
+  "start_date": "2021-08-05",
+  "end_date": "2021-10-21",
+  "synopsis": "At dusk regular customers flock in the little Nagoya shop \"Tora and Mike\" to wash away with sake, a delicious array of food and resounding laughter the hardships of the day. A culinary journey into traditional Japanese home cooking.\n\n(Source: Japanese Books for Everyone)",
+  "rank": 13998,
+  "popularity": 18409,
+  "num_list_users": 307,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2021-07-16T03:14:15+00:00",
+  "updated_at": "2021-11-10T06:58:54+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 105,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 856,
+      "name": "Charaction"
+    }
+  ]
+}

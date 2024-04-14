@@ -1,0 +1,74 @@
+{
+  "id": 34019,
+  "title": "Tsugumomo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/84461.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/84461l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tsugumomo",
+    "ja": "つぐもも"
+  },
+  "start_date": "2017-04-02",
+  "end_date": "2017-06-18",
+  "synopsis": "In Japanese folklore, a \"tsukumogami\" is an object that has gained a soul, becoming alive and self-aware. There are two types of tsukumogami: the mature \"tsugumomo,\" who have developed through long years of harmony with their owners, and the aberrant \"amasogi,\" premature spirits that are only born to grant the destructive wishes of certain people.\n\nKazuya Kagami has never gone without his mother's obi after her death. Be it at home or school, he keeps it safe with him at all times. One day, he nearly loses his life when a wig amasogi attacks him. When all seems to be over, his treasured obi defends him, transforming into a beautiful girl. She introduces herself as Kiriha, a tsugumomo owned by Kazuya's mother. \n\nWith Kiriha's arrival, Kazuya enters a reality he has never seen before, a world with gods and tsukumogami.\n\n[Written by MAL Rewrite]",
+  "mean": 7.04,
+  "rank": 4088,
+  "popularity": 1196,
+  "num_list_users": 199870,
+  "num_scoring_users": 80724,
+  "nsfw": "white",
+  "created_at": "2016-09-09T08:55:47+00:00",
+  "updated_at": "2024-03-03T20:31:56+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1422,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1379,
+      "name": "Zero-G"
+    }
+  ]
+}

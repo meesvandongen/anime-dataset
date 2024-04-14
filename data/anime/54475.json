@@ -1,0 +1,48 @@
+{
+  "id": 54475,
+  "title": "Shark Ongaeshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1570/133380.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1570/133380l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "SHARK ONGAESHI~シャーク・恩返し~"
+  },
+  "start_date": "2021-11-23",
+  "end_date": "2021-11-23",
+  "synopsis": "",
+  "rank": 17873,
+  "popularity": 21050,
+  "num_list_users": 158,
+  "num_scoring_users": 62,
+  "nsfw": "white",
+  "created_at": "2023-02-15T06:47:55+00:00",
+  "updated_at": "2023-02-19T20:07:48+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 105,
+  "rating": "g",
+  "studios": []
+}

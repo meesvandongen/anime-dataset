@@ -1,0 +1,56 @@
+{
+  "id": 2731,
+  "title": "Shishunki Bishoujo Gattai Robo Z-Mind",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1005/117901.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1005/117901l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Battling Days of the \"Shitamachi\" Virgins"
+    ],
+    "en": "",
+    "ja": "思春期美少女合体ロボ ジーマイン"
+  },
+  "start_date": "1999-02-25",
+  "end_date": "1999-07-25",
+  "synopsis": "Old school is back! And girl power reigns supreme! Ayame, Sumire, Renge, and Satsuki are charged with the protection of the Earth from a powerful new enemy. But these girls may be in for more than they`ve bargained for!\n\nThey`ll have to not only master the experimental mobile armor: Z-Mind, hold down their part time jobs, all this while keeping their lives... normal! But will this be enough to stop the forces of evil from conquering the Earth?\n\n(Source: AniDB)",
+  "mean": 5.89,
+  "rank": 10058,
+  "popularity": 12811,
+  "num_list_users": 1175,
+  "num_scoring_users": 348,
+  "nsfw": "white",
+  "created_at": "2007-06-26T03:38:30+00:00",
+  "updated_at": "2019-05-23T03:22:13+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1999,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

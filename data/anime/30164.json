@@ -1,0 +1,46 @@
+{
+  "id": 30164,
+  "title": "Chiisana Konomi (1995)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/72197.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/72197l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "小さな木の実"
+  },
+  "start_date": "1995-10-02",
+  "end_date": "1995-10-02",
+  "synopsis": "The second animated Minna no Uta adaptation of the song Chiisana Konomi. This rendition was sung by Fumiko Kanbara and this 1995 version was the third release of the song as the original from 1971 was a live-action music video. ",
+  "mean": 5.31,
+  "popularity": 17685,
+  "num_list_users": 359,
+  "num_scoring_users": 174,
+  "nsfw": "white",
+  "created_at": "2015-02-22T14:39:33+00:00",
+  "updated_at": "2023-10-12T08:26:16+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 135,
+  "rating": "g",
+  "studios": []
+}

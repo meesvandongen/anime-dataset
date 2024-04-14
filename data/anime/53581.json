@@ -1,0 +1,40 @@
+{
+  "id": 53581,
+  "title": "In the Back Room",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1156/130896.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1156/130896l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "In the Back Room",
+    "ja": "インザバックルーム"
+  },
+  "start_date": "2022-11-09",
+  "end_date": "2022-11-09",
+  "synopsis": "A music video for the song In the Back Room by syudou that serves as fifth ending song for Chainsaw Man series.",
+  "mean": 6.7,
+  "popularity": 10466,
+  "num_list_users": 2550,
+  "num_scoring_users": 1488,
+  "nsfw": "white",
+  "created_at": "2022-11-09T13:42:52+00:00",
+  "updated_at": "2022-11-17T12:18:44+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 205,
+  "rating": "pg_13",
+  "studios": []
+}

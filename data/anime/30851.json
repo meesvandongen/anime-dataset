@@ -1,0 +1,60 @@
+{
+  "id": 30851,
+  "title": "Q Transformers: Saranaru Ninki Mono e no Michi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74246.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74246l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Q Transformers 2nd Season"
+    ],
+    "en": "",
+    "ja": "キュートランスフォーマー さらなる人気者への道"
+  },
+  "start_date": "2015-07-06",
+  "end_date": "2015-10-01",
+  "synopsis": "Second season of Q Transformers.",
+  "mean": 5.54,
+  "rank": 11485,
+  "popularity": 13887,
+  "num_list_users": 873,
+  "num_scoring_users": 212,
+  "nsfw": "white",
+  "created_at": "2015-05-29T22:06:40+00:00",
+  "updated_at": "2018-10-31T01:45:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:55"
+  },
+  "source": "other",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

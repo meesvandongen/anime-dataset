@@ -1,0 +1,58 @@
+{
+  "id": 49123,
+  "title": "BanG Dream! Garupa☆Pico Fever!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1724/117808.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1724/117808l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "BanG Dream! ガルパ☆ピコ ふぃーばー！"
+  },
+  "start_date": "2021-10-07",
+  "end_date": "2022-03-31",
+  "synopsis": "The third season of the mini series starring the girls of BanG Dream!",
+  "mean": 7.7,
+  "rank": 1223,
+  "popularity": 7844,
+  "num_list_users": 5989,
+  "num_scoring_users": 2794,
+  "nsfw": "white",
+  "created_at": "2021-06-06T16:40:25+00:00",
+  "updated_at": "2023-07-16T07:43:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 186,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    },
+    {
+      "id": 1396,
+      "name": "W-Toon Studio"
+    },
+    {
+      "id": 1673,
+      "name": "DMM.futureworks"
+    }
+  ]
+}

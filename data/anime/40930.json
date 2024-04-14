@@ -1,0 +1,68 @@
+{
+  "id": 40930,
+  "title": "Azur Lane: Bisoku Zenshin!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1137/113872.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1137/113872l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Azur Lane 4-koma: Slow Ahead!"
+    ],
+    "en": "Azur Lane: Slow Ahead!",
+    "ja": "アズールレーン びそくぜんしんっ!"
+  },
+  "start_date": "2021-01-12",
+  "end_date": "2021-03-30",
+  "synopsis": "In a seemingly peaceful time without looming threats of Sirens or war, shipgirls from different nations live together in harmony. Some girls, such as the destroyers Ayanami, Javelin, Laffey, and Z23, attend school. Others immerse themselves into various other activities, including sports, foraging, training, going to formal parties, or even vying for the commander's attention! But one thing is for certain: the girls will continue to deepen their friendship in the pleasant port of Azur Lane!\n\n[Written by MAL Rewrite]",
+  "mean": 7.01,
+  "rank": 4256,
+  "popularity": 3071,
+  "num_list_users": 51167,
+  "num_scoring_users": 20121,
+  "nsfw": "white",
+  "created_at": "2019-12-25T03:29:14+00:00",
+  "updated_at": "2023-11-23T08:07:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:00"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 510,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2134,
+      "name": "Studio CANDY BOX"
+    }
+  ]
+}

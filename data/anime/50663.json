@@ -1,0 +1,62 @@
+{
+  "id": 50663,
+  "title": "Poputepipikku 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1237/128067.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1237/128067l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pop Team Epic Season 2",
+    "ja": "ポプテピピック"
+  },
+  "start_date": "2022-10-02",
+  "end_date": "2022-12-11",
+  "synopsis": "High school girl duo Popuko and Pipimi are back and more unhinged than ever after their initial efforts to create a full-fledged anime production were met with a great reception. With no regard for their audience, they continue to live their reckless everyday lives consisting of comedy skits and parodies of epic proportions. No one is immune to the effects of their antics—including hapless live actor Shouta Aoi, who is on the run and stuck trying to be a hero in the wrong series.\n\n[Written by MAL Rewrite]",
+  "mean": 7.52,
+  "rank": 1808,
+  "popularity": 3343,
+  "num_list_users": 43732,
+  "num_scoring_users": 14886,
+  "nsfw": "white",
+  "created_at": "2021-12-25T17:40:01+00:00",
+  "updated_at": "2023-01-15T06:44:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 710,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 437,
+      "name": "Kamikaze Douga"
+    },
+    {
+      "id": 1045,
+      "name": "Space Neko Company"
+    }
+  ]
+}

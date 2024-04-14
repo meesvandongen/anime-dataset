@@ -1,0 +1,62 @@
+{
+  "id": 5258,
+  "title": "Hajime no Ippo: New Challenger",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/56617.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hajime no Ippo New Series",
+      "Hajime no Ippo Season II",
+      "Hajime no Ippo 2"
+    ],
+    "en": "Fighting Spirit: New Challenger",
+    "ja": "はじめの一歩 新シリーズ"
+  },
+  "start_date": "2009-01-07",
+  "end_date": "2009-07-01",
+  "synopsis": "Japanese Featherweight Champion Ippo Makunouchi has successfully defended and retained his title. Meanwhile, his rival, Ichirou Miyata, has resurfaced in Japan, aiming for his own Featherweight belt in the Oriental Pacific Boxing Federation. When the rest of the world comes knocking, however, will Japan's best fighters rise to the challenge and achieve glory at the top? Or will the small island nation be crushed under the weight of greater entities? This time, champions will become challengers issuing a call to the rest of the world and ready to show off their fighting spirit!\n\n[Written by MAL Rewrite]",
+  "mean": 8.67,
+  "rank": 64,
+  "popularity": 845,
+  "num_list_users": 285886,
+  "num_scoring_users": 167043,
+  "nsfw": "white",
+  "created_at": "2008-09-15T13:49:59+00:00",
+  "updated_at": "2023-01-09T14:58:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:29"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

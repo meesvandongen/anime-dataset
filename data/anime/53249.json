@@ -1,0 +1,51 @@
+{
+  "id": 53249,
+  "title": "Fengzi Wuyu: Yinhe Pian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1612/128790.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1612/128790l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shape of the Wind",
+      "The Continent of Wind"
+    ],
+    "en": "",
+    "ja": "风姿物语 银河篇"
+  },
+  "start_date": "2021-05-04",
+  "end_date": "2021-10-12",
+  "synopsis": "In our infinite universe, there are countless planets and worlds. Among those shining stars, there exists a world called \"The Roc Kun\". The continent of wind is a land of wars and disorders.\n\nHere, a story of a warrior, is about to begin...\n\n(Source: MangaToon)",
+  "rank": 19537,
+  "popularity": 19133,
+  "num_list_users": 264,
+  "num_scoring_users": 60,
+  "nsfw": "white",
+  "created_at": "2022-10-04T18:27:10+00:00",
+  "updated_at": "2022-11-03T12:04:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1080,
+  "rating": "pg_13",
+  "studios": []
+}

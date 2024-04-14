@@ -1,0 +1,46 @@
+{
+  "id": 37669,
+  "title": "Taiyou to Tsuki no Kodomo-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1209/91684.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1209/91684l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "V6",
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "太陽と月のこどもたち"
+  },
+  "start_date": "2017-04-02",
+  "end_date": "2017-04-02",
+  "synopsis": "A family watches as their daughter grows up under the warm glow of the sun and moon and their love.",
+  "popularity": 19673,
+  "num_list_users": 234,
+  "num_scoring_users": 94,
+  "nsfw": "white",
+  "created_at": "2018-04-03T09:55:09+00:00",
+  "updated_at": "2019-07-02T11:58:06+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "g",
+  "studios": []
+}

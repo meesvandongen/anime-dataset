@@ -1,0 +1,50 @@
+{
+  "id": 52101,
+  "title": "Shen Ji Long Wei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1214/124533.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1214/124533l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Legend of Dragon Soldier",
+    "ja": "神级龙卫"
+  },
+  "start_date": "2022-06-26",
+  "end_date": "2022-12-11",
+  "synopsis": "Shen Lang traveled from the human world to the original world, embarked on a journey to find his partner, and got involved in the battle between the righteous and evil sects in the wild continent. Let Penglai Mountain come to life, and defeat the heroes when hunting for treasures in Penglai Mountain, and become the real first monk of the young generation in the Yuanhe Sea Area.\n\n(Source: Youku, Translated)",
+  "mean": 6.42,
+  "rank": 7372,
+  "popularity": 12870,
+  "num_list_users": 1158,
+  "num_scoring_users": 269,
+  "nsfw": "white",
+  "created_at": "2022-06-17T15:17:22+00:00",
+  "updated_at": "2023-01-09T09:35:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 914,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2059,
+      "name": "Suoyi Technology"
+    }
+  ]
+}

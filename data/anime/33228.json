@@ -1,0 +1,53 @@
+{
+  "id": 33228,
+  "title": "Kidou Senshi Gundam-san: Hiyoko Days ― Suisei Hiyoko to Fushigi na Ofuda",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/79836.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/79836l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "機動戦士ガンダムさん ヒヨコ day's ―彗星ヒヨコとふしぎなおふだ"
+  },
+  "start_date": "2016-04-22",
+  "end_date": "2016-04-22",
+  "synopsis": "Additional episode of Gundam-san, included in BD & DVD.",
+  "mean": 5.54,
+  "rank": 11480,
+  "popularity": 12426,
+  "num_list_users": 1326,
+  "num_scoring_users": 260,
+  "nsfw": "white",
+  "created_at": "2016-04-22T18:59:12+00:00",
+  "updated_at": "2022-11-07T17:41:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "average_episode_duration": 365,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

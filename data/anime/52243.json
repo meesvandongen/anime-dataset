@@ -1,0 +1,55 @@
+{
+  "id": 52243,
+  "title": "Himitsu no Pommepomme-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1636/124853.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1636/124853l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Himitsu no Pompom-chan",
+      "Himitsu no Pomupomu-chan"
+    ],
+    "en": "",
+    "ja": "ひみつのポムポムちゃん"
+  },
+  "start_date": "2016-12-12",
+  "end_date": "2018-12-12",
+  "synopsis": "The story of a fashionable teen model, Pommepomme-chan. The popular model, Pommepomme-chan, is a magical transformation of a 5th grade girl named Akino Apple!\n\n(Source: Official Site)",
+  "rank": 20090,
+  "popularity": 20774,
+  "num_list_users": 173,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2022-06-28T21:55:25+00:00",
+  "updated_at": "2022-08-10T17:40:39+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 75,
+      "name": "Showbiz"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 450,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": 35328,
+  "title": "BOY's LOVE Nitro+CHiRAL",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85082.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85082l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "BOY's LOVE Nitro+CHiRAL",
+    "ja": "BOY's LOVE Nitro+CHiRAL"
+  },
+  "start_date": "2017-04-01",
+  "end_date": "2017-04-01",
+  "synopsis": "2017 April Fools' Day event which is based on the world of the games made by Nitro+Chiral, and depicts the “love and life” of over 60 characters. Videos available include the opening movie, Chapter 27 [Sweet Pool and Lamento: Beyond the Void], Chapter 28 [Sweet Pool and Togainu no Chi], Chapter 29 [DRAMAtical Murder], and Chapter 30 [DRAMAtical Murder].\n\nComedic effect is enhanced when Nitro+'s style isn't used but rather the style of Plus Heads who is known for their absurdist gag comedy.\n\n(Source: Gematsu)",
+  "mean": 4.88,
+  "rank": 12792,
+  "popularity": 10676,
+  "num_list_users": 2393,
+  "num_scoring_users": 575,
+  "nsfw": "white",
+  "created_at": "2017-03-31T21:47:36+00:00",
+  "updated_at": "2021-09-28T21:10:51+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 254,
+  "rating": "g",
+  "studios": []
+}

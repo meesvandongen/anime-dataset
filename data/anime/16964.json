@@ -1,0 +1,47 @@
+{
+  "id": 16964,
+  "title": "Inazuma Eleven Go: TCG CM NG-shuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/60875.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/60875l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Inazuma Eleven Go: Trading Card Game CM NG-shuu"
+    ],
+    "en": "",
+    "ja": "イナズマイレブンGO TCG CM NG集"
+  },
+  "start_date": "2012-11-22",
+  "end_date": "2012-11-22",
+  "synopsis": "Compilation and bloopers of the Inazuma Eleven Go Trading Card Game commercials presented by Wonderbot.",
+  "mean": 6.67,
+  "popularity": 9524,
+  "num_list_users": 3471,
+  "num_scoring_users": 1277,
+  "nsfw": "white",
+  "created_at": "2012-12-31T23:47:40+00:00",
+  "updated_at": "2024-04-12T11:46:06+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

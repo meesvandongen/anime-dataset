@@ -1,0 +1,42 @@
+{
+  "id": 34450,
+  "title": "Mahou Sensei Negima! Tokubetsu Eizou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/84998.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/84998l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahou Sensei Negima! Music Videos"
+    ],
+    "en": "",
+    "ja": "魔法先生ネギま! 特別映像"
+  },
+  "start_date": "2016-11-17",
+  "end_date": "2016-11-17",
+  "synopsis": "Music videos included with the limited edition 12th volume of UQ Holder! manga.",
+  "mean": 6.06,
+  "popularity": 11037,
+  "num_list_users": 2128,
+  "num_scoring_users": 479,
+  "nsfw": "white",
+  "created_at": "2016-11-29T14:06:20+00:00",
+  "updated_at": "2020-05-10T19:10:41+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 177,
+  "rating": "pg_13",
+  "studios": []
+}

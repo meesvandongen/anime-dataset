@@ -1,0 +1,64 @@
+{
+  "id": 1936,
+  "title": "Misute♡naide Daisy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/1936.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/1936l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Misutenaide Daisy"
+    ],
+    "en": "Don't Leave Me Alone, Daisy",
+    "ja": "みすて♡ないでデイジー"
+  },
+  "start_date": "1997-07-03",
+  "end_date": "1997-09-18",
+  "synopsis": "The story begins when an innocent, but busty, young schoolgirl goes to recover her hat from what she thought was an abandoned house. But within that house, spying on her, is a deranged madman. Seeing her he becomes obsessed with controlling her, owning her, bending her to his every whim. He, and his array of high tech tools, will threaten her with death, mutilation, control, humiliation and the loss of her own will and identity. Terrors biological, chemical and nuclear will come into play in the nightmare that is her new, controlled, life.\n\n(Source: AniDB)",
+  "mean": 6.46,
+  "rank": 7088,
+  "popularity": 10930,
+  "num_list_users": 2211,
+  "num_scoring_users": 782,
+  "nsfw": "white",
+  "created_at": "2007-02-12T15:32:16+00:00",
+  "updated_at": "2022-04-16T08:42:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:45"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

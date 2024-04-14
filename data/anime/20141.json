@@ -1,0 +1,64 @@
+{
+  "id": 20141,
+  "title": "Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/56447.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/56447l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lupin III: Princess of the Breeze - Hidden City in the Sky"
+    ],
+    "en": "",
+    "ja": "ルパン三世 princess of the breeze ～隠された空中都市～"
+  },
+  "start_date": "2013-11-15",
+  "end_date": "2013-11-15",
+  "synopsis": "The story is set in Shahalta, a tiny European city-state floating in the air with practically no contact with the outside world for years. The government is transitioning from a monarchy to a republic, and to celebrate the occasion, a national treasure exhibition is being held. Lupin infiltrates the exhibition for the secret royal treasures, but not before sky pirates snatch them first.\n\n(Source: ANN) ",
+  "mean": 6.75,
+  "rank": 5477,
+  "popularity": 7909,
+  "num_list_users": 5872,
+  "num_scoring_users": 2358,
+  "nsfw": "white",
+  "created_at": "2013-08-16T08:08:14+00:00",
+  "updated_at": "2023-12-29T03:09:02+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

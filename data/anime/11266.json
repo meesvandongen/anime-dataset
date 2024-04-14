@@ -1,0 +1,53 @@
+{
+  "id": 11266,
+  "title": "Ao no Exorcist: Kuro no Iede",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/73495.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/73495l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ao no Exorcist Special",
+      "Ao no Futsumashi: Kuro no Iede"
+    ],
+    "en": "Blue Exorcist: Runaway Kuro",
+    "ja": "青の祓魔師(エクソシスト) クロの家出"
+  },
+  "start_date": "2011-10-26",
+  "end_date": "2011-10-26",
+  "synopsis": "Feeling slighted by Rin, Kuro goes on the hunt for a new master, but can he find anyone who can truly replace Rin?",
+  "mean": 7.28,
+  "rank": 2812,
+  "popularity": 1657,
+  "num_list_users": 135808,
+  "num_scoring_users": 67825,
+  "nsfw": "white",
+  "created_at": "2011-08-16T14:31:09+00:00",
+  "updated_at": "2022-04-01T22:10:22+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1445,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

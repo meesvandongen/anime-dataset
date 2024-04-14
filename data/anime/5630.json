@@ -1,0 +1,76 @@
+{
+  "id": 5630,
+  "title": "Higashi no Eden",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/15033l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Higashi no Eden"
+    ],
+    "en": "Eden of The East",
+    "ja": "東のエデン"
+  },
+  "start_date": "2009-04-10",
+  "end_date": "2009-06-19",
+  "synopsis": "On November 22, 2010, Japan was hit by missile strikes, a terrorist act that fortunately did not harm anyone, becoming known as \"Careless Monday.\" Quickly forgotten, society goes on about their lives as normal.\n \nDuring her graduation trip to America three months later, friendly college student Saki Morimi's life is forever changed when she finds herself saved from unexpected trouble by Akira Takizawa. Takizawa is cheerful, but odd in many ways—he is stark naked and suffers from amnesia, believing himself to be a terrorist. In addition, he possesses a strange cell phone loaded with 8.2 billion yen in digital cash.\n\nDespite Takizawa's suspicious traits, Saki quickly befriends the enigmatic young man. However, unbeknownst to her, this is the beginning of a thrilling death game involving money, cell phones, and the salvation of the world. Higashi no Eden chronicles Saki's struggle to unravel the mysteries behind her savior, while Takizawa himself battles other individuals armed with similar cell phones and returning memories which reveal his possible connection to the event from months ago.\n\n[Written by MAL Rewrite]",
+  "mean": 7.74,
+  "rank": 1127,
+  "popularity": 385,
+  "num_list_users": 565055,
+  "num_scoring_users": 256216,
+  "nsfw": "white",
+  "created_at": "2008-11-25T23:46:00+00:00",
+  "updated_at": "2024-01-05T21:29:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:45"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

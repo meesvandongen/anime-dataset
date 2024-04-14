@@ -1,0 +1,57 @@
+{
+  "id": 15895,
+  "title": "Hiyokoi (2012)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/46827.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/46827l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ribbon x Oha Suta Specials",
+      "Ribon x Oha Suta Specials"
+    ],
+    "en": "",
+    "ja": "ひよ恋"
+  },
+  "start_date": "2012-12-02",
+  "end_date": "2012-12-16",
+  "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials. ",
+  "mean": 6.68,
+  "rank": 5855,
+  "popularity": 4104,
+  "num_list_users": 29176,
+  "num_scoring_users": 12264,
+  "nsfw": "white",
+  "created_at": "2012-10-11T03:31:54+00:00",
+  "updated_at": "2022-03-03T13:21:00+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

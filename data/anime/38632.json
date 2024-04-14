@@ -1,0 +1,54 @@
+{
+  "id": 38632,
+  "title": "Honda-san x Taka no Tsume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1348/96025.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1348/96025l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eagle Talon",
+      "Himitsukessha Taka no Tsume",
+      "The Frogman Show"
+    ],
+    "en": "",
+    "ja": "本田さん×鷹の爪"
+  },
+  "start_date": "2018-11-03",
+  "end_date": "2018-11-03",
+  "synopsis": "A collaboration between the Eagle Talon franchise and Gaikotsu Shotenin Honda-san. The former is promoting the latter's TV series. In a tongue-in-cheek style Yoshida-kun \"explains\" what Gaikotsu Shotenin Honda-san is about but gets it hilariously wrong much to the shock and frustration of Honda-san himself, such that never getting his name right.",
+  "mean": 5.07,
+  "rank": 12568,
+  "popularity": 12878,
+  "num_list_users": 1155,
+  "num_scoring_users": 480,
+  "nsfw": "white",
+  "created_at": "2018-11-03T13:00:36+00:00",
+  "updated_at": "2018-11-07T03:51:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 204,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

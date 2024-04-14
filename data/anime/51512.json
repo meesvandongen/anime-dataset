@@ -1,0 +1,41 @@
+{
+  "id": 51512,
+  "title": "Haru Matsu Waltz",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1721/122237.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1721/122237l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Harumatsu Waltz"
+    ],
+    "en": "",
+    "ja": "はるまつワルツ"
+  },
+  "start_date": "2021-02-03",
+  "end_date": "2021-02-03",
+  "synopsis": "Animated music video for the song Haru Matsu Waltz by Kiyomaru Tougou.",
+  "popularity": 20667,
+  "num_list_users": 178,
+  "num_scoring_users": 89,
+  "nsfw": "white",
+  "created_at": "2022-04-01T21:37:22+00:00",
+  "updated_at": "2022-04-02T11:56:40+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 129,
+  "rating": "pg_13",
+  "studios": []
+}

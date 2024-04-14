@@ -1,0 +1,68 @@
+{
+  "id": 55272,
+  "title": "Vinland Saga Season 2: Same Old Story",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1528/135912.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1528/135912l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Vinland Saga Season 2 Episode 18.5"
+    ],
+    "en": "",
+    "ja": "ヴィンランド・サガ SEASON2 Same old story"
+  },
+  "start_date": "2023-05-12",
+  "end_date": "2023-05-12",
+  "synopsis": "Additional scene intended to air as part of Vinland Saga Season 2's 18th episode.",
+  "mean": 6.86,
+  "rank": 4894,
+  "popularity": 5493,
+  "num_list_users": 14401,
+  "num_scoring_users": 4440,
+  "nsfw": "white",
+  "created_at": "2023-05-13T03:48:03+00:00",
+  "updated_at": "2023-10-16T06:34:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 97,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 45486,
+  "title": "Kuma Kuma Kuma Bear Punch!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1132/134608.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1132/134608l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kuma Kuma Kuma Bear 2nd Season",
+      "The Bears Bear a Bare Kuma 2nd Season"
+    ],
+    "en": "",
+    "ja": "くまクマ熊ベアーぱーんち！"
+  },
+  "start_date": "2023-04-03",
+  "end_date": "2023-06-19",
+  "synopsis": "Ever since moving to an in-game world after countless hours of VRMMO grinding, Yuna now calls Crimonia—the city where she started—home. While maintaining her reputation as a renowned adventurer, she continues to manage her businesses; but most importantly, Yuna spends time with the people she has grown to love. Nevertheless, this world has a lot more to offer the carefree adventurer. It is up to Yuna to discover these wonders, and perhaps help more people in need as she encounters their various plights.\n\n[Written by MAL Rewrite]",
+  "mean": 7.28,
+  "rank": 2841,
+  "popularity": 2446,
+  "num_list_users": 76282,
+  "num_scoring_users": 28347,
+  "nsfw": "white",
+  "created_at": "2020-12-24T04:08:26+00:00",
+  "updated_at": "2023-05-16T02:47:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "22:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

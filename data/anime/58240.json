@@ -1,0 +1,48 @@
+{
+  "id": 58240,
+  "title": "Sore Ike! Anpanman: Christmas da! Minna Atsumare",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1042/141626.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1042/141626l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soreike! Anpanman: Christmas da! Minna Atsumare",
+      "Sore Ike! Anpanman: Uta to Ohanashi - Suteki na Christmas",
+      "それいけ！アンパンマン うたとおはなしすてきなクリスマス"
+    ],
+    "en": "",
+    "ja": "それいけ！アンパンマン クリスマスだ！みんな集まれ"
+  },
+  "start_date": "1995-11-01",
+  "end_date": "1995-11-01",
+  "synopsis": "Christmas has come again, and Anpanman and his friends have all gathered to prepare for some kind of grand effort, but Baikinman, without even knowing the details, will do everything he can to get in the way!",
+  "rank": 13548,
+  "popularity": 26355,
+  "num_list_users": 53,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2024-02-26T13:10:24+00:00",
+  "updated_at": "2024-02-27T13:20:47+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1564,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": 39252,
+  "title": "Spunky Afro Tiger Jet",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1370/99029.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1370/99029l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Spunky Afro Tiger Jet",
+    "ja": "Spunky Afro Tiger Jet"
+  },
+  "start_date": "2014-10-03",
+  "end_date": "2014-10-03",
+  "synopsis": "Music video for the song Spunky Afro Tiger Jet by Tigarah E Laura (TIGARAH) from her album \"This World is My Playground.\"",
+  "mean": 5.83,
+  "popularity": 15009,
+  "num_list_users": 628,
+  "num_scoring_users": 309,
+  "nsfw": "white",
+  "created_at": "2019-02-12T07:46:33+00:00",
+  "updated_at": "2019-08-02T20:35:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "r",
+  "studios": []
+}

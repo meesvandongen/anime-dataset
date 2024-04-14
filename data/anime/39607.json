@@ -1,0 +1,52 @@
+{
+  "id": 39607,
+  "title": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1672/100144.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1672/100144l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tensei shitara Slime Datta Ken Recap"
+    ],
+    "en": "That Time I Got Reincarnated as a Slime: Tales - Veldora's Journal",
+    "ja": "転生したらスライムだった件 閑話: ヴェルドラ日記"
+  },
+  "start_date": "2019-03-26",
+  "end_date": "2019-03-26",
+  "synopsis": "Ifrit, who has been trapped in Rimuru due to the latter's Predator skill, recaps events of the season while in a discussion with Veldora as they play Shogi.\n\n(Source: Wikipedia)",
+  "mean": 6.75,
+  "rank": 5499,
+  "popularity": 1766,
+  "num_list_users": 124257,
+  "num_scoring_users": 69392,
+  "nsfw": "white",
+  "created_at": "2019-03-25T23:04:17+00:00",
+  "updated_at": "2024-02-07T15:03:10+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1424,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

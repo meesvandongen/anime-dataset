@@ -1,0 +1,56 @@
+{
+  "id": 3174,
+  "title": "Sola Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/21665.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/21665l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sola OVA"
+    ],
+    "en": "",
+    "ja": "sola"
+  },
+  "start_date": "2007-09-25",
+  "end_date": "2007-10-26",
+  "synopsis": "DVD-exclusive specials. The first takes place between episode 4 and 5 of the main series and and the second is a prologue to the series leading up to the events on the last day before the beginning of episode 1.\n\n(Source: AniDB)",
+  "mean": 6.91,
+  "rank": 4673,
+  "popularity": 5352,
+  "num_list_users": 15425,
+  "num_scoring_users": 8529,
+  "nsfw": "white",
+  "created_at": "2007-10-01T04:17:16+00:00",
+  "updated_at": "2022-12-20T07:42:02+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1459,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

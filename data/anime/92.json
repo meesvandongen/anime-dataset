@@ -1,0 +1,73 @@
+{
+  "id": 92,
+  "title": "Kidou Shinseiki Gundam X",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/16054.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/16054l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "After War Gundam X",
+      "Mobile New Century Gundam X"
+    ],
+    "en": "After War Gundam X",
+    "ja": "機動新世紀ガンダムX"
+  },
+  "start_date": "1996-04-05",
+  "end_date": "1996-12-28",
+  "synopsis": "When one space colony declared its independence from the Earth Federation, the devastating 7th Space War, an all-out war between Earth and space, resulted. The Federation responded to the Space Revolutionary Army with mobile suits, called Gundams. However, the Space Revolutionary forces played their trump card and dropped hundreds of space colonies onto the Earth, plunging the planet into a seven-year-long nuclear winter. The Federation collapsed, but the Space Revolutionary Army was unable to invade the Earth in the aftermath of the colony drop.\n\nFifteen years have passed. The year is now After War 0015, and a New Federation has sprung up on Earth to restore order. In space, the colonial leaders have been rebuilding their own forces as well. By chance, fifteen-year-old Garrod Ran has discovered an old Federation mobile suit, the Gundam X, and now he uses it to help out the Vulture ship Freeden in its struggle to keep the powers that be from repeating the mistakes of the past.",
+  "mean": 7.37,
+  "rank": 2404,
+  "popularity": 3690,
+  "num_list_users": 36510,
+  "num_scoring_users": 16105,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:50:36+00:00",
+  "updated_at": "2024-03-06T12:02:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

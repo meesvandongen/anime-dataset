@@ -1,0 +1,68 @@
+{
+  "id": 1894,
+  "title": "Yu☆Gi☆Oh! Hikari no Pyramid",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1404/135902.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1404/135902l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yugioh",
+      "Yu-Gi-Oh!",
+      "Yu-Gi-Oh!: Duel Monsters",
+      "Yugioh: Duel Monsters",
+      "Yu-Gi-Oh!: Pyramid of Light"
+    ],
+    "en": "Yu-Gi-Oh!: The Movie",
+    "ja": "遊☆戯☆王　デュエルモンスターズ　光のピラミッド"
+  },
+  "start_date": "2004-08-13",
+  "end_date": "2004-08-13",
+  "synopsis": "Anubis, an ancient Egyptian evil that was defeated by Yugi's alter ego centuries ago, has returned to exact revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.\n\n(Source: ANN)",
+  "mean": 6.59,
+  "rank": 6340,
+  "popularity": 2477,
+  "num_list_users": 74799,
+  "num_scoring_users": 48792,
+  "nsfw": "white",
+  "created_at": "2007-01-27T22:55:32+00:00",
+  "updated_at": "2023-09-12T22:39:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 6115,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

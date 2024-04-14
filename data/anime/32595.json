@@ -1,0 +1,56 @@
+{
+  "id": 32595,
+  "title": "Seisen Cerberus: Ryuukoku no Fatalités",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/79459.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/79459l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seisen Cerberus: Ryuukoku no Fatalite"
+    ],
+    "en": "Cerberus",
+    "ja": "聖戦ケルベロス　竜刻のファタリテ"
+  },
+  "start_date": "2016-04-05",
+  "end_date": "2016-06-28",
+  "synopsis": "Maintaining a delicate balance of power, the kingdoms of Amoria, Ishilfen, and Vanrodis rule over the continent of Kuna'anh. Even the slightest hint of trouble in one country could spark a continent-wide war. However, their one common fear is the evil dragon Daganzord, whose only meaning of existence is to devour and destroy all life.\n\nTen years ago, a group of mages worked together in an effort to seal away the malevolent beast. But the ritual—later known as the \"Balbagoa Tragedy\"—was a failure, and many lost their lives. Though his parents died in this tragedy, Hiiro was saved by the swordsman Giruu. Under the latter's tutelage, Hiiro learned swordsmanship with the sole purpose of seeking revenge. Now a budding master himself, he sets out in search of Daganzord in order to realize his long-awaited vengeance, or to be consumed by the dragon and meet the same fate as his parents.\n\n[Written by MAL Rewrite]",
+  "mean": 5.58,
+  "rank": 11344,
+  "popularity": 2043,
+  "num_list_users": 102135,
+  "num_scoring_users": 40534,
+  "nsfw": "white",
+  "created_at": "2016-01-25T06:07:06+00:00",
+  "updated_at": "2022-04-17T14:52:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:35"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 397,
+      "name": "Bridge"
+    }
+  ]
+}

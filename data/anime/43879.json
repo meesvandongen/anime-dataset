@@ -1,0 +1,47 @@
+{
+  "id": 43879,
+  "title": "Curry Meshi in Miracle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1843/110168.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1843/110168l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Curry Meshi Is a Miracle"
+    ],
+    "en": "",
+    "ja": "カレーメシ・イン・ミラクル"
+  },
+  "start_date": "2020-10-11",
+  "end_date": "2020-10-11",
+  "synopsis": "An unprecedented, over-the-top collaboration between Nissin Curry Meshi and hololive has become a reality!\n\nThis is the music video for the original song, Curry Meshi in Miracle, sung by Spice Love (Oozora Subaru, Minato Aqua, Usada Pekora)\n\n(Source: Official Hololive YouTube channel)",
+  "mean": 6.36,
+  "popularity": 13054,
+  "num_list_users": 1096,
+  "num_scoring_users": 643,
+  "nsfw": "white",
+  "created_at": "2020-11-12T10:49:11+00:00",
+  "updated_at": "2021-09-28T19:22:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 265,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2167,
+      "name": "Hololive Production"
+    }
+  ]
+}

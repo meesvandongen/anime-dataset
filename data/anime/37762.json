@@ -1,0 +1,45 @@
+{
+  "id": 37762,
+  "title": "Chiisana Konomi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1753/91994.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1753/91994l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "小さな木の実"
+  },
+  "start_date": "1983-10-05",
+  "end_date": "1983-10-05",
+  "synopsis": "The first animated Minna no Uta adaptation of the song Chiisana Konomi. This 1983 version was the second release of the song as the original from 1971 was a live-action music video.",
+  "popularity": 19649,
+  "num_list_users": 235,
+  "num_scoring_users": 87,
+  "nsfw": "white",
+  "created_at": "2018-04-19T23:43:45+00:00",
+  "updated_at": "2023-10-12T08:25:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

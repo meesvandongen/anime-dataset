@@ -1,0 +1,64 @@
+{
+  "id": 2596,
+  "title": "Shinreigari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/80967.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/80967l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shinreigari: Ghost Hound"
+    ],
+    "en": "Ghost Hound",
+    "ja": "神霊狩／GHOST HOUND"
+  },
+  "start_date": "2007-10-18",
+  "end_date": "2008-04-04",
+  "synopsis": "Strange things are happening around the town of Suiten. The daughter of a priest begins to see strange visions, spirits have started to roam the mountains, and Tarou Komori is having unsettling dreams. Due to the trauma of being kidnapped 11 years ago, he has repressed most of the memories that could shed light on what really happened all those years ago. But they return in his sleep, combined with encounters beyond the realm of dreams.\n \nAs the supernatural and psychological collide, three children struggle to face their demons and repair the breach between the spiritual and corporeal worlds.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.41,
+  "rank": 2236,
+  "popularity": 1519,
+  "num_list_users": 151929,
+  "num_scoring_users": 45134,
+  "nsfw": "white",
+  "created_at": "2007-06-09T00:58:53+00:00",
+  "updated_at": "2023-09-02T07:41:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

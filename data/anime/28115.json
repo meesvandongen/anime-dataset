@@ -1,0 +1,45 @@
+{
+  "id": 28115,
+  "title": "Onigara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/68029.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/68029l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Oni Husk"
+    ],
+    "en": "The Man in the Monster's Shell",
+    "ja": "鬼がら"
+  },
+  "start_date": "1994-12-22",
+  "end_date": "1994-12-22",
+  "synopsis": "An educational film meant to show the rewards of hard work and good faith using the classic folklore of red oni and blue oni.",
+  "rank": 17023,
+  "popularity": 18384,
+  "num_list_users": 308,
+  "num_scoring_users": 60,
+  "nsfw": "white",
+  "created_at": "2014-10-24T11:55:25+00:00",
+  "updated_at": "2017-06-14T01:28:52+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "average_episode_duration": 1620,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": 32762,
+  "title": "Circles",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/78590.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/78590l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "円群"
+  },
+  "start_date": "2012-07-10",
+  "end_date": "2012-07-10",
+  "synopsis": "A music video for DOIMOI's song \"Circles.\" ",
+  "mean": 5.18,
+  "popularity": 17262,
+  "num_list_users": 391,
+  "num_scoring_users": 204,
+  "nsfw": "white",
+  "created_at": "2016-02-19T00:23:49+00:00",
+  "updated_at": "2022-02-17T08:51:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 247,
+  "rating": "g",
+  "studios": []
+}

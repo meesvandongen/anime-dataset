@@ -1,0 +1,53 @@
+{
+  "id": 733,
+  "title": "Kizuna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/8172.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/8172l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "KIZUNA～絆～"
+  },
+  "start_date": "1994-08-12",
+  "end_date": "1995-09-29",
+  "synopsis": "Young kendo prodigy Ranmaru Samejima captures the attention of Kei Enjoji, the illegitimate son of a yakuza boss. Kei, determined to form a bond with Ranmaru, cultivates a friendship built on trust and sacrifice, which soon turns into love. After saving Kei from a yakuza hit-and-run attack, Ranmaru is forced to give up kendo forever, and the two are left with only their faith in one another. Vowing to support each other far from the world of the yakuza, the two begin living together as a couple. \n\nHowever, when a mysterious figure from the pair's past returns in pursuit of Ranmaru, they are thrust back into the world they fought so hard to leave—and their love may not be strong enough to survive it.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.2,
+  "popularity": 5942,
+  "num_list_users": 11830,
+  "num_scoring_users": 5467,
+  "nsfw": "gray",
+  "created_at": "2006-02-17T22:47:33+00:00",
+  "updated_at": "2022-08-25T20:21:52+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1641,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1420,
+      "name": "SIDO LIMITED"
+    }
+  ]
+}

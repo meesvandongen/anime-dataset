@@ -1,0 +1,76 @@
+{
+  "id": 40911,
+  "title": "Yuukoku no Moriarty",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1464/108330.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1464/108330l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Moriarty's Patriotism"
+    ],
+    "en": "Moriarty the Patriot",
+    "ja": "憂国のモリアーティ"
+  },
+  "start_date": "2020-10-11",
+  "end_date": "2020-12-20",
+  "synopsis": "During the late 19th century, Great Britain has become the greatest empire the world has ever known. Hidden within its success, the nation's rigid economic hierarchy dictates the value of one's life solely on status and wealth. To no surprise, the system favors the aristocracy at the top and renders it impossible for the working class to ascend the ranks.\n\nWilliam James Moriarty, the second son of the Moriarty household, lives as a regular noble while also being a consultant for the common folk to give them a hand and solve their problems. However, deep inside him lies a desire to destroy the current structure that dominates British society and those who benefit from it. \n\nAlongside his brothers Albert and Louis, William will do anything it takes to change the filthy world he lives in—even if blood must be spilled.\n\n[Written by MAL Rewrite]",
+  "mean": 8.17,
+  "rank": 417,
+  "popularity": 533,
+  "num_list_users": 426340,
+  "num_scoring_users": 179518,
+  "nsfw": "white",
+  "created_at": "2019-12-22T06:24:03+00:00",
+  "updated_at": "2023-09-15T04:52:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:53"
+  },
+  "source": "manga",
+  "average_episode_duration": 1431,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

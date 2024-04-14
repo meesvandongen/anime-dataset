@@ -1,0 +1,49 @@
+{
+  "id": 30582,
+  "title": "That's Hanakappa Musical: Pan to Gohan, Docchi nano!?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/73439.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/73439l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "That's Hanakappa Musical - Bread or Rices, which one is it!?"
+    ],
+    "en": "",
+    "ja": "ザッツ・はなかっぱミュージカル パンとごはん、どっちなの!?"
+  },
+  "start_date": "2013-04-12",
+  "end_date": "2013-04-12",
+  "synopsis": "A short musical of Hanakappa double-billed with the first film. It aired before the main feature started.",
+  "rank": 13843,
+  "popularity": 18724,
+  "num_list_users": 287,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2015-04-09T03:38:41+00:00",
+  "updated_at": "2015-04-09T18:34:18+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": []
+}

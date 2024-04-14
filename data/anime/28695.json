@@ -1,0 +1,44 @@
+{
+  "id": 28695,
+  "title": "Nonsense Monogatari Dai Ippen: Sarugashima",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/69265.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/69265l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nansensu Monogatari Daiichi-hen: Sarugashima",
+      "Nonsense Story, Vol.1:Monkey Island"
+    ],
+    "en": "Nonsense Story, Volume 1: Monkey Island",
+    "ja": "難船ス物語　第一篇　猿ケ島"
+  },
+  "start_date": "1931-02-10",
+  "end_date": "1931-02-10",
+  "synopsis": "One of the first films of Kenzou Masaoka about a baby raised by monkeys on an island.",
+  "mean": 5.07,
+  "rank": 12572,
+  "popularity": 12967,
+  "num_list_users": 1127,
+  "num_scoring_users": 429,
+  "nsfw": "white",
+  "created_at": "2014-12-01T01:17:59+00:00",
+  "updated_at": "2017-05-25T15:07:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1931,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1453,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": 373,
+  "title": "Bannou Bunka Neko-Musume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/10720.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/10720l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cat Girl Nuku Nuku",
+      "Catgirl Nuku Nuku OVA",
+      "Bannou Bunka Nekomusume",
+      "Super Cat Girl Nuku Nuku",
+      "Nuku Nuku"
+    ],
+    "en": "All Purpose Cultural Cat Girl Nuku Nuku",
+    "ja": "万能文化猫娘"
+  },
+  "start_date": "1992-10-21",
+  "end_date": "1994-05-25",
+  "synopsis": "Ryuunosuke Natsume is the son of genius inventor Kyusaku Natsume and overbearing Akiko Natsume, CEO of Mishima Heavy Industries. Using funds from his wife's company and the brain from his son's beloved cat, Kyusaku creates a revolutionary android called Atsuko \"Nuku Nuku\" Natsume. To Kyusaku's disgust, Akiko wants to use her husband's technology to create weaponized robots for her company's customers, resulting in Ryuunosuke getting caught within the explosive fights between his parents\n\nThe android Nuku Nuku tries to live as a normal high school student, adopting the role of Ryuunosuke's elder sister, but usually ends up acting as her family's protector. Nuku Nuku will do anything to protect the ones she loves.\n\n[Written by MAL Rewrite]",
+  "mean": 6.79,
+  "rank": 5262,
+  "popularity": 5768,
+  "num_list_users": 12720,
+  "num_scoring_users": 4928,
+  "nsfw": "white",
+  "created_at": "2005-11-25T10:31:08+00:00",
+  "updated_at": "2022-04-17T17:20:16+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1680,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 24,
+      "name": "Studio Fantasia"
+    },
+    {
+      "id": 155,
+      "name": "animate Film"
+    }
+  ]
+}

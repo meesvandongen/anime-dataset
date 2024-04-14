@@ -1,0 +1,50 @@
+{
+  "id": 16255,
+  "title": "Meisou-Ou Border",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/43745.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/43745l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "迷走王 ボーダー"
+  },
+  "start_date": "1991-09-01",
+  "end_date": "1991-09-01",
+  "synopsis": "Featuring a modern-day odd couple, the naive virgin Kubota and the handsome charmer Hachisuka, who meet up by accident in a Middle Eastern desert and return to Japan to hustle their way through life. They start by getting involved in shady TV dealings, where they get jobs making fake docmentaries.\n\n(Source: The Anime Encyclopedia)",
+  "mean": 5.44,
+  "rank": 11760,
+  "popularity": 13433,
+  "num_list_users": 988,
+  "num_scoring_users": 347,
+  "nsfw": "white",
+  "created_at": "2012-11-11T10:00:33+00:00",
+  "updated_at": "2021-11-07T23:37:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2630,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 8,
+      "name": "Artland"
+    }
+  ]
+}

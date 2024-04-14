@@ -1,0 +1,64 @@
+{
+  "id": 30344,
+  "title": "The iDOLM@STER Cinderella Girls 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75120.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75120l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Idolmaster Cinderella Girls Second Season"
+    ],
+    "en": "THE IDOLM@STER CINDERELLA GIRLS 2nd SEASON",
+    "ja": "アイドルマスター シンデレラガールズ 2ndシーズン"
+  },
+  "start_date": "2015-07-18",
+  "end_date": "2015-10-17",
+  "synopsis": "Second season of The iDOLM@STER Cinderella Girls.",
+  "mean": 7.35,
+  "rank": 2502,
+  "popularity": 3680,
+  "num_list_users": 36747,
+  "num_scoring_users": 17762,
+  "nsfw": "white",
+  "created_at": "2015-03-16T00:38:10+00:00",
+  "updated_at": "2022-04-16T04:42:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

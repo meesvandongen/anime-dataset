@@ -1,0 +1,72 @@
+{
+  "id": 36976,
+  "title": "Cutie Honey Universe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1879/91014.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1879/91014l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cutey Honey Universe"
+    ],
+    "en": "",
+    "ja": "Cutie Honey Universe"
+  },
+  "start_date": "2018-04-08",
+  "end_date": "2018-06-24",
+  "synopsis": "The forces of evil are on the rise. When the evil mastermind Sister Jill transforms one of her girls into the bestial Breast Claw and sends her minions out on a mission involving the group Panther Claw and a jewelry store heist, Honey Kisaragi departs from her Catholic girls' school to confront the threat as Cutie Honey. But that's exactly what Sister Jill wants, as she desires Honey's Airborne Element Fixing Device, which allows her to transform into Honey's seven different forms. Meanwhile, Sister Jill is also on the scene in disguise as Inspector Genet, trying to worm her way into Honey's confidence from a different angle.\n\n(Source: ANN)",
+  "mean": 5.44,
+  "rank": 11783,
+  "popularity": 4920,
+  "num_list_users": 19369,
+  "num_scoring_users": 5217,
+  "nsfw": "white",
+  "created_at": "2017-12-22T00:00:26+00:00",
+  "updated_at": "2023-10-11T15:37:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "21:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1431,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 196,
+      "name": "Production Reed"
+    }
+  ]
+}

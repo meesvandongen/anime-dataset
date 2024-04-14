@@ -1,0 +1,54 @@
+{
+  "id": 4034,
+  "title": "Sailor Senshi Venus♥Five",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/41573.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/41573l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sailor Soldier Venus 5"
+    ],
+    "en": "Venus 5",
+    "ja": "セーラー戦士 ヴィーナス♥ファイブ"
+  },
+  "start_date": "1994-11-11",
+  "end_date": "1994-12-09",
+  "synopsis": "Hikari is an ordinary school student. One day she meets Buccha the talking cat, who says that she's Venus Pink, warrior of the goddess Aphrodite. Along with four other girls she has to fight with perverted Necros and four lords of Inma Empire, who want to revive the god of lust, Apollo, and turn the world into a sex pit.\n\n(Source: ANN)",
+  "mean": 5.25,
+  "popularity": 10945,
+  "num_list_users": 2199,
+  "num_scoring_users": 781,
+  "nsfw": "gray",
+  "created_at": "2008-03-01T22:25:25+00:00",
+  "updated_at": "2020-12-19T01:38:05+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "average_episode_duration": 2820,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

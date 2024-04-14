@@ -1,0 +1,80 @@
+{
+  "id": 30544,
+  "title": "Gakusen Toshi Asterisk",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/76034.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/76034l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Academy Battle City Asterisk"
+    ],
+    "en": "The Asterisk War",
+    "ja": "学戦都市アスタリスク"
+  },
+  "start_date": "2015-10-03",
+  "end_date": "2015-12-19",
+  "synopsis": "In the previous century, an unprecedented disaster known as the Invertia drastically reformed the world. The powers of existing nations declined significantly, paving the way for a conglomerate called the Integrated Empire Foundation to assume control. But more importantly, the Invertia led to the emergence of a new species of humans who are born with phenomenal physical capabilities—the Genestella. Its elite are hand-picked across the globe to attend the top six schools, and they duel amongst themselves in entertainment battles called Festas.\n\nAyato Amagiri is a scholarship transfer student at the prestigious Seidoukan Academy, which has recently been suffering from declining performances. Through a series of events, he accidentally sees the popular Witch of Resplendent Flames, Julis-Alexia von Riessfeld, half-dressed! Enraged, Julis challenges him to a duel for intruding on her privacy. After said duel is voided by the student council president, Ayato reveals that he has no interest in Festas. Instead, he has enrolled in the academy to investigate the whereabouts of his missing elder sister. But when a more devious plot unravels, Ayato sets out to achieve victory, while being surrounded by some of the most talented Genestella on the planet.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.81,
+  "rank": 5134,
+  "popularity": 311,
+  "num_list_users": 660629,
+  "num_scoring_users": 376447,
+  "nsfw": "white",
+  "created_at": "2015-04-03T22:50:43+00:00",
+  "updated_at": "2022-11-11T20:18:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "20:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 34488,
+  "title": "Gan Gan Ganko-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/83145.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/83145l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "がん がん がんこちゃん"
+  },
+  "start_date": "2016-12-19",
+  "end_date": "2017-03-27",
+  "synopsis": "The anime follows a boy named Gen, who time travels from the year 2020 to a distant future where humanity has gone extinct. He begins staying at the Ganko family home in the Rustling Forest, where he has none of the amenities he is used to: no electricity, gas, or running water, as well as no television, smartphones, convenience stores, snacks, or games. \n\n(Source: ANN)",
+  "rank": 19629,
+  "popularity": 16675,
+  "num_list_users": 436,
+  "num_scoring_users": 79,
+  "nsfw": "white",
+  "created_at": "2016-12-06T09:44:25+00:00",
+  "updated_at": "2021-03-26T22:23:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:25"
+  },
+  "source": "other",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1286,
+      "name": "10Gauge"
+    }
+  ]
+}

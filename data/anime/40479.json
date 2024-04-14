@@ -1,0 +1,44 @@
+{
+  "id": 40479,
+  "title": "Karrimor Mountain Club 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1478/103358.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1478/103358l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Karrimor Mountain Club 2",
+    "ja": "Karrimor Mountain Club 2"
+  },
+  "start_date": "2019-04-14",
+  "end_date": "2019-04-14",
+  "synopsis": "The second season of animated commercials produced by Karrimor Japan to promote their Mountain Club line of hiking rucksacks and explain their various features. In this season, we follow Camilo's sister Caroline, as she ventures into the great outdoors with the help of Dr. Bird.",
+  "rank": 15524,
+  "popularity": 19171,
+  "num_list_users": 262,
+  "num_scoring_users": 73,
+  "nsfw": "white",
+  "created_at": "2019-10-03T16:24:59+00:00",
+  "updated_at": "2021-11-18T12:39:44+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 149,
+  "rating": "g",
+  "studios": []
+}

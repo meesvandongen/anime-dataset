@@ -1,0 +1,74 @@
+{
+  "id": 37779,
+  "title": "Yakusoku no Neverland",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1830/118780.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Promised Neverland",
+    "ja": "約束のネバーランド"
+  },
+  "start_date": "2019-01-10",
+  "end_date": "2019-03-29",
+  "synopsis": "Surrounded by a forest and a gated entrance, the Grace Field House is inhabited by orphans happily living together as one big family, looked after by their \"Mama,\" Isabella. Although they are required to take tests daily, the children are free to spend their time as they see fit, usually playing outside, as long as they do not venture too far from the orphanage—a rule they are expected to follow no matter what. However, all good times must come to an end, as every few months, a child is adopted and sent to live with their new family, never to be heard from again.\n\nHowever, the three oldest siblings have their suspicions about what is actually happening at the orphanage, and they are about to discover the cruel fate that awaits the children living at Grace Field, including the twisted nature of their beloved Mama.\n\n[Written by MAL Rewrite]",
+  "mean": 8.5,
+  "rank": 133,
+  "popularity": 38,
+  "num_list_users": 1961272,
+  "num_scoring_users": 1282383,
+  "nsfw": "white",
+  "created_at": "2018-04-24T02:20:12+00:00",
+  "updated_at": "2023-05-08T22:12:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1375,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

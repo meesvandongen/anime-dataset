@@ -1,0 +1,54 @@
+{
+  "id": 49066,
+  "title": "Artiswitch",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1805/115216.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1805/115216l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Artiswitch（アーティスウィッチ）"
+  },
+  "start_date": "2021-05-28",
+  "end_date": "2021-09-10",
+  "synopsis": "There is a rumor doing the rounds in Harajuku: somewhere in the back streets of Ura-Harajuku, a witch and her mysterious shop serve those whose wishes have gone unheard, giving them an opportunity to unlock their hearts' greatest desires.\n\nBelieving this to be an ideal arrangement, the proud apprentice witch Nina strives to fulfill her customers' wishes while her power and influence grow accordingly. However, not all wishes are meant to come true—and not all of them lead to a happy ending. As Nina is compelled to peer deeper into the human psyche, she soon discovers the dark side of a witch's obligations, and her ambitions begin to clash with her wish to comfort the entire world.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.3,
+  "rank": 2734,
+  "popularity": 5172,
+  "num_list_users": 16957,
+  "num_scoring_users": 6627,
+  "nsfw": "gray",
+  "created_at": "2021-05-28T22:28:11+00:00",
+  "updated_at": "2023-09-09T06:26:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 480,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

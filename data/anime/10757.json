@@ -1,0 +1,37 @@
+{
+  "id": 10757,
+  "title": "Kachikachi Yama",
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "カチカチ山"
+  },
+  "start_date": "1917-10-20",
+  "end_date": "1917-10-20",
+  "synopsis": "",
+  "mean": 5.38,
+  "rank": 11923,
+  "popularity": 14048,
+  "num_list_users": 837,
+  "num_scoring_users": 233,
+  "nsfw": "white",
+  "created_at": "2011-05-25T12:01:48+00:00",
+  "updated_at": "2022-03-09T03:25:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1917,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 498,
+  "rating": "g",
+  "studios": []
+}

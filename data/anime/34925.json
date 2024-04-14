@@ -1,0 +1,42 @@
+{
+  "id": 34925,
+  "title": "Butten Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/84283.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/84283l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Buddhist Scriptures"
+    ],
+    "en": "",
+    "ja": "仏典物語"
+  },
+  "start_date": "1986-03-01",
+  "end_date": "1990-02-01",
+  "synopsis": "An animated telling of famous Buddhist scriptures, the OVA series focuses on the early days of Buddhism surrounding Gautama Buddha/Siddhartha.",
+  "rank": 18676,
+  "popularity": 18122,
+  "num_list_users": 326,
+  "num_scoring_users": 73,
+  "nsfw": "white",
+  "created_at": "2017-02-15T07:13:40+00:00",
+  "updated_at": "2021-09-15T09:33:10+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 1986,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": []
+}

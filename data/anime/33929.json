@@ -1,0 +1,60 @@
+{
+  "id": 33929,
+  "title": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1812/111684.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1812/111684l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Boku no Hero Academia Jump Festa 2016 Special"
+    ],
+    "en": "My Hero Academia: Rescue! Rescue Training",
+    "ja": "僕のヒーローアカデミア救え!救助訓練!"
+  },
+  "start_date": "2017-04-04",
+  "end_date": "2017-04-04",
+  "synopsis": "UA High School must regain the public's confidence after the surprise villain attack during class 1-A's training session. Although some of the teachers were gravely injured in the attack, Izuku \"Deku\" Midoriya and his classmates must continue to learn and train, and utilize their quirks in varying environments and circumstances. \n\nBoku no Hero Academia: Sukue! Kyuujo Kunren! follows class 1-A as they attempt to finally complete their training. However, there's a masked figure roaming around the training center. Have the villains responsible for the previous incident returned to finish the job? If so, are the students ready to fight back?\n\n[Written by MAL Rewrite]",
+  "mean": 7.23,
+  "rank": 3080,
+  "popularity": 1314,
+  "num_list_users": 181093,
+  "num_scoring_users": 90586,
+  "nsfw": "white",
+  "created_at": "2016-08-22T07:51:15+00:00",
+  "updated_at": "2022-04-03T19:52:03+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

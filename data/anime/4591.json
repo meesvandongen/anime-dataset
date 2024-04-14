@@ -1,0 +1,62 @@
+{
+  "id": 4591,
+  "title": "Yoiko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/47727.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/47727l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "よいこ"
+  },
+  "start_date": "1998-11-06",
+  "end_date": "1999-03-26",
+  "synopsis": "Her name is Esumi Fuuka. Standing tall at 163 cm with a slender bodyline, she must be a university undergraduate; however, in reality, she is only an elementary school student. With a body figure of an adult and the mentality of a small child, she creates many misunderstandings around her.",
+  "mean": 6.12,
+  "rank": 9007,
+  "popularity": 8123,
+  "num_list_users": 5535,
+  "num_scoring_users": 1420,
+  "nsfw": "white",
+  "created_at": "2008-05-27T21:22:30+00:00",
+  "updated_at": "2021-11-06T16:13:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 720,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

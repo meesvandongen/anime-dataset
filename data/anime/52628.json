@@ -1,0 +1,40 @@
+{
+  "id": 52628,
+  "title": "Kan Wu Fengjing",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1347/126614.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1347/126614l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Father at Grandma's Funeral",
+    "ja": "看無風景"
+  },
+  "start_date": "2019-10-13",
+  "end_date": "2019-10-13",
+  "synopsis": "For its grandma's funeral, the child goes to its father's hometown. Facing the argument with his wife, the hostile relatives and his mother's death, the father cries before his child for the first time.\n\n(Source: IMDB)",
+  "rank": 15499,
+  "popularity": 22241,
+  "num_list_users": 109,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2022-08-06T11:55:42+00:00",
+  "updated_at": "2022-08-06T14:50:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 706,
+  "rating": "pg_13",
+  "studios": []
+}

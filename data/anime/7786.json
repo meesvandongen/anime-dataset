@@ -1,0 +1,54 @@
+{
+  "id": 7786,
+  "title": "Arabian Night: Sindbad no Bouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1176/100506.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1176/100506l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Arabian Nights: Sinbad's Adventures",
+    "ja": "アラビアンナイト　シンドバッドの冒険"
+  },
+  "start_date": "1962-06-16",
+  "end_date": "1962-06-16",
+  "synopsis": "This is a work by Toei Animation Co., Ltd. with screenplay by Tezuka Osamu in cooperation with novelist Kita Morio. Sinbad and a boy, Ali, are stowaways on the transport ship \"Boulder,\" but they win their proper places on the ship after currying the favor of the captain. \nThen the beautiful princess Samir jumps on board to escape a wicked minister who wants to marry her, and Sinbad goes through a series of adventures to protect the princess. \n\nThe story unfolds with ups and downs, full of dramatic episodes from the original story such as a rough-and-tumble battle with a strange bird that is guarding diamonds.",
+  "mean": 5.46,
+  "rank": 11704,
+  "popularity": 11294,
+  "num_list_users": 1956,
+  "num_scoring_users": 714,
+  "nsfw": "white",
+  "created_at": "2009-12-30T08:57:20+00:00",
+  "updated_at": "2021-08-21T01:19:38+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1962,
+    "season": "spring"
+  },
+  "source": "book",
+  "average_episode_duration": 4860,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

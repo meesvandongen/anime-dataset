@@ -1,0 +1,54 @@
+{
+  "id": 21549,
+  "title": "Hitotsuboshi-ke no Ultra Baasan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/56789.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/56789l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Super Grandmother of the Hitotsuboshi Family"
+    ],
+    "en": "",
+    "ja": "一ツ星家のウルトラ婆さん"
+  },
+  "start_date": "1982-10-16",
+  "end_date": "1983-01-15",
+  "synopsis": "",
+  "rank": 20113,
+  "popularity": 15992,
+  "num_list_users": 503,
+  "num_scoring_users": 102,
+  "nsfw": "white",
+  "created_at": "2013-12-11T11:05:15+00:00",
+  "updated_at": "2013-12-11T11:05:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 1982,
+    "season": "fall"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    },
+    {
+      "id": 452,
+      "name": "Knack Productions"
+    }
+  ]
+}

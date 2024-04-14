@@ -1,0 +1,64 @@
+{
+  "id": 12951,
+  "title": "AWOL",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/36369.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/36369l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "AWOL: Absent Without Leave"
+    ],
+    "en": "",
+    "ja": "エイウォール"
+  },
+  "start_date": "1998-01-07",
+  "end_date": "1998-04-01",
+  "synopsis": "Cyress is a peaceful place. People are going about their lives. Two lovers embrace, a family throws a birthday party for their child, a group of people party at a local restaurant. But suddenly, their surroundings explode into smoke and flame. A group of terrorists has snuck through the planetary defenses and has begun an assault. Defenseless, there is little the people of Cyress can do. As the military scrambles to discover what happened, the terrorists manage to hijack seven PDP missiles, which are capable of destroying an entire planet. These terrorists, who call themselves \"Solomon\" can now hold entire planets hostage! They must not be stopped.\n\n(Source: Themanime)",
+  "mean": 5.35,
+  "rank": 12021,
+  "popularity": 12017,
+  "num_list_users": 1521,
+  "num_scoring_users": 285,
+  "nsfw": "white",
+  "created_at": "2012-02-09T17:23:03+00:00",
+  "updated_at": "2021-09-09T11:53:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1998,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:45"
+  },
+  "source": "original",
+  "average_episode_duration": 1447,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

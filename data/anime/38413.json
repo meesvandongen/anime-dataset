@@ -1,0 +1,62 @@
+{
+  "id": 38413,
+  "title": "Arad: Suming Zhi Men",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1143/94976.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1143/94976l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Alade : Suming Zhi Men",
+      "Arad: Shukumei no Mon",
+      "Arad: The Gate of Destiny"
+    ],
+    "en": "The Fate of Arad",
+    "ja": "阿拉德：宿命之門"
+  },
+  "start_date": "2017-04-28",
+  "end_date": "2017-09-01",
+  "synopsis": "",
+  "mean": 6.03,
+  "rank": 9424,
+  "popularity": 10796,
+  "num_list_users": 2299,
+  "num_scoring_users": 294,
+  "nsfw": "white",
+  "created_at": "2018-09-27T11:11:03+00:00",
+  "updated_at": "2022-03-03T12:25:31+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 882,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1593,
+      "name": "Success Corp."
+    },
+    {
+      "id": 1879,
+      "name": "Dangun Pictures"
+    }
+  ]
+}

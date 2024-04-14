@@ -1,0 +1,56 @@
+{
+  "id": 3325,
+  "title": "Yuusha Exkaiser",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1471/92206.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1471/92206l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Brave Exkaiser"
+    ],
+    "en": "The Brave Fighter Exkizer",
+    "ja": "勇者エクスカイザー"
+  },
+  "start_date": "1990-02-03",
+  "end_date": "1991-01-26",
+  "synopsis": "When aliens plan to invade Earth, a young boy named Kouta must team up with a giant robot from outer space, Exkaiser, in order to save the world and his friends.",
+  "mean": 6.74,
+  "rank": 5512,
+  "popularity": 9881,
+  "num_list_users": 3083,
+  "num_scoring_users": 819,
+  "nsfw": "white",
+  "created_at": "2007-10-30T04:31:00+00:00",
+  "updated_at": "2022-12-30T01:09:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 48,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1455,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

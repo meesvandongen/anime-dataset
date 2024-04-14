@@ -1,0 +1,65 @@
+{
+  "id": 40595,
+  "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1100/109044.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1100/109044l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Last Battlefield Between You and I, or Perhaps the Beginning of the World's Holy War",
+      "Kimisen"
+    ],
+    "en": "Our Last Crusade or the Rise of a New World",
+    "ja": "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+  },
+  "start_date": "2020-10-07",
+  "end_date": "2020-12-23",
+  "synopsis": "A force known as Astral power permeates throughout the world, wielded by astral mages. Fearing its destructive power, the \"Empire\" persecutes those who show their abilities. The tormented mages then founded the Nebulis Sovereignty to flee from their oppressors. Since then, the two nations have been in bitter conflict, the war still going strong for more than a century.\n\nAfter committing the great crime of freeing an imprisoned witch, the talented knight Iska is sentenced to prison. A year later, the Empire leadership suddenly decides to set him free, with the condition that he hunts down a fearsome mage known as the \"Ice Calamity Witch.\" Hoping to end the war, Iska agrees. Coincidentally, the Ice Calamity Witch herself, Aliceliese \"Alice\" Lou Nebulis XI, also wishes for peace and is willing to do everything she can to bring down the Empire.\n\nAs Iska and Alice both yearn for a crusade that will turn the world into one without struggle, woe, or pain, the strings of fate tie them ever closer together, creating a bond that goes beyond something fabricated by mere coincidence.\n\n[Written by MAL Rewrite] ",
+  "mean": 6.67,
+  "rank": 5877,
+  "popularity": 850,
+  "num_list_users": 285237,
+  "num_scoring_users": 129267,
+  "nsfw": "white",
+  "created_at": "2019-10-20T06:52:16+00:00",
+  "updated_at": "2022-04-18T00:43:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1424,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

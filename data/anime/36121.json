@@ -1,0 +1,44 @@
+{
+  "id": 36121,
+  "title": "Ikkyuu Nyuukon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/88614.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/88614l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Only My Oppai Soul",
+    "ja": "一求乳魂"
+  },
+  "start_date": "2017-10-20",
+  "end_date": "2018-06-22",
+  "synopsis": "",
+  "mean": 6.95,
+  "popularity": 5948,
+  "num_list_users": 11819,
+  "num_scoring_users": 4335,
+  "nsfw": "gray",
+  "created_at": "2017-08-09T18:15:30+00:00",
+  "updated_at": "2023-01-24T10:55:01+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1370,
+  "rating": "rx",
+  "studios": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": 31874,
+  "title": "2002-nen Halmeoni Ondo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/76750.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/76750l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "2002-nen Baachan Ondo"
+    ],
+    "en": "",
+    "ja": "2002年ばあちゃん（ハルモニ）音頭"
+  },
+  "start_date": "2002-04-04",
+  "end_date": "2002-04-04",
+  "synopsis": "A music video for the song 2002-nen Halmeoni Ondo by Mika Shinno that was featured on NHK's Minna no Uta program.",
+  "mean": 4.65,
+  "popularity": 15290,
+  "num_list_users": 585,
+  "num_scoring_users": 271,
+  "nsfw": "white",
+  "created_at": "2015-10-18T12:29:38+00:00",
+  "updated_at": "2022-03-13T20:37:22+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 135,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 54171,
+  "title": "Bleach: Shuku! Rukia Dakkan! Kagayaku! Shinigami Juuban Shoubu! Mitai Shinigami Doon to Misemasu Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1141/132608.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1141/132608l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bleach: Gathering! Rukia's Rescue! Shining! The Ultimate Shinigami Showdown! Special Showing of the Shinigami Teams!",
+    "ja": "BLEACH 祝！ルキア奪還！輝け！死神十番勝負！見たい死神ドーンと見せますスペシャル"
+  },
+  "start_date": "2006-01-10",
+  "end_date": "2006-01-10",
+  "synopsis": "Recap that originally aired with episode 63 of Bleach, then was released on the fifth volume DVD of the Soul Society: The Rescue arc.",
+  "mean": 6.51,
+  "rank": 6804,
+  "popularity": 11440,
+  "num_list_users": 1860,
+  "num_scoring_users": 621,
+  "nsfw": "white",
+  "created_at": "2023-01-10T20:29:19+00:00",
+  "updated_at": "2023-01-11T11:05:02+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

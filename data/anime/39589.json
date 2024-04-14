@@ -1,0 +1,62 @@
+{
+  "id": 39589,
+  "title": "Kouya no Kotobuki Hikoutai Gaiden: Oozora no Harukaze Hikoutai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1665/111718.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1665/111718l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Magnificent Kotobuki Side Story: The Harukaze Squadron of the Great Sky",
+      "The Kotobuki Squadron in the Wilderness Side Story: The Harukaze Squadron of the Great Sky",
+      "The Harukaze Squadron of the Great Sky"
+    ],
+    "en": "",
+    "ja": "荒野のコトブキ飛行隊 外伝 大空のハルカゼ飛行隊"
+  },
+  "start_date": "2019-04-10",
+  "end_date": "2020-02-29",
+  "synopsis": "A short spin-off anime released on \"Kouya no Kotobuki Hikoutai: Oozora no Takeoff Girls!\" game app and YouTube. \n\n(Source: AniDB)",
+  "mean": 6.31,
+  "rank": 7948,
+  "popularity": 10820,
+  "num_list_users": 2283,
+  "num_scoring_users": 268,
+  "nsfw": "white",
+  "created_at": "2019-03-23T08:57:17+00:00",
+  "updated_at": "2021-11-23T05:23:36+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 840,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 318,
+      "name": "WAO World"
+    },
+    {
+      "id": 1381,
+      "name": "GEMBA"
+    }
+  ]
+}

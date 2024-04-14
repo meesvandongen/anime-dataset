@@ -1,0 +1,58 @@
+{
+  "id": 41401,
+  "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1201/106347.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1201/106347l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "TV Yarou Nanaana Season 3",
+      "Televi Yarou Nanana",
+      "TV Yarou Nana-na"
+    ],
+    "en": "",
+    "ja": "テレビ野郎 ナナーナ 怪物クラーケンを追え!"
+  },
+  "start_date": "2020-04-16",
+  "end_date": "2020-09-24",
+  "synopsis": "Third season of TV Yarou Nanaana.",
+  "mean": 5.94,
+  "rank": 9863,
+  "popularity": 12282,
+  "num_list_users": 1390,
+  "num_scoring_users": 391,
+  "nsfw": "white",
+  "created_at": "2020-03-07T07:06:21+00:00",
+  "updated_at": "2022-03-04T14:32:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "19:53"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1927,
+      "name": "Studio Crocodile"
+    }
+  ]
+}

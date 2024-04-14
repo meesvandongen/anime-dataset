@@ -1,0 +1,72 @@
+{
+  "id": 12929,
+  "title": "Saint Seiya Omega",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/76052.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/76052l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saint Seiya Ω"
+    ],
+    "en": "",
+    "ja": "聖闘士星矢Ω"
+  },
+  "start_date": "2012-04-01",
+  "end_date": "2014-03-30",
+  "synopsis": "The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido (Athena) is raising the boy Kouga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis... \n\nUnaware of his destiny, when Kouga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.\n\n(Source: ANN)",
+  "mean": 6.28,
+  "rank": 8147,
+  "popularity": 3129,
+  "num_list_users": 49406,
+  "num_scoring_users": 24605,
+  "nsfw": "white",
+  "created_at": "2012-02-06T21:58:36+00:00",
+  "updated_at": "2024-02-04T01:36:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 97,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "06:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1405,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

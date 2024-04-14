@@ -1,0 +1,70 @@
+{
+  "id": 18441,
+  "title": "Blood Lad: Wagahai wa Neko de wa Nai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/52611.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/52611l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Blood Lad OVA",
+    "ja": "ブラッドラッド 我輩は猫ではない"
+  },
+  "start_date": "2013-12-04",
+  "end_date": "2013-12-04",
+  "synopsis": "Bundled with the tenth limited-edition volume of Blood Lad manga.",
+  "mean": 7.11,
+  "rank": 3749,
+  "popularity": 1896,
+  "num_list_users": 113701,
+  "num_scoring_users": 60179,
+  "nsfw": "white",
+  "created_at": "2013-04-21T08:20:34+00:00",
+  "updated_at": "2023-10-02T17:37:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1620,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

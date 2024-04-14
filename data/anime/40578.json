@@ -1,0 +1,68 @@
+{
+  "id": 40578,
+  "title": "Lupin III: Prison of the Past",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1534/105213.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1534/105213l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lupin Sansei: Prison of the Past"
+    ],
+    "en": "",
+    "ja": "ルパン三世 プリズン・オブ・ザ・パスト"
+  },
+  "start_date": "2019-11-29",
+  "end_date": "2019-11-29",
+  "synopsis": "The episode focuses on Lupin's gang descending upon the Kingdom of Dorrente in order to rescue a famous thief who has been detained. While this takes place, the most notorious thieves from around the world gather in the kingdom.\n\n(Source: MAL News)",
+  "mean": 6.92,
+  "rank": 4634,
+  "popularity": 8425,
+  "num_list_users": 5024,
+  "num_scoring_users": 1857,
+  "nsfw": "white",
+  "created_at": "2019-10-17T20:20:06+00:00",
+  "updated_at": "2023-12-29T03:11:02+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

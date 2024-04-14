@@ -1,0 +1,49 @@
+{
+  "id": 40877,
+  "title": "Suki tte Nandarou... Namida",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1167/104803.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1167/104803l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "好きってなんだろう… 涙"
+  },
+  "start_date": "2015-07-03",
+  "end_date": "2015-07-03",
+  "synopsis": "Music video directed by ShiShi Yamazaki for the song Suki tte Nandarou... Namida by YUKI (Yuki Kuramochi). The full version of the music video was officially released on YouTube for a limited time before the single's drop on July 29, 2015. It was also included on DVD with a limited edition release.",
+  "mean": 5.54,
+  "popularity": 18722,
+  "num_list_users": 287,
+  "num_scoring_users": 143,
+  "nsfw": "white",
+  "created_at": "2019-12-14T22:39:42+00:00",
+  "updated_at": "2019-12-14T22:39:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 257,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1972,
+      "name": "HOTZIPANG"
+    }
+  ]
+}

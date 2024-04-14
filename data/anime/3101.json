@@ -1,0 +1,68 @@
+{
+  "id": 3101,
+  "title": "F-Zero: Falcon Densetsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1569/95419.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1569/95419l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "F-Zero: The Legend of Falcon"
+    ],
+    "en": "F-Zero: GP Legend",
+    "ja": "F-ZERO ファルコン伝説"
+  },
+  "start_date": "2003-10-07",
+  "end_date": "2004-09-28",
+  "synopsis": "Rick Wheeler was a police detective who got into a fatal car accident while pursuing the criminal Zoda. He was placed into artificial coldsleep for 150 years. Wheeler is brought back to life by Jody Summer and Dr. Stewart, who work with a group of good racers who try to keep prize money out of the hands of unsavory people like the Dark Million Organization run by Black Shadow and Deathborn.",
+  "mean": 6.5,
+  "rank": 6885,
+  "popularity": 6498,
+  "num_list_users": 9568,
+  "num_scoring_users": 2776,
+  "nsfw": "white",
+  "created_at": "2007-09-10T02:18:10+00:00",
+  "updated_at": "2022-12-13T13:08:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1380,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

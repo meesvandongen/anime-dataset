@@ -1,0 +1,52 @@
+{
+  "id": 37749,
+  "title": "Turning Mecard R",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1592/98721.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1592/98721l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Turning Mecard R",
+    "ja": "터닝메카드 R"
+  },
+  "start_date": "2017-09-14",
+  "end_date": "2018-04-05",
+  "synopsis": "Turning Mecard R was announced as a CG-reboot of Turning Mecard. It features the same characters as Turning Mecard and Turning Mecard W.\n\n(Source: Wikia)",
+  "rank": 14086,
+  "popularity": 17242,
+  "num_list_users": 392,
+  "num_scoring_users": 105,
+  "nsfw": "white",
+  "created_at": "2018-04-16T19:44:38+00:00",
+  "updated_at": "2018-04-16T19:44:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 695,
+  "rating": "g",
+  "studios": []
+}

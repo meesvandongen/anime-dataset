@@ -1,0 +1,54 @@
+{
+  "id": 36798,
+  "title": "Yuuki Yuuna wa Yuusha de Aru: Hidamari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/89061.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/89061l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Yuki Yuna is a Hero: A Sunny Place",
+    "ja": "結城友奈は勇者である 総集編「ひだまり」"
+  },
+  "start_date": "2017-11-18",
+  "end_date": "2017-11-18",
+  "synopsis": "A recap episode of the original series made to connect Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou to the sequel series Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou.",
+  "mean": 7.02,
+  "rank": 4238,
+  "popularity": 6502,
+  "num_list_users": 9553,
+  "num_scoring_users": 3885,
+  "nsfw": "white",
+  "created_at": "2017-11-13T14:41:17+00:00",
+  "updated_at": "2022-12-20T08:39:05+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

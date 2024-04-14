@@ -1,0 +1,64 @@
+{
+  "id": 38328,
+  "title": "Azur Lane",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1106/111620.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1106/111620l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Azur Lane"
+    ],
+    "en": "Azur Lane the Animation",
+    "ja": "アズールレーン THE ANIMATION"
+  },
+  "start_date": "2019-10-03",
+  "end_date": "2020-03-20",
+  "synopsis": "When the \"Sirens,\" an alien force with an arsenal far surpassing the limits of current technology, suddenly appeared, a divided humanity stood in complete solidarity for the first time. Four countries—Eagle Union, Royal Navy, Sakura Empire, and Iron Blood—formed Azur Lane, paving the way for the improvement of modern warfare, which led to an initial victory against the common threat. However, this tenuous union was threatened by opposing ideals, dividing the alliance into two. Sakura Empire and Iron Blood broke away and formed the Red Axis, and humanity became fragmented once again.\n\nAs a seasoned and experienced fighter, the \"Grey Ghost\" Enterprise shoulders Azur Lane's hope for ending the war. But behind her stoic persona hides a frail girl, afraid of the ocean. Even so, she continues to fight as she believes that it's the only purpose for her existence. Meanwhile, Javelin, Laffey, and Unicorn—three ships from the union—stumble upon Ayanami, a spy from the Red Axis. Strange as it may seem, they try to befriend her, but as enemies, their efforts are for naught. Still, they persevere in hopes of succeeding one day.\n\nAmidst the neverending conflict within humankind, the keys that could unite a fragmented race might exist: a soldier coming to terms with her mysterious personality and camaraderie between those with different ideals.\n\n[Written by MAL Rewrite]",
+  "mean": 6.29,
+  "rank": 8080,
+  "popularity": 1372,
+  "num_list_users": 170739,
+  "num_scoring_users": 61799,
+  "nsfw": "white",
+  "created_at": "2018-09-15T09:13:57+00:00",
+  "updated_at": "2023-11-23T08:06:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1722,
+      "name": "Bibury Animation Studios"
+    }
+  ]
+}

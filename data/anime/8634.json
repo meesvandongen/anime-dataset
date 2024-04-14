@@ -1,0 +1,56 @@
+{
+  "id": 8634,
+  "title": "Koisuru Boukun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/26233.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/26233l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koi Suru Boukun",
+      "Koisuru Bokun"
+    ],
+    "en": "The Tyrant Falls In Love",
+    "ja": "恋する暴君"
+  },
+  "start_date": "2010-06-25",
+  "end_date": "2010-11-27",
+  "synopsis": "Tetsuhiro Morinaga is in love with his upperclassman Souichi Tatsumi. He even manages to confess his love. Too bad it turns out that Tatsumi is an aggressive, self-centered, and outspoken homophobe.\n\nYet somehow, Tetsuhiro managed to fall in love with Tatsumi, the \"walking personality disorder,\" who is the kind of man who declares that all gay men should be wiped off the face of the planet.\n\nAn unfortunate accident with an aphrodisiac drug brings the two men physically together against Souichi's will. The experience has a life-changing effect on both men. But will it ultimately bring them closer or drive them apart?",
+  "mean": 6.92,
+  "popularity": 2602,
+  "num_list_users": 69062,
+  "num_scoring_users": 38997,
+  "nsfw": "gray",
+  "created_at": "2010-04-19T15:08:36+00:00",
+  "updated_at": "2024-02-02T06:12:23+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1782,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 347,
+      "name": "PrimeTime"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 33523,
+  "title": "Boku wa Koko de Ikiteiku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/80645.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/80645l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "僕はここで生きていく"
+  },
+  "start_date": "2015-12-01",
+  "end_date": "2015-12-01",
+  "synopsis": "A Minna no Uta music video for American-born singer Chris Hart's 5th single Boku wa Koko de Ikiteiku.",
+  "mean": 6,
+  "popularity": 17768,
+  "num_list_users": 353,
+  "num_scoring_users": 148,
+  "nsfw": "white",
+  "created_at": "2016-07-01T06:25:57+00:00",
+  "updated_at": "2021-06-28T18:44:33+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "music",
+  "average_episode_duration": 124,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1522,
+      "name": "Echoes"
+    }
+  ]
+}

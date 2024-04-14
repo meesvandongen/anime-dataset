@@ -1,0 +1,63 @@
+{
+  "id": 1702,
+  "title": "Yoru ga Kuru!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1860/113195.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1860/113195l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yoru ga Kuru! Square of the Moon"
+    ],
+    "en": "Square Of The Moon: The Night Is Coming!",
+    "ja": "夜が来る!"
+  },
+  "start_date": "2002-04-25",
+  "end_date": "2003-02-21",
+  "synopsis": "Blue moon suddenly appeared near the moon, they called it True Moon. After 3 years when True Moon shined blue, a monster appeared in front of Ryo. He ran away from the monster, but finally, the monster cornered him. When he began to accept his death, a red eyed girl, Izumi, appeared. She cut the monster to death, and gone.\n\n(Source: AnimeNfo)",
+  "mean": 5.47,
+  "popularity": 9788,
+  "num_list_users": 3182,
+  "num_scoring_users": 760,
+  "nsfw": "gray",
+  "created_at": "2006-11-30T17:40:52+00:00",
+  "updated_at": "2022-02-19T19:59:47+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1835,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 192,
+      "name": "Shinkuukan"
+    }
+  ]
+}

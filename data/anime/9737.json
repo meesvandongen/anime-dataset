@@ -1,0 +1,64 @@
+{
+  "id": 9737,
+  "title": "Appleseed XIII",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/28796.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/28796l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Appleseed (2011)"
+    ],
+    "en": "",
+    "ja": "アップルシード XIII"
+  },
+  "start_date": "2011-06-03",
+  "end_date": "2012-01-25",
+  "synopsis": "After facing massive destruction from a devastating war, the city Olympus has become the last stronghold as the center of command for the world. In order to protect the city from a group of terrorists known as the Argonauts, former LAPD SWAT member, Deunan Knotts, runs special military forces consisting of Biroids (cloned humans) and her cyborg partner Brialeos. Knotts must protect the city at all costs but is met with difficulties when Al Ceides, the Argonaut leader thought to be dead, resurfaces and causes problems. \n\n(Source: FUNimation) ",
+  "mean": 6.29,
+  "rank": 8079,
+  "popularity": 5492,
+  "num_list_users": 14416,
+  "num_scoring_users": 4266,
+  "nsfw": "white",
+  "created_at": "2010-10-27T03:44:23+00:00",
+  "updated_at": "2023-10-16T06:16:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1320,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 444,
+      "name": "Jinnis Animation Studios"
+    }
+  ]
+}

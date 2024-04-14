@@ -1,0 +1,58 @@
+{
+  "id": 4793,
+  "title": "Pokemon: Pichu to Pikachu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1075/97384.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1075/97384l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pokémon: Pikachu and Pichu",
+    "ja": "ピチューとピカチュウ"
+  },
+  "start_date": "2000-07-08",
+  "end_date": "2000-07-08",
+  "synopsis": "Pikachu meets the Pichu brothers and goes on an adventure through the city with them while trying to get back to the building where the rest of Ash's Pokemon are.",
+  "mean": 6.71,
+  "rank": 5706,
+  "popularity": 3367,
+  "num_list_users": 43256,
+  "num_scoring_users": 24822,
+  "nsfw": "white",
+  "created_at": "2008-06-27T20:46:26+00:00",
+  "updated_at": "2022-04-07T00:52:48+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 1350,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

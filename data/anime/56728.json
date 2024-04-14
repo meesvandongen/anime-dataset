@@ -1,0 +1,51 @@
+{
+  "id": 56728,
+  "title": "Qing Chi Hong Xiaodou Ba! Season 0.5",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1219/138673.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1219/138673l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Qing Chi Hong Xiaodou Ba! Di 0.5 Ji"
+    ],
+    "en": "Beanie's Daily Season 0.5",
+    "ja": "请吃红小豆吧！第0.5季"
+  },
+  "start_date": "2022-05-05",
+  "end_date": "2022-08-18",
+  "synopsis": "A prequel series to Qing Chi Hong Xiaodou Ba!",
+  "rank": 17415,
+  "popularity": 22874,
+  "num_list_users": 95,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2023-09-24T02:12:56+00:00",
+  "updated_at": "2023-09-24T21:27:53+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2069,
+      "name": "Making Animation"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 23697,
+  "title": "Kara no Kyoukai: Manner Movies",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/78704.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/78704l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kara no Kyoukai Specials",
+      "Kara no Kyoukai: The Garden of Sinners Specials"
+    ],
+    "en": "The Garden of Sinners: Manner Movies",
+    "ja": "劇場版 空の境界 劇場鑑賞マナーCM"
+  },
+  "start_date": "2007-12-01",
+  "end_date": "2009-08-08",
+  "synopsis": "Seven cinema intros that were shown with the seven movies of Kara no Kyoukai and included as a bonus with the Blu-ray/DVD release.",
+  "mean": 6.41,
+  "rank": 7419,
+  "popularity": 5731,
+  "num_list_users": 13018,
+  "num_scoring_users": 5421,
+  "nsfw": "white",
+  "created_at": "2014-04-09T20:39:01+00:00",
+  "updated_at": "2022-02-21T05:42:22+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

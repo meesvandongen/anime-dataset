@@ -1,0 +1,66 @@
+{
+  "id": 34012,
+  "title": "Isekai Shokudou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/86666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/86666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Restaurant to Another World",
+    "ja": "異世界食堂"
+  },
+  "start_date": "2017-07-04",
+  "end_date": "2017-09-19",
+  "synopsis": "Western Restaurant Nekoya is a popular eatery located on a street corner in a Tokyo shopping district. Serving both traditional Japanese fare as well as Western dishes, this eating establishment is popular among Tokyo's residents. But this seemingly ordinary restaurant is also popular with another type of clientele...\n\nWhile the restaurant is thought to be closed on Saturdays, the truth is that on this special day each week, its doors are instead opened to the inhabitants of other worlds. From dragons and elves to fairies and mages, this restaurant has no shortage of strange customers. Nevertheless, the enigmatic chef known only as \"Master\" will be waiting to serve up their favorite dishes with a kind smile and keep them coming back for many more Saturdays to come. \n\n[Written by MAL Rewrite]",
+  "mean": 7.4,
+  "rank": 2273,
+  "popularity": 953,
+  "num_list_users": 253776,
+  "num_scoring_users": 112813,
+  "nsfw": "white",
+  "created_at": "2016-09-07T10:00:28+00:00",
+  "updated_at": "2023-08-31T16:30:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:35"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

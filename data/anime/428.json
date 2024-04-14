@@ -1,0 +1,60 @@
+{
+  "id": 428,
+  "title": "Kaleido Star: Aratanaru Tsubasa - Extra Stage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/23761.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/23761l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaleido Star: New Wings - The Amazing Princess Without a Smile"
+    ],
+    "en": "Kaleido Star: New Wings Extra Stage",
+    "ja": "カレイドスター ～新たなる翼～ EXTRA STAGE"
+  },
+  "start_date": "2004-09-24",
+  "end_date": "2004-09-24",
+  "synopsis": "Sora Naegino has finally consolidated herself as Kaleido Stage's greatest star ever, and a new star starts to shine as Rosetta Passel is selected to participate in the next attraction in a main role. But when things start to go wrong in the rehearsals, Rosetta starts to question her abillity to take the role, as her own capacity to remain in Kaleido Stage. Meanwhile, Fool also struggles with his demons from the past. ",
+  "mean": 7.46,
+  "rank": 2017,
+  "popularity": 5516,
+  "num_list_users": 14278,
+  "num_scoring_users": 7248,
+  "nsfw": "white",
+  "created_at": "2005-12-26T06:48:01+00:00",
+  "updated_at": "2022-10-31T10:39:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1459,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 33454,
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kankichi Saigo no Hi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/80486.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/80486l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kochira Katsushikaku Kameari Kouenmae Hashutsujo Special 27",
+      "Kochira Katsushika-ku Kamearikouen-mae Hashutsujo",
+      "Kochikame",
+      "This is the Police Station in Front of Kameari Park in Katsushika Ward"
+    ],
+    "en": "",
+    "ja": "こちら葛飾区亀有公園前派出所～THE FINAL 両津勘吉最後の日～"
+  },
+  "start_date": "2016-09-18",
+  "end_date": "2016-09-18",
+  "synopsis": "The typical Kochikame plot involves Ryo-san coming up with a money-making scheme by inventing a new gadget or capitalizing on a fad, achieving great success, calling on Nakagawa's help as things turn sour, and finally losing it all as the fad runs out of steam or out of control. While the plots are gag-driven, much of the humor comes from the juxtaposition of mundane characters with the bizarrely incongruous (Nakagawa's wealth, Maria's appeal, everyone's lack of actual police work), most of which is never explained or rationalized in the slightest. \n\n(Source: Wikipedia)",
+  "mean": 6.49,
+  "rank": 6919,
+  "popularity": 13258,
+  "num_list_users": 1035,
+  "num_scoring_users": 226,
+  "nsfw": "white",
+  "created_at": "2016-06-17T01:26:55+00:00",
+  "updated_at": "2024-02-04T16:23:52+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2880,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 40393,
+  "title": "Taka no Tsumedan no Ike! ODAman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1318/103016.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1318/103016l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "鷹の爪団の 行け！ＯＤＡマン"
+  },
+  "start_date": "2018-09-20",
+  "synopsis": "A collaboration between the Eagle Talon franchise and the Ministry of Foreign Affairs Japan Official Development Assistance program. Yoshida has become a superhero called ODAman and explains everything about the ODA program. Essentially the program gathers aid from developed countries to assist developing countries to help close the gap in education, agriculture, financial power, etc.\n\nEpisodes are first posted to MOFA's official YouTube channel and then later on DLE's official YouTube channel.",
+  "rank": 13736,
+  "popularity": 18233,
+  "num_list_users": 319,
+  "num_scoring_users": 32,
+  "nsfw": "white",
+  "created_at": "2019-09-10T05:56:02+00:00",
+  "updated_at": "2023-07-14T14:45:17+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 185,
+  "rating": "g",
+  "studios": []
+}

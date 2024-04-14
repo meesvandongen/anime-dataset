@@ -1,0 +1,54 @@
+{
+  "id": 37960,
+  "title": "King of Prism: Shiny Seven Stars I - Prologue x Yukinojou x Taiga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1726/96341.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1726/96341l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "KING OF PRISM -Shiny Seven Stars- I プロローグxユキノジョウ×タイガ"
+  },
+  "start_date": "2019-03-02",
+  "end_date": "2019-03-02",
+  "synopsis": "The first movie in the four-part King of Prism: Shiny Seven Stars movie series.",
+  "mean": 6.23,
+  "rank": 8429,
+  "popularity": 10573,
+  "num_list_users": 2454,
+  "num_scoring_users": 255,
+  "nsfw": "white",
+  "created_at": "2018-07-20T18:20:03+00:00",
+  "updated_at": "2022-11-23T21:03:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 4500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

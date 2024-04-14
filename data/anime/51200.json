@@ -1,0 +1,52 @@
+{
+  "id": 51200,
+  "title": "Ami no Monomane 150 Renpatsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1620/121310.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1620/121310l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ami's impersonation 150 barrage"
+    ],
+    "en": "Ami's Impersonation: 150 Consecutive Attempts",
+    "ja": "亜美のモノマネ 150連発"
+  },
+  "start_date": "2009-04-30",
+  "end_date": "2009-04-30",
+  "synopsis": "A scene left out of episode 6. Included as a bonus content on the BD/DVD of Toradora PSP premium box.",
+  "mean": 5.3,
+  "rank": 12136,
+  "popularity": 13454,
+  "num_list_users": 982,
+  "num_scoring_users": 386,
+  "nsfw": "white",
+  "created_at": "2022-03-08T20:16:15+00:00",
+  "updated_at": "2023-01-10T10:04:18+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 146,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

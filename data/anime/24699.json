@@ -1,0 +1,56 @@
+{
+  "id": 24699,
+  "title": "Ai Tenchi Muyou!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/67801.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/67801l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tenchi Muyo! Love"
+    ],
+    "en": "",
+    "ja": "愛・天地無用!"
+  },
+  "start_date": "2014-10-06",
+  "end_date": "2014-12-26",
+  "synopsis": "The franchise is celebrating its 20th anniversary with this new project.\n\nNote: The recap episodes are not included in the main episode count and are now included here.",
+  "mean": 6.14,
+  "rank": 8844,
+  "popularity": 3724,
+  "num_list_users": 35690,
+  "num_scoring_users": 10964,
+  "nsfw": "white",
+  "created_at": "2014-06-16T09:18:03+00:00",
+  "updated_at": "2022-11-04T20:44:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "21:55"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 292,
+      "name": "AIC PLUS+"
+    }
+  ]
+}

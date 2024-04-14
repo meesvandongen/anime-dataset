@@ -1,0 +1,56 @@
+{
+  "id": 19877,
+  "title": "Battle Spirits: Sword Eyes Gekitouden",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/52985.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/52985l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Battle Spirits Season 6"
+    ],
+    "en": "",
+    "ja": "バトルスピリッツ ソードアイズ激闘伝"
+  },
+  "start_date": "2013-04-07",
+  "end_date": "2013-09-08",
+  "synopsis": "",
+  "mean": 6.59,
+  "rank": 6350,
+  "popularity": 11179,
+  "num_list_users": 2036,
+  "num_scoring_users": 620,
+  "nsfw": "white",
+  "created_at": "2013-08-03T15:57:53+00:00",
+  "updated_at": "2022-04-16T12:02:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 21,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "card_game",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

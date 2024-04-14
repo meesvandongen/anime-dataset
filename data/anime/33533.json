@@ -1,0 +1,70 @@
+{
+  "id": 33533,
+  "title": "Tokyo Onlypic",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/80665.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/80665l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Opening Ceremony",
+      "Hellmarathon Women",
+      "Brancer",
+      "Baka Modern Tetrathlon",
+      "Homeathlon",
+      "Watakkyu",
+      "Doping Freestyle",
+      "Locker Room",
+      "Independence Men",
+      "Ironball Throwing Men",
+      "Samurai Call",
+      "Humanism Men",
+      "Giant Sumo",
+      "The Race for Love",
+      "Animal Lifting",
+      "1000 Characters SMSing"
+    ],
+    "en": "Tokyo Onlypic Pictures 2008",
+    "ja": "東京オンリーピック"
+  },
+  "start_date": "2008-08-08",
+  "end_date": "2008-08-08",
+  "synopsis": "An omnibus film depicting 15 fictional sports events created by different directors. Onlypic stands for only + pictures (video).",
+  "rank": 13964,
+  "popularity": 17301,
+  "num_list_users": 388,
+  "num_scoring_users": 69,
+  "nsfw": "white",
+  "created_at": "2016-07-02T05:01:50+00:00",
+  "updated_at": "2020-06-05T15:29:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 10020,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1522,
+      "name": "Echoes"
+    }
+  ]
+}

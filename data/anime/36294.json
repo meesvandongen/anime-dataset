@@ -1,0 +1,46 @@
+{
+  "id": 36294,
+  "title": "Kana Kana ka na",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/87680.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/87680l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Is it Kana"
+    ],
+    "en": "",
+    "ja": "かな かな かな"
+  },
+  "start_date": "1978-02-07",
+  "end_date": "1978-02-07",
+  "synopsis": "An official \"Minna no Uta\" music video for Saori Yuki's song Kana Kana ka na.",
+  "popularity": 19364,
+  "num_list_users": 251,
+  "num_scoring_users": 102,
+  "nsfw": "white",
+  "created_at": "2017-09-12T08:59:28+00:00",
+  "updated_at": "2019-01-29T15:22:52+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1978,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 127,
+  "rating": "g",
+  "studios": []
+}

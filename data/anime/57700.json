@@ -1,0 +1,50 @@
+{
+  "id": 57700,
+  "title": "Mawangui Ttal Ireesha",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1526/140698.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1526/140698l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ireesha, The Daughter of Elf-king"
+    ],
+    "en": "Ireesha, The Daughter of Elf-king",
+    "ja": "마왕의 딸 이리샤"
+  },
+  "start_date": "2019-10-26",
+  "end_date": "2019-10-26",
+  "synopsis": "The adventures of high school girl Ireesha and her friends (talking frog and guitar-fairy Robby) as she visits Elf world to retrieve her friend’s soul.",
+  "rank": 16265,
+  "popularity": 26315,
+  "num_list_users": 54,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2024-01-01T15:03:28+00:00",
+  "updated_at": "2024-01-07T17:49:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 5074,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": 22585,
+  "title": "Nukko.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/58907.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/58907l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぬっこ。"
+  },
+  "start_date": "2012-04-02",
+  "end_date": "2012-09-19",
+  "synopsis": "The new Nukko. anime is an adolescent school story revolving around Nukko and Nukko's slightly(?) oddball friends.\n\n(Source: ANN)",
+  "rank": 16930,
+  "popularity": 17883,
+  "num_list_users": 344,
+  "num_scoring_users": 42,
+  "nsfw": "white",
+  "created_at": "2014-02-09T14:46:16+00:00",
+  "updated_at": "2017-03-21T15:44:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
+}

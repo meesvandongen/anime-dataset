@@ -1,0 +1,69 @@
+{
+  "id": 2084,
+  "title": "NG Knight Ramune & 40",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/46723.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/46723l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Knight Lamune & 40",
+      "NG Kishi Ramune & 40"
+    ],
+    "en": "",
+    "ja": "NG騎士ラムネ＆４０"
+  },
+  "start_date": "1990-04-06",
+  "end_date": "1991-01-04",
+  "synopsis": "Lamune is an ordinary 4th grade boy who loves playing video games. He buys one from a peddler girl and helps her sell the rest. At home, he plays the game called \"King Sccasher\" & beats it. The peddler girl then comes out of the TV screen and asks for his help, calling him \"The Blood Relative of the Chosen Hero Lamuness\". She is Princess Milk and takes him to Hara-Hara World where his role is to revive the Guardian Knights. To do this, he had to find an unlock the shrine which held Tama-Q, a robot who became Lamuness' Advisor Robot, and key to freeing the Guardian Knights. All of the Knights are free-thinking mechas except for King Sccasher which is piloted by Lamuness. Opposing Lamuness is Don Harumage and his minions Da Cider and Lesuka. \n\n(Source: ANN)",
+  "mean": 7.39,
+  "rank": 2298,
+  "popularity": 9041,
+  "num_list_users": 4080,
+  "num_scoring_users": 1181,
+  "nsfw": "white",
+  "created_at": "2007-03-10T01:02:04+00:00",
+  "updated_at": "2022-11-06T09:24:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 1990,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "18:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1360,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 22621,
+  "title": "Ahiru no Pekkle no Hihou wo Sagase",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/58961.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/58961l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty and Friends: Find the Secret Treasure"
+    ],
+    "en": "Pekkle in Find the Secret Treasure",
+    "ja": "アヒルのペックルの秘宝を探せ"
+  },
+  "start_date": "1993-04-21",
+  "end_date": "1993-04-21",
+  "synopsis": "Pekkle and his friends find a treasure map that will lead them to a stone that will grant one wish, and they go on a treasure hunt.",
+  "mean": 5.64,
+  "rank": 11109,
+  "popularity": 15978,
+  "num_list_users": 505,
+  "num_scoring_users": 130,
+  "nsfw": "white",
+  "created_at": "2014-02-10T23:25:00+00:00",
+  "updated_at": "2022-01-10T16:11:28+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "average_episode_duration": 1200,
+  "rating": "g",
+  "studios": []
+}

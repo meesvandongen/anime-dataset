@@ -1,0 +1,46 @@
+{
+  "id": 22607,
+  "title": "Ahiru no Pekkle no Suieitaikai wa Oosawagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/58947.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/58947l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty and Friends: The Great Swimming Race"
+    ],
+    "en": "Pekkle in the Great Swimming Race",
+    "ja": "アヒルのペックルの水泳大会は大騷ぎ"
+  },
+  "start_date": "1993-03-21",
+  "end_date": "1993-03-21",
+  "synopsis": "A new boy moves into Pekkle's town, and is trying his hardest to impress Lucy; however, Lucy isn't interested in him. Lucy makes Pekkle out to be a better swimmer than he really is, and the new boy challenges him to a swimming contest.",
+  "mean": 5.42,
+  "rank": 11814,
+  "popularity": 15513,
+  "num_list_users": 554,
+  "num_scoring_users": 162,
+  "nsfw": "white",
+  "created_at": "2014-02-10T23:23:36+00:00",
+  "updated_at": "2022-01-10T16:11:33+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "winter"
+  },
+  "average_episode_duration": 1200,
+  "rating": "g",
+  "studios": []
+}

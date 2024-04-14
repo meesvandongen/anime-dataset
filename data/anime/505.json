@@ -1,0 +1,60 @@
+{
+  "id": 505,
+  "title": "Fushigiboshi no☆Futagohime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1193/133527.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1193/133527l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fushigi-boshi no Futago-hime",
+      "Fushigi Boshi no Futago Hime",
+      "Twin Princesses of the Wonder Planet",
+      "Twin Princesses of the Mysterious Star",
+      "Twin Princess of the Mysterious Planet"
+    ],
+    "en": "",
+    "ja": "ふしぎ星の☆ふたご姫"
+  },
+  "start_date": "2005-04-02",
+  "end_date": "2006-03-25",
+  "synopsis": "In the hollow Mysterious Planet, seven kingdoms co-exist, all of them lit by the Sun's Blessing from the Kingdom of the Sun, in the middle of the planet. The light of the core sun is necessary for the continued existence of all the kingdoms. Yet, something is causing the Sun's Blessing to weaken. If something isn't done, it will be the end of life in the Mysterious Planet. Fortunately, the twin princesses of the Sun Kingdom, Fine and Rein, have been endowed with the magic of the Prominence, and are looking for a way to fix things. \n\n(Source: ANN) ",
+  "mean": 7.49,
+  "rank": 1891,
+  "popularity": 5804,
+  "num_list_users": 12544,
+  "num_scoring_users": 4574,
+  "nsfw": "white",
+  "created_at": "2006-01-04T21:59:41+00:00",
+  "updated_at": "2023-01-15T16:20:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 34,
+      "name": "HAL Film Maker"
+    }
+  ]
+}

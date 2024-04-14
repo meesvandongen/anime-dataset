@@ -1,0 +1,46 @@
+{
+  "id": 57158,
+  "title": "Haru no Rondo",
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "春のロンド"
+  },
+  "start_date": "1963-04",
+  "end_date": "1963-04",
+  "synopsis": "Music video for the song Haru no Rondo by Toshie Kusunoki that was featured on NHK's Minna no Uta program. It is considered to be lost media.",
+  "popularity": 25782,
+  "num_list_users": 58,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2023-11-14T04:28:04+00:00",
+  "updated_at": "2023-11-14T04:28:04+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1963,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 831,
+      "name": "Otogi Production"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 6056,
+  "title": "Sasuke",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/30805.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/30805l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sasuke"
+    ],
+    "en": "",
+    "ja": "サスケ"
+  },
+  "start_date": "1968-09-03",
+  "end_date": "1969-03-25",
+  "synopsis": "Sasuke is the son of a very skilled ninja, whose name is Ozaru. After the defeat of their lord, Yukimura Sanada, Tokugawa's and Hattori's ninjas begin to persecute all their enemies still alive: that means Ozaru and Sasuke must leave their house and start a violent struggle for their own life. Danger, vengeance, anger, loyalty, pain are the basic elements of this story, where the worst aspects of the human soul are described together with the growth of the main character, the young Sasuke. ",
+  "mean": 7.49,
+  "rank": 1916,
+  "popularity": 10830,
+  "num_list_users": 2272,
+  "num_scoring_users": 535,
+  "nsfw": "white",
+  "created_at": "2009-02-12T16:55:04+00:00",
+  "updated_at": "2022-11-12T21:11:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 29,
+  "start_season": {
+    "year": 1968,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 191,
+      "name": "Eiken"
+    }
+  ]
+}

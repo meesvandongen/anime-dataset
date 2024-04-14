@@ -1,0 +1,46 @@
+{
+  "id": 41027,
+  "title": "Kaiketsu Zorori no Kyoufu no Hanayome Sakusen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1919/105323.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1919/105323l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaiketsu Zorori: Terrified Bridal Strategy",
+      "Kaiketsu Zorori Pilot"
+    ],
+    "en": "",
+    "ja": "かいけつゾロリの恐怖の花嫁作戦"
+  },
+  "start_date": "2002-01-28",
+  "end_date": "2002-01-28",
+  "synopsis": "CG pilot film produced in 2002. It was given a limited VHS release.",
+  "rank": 15410,
+  "popularity": 19535,
+  "num_list_users": 241,
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "created_at": "2020-01-10T01:47:49+00:00",
+  "updated_at": "2020-01-31T18:43:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "average_episode_duration": 810,
+  "rating": "g",
+  "studios": []
+}

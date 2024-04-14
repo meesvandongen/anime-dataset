@@ -1,0 +1,56 @@
+{
+  "id": 10647,
+  "title": "Ao no Exorcist: Ura Ex",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/38149.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/38149l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ao no Exorcist Specials",
+      "Ao no Exorcist: Ura Eku",
+      "Ao no Futsumashi",
+      "Blue Exorcist Specials",
+      "Ao no Exorcist Omake"
+    ],
+    "en": "Blue Exorcist: Ura Eku",
+    "ja": "青の祓魔師(エクソシスト) 裏エク"
+  },
+  "start_date": "2011-06-22",
+  "end_date": "2012-03-21",
+  "synopsis": "Ura Ex, extra short anime included in Blu-ray and the DVD releases of Ao no Exorcist. ",
+  "mean": 7.05,
+  "rank": 4031,
+  "popularity": 2231,
+  "num_list_users": 89001,
+  "num_scoring_users": 38292,
+  "nsfw": "white",
+  "created_at": "2011-04-27T21:17:08+00:00",
+  "updated_at": "2022-04-14T07:28:01+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

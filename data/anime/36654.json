@@ -1,0 +1,62 @@
+{
+  "id": 36654,
+  "title": "Tsukumogami Kashimasu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1373/107550.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1373/107550l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "We Rent Tsukumogami",
+    "ja": "つくもがみ貸します"
+  },
+  "start_date": "2018-07-23",
+  "end_date": "2018-10-15",
+  "synopsis": "A pair of adopted siblings run a rental shop in old Edo (Present-day Tokyo) where fire and flooding is prevalent and everyday items are rented out to not impede when they flee. Mixed in the inventory are old objects that have turned into spirits after hundreds of years of existence called, Tsukumogami.\n\nThese supernatural creatures listen to conversations around town and spread it as gossip. It is up to the good-hearted siblings to react to these quarrels and resolve the situation using the powers of the Tsukumogami.\n\n(Source: Crunchyroll)",
+  "mean": 6.7,
+  "rank": 5750,
+  "popularity": 4977,
+  "num_list_users": 18926,
+  "num_scoring_users": 5425,
+  "nsfw": "white",
+  "created_at": "2017-10-23T07:47:26+00:00",
+  "updated_at": "2024-03-31T02:07:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:10"
+  },
+  "source": "novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

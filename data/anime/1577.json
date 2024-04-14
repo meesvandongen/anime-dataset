@@ -1,0 +1,64 @@
+{
+  "id": 1577,
+  "title": "Taiho Shichau zo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1498/97153.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1498/97153l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Taiho Shichauzo"
+    ],
+    "en": "You're Under Arrest",
+    "ja": "逮捕しちゃうぞ"
+  },
+  "start_date": "1994-09-24",
+  "end_date": "1995-11-25",
+  "synopsis": "Running late on her first day as a patrol woman for the Bokuto Police Department, spunky moped rider Natsumi Tsujimoto decides to take several shortcuts, only to be chased down and cited by mechanical genius and expert police driver Miyuki Kobayakawa. Upon arrival at the precinct, Natsumi finds out that her new partner is the same woman who ticketed her earlier. At first, she doesn't trust Miyuki, but in a short period of time, they develop an unbreakable friendship that overcomes traffic accidents, reckless drivers and even the strongest typhoons to hit Tokyo. \n\n(Source: ANN)",
+  "mean": 7.48,
+  "rank": 1935,
+  "popularity": 4096,
+  "num_list_users": 29331,
+  "num_scoring_users": 8752,
+  "nsfw": "white",
+  "created_at": "2006-10-15T14:45:17+00:00",
+  "updated_at": "2022-03-30T20:57:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1742,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

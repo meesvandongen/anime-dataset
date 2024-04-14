@@ -1,0 +1,65 @@
+{
+  "id": 16870,
+  "title": "The Last: Naruto the Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1491/134498.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1491/134498l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Naruto Movie 10: Naruto the Movie: The Last",
+      "Naruto: Shippuuden Movie 7 - The Last"
+    ],
+    "en": "Naruto Shippuden the Movie 7: The Last",
+    "ja": "THE LAST NARUTO THE MOVIE"
+  },
+  "start_date": "2014-12-06",
+  "end_date": "2014-12-06",
+  "synopsis": "Two years have passed since the end of the Fourth Great Ninja War. Konohagakure has remained in a state of peace and harmony—until Sixth Hokage Kakashi Hatake notices the moon is dangerously approaching the Earth, posing the threat of planetary ruin.\n\nAmidst the grave ordeal, the Konoha is invaded by a new evil, Toneri Oosutuski, who suddenly abducts Hinata Hyuuga's little sister Hanabi. Kakashi dispatches a skilled ninja team comprised of Naruto Uzumaki, Sakura Haruno, Shikamaru Nara, Sai, and Hinata in an effort to rescue Hanabi from the diabolical clutches of Toneri. However, during their mission, the team faces several obstacles that challenge them, foiling their efforts.\n\nWith her abduction, the relationships the team share with one another are tested, and with the world reaching the brink of destruction, they must race against time to ensure the safety of their planet. Meanwhile, as the battle ensues, Naruto is driven to fight for something greater than he has ever imagined—love.\n\n[Written by MAL Rewrite]",
+  "mean": 7.79,
+  "rank": 1002,
+  "popularity": 355,
+  "num_list_users": 607747,
+  "num_scoring_users": 404769,
+  "nsfw": "white",
+  "created_at": "2012-12-25T15:50:37+00:00",
+  "updated_at": "2022-04-17T22:31:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 6720,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

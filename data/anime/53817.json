@@ -1,0 +1,47 @@
+{
+  "id": 53817,
+  "title": "Onosaka Konishi no O+K 2.5-jigen Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1549/131777.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1549/131777l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Onosaka Konishi no OTASUKE 2.5-jigen Animation"
+    ],
+    "en": "",
+    "ja": "小野坂・小西のO+K 2.5次元 アニメーション"
+  },
+  "start_date": "2013-12-25",
+  "end_date": "2013-12-25",
+  "synopsis": "An animated series derived from voice actors Masaya Onosaka and Katsuyuki Konishi's web variety program on animate Times.",
+  "rank": 17028,
+  "popularity": 23613,
+  "num_list_users": 84,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2022-12-11T21:12:31+00:00",
+  "updated_at": "2022-12-11T22:49:07+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2646,
+      "name": "trenova"
+    }
+  ]
+}

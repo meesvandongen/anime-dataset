@@ -1,0 +1,50 @@
+{
+  "id": 12005,
+  "title": "What's Michael?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/57369.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/57369l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ホワッツ　マイケル？"
+  },
+  "start_date": "1985-11-25",
+  "end_date": "1985-11-25",
+  "synopsis": "A series of adventures featuring the one cat apparently everyone in the world owns... Michael.",
+  "mean": 5.57,
+  "rank": 11360,
+  "popularity": 12123,
+  "num_list_users": 1467,
+  "num_scoring_users": 512,
+  "nsfw": "white",
+  "created_at": "2011-11-12T05:27:00+00:00",
+  "updated_at": "2022-04-04T23:39:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2256,
+      "name": "Kitty Film Mitaka Studio"
+    }
+  ]
+}

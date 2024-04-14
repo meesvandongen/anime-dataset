@@ -1,0 +1,74 @@
+{
+  "id": 52955,
+  "title": "Mahoutsukai no Yome Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1532/135155.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1532/135155l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Ancient Magus Bride 2",
+      "Mahoutsukai no Yome 2",
+      "Mahoyome"
+    ],
+    "en": "The Ancient Magus' Bride Season 2",
+    "ja": "魔法使いの嫁 SEASON2"
+  },
+  "start_date": "2023-04-06",
+  "end_date": "2023-06-22",
+  "synopsis": "Apprentice mage Chise Hatori is invited to enroll at the College, a prestigious learning institution for sorcerers, to examine and look for a way to remove the curses she bears. Despite the reluctance of her groom, Elias Ainsworth, Chise accepts the proposal, as she believes attending the school might help her minimize her self-sacrificing tendencies.\n\nFrom the get-go, Chise grabs the attention of her classmates and professors alike, who have never seen a mage in action before. However, there is a sinister plot brewing behind the College's back, and the young mage will have to determine who is friend or foe in order to put a stop to it.\n\n[Written by MAL Rewrite]",
+  "mean": 7.75,
+  "rank": 1089,
+  "popularity": 1349,
+  "num_list_users": 175658,
+  "num_scoring_users": 55199,
+  "nsfw": "white",
+  "created_at": "2022-09-05T12:05:24+00:00",
+  "updated_at": "2023-12-27T05:32:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2205,
+      "name": "Studio Kafka"
+    }
+  ]
+}

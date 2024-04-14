@@ -1,0 +1,56 @@
+{
+  "id": 3734,
+  "title": "Glass no Kamen: Sen no Kamen wo Motsu Shoujo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1788/97618.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1788/97618l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Glass no Kamen OVA"
+    ],
+    "en": "Glass Mask: The Girl of a Thousand Masks",
+    "ja": "ガラスの仮面～千の仮面を持つ少女～"
+  },
+  "start_date": "1998-12-16",
+  "end_date": "1999-04-21",
+  "synopsis": "An OVA depicting the early events of the Glass no Kamen series.\n\nKitajima Maya is a young girl from a poor background with no talents of use to school or her widowed mother. However, she is obsessed with movies, theatrical plays and TV dramas-to the point of remembering every line from a movie she's seen once, and dramatically acting out the stories, including every character, for anyone who will listen. One day, she encounters an old woman with a scarred face who claims that Maya is the girl she's been looking for-for the old woman has spent years protecting the rights to a 'legendary' play.",
+  "mean": 6.88,
+  "rank": 4840,
+  "popularity": 10361,
+  "num_list_users": 2629,
+  "num_scoring_users": 794,
+  "nsfw": "white",
+  "created_at": "2008-01-17T21:49:37+00:00",
+  "updated_at": "2021-02-19T08:53:06+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 2700,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

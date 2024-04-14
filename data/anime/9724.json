@@ -1,0 +1,73 @@
+{
+  "id": 9724,
+  "title": "Break Blade Movie 5: Shisen no Hate",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/68087.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/68087l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Breaker Blade 5",
+      "Break Blade 5: Border of Death"
+    ],
+    "en": "Broken Blade 5",
+    "ja": "ブレイク ブレイド 死線ノ涯"
+  },
+  "start_date": "2011-01-22",
+  "end_date": "2011-01-22",
+  "synopsis": "Fifth Break Blade Movie.",
+  "mean": 7.8,
+  "rank": 976,
+  "popularity": 2943,
+  "num_list_users": 55540,
+  "num_scoring_users": 33496,
+  "nsfw": "white",
+  "created_at": "2010-10-24T03:57:19+00:00",
+  "updated_at": "2022-04-30T00:51:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2867,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 54449,
+  "title": "Ishura",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1364/140875.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1364/140875l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "異修羅"
+  },
+  "start_date": "2024-01-03",
+  "end_date": "2024-03-20",
+  "synopsis": "In a world where the Demon King has died, a host of demigods capable of felling him have inherited the world. A master fencer who can figure out how to take out their opponents with a single glance; a lancer so swift they can break the sound barrier; a wyvern rogue who fights with three legendary weapons at once; an all-powerful wizard who can speak thoughts into being; an angelic assassin who deals instant death. Eager to attain the title of \"True Hero,\" these champions each pursue challenges against formidable foes and spark conflicts among themselves. The battle to determine the mightiest of the mighty begins.\n\n(Source: Yen Press)",
+  "mean": 6.64,
+  "rank": 6102,
+  "popularity": 2463,
+  "num_list_users": 75240,
+  "num_scoring_users": 20743,
+  "nsfw": "white",
+  "created_at": "2023-02-12T10:28:33+00:00",
+  "updated_at": "2024-02-10T17:06:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1422,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}

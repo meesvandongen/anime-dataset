@@ -1,0 +1,66 @@
+{
+  "id": 6347,
+  "title": "Baka to Test to Shoukanjuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/50389.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/50389l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Idiot, the Tests, and the Summoned Creatures",
+      "Baka to Test to Shokanju",
+      "BakaTest"
+    ],
+    "en": "Baka & Test - Summon the Beasts",
+    "ja": "バカとテストと召喚獣"
+  },
+  "start_date": "2010-01-07",
+  "end_date": "2010-04-01",
+  "synopsis": "Fumizuki Academy isn't a typical Japanese high school. This unique institution has implemented a new and innovative system to sort its students. At the end of their freshman year, students take a test that divides up the student body. The highest scorers are placed into A class, all the way down until F class, for the lowest of the low.\n\nUnfortunately for Akihisa Yoshii, his supposedly \"great\" intellect wasn't quite enough for such a test, and he's now stuck at the bottom of F class. Naturally, F class has the worst facilities: not only rotten tatami mats and broken tables, but also outdated equipment and worn out furniture. On the bright side, his friend Yuuji Sakamoto is in the same class, and to everyone's surprise, the genius girl Mizuki Himeji has also ended up in the same class due to an unforeseen fever on the day of the test.\n\nUnsatisfied with their perquisites, F class rallies behind Yuuji, determined to take on the higher-tiered classes in order to seize their perks by using the school's Examinations Summon Battle system. The participants can summon fantasy characters—whose power levels are equal to their student's test scores—in an all-out battle. Will F class be able to rise to the top, or will they live up to everyone's expectations and fail?\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.51,
+  "rank": 1835,
+  "popularity": 332,
+  "num_list_users": 635823,
+  "num_scoring_users": 347329,
+  "nsfw": "white",
+  "created_at": "2009-04-12T08:17:21+00:00",
+  "updated_at": "2022-04-17T18:16:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "02:20"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1455,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

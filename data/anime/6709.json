@@ -1,0 +1,60 @@
+{
+  "id": 6709,
+  "title": "Ai Yori Aoshi: Yumegatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/15405.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/15405l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ai Yori Aoshi: Dream Story"
+    ],
+    "en": "Ai Yori Aoshi: Speaking of Dreams",
+    "ja": "藍より青し 夢語り"
+  },
+  "start_date": "2002-04-01",
+  "end_date": "2002-04-01",
+  "synopsis": "Kaoru and the girls have a picnic in Spring and talk about their dreams for the future.",
+  "mean": 6.74,
+  "rank": 5513,
+  "popularity": 6127,
+  "num_list_users": 10972,
+  "num_scoring_users": 5034,
+  "nsfw": "white",
+  "created_at": "2009-06-28T12:12:32+00:00",
+  "updated_at": "2021-09-18T15:11:56+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 272,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

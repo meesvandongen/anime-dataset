@@ -1,0 +1,54 @@
+{
+  "id": 51533,
+  "title": "Tonikaku Kawaii: Seifuku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1085/126580.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1085/126580l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "TONIKAWA: Over The Moon For You - Uniform",
+    "ja": "トニカクカワイイ ~制服~"
+  },
+  "start_date": "2022-11-22",
+  "end_date": "2022-11-22",
+  "synopsis": "Special episode of Tonikaku Kawaii released Fall 2022.",
+  "mean": 7.72,
+  "rank": 1178,
+  "popularity": 2184,
+  "num_list_users": 92039,
+  "num_scoring_users": 40721,
+  "nsfw": "white",
+  "created_at": "2022-04-03T09:16:30+00:00",
+  "updated_at": "2022-11-22T11:03:11+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1343,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 35,
+      "name": "Seven Arcs"
+    }
+  ]
+}

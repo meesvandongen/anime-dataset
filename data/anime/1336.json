@@ -1,0 +1,72 @@
+{
+  "id": 1336,
+  "title": "Kyoushoku Soukou Guyver II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1833/92279.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1833/92279l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bio-Booster Armor Guyver",
+      "The Guyver",
+      "Kyoushoku Soukou Guyver",
+      "The Guyver Act II",
+      "Guyver: The Bio-boosted Armor II"
+    ],
+    "en": "The Guyver: Bio-Booster Armor",
+    "ja": "強殖装甲ガイバー II"
+  },
+  "start_date": "1991-10-24",
+  "end_date": "1992-08-21",
+  "synopsis": "Sho and his friend Tetsurou stumble upon an odd alien artifact while walking through the woods. Then, the alien artifact breaks free of its metallic bonds and enters Sho's body, turning him into the Guyver. With this new power, Sho must do battle with the evil Chronos corporation and their genetically enhanced Zoanoids, who seek to get the Guyver back into their labs. No one close to Sho is safe from Chronos. He must fight. \n\n(Source: ANN)",
+  "mean": 6.98,
+  "rank": 4385,
+  "popularity": 6741,
+  "num_list_users": 8706,
+  "num_scoring_users": 4218,
+  "nsfw": "white",
+  "created_at": "2006-08-16T02:58:35+00:00",
+  "updated_at": "2023-10-03T09:37:42+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1991,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 246,
+      "name": "Visual 80"
+    }
+  ]
+}

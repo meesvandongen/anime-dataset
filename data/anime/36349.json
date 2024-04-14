@@ -1,0 +1,51 @@
+{
+  "id": 36349,
+  "title": "Gum Shaara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/87770.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/87770l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ガムシャーラ"
+  },
+  "start_date": "1991-08-01",
+  "end_date": "1991-08-01",
+  "synopsis": "Official Minna no Uta music video for Gum Shaara sung by Kobayashi Katsuya.",
+  "mean": 5.34,
+  "popularity": 19398,
+  "num_list_users": 249,
+  "num_scoring_users": 115,
+  "nsfw": "white",
+  "created_at": "2017-09-20T04:59:18+00:00",
+  "updated_at": "2018-05-04T15:44:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 144,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1726,
+      "name": "Three-d"
+    }
+  ]
+}

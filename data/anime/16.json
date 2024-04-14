@@ -1,0 +1,77 @@
+{
+  "id": 16,
+  "title": "Hachimitsu to Clover",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1301/133577.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1301/133577l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "HachiKuro",
+      "Honey & Clover"
+    ],
+    "en": "Honey and Clover",
+    "ja": "ハチミツとクローバー"
+  },
+  "start_date": "2005-04-15",
+  "end_date": "2005-09-27",
+  "synopsis": "Yuuta Takemoto, a sophomore at an arts college, shares a cheap apartment with two seniors—the eccentric Shinobu Morita, who keeps failing to graduate due to his absenteeism, and the sensible Takumi Mayama, who acts as a proper senior to Takemoto, often looking out for him.\n\nTakemoto had not given much thought to his future until one fine spring day, when he meets the endearing Hagumi Hanamoto and falls in love at first sight. Incredibly gifted in the arts, Hagumi enrolls in Takemoto's university and soon befriends the popular pottery student Ayumi Yamada. Ayumi is already well acquainted with the three flatmates and secretly harbors deep feelings for one of them.\n\nHachimitsu to Clover is a heartwarming tale of youth, love, soul-searching, and self-discovery, intricately woven through the complex relationships between five dear friends.\n\n[Written by MAL Rewrite]",
+  "mean": 7.99,
+  "rank": 651,
+  "popularity": 901,
+  "num_list_users": 268146,
+  "num_scoring_users": 83552,
+  "nsfw": "white",
+  "created_at": "2005-11-11T01:12:16+00:00",
+  "updated_at": "2023-02-24T14:22:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

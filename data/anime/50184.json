@@ -1,0 +1,68 @@
+{
+  "id": 50184,
+  "title": "Seiken Gakuin no Makentsukai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1506/138529.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1506/138529l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Magic Sword Master of Holy Sword School"
+    ],
+    "en": "The Demon Sword Master of Excalibur Academy",
+    "ja": "聖剣学院の魔剣使い"
+  },
+  "start_date": "2023-10-03",
+  "end_date": "2023-12-19",
+  "synopsis": "The battle against the forces of evil is nearing its end as the Undead King Leonis Death Magnus remains the sole survivor of the Dark Lords. Standing no chance alone against his enemies, Leonis seals himself deep underground with the goal of reincarnating a thousand years later and rebuilding his demonic army.\n\nWithin the span of a millennium, however, everything has changed. People no longer remember the great war that led to Leonis' defeat and instead face a new threat—the monstrous creatures known as Voids. Magical devices have replaced sorcery, and humans with special powers—manifested in the form of weapons called Holy Swords—train at the Excalibur Academy to fight the Voids.\n\nReborn as a 10-year-old human boy, Leonis meets Riselia Ray Crystalia, a dutiful girl who stumbles upon the ruins of his hibernation chamber. Believing that Leonis has amnesia, Riselia offers him guidance and enrolls him at the Excalibur Academy. Leonis still intends to take over the world, but he must first familiarize himself with a reality completely different from all he knows.\n\n[Written by MAL Rewrite]",
+  "mean": 6.2,
+  "rank": 8581,
+  "popularity": 1787,
+  "num_list_users": 122555,
+  "num_scoring_users": 47091,
+  "nsfw": "white",
+  "created_at": "2021-10-21T04:28:33+00:00",
+  "updated_at": "2024-01-27T22:41:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1430,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 38837,
+  "title": "Puso Ni Comi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1087/97502.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1087/97502l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Phantasy Star Online 2 Comic"
+    ],
+    "en": "",
+    "ja": "ぷそ煮コミ"
+  },
+  "start_date": "2019-01-08",
+  "end_date": "2019-05-21",
+  "synopsis": "An anime adaptation of Sega's Phantasy Star Online 2 game's official web manga Puso Ni Comi: Phantasy Star Online 2 Comic. The story follows the lax, less than weighty daily life of the ARKS force members. \n\n(Source: ANN)",
+  "mean": 6.4,
+  "rank": 7454,
+  "popularity": 12066,
+  "num_list_users": 1500,
+  "num_scoring_users": 413,
+  "nsfw": "white",
+  "created_at": "2018-12-16T02:37:56+00:00",
+  "updated_at": "2022-03-29T14:59:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 221,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2268,
+      "name": "Point Pictures"
+    }
+  ]
+}

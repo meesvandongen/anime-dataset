@@ -1,0 +1,62 @@
+{
+  "id": 51764,
+  "title": "Level 1 dakedo Unique Skill de Saikyou desu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1579/136295.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1579/136295l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Unique Skill Makes Me OP Even at Level 1",
+    "ja": "レベル1だけどユニークスキルで最強です"
+  },
+  "start_date": "2023-07-08",
+  "end_date": "2023-09-23",
+  "synopsis": "As a corporate slave, Ryouta Satou experiences the worst forms of stress, overwork, and loneliness. Even after he is hospitalized due to exhaustion, his days of toil only become worse. Soon enough, the sheer fatigue catches up to him and kills him in his sleep. However, Ryouta is given a second chance at life: he wakes up in another world as a slime drop—much to the surprise of Emily Brown, the petite blonde girl who defeated said slime.\n\nAcquainting himself with the rules of this RPG-like world, Ryouta finds out that he will never grow past level 1. However, he also discovers that one of his skills is at the maximum level: the skill which determines the rarity of monster drops. This allows him to acquire not only items of the best quality, but also some that are unheard of.\n\nRyouta sets out to make the most of his ability—meeting new friends, grinding through dungeons, and acquiring unique items along the way. Reveling in his new life seems to be the long-awaited and much-deserved reward for all the tribulations he had suffered.\n\n[Written by MAL Rewrite]",
+  "mean": 6.24,
+  "rank": 8361,
+  "popularity": 1975,
+  "num_list_users": 107416,
+  "num_scoring_users": 51561,
+  "nsfw": "white",
+  "created_at": "2022-05-05T15:10:37+00:00",
+  "updated_at": "2023-11-30T15:11:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1417,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1978,
+      "name": "Maho Film"
+    }
+  ]
+}

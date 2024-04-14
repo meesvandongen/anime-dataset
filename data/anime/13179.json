@@ -1,0 +1,47 @@
+{
+  "id": 13179,
+  "title": "Little Charo 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1650/93777.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1650/93777l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Little Charo 2: Adventure in the Middle World",
+    "ja": "リトル・チャロ2"
+  },
+  "start_date": "2010-03-29",
+  "end_date": "2011-03-21",
+  "synopsis": "NHK's English education program. In Little Charo 2, the puppy journeys with his master through a mysterious place called the Middle World, which lies between the World of the Living and the World of the Dead.\n\n(Source: AniDB)",
+  "rank": 16040,
+  "popularity": 15917,
+  "num_list_users": 510,
+  "num_scoring_users": 103,
+  "nsfw": "white",
+  "created_at": "2012-03-02T22:21:56+00:00",
+  "updated_at": "2018-09-15T05:27:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday"
+  },
+  "source": "original",
+  "average_episode_duration": 320,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1207,
+  "title": "Wata no Kuni Hoshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/13204.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/13204l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Star of Cottonland"
+    ],
+    "en": "Fantasy of a Kitten",
+    "ja": "綿の国星"
+  },
+  "start_date": "1984-02-11",
+  "end_date": "1984-02-11",
+  "synopsis": "After two-month-old kitten Chibi-neko is abandoned by her former owners, she is found by 18-year-old Tokio. Although his mother is allergic to cats and has a great fear of them, she agrees to let him keep the kitten because she fears he is becoming too withdrawn after failing his university entrance exams. Chibi-neko soon falls in love with Tokio.\n\nIn her own mind, Chibi-neko is a small human who speaks in human words, although people only ever seem to hear her meow, and she believes that all humans were once kittens like her. A stray cat tells Chibi-neko of a paradise called Cottonland, where dreams can come true.\n\n(Source: Wikipedia)",
+  "mean": 6.85,
+  "rank": 4980,
+  "popularity": 7704,
+  "num_list_users": 6274,
+  "num_scoring_users": 2073,
+  "nsfw": "white",
+  "created_at": "2006-07-12T13:11:46+00:00",
+  "updated_at": "2022-04-12T22:21:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 5760,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1593,
+  "title": "Azumanga Web Daiou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1186/139941.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1186/139941l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Azumanga Web Diaoh",
+      "Azumanga Daioh - Web Daioh",
+      "Azumanga Diaoh - Web Diaoh"
+    ],
+    "en": "Azumanga Web Daioh",
+    "ja": "あずまんがWEB大王"
+  },
+  "start_date": "2000-12-28",
+  "end_date": "2000-12-28",
+  "synopsis": "Chiyo brings a video camera to school for a class project. But when Tomo gets a hold of it, heaps of trouble happen all over campus.\n\n(Source: ANN)",
+  "mean": 6.71,
+  "rank": 5673,
+  "popularity": 3822,
+  "num_list_users": 33674,
+  "num_scoring_users": 17972,
+  "nsfw": "white",
+  "created_at": "2006-10-21T07:26:49+00:00",
+  "updated_at": "2023-11-26T12:01:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 220,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 30771,
+  "title": "Mudai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/74062.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/74062l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Untitled"
+    ],
+    "en": "",
+    "ja": "無題"
+  },
+  "start_date": "2015-05-07",
+  "end_date": "2015-05-07",
+  "synopsis": "Splotched in blooms of color and bursting with ideas, a young artist paints another beautiful piece, his girlfriend supporting him all the while. Their lives are modest, but they know they will stay by each other no matter what. When one of his works sells, he experiences unprecedented renown; life couldn't be any better for a man with both love and success. However, the lust for creativity consumes him, and as his world crumbles around him, he is left scrambling to pick up the pieces of what remains.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.09,
+  "popularity": 8286,
+  "num_list_users": 5270,
+  "num_scoring_users": 3083,
+  "nsfw": "white",
+  "created_at": "2015-05-14T15:35:34+00:00",
+  "updated_at": "2023-12-05T18:22:51+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 434,
+  "rating": "pg_13",
+  "studios": []
+}

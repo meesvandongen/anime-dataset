@@ -1,0 +1,40 @@
+{
+  "id": 39706,
+  "title": "Cat Step",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1479/100538.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1479/100538l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Cat Step",
+    "ja": "cat step"
+  },
+  "start_date": "2019-02-03",
+  "end_date": "2019-02-03",
+  "synopsis": "Music video directed by Takashi Ohashi for the song Cat Step by Japanese music producer Daisuke Tanabe in his EP \"Cat Steps.\"",
+  "mean": 5.4,
+  "popularity": 18259,
+  "num_list_users": 317,
+  "num_scoring_users": 164,
+  "nsfw": "white",
+  "created_at": "2019-04-10T20:18:27+00:00",
+  "updated_at": "2021-06-22T12:54:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 278,
+  "rating": "g",
+  "studios": []
+}

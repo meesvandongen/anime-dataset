@@ -1,0 +1,45 @@
+{
+  "id": 53909,
+  "title": "Natsu kara no Present",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1111/131957.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1111/131957l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "夏からのプレゼント"
+  },
+  "start_date": "1990-06-02",
+  "end_date": "1990-06-02",
+  "synopsis": "Music video for the song Natsu kara no Present by Marina Watanabe that was featured on NHK's Minna no Uta program.",
+  "popularity": 22095,
+  "num_list_users": 114,
+  "num_scoring_users": 53,
+  "nsfw": "white",
+  "created_at": "2022-12-20T22:09:50+00:00",
+  "updated_at": "2022-12-21T12:24:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

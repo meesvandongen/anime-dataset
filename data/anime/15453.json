@@ -1,0 +1,45 @@
+{
+  "id": 15453,
+  "title": "Shinryaku! Ika Musume: Kore ga Umi e no Ai Jana-ika!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/41945.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/41945l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "これが海への愛じゃなイカ!"
+  },
+  "start_date": "2012-01-11",
+  "end_date": "2012-01-11",
+  "synopsis": "MV bundled with the limited edition of the Invader Ika Musume album.",
+  "mean": 6.5,
+  "popularity": 8637,
+  "num_list_users": 4702,
+  "num_scoring_users": 1943,
+  "nsfw": "white",
+  "created_at": "2012-09-06T00:10:31+00:00",
+  "updated_at": "2022-02-05T16:06:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 218,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 51,
+      "name": "Diomedéa"
+    }
+  ]
+}

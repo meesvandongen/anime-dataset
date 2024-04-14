@@ -1,0 +1,45 @@
+{
+  "id": 52102,
+  "title": "Kako ni Torawareteiru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1611/124535.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1611/124535l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Trapped in the Past",
+    "ja": "過去に囚われている"
+  },
+  "start_date": "2020-08-28",
+  "end_date": "2020-08-28",
+  "synopsis": "Music video of the song Kako ni Torawareteiru by TUYU.",
+  "mean": 6.58,
+  "popularity": 18422,
+  "num_list_users": 306,
+  "num_scoring_users": 153,
+  "nsfw": "gray",
+  "created_at": "2022-06-17T15:34:51+00:00",
+  "updated_at": "2022-08-18T16:20:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 230,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2525,
+      "name": "Hurray!"
+    }
+  ]
+}

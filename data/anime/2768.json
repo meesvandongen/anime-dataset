@@ -1,0 +1,65 @@
+{
+  "id": 2768,
+  "title": "CLAMP in Wonderland 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/59503.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/59503l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "CLAMP IN WONDERLAND 2"
+  },
+  "start_date": "2007-10-26",
+  "end_date": "2007-10-26",
+  "synopsis": "A short animation which features clips from all of CLAMPs works between 1995 and 2006.",
+  "mean": 7.42,
+  "popularity": 4818,
+  "num_list_users": 20411,
+  "num_scoring_users": 11337,
+  "nsfw": "white",
+  "created_at": "2007-07-05T19:18:04+00:00",
+  "updated_at": "2021-10-24T18:49:33+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 350,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

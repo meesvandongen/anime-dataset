@@ -1,0 +1,62 @@
+{
+  "id": 42653,
+  "title": "Aikatsu Planet!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1319/111189.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1319/111189l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイカツプラネット！"
+  },
+  "start_date": "2021-01-10",
+  "end_date": "2021-06-27",
+  "synopsis": "The story revolves around \"Aikatsu Planet,\" a state-of-the-art virtual world where anyone can assume the role of an avatar and becoming a most popular virtual idol. Mao Otoha, an ordinary first-year student at the private academy Seirei High School, becomes a top idol avatar Hana when Hana's previous alter ego Meisa Hinata suddenly disappeared. However, Mao's new role as the avatar Hana is a secret to everyone else.\n\n(Source: Wikipedia)",
+  "mean": 6.53,
+  "rank": 6689,
+  "popularity": 9153,
+  "num_list_users": 3926,
+  "num_scoring_users": 1171,
+  "nsfw": "white",
+  "created_at": "2020-08-10T12:40:26+00:00",
+  "updated_at": "2023-01-15T15:59:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "07:00"
+  },
+  "source": "game",
+  "average_episode_duration": 600,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

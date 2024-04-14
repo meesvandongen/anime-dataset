@@ -1,0 +1,58 @@
+{
+  "id": 17223,
+  "title": "Hana no Asukagumi! 2: Lonely Cats Battle Royale",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/45979.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/45979l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "花のあすか組! 2 ロンリーキャッツ・バトルロイヤル"
+  },
+  "start_date": "1990-03-23",
+  "end_date": "1990-03-23",
+  "synopsis": "Second OVA of \"Hana no Asukagumi!\".",
+  "mean": 5.57,
+  "rank": 11373,
+  "popularity": 12847,
+  "num_list_users": 1163,
+  "num_scoring_users": 422,
+  "nsfw": "white",
+  "created_at": "2013-01-18T17:52:04+00:00",
+  "updated_at": "2021-12-25T18:40:19+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 3183,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 55902,
+  "title": "Junjou Decamelon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1687/137028.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1687/137028l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "純情デカメロン"
+  },
+  "start_date": "2023-09-01",
+  "synopsis": "",
+  "mean": 5.82,
+  "popularity": 11492,
+  "num_list_users": 1827,
+  "num_scoring_users": 571,
+  "nsfw": "gray",
+  "created_at": "2023-07-09T02:55:13+00:00",
+  "updated_at": "2023-07-09T07:58:23+00:00",
+  "media_type": "ova",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1200,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2530,
+      "name": "Blue bread"
+    }
+  ]
+}

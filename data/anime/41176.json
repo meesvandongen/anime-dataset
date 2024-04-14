@@ -1,0 +1,40 @@
+{
+  "id": 41176,
+  "title": "Hitchcock",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1654/105704.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1654/105704l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ヒッチコック"
+  },
+  "start_date": "2018-04-11",
+  "end_date": "2018-04-11",
+  "synopsis": "A music video for the song Hitchcock by Yorushika.",
+  "mean": 7.25,
+  "popularity": 12217,
+  "num_list_users": 1420,
+  "num_scoring_users": 843,
+  "nsfw": "white",
+  "created_at": "2020-01-28T22:49:26+00:00",
+  "updated_at": "2022-03-18T03:58:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 228,
+  "rating": "pg_13",
+  "studios": []
+}

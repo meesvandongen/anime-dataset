@@ -1,0 +1,55 @@
+{
+  "id": 25591,
+  "title": "Tokyo Juushouden: Fuuma Gogyou Denshou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/65105.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/65105l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "10 Tokyo Warriors (2001)"
+    ],
+    "en": "",
+    "ja": "倒凶十将伝 封魔五行伝承"
+  },
+  "start_date": "2001-08-24",
+  "end_date": "2002-01-25",
+  "synopsis": "Long ago, in feudal Japan, there was a fierce warrior named the Demon King. He controlled a band of demons, known as the Kyouma. Only the powers of ten warriors sealed the Demon King away and kept the Kyouma under control. But now, Lord Shindigan, a powerful Kyouma is planning to free the Demon King, and the reincarnations of the ten warriors must band together and save the earth.\n\n(Source: ANN)",
+  "mean": 5.23,
+  "rank": 12298,
+  "popularity": 13800,
+  "num_list_users": 892,
+  "num_scoring_users": 266,
+  "nsfw": "white",
+  "created_at": "2014-07-28T17:05:39+00:00",
+  "updated_at": "2023-06-04T18:17:26+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "average_episode_duration": 1522,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1371,
+      "name": "T.P.O"
+    }
+  ]
+}

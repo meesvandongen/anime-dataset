@@ -1,0 +1,77 @@
+{
+  "id": 225,
+  "title": "Dragon Ball GT",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1262/93119l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dragonball GT",
+      "DBGT"
+    ],
+    "en": "Dragon Ball GT",
+    "ja": "ドラゴンボールGT"
+  },
+  "start_date": "1996-02-07",
+  "end_date": "1997-11-19",
+  "synopsis": "Emperor Pilaf finally has his hands on the Black Star Dragon Balls after years of searching, which are said to be twice as powerful as Earth's normal ones. Pilaf is about to make his wish for world domination when he is interrupted by Gokuu Son. As a result, Pilaf flubs his wish and accidentally turns Gokuu back into a child.\n\nAfter the wish is granted, the Black Star Dragon Balls scatter across the galaxy. However, Gokuu discovers that they will cause the Earth to explode unless they are all brought back within a year. Uniting with his granddaughter Pan and a young adult Trunks, Gokuu sets off on an adventure through the universe to find the Black Star Dragon Balls and save his planet from destruction.\n\n[Written by MAL Rewrite]",
+  "mean": 6.49,
+  "rank": 6962,
+  "popularity": 340,
+  "num_list_users": 629948,
+  "num_scoring_users": 424650,
+  "nsfw": "white",
+  "created_at": "2005-11-12T07:35:36+00:00",
+  "updated_at": "2023-04-25T01:20:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 64,
+  "start_season": {
+    "year": 1996,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

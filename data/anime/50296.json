@@ -1,0 +1,48 @@
+{
+  "id": 50296,
+  "title": "Ashuai 5th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1776/119180.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1776/119180l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "阿衰 第五季"
+  },
+  "start_date": "2021-06-12",
+  "end_date": "2021-09-25",
+  "synopsis": "Fifth season of Ashuai.",
+  "rank": 18259,
+  "popularity": 21512,
+  "num_list_users": 136,
+  "num_scoring_users": 23,
+  "nsfw": "white",
+  "created_at": "2021-11-03T17:47:15+00:00",
+  "updated_at": "2022-12-01T10:25:53+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 34,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": []
+}

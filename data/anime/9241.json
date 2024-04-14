@@ -1,0 +1,61 @@
+{
+  "id": 9241,
+  "title": "Super Robot Taisen OG: The Inspector",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/44239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/44239l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Super Robot Taisen Original Generation: The Inspector",
+      "SRWOG"
+    ],
+    "en": "Super Robot Wars OG: The Inspector",
+    "ja": "スーパーロボット大戦OG -ジ・インスペクター-"
+  },
+  "start_date": "2010-10-02",
+  "end_date": "2011-04-02",
+  "synopsis": "With many of its central personnel lost in the war, the Earth Federation Government is forced to rebuild, and Brian Midcrid, president of the Unified Colonies, takes the position of its president. During an emergency session of the Federation Diet, he publicly acknowledges the existence of extraterrestrials, and reveals the events of the L5 campaign to the masses in what will later come to be called the \"Tokyo Declaration.\" He goes on to state that these aliens pose a serious threat to humanity.\n\n(Source: Crunchyroll)",
+  "mean": 7.21,
+  "rank": 3211,
+  "popularity": 6377,
+  "num_list_users": 9972,
+  "num_scoring_users": 3603,
+  "nsfw": "white",
+  "created_at": "2010-07-24T15:56:45+00:00",
+  "updated_at": "2022-04-12T19:05:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1404,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

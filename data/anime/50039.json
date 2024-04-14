@@ -1,0 +1,44 @@
+{
+  "id": 50039,
+  "title": "Tabun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1580/118597.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1580/118597l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Probably",
+    "ja": "たぶん"
+  },
+  "start_date": "2020-07-20",
+  "end_date": "2020-07-20",
+  "synopsis": "Music video animated by Saho Nanjo for the song Tabun by YOASOBI.",
+  "mean": 7.1,
+  "popularity": 13185,
+  "num_list_users": 1057,
+  "num_scoring_users": 655,
+  "nsfw": "white",
+  "created_at": "2021-10-07T05:33:58+00:00",
+  "updated_at": "2021-10-07T11:24:19+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 263,
+  "rating": "g",
+  "studios": []
+}

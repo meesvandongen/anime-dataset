@@ -1,0 +1,67 @@
+{
+  "id": 37290,
+  "title": "Ani x Para: Anata no Hero wa Dare desu ka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1336/102231.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1336/102231l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Anime x Parasport"
+    ],
+    "en": "Animation × Paralympic: Who Is Your Hero?",
+    "ja": "アニ×パラ〜あなたのヒーローは誰ですか〜"
+  },
+  "start_date": "2017-11-10",
+  "synopsis": "NHK specials on parasports. The first episode covers blind soccer, with character designs by Yoichi Takahashi (from the Captain Tsubasa fame). And the second episode covers a female sprinter with a prosthetic leg, with character designs by Eisaku Kubonouchi (from the Hungry Days: Aoharu ka yo. fame). The specials featured interviews, coverage of the Paralympics, and an animated segment. This MAL entry will cover only the animated segment. ",
+  "mean": 6.47,
+  "rank": 7041,
+  "popularity": 12257,
+  "num_list_users": 1399,
+  "num_scoring_users": 381,
+  "nsfw": "white",
+  "created_at": "2018-02-10T03:32:53+00:00",
+  "updated_at": "2024-03-19T12:52:52+00:00",
+  "media_type": "tv_special",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    },
+    {
+      "id": 36,
+      "name": "Gallop"
+    },
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    },
+    {
+      "id": 118,
+      "name": "SynergySP"
+    },
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

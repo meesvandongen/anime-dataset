@@ -1,0 +1,47 @@
+{
+  "id": 36895,
+  "title": "Nee, ...Shiyo♥",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1541/90393.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1541/90393l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hey, ... Let's do it♥"
+    ],
+    "en": "",
+    "ja": "ねぇ、…しよ♥"
+  },
+  "start_date": "2018-02-02",
+  "end_date": "2018-04-06",
+  "synopsis": "",
+  "mean": 6.61,
+  "popularity": 6510,
+  "num_list_users": 9532,
+  "num_scoring_users": 4000,
+  "nsfw": "gray",
+  "created_at": "2017-12-06T02:20:41+00:00",
+  "updated_at": "2023-01-24T16:35:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1220,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 977,
+      "name": "Queen Bee"
+    }
+  ]
+}

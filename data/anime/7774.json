@@ -1,0 +1,56 @@
+{
+  "id": 7774,
+  "title": "Shin Koihime†Musou: Gunyuu, Minami no Shima de Bakansu wo Suru no Koto - Ato, Porori mo Aru yo!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1203/129469.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1203/129469l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Koihime†Musou OVA"
+    ],
+    "en": "",
+    "ja": "真 恋姫†無双 群雄, 南の島でバカンスをするのこと~あと, ポロリもあるよ! ~"
+  },
+  "start_date": "2010-07-07",
+  "end_date": "2010-07-07",
+  "synopsis": "The story takes place at St. Francesca Academy. After the battle between the students ended, they all go to a southern island.",
+  "mean": 6.65,
+  "rank": 6049,
+  "popularity": 6970,
+  "num_list_users": 8069,
+  "num_scoring_users": 3121,
+  "nsfw": "gray",
+  "created_at": "2009-12-29T02:51:50+00:00",
+  "updated_at": "2018-12-30T12:01:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1536,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

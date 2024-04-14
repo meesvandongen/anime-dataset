@@ -1,0 +1,48 @@
+{
+  "id": 47560,
+  "title": "Yu Laoban No Richang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1399/123223.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1399/123223l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "鱼老板の日常"
+  },
+  "start_date": "2017-08-25",
+  "end_date": "2018-08-14",
+  "synopsis": "",
+  "rank": 15073,
+  "popularity": 23570,
+  "num_list_users": 84,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2021-02-10T17:41:11+00:00",
+  "updated_at": "2022-07-05T06:21:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 67,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 33544,
+  "title": "InaDan Movie x Mameshiba Collab CM",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/80676.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/80676l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijou-ban Inazuma Eleven Go and Danball Senki W X Mameshiba Collab CM"
+    ],
+    "en": "",
+    "ja": "劇場版イナダン×豆しば コラボCM"
+  },
+  "start_date": "2012-10-30",
+  "end_date": "2012-10-30",
+  "synopsis": "Collaboration commercials between the Inazuma Eleven Go vs. Danball Senki W Movie and Mameshiba.",
+  "mean": 5.24,
+  "popularity": 13618,
+  "num_list_users": 938,
+  "num_scoring_users": 373,
+  "nsfw": "white",
+  "created_at": "2016-07-02T09:14:39+00:00",
+  "updated_at": "2023-12-26T21:50:33+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": []
+}

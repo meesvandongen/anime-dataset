@@ -1,0 +1,60 @@
+{
+  "id": 7124,
+  "title": "Madou King Granzort: Bouken-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/16692.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/16692l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Madouou Grandzort OVA 2",
+      "Madouou Grandzort: Bouken Hen"
+    ],
+    "en": "",
+    "ja": "魔動王グランゾート 冒険編"
+  },
+  "start_date": "1992-03-27",
+  "end_date": "1992-06-26",
+  "synopsis": "",
+  "mean": 6.27,
+  "rank": 8225,
+  "popularity": 15301,
+  "num_list_users": 584,
+  "num_scoring_users": 172,
+  "nsfw": "white",
+  "created_at": "2009-09-02T05:01:00+00:00",
+  "updated_at": "2022-11-06T09:16:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1992,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": []
+}

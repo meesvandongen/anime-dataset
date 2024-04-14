@@ -1,0 +1,48 @@
+{
+  "id": 32133,
+  "title": "Kemushi no Boro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1377/90940.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1377/90940l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Caterpillar of Rags"
+    ],
+    "en": "Boro the Caterpillar",
+    "ja": "毛虫のボロ"
+  },
+  "start_date": "2018-03-21",
+  "end_date": "2018-03-21",
+  "synopsis": "To humans, Boro the caterpillar's world is small; but as he takes his first steps in life, the trials he comes to face are enormous. From hungry predators to unforgiving weather, he must overcome these obstacles by himself on his great journey through the untamed wilderness of suburban Japan.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.54,
+  "rank": 6638,
+  "popularity": 9370,
+  "num_list_users": 3650,
+  "num_scoring_users": 545,
+  "nsfw": "white",
+  "created_at": "2015-11-23T18:21:49+00:00",
+  "updated_at": "2022-03-01T20:01:50+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 860,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

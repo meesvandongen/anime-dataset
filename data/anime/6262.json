@@ -1,0 +1,59 @@
+{
+  "id": 6262,
+  "title": "Manga Sekai Mukashibanashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1430/132401.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1430/132401l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tales of Magic"
+    ],
+    "en": "Manga Fairy Tales of the World",
+    "ja": "まんが世界昔ばなし"
+  },
+  "start_date": "1976-10-07",
+  "end_date": "1979-03-28",
+  "synopsis": "Each episode of this series tells the story of a famous fairy tale from all around the world. Some of them are adapted from famous books such as \"The Iliad\".\n\n(Source: ANN)",
+  "mean": 7.09,
+  "rank": 3840,
+  "popularity": 11234,
+  "num_list_users": 2003,
+  "num_scoring_users": 536,
+  "nsfw": "white",
+  "created_at": "2009-03-25T04:32:11+00:00",
+  "updated_at": "2021-11-25T10:12:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 127,
+  "start_season": {
+    "year": 1976,
+    "season": "fall"
+  },
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

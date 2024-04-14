@@ -1,0 +1,52 @@
+{
+  "id": 23375,
+  "title": "Minarai Diva",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/64441.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/64441l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Apprentice Diva"
+    ],
+    "en": "",
+    "ja": "みならいディーバ"
+  },
+  "start_date": "2014-07-14",
+  "end_date": "2014-09-22",
+  "synopsis": "The story follows two aspiring divas who hope to become famous through a unique brand of music.",
+  "mean": 5.33,
+  "rank": 12086,
+  "popularity": 11289,
+  "num_list_users": 1957,
+  "num_scoring_users": 318,
+  "nsfw": "white",
+  "created_at": "2014-03-24T05:12:26+00:00",
+  "updated_at": "2020-06-19T02:49:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2940,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1560,
+      "name": "Yaoyorozu"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 45425,
+  "title": "Slow Loop",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1360/119608.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1360/119608l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Slow Loop",
+    "ja": "スローループ"
+  },
+  "start_date": "2022-01-07",
+  "end_date": "2022-03-25",
+  "synopsis": "Since childhood, Hiyori Yamakawa has witnessed her father's various eccentricities, but one activity she has always loved doing with him is fly fishing—a complicated yet rewarding method of catching fish. Even after his sudden death, Hiyori still visits the seaside in her spare time, savoring the joy that her father's memento brings her.\n\nThree years later, Hiyori's mother decides to remarry and arranges a dinner with her fiancé, his daughter, and Hiyori to celebrate. Anxious and wanting to pass the time, Hiyori goes to her usual fishing spot when a rather energetic girl named Koharu Minagi suddenly appears before her. The two soon become acquainted, with Koharu taking an interest in fly fishing herself. However, their meeting is more than just a coincidence: Koharu turns out to be Hiyori's future stepsibling, which is only the beginning of treasured memories the both of them will reel in as they foster their sisterhood.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.25,
+  "rank": 2974,
+  "popularity": 2753,
+  "num_list_users": 62684,
+  "num_scoring_users": 22845,
+  "nsfw": "white",
+  "created_at": "2020-12-23T07:21:43+00:00",
+  "updated_at": "2023-01-09T06:37:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 957,
+      "name": "Connect"
+    }
+  ]
+}

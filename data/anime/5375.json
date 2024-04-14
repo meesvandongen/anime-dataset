@@ -1,0 +1,54 @@
+{
+  "id": 5375,
+  "title": "Gakkyuu Ou Yamazaki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/84084.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/84084l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gakkyuuou Yamazaki",
+      "Gakkyu-oh Yamazaki",
+      "King of Classroom, Yamaza"
+    ],
+    "en": "King of Classroom, Yamazaki",
+    "ja": "学級王ヤマザキ"
+  },
+  "start_date": "1997-10-27",
+  "end_date": "1998-11-27",
+  "synopsis": "Yamazaki comes to Earth from an other planet, hoping to conquer our planet. But he soon realizes, that in order to conquer the world, he has to conquer a his own classroom first. That's why he comes up with lots of different ideas to get everybody to follow him. Also, he spends most of his time making Tatsuya (the class rep.) miserable. Having his loyal and strange dog Watanabe always by his side, and the help from his grandparents, Yamazaki is always doing crazy things with his class, completely forgetting his primary goal, and only thinking in becoming \"The King of the Class\". \n\n(Source: ANN)",
+  "mean": 6.18,
+  "rank": 8649,
+  "popularity": 12490,
+  "num_list_users": 1298,
+  "num_scoring_users": 538,
+  "nsfw": "white",
+  "created_at": "2008-10-13T06:17:20+00:00",
+  "updated_at": "2024-01-30T21:05:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 54,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

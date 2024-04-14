@@ -1,0 +1,39 @@
+{
+  "id": 31317,
+  "title": "Yonimo Kimyou na Man☆Gatarou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/75319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/75319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "世にも奇妙な漫☆画太郎"
+  },
+  "start_date": "2009-03-06",
+  "end_date": "2009-04-10",
+  "synopsis": "",
+  "rank": 15033,
+  "popularity": 18235,
+  "num_list_users": 319,
+  "num_scoring_users": 75,
+  "nsfw": "white",
+  "created_at": "2015-07-22T11:53:48+00:00",
+  "updated_at": "2015-11-18T00:22:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "average_episode_duration": 480,
+  "rating": "r+",
+  "studios": []
+}

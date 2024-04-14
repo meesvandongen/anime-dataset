@@ -1,0 +1,52 @@
+{
+  "id": 27561,
+  "title": "J League wo 100-bai Tanoshiku Miru Houhou!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/66765.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/66765l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Jリーグを100倍楽しく見る方法!!"
+  },
+  "start_date": "1994-06-11",
+  "end_date": "1994-06-11",
+  "synopsis": "",
+  "rank": 20403,
+  "popularity": 18494,
+  "num_list_users": 301,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2014-09-13T23:24:43+00:00",
+  "updated_at": "2019-08-12T16:10:40+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "average_episode_duration": 6300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

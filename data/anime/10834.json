@@ -1,0 +1,62 @@
+{
+  "id": 10834,
+  "title": "Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/60855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/60855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baka to Test to Shoukanjuu Ni! Specials",
+      "The Idiot, the Tests, and the Summoned Creatures Specials",
+      "Baka and Test: Summon the Beasts Specials"
+    ],
+    "en": "",
+    "ja": "バカとテストと召喚獣SPINOUT! それが僕らの日常。遠征中"
+  },
+  "start_date": "2011-09-21",
+  "end_date": "2012-02-22",
+  "synopsis": "Spin-off of Baka to Test to Shoukanjuu that has been serialized on Famitsu Comic Clear website since 2010.\n\nThese specials are included in the Baka to Test Ni! BD/DVD releases.",
+  "mean": 7.17,
+  "rank": 3417,
+  "popularity": 3679,
+  "num_list_users": 36764,
+  "num_scoring_users": 14943,
+  "nsfw": "white",
+  "created_at": "2011-06-15T09:14:31+00:00",
+  "updated_at": "2022-04-02T18:49:46+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

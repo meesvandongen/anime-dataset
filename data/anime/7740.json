@@ -1,0 +1,63 @@
+{
+  "id": 7740,
+  "title": "Queen's Blade: Gyokuza wo Tsugu Mono Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/22749.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/22749l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Queen's Blade 2 Specials",
+      "Queen's Blade: The Successor of the Throne Specials",
+      "Queen's Blade: Gyokuza wo Tsugumono Specials",
+      "Queen's Blade and the Evil Eye Specials"
+    ],
+    "en": "Queen's Blade: Inheritor of the Throne Specials",
+    "ja": "クイーンズブレイド 玉座を継ぐ者"
+  },
+  "start_date": "2009-12-22",
+  "end_date": "2010-05-25",
+  "synopsis": "Special episodes added to DVDs and Blu-rays.",
+  "mean": 6.13,
+  "rank": 8895,
+  "popularity": 5747,
+  "num_list_users": 12909,
+  "num_scoring_users": 4933,
+  "nsfw": "white",
+  "created_at": "2009-12-24T12:51:21+00:00",
+  "updated_at": "2020-11-29T03:59:41+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 180,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

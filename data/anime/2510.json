@@ -1,0 +1,61 @@
+{
+  "id": 2510,
+  "title": "Sengoku Majin Goushougun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/18779.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/18779l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Demon God of the War Torn Land Goshogun",
+      "Goshogun"
+    ],
+    "en": "Macron 1",
+    "ja": "戦国魔神ゴーショーグン"
+  },
+  "start_date": "1981-07-03",
+  "end_date": "1981-12-28",
+  "synopsis": "A meteor strikes the Earth and is found to emanate a powerful new energy called Beamler, which is used to power a battle robot, GoShogun, and a teleporting fortress, Good Thunder. The Docougar Crime Syndicate, lead by crime lord Neo Neros, try to steal the secret of the energy from the inventor of GoShogun, but he kills himself rather than let them acquire it. His son is targeted by Neo Neros next, but he is taken in by the crew aboard Good Thunder, who travel the world fighting NeoNeros's forces with GoShogun. \n\n(Source: Wikipedia) ",
+  "mean": 6.71,
+  "rank": 5710,
+  "popularity": 9665,
+  "num_list_users": 3306,
+  "num_scoring_users": 774,
+  "nsfw": "white",
+  "created_at": "2007-05-23T13:44:42+00:00",
+  "updated_at": "2021-09-23T08:59:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1981,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1470,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

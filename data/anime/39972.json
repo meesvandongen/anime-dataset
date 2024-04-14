@@ -1,0 +1,66 @@
+{
+  "id": 39972,
+  "title": "Mayonaka no Occult Koumuin OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1892/101617.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1892/101617l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Midnight Occult Civil Servants OVA",
+    "ja": "真夜中のオカルト公務員」TV未放送エピソード「ひとりぼっちの吸血鬼」"
+  },
+  "start_date": "2019-09-25",
+  "end_date": "2019-09-25",
+  "synopsis": "2 Unaired Episodes of Mayonaka no Occult Koumuin.",
+  "mean": 7.13,
+  "rank": 3670,
+  "popularity": 6531,
+  "num_list_users": 9447,
+  "num_scoring_users": 3583,
+  "nsfw": "white",
+  "created_at": "2019-06-23T16:47:59+00:00",
+  "updated_at": "2024-03-05T12:32:49+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1630,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

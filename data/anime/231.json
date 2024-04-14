@@ -1,0 +1,69 @@
+{
+  "id": 231,
+  "title": "Asagiri no Miko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/75196.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/75196l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maidens of Morning Mist",
+      "Priestesses of the Morning Mist"
+    ],
+    "en": "Shrine of the Morning Mist",
+    "ja": "朝霧の巫女"
+  },
+  "start_date": "2002-07-04",
+  "end_date": "2002-12-26",
+  "synopsis": "Since childhood, Tadahiro Amatsu has two different-colored eyes - one brown and one light hazel. But because of a dark secret behind his left eye, he's become a target for the masked sorcerer Ayatara Miramune and his band of demons. To combat the demons appearing all over town, Yuzu Hieda, a priestess in training, recruits four other girls from her high school. Under the supervision of Yuzu's elder sister Kurako, the five young priestesses must undergo months of training to master their abilities.\n\n(Source: ANN)",
+  "mean": 6.11,
+  "rank": 9027,
+  "popularity": 6970,
+  "num_list_users": 8070,
+  "num_scoring_users": 2510,
+  "nsfw": "white",
+  "created_at": "2005-11-13T02:23:29+00:00",
+  "updated_at": "2023-07-30T03:59:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2002,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 462,
+      "name": "Chaos Project"
+    },
+    {
+      "id": 721,
+      "name": "GANSIS"
+    }
+  ]
+}

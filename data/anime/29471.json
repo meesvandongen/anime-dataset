@@ -1,0 +1,47 @@
+{
+  "id": 29471,
+  "title": "Saikin Ponta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/70831.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/70831l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Recently Ponta",
+      "Lately Ponta",
+      "Bacteria Ponta"
+    ],
+    "en": "",
+    "ja": "サイキンポンタ"
+  },
+  "start_date": "1994-04-07",
+  "end_date": "1995-03-02",
+  "synopsis": "A slice of life anime about Ponta, a bacteria; and his mother and father, and his girlfriend Maki-chan.",
+  "rank": 17649,
+  "popularity": 17259,
+  "num_list_users": 391,
+  "num_scoring_users": 78,
+  "nsfw": "white",
+  "created_at": "2015-01-12T05:09:53+00:00",
+  "updated_at": "2024-02-29T06:55:18+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": []
+}

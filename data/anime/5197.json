@@ -1,0 +1,61 @@
+{
+  "id": 5197,
+  "title": "Dragon League",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/49791.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/49791l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon League",
+    "ja": "ドラゴンリーグ"
+  },
+  "start_date": "1993-05-07",
+  "end_date": "1994-02-27",
+  "synopsis": "Tokio and his father Amon go to the soccer country of Elevenia where they see a parade of the strongest soccer team of that country, the Winners. Amon challenges the team captain Leon to a soccer battle and, when Amon loses, Leon turns him into a miniature dragon. Tokio sees the fight and decides to challenge against Leon so that Amon can become human again.\n\n(Source: AnimeNFo)",
+  "mean": 7.29,
+  "rank": 2760,
+  "popularity": 11034,
+  "num_list_users": 2131,
+  "num_scoring_users": 728,
+  "nsfw": "white",
+  "created_at": "2008-09-06T02:53:03+00:00",
+  "updated_at": "2022-11-23T20:52:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

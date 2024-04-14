@@ -1,0 +1,58 @@
+{
+  "id": 421,
+  "title": "Stratos 4",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/67337.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/67337l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ストラトス・フォー"
+  },
+  "start_date": "2003-01-05",
+  "end_date": "2003-03-30",
+  "synopsis": "The Earth has developed a defense system against large meteorites that are on a collision course with it. This protection system is made up of the Comet Blasters based in several space stations as the 1st line of defense, using nuclear warheads launched by spaceships. The 2nd line of defense consists of the Meteor Sweepers launching from ground airbases using hypersonic planes with special missiles to deal with the resulting debris from the blasts. Mikaze is a troubled girl that is a trainee pilot for a Meteor Sweeper team that dreams of becoming a prestigious Comet Blaster pilot. Stratos 4 revolves around Mikaze's and her teammates' challenges to become real pilots, while the Earth faces the threats that come from space.\n\n(Source: ANN, edited by Falre)",
+  "mean": 6.79,
+  "rank": 5244,
+  "popularity": 5843,
+  "num_list_users": 12360,
+  "num_scoring_users": 4807,
+  "nsfw": "white",
+  "created_at": "2005-12-26T06:15:53+00:00",
+  "updated_at": "2022-12-13T13:05:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2003,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1425,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 24,
+      "name": "Studio Fantasia"
+    }
+  ]
+}

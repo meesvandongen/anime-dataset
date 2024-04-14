@@ -1,0 +1,46 @@
+{
+  "id": 24905,
+  "title": "Go-hiki no Kobuta to Charleston",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/63931.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/63931l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta: Go-hiki no Kobuta to Charleston"
+    ],
+    "en": "",
+    "ja": "五匹のこぶたとチャールストン"
+  },
+  "start_date": "1964-08-03",
+  "end_date": "1964-08-03",
+  "synopsis": "A song for the Minna no Uta segment.",
+  "mean": 4.84,
+  "popularity": 15980,
+  "num_list_users": 505,
+  "num_scoring_users": 237,
+  "nsfw": "white",
+  "created_at": "2014-06-27T00:48:02+00:00",
+  "updated_at": "2021-05-27T21:17:30+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1964,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 133,
+  "rating": "g",
+  "studios": []
+}

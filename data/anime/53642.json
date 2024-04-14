@@ -1,0 +1,44 @@
+{
+  "id": 53642,
+  "title": "Odd Taxi Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1862/131331.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1862/131331l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Odd Taxi: Flauntingly",
+      "Odd Taxi: Koremiyogashi ni"
+    ],
+    "en": "",
+    "ja": "オッドタクシー オリジナルピクチャードラマ"
+  },
+  "start_date": "2022-03-30",
+  "end_date": "2022-03-30",
+  "synopsis": "Picture drama included with the Blu-ray release.",
+  "mean": 5.88,
+  "rank": 10120,
+  "popularity": 12074,
+  "num_list_users": 1496,
+  "num_scoring_users": 678,
+  "nsfw": "white",
+  "created_at": "2022-11-19T15:12:49+00:00",
+  "updated_at": "2022-11-19T15:19:38+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 566,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 45567,
+  "title": "Gekidan Nanatsu no Taizai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1633/111052.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1633/111052l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nanatsu no Taizai Mini Anime"
+    ],
+    "en": "The Seven Deadly Sins Theater",
+    "ja": "劇団七つの大罪"
+  },
+  "start_date": "2020-12-24",
+  "end_date": "2021-01-05",
+  "synopsis": "Mini anime of Nanatsu no Taizai parodying six fairy tales: \"Little Match Girl,\" \"Urashima Tarou,\" \"Tsuru no Ongaeshi,\" \"Snow White's Scary Adventures,\" \"The Honest Woodcutter,\" and \"Momotarou.\" They were released daily on the official VAP Youtube channel and on the official Twitter account.",
+  "mean": 5.64,
+  "rank": 11121,
+  "popularity": 7551,
+  "num_list_users": 6579,
+  "num_scoring_users": 1670,
+  "nsfw": "white",
+  "created_at": "2020-12-26T10:37:22+00:00",
+  "updated_at": "2022-04-01T04:08:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

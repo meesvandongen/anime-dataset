@@ -1,0 +1,47 @@
+{
+  "id": 12763,
+  "title": "0-sen Hayato",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/35847.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/35847l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zero-sen Hayato"
+    ],
+    "en": "",
+    "ja": "0戦はやと"
+  },
+  "start_date": "1964-01-21",
+  "end_date": "1964-10-27",
+  "synopsis": "The adventures of a zero fighter pilot during World War II. \n\n(Source: AniDB) ",
+  "mean": 5.91,
+  "rank": 9949,
+  "popularity": 13175,
+  "num_list_users": 1059,
+  "num_scoring_users": 219,
+  "nsfw": "white",
+  "created_at": "2012-01-22T00:01:36+00:00",
+  "updated_at": "2021-10-25T12:18:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 1964,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": []
+}

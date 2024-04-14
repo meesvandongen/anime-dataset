@@ -1,0 +1,66 @@
+{
+  "id": 37952,
+  "title": "Shoumetsu Toshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1411/111363.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1411/111363l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Afterlost",
+    "ja": "消滅都市"
+  },
+  "start_date": "2019-04-07",
+  "end_date": "2019-06-23",
+  "synopsis": "One day, a city suddenly disappears. Takuya, a professional by-the-contract courier and lone wolf, meets Yuki, the only survivor from the city's extinction. The two rely on a message from Yuki's father, who was heard to be missing, and head toward the disappeared city, Lost. \n\nHowever, unexpected obstacles strike before the pair, with the reality especially shocking for Yuki. Before them are the feelings of those left behind, a mysterious group manipulating in the shadows, and unveiling the hidden conspiracy. Takuya and Yuki, who both were initially strangers, would deepen their bond during the journey and unravel the mystery of the Lost city. \n\n(Source: MAL News)",
+  "mean": 5.49,
+  "rank": 11637,
+  "popularity": 2637,
+  "num_list_users": 67356,
+  "num_scoring_users": 20008,
+  "nsfw": "white",
+  "created_at": "2018-05-27T09:12:22+00:00",
+  "updated_at": "2022-04-13T19:14:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1427,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

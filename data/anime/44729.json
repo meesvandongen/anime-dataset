@@ -1,0 +1,43 @@
+{
+  "id": 44729,
+  "title": "Ali Meng Zhi Dao: Wo de Yun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1975/129867.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1975/129867l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ali's Dreamland: My Little Cloud",
+    "ja": "阿狸梦之岛·我的云"
+  },
+  "start_date": "2013-02-14",
+  "synopsis": "",
+  "rank": 18148,
+  "popularity": 22981,
+  "num_list_users": 93,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2020-12-15T13:31:26+00:00",
+  "updated_at": "2022-10-28T08:41:50+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2285,
+  "title": "D.I.C.E.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/2523.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/2523l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DICE",
+      "DNA Integrated Cybernetic Enterprises",
+      "DINOBREAKER"
+    ],
+    "en": "",
+    "ja": "ディノブレイカー"
+  },
+  "start_date": "2005-12-06",
+  "end_date": "2006-09-19",
+  "synopsis": "DICE (DNA Integrated Cybernetic Enterprises) is a large organization established to deal with problems in the Sarbylion galaxy. DICE F-99 is the only unit comprised entirely of children.\n\nWhen a problem arises, DICE is called to the rescue. And when their special training and skills aren`t enough, they rely on their Dinobreakers, which can transform from Vehicle Mode to Dino Mode, to help get the job done!\n\nAlways on call, always on alert - DICE is ready for action! \n\n(Source: AniDB)",
+  "mean": 6.35,
+  "rank": 7721,
+  "popularity": 8456,
+  "num_list_users": 4991,
+  "num_scoring_users": 2408,
+  "nsfw": "white",
+  "created_at": "2007-04-13T07:43:59+00:00",
+  "updated_at": "2022-12-13T13:09:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

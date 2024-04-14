@@ -1,0 +1,67 @@
+{
+  "id": 38467,
+  "title": "Wu Geng Ji Zhi San Jie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1000/116470.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1000/116470l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wu Geng Ji 3rd Season",
+      "The Legend and the Hero",
+      "Feng Shen Ji",
+      "Chronicles of the God's Order"
+    ],
+    "en": "",
+    "ja": "武庚纪之三界"
+  },
+  "start_date": "2019-12-20",
+  "end_date": "2020-10-09",
+  "synopsis": "Third season of Wu Geng Ji.",
+  "mean": 7.05,
+  "rank": 4079,
+  "popularity": 10195,
+  "num_list_users": 2769,
+  "num_scoring_users": 910,
+  "nsfw": "white",
+  "created_at": "2018-10-05T07:03:25+00:00",
+  "updated_at": "2022-02-18T17:17:43+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 42,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 960,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1768,
+      "name": "Sparkly Key Animation Studio"
+    }
+  ]
+}

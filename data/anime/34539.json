@@ -1,0 +1,54 @@
+{
+  "id": 34539,
+  "title": "Saint Seiya: Saintia Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1022/93948.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1022/93948l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "聖闘士星矢 セインティア翔"
+  },
+  "start_date": "2018-12-10",
+  "end_date": "2019-02-18",
+  "synopsis": "The whole Sanctuary was misled into danger due to the civil war instigated by the Gemini Gold Saint, Saga. Our story begins right after the end of those events... This is a story of the girls protecting Athena. These are the records of love and fierce fights they meet while opposing destiny on their way to maturity...\n \n(Source: MangaSeven)",
+  "mean": 5.63,
+  "rank": 11183,
+  "popularity": 5498,
+  "num_list_users": 14378,
+  "num_scoring_users": 5484,
+  "nsfw": "white",
+  "created_at": "2016-12-15T03:28:43+00:00",
+  "updated_at": "2022-03-30T19:54:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1512,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 57782,
+  "title": "Yubisaki to Renren Mini Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1969/140836.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1969/140836l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "A Sign of Affection Mini Anime",
+    "ja": "ゆびさきと恋々 ミニアニメ"
+  },
+  "start_date": "2024-01-07",
+  "end_date": "2024-03-24",
+  "synopsis": "",
+  "mean": 6.11,
+  "rank": 9020,
+  "popularity": 13072,
+  "num_list_users": 1091,
+  "num_scoring_users": 240,
+  "nsfw": "white",
+  "created_at": "2024-01-09T21:20:30+00:00",
+  "updated_at": "2024-03-25T08:59:01+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    }
+  ]
+}

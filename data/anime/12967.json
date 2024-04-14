@@ -1,0 +1,64 @@
+{
+  "id": 12967,
+  "title": "Arcana Famiglia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/39495.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/39495l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Arcana Famiglia: La Storia Della Arcana Famiglia"
+    ],
+    "en": "La storia della Arcana Famiglia",
+    "ja": "アルカナ・ファミリア －La storia della Arcana Famiglia－"
+  },
+  "start_date": "2012-07-01",
+  "end_date": "2012-09-16",
+  "synopsis": "​On the island of Regalo, a group of supernaturally powered mafia-like protectors called the Arcana Famiglia safeguard the people from any who would harm them. The members of their organization, having made contracts with tarot cards, each possess different abilities, such as overwhelming strength, invisibility, or the power to see into someone's heart. \n\nMondo, their leader and the \"Papa\" of their family, announces at his birthday party that he will be retiring soon. He plans to hold the Arcana Duello, a competition that, if won, will grant the winner the title of Papa and any wish they desire. But there is more at stake than just a title: Mondo also decides that the winner will marry his daughter, Felicità. Enraged by this, the strong-willed Felicità decides to enter the competition herself, in order to make her own way in the world. As Felicità battles for her freedom, her competitors battle for her heart.\n\n[Written by MAL Rewrite]",
+  "mean": 6.26,
+  "rank": 8262,
+  "popularity": 1155,
+  "num_list_users": 207987,
+  "num_scoring_users": 98861,
+  "nsfw": "white",
+  "created_at": "2012-02-10T14:21:05+00:00",
+  "updated_at": "2023-10-10T01:33:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

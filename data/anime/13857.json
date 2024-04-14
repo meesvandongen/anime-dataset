@@ -1,0 +1,39 @@
+{
+  "id": 13857,
+  "title": "Souhaku Shisuferia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/38467.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/38467l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "蒼白シスフェリア"
+  },
+  "start_date": "2009-12-23",
+  "end_date": "2009-12-23",
+  "synopsis": "Shoujo Byou (少女病) doujin musical group's Souhaku Shisuferia CD single included a music video DVD with original animation.",
+  "mean": 5.55,
+  "popularity": 15665,
+  "num_list_users": 537,
+  "num_scoring_users": 249,
+  "nsfw": "white",
+  "created_at": "2012-04-19T08:18:05+00:00",
+  "updated_at": "2012-04-22T18:26:45+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "average_episode_duration": 360,
+  "rating": "g",
+  "studios": []
+}

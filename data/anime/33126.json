@@ -1,0 +1,52 @@
+{
+  "id": 33126,
+  "title": "Kurogane no Linebarrels Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/79581.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/79581l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Linebarrels of Iron Picture Drama"
+    ],
+    "en": "",
+    "ja": "鉄のラインバレル ピクチャードラマ"
+  },
+  "start_date": "2009-12-14",
+  "end_date": "2009-08-26",
+  "synopsis": "Picture dramas included on the DVDs.",
+  "mean": 6.05,
+  "rank": 9358,
+  "popularity": 13609,
+  "num_list_users": 940,
+  "num_scoring_users": 164,
+  "nsfw": "white",
+  "created_at": "2016-04-05T12:15:55+00:00",
+  "updated_at": "2023-10-05T11:11:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 9,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

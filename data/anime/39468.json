@@ -1,0 +1,58 @@
+{
+  "id": 39468,
+  "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1582/101697.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1582/101697l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ascendance of a Bookworm",
+    "ja": "本好きの下剋上 ～司書になるためには手段を選んでいられません～"
+  },
+  "start_date": "2019-10-03",
+  "end_date": "2019-12-26",
+  "synopsis": "Urano Motosu loves books and has an endless desire to read literature, no matter the subject. She almost fulfills her dream job of becoming a librarian before her life is ended in an accident. As she draws her last breath, she wishes to be able to read more books in her next life.\n\nAs if fate was listening to her prayer, she wakes up reincarnated as Myne—a frail five-year-old girl living in a medieval era. What immediately comes to her mind is her passion. She tries to find something to read, only to become frustrated by the lack of books at her disposal.  \n\nWithout the printing press, books have to be written and copied by hand, making them very expensive; as such, only a few nobles can afford them—but this won't stop Myne. She will prove that her will to read is unbreakable, and if there are no books around, she will make them herself! \n\n[Written by MAL Rewrite]",
+  "mean": 7.99,
+  "rank": 652,
+  "popularity": 773,
+  "num_list_users": 307904,
+  "num_scoring_users": 160607,
+  "nsfw": "white",
+  "created_at": "2019-03-06T11:34:22+00:00",
+  "updated_at": "2022-10-02T10:13:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

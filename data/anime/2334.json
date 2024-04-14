@@ -1,0 +1,57 @@
+{
+  "id": 2334,
+  "title": "Anime Sanjuushi: Aramis no Bouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/2601.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/2601l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Anime San Juushi: Aramis no Dai Boken",
+      "Three Musketeers"
+    ],
+    "en": "The Three Musketeers: Aramis the Adventure",
+    "ja": "アニメ三銃士　アラミスの冒険"
+  },
+  "start_date": "1989-03-11",
+  "end_date": "1989-03-11",
+  "synopsis": "Aramis fell off her horse and received the aid of a man named Francois. They fell in love with each other at first sight and spent their time happily for a while. Francois was killed by Manson and the Ironmask's people, so Aramis swore revenge. Then she went to Paris to be a musketeer.\n\n1 year after the end of TV series, D'Artagnan had a drink with 3 musketeers and found that Jussac and the Cardinal's Guards harrassed a woman in a tavern in Paris. Of couse, they fought Jussac and the Cardinal's guards and won. On his way to home, D'Artagnan witnessed the woman whom he rescued from Jussac about to jump into the river, and rescued her again. D'Artagnan brought her to home but she disappeared soon. After a day, D'Artagnan heard that the woman was killed last night and Rochefort and Cardinal's guards arrested him for murder because his hat was found by the woman's body. Aramis discovers that the story has a link with Catherine de Médicis, and launches out an investigation. This one will bring back her to the castle of her beloved where she will have to face Pizzaro to protect a dangerous document.\n\n(Source: AniDB)",
+  "mean": 6.5,
+  "rank": 6873,
+  "popularity": 11844,
+  "num_list_users": 1612,
+  "num_scoring_users": 598,
+  "nsfw": "white",
+  "created_at": "2007-04-22T21:15:50+00:00",
+  "updated_at": "2021-10-18T10:02:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 2700,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

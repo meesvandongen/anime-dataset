@@ -1,0 +1,63 @@
+{
+  "id": 52635,
+  "title": "Kami no Tou 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1949/142074.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1949/142074l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sin-ui Tap",
+      "신의 탑",
+      "Tower of God 2nd Season"
+    ],
+    "en": "Tower of God Season 2",
+    "ja": "神之塔 -Tower of God-"
+  },
+  "start_date": "2024-07",
+  "synopsis": "Second season of Kami no Tou.",
+  "popularity": 2430,
+  "num_list_users": 77083,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2022-08-06T21:53:16+00:00",
+  "updated_at": "2024-03-23T06:37:44+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 229,
+      "name": "The Answer Studio"
+    }
+  ]
+}

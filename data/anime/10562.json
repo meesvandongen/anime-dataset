@@ -1,0 +1,56 @@
+{
+  "id": 10562,
+  "title": "Machine Hayabusa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/29015.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/29015l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dash Machine Hayabusa"
+    ],
+    "en": "",
+    "ja": "マシンハヤブサ"
+  },
+  "start_date": "1976-04-02",
+  "end_date": "1976-09-17",
+  "synopsis": "Because of the appearance of a villain team, Black Shadow, the international racing was ruined. To compete with Black Shadow, Saionji Racing Team was founded. They developed a racing car, Hayabusa. It was a super racing machine that carries hyper power engine, Cavalier Engine. The main driver of the team was Hayabusa Ken whose big brother was killed by Black Shadow.\n\n(Source: AnimeNfo)",
+  "mean": 6.26,
+  "rank": 8279,
+  "popularity": 12921,
+  "num_list_users": 1144,
+  "num_scoring_users": 278,
+  "nsfw": "white",
+  "created_at": "2011-04-08T08:26:23+00:00",
+  "updated_at": "2022-11-23T20:55:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 21,
+  "start_season": {
+    "year": 1976,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "19:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

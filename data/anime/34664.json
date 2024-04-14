@@ -1,0 +1,50 @@
+{
+  "id": 34664,
+  "title": "Capsule Boy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/83625.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/83625l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dan Dan Xiaozi"
+    ],
+    "en": "Capsule Hero",
+    "ja": "캡슐보이"
+  },
+  "start_date": "2016-05-15",
+  "end_date": "2016-12-02",
+  "synopsis": "6.5-centimeter tall Degirdians fall to Earth in their spacecraft while chasing fugitives. Their spaceship transforms into a capsule toy stand near a toy store and a human boy accidentally takes home one of the aliens thinking it's a capsule toy. They befriend a human boy and try to figure out a way to get home all while fighting off the evil alien.",
+  "rank": 18726,
+  "popularity": 19037,
+  "num_list_users": 269,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2017-01-01T01:02:27+00:00",
+  "updated_at": "2022-12-10T09:11:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "14:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": []
+}

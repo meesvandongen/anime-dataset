@@ -1,0 +1,39 @@
+{
+  "id": 55509,
+  "title": "Cult",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1479/136163.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1479/136163l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "CULT"
+  },
+  "start_date": "2019-10-11",
+  "end_date": "2019-10-11",
+  "synopsis": "Music video for the song Cult by DUSTCELL.",
+  "popularity": 22435,
+  "num_list_users": 104,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2023-05-26T00:48:10+00:00",
+  "updated_at": "2023-06-16T16:43:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 203,
+  "rating": "pg_13",
+  "studios": []
+}

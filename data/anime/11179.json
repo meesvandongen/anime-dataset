@@ -1,0 +1,61 @@
+{
+  "id": 11179,
+  "title": "Papa no Iukoto wo Kikinasai!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/35039.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/35039l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Papakiki",
+      "Listen to Me, Girls, I'm Your Father!"
+    ],
+    "en": "Listen to Me, Girls. I Am Your Father!",
+    "ja": "パパのいうことを聞きなさい！"
+  },
+  "start_date": "2012-01-11",
+  "end_date": "2012-03-28",
+  "synopsis": "Yuuta Segawa has just started his freshman year of university. One day, his sister Yuri, who raised him after their parents died, asks him to take care of her daughters Hina, Sora and Miu while she and her husband go overseas on a business trip. Yuuta grudgingly accepts, but tragedy strikes when their plane goes missing and all passengers are presumed dead. In an effort to prevent the three girls from being split up, Yuuta goes against their family and takes them in, just as his sister took him in when he had no one else.\n\nNow the four find themselves in a new and peculiar situation: Yuuta must learn how to balance his new responsibilities—as the newest member of the Street Observation Research Society, a club for people watching, and also as a father figure—while Sora, Miu, and Hina come to terms with the loss of their parents.\n\n[Written by MAL Rewrite]",
+  "mean": 7.25,
+  "rank": 3017,
+  "popularity": 1225,
+  "num_list_users": 194717,
+  "num_scoring_users": 101401,
+  "nsfw": "white",
+  "created_at": "2011-08-05T10:42:24+00:00",
+  "updated_at": "2022-12-20T07:32:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

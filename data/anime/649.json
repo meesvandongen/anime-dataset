@@ -1,0 +1,68 @@
+{
+  "id": 649,
+  "title": "Hanaukyou Maid-tai: La Verite",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/10518.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/10518l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hanaukyo Maid Team: La Verite"
+    ],
+    "en": "Hanaukyo Maid Team: La Verite",
+    "ja": "花右京メイド隊 La Verite"
+  },
+  "start_date": "2004-04-04",
+  "end_date": "2004-06-20",
+  "synopsis": "After his mother passes away, Taro Hanaukyo is invited to his grandfather's home. There, he meets a beautiful maid named Mariel and finds out that his grandfather has retired to a remote island and has given him ownership of his estate. Taro also discovers that not only is the estate a colossal mansion, it has hundreds of gorgeous maids ready to serve him 24 hours a day, seven days a week. \n\n(Source: ANN)",
+  "mean": 6.76,
+  "rank": 5436,
+  "popularity": 4485,
+  "num_list_users": 24062,
+  "num_scoring_users": 10941,
+  "nsfw": "white",
+  "created_at": "2006-02-02T16:06:29+00:00",
+  "updated_at": "2022-11-17T06:49:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1404,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 39,
+      "name": "Daume"
+    }
+  ]
+}

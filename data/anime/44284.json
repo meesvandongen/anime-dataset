@@ -1,0 +1,40 @@
+{
+  "id": 44284,
+  "title": "Ai-mai Chocolate",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1815/110526.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1815/110526l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ai-mai Chocolate",
+    "ja": "Ai-mai Chocolate"
+  },
+  "start_date": "2020-07-12",
+  "end_date": "2020-07-12",
+  "synopsis": "Official music video for Watame Tsunomaki's first full original song.",
+  "mean": 5.89,
+  "popularity": 17310,
+  "num_list_users": 387,
+  "num_scoring_users": 220,
+  "nsfw": "white",
+  "created_at": "2020-12-05T06:51:24+00:00",
+  "updated_at": "2022-09-26T16:22:30+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 283,
+  "rating": "g",
+  "studios": []
+}

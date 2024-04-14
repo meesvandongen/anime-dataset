@@ -1,0 +1,70 @@
+{
+  "id": 50891,
+  "title": "Hoshi no Samidare",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1186/125305.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1186/125305l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Lucifer and the Biscuit Hammer",
+    "ja": "惑星のさみだれ"
+  },
+  "start_date": "2022-07-09",
+  "end_date": "2022-12-24",
+  "synopsis": "College student Yuuhi Amamiya's monotonous life is turned upside down with the appearance of Sir Noi Crezant, a talking lizard claiming to be a knight of justice. Crezant elaborates that the world is in peril—threatened by the mage Animus who wishes to annihilate it with his Biscuit Hammer, an enormous structure suspended in Earth's orbit. As the newly appointed Lizard Knight, Yuuhi must fight alongside other Beast Knights to protect the princess and save the planet from destruction.\n\nUnimpressed by the prospect of risking his life, Yuuhi continues his day as usual—until a golem created by Animus suddenly confronts him. Yuuhi is instantly overpowered, but his neighbor, Princess Samidare Asahina, luckily rescues him. To his surprise, Samidare's intention starkly differs from Crezant's; instead of saving the world, she aims to destroy it with her own hands. Captivated by her firm ambition, Yuuhi resolves to become stronger and help Samidare realize her goal.\n\nAs the pair continues to fight against Animus' golems, Yuuhi finds himself gradually gaining an interest in life—but the chains of his past trauma may restrain him from progressing further.\n\n[Written by MAL Rewrite]",
+  "mean": 5.64,
+  "rank": 11123,
+  "popularity": 2894,
+  "num_list_users": 57277,
+  "num_scoring_users": 15981,
+  "nsfw": "gray",
+  "created_at": "2022-01-24T06:37:20+00:00",
+  "updated_at": "2023-01-05T05:01:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1467,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 951,
+      "name": "NAZ"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 36946,
+  "title": "Dragon Ball Super: Broly",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1575/93498.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1575/93498l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon Ball Super: Broly",
+    "ja": "ドラゴンボール超（スーパー） ブロリー"
+  },
+  "start_date": "2018-12-14",
+  "end_date": "2018-12-14",
+  "synopsis": "Forty-one years ago on Planet Vegeta, home of the infamous Saiyan warrior race, King Vegeta noticed a baby named Broly whose latent power exceeded that of his own son. Believing that Broly's power would one day surpass that of his child, Vegeta, the king sends Broly to the desolate planet Vampa. Broly's father Paragus follows after him, intent on rescuing his son. However, his ship gets damaged, causing the two to spend years trapped on the barren world, unaware of the salvation that would one day come from an unlikely ally.\n\nYears later on Earth, Gokuu Son and Prince Vegeta—believed to be the last survivors of the Saiyan race—are busy training on a remote island. But their sparring is interrupted when the appearance of their old enemy Frieza drives them to search for the last of the wish-granting Dragon Balls on a frozen continent. Once there, Frieza shows off his new allies: Paragus and the now extremely powerful Broly. A legendary battle that shakes the foundation of the world ensues as Gokuu and Vegeta face off against Broly, a warrior without equal whose rage is just waiting to be unleashed.\n\n[Written by MAL Rewrite]",
+  "mean": 8.17,
+  "rank": 412,
+  "popularity": 565,
+  "num_list_users": 402665,
+  "num_scoring_users": 280122,
+  "nsfw": "white",
+  "created_at": "2017-12-16T02:05:40+00:00",
+  "updated_at": "2023-01-27T14:40:55+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 6000,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

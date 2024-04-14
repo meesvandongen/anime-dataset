@@ -1,0 +1,43 @@
+{
+  "id": 54500,
+  "title": "Island Island",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1909/133426.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1909/133426l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Island Island"
+  },
+  "start_date": "2017-03-05",
+  "end_date": "2017-03-05",
+  "synopsis": "Animated music video for the song \"Island Island\" by Bye Bye Badman.",
+  "popularity": 22135,
+  "num_list_users": 112,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2023-02-16T17:03:58+00:00",
+  "updated_at": "2023-02-16T21:20:55+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 246,
+  "rating": "pg",
+  "studios": []
+}

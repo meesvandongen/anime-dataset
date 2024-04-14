@@ -1,0 +1,52 @@
+{
+  "id": 34283,
+  "title": "Nobunaga no Shinobi: Nobunaga to Minarai Shinobi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/82507.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/82507l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nobunaga no Shinobi Episode 0"
+    ],
+    "en": "Ninja Girl & Samurai Master: Episode 0",
+    "ja": "信長の忍び 第0話『信長と見習い忍び』"
+  },
+  "start_date": "2016-03-25",
+  "end_date": "2016-03-25",
+  "synopsis": "Oda Nobunaga saves a girl from drowning one day. She clumsily tells him that she's a shinobi. Instead of attempting to kill him, she swears to serve him one day after hearing his plans to unify Japan.\n\n(Source: Crunchyroll)",
+  "mean": 6.8,
+  "rank": 5217,
+  "popularity": 7993,
+  "num_list_users": 5733,
+  "num_scoring_users": 2922,
+  "nsfw": "white",
+  "created_at": "2016-10-22T18:17:15+00:00",
+  "updated_at": "2021-11-12T07:59:41+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 311,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

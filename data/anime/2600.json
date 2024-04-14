@@ -1,0 +1,68 @@
+{
+  "id": 2600,
+  "title": "Juusenki L-Gaim II: Farewell My Lovely + Pentagona Dolls",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1119/94289.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1119/94289l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Heavy Metal L-Gaim II: Farewell My Lovely + Pentagona Dolls",
+      "Heavy Metal L-Gaim OVA"
+    ],
+    "en": "",
+    "ja": "重戦機エルガイムII フェアウェル マイ ラブリー+ペンタゴナ ドールズ"
+  },
+  "start_date": "1987-01-10",
+  "end_date": "1987-01-10",
+  "synopsis": "A recap OVA that portrays the second half of the series Heavy Metal L-Gaim. After the credits, there is a short clip animated for the OVA entitled \"Pentagona Dolls\", which is intended to be comic relief. ",
+  "mean": 5.74,
+  "rank": 10685,
+  "popularity": 13041,
+  "num_list_users": 1100,
+  "num_scoring_users": 292,
+  "nsfw": "white",
+  "created_at": "2007-06-10T03:30:24+00:00",
+  "updated_at": "2022-11-06T09:22:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "winter"
+  },
+  "average_episode_duration": 3360,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

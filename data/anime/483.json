@@ -1,0 +1,62 @@
+{
+  "id": 483,
+  "title": "Kurau Phantom Memory",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1997/106096.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1997/106096l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クラウ ファントムメモリー"
+  },
+  "start_date": "2004-06-25",
+  "end_date": "2004-12-16",
+  "synopsis": "It is the year 2100, and on the colonized Moon, a project is under way to explore new aspects of energy. Amami Kurau is the daughter of the chief scientist on the project, and on her 12th birthday, she accompanies her father to the lab to observe the experiments. Then something goes awry, and Kurau is struck by twin bolts of light. In the aftermath, her father is dismayed to find that his daughter is no longer his daughter. Rather, her body is now home to two energy entities with fantastic powers.\n\n(Source: ANN)",
+  "mean": 7.29,
+  "rank": 2767,
+  "popularity": 3973,
+  "num_list_users": 31458,
+  "num_scoring_users": 8184,
+  "nsfw": "white",
+  "created_at": "2006-01-03T10:45:04+00:00",
+  "updated_at": "2022-04-10T18:32:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1403,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

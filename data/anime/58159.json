@@ -1,0 +1,56 @@
+{
+  "id": 58159,
+  "title": "Spy x Family Movie: Code: White Manner Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1567/141475.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1567/141475l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spy x Family Movie: Code: White Eizou Manner Kouza, Spy x Family Movie: Code: White Movie Etiquette Course"
+    ],
+    "en": "",
+    "ja": "『劇場版 SPY×FAMILY CODE: White』映画マナー講座"
+  },
+  "start_date": "2023-07-28",
+  "end_date": "2023-07-28",
+  "synopsis": "Wit Studio and Cloverworks released a new short film using Spy x Family to remind the general public of basic movie theater etiquette. You’ll be able to watch it from all Toho cinemas in Japan. All members of the immediate Forger family are present. It focuses on Loid and Yor teaching Anya how to behave when in a movie theater. \n\n(Source: siliconera.com)",
+  "mean": 6.45,
+  "rank": 7199,
+  "popularity": 11638,
+  "num_list_users": 1737,
+  "num_scoring_users": 257,
+  "nsfw": "white",
+  "created_at": "2024-02-18T13:48:44+00:00",
+  "updated_at": "2024-03-30T18:41:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 59,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    },
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

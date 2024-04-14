@@ -1,0 +1,47 @@
+{
+  "id": 1387,
+  "title": "Yakin Byoutou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1839/114163.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1839/114163l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "NSN"
+    ],
+    "en": "Night Shift Nurses",
+    "ja": "夜勤病棟"
+  },
+  "start_date": "2000-12-08",
+  "end_date": "2004-01-30",
+  "synopsis": "On a forbidden hospital ward, the head doctor performs madly erotic experiments, stripping the nursing staff of their uniforms, inhibitions and self-control... until even he is shocked by what he uncovers!\n\n(Source: AniDB)",
+  "mean": 6.3,
+  "popularity": 5793,
+  "num_list_users": 12607,
+  "num_scoring_users": 5042,
+  "nsfw": "gray",
+  "created_at": "2006-08-19T00:32:03+00:00",
+  "updated_at": "2022-04-02T07:59:26+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1705,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 579,
+      "name": "AT-2"
+    }
+  ]
+}

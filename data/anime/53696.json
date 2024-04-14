@@ -1,0 +1,43 @@
+{
+  "id": 53696,
+  "title": "Saigo dato Wakatte Ita Nara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1441/131503.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1441/131503l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "最後だとわかっていたなら"
+  },
+  "start_date": "2018-06-29",
+  "end_date": "2018-06-29",
+  "synopsis": "Music video for the song Saigo dato Wakatte Ita Nara by Kumiko. The lyrics are based on the American poem Tomorrow Never Comes by Norma Cornett Marek.",
+  "popularity": 22151,
+  "num_list_users": 112,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2022-11-27T07:11:46+00:00",
+  "updated_at": "2022-11-28T19:37:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 316,
+  "rating": "g",
+  "studios": []
+}

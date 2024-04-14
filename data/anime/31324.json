@@ -1,0 +1,49 @@
+{
+  "id": 31324,
+  "title": "Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/75328.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/75328l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Grisaia no Meikyuu Tokuten Eizou",
+      "Grisaia no Meikyuu Special"
+    ],
+    "en": "",
+    "ja": "グリザイアの迷宮 カプリスの繭0 姫&バスケ部編「滝園バスケ部の生クリームパーティ! 」"
+  },
+  "start_date": "2015-07-23",
+  "end_date": "2015-07-23",
+  "synopsis": "Special bundled with the Blu-ray/DVD volume of Grisaia no Meikyuu.",
+  "mean": 7.22,
+  "rank": 3153,
+  "popularity": 2803,
+  "num_list_users": 60718,
+  "num_scoring_users": 31603,
+  "nsfw": "white",
+  "created_at": "2015-07-22T20:19:51+00:00",
+  "updated_at": "2022-03-26T21:49:04+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 208,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

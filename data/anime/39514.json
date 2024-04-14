@@ -1,0 +1,61 @@
+{
+  "id": 39514,
+  "title": "Giniro no Kami no Agito Pilot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1014/99742.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1014/99742l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gin-iro no Kami no Agito Pilot, Silver-Haired Agito Pilot",
+      "Gin-iro no Kami no Agito Eizou Tokuten - Shoki Pilot Film"
+    ],
+    "en": "",
+    "ja": "銀色の髪のアギト パイロットフィルム"
+  },
+  "start_date": "2006-06-23",
+  "end_date": "2006-06-23",
+  "synopsis": "The pilot of Giniro no Kami no Agito included on the DVD release of the film. It contains no dialogue. It was also included on the later BD release of the film.",
+  "mean": 6.01,
+  "rank": 9558,
+  "popularity": 13184,
+  "num_list_users": 1057,
+  "num_scoring_users": 245,
+  "nsfw": "white",
+  "created_at": "2019-03-11T03:56:57+00:00",
+  "updated_at": "2019-04-23T12:18:20+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 316,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

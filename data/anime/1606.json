@@ -1,0 +1,68 @@
+{
+  "id": 1606,
+  "title": "Kekkaishi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/75191.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/75191l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Barrier Master"
+    ],
+    "en": "Kekkaishi",
+    "ja": "結界師"
+  },
+  "start_date": "2006-10-16",
+  "end_date": "2008-02-05",
+  "synopsis": "Yoshimura Sumimura comes from a long line of \"Kekkaishi,\" individuals who have supernatural abilities and are able to destroy evil creatures called Ayakashi that venture into the human realm from time to time. The Ayakashi are demons that look to feast on the power emanating from the land of Karasumori, which also happens to be where Yoshimura's high school is located. Now, Yoshimura must fight to protect his beloved school and hometown. Although, if it were up to him, he would rather be baking cakes than fighting off the ugly characters that show up at night.\n\nThankfully, Yoshimura isn't the only one helping to keep the baddies at bay. His childhood friend and neighbor, Tokine Yukimura, joins him in this righteous battle. Despite the fact that they are from rival clans, these two make a fantastic team. And teamwork is something vital to fighting the evil that is closing in, as the Ayakashi attack in waves, looking to claim the land as their own, and a shadowy organization looks on, ready to pounce when the time is right...",
+  "mean": 7.59,
+  "rank": 1528,
+  "popularity": 1935,
+  "num_list_users": 110693,
+  "num_scoring_users": 50307,
+  "nsfw": "white",
+  "created_at": "2006-10-24T18:13:05+00:00",
+  "updated_at": "2023-01-05T09:59:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1470,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

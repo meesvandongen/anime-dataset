@@ -1,0 +1,68 @@
+{
+  "id": 1191,
+  "title": "Saber Marionette J Again",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/61135.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/61135l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mata Mata Saber Marionette J"
+    ],
+    "en": "",
+    "ja": "またまたセイバーマリオネットＪ"
+  },
+  "start_date": "1997-11-25",
+  "end_date": "1998-06-25",
+  "synopsis": "Lime, Cherry, and Bloodberry, female-like androids called marionettes, have returned to Otaru`s side. The somewhat reformed marionettes of Faust (Tiger, Luchs, and Panther) are sent to stay with Otaru and friends to learn more about being human. Enter a seventh marionette named Marine, who has a mysterious power -- and they all possess the special maiden circuit that allows a marionette to feel emotions!\n\n(Source: AniDB)",
+  "mean": 7.22,
+  "rank": 3190,
+  "popularity": 5911,
+  "num_list_users": 11988,
+  "num_scoring_users": 6187,
+  "nsfw": "white",
+  "created_at": "2006-07-07T20:13:30+00:00",
+  "updated_at": "2022-02-19T07:41:35+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1620,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 34,
+      "name": "HAL Film Maker"
+    }
+  ]
+}

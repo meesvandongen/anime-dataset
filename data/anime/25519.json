@@ -1,0 +1,62 @@
+{
+  "id": 25519,
+  "title": "Yuuki Yuuna wa Yuusha de Aru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/77057.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/77057l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuki Yuna wa Yusha de Aru",
+      "Yuuki Yuuna is a Hero",
+      "YuYuYu"
+    ],
+    "en": "Yuki Yuna is a Hero",
+    "ja": "結城友奈は勇者である"
+  },
+  "start_date": "2014-10-17",
+  "end_date": "2014-12-26",
+  "synopsis": "In her everyday life, Yuuna Yuuki is a hero. As proof, she is in her middle school's Hero Club, where she does her best to help others and bring a smile to everyone's face.\n\nBut Yuuna, always up to any task, is about to become an even bigger hero. Mysterious destructive forces called Vertexes begin threatening the world she loves, and the Hero Club is called upon by a strange phone app to save it. Along with her best friend Mimori Tougou, as well as sisters Fuu and Itsuki Inubouzaki, they must transform into magical girls in order to battle the Vertexes.\n\nIn between studying and putting on shows for kids, Yuuna and the Hero Club must fight for the very existence of their world and face the harsh truths behind their own powers, all the while discovering what it truly means to be a hero.\n\n[Written by MAL Rewrite]",
+  "mean": 7.39,
+  "rank": 2317,
+  "popularity": 1500,
+  "num_list_users": 154746,
+  "num_scoring_users": 57322,
+  "nsfw": "white",
+  "created_at": "2014-07-26T11:58:35+00:00",
+  "updated_at": "2023-05-08T06:26:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:19"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

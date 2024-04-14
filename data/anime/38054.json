@@ -1,0 +1,40 @@
+{
+  "id": 38054,
+  "title": "Pop in Q Dance MV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1149/93243.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1149/93243l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ポッピンQ Dance MV"
+  },
+  "start_date": "2017-06-02",
+  "end_date": "2017-06-02",
+  "synopsis": "A dance music video designed to promote Pop in Q, which was later included on the Blu-ray release, and contains original footage. ",
+  "mean": 5.53,
+  "popularity": 14075,
+  "num_list_users": 830,
+  "num_scoring_users": 354,
+  "nsfw": "white",
+  "created_at": "2018-07-23T00:16:36+00:00",
+  "updated_at": "2021-09-27T06:49:04+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 118,
+  "rating": "g",
+  "studios": []
+}

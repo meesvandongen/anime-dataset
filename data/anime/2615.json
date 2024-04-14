@@ -1,0 +1,63 @@
+{
+  "id": 2615,
+  "title": "Otome wa Boku ni Koishiteru Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/22360.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/22360l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Otome wa Onee-sama ni Koi Shiteru",
+      "The Maiden Is Falling In Love With The Elder Sister",
+      "Otoboku",
+      "Otome wa Boku ni Koi Shiteru: Ookina Shounen Shoujo no Sekai Meisaku no Mori - Tsunderella"
+    ],
+    "en": "Otoboku: Maidens are Falling for Me! Special",
+    "ja": "乙女はお姉さま[ボク]に恋してる 大きな少年少女の世界名作の森 ~ツンデレラ~"
+  },
+  "start_date": "2007-04-21",
+  "end_date": "2007-04-21",
+  "synopsis": "Special DVD episode combining the storyline of Cinderella and Snow White (chibi style) with the \"Otome wa Boku ni Koishiteru\" cast.",
+  "mean": 6.62,
+  "rank": 6222,
+  "popularity": 5934,
+  "num_list_users": 11872,
+  "num_scoring_users": 6467,
+  "nsfw": "white",
+  "created_at": "2007-06-13T06:05:20+00:00",
+  "updated_at": "2021-11-13T02:08:24+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 81,
+      "name": "Crossdressing"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

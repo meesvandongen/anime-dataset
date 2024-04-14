@@ -1,0 +1,50 @@
+{
+  "id": 4232,
+  "title": "Kidou Senshi Gundam MS IGLOO 2: Juuryoku Sensen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/7880.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/7880l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+    "ja": "機動戦士ガンダム　ＭＳ ＩＧＬＯＯ ２　重力戦線"
+  },
+  "start_date": "2008-10-24",
+  "end_date": "2009-04-24",
+  "synopsis": "MS igLoo 2 goes back to the first MS igLoo and tells the story of the Federation soldiers side that has to fight against the monstrous Zakus. Each episode tells a story of a different federation soldier that is cursed by a Death God that came down to earth with the Zakus and shows the desperate struggle against mobile suits with only conventional weapons such as tanks and missiles. Each soldier, fueled with revenge, and a Death God looming over their backs, fights against the odds that is the terrible might of a Zaku. ",
+  "mean": 6.55,
+  "rank": 6555,
+  "popularity": 5744,
+  "num_list_users": 12923,
+  "num_scoring_users": 6396,
+  "nsfw": "white",
+  "created_at": "2008-04-06T20:53:57+00:00",
+  "updated_at": "2022-11-07T23:42:06+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

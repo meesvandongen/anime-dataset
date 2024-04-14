@@ -1,0 +1,54 @@
+{
+  "id": 34402,
+  "title": "Love Kome: We Love Rice",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/84377.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/84377l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Love Rice",
+    "ja": "ラブ米 -WE LOVE RICE-"
+  },
+  "start_date": "2017-04-05",
+  "end_date": "2017-06-21",
+  "synopsis": "The project anthropomorphizes rice (kome in Japanese) into schoolboys. At the Kokuritsu Inaho Academy (\"Rice Ear Academy,\" a wordplay on national schools), five new rice-inspired students attempt to supplant bread as the popular grain at the school. The new students form the \"Love Rice\" unit and challenge themselves to perform at the \"Harvest Show\" to show the delicious appeal of rice grains. The \"heartwarming 'kome'dy with laughs and passion\" promises to let audiences rediscover the virtues of rice (\"Japan's soul food\").\n\n(Source: ANN)",
+  "mean": 4.62,
+  "rank": 13039,
+  "popularity": 6048,
+  "num_list_users": 11328,
+  "num_scoring_users": 4422,
+  "nsfw": "white",
+  "created_at": "2016-11-20T20:54:30+00:00",
+  "updated_at": "2021-12-18T15:36:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:50"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 354,
+      "name": "Encourage Films"
+    }
+  ]
+}

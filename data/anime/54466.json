@@ -1,0 +1,39 @@
+{
+  "id": 54466,
+  "title": "Tricologe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1187/133372.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1187/133372l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "トリコロージュ"
+  },
+  "start_date": "2022-02-26",
+  "end_date": "2022-02-26",
+  "synopsis": "Music video for the song \"Tricologe\" from the mobile game Project Sekai Colorful Stage.",
+  "popularity": 20652,
+  "num_list_users": 179,
+  "num_scoring_users": 92,
+  "nsfw": "white",
+  "created_at": "2023-02-14T22:47:50+00:00",
+  "updated_at": "2023-02-15T14:36:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 261,
+  "rating": "g",
+  "studios": []
+}

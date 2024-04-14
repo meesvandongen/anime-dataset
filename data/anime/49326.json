@@ -1,0 +1,49 @@
+{
+  "id": 49326,
+  "title": "Ma-eum-uisoli",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1640/116194.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1640/116194l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Sound of Heart: Season 1"
+    ],
+    "en": "The Sound of Your Heart",
+    "ja": "마음의 소리 시즌 1"
+  },
+  "start_date": "2016-07-19",
+  "end_date": "2016-12-27",
+  "synopsis": "While it may seem like a mere depiction of everyday life, The Sound of Your Heart is a comedy filled to the brim with wit, sarcasm, and parody. It gives no regard for the probable or realistic- it is a series of absurd situations that is sure to get a laugh out of every reader willing to suspend their sense of reality.\n\n(Source: LINE Webtoon)",
+  "rank": 16119,
+  "popularity": 19753,
+  "num_list_users": 230,
+  "num_scoring_users": 39,
+  "nsfw": "white",
+  "created_at": "2021-06-30T13:58:23+00:00",
+  "updated_at": "2022-03-24T18:42:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

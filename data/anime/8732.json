@@ -1,0 +1,46 @@
+{
+  "id": 8732,
+  "title": "Yuuki Hitotsu wo Tomo ni Shite",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/24115.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/24115l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "勇気一つを友にして"
+  },
+  "start_date": "1975-10-06",
+  "end_date": "1975-10-06",
+  "synopsis": "The story of the Greek Icarus who wanted to escape the island by creating a pair of wings. Icarus, so enamored with the success of his wings, rose higher and higher toward the sun. Unfortunately, this results in the glue of the wings melting under the sun's heat.",
+  "mean": 4.98,
+  "popularity": 15635,
+  "num_list_users": 540,
+  "num_scoring_users": 288,
+  "nsfw": "white",
+  "created_at": "2010-04-28T11:35:02+00:00",
+  "updated_at": "2019-02-10T10:05:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1975,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 140,
+  "rating": "g",
+  "studios": []
+}

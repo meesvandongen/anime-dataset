@@ -1,0 +1,56 @@
+{
+  "id": 53957,
+  "title": "Doraemon: Uchuu Fushigi Daitanken Planetarium 2 - Taiyoukei no Himitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1133/132041.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1133/132041l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ドラえもん 宇宙ふしぎ大探検 プラネタリウム 2 〜太陽系のひみつ〜"
+  },
+  "start_date": "2015-05-30",
+  "end_date": "2015-05-30",
+  "synopsis": "",
+  "rank": 19297,
+  "popularity": 19325,
+  "num_list_users": 254,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2022-12-24T01:01:01+00:00",
+  "updated_at": "2022-12-24T10:29:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": []
+}

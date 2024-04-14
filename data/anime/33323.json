@@ -1,0 +1,62 @@
+{
+  "id": 33323,
+  "title": "Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/83437.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/83437l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "神様はじめました「神様、幸せになる」"
+  },
+  "start_date": "2016-12-20",
+  "end_date": "2016-12-20",
+  "synopsis": "Nanami Momozono, current land god of Mikage Shrine, and her fox familiar Tomoe have faced many obstacles during their time together, but none so challenging as the one posed by the wealth god Ookuninushi—if Tomoe's wish to be human is granted, he must learn to live as one, and Nanami will have to return to being a human.\n\nAs the couple look to the future and reflect on their former adventures, Nanami tries to figure out their new living situation as her high school graduation approaches. But no matter the path they choose to walk, Tomoe and Nanami's love will endure.\n\n[Written by MAL Rewrite]",
+  "mean": 8.16,
+  "rank": 420,
+  "popularity": 2689,
+  "num_list_users": 65268,
+  "num_scoring_users": 32688,
+  "nsfw": "white",
+  "created_at": "2016-05-20T14:14:42+00:00",
+  "updated_at": "2022-10-31T01:00:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 769,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 8278,
+  "title": "Biohazard 4: Incubate",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1615/106745.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1615/106745l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Resident Evil 4: Incubate"
+    ],
+    "en": "",
+    "ja": "バイオハザード4 Incubate"
+  },
+  "start_date": "2006-09-28",
+  "end_date": "2006-09-28",
+  "synopsis": "After the Playstation port of Resident Evil 4 hit the stores Capcom released a new 97 minute DVD some time later which intended to summarize the whole story of Resident Evil 4. It's played on English audio with Japanese subtitles. It also included a little book which explains the life on El Pueblo before and the arrival of Osmund Saddler. It also solved some plot holes like the whereabouts of the children. It contains many of the scenes original to Resident Evil 4.\n\n(Source: Resident Evil Wiki)",
+  "mean": 6.08,
+  "rank": 9175,
+  "popularity": 6773,
+  "num_list_users": 8599,
+  "num_scoring_users": 3663,
+  "nsfw": "white",
+  "created_at": "2010-02-25T20:28:24+00:00",
+  "updated_at": "2021-12-26T21:21:49+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 4925,
+  "rating": "r",
+  "studios": []
+}

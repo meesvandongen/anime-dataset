@@ -1,0 +1,56 @@
+{
+  "id": 642,
+  "title": "Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/5228.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/5228l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ichigo 100%: Jump Festa 2004 Special"
+    ],
+    "en": "Strawberry 100%: Love Begins?!",
+    "ja": "いちご100% 恋が始まる!? 撮影合宿 〜ゆれるココロが東へ西へ〜"
+  },
+  "start_date": "2004-09-23",
+  "end_date": "2004-09-23",
+  "synopsis": "Continues from where Ichigo 100% TV leaves off and revolves around the filming of the movie based off Toujou's script. (Best if viewed after Ichigo 100% TV series and before the DVD Animation OVAs, although it was produced the year before the series came out.)",
+  "mean": 6.82,
+  "rank": 5116,
+  "popularity": 4936,
+  "num_list_users": 19260,
+  "num_scoring_users": 10157,
+  "nsfw": "white",
+  "created_at": "2006-02-02T15:59:56+00:00",
+  "updated_at": "2022-01-31T04:54:23+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1553,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

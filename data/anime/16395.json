@@ -1,0 +1,56 @@
+{
+  "id": 16395,
+  "title": "SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1703/97779.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1703/97779l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "SKET Dance OVA"
+    ],
+    "en": "",
+    "ja": "スケットダンス 妹の悩みに悩む兄に悩む妹とその仲間達"
+  },
+  "start_date": "2013-02-04",
+  "end_date": "2013-02-04",
+  "synopsis": "An OVA of SKET Dance bundled with the 29th volume of the manga, covering chapters 198, 199, and 200.\n\nThis is a conclusion of some of the events shown in the last episode of the anime series.",
+  "mean": 7.9,
+  "rank": 777,
+  "popularity": 4677,
+  "num_list_users": 21765,
+  "num_scoring_users": 11226,
+  "nsfw": "white",
+  "created_at": "2012-11-26T19:09:52+00:00",
+  "updated_at": "2024-01-16T16:53:28+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1650,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

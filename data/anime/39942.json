@@ -1,0 +1,62 @@
+{
+  "id": 39942,
+  "title": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1624/103162.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1624/103162l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Uchitama?! Have you seen my Tama?",
+    "ja": "うちタマ?!~うちのタマ知りませんか?~"
+  },
+  "start_date": "2020-01-10",
+  "end_date": "2020-03-20",
+  "synopsis": "The animals of Third Street are seen getting into many misadventures. Tama Okamoto, the curious feline, often goes missing from his home, causing his owner to have posters up looking for him. However, Tama's absence is his opportunity to visit all of his wandering furry friends around the neighborhood. From Tama's best friend Pochi Yamada to the stray alley cat Nora, these animals take human form to hang out, to cause various mischief, but most of all, to have fun!\n\n[Written by MAL Rewrite]",
+  "mean": 6.94,
+  "rank": 4540,
+  "popularity": 4501,
+  "num_list_users": 23819,
+  "num_scoring_users": 7186,
+  "nsfw": "white",
+  "created_at": "2019-06-13T18:37:05+00:00",
+  "updated_at": "2023-12-28T09:14:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:55"
+  },
+  "source": "original",
+  "average_episode_duration": 1387,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    },
+    {
+      "id": 1828,
+      "name": "Lapin Track"
+    }
+  ]
+}

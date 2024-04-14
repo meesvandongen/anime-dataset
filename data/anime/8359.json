@@ -1,0 +1,57 @@
+{
+  "id": 8359,
+  "title": "Crayon Shin-chan Movie 04: Henderland no Daibouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1429/94854.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1429/94854l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Crayon Shin-chan: Henderland no Daibouken",
+      "Crayon Shin-chan: Adventure in Henderland"
+    ],
+    "en": "",
+    "ja": "クレヨンしんちゃん ヘンダーランドの大冒険"
+  },
+  "start_date": "1996-04-19",
+  "end_date": "1996-04-19",
+  "synopsis": "A modern horror style fantasy depicting a laughable adventure in Gunma Hender Land, the largest theme park in the north areas around Tokyo. Nohara family fight with Toppema Muppet (a talking doll from Magic World) against two gay 'witch' men Makao and Joma, who came from Another World and try to invade the Real World.\n\n(Source: Manabu Tsuribe)",
+  "mean": 7.34,
+  "rank": 2528,
+  "popularity": 6793,
+  "num_list_users": 8541,
+  "num_scoring_users": 5172,
+  "nsfw": "white",
+  "created_at": "2010-03-11T05:59:35+00:00",
+  "updated_at": "2022-04-13T02:44:44+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 5820,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

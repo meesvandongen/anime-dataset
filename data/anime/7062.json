@@ -1,0 +1,68 @@
+{
+  "id": 7062,
+  "title": "Hidamari Sketch x ☆☆☆",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/22349.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/22349l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hidamari Sketch x Hoshi Mittsu, Hidamari Sketch 3rd Season"
+    ],
+    "en": "",
+    "ja": "ひだまりスケッチ×☆☆☆"
+  },
+  "start_date": "2010-01-08",
+  "end_date": "2010-03-26",
+  "synopsis": "When we first met Yuno, she'd just been accepted to the prestigious Yamabuki Art School, and it was up to her new neighbors at Hidamari to help her find her way in the big scary world. Now a seasoned vet of the Hidamari Apartments herself, Yuno's newest challenge is to help the latest arrivals, Nazuna and Nori, acclimate to life on their own. Of course, since it IS Hidamari, there are still lots of trials and tribulations ahead, and nothing will ever go quite as expected. But with friends like Miyako, Hiro, and Sae ready to lend a hand, there will always be a ray of sunshine at the end of every storm in Hidamari Sketch x Hoshimittsu.\n\n(Source: Sentai Filmworks)",
+  "mean": 7.9,
+  "rank": 789,
+  "popularity": 4179,
+  "num_list_users": 27991,
+  "num_scoring_users": 13118,
+  "nsfw": "white",
+  "created_at": "2009-08-22T17:11:47+00:00",
+  "updated_at": "2023-09-12T22:26:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:29"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1470,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

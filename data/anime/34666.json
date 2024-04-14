@@ -1,0 +1,44 @@
+{
+  "id": 34666,
+  "title": "Kemy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/83627.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/83627l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kemy",
+    "ja": "깨미"
+  },
+  "start_date": "2011-02-28",
+  "end_date": "2011-08-23",
+  "synopsis": "Kemy is an animation series with some educational undertones targeting 5~7-year-old kids. The entire series is set against the backdrop of a supermarket. Viewing the animations, children will be able to imagine themselves in amidst all a supermarket has to offer. Children can join Kemy and his quest to figure out the answers to everyday questions. Buka and Chaka do not reprise their roles in this season.\n\n(Source: korean-products.com)\n\n",
+  "rank": 15567,
+  "popularity": 19534,
+  "num_list_users": 241,
+  "num_scoring_users": 53,
+  "nsfw": "white",
+  "created_at": "2017-01-01T01:03:39+00:00",
+  "updated_at": "2017-06-01T13:32:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "09:40"
+  },
+  "source": "original",
+  "average_episode_duration": 703,
+  "rating": "g",
+  "studios": []
+}

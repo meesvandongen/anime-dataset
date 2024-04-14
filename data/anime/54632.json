@@ -1,0 +1,67 @@
+{
+  "id": 54632,
+  "title": "Gekai Elise",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1449/140344.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1449/140344l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Oegwauisa Elise",
+      "외과의사 엘리제",
+      "Surgeon Elise",
+      "Doctor Elise: Queen with a Scalpel"
+    ],
+    "en": "Doctor Elise: The Royal Lady with the Lamp",
+    "ja": "外科医エリーゼ"
+  },
+  "start_date": "2024-01-10",
+  "end_date": "2024-03-27",
+  "synopsis": "In her first life, the renowned and genius surgeon Dr. Aoi Takamoto was Elise de Clorance, a villainess of noble descent. Elise's selfishness, insolence, and obsessive love for her fiancé—Prince Linden de Romanoff—led to the deaths of her family members and, eventually, herself. Only after being reborn did Elise realize the error of her ways and decide that, instead of ruining lives, she would devote herself to saving them. But a tragic airplane crash robs her of her dreams too soon.\n\nBy a miracle, Elise wakes up in her original body before her official engagement to Linden. Recognizing the chance to cherish her loving family and free Linden from an unwanted marriage, Elise wishes to use her advanced medical knowledge to continue down the path of saving lives. In a deal with the emperor, Elise is given only six months to prove that her true place is not on the throne, but rather with the wounded and ailing who desperately need her help.\n\n[Written by MAL Rewrite]",
+  "mean": 7.21,
+  "rank": 3234,
+  "popularity": 2579,
+  "num_list_users": 70486,
+  "num_scoring_users": 27885,
+  "nsfw": "white",
+  "created_at": "2023-02-27T17:34:35+00:00",
+  "updated_at": "2024-02-16T14:18:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "21:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1978,
+      "name": "Maho Film"
+    }
+  ]
+}

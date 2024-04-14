@@ -1,0 +1,48 @@
+{
+  "id": 36670,
+  "title": "Hatoya",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/88647.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/88647l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Honest Woodcutter",
+      "The Golden Axe"
+    ],
+    "en": "Hatoya",
+    "ja": "HATOYA"
+  },
+  "start_date": "2012-03-28",
+  "end_date": "2012-03-28",
+  "synopsis": "A surreal take on The Honest Woodcutter as a promotion for DJ Shugo's \"Otoko-darake no Dai Enkai\" music event.",
+  "mean": 5.25,
+  "rank": 12254,
+  "popularity": 16916,
+  "num_list_users": 416,
+  "num_scoring_users": 205,
+  "nsfw": "white",
+  "created_at": "2017-10-25T12:03:43+00:00",
+  "updated_at": "2019-07-25T02:54:06+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 150,
+  "rating": "g",
+  "studios": []
+}

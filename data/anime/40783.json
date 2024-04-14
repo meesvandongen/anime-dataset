@@ -1,0 +1,60 @@
+{
+  "id": 40783,
+  "title": "Shachou, Battle no Jikan desu!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1044/106309.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1044/106309l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shachibato The Animation"
+    ],
+    "en": "Shachibato! President, It's Time for Battle!",
+    "ja": "社長, バトルの時間です!"
+  },
+  "start_date": "2020-04-05",
+  "end_date": "2020-06-28",
+  "synopsis": "Long ago, a goddess descended from Heaven and blessed the desolate land of Gatepia. As a result, gigantic gates appeared, leading to dungeons abundant in \"kirakuri,\" crystals containing the energy needed for the foundation of the world. This led to the formation of various companies of adventurers who would harvest kirakuri from the dungeons.\n\nFollowing his father's disappearance inside one of the biggest gates in Gatepia, Minato is urged by his childhood friend Yutoria to become the president of his father's treasure-hunting company—the Kibou Company. He reluctantly agrees and meets with the other employees: the priest Makoto, the soldier Akari, and the accountant Guide.\n\nThus, Minato begins his tenure as president. As he and his comrades strive to fulfill various missions and other assorted tasks in order to keep their small company alive, they will uncover the mystery behind their former leader's sudden departure.\n\n[Written by MAL Rewrite]",
+  "mean": 5.85,
+  "rank": 10247,
+  "popularity": 3514,
+  "num_list_users": 40253,
+  "num_scoring_users": 15344,
+  "nsfw": "white",
+  "created_at": "2019-12-02T02:28:45+00:00",
+  "updated_at": "2022-11-12T08:05:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 605,
+      "name": "C2C"
+    }
+  ]
+}

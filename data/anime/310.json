@@ -1,0 +1,53 @@
+{
+  "id": 310,
+  "title": "Chiisana Obake: Acchi, Kocchi, Socchi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1893/100728.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1893/100728l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Little Ghosts, There, Here, and Where",
+      "Acchi, Kocchi, Socchi"
+    ],
+    "en": "Three Little Ghosts",
+    "ja": "小さなおばけ アッチ・ソッチ・コッチ"
+  },
+  "start_date": "1991-04-09",
+  "end_date": "1992-04-07",
+  "synopsis": "This is a heart-warming story with three little ghost called There, Here and Where. They are not scary like usual ghosts but pretty and mischievous like human children. Of course they sometimes surprise people by disappearing or flying, but they are loved as children's friends. \n\nEach episode consists of two stories.",
+  "mean": 6.05,
+  "rank": 9340,
+  "popularity": 11392,
+  "num_list_users": 1888,
+  "num_scoring_users": 639,
+  "nsfw": "white",
+  "created_at": "2005-11-18T03:37:02+00:00",
+  "updated_at": "2021-06-22T09:41:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2105,
+  "title": "Touka Gettan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/75452.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/75452l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Toka Gettan: The Moonlight Lady Returns",
+    "ja": "桃華月憚"
+  },
+  "start_date": "2007-04-03",
+  "end_date": "2007-09-25",
+  "synopsis": "Touka Gettan is set in the land of Kamitsumihara, where traces of magic and legend can still be seen. The land has been under the protection of the Kamiazuma clan since it was founded. The story revolves around Touka Kamiazuma, the main protagonist, and his encounter with a young girl named Momoka Kawakabe who comes to stay with the clan. Their meeting sets off a chain of events that will bring an ancient legend to life.\n\n(Source: ANN) ",
+  "mean": 6.5,
+  "rank": 6865,
+  "popularity": 4830,
+  "num_list_users": 20254,
+  "num_scoring_users": 4642,
+  "nsfw": "white",
+  "created_at": "2007-03-10T19:35:41+00:00",
+  "updated_at": "2023-11-27T20:20:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

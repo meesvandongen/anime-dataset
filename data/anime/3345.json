@@ -1,0 +1,65 @@
+{
+  "id": 3345,
+  "title": "Mikan Enikki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/29836.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/29836l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mikan's Picture Diary",
+      "Mikan's Illustrated Diary"
+    ],
+    "en": "",
+    "ja": "みかん絵日記"
+  },
+  "start_date": "1992-10-16",
+  "end_date": "1993-06-18",
+  "synopsis": "A kitten, abandoned and left for dead along with his siblings, is taken in by Tomu Kusanagi, who nurtures him and discovers that the tangerine cat he so adores is actually a genius who can talk, walk, read, and has even acquired a taste for liquor!",
+  "mean": 7.18,
+  "rank": 3362,
+  "popularity": 9756,
+  "num_list_users": 3209,
+  "num_scoring_users": 872,
+  "nsfw": "white",
+  "created_at": "2007-11-02T20:16:12+00:00",
+  "updated_at": "2021-12-20T09:25:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

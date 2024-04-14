@@ -1,0 +1,49 @@
+{
+  "id": 51767,
+  "title": "Inside",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1790/123643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1790/123643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "INSIDE"
+  },
+  "start_date": "2022-04-28",
+  "end_date": "2022-04-28",
+  "synopsis": "Music video for the song Inside by DUSTCELL.",
+  "mean": 5.85,
+  "popularity": 19708,
+  "num_list_users": 233,
+  "num_scoring_users": 120,
+  "nsfw": "white",
+  "created_at": "2022-05-06T07:35:27+00:00",
+  "updated_at": "2022-07-06T18:36:04+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 186,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2177,
+      "name": "Mimoid"
+    }
+  ]
+}

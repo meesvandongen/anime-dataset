@@ -1,0 +1,57 @@
+{
+  "id": 11785,
+  "title": "Haiyore! Nyaruko-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/49081.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/49081l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nyarko-san: Another Crawling Chaos",
+      "Haiyoru! Nyaruko-san"
+    ],
+    "en": "Nyaruko: Crawling With Love!",
+    "ja": "這いよれ！ニャル子さん"
+  },
+  "start_date": "2012-04-10",
+  "end_date": "2012-06-26",
+  "synopsis": "Mahiro Yasaka is just an ordinary high school student, until one day he is suddenly attacked by a dangerous monster. Just when everything seems to be lost, he is saved by a silver-haired girl named Nyaruko, who claims to be the shape-shifting deity Nyarlathotep from horror author H. P. Lovecraft's Cthulhu Mythos, sent by the Space Defense Agency to Earth. She explains to Mahiro that the creature chasing him was an alien called Nightgaunt, who had planned on abducting and selling him as a slave.\n\nAfter rescuing him from the alien, the Lovecraftian deity falls madly in love with Mahiro and forces herself into his household, much to his chagrin. Moreover, they are soon joined by two others from the fictional universe: Cthuko, a girl obsessed with Nyaruko, and Hasuta, a young boy easily mistaken for a beautiful female. Together, the three eccentric aliens protect Mahiro from the various extraterrestrial dangers that threaten both his and Earth's well-being, all the while making his life a living hell.\n\n[Written by MAL Rewrite]",
+  "mean": 6.98,
+  "rank": 4372,
+  "popularity": 657,
+  "num_list_users": 355907,
+  "num_scoring_users": 152744,
+  "nsfw": "white",
+  "created_at": "2011-10-10T19:55:44+00:00",
+  "updated_at": "2022-04-18T03:40:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

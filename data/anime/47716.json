@@ -1,0 +1,50 @@
+{
+  "id": 47716,
+  "title": "Bie Re Liumang Tu Ma Xiu 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1044/123440.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1044/123440l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bie Re Liumang Tu Ma Xiu Second Season"
+    ],
+    "en": "Mashimaro 2",
+    "ja": "别惹流氓兔马修 第2季"
+  },
+  "start_date": "2019-10-25",
+  "end_date": "2019-11-15",
+  "synopsis": "",
+  "rank": 18535,
+  "popularity": 22726,
+  "num_list_users": 98,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2021-02-13T17:15:33+00:00",
+  "updated_at": "2022-04-30T15:55:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 70,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "pg",
+  "studios": []
+}

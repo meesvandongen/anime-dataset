@@ -1,0 +1,56 @@
+{
+  "id": 3761,
+  "title": "Wanwan Sanjuushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1993/129946.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1993/129946l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wanwan Sanjuushi"
+    ],
+    "en": "Dogtanian and the Three Muskehounds",
+    "ja": "ワンワン三銃士"
+  },
+  "start_date": "1981-10-02",
+  "end_date": "1982-03-26",
+  "synopsis": "The story begins with the arrival of a brave young boy in Paris. His ambition is to join the glorious Imperial Guards, but fierce competition and the minimum age requirement hinder him from joining. The boy then challenges the well-known Three Musketeers in order to demonstrate his excellent skills with the sword. However, at the very moment the fight begins, a power-hungry group cuts in. Realizing their wicked intention, the boy D'artagnan and the Three Musketeers quickly cooperate and defeat them. This is the beginning of their friendship and commitment to fight conspiracy. ",
+  "mean": 6.78,
+  "rank": 5328,
+  "popularity": 9565,
+  "num_list_users": 3420,
+  "num_scoring_users": 1687,
+  "nsfw": "white",
+  "created_at": "2008-01-22T19:18:15+00:00",
+  "updated_at": "2022-10-28T18:35:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1981,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 10203,
+  "title": "Bikkuriman: Daiichiji Seima Taisen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1436/97580.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1436/97580l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ビックリマン 第一次聖魔大戦"
+  },
+  "start_date": "1988-03-12",
+  "end_date": "1988-03-12",
+  "synopsis": "First Bikkuriman film.",
+  "rank": 18540,
+  "popularity": 17038,
+  "num_list_users": 408,
+  "num_scoring_users": 103,
+  "nsfw": "white",
+  "created_at": "2011-01-17T11:35:10+00:00",
+  "updated_at": "2011-01-17T17:23:11+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "winter"
+  },
+  "average_episode_duration": 1801,
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

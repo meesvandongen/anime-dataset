@@ -1,0 +1,61 @@
+{
+  "id": 50552,
+  "title": "Yowamushi Pedal: Limit Break",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1853/135275.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1853/135275l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yowamushi Pedal 5th Season",
+      "Yowapeda 5th Season"
+    ],
+    "en": "",
+    "ja": "弱虫ペダル LIMIT BREAK"
+  },
+  "start_date": "2022-10-09",
+  "end_date": "2023-03-26",
+  "synopsis": "Unable to achieve the desired results on the first and second days of the Inter-High competition, members of the Souhoku High Bicycle Racing Club use their frustration as motivation to perform better on the final day of the race. However, it is easier said than done as they are up against the overwhelming talent of Hakone Academy and the shrewd strategies of Kyoto Fushimi High.\n\nDespite the challenge, Souhoku members are not disheartened by the obstacles that they need to overcome. After all, no matter what their opponents try, Souhoku will have the last laugh as long as they are the first to cross the finish line.\n\n[Written by MAL Rewrite]",
+  "mean": 7.39,
+  "rank": 2316,
+  "popularity": 4385,
+  "num_list_users": 25305,
+  "num_scoring_users": 8097,
+  "nsfw": "white",
+  "created_at": "2021-12-07T07:32:45+00:00",
+  "updated_at": "2023-03-18T16:21:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1495,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

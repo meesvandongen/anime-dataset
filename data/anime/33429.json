@@ -1,0 +1,43 @@
+{
+  "id": 33429,
+  "title": "Wingcle Bear Hamkkehaneun Lomentig Hwaiteudei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/80374.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/80374l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Romantic White Day Together with Wingcle Bear",
+      "AK Romantic White Day"
+    ],
+    "en": "",
+    "ja": "윙클베어와 함께하는 로멘틱 화이트데이"
+  },
+  "start_date": "2013-03-07",
+  "end_date": "2013-03-07",
+  "synopsis": " A short animation celebrating White Day.",
+  "mean": 4.75,
+  "rank": 12930,
+  "popularity": 16542,
+  "num_list_users": 448,
+  "num_scoring_users": 206,
+  "nsfw": "white",
+  "created_at": "2016-06-11T11:08:39+00:00",
+  "updated_at": "2016-08-16T05:17:40+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 32,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1292,
+      "name": "TUBA"
+    }
+  ]
+}

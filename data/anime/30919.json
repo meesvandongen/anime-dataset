@@ -1,0 +1,52 @@
+{
+  "id": 30919,
+  "title": "Sora no Method: Aru Shoujo no Kyuujitsu★",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/76251.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/76251l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Celestial Method: A Girl's Day Off"
+    ],
+    "en": "",
+    "ja": "天体のメソッド　オリジナルショートアニメ「ある少女の休日★」"
+  },
+  "start_date": "2015-07-24",
+  "end_date": "2015-07-24",
+  "synopsis": "Original short anime bundled with the seventh Blu-ray and DVD volume of Sora no Method.",
+  "mean": 6.87,
+  "rank": 4875,
+  "popularity": 6291,
+  "num_list_users": 10264,
+  "num_scoring_users": 4553,
+  "nsfw": "white",
+  "created_at": "2015-06-09T05:27:15+00:00",
+  "updated_at": "2023-09-09T08:28:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1127,
+      "name": "Studio 3Hz"
+    }
+  ]
+}

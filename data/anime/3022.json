@@ -1,0 +1,66 @@
+{
+  "id": 3022,
+  "title": "Haai Step Jun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1221/114740.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1221/114740l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hai Step Jun",
+      "Yes Step Jun",
+      "Haai Step Kun"
+    ],
+    "en": "",
+    "ja": "はーいステップジュン"
+  },
+  "start_date": "1985-03-10",
+  "end_date": "1986-01-12",
+  "synopsis": "Jun is a very intelligent little girl who spends her time arranging all kinds of inventions. It goes until creating two small robots, Kichinosuke and Yukinojo, who become her best friends. Because of her intelligence, Jun gets into college at a young age and she meets and falls in love with a boy from her class who's called Zero. Zero is interested in motorbikes and not in school and is accustomed to not attending the courses. He got delayed in his schooling and thus is found much older than the other students and is there for humiliated for it. On the other hand Jun is way too young and little to be in college and is made fun of. Thanks to their common passion for mechanics, Zero will sympathize with Jun and will agree to dine with her in Harbor, the restaurant where Jun's parents live. This is long series of fun adventures and arguments that little Jun will make to allure her charming prince, who's twice older than her.\n\n(Source: ANN)",
+  "mean": 6.63,
+  "rank": 6127,
+  "popularity": 12064,
+  "num_list_users": 1501,
+  "num_scoring_users": 424,
+  "nsfw": "white",
+  "created_at": "2007-08-21T16:23:26+00:00",
+  "updated_at": "2022-10-24T00:43:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 45,
+  "start_season": {
+    "year": 1985,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

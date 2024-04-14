@@ -1,0 +1,61 @@
+{
+  "id": 2591,
+  "title": "Samurai Spirits: Haten Gouma no Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/49963.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/49963l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Samurai Showdown",
+      "Samurai Showdown: The Motion Picture"
+    ],
+    "en": "Samurai Shodown The Motion Picture",
+    "ja": "サムライスピリッツ　破天降魔の章"
+  },
+  "start_date": "1994-09-18",
+  "end_date": "1994-09-18",
+  "synopsis": "One hundred years after their deaths, six legendary holy warriors are reborn to seek justice against the former comrade who betrayed them into the hands of an evil god! The six warriors search the feudal province of Edo questing for the last Saint Soldier, Haohmaru, and their sworn nemesis Shirou Amakusa. Will the followers of the divine light triumph over the forces of darkness, or is history destined to repeat itself? Before their hundred-year journey has ended, six samurai will prove that the only thing stronger than their holy blades is the steel of their wills!\n\n(Source: AniDB)",
+  "mean": 5.36,
+  "rank": 12001,
+  "popularity": 9107,
+  "num_list_users": 3999,
+  "num_scoring_users": 1836,
+  "nsfw": "white",
+  "created_at": "2007-06-07T02:22:16+00:00",
+  "updated_at": "2024-02-04T16:45:59+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 4087,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 126,
+      "name": "Studio Comet"
+    },
+    {
+      "id": 2459,
+      "name": "Studio Gazelle"
+    }
+  ]
+}

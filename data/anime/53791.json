@@ -1,0 +1,45 @@
+{
+  "id": 53791,
+  "title": "Jidousha ni Natta Kame no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1872/131696.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1872/131696l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "自動車になったカメの歌"
+  },
+  "start_date": "1973-08-01",
+  "end_date": "1973-08-01",
+  "synopsis": "Music video for the song Jidousha ni Natta Kame no Uta by Seiji Tanaka and Sakamoto Children's Choir. Aired as part of NHK's Minna no Uta program.",
+  "popularity": 21676,
+  "num_list_users": 129,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2022-12-08T07:19:20+00:00",
+  "updated_at": "2022-12-08T11:54:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1973,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

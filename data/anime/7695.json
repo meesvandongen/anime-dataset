@@ -1,0 +1,61 @@
+{
+  "id": 7695,
+  "title": "Pokemon Movie 13: Genei no Hasha Zoroark",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/26915.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/26915l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Pocket Monsters Diamond and Pearl: Phantom Ruler Zoroark",
+      "Pokemon Diamond & Pearl: Genei no Hasha Zoroark"
+    ],
+    "en": "Pokémon: Zoroark: Master of Illusions",
+    "ja": "ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク"
+  },
+  "start_date": "2010-07-10",
+  "end_date": "2010-07-10",
+  "synopsis": "The shapeshifting Pokémon Zorua and Zoroark are captured by a mysterious group intent on using their illusory powers for their own gain. They unleash Zoroark on Crown City, forcing her beforehand to take the form of Suicune, Entei, and Raikou, the guardians of the town.\n\nAs Satoshi and his companions visit Crown City to watch the much-anticipated Pokémon Baccer World Cup, they encounter Zorua, who managed to escape captivity. At the same time, Zoroark goes on a rampage, unaware of Zorua's breakout. Disguised as the Legendary Beast Trio, she starts destroying the city and terrorizing its inhabitants.\n\nWill Satoshi manage to stop the deranged Pokémon before Crown City perishes? Will the sudden arrival of long-unseen Celebi change the outcome of the seemingly inevitable clash between Zoroark and the impersonated Legendary Beasts?\n\n[Written by MAL Rewrite]",
+  "mean": 6.86,
+  "rank": 4943,
+  "popularity": 2476,
+  "num_list_users": 74826,
+  "num_scoring_users": 44588,
+  "nsfw": "white",
+  "created_at": "2009-12-14T07:40:24+00:00",
+  "updated_at": "2022-02-21T19:56:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 5760,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

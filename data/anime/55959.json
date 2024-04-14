@@ -1,0 +1,43 @@
+{
+  "id": 55959,
+  "title": "Stray Kids 5-Star Mashup Video",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1581/141610.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1581/141610l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Stray Kids ＜★★★★★ (5-STAR)＞ Mashup Video"
+  },
+  "start_date": "2023-05-25",
+  "end_date": "2023-05-25",
+  "synopsis": "",
+  "popularity": 24583,
+  "num_list_users": 70,
+  "num_scoring_users": 39,
+  "nsfw": "white",
+  "created_at": "2023-07-13T22:07:03+00:00",
+  "updated_at": "2024-02-24T15:28:06+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 98,
+  "rating": "pg_13",
+  "studios": []
+}

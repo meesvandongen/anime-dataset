@@ -1,0 +1,57 @@
+{
+  "id": 32094,
+  "title": "Reikenzan: Hoshikuzu-tachi no Utage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/78196.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/78196l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spirit Blade Mountain: Feast of the Stardust",
+      "Congqian Youzuo Lingjianshan"
+    ],
+    "en": "",
+    "ja": "霊剣山 星屑たちの宴"
+  },
+  "start_date": "2016-01-09",
+  "end_date": "2016-03-26",
+  "synopsis": "Long ago in the nine provinces of Kyushu, a calamitous event was prophesied to take place: falling comets would exhaust the spiritual energies of both the heavens and the lands and thus bring about an age of chaos upon the world. But contrary to the prophecy, the comets passed by with no calamity taking place. At the same time, as if touched by the phenomenon, a boy was born in a remote village of the Sokei region by the name of Ouriku.\n\nTwelve years later, as the memories of the event have faded from people's minds, the Reikenzan clan—one of the five supreme sects of the nine provinces—decides to hold an examination in order to gather the most talented individuals fit to become disciples and eventually sages. Hearing about this news, Ouriku and his servant Ouchou head toward the site, unaware that the organizer Oubu, despite her elegant appearance, is infamous for being extremely irresponsible and carefree; hence, making the trials in the examination unpredictable.\n\nReikenzan: Hoshikuzu-tachi no Utage follows the story of Ouriku as he journeys through these trials to become a powerful sage.\n\n[Written by MAL Rewrite]",
+  "mean": 7.03,
+  "rank": 4154,
+  "popularity": 2134,
+  "num_list_users": 95437,
+  "num_scoring_users": 37761,
+  "nsfw": "white",
+  "created_at": "2015-11-19T08:33:40+00:00",
+  "updated_at": "2022-04-17T23:35:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

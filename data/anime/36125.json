@@ -1,0 +1,49 @@
+{
+  "id": 36125,
+  "title": "Uchiage Hanabi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/87286.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/87286l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+      "Fireworks, Should We See it from the Side or the Bottom?",
+      "DAOKO x Yonezu Kenshi"
+    ],
+    "en": "",
+    "ja": "打上花火"
+  },
+  "start_date": "2017-08-09",
+  "end_date": "2017-08-09",
+  "synopsis": "Official music video for Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?'s ending theme Uchiage Hanabi by DAOKO x Kenshi Yonezu.",
+  "mean": 7.54,
+  "popularity": 4916,
+  "num_list_users": 19406,
+  "num_scoring_users": 11833,
+  "nsfw": "white",
+  "created_at": "2017-08-10T07:28:47+00:00",
+  "updated_at": "2023-12-23T07:07:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 293,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

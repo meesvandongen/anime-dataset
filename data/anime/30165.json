@@ -1,0 +1,50 @@
+{
+  "id": 30165,
+  "title": "Yamaguchi Sanchi no Tsutomu-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/72198.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/72198l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "山口さんちのツトム君"
+  },
+  "start_date": "1976-04-01",
+  "end_date": "1976-04-01",
+  "synopsis": "A music video for the song by Keiji Kawahashi that was featured on NHK's Minna no Uta Program.",
+  "mean": 4.97,
+  "popularity": 16094,
+  "num_list_users": 492,
+  "num_scoring_users": 247,
+  "nsfw": "white",
+  "created_at": "2015-02-22T14:53:33+00:00",
+  "updated_at": "2019-02-10T10:01:20+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1976,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 141,
+  "rating": "g",
+  "studios": []
+}

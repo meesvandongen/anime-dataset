@@ -1,0 +1,54 @@
+{
+  "id": 2611,
+  "title": "Panda Kopanda",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1209/90479.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1209/90479l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Panda! Go Panda!",
+    "ja": "パンダ・コパンダ"
+  },
+  "start_date": "1972-12-17",
+  "end_date": "1973-03-17",
+  "synopsis": "Panda Kopanda (Panda! Go Panda!) is a 30 minute movie made in 1972. Miyazaki created the original idea, the script, the layouts, and did key animation, and Takahata directed the film. The story is about a little girl, Mimiko, who was left alone while her Grandma was away. A 1973 sequel, Panda Kopanda: Amefuri Saakasu no Maki (Panda! Go Panda! & the Rainy-day Circus), continues the story and was made by the same people who made the first movie. The literal translation of the title Panda Kopanda is \"Panda, Baby Panda\", but it`s been released in North America as Panda Go Panda.\n\n(Source: AniDB)",
+  "mean": 6.73,
+  "rank": 5572,
+  "popularity": 6150,
+  "num_list_users": 10878,
+  "num_scoring_users": 5511,
+  "nsfw": "white",
+  "created_at": "2007-06-12T21:07:19+00:00",
+  "updated_at": "2023-11-24T02:40:18+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1972,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 2160,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

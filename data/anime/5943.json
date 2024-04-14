@@ -1,0 +1,47 @@
+{
+  "id": 5943,
+  "title": "The Aurora: Umi no Aurora",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1021/94476.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1021/94476l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Sea's Aurora",
+      "Umi no Aurora"
+    ],
+    "en": "The Aurora",
+    "ja": "海のオーロラ"
+  },
+  "start_date": "2000-08-05",
+  "end_date": "2000-08-05",
+  "synopsis": "Deep-sea archeologist Hiroshi Ibuki is the member of the digging team working at the bottom of the sea hoping to uncover the origins of Earth's existence but instead uncovers a mysterious colony of bacteria which gives off light similar to the Aurora Borealis. The ancient bacteria, once revived, attempt to make the world habitable for themselves —a process that would bring Earth back to its early primal form, killing all current life in the process. \n\n(Source: AnimeNFO) ",
+  "mean": 5.34,
+  "rank": 12058,
+  "popularity": 14937,
+  "num_list_users": 642,
+  "num_scoring_users": 138,
+  "nsfw": "white",
+  "created_at": "2009-01-20T18:15:10+00:00",
+  "updated_at": "2016-01-13T19:42:08+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "average_episode_duration": 5460,
+  "rating": "pg_13",
+  "studios": []
+}

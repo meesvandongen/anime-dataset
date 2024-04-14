@@ -1,0 +1,62 @@
+{
+  "id": 4437,
+  "title": "Naruto: Shippuuden Movie 2 - Kizuna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1484/134494.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1484/134494l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Naruto Movie 5",
+      "Naruto Shippuuden Movie 2",
+      "Naruto Shippuuden: Bonds"
+    ],
+    "en": "Naruto Shippuden the Movie 2: Bonds",
+    "ja": "劇場版NARUTO-ナルト- 疾風伝 絆"
+  },
+  "start_date": "2008-08-02",
+  "end_date": "2008-08-02",
+  "synopsis": "Unleashing a devastating surprise attack, flying ninjas from the Land of Sky are seeking revenge against their old enemy Konohagakure. Despite his eagerness to join the fight, Naruto Uzumaki is held up by Shinnou, a mysterious doctor who requires his assistance to save an injured person. While delivering the wounded man to the hospital, Naruto has an unexpected encounter with Amaru—a stormy youngster from a neighboring village desperately looking for Shinnou's help.\n\nMeanwhile, as the invaders withdraw to restore their forces, Tsunade seizes the opportunity to dispatch a small team including Sai, Shikamaru Nara, and Kakashi Hatake to strike down their base. Simultaneously, she commissions Naruto, Sakura Haruno, and Hinata Hyuuga to accompany Shinnou and Amaru on their journey. During this time, however, Orochimaru has his own schemes: he orders Sasuke Uchiha to bring him the doctor who specializes in the reincarnation technique.\n\nAs the escort group accidentally uncovers the sinister truth behind the attacks, tumultuous plans are set in motion. But even when confronted with an unforeseen reunion, Naruto does not waver in his endeavor to end the warfare and its disastrous effects.\n\n[Written by MAL Rewrite]",
+  "mean": 7.28,
+  "rank": 2850,
+  "popularity": 903,
+  "num_list_users": 267792,
+  "num_scoring_users": 152814,
+  "nsfw": "white",
+  "created_at": "2008-04-29T14:30:43+00:00",
+  "updated_at": "2022-04-12T17:48:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

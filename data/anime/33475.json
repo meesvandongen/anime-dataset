@@ -1,0 +1,78 @@
+{
+  "id": 33475,
+  "title": "Busou Shoujo Machiavellianism",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/83995.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/83995l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Armed Girl's Machiavellism",
+    "ja": "武装少女マキャヴェリズム"
+  },
+  "start_date": "2017-04-05",
+  "end_date": "2017-06-21",
+  "synopsis": "The Private Aichi Symbiosis Academy was originally a high school for high-class girls. When it became co-ed, the girls, out of fear, asked to be permitted to bring weapons to school. When that was enforced, a five-member vigilante corps-like organization called the \"Supreme Five Swords\" was also formed.\n\nAfter many generations, the five swords eventually became a group which corrected problematic students, and the academy started proactively accepting such students in order to correct them.\n\nNomura Fudou was sent to this school after being part of a huge brawl. What will he do when the only options he has after enrolling are being expelled from that school or being corrected the way the rest of the male students there were...by being forced to dress and act like a girl!\n\n(Source: Batoto, edited)",
+  "mean": 6.88,
+  "rank": 4828,
+  "popularity": 605,
+  "num_list_users": 382936,
+  "num_scoring_users": 206390,
+  "nsfw": "white",
+  "created_at": "2016-06-20T06:38:57+00:00",
+  "updated_at": "2023-10-18T23:01:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    },
+    {
+      "id": 957,
+      "name": "Connect"
+    }
+  ]
+}

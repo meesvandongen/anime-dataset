@@ -1,0 +1,55 @@
+{
+  "id": 39421,
+  "title": "Yichang Shengwu Jianwenlu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1523/101986.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1523/101986l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ijou Seibutsu Kenbunroku",
+      "The Record of Unusual Creatures",
+      "Fantastic Creatures' Travelogue",
+      "Abnormal Creature Memoirs"
+    ],
+    "en": "Journal of the Mysterious Creatures",
+    "ja": "異常生物見聞録"
+  },
+  "start_date": "2019-06-28",
+  "end_date": "2019-09-20",
+  "synopsis": "Yoshihito, a 23-year-old man who has no job or girlfriend. In order to make ends meet he rents out one of the rooms in his house. While he's showing Lily, his first tenant, around the house, she's suddenly attacked by a vampire named Vivian, and Yoshihito notices that Lily is actually a werewolf. As Yoshihito and Lily start living in the same house, Yoshihito is scouted for an organization that maintains order of the parallel universes, and strange creatures one after another become tenants in his house.\n\n(Source: ANN)",
+  "mean": 6.35,
+  "rank": 7709,
+  "popularity": 5590,
+  "num_list_users": 13844,
+  "num_scoring_users": 2770,
+  "nsfw": "white",
+  "created_at": "2019-03-02T01:16:03+00:00",
+  "updated_at": "2022-11-14T07:26:27+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1260,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2267,
+      "name": "MMT Technology"
+    }
+  ]
+}

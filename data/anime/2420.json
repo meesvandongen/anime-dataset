@@ -1,0 +1,60 @@
+{
+  "id": 2420,
+  "title": "Spirit of Wonder: Shounen Kagaku Club",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/2723.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/2723l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spirit of Wonder: Scientific Boys Club"
+    ],
+    "en": "",
+    "ja": "ザスピリットオブワンダー : 少年科學倶楽部"
+  },
+  "start_date": "2001-01-25",
+  "end_date": "2001-07-25",
+  "synopsis": "The now 50 year old Scientific Boys Club decides to built a ship that sails to Mars on the \"Ethereal Current\" - a thesis of the wife of a club member which claims that the universe is flooded with Ethereal energy. On this stream they travel to Mars in order to prove an old theory about channels on Mars built by Martians, but there is no life. Many years later, when both theories are considered to be nonsense, a Mars expedition discovers a stone with the inscription \"Scientific Boys Club 1954\".\n\n(Source: ANN)",
+  "mean": 6.51,
+  "rank": 6849,
+  "popularity": 8561,
+  "num_list_users": 4831,
+  "num_scoring_users": 1414,
+  "nsfw": "white",
+  "created_at": "2007-05-01T18:28:44+00:00",
+  "updated_at": "2022-11-14T09:13:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2001,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

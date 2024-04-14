@@ -1,0 +1,44 @@
+{
+  "id": 2822,
+  "title": "Bamboo Bears",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1358/132164.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1358/132164l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "バンブー・ベアーズ"
+  },
+  "start_date": "1997-04-04",
+  "end_date": "1998-03-27",
+  "synopsis": "Bamboo-Lee, Dah-Lee, and Slo-Lee are three bears with a goal: to save the world before more species become extinct. But can the bears stand up to the spineless villains behind Ratco Corporation? With Ai-Ai the pink dragon on their side, they may be able to rescue the environment before it's too late.",
+  "mean": 5.85,
+  "rank": 10219,
+  "popularity": 13755,
+  "num_list_users": 903,
+  "num_scoring_users": 285,
+  "nsfw": "white",
+  "created_at": "2007-07-21T08:12:12+00:00",
+  "updated_at": "2021-03-16T08:05:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "average_episode_duration": 1500,
+  "studios": [
+    {
+      "id": 358,
+      "name": "Telescreen"
+    }
+  ]
+}

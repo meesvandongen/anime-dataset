@@ -1,0 +1,48 @@
+{
+  "id": 38071,
+  "title": "Kkoma Bus Tayo 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1244/123638.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1244/123638l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tayo the Little Bus Season 2",
+    "ja": "꼬마버스 타요 2"
+  },
+  "start_date": "2011-11-30",
+  "end_date": "2012-08-23",
+  "synopsis": "The second season of Kkoma Bus Tayo.",
+  "mean": 5.63,
+  "rank": 11167,
+  "popularity": 17408,
+  "num_list_users": 380,
+  "num_scoring_users": 153,
+  "nsfw": "white",
+  "created_at": "2018-07-24T22:40:25+00:00",
+  "updated_at": "2023-01-07T21:19:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": 129,
+  "title": "Gensoumaden Saiyuuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75282.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75282l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gensou Maden Saiyuki"
+    ],
+    "en": "Saiyuki",
+    "ja": "幻想魔伝 最遊記"
+  },
+  "start_date": "2000-04-04",
+  "end_date": "2001-03-27",
+  "synopsis": "Many years ago, humans and demons lived in harmony. But that unity ended when demons started attacking humans and plotted a mission to unleash Gyumao—an evil demon imprisoned for thousands of years. Now, Genjo Sanzo, a rogue priest, must team up with three demons—Sha Gojyo, Son Goku, and Cho Hakkai—and embark on a perilous journey to the west to stop these demons from resurrecting Gyumao and restore the balance between humans and demons on Earth.\n\n(Source: ANN)",
+  "mean": 7.55,
+  "rank": 1683,
+  "popularity": 2952,
+  "num_list_users": 55298,
+  "num_scoring_users": 21550,
+  "nsfw": "white",
+  "created_at": "2005-11-11T14:42:54+00:00",
+  "updated_at": "2023-09-08T10:53:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2000,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 38504,
+  "title": "Ongaku wa Tomatta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1266/95529.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1266/95529l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Panpan no Tou"
+    ],
+    "en": "Ongaku wa Tomatta",
+    "ja": "音楽は止まった"
+  },
+  "start_date": "2013-01-06",
+  "end_date": "2013-01-06",
+  "synopsis": "Official music video for Panpan no Tou's song Ongaku wa Tomatta.",
+  "mean": 5.46,
+  "popularity": 19612,
+  "num_list_users": 237,
+  "num_scoring_users": 115,
+  "nsfw": "white",
+  "created_at": "2018-10-11T04:44:10+00:00",
+  "updated_at": "2018-11-09T16:46:06+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 268,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1934,
+      "name": "Saigo no Shudan"
+    }
+  ]
+}

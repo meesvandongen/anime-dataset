@@ -1,0 +1,66 @@
+{
+  "id": 2074,
+  "title": "Kerokero Chime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/26176.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/26176l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ケロケロちゃいむ"
+  },
+  "start_date": "1997-03-06",
+  "end_date": "1997-09-25",
+  "synopsis": "Aoi, a regular boy, is cursed with a spell that turns him into a frog whenever he gets wet. He is sent to another world with a frog kingdom to find the princess to undo the spell. When he finds out that she doesn't know how to lift the curse, they set out to find the spell that will. Along the way they meet many interesting creatures, come across many dangers, and make many new friends. \n\n(Source: ANN)",
+  "mean": 6.68,
+  "rank": 5860,
+  "popularity": 11862,
+  "num_list_users": 1598,
+  "num_scoring_users": 414,
+  "nsfw": "white",
+  "created_at": "2007-03-10T00:25:45+00:00",
+  "updated_at": "2023-07-17T11:11:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1470,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 126,
+      "name": "Studio Comet"
+    }
+  ]
+}

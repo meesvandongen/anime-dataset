@@ -1,0 +1,74 @@
+{
+  "id": 37984,
+  "title": "Kumo desu ga, Nani ka?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1593/113724.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1593/113724l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "So I'm a Spider, So What?",
+    "ja": "蜘蛛ですが、なにか？"
+  },
+  "start_date": "2021-01-08",
+  "end_date": "2021-07-03",
+  "synopsis": "The day is as normal as it can be in high school as the students peacefully go about their everyday activities until an unprecedented catastrophe strikes the school, killing every person in its wake. Guided by what seems to be a miracle, a handful of students are fortunate enough to be reincarnated into another world as nobles, princes, and other kinds of people with prestigious backgrounds.\n\nOne girl, however, is not so lucky. Being reborn as a spider of the weakest kind, she immediately experiences the hardships of her dire situation. Even so, she must press on to survive the numerous threats that endanger her life. Discovering that her new world has a system like that of an RPG, she tries her best to hunt prey and defeat monsters to level up and evolve. As she gradually grows stronger, she hopes one day her efforts will be rewarded, and that she will be granted a better life.\n\n[Written by MAL Rewrite]",
+  "mean": 7.45,
+  "rank": 2033,
+  "popularity": 517,
+  "num_list_users": 435466,
+  "num_scoring_users": 231460,
+  "nsfw": "white",
+  "created_at": "2018-07-21T02:37:44+00:00",
+  "updated_at": "2023-01-08T17:45:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1422,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1237,
+      "name": "Millepensee"
+    }
+  ]
+}

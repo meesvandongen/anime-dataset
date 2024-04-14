@@ -1,0 +1,49 @@
+{
+  "id": 50473,
+  "title": "Kidou Senshi Gundam 00 CB Chara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1241/122366.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1241/122366l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mobile Suit Gundam 00 Specials",
+      "Mobile Suit Gundam 00 Flash-like Short CB Characters"
+    ],
+    "en": "",
+    "ja": "機動戦士ガンダム00 CBきゃら"
+  },
+  "start_date": "2008-07-25",
+  "end_date": "2009-08-25",
+  "synopsis": "Two special flash-style animations included on the Blu-ray/DVD volumes of Mobile Suit Gundam 00.",
+  "mean": 5.96,
+  "rank": 9773,
+  "popularity": 15869,
+  "num_list_users": 515,
+  "num_scoring_users": 161,
+  "nsfw": "white",
+  "created_at": "2021-11-27T10:52:45+00:00",
+  "updated_at": "2022-11-07T17:11:58+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 198,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

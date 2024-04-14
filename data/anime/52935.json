@@ -1,0 +1,57 @@
+{
+  "id": 52935,
+  "title": "Punirunes",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1246/128731.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1246/128731l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぷにるんず"
+  },
+  "start_date": "2022-10-02",
+  "end_date": "2023-03-26",
+  "synopsis": "The anime follows the daily life of PuniRunes—mysterious creatures who love to be coddled—and Yuka, a fourth-grade girl who loves soft, squishy things.\n\n(Source: ANN, edited)",
+  "rank": 17310,
+  "popularity": 15709,
+  "num_list_users": 532,
+  "num_scoring_users": 131,
+  "nsfw": "white",
+  "created_at": "2022-09-01T01:51:52+00:00",
+  "updated_at": "2023-03-20T18:31:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "09:45"
+  },
+  "source": "original",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1231,
+      "name": "OLM Digital"
+    }
+  ]
+}

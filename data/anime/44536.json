@@ -1,0 +1,43 @@
+{
+  "id": 44536,
+  "title": "Pao Fu Xiaojie 4th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1407/122939.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1407/122939l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Miss Puff Season 4",
+    "ja": "泡芙小姐第四季"
+  },
+  "start_date": "2012-10-15",
+  "synopsis": "",
+  "rank": 17139,
+  "popularity": 22869,
+  "num_list_users": 95,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2020-12-11T12:50:27+00:00",
+  "updated_at": "2022-04-19T06:04:43+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1452,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": 36584,
+  "title": "Ki de Tsukurou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/88416.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/88416l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "MAFF"
+    ],
+    "en": "",
+    "ja": "木でつくろう"
+  },
+  "start_date": "2013-11-27",
+  "end_date": "2013-11-27",
+  "synopsis": "A stop-motion animation created using wood from all 47 prefectures of japan. It was commissioned by the Japanese Ministry of Agriculture, Forestry, and Fisheries (MAFF) and aims to show the importance of wood construction and long-term sustainability.",
+  "mean": 5.68,
+  "rank": 10944,
+  "popularity": 18402,
+  "num_list_users": 307,
+  "num_scoring_users": 132,
+  "nsfw": "white",
+  "created_at": "2017-10-15T03:51:49+00:00",
+  "updated_at": "2017-10-15T03:51:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 62,
+  "rating": "g",
+  "studios": []
+}

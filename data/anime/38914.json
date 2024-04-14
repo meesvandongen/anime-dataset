@@ -1,0 +1,40 @@
+{
+  "id": 38914,
+  "title": "Papa no March",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1553/97920.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1553/97920l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Papa's March",
+    "ja": "パパのマーチ"
+  },
+  "start_date": "2004-07-01",
+  "end_date": "2004-07-01",
+  "synopsis": "Official music video directed by Mitsuyuki Ishibashi for Papa no March by PE'Z from their album \"Suzumushi.\" ",
+  "mean": 5.54,
+  "popularity": 19196,
+  "num_list_users": 261,
+  "num_scoring_users": 126,
+  "nsfw": "white",
+  "created_at": "2018-12-27T03:10:35+00:00",
+  "updated_at": "2019-02-03T11:00:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 217,
+  "rating": "g",
+  "studios": []
+}

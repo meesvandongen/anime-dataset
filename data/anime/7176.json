@@ -1,0 +1,54 @@
+{
+  "id": 7176,
+  "title": "Cheburashka Arere?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/33145.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/33145l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "チェブラーシカ あれれ？"
+  },
+  "start_date": "2009-10-07",
+  "end_date": "2010-03-31",
+  "synopsis": "Based on the Russian \"national character\" Cheburashka. The character comes from Eduard Uspensky's story about a mysterious creature who gets accidentally transported in a box of oranges to Russia.",
+  "mean": 6.43,
+  "rank": 7307,
+  "popularity": 9484,
+  "num_list_users": 3512,
+  "num_scoring_users": 1660,
+  "nsfw": "white",
+  "created_at": "2009-09-11T18:54:34+00:00",
+  "updated_at": "2020-08-15T21:00:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "book",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 309,
+      "name": "GoHands"
+    }
+  ]
+}

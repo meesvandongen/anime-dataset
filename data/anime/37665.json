@@ -1,0 +1,55 @@
+{
+  "id": 37665,
+  "title": "Yoshida no Time Slip Fumai-kou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1068/91680.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1068/91680l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eagle Talon",
+      "Himitsukessha Taka no Tsume",
+      "The Frogman Show",
+      "Yoshida no Time Slip Fumaikou"
+    ],
+    "en": "",
+    "ja": "吉田のタイムスリップ不昧公"
+  },
+  "start_date": "2018-04-01",
+  "end_date": "2018-06-01",
+  "synopsis": "A Matsue City collaboration anime with Eagle Talon. A young Matsudaira Harusato (aka Matsudaira Fumai) who was once the ruled of Matsue time slips to the present. Yoshida ends up explaining Fumai's achievements to Fumai himself.",
+  "mean": 5.22,
+  "rank": 12331,
+  "popularity": 16564,
+  "num_list_users": 446,
+  "num_scoring_users": 134,
+  "nsfw": "white",
+  "created_at": "2018-04-03T09:27:54+00:00",
+  "updated_at": "2018-04-03T09:27:54+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 216,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 44208,
+  "title": "Yami Shibai 8",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1311/110392.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1311/110392l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yamishibai: Japanese Ghost Stories Eighth Season",
+      "Yamishibai: Japanese Ghost Stories 8"
+    ],
+    "en": "Theatre of Darkness: Yamishibai 8",
+    "ja": "闇芝居 8期"
+  },
+  "start_date": "2021-01-11",
+  "end_date": "2021-04-05",
+  "synopsis": "Once again, the mysterious storyteller draws in the ears of any willing to listen to his macabre tales of madness—ones that could happen to anyone, no matter who they might be.\n\nThe ghastly stories delve into the cases of teenagers testing their courage at an abandoned home; children navigating nefarious family traditions; malicious apparitions haunting the lives of innocent people; individuals helplessly watching their loved ones slowly go insane; a woman growing increasingly concerned when her husband's behavior changes after eating something odd; and an evil snowman or two. These chilling tales promise to leave no soul unstirred in the most disturbing way yet.\n\n[Written by MAL Rewrite]\n",
+  "mean": 5.84,
+  "rank": 10266,
+  "popularity": 5333,
+  "num_list_users": 15581,
+  "num_scoring_users": 6242,
+  "nsfw": "white",
+  "created_at": "2020-11-27T09:36:17+00:00",
+  "updated_at": "2023-01-15T16:26:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "03:05"
+  },
+  "source": "original",
+  "average_episode_duration": 274,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1169,
+      "name": "ILCA"
+    }
+  ]
+}

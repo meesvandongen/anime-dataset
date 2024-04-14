@@ -1,0 +1,49 @@
+{
+  "id": 52738,
+  "title": "Athlon Tobot 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1601/126945.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1601/126945l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Athlon Tobot 3rd Season"
+    ],
+    "en": "",
+    "ja": "애슬론 또봇 3기"
+  },
+  "start_date": "2017-03-23",
+  "end_date": "2017-05-11",
+  "synopsis": "Ethan's a boastful and confident boy whose curiosity often leads him to trouble. When he convinces his friends to enter what appears to be an abandoned warehouse, he stumbles across a trio of dusty, retired Athlons. \n\nTeam Athlon makes it to the Finals and exceeds everyone's expectations, crushing Baron Bach in the process. The Baron is unwilling to relinquish the title and accuses Ethan of cheating. Unfortunately for The Baron, Agent A-1 presents a mountain of evidence that proves Baron Bach is the culprit. A dramatic battle ensues, but Team Athlon emerges the victor, and as the new Off-Road Racing Champions! \n\n(Source: Tobot Wiki)",
+  "rank": 18276,
+  "popularity": 22024,
+  "num_list_users": 116,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2022-08-12T15:14:49+00:00",
+  "updated_at": "2022-08-12T15:37:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "average_episode_duration": 1220,
+  "rating": "pg",
+  "studios": []
+}

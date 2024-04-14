@@ -1,0 +1,58 @@
+{
+  "id": 34513,
+  "title": "Days: Touin Gakuen-sen!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/88505.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/88505l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "DAYS東院学園戦！"
+  },
+  "start_date": "2018-03-16",
+  "end_date": "2018-07-17",
+  "synopsis": "Sequel to DAYS.\n\nThe final match against Touyin Gakuin for National High School Soccer Tournament Tokyo Preliminary.\n\n(Source: MAL News)",
+  "mean": 7.44,
+  "rank": 2071,
+  "popularity": 4498,
+  "num_list_users": 23864,
+  "num_scoring_users": 7047,
+  "nsfw": "white",
+  "created_at": "2016-12-09T22:21:18+00:00",
+  "updated_at": "2022-12-16T20:39:29+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

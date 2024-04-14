@@ -1,0 +1,57 @@
+{
+  "id": 38601,
+  "title": "Hangyakusei Million Arthur: Saraba Itoshi no Danchou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1632/95918.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1632/95918l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hangyakusei Million Arthur Special",
+      "Operation Han-Gyaku-Sei Million Arthur Special"
+    ],
+    "en": "Million Arthur: Farwell, Beloved Dancho",
+    "ja": "叛逆性ミリオンアーサー さらば愛しの団長"
+  },
+  "start_date": "2019-10-02",
+  "end_date": "2019-10-02",
+  "synopsis": "Unaired episode bundled with the sixth Blu-ray volume of the Hangyakusei Million Arthur anime series.",
+  "mean": 6.44,
+  "rank": 7239,
+  "popularity": 8647,
+  "num_list_users": 4691,
+  "num_scoring_users": 1095,
+  "nsfw": "white",
+  "created_at": "2018-10-29T10:12:02+00:00",
+  "updated_at": "2022-10-09T12:00:11+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1330,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 20027,
+  "title": "Nihon Meisaku Douwa Series: Akai Tori no Kokoro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1126/96190.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1126/96190l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Heart of the Red Bird",
+      "Japanese Masterpiece Fairytale Series: Heart of the Red Bird"
+    ],
+    "en": "",
+    "ja": "日本名作童話シリーズ 赤い鳥のこころ"
+  },
+  "start_date": "1979-02-05",
+  "end_date": "1979-07-30",
+  "synopsis": "A collection of children's stories originally printed in the popular magazine Akai Tori, which was published from 1918 to 1936.\n\n(Source: AniDB)",
+  "rank": 16838,
+  "popularity": 15211,
+  "num_list_users": 599,
+  "num_scoring_users": 124,
+  "nsfw": "white",
+  "created_at": "2013-08-09T17:17:27+00:00",
+  "updated_at": "2019-08-08T00:57:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1979,
+    "season": "winter"
+  },
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

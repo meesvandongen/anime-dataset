@@ -1,0 +1,64 @@
+{
+  "id": 9244,
+  "title": "Nine: Kanketsu-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/25617.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/25617l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nine 3: Final"
+    ],
+    "en": "",
+    "ja": "ナイン 完結編"
+  },
+  "start_date": "1984-09-05",
+  "end_date": "1984-09-05",
+  "synopsis": "Last part of the Nine TV movies.",
+  "mean": 6.07,
+  "rank": 9227,
+  "popularity": 13831,
+  "num_list_users": 886,
+  "num_scoring_users": 328,
+  "nsfw": "white",
+  "created_at": "2010-07-24T20:47:01+00:00",
+  "updated_at": "2024-02-04T16:36:36+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 4380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

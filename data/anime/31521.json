@@ -1,0 +1,54 @@
+{
+  "id": 31521,
+  "title": "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1584/112511.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1584/112511l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ushinawareta Mirai wo Motomete Special",
+      "Ushinawareta Mirai wo Motomete Episode 13",
+      "In Search of the Lost Future Special"
+    ],
+    "en": "",
+    "ja": "失われた未来を求めて　第十三話「失われた夏休みを求めて」"
+  },
+  "start_date": "2015-08",
+  "end_date": "2015-08",
+  "synopsis": "Upon regaining her senses, Yui Furukawa discovers that the current day is July 13—a starting point that she has never experienced prior. However, despite the unfamiliar circumstances, she resolves to spend her summer vacation with the other members of the Astronomy Club at Nagisa Hanamiya's family villa. The house and its surrounding area have a rich history; a renowned scientist, Nagisa's great-grandmother researched and developed technology at the nearby military manufacturing plant.\n\nWhile the Astronomy Club is having fun at the beach, a sudden storm stops their plans short. Left with no other choice, the group takes shelter at the abandoned factory, eventually leading them to explore a hidden underground bunker. What they encounter there may reveal an unprecedented connection to a lost future.\n\n[Written by MAL Rewrite]",
+  "mean": 6.72,
+  "rank": 5654,
+  "popularity": 6479,
+  "num_list_users": 9631,
+  "num_scoring_users": 4326,
+  "nsfw": "white",
+  "created_at": "2015-08-28T17:15:30+00:00",
+  "updated_at": "2022-09-30T06:26:08+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1680,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

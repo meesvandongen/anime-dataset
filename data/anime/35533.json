@@ -1,0 +1,45 @@
+{
+  "id": 35533,
+  "title": "Nanatsu no Umi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85642.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85642l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "七つの海"
+  },
+  "start_date": "2013-12-01",
+  "end_date": "2013-12-01",
+  "synopsis": "Anxiety and loneliness is like crossing an endless sea. Endeavor to reach your hopes and dreams.",
+  "popularity": 19055,
+  "num_list_users": 268,
+  "num_scoring_users": 98,
+  "nsfw": "white",
+  "created_at": "2017-05-05T07:38:48+00:00",
+  "updated_at": "2020-05-25T17:35:33+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 288,
+  "rating": "g",
+  "studios": []
+}

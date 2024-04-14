@@ -1,0 +1,50 @@
+{
+  "id": 6713,
+  "title": "Ranma ½: Nettou Uta Gassen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/15423.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/15423l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ranma 1/2: Hot Song Contest",
+    "ja": "らんま１／２　熱闘歌合戦"
+  },
+  "start_date": "1990-11-07",
+  "end_date": "1990-11-21",
+  "synopsis": "A two-part music OVA series never released outside of Japan featuring the main Ranma 1/2 characters. They appear to be having a music contest at a local TV station. As everybody knows, these characters can't get along for more than three minutes and hilarity and hijinks ensue. \n\n(Source: AniDB)",
+  "mean": 7.12,
+  "rank": 3702,
+  "popularity": 7278,
+  "num_list_users": 7189,
+  "num_scoring_users": 2601,
+  "nsfw": "white",
+  "created_at": "2009-06-29T07:46:08+00:00",
+  "updated_at": "2022-04-11T03:59:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1990,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2256,
+      "name": "Kitty Film Mitaka Studio"
+    }
+  ]
+}

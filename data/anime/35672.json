@@ -1,0 +1,65 @@
+{
+  "id": 35672,
+  "title": "Yama no Susume Third Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1070/93809.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1070/93809l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Encouragement of Climb Third Season",
+      "Yama no Susume 3"
+    ],
+    "en": "Encouragement of Climb Season 3",
+    "ja": "ヤマノススメ サードシーズン"
+  },
+  "start_date": "2018-07-03",
+  "end_date": "2018-09-25",
+  "synopsis": "With the conclusion of an unforgettable summer break, Aoi Yukimura remains invigorated to continue pursuing her new hobby in mountaineering. Having braved her fear of heights and fulfilled her childhood promise with Hinata Kuraue, any opportunity to go climbing intrigues the first-year high school student—including a second chance to reach the summit of Mt. Fuji.\n\nAlthough the formidable yet exciting trip is planned for next summer, Aoi is already preparing as much as she can to guarantee her success this time around. However, as budding expectations blossom with the shift of the seasons, ascending the unexplored peaks of colorful endeavors begins to strain the bond between the two longtime friends and the perspectives they share of the future.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.6,
+  "rank": 1496,
+  "popularity": 4317,
+  "num_list_users": 26252,
+  "num_scoring_users": 10215,
+  "nsfw": "white",
+  "created_at": "2017-06-03T07:12:36+00:00",
+  "updated_at": "2023-09-09T08:32:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:40"
+  },
+  "source": "manga",
+  "average_episode_duration": 810,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 31073,
+  "title": "Show By Rock!!: Plasmagica na Gogo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/79762.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/79762l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "SHOW BY ROCK!! Gonna be a music millionaire!",
+      "Plasmagica Afternoon"
+    ],
+    "en": "",
+    "ja": "Show by Rock!! プラズマジカな午後"
+  },
+  "start_date": "2013-05-29",
+  "end_date": "2013-06-12",
+  "synopsis": "A series of three shorts focusing on the band Plasmagica.",
+  "mean": 5.82,
+  "rank": 10397,
+  "popularity": 10834,
+  "num_list_users": 2270,
+  "num_scoring_users": 552,
+  "nsfw": "white",
+  "created_at": "2015-06-21T19:23:35+00:00",
+  "updated_at": "2019-11-23T12:38:46+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": []
+}

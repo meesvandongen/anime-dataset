@@ -1,0 +1,46 @@
+{
+  "id": 56093,
+  "title": "Suiyoubi no Yakusoku: Another Story",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1598/137383.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1598/137383l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wednesday's Promise: Another Story",
+      "Suiyoubi no Yakusoku: Another Story feat. Narumi Sena (CV: Amamiya Sora)"
+    ],
+    "en": "",
+    "ja": "水曜日の約束-another story-"
+  },
+  "start_date": "2020-10-23",
+  "end_date": "2020-10-23",
+  "synopsis": "Music video animated by Mogelatte for the song Suiyoubi no Yakusoku: Another Story by HoneyWorks featuring Sora Amamiya.",
+  "popularity": 20767,
+  "num_list_users": 173,
+  "num_scoring_users": 91,
+  "nsfw": "white",
+  "created_at": "2023-07-26T16:31:43+00:00",
+  "updated_at": "2023-08-08T20:55:20+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 221,
+  "rating": "g",
+  "studios": []
+}

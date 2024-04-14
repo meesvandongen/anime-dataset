@@ -1,0 +1,45 @@
+{
+  "id": 55088,
+  "title": "Adventure",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1649/135483.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1649/135483l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Adventure",
+    "ja": "アドベンチャー"
+  },
+  "start_date": "2023-03-11",
+  "end_date": "2023-03-11",
+  "synopsis": "Music video for the song Adventure by YOASOBI.",
+  "mean": 6.43,
+  "popularity": 17684,
+  "num_list_users": 359,
+  "num_scoring_users": 206,
+  "nsfw": "white",
+  "created_at": "2023-04-22T20:49:29+00:00",
+  "updated_at": "2023-04-23T06:22:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 227,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1872,
+      "name": "P.I.C.S."
+    }
+  ]
+}

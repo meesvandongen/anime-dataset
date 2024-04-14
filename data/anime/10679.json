@@ -1,0 +1,51 @@
+{
+  "id": 10679,
+  "title": "Maria†Holic: Runrun Riru Ranran Rara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/29426.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/29426l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maria†Holic: Children's Day Parody PV"
+    ],
+    "en": "",
+    "ja": "「るんるんりる　らんらんらら」小林ゆう初ＣＧアニメ化ＰＶ"
+  },
+  "start_date": "2011-04-28",
+  "end_date": "2011-04-28",
+  "synopsis": "The Maria Holic's official website put this video on its homepage on Children's Day.",
+  "mean": 5.66,
+  "popularity": 8833,
+  "num_list_users": 4399,
+  "num_scoring_users": 1795,
+  "nsfw": "white",
+  "created_at": "2011-05-08T18:54:25+00:00",
+  "updated_at": "2023-12-26T15:37:13+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 100,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

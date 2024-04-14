@@ -1,0 +1,53 @@
+{
+  "id": 33164,
+  "title": "Musaigen no Phantom World: Limitless Phantom World",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/79855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/79855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Myriad Colors Phantom World: Limitless Phantom World",
+      "Musaigen no Phantom World Picture Drama Specials"
+    ],
+    "en": "",
+    "ja": "無彩限のファントム・ワールド Limitless Phantom World"
+  },
+  "start_date": "2016-04-06",
+  "end_date": "2016-10-05",
+  "synopsis": "Picture drama specials bundled with the main series' Blu-ray/DVD volumes.",
+  "mean": 6.47,
+  "rank": 7069,
+  "popularity": 3848,
+  "num_list_users": 33288,
+  "num_scoring_users": 11536,
+  "nsfw": "white",
+  "created_at": "2016-04-09T01:43:36+00:00",
+  "updated_at": "2022-04-29T20:17:38+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 367,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

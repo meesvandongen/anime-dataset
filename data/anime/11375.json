@@ -1,0 +1,72 @@
+{
+  "id": 11375,
+  "title": ".hack//The Movie: Sekai no Mukou ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/35633.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/35633l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      ".hack//Beyond the World"
+    ],
+    "en": "",
+    "ja": ".hack//The Movie セカイの向こうに"
+  },
+  "start_date": "2012-01-21",
+  "end_date": "2012-01-21",
+  "synopsis": "In 2024, the computer network prevails throughout daily life. Sora Yuuki is a 14-year-old girl. One day, she is invited to an online game \"The World\". After an accident in the game, the real world begins to deform.",
+  "mean": 7.04,
+  "rank": 4094,
+  "popularity": 5021,
+  "num_list_users": 18428,
+  "num_scoring_users": 7551,
+  "nsfw": "white",
+  "created_at": "2011-08-23T19:44:20+00:00",
+  "updated_at": "2022-03-29T15:13:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 6600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 231,
+      "name": "CyberConnect2"
+    },
+    {
+      "id": 298,
+      "name": "Anima"
+    }
+  ]
+}

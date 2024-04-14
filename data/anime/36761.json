@@ -1,0 +1,51 @@
+{
+  "id": 36761,
+  "title": "Osomatsu-san Short Film Series 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/88890.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/88890l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mr. Osomatsu Short Film Series 2nd Season"
+    ],
+    "en": "",
+    "ja": "おそ松さん ショートフィルムシリーズ 第2期"
+  },
+  "start_date": "2018-01-26",
+  "end_date": "2018-07-27",
+  "synopsis": "Shorts included in the Osomatsu-san 2nd Season BD & DVD releases. ",
+  "mean": 5.85,
+  "rank": 10242,
+  "popularity": 10759,
+  "num_list_users": 2329,
+  "num_scoring_users": 349,
+  "nsfw": "white",
+  "created_at": "2017-11-07T02:05:49+00:00",
+  "updated_at": "2020-06-21T13:23:35+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 322,
+  "rating": "pg_13",
+  "studios": []
+}

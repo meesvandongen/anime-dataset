@@ -1,0 +1,58 @@
+{
+  "id": 2948,
+  "title": "Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/27121.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/27121l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "More! Useless Witch Doremi - Secret of the Frog Stone",
+      "Mo~tto! Ojamajo Doremi Kaeru Seki no Himitsu",
+      "Mo~tto! Ojamajo Doremi movie"
+    ],
+    "en": "",
+    "ja": "も～っと！おジャ魔女どれみ カエル石のひみつ"
+  },
+  "start_date": "2001-07-14",
+  "end_date": "2001-07-14",
+  "synopsis": "Mo~tto Ojamajo Doremi movie features the five witches Doremi, Aiko, Hazuki, Onpu, and Momoko as they visit Doremi's grandpa's home. There, they learn of the mystery of the frog stone, a magical place where magic used to mingle in the old countryside. Aiko rediscovers her love for grandpa, and Doremi learns a piece of the magical kingdom's past.\n\n(Source: ANN)",
+  "mean": 7.26,
+  "rank": 2951,
+  "popularity": 8230,
+  "num_list_users": 5353,
+  "num_scoring_users": 2256,
+  "nsfw": "white",
+  "created_at": "2007-08-09T05:20:46+00:00",
+  "updated_at": "2023-06-02T21:33:51+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1560,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

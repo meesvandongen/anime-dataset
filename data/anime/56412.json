@@ -1,0 +1,48 @@
+{
+  "id": 56412,
+  "title": "Papa Dog",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1620/137996.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1620/137996l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "파파독"
+  },
+  "start_date": "2016-02-12",
+  "end_date": "2016-05-12",
+  "synopsis": "",
+  "rank": 17150,
+  "popularity": 25186,
+  "num_list_users": 63,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2023-08-23T10:02:08+00:00",
+  "updated_at": "2023-08-24T14:54:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": []
+}

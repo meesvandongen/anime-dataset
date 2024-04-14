@@ -1,0 +1,69 @@
+{
+  "id": 39049,
+  "title": "Jashin-chan Dropkick'",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1646/111421.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1646/111421l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "False God My Dropkick 2nd Season",
+      "Dropkick on My Devil!! 2nd Season"
+    ],
+    "en": "Dropkick on My Devil!! Dash",
+    "ja": "邪神ちゃんドロップキック'（ダッシュ）"
+  },
+  "start_date": "2020-04-06",
+  "end_date": "2020-06-22",
+  "synopsis": "Jashin-chan is a demon who was summoned by Yurine Hanazono, a gothic looking girl. Unable to return home as the relevant spell was not included in the summoning grimoire, Jashin-chan resorts to violence to liberate herself from her earthly shackles.\n\nHowever, this is easier said than done, as Yurine is no weakling herself. She in fact possesses formidable physical power and uses it to massacre Jashin-chan in a variety of ways, be it shoving her arm in a blender, spreading her intestines across the room or even cooking her. Though these actions would be fatal to anyone without the ability to regenerate, Jashin-chan isn't exactly undeserving of this treatment. Stuck with each other, Yurine lets Jashin-chan live with her in exchange for work around the apartment, and this cohabitation results in situations where, more often than not, Jashin-chan ends up in pieces. \n\n[Written by MAL Rewrite]",
+  "mean": 7.47,
+  "rank": 1976,
+  "popularity": 3131,
+  "num_list_users": 49360,
+  "num_scoring_users": 20487,
+  "nsfw": "white",
+  "created_at": "2019-01-20T10:56:11+00:00",
+  "updated_at": "2023-01-03T11:29:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "20:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 24181,
+  "title": "3-nen C-gumi 14-ban Kubozono Chiyoko no Nyuukaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/62569.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/62569l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "San Nen C Gumi Juuyon Ban Kubozono Chiyoko No Nyuukaku"
+    ],
+    "en": "",
+    "ja": "3年C組14番窪園チヨコの入閣"
+  },
+  "start_date": "2013-03-03",
+  "end_date": "2013-03-03",
+  "synopsis": "Music video for the song 3-nen C-gumi 14-ban Kubozono Chiyoko no Nyuukaku by siinamota (Shina Mota) from the CD album 'Kokegane no Uta.'\nDirected by Kenshiro Morii at Studio Moriken.",
+  "mean": 5.48,
+  "popularity": 12366,
+  "num_list_users": 1352,
+  "num_scoring_users": 790,
+  "nsfw": "white",
+  "created_at": "2014-05-10T22:06:55+00:00",
+  "updated_at": "2023-08-31T06:12:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 224,
+  "rating": "pg",
+  "studios": []
+}

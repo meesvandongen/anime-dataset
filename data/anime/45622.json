@@ -1,0 +1,63 @@
+{
+  "id": 45622,
+  "title": "Kyou kara Maou! Taizenshu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1967/138109.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1967/138109l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyou kara Maou! Recaps"
+    ],
+    "en": "Kyou kara Maou! Great Complete Collection",
+    "ja": "今日からマ王! 大全集"
+  },
+  "start_date": "2005-02-19",
+  "end_date": "2005-08-20",
+  "synopsis": "Recaps of Kyou kara Maou! with new narration by Yuuri.",
+  "rank": 15908,
+  "popularity": 20376,
+  "num_list_users": 195,
+  "num_scoring_users": 43,
+  "nsfw": "gray",
+  "created_at": "2021-01-02T05:20:28+00:00",
+  "updated_at": "2023-08-30T04:41:56+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 9,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

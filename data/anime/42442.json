@@ -1,0 +1,44 @@
+{
+  "id": 42442,
+  "title": "Omoide wa Kireide",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1927/108458.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1927/108458l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "思い出は奇麗で"
+  },
+  "start_date": "2018-06-14",
+  "end_date": "2018-06-14",
+  "synopsis": "A special Father's Day music video featuring a short version of Omoide wa Kireide by Aimer that was originally released on her fifteenth single. The video was directed by Gaku Kinoshita.",
+  "mean": 6.26,
+  "popularity": 17570,
+  "num_list_users": 369,
+  "num_scoring_users": 193,
+  "nsfw": "white",
+  "created_at": "2020-07-12T23:06:17+00:00",
+  "updated_at": "2020-07-12T23:06:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 160,
+  "rating": "g",
+  "studios": []
+}

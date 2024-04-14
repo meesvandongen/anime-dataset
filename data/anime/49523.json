@@ -1,0 +1,64 @@
+{
+  "id": 49523,
+  "title": "Digimon Adventure 02: The Beginning",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1331/137453.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1331/137453l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Digimon Adventure 02 Movie"
+    ],
+    "en": "",
+    "ja": "デジモンアドベンチャー02 THE BEGINNING"
+  },
+  "start_date": "2023-10-27",
+  "end_date": "2023-10-27",
+  "synopsis": "Two years after the battle against Eosmon, Davis Motomiya, Ken Ichijouji, Yolei Inoue, Cody Hida, T.K. Takaishi, and Kari Kamiya meet a boy named Rui Owada, who is found with a depowered Digivice and claims to be the first Digidestined ever. In addition, a Digimon named Ukkomon appears in the real world, who wants every person in the world to have their own Digimon partner.\n\n(Source: Wikipedia)",
+  "mean": 6.77,
+  "rank": 5354,
+  "popularity": 6759,
+  "num_list_users": 8650,
+  "num_scoring_users": 1479,
+  "nsfw": "white",
+  "created_at": "2021-08-01T12:24:22+00:00",
+  "updated_at": "2023-10-06T11:16:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
+}

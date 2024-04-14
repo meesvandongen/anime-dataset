@@ -1,0 +1,78 @@
+{
+  "id": 32867,
+  "title": "Bungou Stray Dogs 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1572/133096.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1572/133096l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bungo Stray Dogs 2",
+    "ja": "文豪ストレイドッグス"
+  },
+  "start_date": "2016-10-06",
+  "end_date": "2016-12-16",
+  "synopsis": "Despite their differences in position, three men—the youngest senior executive of the Port Mafia, Osamu Dazai; the lowest ranking member, Sakunosuke Oda; and the intelligence agent, Ango Sakaguchi—gather at the Lupin Bar at the end of the day to relax and take delight in the company of friends.\n\nHowever, one night, Ango disappears. A photograph taken at the bar is all that is left of the three together.\n\nFast forward to the present, and Dazai is now a member of the Armed Detective Agency. The Guild, an American gifted organization, has entered the fray and is intent on taking the Agency's work permit. They must now divide their attention between the two groups, the Guild and the Port Mafia, who oppose their very existence.   \n\n[Written by MAL Rewrite]",
+  "mean": 8.18,
+  "rank": 392,
+  "popularity": 205,
+  "num_list_users": 855287,
+  "num_scoring_users": 495521,
+  "nsfw": "white",
+  "created_at": "2016-03-01T14:43:24+00:00",
+  "updated_at": "2023-10-09T06:36:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

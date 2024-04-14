@@ -1,0 +1,52 @@
+{
+  "id": 53424,
+  "title": "Flaglia: Natsuyasumi no Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1065/129807.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1065/129807l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Flaglia"
+    ],
+    "en": "",
+    "ja": "『FLAGLIA』～なつやすみの物語～"
+  },
+  "start_date": "2023-01-17",
+  "end_date": "2023-01-31",
+  "synopsis": "Iko, a third grader, lives with his four older brothers in an old house in Tateyama. Iko's family has no parents, and according to his older brothers, their mother works in Tokyo. Despite being a bit eccentric, Iko loves his brothers, who take good care of him, but they have a secret: they are wizards who live almost forever... The story unfolds of a family's summer vacation in a seaside town, happily living together while being caught up in the world of wizards.\n\n(Source: Comic Natalie, translated)",
+  "mean": 5.13,
+  "rank": 12475,
+  "popularity": 8698,
+  "num_list_users": 4603,
+  "num_scoring_users": 268,
+  "nsfw": "gray",
+  "created_at": "2022-10-25T20:43:15+00:00",
+  "updated_at": "2022-12-28T04:01:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:35"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 835,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1314,
+      "name": "Gaina"
+    }
+  ]
+}

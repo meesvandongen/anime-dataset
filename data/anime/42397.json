@@ -1,0 +1,52 @@
+{
+  "id": 42397,
+  "title": "Benkai to Ushiwakamaru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1514/113958.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1514/113958l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Benkei and Ushiwakamaru",
+    "ja": "弁慶と牛若丸"
+  },
+  "start_date": "1999-12-04",
+  "end_date": "1999-12-04",
+  "synopsis": "This is the story of the extraordinary Benkei, who after having met his enemy Yoshitsune in his childhood (then named 'Ushiwaka') came to guard him as a lifetime partner in later years.",
+  "rank": 18514,
+  "popularity": 19096,
+  "num_list_users": 266,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2020-07-07T00:25:35+00:00",
+  "updated_at": "2021-04-01T16:58:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "average_episode_duration": 436,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
+}

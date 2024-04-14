@@ -1,0 +1,60 @@
+{
+  "id": 25087,
+  "title": "Ie Naki Ko Remy Specials (2001)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/64147.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/64147l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ie Naki Ko Rémi Specials (2001)",
+      "Sekai Meisaku Gekijou Kanketsu Ban: Ie Naki Ko Remi",
+      "World Masterpiece Theater Complete Edition: Homeless Child Remy",
+      "Nobody's Girl Remi",
+      "Remi the Homeless Girl"
+    ],
+    "en": "",
+    "ja": "世界名作劇場・完結版 家なき子レミ"
+  },
+  "start_date": "2001-07-14",
+  "end_date": "2001-07-15",
+  "synopsis": "A summary of the Ie Naki Ko Remy full series aired as a TV specials. ",
+  "mean": 6.53,
+  "rank": 6712,
+  "popularity": 13127,
+  "num_list_users": 1076,
+  "num_scoring_users": 290,
+  "nsfw": "white",
+  "created_at": "2014-07-03T13:24:37+00:00",
+  "updated_at": "2024-02-04T16:50:02+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 2700,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 4565,
+  "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tengen Toppa Gurren Lagann Movie 2"
+    ],
+    "en": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+    "ja": "劇場版 天元突破グレンラガン 螺巌篇"
+  },
+  "start_date": "2009-04-22",
+  "end_date": "2009-04-22",
+  "synopsis": "Humans have enjoyed their lavish, peaceful, and prosperous lives for seven years since the day the almighty Spiral King was defeated—the day they reclaimed their homeland, Earth. However, the boon of this lifestyle leaves them unprepared when an unknown, hostile threat arises due to the ever-growing human population. This calamity is the Anti-Spiral—a fearsome enemy with unparalleled power. \n \nAs the Spiral King's prognosis postulating the destruction of \"The Spiral's World\" begins to come true, the pieces are in place, and Team Dai-Gurren is ready. With his late brother's hope to see a better future for mankind, Simon—along with Nia Teppelin and the rest of the team—is determined to overthrow the mighty Anti-Spiral in order to revive humanity's lost hope.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.58,
+  "rank": 93,
+  "popularity": 1117,
+  "num_list_users": 216363,
+  "num_scoring_users": 101910,
+  "nsfw": "white",
+  "created_at": "2008-05-24T10:03:49+00:00",
+  "updated_at": "2023-01-10T15:11:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 7553,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 29,
+  "title": "Zipang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/75740.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/75740l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ジパング"
+  },
+  "start_date": "2004-10-08",
+  "end_date": "2005-04-01",
+  "synopsis": "A Ripple in Time Turns the Crucial Tide of WWII.\n\nScheduled for routine military exercises, Commander Kadomatsu and the crew of Japan's newest and most modern Battlecruiser, The Mirai, are ready to test out the ship's state-of-the-art Aegis System. Instead, they find themselves transported back to June 4th, 1942—date of the crucial Battle of Midway, where the Japanese fleet was dealt a crippling blow. When an overzealous Kadomatsu rescues one of the battle's victims, Kusaka, from a sinking zero fighter, the Mirai's fate is sealed. The crew pledges not to do anything to alter the past further. However, they're now forced to fight a U.S. submarine in a battle that should never have occurred. Thus setting off a chain of events that may forever change the flow of history!\n\n(Source: Geneon Entertainment USA, edited)",
+  "mean": 7.48,
+  "rank": 1944,
+  "popularity": 4595,
+  "num_list_users": 22581,
+  "num_scoring_users": 7643,
+  "nsfw": "white",
+  "created_at": "2005-11-11T01:34:08+00:00",
+  "updated_at": "2023-09-01T02:27:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

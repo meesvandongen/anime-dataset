@@ -1,0 +1,55 @@
+{
+  "id": 13479,
+  "title": "Uchuu Kyoudai: Apo's Dream",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/37631.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/37631l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uchu Kyodai: Apo's Dream"
+    ],
+    "en": "Space Brothers: Apo's Dream",
+    "ja": "宇宙兄弟 Apo's Dream"
+  },
+  "start_date": "2012-03-23",
+  "end_date": "2012-03-23",
+  "synopsis": "Included on a DVD within the limited edition of the manga's volume 17. \n\nApo, the pet dog from the manga, will star in the anime.",
+  "mean": 5.32,
+  "rank": 12101,
+  "popularity": 8992,
+  "num_list_users": 4170,
+  "num_scoring_users": 1492,
+  "nsfw": "white",
+  "created_at": "2012-03-25T15:04:20+00:00",
+  "updated_at": "2021-11-13T19:45:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 962,
+  "rating": "pg",
+  "studios": []
+}

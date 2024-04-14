@@ -1,0 +1,65 @@
+{
+  "id": 38573,
+  "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1225/102250.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1225/102250l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power",
+      "Okaa-san Online"
+    ],
+    "en": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+    "ja": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？"
+  },
+  "start_date": "2019-07-13",
+  "end_date": "2019-09-28",
+  "synopsis": "Forming a party with one's mother in an online game seems not only unlikely but also uncomfortable to most teenage gamers. \n\nUnfortunately, Masato Oosuki finds himself in that exact scenario. After completing a seemingly meaningless survey, he is thrown into the world of a fantasy MMORPG—and his mother Mamako actually tagged along with him! On top of all of that, Mamako turns out to be an overpowered swordswoman, possessing the power of two-hit multi-target attacks! After minor tension between the two, they search for party members, meeting the merchant Porta and the sage Wise, starting their journey to clear the game.\n\n[Written by MAL Rewrite]",
+  "mean": 5.55,
+  "rank": 11454,
+  "popularity": 852,
+  "num_list_users": 284565,
+  "num_scoring_users": 125424,
+  "nsfw": "white",
+  "created_at": "2018-10-21T07:21:45+00:00",
+  "updated_at": "2022-11-16T02:49:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

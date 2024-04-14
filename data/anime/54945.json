@@ -1,0 +1,46 @@
+{
+  "id": 54945,
+  "title": "Chang An San Wan Li",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1468/139021.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1468/139021l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chang An"
+    ],
+    "en": "30,000 Miles From Chang'an",
+    "ja": "长安三万里"
+  },
+  "start_date": "2023-07-08",
+  "end_date": "2023-07-08",
+  "synopsis": "A few years after the Anshi Rebellion, the Tibetan army invaded the southwest and the Tang dynasty military commander Gao Shi suffered a defeat in battle. Chang'an was in imminent danger. Gao Shi, who was trapped in the besieged city, recalled his past experiences with Li Bai to the eunuch who served as the military supervisor.",
+  "rank": 18763,
+  "popularity": 17859,
+  "num_list_users": 346,
+  "num_scoring_users": 82,
+  "nsfw": "white",
+  "created_at": "2023-04-07T09:59:17+00:00",
+  "updated_at": "2023-07-16T17:03:03+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 10075,
+  "studios": [
+    {
+      "id": 1485,
+      "name": "Light Chaser Animation Studios"
+    }
+  ]
+}

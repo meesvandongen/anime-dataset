@@ -1,0 +1,42 @@
+{
+  "id": 39793,
+  "title": "Ever Green Never End",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1674/100934.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1674/100934l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Irodorimidori"
+    ],
+    "en": "Ever green Never end",
+    "ja": "Ever green Never end"
+  },
+  "start_date": "2019-05-08",
+  "end_date": "2019-05-08",
+  "synopsis": "Official music video for the song Ever Green Never End by the fictional band Irodorimidori. It is the 40th song in the franchise and focuses on Shirona Tsukisuzu.",
+  "mean": 5.8,
+  "popularity": 13355,
+  "num_list_users": 1008,
+  "num_scoring_users": 535,
+  "nsfw": "white",
+  "created_at": "2019-05-08T07:07:42+00:00",
+  "updated_at": "2020-07-04T20:51:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 148,
+  "rating": "g",
+  "studios": []
+}

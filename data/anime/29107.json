@@ -1,0 +1,46 @@
+{
+  "id": 29107,
+  "title": "Banana Mura ni Ame ga Furu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1160/137516.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1160/137516l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "バナナ村に雨がふる"
+  },
+  "start_date": "1987-08-03",
+  "end_date": "1987-08-03",
+  "synopsis": "Music video featured on NHK's Minna no Uta program.",
+  "mean": 4.73,
+  "popularity": 16000,
+  "num_list_users": 502,
+  "num_scoring_users": 256,
+  "nsfw": "white",
+  "created_at": "2014-12-27T16:22:02+00:00",
+  "updated_at": "2022-04-04T00:58:56+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 138,
+  "rating": "g",
+  "studios": []
+}

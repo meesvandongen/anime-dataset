@@ -1,0 +1,47 @@
+{
+  "id": 52224,
+  "title": "Gakitabi!: Akechi no Furusato",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1429/126827.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1429/126827l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gakitabi! Akechi no Furusato-hen",
+      "A Kid Trip! Akechi's Hometown"
+    ],
+    "en": "",
+    "ja": "がきたびっ！～あけちの故郷（ふるさと）編～"
+  },
+  "start_date": "2021-03-10",
+  "end_date": "2021-03-10",
+  "synopsis": "Produced by Ogaki City, Gifu Prefecture.\n\nThe 5th animation series Gakitabi!: Akechi no Furusato, which introduces the history and culture of Ogaki City.",
+  "rank": 19619,
+  "popularity": 19583,
+  "num_list_users": 238,
+  "num_scoring_users": 76,
+  "nsfw": "white",
+  "created_at": "2022-06-27T15:59:51+00:00",
+  "updated_at": "2024-02-09T11:53:32+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 530,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": 29389,
+  "title": "Shiro Hon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/70649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/70649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The White Book",
+    "ja": "白い本"
+  },
+  "start_date": "2007-04-02",
+  "end_date": "2012-12-24",
+  "synopsis": "Papercraft stop-motion animation featuring tales ranging from a colourful jungle to a sports car race.",
+  "rank": 13349,
+  "popularity": 19118,
+  "num_list_users": 265,
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "created_at": "2015-01-10T09:52:28+00:00",
+  "updated_at": "2024-02-29T06:55:42+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

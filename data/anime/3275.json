@@ -1,0 +1,56 @@
+{
+  "id": 3275,
+  "title": "Kinnikuman: Seigi Choujin vs. Kodai Choujin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1744/97584.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1744/97584l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kinnikuman: Justice Superman vs. Ancient Superman"
+    ],
+    "en": "",
+    "ja": "キン肉マン 正義超人ＶＳ古代超人"
+  },
+  "start_date": "1985-03-16",
+  "end_date": "1985-03-16",
+  "synopsis": "While Kinnikuman is on vacation with Mari-san's kindergarten class at Easter Island, the young wheelchair-bound Kouichi-kun laments being with an idiot like Kinnikuman, preferring to instead be with his favorite Seigi Choujin Buffaloman. Meanwhile, the other Seigi Choujins are also vacationing at ancient landmarks.\n\n(Source: Wikipedia)",
+  "mean": 6.38,
+  "rank": 7582,
+  "popularity": 13265,
+  "num_list_users": 1032,
+  "num_scoring_users": 279,
+  "nsfw": "white",
+  "created_at": "2007-10-22T19:00:30+00:00",
+  "updated_at": "2024-03-06T11:04:42+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2719,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

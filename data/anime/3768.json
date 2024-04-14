@@ -1,0 +1,56 @@
+{
+  "id": 3768,
+  "title": "Play Ball",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/6695.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/6695l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Playball"
+    ],
+    "en": "Play Ball",
+    "ja": "プレイボール"
+  },
+  "start_date": "2005-07-05",
+  "end_date": "2005-09-27",
+  "synopsis": "After fracturing a finger in a junior high school game, Takao Taniguchi is unable to play baseball. After entering Sumitani High School, he is constantly watching the baseball club even though he is unable to play. He catches the eye of the captain of the soccer club, and while he still has lingering hopes of joining the baseball club, he decides to join the soccer club. \n\nWhile he's a complete beginner, Taniguchi developed a strong spirit of hard work while in junior high school and his new teammates begin to see his potential. While he focuses all of his energy on soccer, he is unable to forget his youthful zeal for baseball and he begins umpiring baseball games in secret.\n\n(Source: Wikipedia)",
+  "mean": 6.17,
+  "rank": 8734,
+  "popularity": 12923,
+  "num_list_users": 1144,
+  "num_scoring_users": 225,
+  "nsfw": "white",
+  "created_at": "2008-01-24T07:45:44+00:00",
+  "updated_at": "2024-03-06T11:06:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 191,
+      "name": "Eiken"
+    }
+  ]
+}

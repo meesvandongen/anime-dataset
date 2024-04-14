@@ -1,0 +1,58 @@
+{
+  "id": 54724,
+  "title": "Nige Jouzu no Wakagimi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1386/140401.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1386/140401l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Elusive Samurai",
+    "ja": "逃げ上手の若君"
+  },
+  "start_date": "2024-07",
+  "synopsis": "Eight-year-old Tokiyuki Houjou, the next successor of the Kamakura shogunate, is a young boy lacking talent in everything besides hide-and-seek. One day, his carefree life is abruptly turned upside down when Takauji Ashikaga brutally seizes power from the Kamakuras, ending their reign. Rescued by a self-proclaimed prophetic priest, Tokiyuki manages to escape with his life. Now he must evade those trying to kill him while recruiting comrades who can help him restore the Kamakura Shogunate to its former glory.\n\nSet during the Nanboku-chou period of Japanese history, Nige Jouzu no Wakagimi is a tale of redemption, documenting the life of the forgotten hero that altered Japan's destiny by running away.\n\n[Written by MAL Rewrite]",
+  "popularity": 7025,
+  "num_list_users": 7908,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2023-03-15T20:00:10+00:00",
+  "updated_at": "2024-03-24T04:04:42+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

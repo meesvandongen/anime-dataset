@@ -1,0 +1,77 @@
+{
+  "id": 690,
+  "title": "Kyuuketsuhime Miyu (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1427/134363.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1427/134363l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyuuketsuki Miyu TV",
+      "Vampire Princess Miyu (1997)"
+    ],
+    "en": "Vampire Princess Miyu",
+    "ja": "吸血姫美夕"
+  },
+  "start_date": "1997-10-06",
+  "end_date": "1998-03-30",
+  "synopsis": "Evil Shinma (shape-shifting monsters and vampires) roam the Earth on a mission to unleash their darkness upon the Human race. Miyu Royal Princess from the dark is the Chosen One—the one being who must banish the Evil Shinma from the Earth. She has the power to offer Humans the gift of eternal happiness, yet is herself, trapped between two worlds; destined for perpetual solitude and internal conflict. \n\nMiyu's only companion is Larva, once an evil Shimna; now her devoted guardian. Together they share a dark journey through the weakness of the human heart and the tragic loss of innocence. Cut off from humanity by the knowledge of what she is, Miyu lives an endless quest as both the hunter and the hunted, on the edge of darkness. \n\n(Source: AniDB) ",
+  "mean": 7.17,
+  "rank": 3439,
+  "popularity": 3499,
+  "num_list_users": 40577,
+  "num_scoring_users": 12409,
+  "nsfw": "white",
+  "created_at": "2006-02-02T17:06:16+00:00",
+  "updated_at": "2023-08-30T10:49:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:15"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 543,
+  "title": "Vampire Hunter D (2000)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1571/135153.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1571/135153l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Vampire Hunter D (2001)",
+      "Vampire Hunter D Movie"
+    ],
+    "en": "Vampire Hunter D: Bloodlust",
+    "ja": "バンパイアハンターD"
+  },
+  "start_date": "2000-08-25",
+  "end_date": "2000-08-25",
+  "synopsis": "The story revolves around D, the infamous \"dhampir\" (born of a vampire father and a human mother) outcast and renowned vampire hunter. His prowess at hunting the creatures of the night allowing his acceptance among humans, he is called upon to locate Charlotte Elbourne, the lovely daughter of an affluent family who has been mysteriously kidnapped.\n\nWhen the sun sets, the hunt goes on! Charlotte's father offers a rich bounty, be she dead or alive, a task D willingly accepts, even with notorious Markus brothers and their gang of bounty hunters seeking the prize as well. Amidst the chase and unknown to all lurks, a sinister evil which has been secretly manipulating their every move and has set a chilling trap that none will expect and few will survive. With the tables turned and the secrets revealed, the hunters could quickly become the hunted!\n\n(Source: AniDB) ",
+  "mean": 7.93,
+  "rank": 731,
+  "popularity": 1211,
+  "num_list_users": 197807,
+  "num_scoring_users": 97030,
+  "nsfw": "white",
+  "created_at": "2006-01-05T17:25:07+00:00",
+  "updated_at": "2022-04-18T01:41:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 6120,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

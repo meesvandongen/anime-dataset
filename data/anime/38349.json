@@ -1,0 +1,66 @@
+{
+  "id": 38349,
+  "title": "Wotaku ni Koi wa Muzukashii OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1892/111383.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1892/111383l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wotaku ni Koi wa Muzukashii: Youth",
+      "It's Difficult to Love an Otaku OVA",
+      "Wotakoi: Love is Hard for Otaku OVA"
+    ],
+    "en": "Wotakoi: Love is Hard for Otaku OVA",
+    "ja": "ヲタクに恋は難しい OAD"
+  },
+  "start_date": "2019-03-29",
+  "end_date": "2021-10-14",
+  "synopsis": "Tarou Kabakura, a third-year high school student and captain of the boys' volleyball team, is constantly being harassed by his underclassman Hanako Koyanagi, who is in charge of the girls' team. Koyanagi insists that since the girls have a match coming up, Kabakura should give up the courts to let them practice. When he refuses, she pulls out photographic evidence exposing his secret hobby.\n\nWith the danger of his entire team finding out about his otaku interests looming over him, Kabakura agrees to hand over the volleyball courts to Koyanagi, giving her some private coaching as well. As the two grow closer, they begin to forge an everlasting bond.\n\n[Written by MAL Rewrite]\n\nThird OVA—covering the \"employee trip\" chapter(s) from the sixth tankouban volume—will be bundled with the special edition of the 11th and final volume of the manga which ships on October 14, 2021.\n\n(Source: MAL News, edited)\n",
+  "mean": 7.94,
+  "rank": 705,
+  "popularity": 1159,
+  "num_list_users": 207506,
+  "num_scoring_users": 103928,
+  "nsfw": "white",
+  "created_at": "2018-09-18T03:37:09+00:00",
+  "updated_at": "2023-01-19T22:27:35+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1437,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    },
+    {
+      "id": 1828,
+      "name": "Lapin Track"
+    }
+  ]
+}

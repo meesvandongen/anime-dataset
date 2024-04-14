@@ -1,0 +1,76 @@
+{
+  "id": 21431,
+  "title": "Gokukoku no Brynhildr",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/61433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/61433l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gokukoku no Brynhildr"
+    ],
+    "en": "Brynhildr in the Darkness",
+    "ja": "極黒のブリュンヒルデ"
+  },
+  "start_date": "2014-04-06",
+  "end_date": "2014-06-29",
+  "synopsis": "Venturing into the wilderness, the skeptical Ryouta Murakami and the ambitious Kuroneko were on a quest to prove the existence of extraterrestrial life when a tragic accident occurred, reaping Kuroneko of her life and leaving Ryouta in a critically injured state.\n\nTen years have passed since the disaster, and Ryouta is now living a normal life in high school. He vows to prove that aliens are real in honor of his late friend. A transfer student named Neko Kuroha unexpectedly arrives one day, bearing a striking resemblance to the late Kuroneko—even sharing a similar name. Most mysteriously, she seems to possess supernatural powers.\n\nAs Ryouta takes more interest in Neko, he is drawn into a deadly world where dangerous scientists hunt magic-wielding witches that have escaped from their secret research laboratory. Neko is one of these escapees, but there are many others who are in similar situations, and it's up to Ryouta to protect them from their would-be captors.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.85,
+  "rank": 4994,
+  "popularity": 694,
+  "num_list_users": 337408,
+  "num_scoring_users": 167799,
+  "nsfw": "white",
+  "created_at": "2013-12-01T00:26:07+00:00",
+  "updated_at": "2024-01-19T12:08:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

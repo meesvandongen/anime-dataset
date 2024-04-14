@@ -1,0 +1,50 @@
+{
+  "id": 57996,
+  "title": "Lili Kurong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1802/141229.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1802/141229l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "离离枯荣"
+  },
+  "start_date": "2024-01-28",
+  "end_date": "2024-01-28",
+  "synopsis": "A short film directed by Yakumo Crack for the Arknights 2024 Spring Festival Gala.",
+  "mean": 6.35,
+  "rank": 7742,
+  "popularity": 18289,
+  "num_list_users": 316,
+  "num_scoring_users": 133,
+  "nsfw": "white",
+  "created_at": "2024-02-02T06:11:50+00:00",
+  "updated_at": "2024-02-02T09:10:15+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 92,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2893,
+      "name": "Gear Studio"
+    }
+  ]
+}

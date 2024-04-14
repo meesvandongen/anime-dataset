@@ -1,0 +1,47 @@
+{
+  "id": 18355,
+  "title": "Sore Ike! Anpanman: Minna de Teasobi - Anpanman to Itazura Obake",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/49477.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/49477l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "みんなでてあそび アンパンマンといたずらオバケ"
+  },
+  "start_date": "2013-07-06",
+  "end_date": "2013-07-06",
+  "synopsis": "This short movie that was screened simultaneously with a Anpanman movie - Sore Ike! Anpanman: Tobase! Kibou no Handkerchief.",
+  "rank": 13562,
+  "popularity": 17031,
+  "num_list_users": 408,
+  "num_scoring_users": 91,
+  "nsfw": "white",
+  "created_at": "2013-04-13T07:39:44+00:00",
+  "updated_at": "2014-01-05T12:12:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "average_episode_duration": 1260,
+  "rating": "pg",
+  "studios": []
+}

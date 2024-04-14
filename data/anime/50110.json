@@ -1,0 +1,41 @@
+{
+  "id": 50110,
+  "title": "Kata no Ato",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1694/118756.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1694/118756l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The mark of Emi",
+    "ja": "かたのあと"
+  },
+  "start_date": "2020-08-14",
+  "end_date": "2020-08-14",
+  "synopsis": "My friend Emi appeared in my dream. I was so surprised by this, I couldn't face her at school that day. But I forgot that we had to go to the swimming pool for PE class that afternoon, so I ended up having to borrow Emi's swimsuit.\n\nFurukawahara Momoka's graduation work from 2019 at Tokyo Zokei University.\n\n(Source: Anilist)",
+  "mean": 5.84,
+  "rank": 10278,
+  "popularity": 14831,
+  "num_list_users": 663,
+  "num_scoring_users": 305,
+  "nsfw": "gray",
+  "created_at": "2021-10-11T01:54:35+00:00",
+  "updated_at": "2023-10-03T01:12:07+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 26,
+      "name": "Girls Love"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "r+",
+  "studios": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 33457,
+  "title": "Gakuen Handsome Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/80453.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/80453l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gakuen Handsome 12.5"
+    ],
+    "en": "",
+    "ja": "学園ハンサム"
+  },
+  "start_date": "2016-12-20",
+  "end_date": "2016-12-20",
+  "synopsis": "Unaired episode 12.5 included with the Blu-ray Disc/DVD release. ",
+  "mean": 5.58,
+  "rank": 11327,
+  "popularity": 10202,
+  "num_list_users": 2763,
+  "num_scoring_users": 699,
+  "nsfw": "white",
+  "created_at": "2016-06-17T08:26:35+00:00",
+  "updated_at": "2021-07-01T08:09:16+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1562,
+      "name": "Team YokkyuFuman"
+    }
+  ]
+}

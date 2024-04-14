@@ -1,0 +1,39 @@
+{
+  "id": 55505,
+  "title": "Beautiful na Fiction",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1658/136159.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1658/136159l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Beautiful Fiction",
+    "ja": "ビューティフルなフィクション"
+  },
+  "start_date": "2018-11-20",
+  "end_date": "2018-11-20",
+  "synopsis": "Music video for the song Beautiful na Fiction by PinocchioP featuring Hatsune Miku.",
+  "popularity": 20873,
+  "num_list_users": 167,
+  "num_scoring_users": 92,
+  "nsfw": "white",
+  "created_at": "2023-05-26T00:38:05+00:00",
+  "updated_at": "2023-05-30T15:53:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 235,
+  "rating": "pg_13",
+  "studios": []
+}

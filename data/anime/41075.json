@@ -1,0 +1,47 @@
+{
+  "id": 41075,
+  "title": "Code Geass: Hangyaku no Lelouch DVD Magazine Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1566/105441.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1566/105441l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lelouch's Britannia History Course",
+      "Sayoko's Diary",
+      "Sayoko no Nikkichou",
+      "Code Geass Secret Note",
+      "Code Geass Best Phrase Award"
+    ],
+    "en": "Code Geass: Lelouch of the Rebellion DVD Magazine Picture Drama",
+    "ja": "コードギアス 反逆のルルーシュ DVDマガジン"
+  },
+  "start_date": "2007-12-21",
+  "end_date": "2008-01-25",
+  "synopsis": "Short episodes included in the \"Code Geass DVD Magazine.\"",
+  "mean": 5.58,
+  "rank": 11322,
+  "popularity": 10342,
+  "num_list_users": 2642,
+  "num_scoring_users": 794,
+  "nsfw": "white",
+  "created_at": "2020-01-17T11:45:21+00:00",
+  "updated_at": "2023-01-12T08:37:07+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 559,
+  "rating": "pg_13",
+  "studios": []
+}

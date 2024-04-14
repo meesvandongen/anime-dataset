@@ -1,0 +1,65 @@
+{
+  "id": 44037,
+  "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1723/117854.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1723/117854l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
+      "I Was Kicked out of the Hero's Party Because I Wasn't a True Companion so I Decided to Have a Slow Life at the Frontier"
+    ],
+    "en": "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside",
+    "ja": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました"
+  },
+  "start_date": "2021-10-06",
+  "end_date": "2021-12-29",
+  "synopsis": "Far away from the reaches of demons and war, near the borderland of Zoltan, D-Rank adventurer Red lives a normal existence. Through perseverance and hard work, his dream of starting his own apothecary and peaceful life in the countryside finally came true. Abruptly, Red gets a live-in partner and assistant named Rit—the princess of Duchy Loggervia and an adventurer herself—who gives everything up to join him.\n\nAlthough honest, kind, and loved by all, Red has a secret shared only with Rit: his real name is Gideon, brother of Ruti Ragnason, the \"Hero\" and a former member of her party. Ares Drowa, the \"Sage,\" kicked Red out of their party after their war against the Demon Lord after deciding he was weak and insignificant. Now, even though Red has left the Hero's party behind by assuming a new life together with Rit, his past has yet to let go of him.\n\n[Written by MAL Rewrite]",
+  "mean": 6.94,
+  "rank": 4537,
+  "popularity": 740,
+  "num_list_users": 323602,
+  "num_scoring_users": 158256,
+  "nsfw": "white",
+  "created_at": "2020-11-17T12:00:18+00:00",
+  "updated_at": "2023-01-05T18:19:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1421,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1693,
+      "name": "Studio Flad"
+    },
+    {
+      "id": 2052,
+      "name": "Wolfsbane"
+    }
+  ]
+}

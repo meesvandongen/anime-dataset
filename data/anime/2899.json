@@ -1,0 +1,48 @@
+{
+  "id": 2899,
+  "title": "Higurashi no Naku Koro ni Special: Nekogoroshi-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1492/118476.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1492/118476l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Higurashi no Naku Koro ni - Cat Killing Chapter"
+    ],
+    "en": "Higurashi: When They Cry - Cat Killing Chapter",
+    "ja": "ひぐらしのなく頃に 猫殺し編"
+  },
+  "start_date": "2007-08-02",
+  "end_date": "2007-08-02",
+  "synopsis": "As a punishment for losing an intense poker game, Keiichi Maebara, Rena Ryuuguu, Mion Sonozaki, Satoko Houjou, and Rika Furude must walk around town dressed in costumes. Wanting to avoid being seen by more people, Keiichi convinces the group to visit Yagouchi—a deserted neighboring village.\n\nMion's mention of a nearby abandoned quarry spikes the attention of Rena and Keiichi. Still, as she tells them more about the mysterious incidents surrounding the place, they debate whether it would be wise to explore it.\n\n[Written by MAL Rewrite]",
+  "mean": 7.14,
+  "rank": 3598,
+  "popularity": 2411,
+  "num_list_users": 78216,
+  "num_scoring_users": 43274,
+  "nsfw": "white",
+  "created_at": "2007-08-02T01:08:24+00:00",
+  "updated_at": "2023-12-29T02:01:23+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1387,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

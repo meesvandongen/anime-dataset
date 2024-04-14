@@ -1,0 +1,52 @@
+{
+  "id": 39057,
+  "title": "A New Journey",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1549/98385.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1549/98385l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Season 2019: A New Journey | League of Legends"
+    ],
+    "en": "",
+    "ja": "A New Journey"
+  },
+  "start_date": "2019-01-18",
+  "end_date": "2019-01-18",
+  "synopsis": "League of Legends commercial animated by P.A. Works, published on League of Legends YouTube channel.",
+  "mean": 6.07,
+  "rank": 9244,
+  "popularity": 10643,
+  "num_list_users": 2412,
+  "num_scoring_users": 1253,
+  "nsfw": "white",
+  "created_at": "2019-01-22T08:15:21+00:00",
+  "updated_at": "2022-03-29T15:26:45+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

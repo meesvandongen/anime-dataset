@@ -1,0 +1,63 @@
+{
+  "id": 5829,
+  "title": "Blocker Gundan IV Machine Blaster",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/72561.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/72561l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Blocker Gundan 4 Machine Blaster",
+      "Astrorobot",
+      "Blocker Army IV Machine Blaster",
+      "Blocker Corps IV: Machine Blaster"
+    ],
+    "en": "",
+    "ja": "ブロッカー軍団Ⅳマシーンブラスター"
+  },
+  "start_date": "1976-07-05",
+  "end_date": "1977-03-28",
+  "synopsis": "The peace of the world is suddenly threatened by Mogool, which is located on the bottom of the sea. Helqeen, tyrannical master of the Mogoolian Empire, attempts to conquer the earth with her faithful companions Goroskie and Zan-gack.\n\nIn order to frustrate their ambition, Dr. Yuri, who predicted this horrible occasion, organizes four powerful robots to form the Blocker Corps! He also gathers four members who have the super ability known as \"elepath\" - a talent for maneuvering gigantic robots.\n\nA fierce battle begins between our Blocker Corps and Mogool at the risk of their lives! A series of fantastic and fabulous battles unfolds.\n\n(Source: Nippon Animation)",
+  "mean": 6.11,
+  "rank": 9027,
+  "popularity": 12766,
+  "num_list_users": 1190,
+  "num_scoring_users": 314,
+  "nsfw": "white",
+  "created_at": "2009-01-02T12:28:31+00:00",
+  "updated_at": "2015-03-12T18:22:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 1976,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    },
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

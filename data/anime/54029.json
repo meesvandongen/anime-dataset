@@ -1,0 +1,79 @@
+{
+  "id": 54029,
+  "title": "Wu Liuqi: Anying Suming",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1088/132178.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1088/132178l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cike Wuliuqi 4th Season",
+      "Ci Ke Wu Liu Qi 4th Season",
+      "Assassin Seven 4th Season",
+      "Killer Seven 4th Season"
+    ],
+    "en": "Scissor Seven: Shadow Fate",
+    "ja": "伍六七之暗影宿命"
+  },
+  "start_date": "2023-01-18",
+  "end_date": "2023-03-15",
+  "synopsis": "The protagonist Wu Liuqi originally lived a carefree life on Xiaoji Island, but his identity became a mystery due to amnesia. As outsiders landed on the island and recognized Wu Liuqi, various conspiracies began to cover Xiaoji Island. So Wu Liuqi decided to return to Xuanwu Kingdom to meet his destiny in order to protect his partners and their homeland. \n\n(Source: Bilibili, Google translated)",
+  "mean": 8.03,
+  "rank": 583,
+  "popularity": 4705,
+  "num_list_users": 21403,
+  "num_scoring_users": 10170,
+  "nsfw": "white",
+  "created_at": "2022-12-29T14:57:14+00:00",
+  "updated_at": "2023-04-10T23:18:58+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2258,
+      "name": "Sharefun Studio"
+    },
+    {
+      "id": 2294,
+      "name": "AHA Entertainment"
+    }
+  ]
+}

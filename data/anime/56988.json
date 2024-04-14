@@ -1,0 +1,52 @@
+{
+  "id": 56988,
+  "title": "Larva Pendant",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1097/139299.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1097/139299l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "라바 펜던트"
+  },
+  "start_date": "2022-05-25",
+  "end_date": "2022-05-25",
+  "synopsis": "Bug friends Red and Yellow leave the island behind and go to the big city.\n\n(Source: IMDb)",
+  "rank": 15970,
+  "popularity": 22004,
+  "num_list_users": 116,
+  "num_scoring_users": 35,
+  "nsfw": "white",
+  "created_at": "2023-10-24T12:49:34+00:00",
+  "updated_at": "2023-10-24T15:44:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "average_episode_duration": 1980,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1292,
+      "name": "TUBA"
+    }
+  ]
+}

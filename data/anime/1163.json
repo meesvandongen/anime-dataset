@@ -1,0 +1,61 @@
+{
+  "id": 1163,
+  "title": "Neo Ranga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1914/127616.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1914/127616l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nankai Kio Neoranga",
+      "Strange World of the South Seas - Neoranga"
+    ],
+    "en": "",
+    "ja": "南海奇皇ネオランガ"
+  },
+  "start_date": "1998-04-06",
+  "end_date": "1999-09-28",
+  "synopsis": "An ancient God called Ranga awakens on an isolated island in the South Pacific where it has been slumbering forgotten by mankind. Three sisters living in Tokyo—Minami, Ushio, and Yuuhi Shimabara—discover they have inherited this Island Kingdom, along with the huge God. When Ranga shows up in Tokyo, it soon becomes a source of wonder and conflict for the three sisters that control Ranga, the people who want to destroy it, and ones who want to use it. \n\n(Source: ANN)",
+  "mean": 6.62,
+  "rank": 6220,
+  "popularity": 5374,
+  "num_list_users": 15251,
+  "num_scoring_users": 3195,
+  "nsfw": "white",
+  "created_at": "2006-07-06T04:38:19+00:00",
+  "updated_at": "2022-04-12T11:21:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 48,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "original",
+  "average_episode_duration": 943,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 52540,
+  "title": "New Start de Ready Go!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1714/126084.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1714/126084l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Irodorimidori"
+    ],
+    "en": "",
+    "ja": "NewStartでReadyGo!"
+  },
+  "start_date": "2022-01-05",
+  "end_date": "2022-01-05",
+  "synopsis": "Official music video for the song New Start de Ready Go! by the fictional band Irodorimidori. It is the 72th song in the Irodorimidori franchise and it focuses on Serina Akesaka, Aliciana Ogata and Nazuna Tennouzu.",
+  "mean": 5.56,
+  "popularity": 17608,
+  "num_list_users": 366,
+  "num_scoring_users": 187,
+  "nsfw": "white",
+  "created_at": "2022-07-28T10:30:36+00:00",
+  "updated_at": "2022-08-16T14:27:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "g",
+  "studios": []
+}

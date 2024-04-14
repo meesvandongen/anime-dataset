@@ -1,0 +1,43 @@
+{
+  "id": 47265,
+  "title": "Wo de Maoxian Shijie 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1663/130748.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1663/130748l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "我的冒险世界 第二季"
+  },
+  "start_date": "2017-07-07",
+  "synopsis": "",
+  "rank": 14306,
+  "popularity": 24697,
+  "num_list_users": 68,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2021-02-02T15:22:02+00:00",
+  "updated_at": "2022-11-07T17:33:30+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "g",
+  "studios": []
+}

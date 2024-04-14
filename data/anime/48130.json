@@ -1,0 +1,50 @@
+{
+  "id": 48130,
+  "title": "Konglong Feiche",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1712/115239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1712/115239l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Crazy Racing"
+    ],
+    "en": "",
+    "ja": "恐龙飞车"
+  },
+  "start_date": "2021-05-15",
+  "end_date": "2021-05-15",
+  "synopsis": "",
+  "rank": 15733,
+  "popularity": 21162,
+  "num_list_users": 152,
+  "num_scoring_users": 23,
+  "nsfw": "white",
+  "created_at": "2021-02-20T10:02:46+00:00",
+  "updated_at": "2021-05-29T11:55:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5760,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": 31804,
+  "title": "Kuma Miko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/78863.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/78863l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kumamiko: Girl Meets Bear",
+    "ja": "くまみこ"
+  },
+  "start_date": "2016-04-03",
+  "end_date": "2016-06-19",
+  "synopsis": "What does a bear know about life in the big city? For Machi Amayadori's sake, hopefully a lot! The young shrine maiden has spent her whole life in the rural mountains with Natsu, her talking guardian bear. Now, at fourteen, she wants to take a chance and attend high school in the big city. Can Natsu really prepare her for city life? Or will his wacky trials be too much for even Machi to bear?\n\n(Source: FUNimation)",
+  "mean": 6.31,
+  "rank": 7949,
+  "popularity": 2461,
+  "num_list_users": 75345,
+  "num_scoring_users": 31142,
+  "nsfw": "white",
+  "created_at": "2015-10-09T12:18:51+00:00",
+  "updated_at": "2022-04-13T01:26:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    },
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

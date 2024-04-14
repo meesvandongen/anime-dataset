@@ -1,0 +1,61 @@
+{
+  "id": 38843,
+  "title": "Shironeko Project: Zero Chronicle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1072/111360.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1072/111360l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "White Cat Project",
+      "Rune Story"
+    ],
+    "en": "Shironeko Project ZERO CHRONICLE",
+    "ja": "白猫プロジェクトZERO CHRONICLE"
+  },
+  "start_date": "2020-04-06",
+  "end_date": "2020-06-22",
+  "synopsis": "The world is divided into two kingdoms: the Kingdom of White, which floats in the heavens and is ruled by their queen Iris, and the Kingdom of Black, which stands upon desolate land below and houses the King of Darkness as its ruler. As of late, forces of evil have amassed great power, posing a threat to the entire world. Being the main representative of the Light, it is Iris' duty to maintain the balance of the world and fight off the darkness in her kingdom.\n\nMeanwhile in the Kingdom of Black, rampaging monsters annihilate a certain boy's village, leaving him the sole survivor. As he grieves in hopelessness, an armored man named Skeer notices the child and comforts him. Soon after, Skeer recognizes the boy's potential to change the kingdom's status quo and makes him his heir before passing away. The boy then vows to become the Prince of Darkness—the one who will replace the King—to bring the world back to its rightful path.\n\nAs Iris and Prince of Darkness each challenge the impending doom the world faces in their own respective ways, their destinies will converge with each other, and perhaps, their bond will decide the fate of the world.\n\n[Written by MAL Rewrite]",
+  "mean": 5.39,
+  "rank": 11891,
+  "popularity": 2109,
+  "num_list_users": 97298,
+  "num_scoring_users": 41719,
+  "nsfw": "white",
+  "created_at": "2018-12-16T08:15:31+00:00",
+  "updated_at": "2022-11-27T15:20:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "22:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1427,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 6774,
+  "title": "Kuuchuu Buranko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/18386.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/18386l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kuchu Buranko",
+      "Trapeze",
+      "Flying Trapeze"
+    ],
+    "en": "Welcome to Irabu's Office",
+    "ja": "空中ブランコ"
+  },
+  "start_date": "2009-10-15",
+  "end_date": "2009-12-24",
+  "synopsis": "The world of psychology is far from strange to the unusual Dr. Ichirou Irabu, a resident psychiatrist of Irabu General Hospital. He and his charming nurse Mayumi run through several patients, each suffering from a mental illness that harms their everyday life. \n\nPatients should be wary of the seductive Mayumi, with her spellbinding looks and devilishly short pink nurse uniform. On the other hand, the doctor seems to have three separate personalities: a child with an oversized lab coat; an intelligent, youthful man with feminine traits; and a selfish, outgoing green bear. While curing his patients in questionable ways, Dr. Irabu often tries to gain something from them outside of his profession—and in doing so, occasionally forgets his role as a doctor.\n\nAs each patient struggles to face the nature of their distress, an obvious yet invisible thread ties their paths together.\n\n[Written by MAL Rewrite]",
+  "mean": 7.91,
+  "rank": 765,
+  "popularity": 2157,
+  "num_list_users": 94026,
+  "num_scoring_users": 25303,
+  "nsfw": "white",
+  "created_at": "2009-07-08T18:29:23+00:00",
+  "updated_at": "2024-02-06T05:50:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:45"
+  },
+  "source": "novel",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

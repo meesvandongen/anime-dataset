@@ -1,0 +1,68 @@
+{
+  "id": 1398,
+  "title": "Macross Dynamite 7",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1412/138778.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1412/138778l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Macross 7 Dynamite"
+    ],
+    "en": "",
+    "ja": "マクロスダイナマイト7"
+  },
+  "start_date": "1997-12-18",
+  "end_date": "1998-08-25",
+  "synopsis": " Less than a year after the events that transpired in the Macross 7 TV series, Basara leaves Fire Bomber and travels to the planet Zola. There, he meets a girl named Elma, who is a big fan of Fire Bomber. It is also on this planet where he must once again use his Spiritia powers; this time, to stop an army of poachers and Elma's father Graham from killing a group of space whales travelling within the planetary system.",
+  "mean": 6.83,
+  "rank": 5063,
+  "popularity": 5582,
+  "num_list_users": 13859,
+  "num_scoring_users": 5671,
+  "nsfw": "white",
+  "created_at": "2006-08-20T16:43:04+00:00",
+  "updated_at": "2022-12-13T12:40:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

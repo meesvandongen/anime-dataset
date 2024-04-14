@@ -1,0 +1,61 @@
+{
+  "id": 16916,
+  "title": "Kuroko no Basket: Tip Off",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/76803.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/76803l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kuroko no Basket Special",
+      "Kuroko no Basket Episode 22.5"
+    ],
+    "en": "Kuroko's Basketball: Tip Off",
+    "ja": "黒子のバスケ 第22.5Q 「Tip Off」"
+  },
+  "start_date": "2013-02-22",
+  "end_date": "2013-02-22",
+  "synopsis": "Episode 22.5 bundled with BD/DVD volume 8.\n\nThe episode covers Kuroko's past, when he was part of the \"Generation of Miracles.\" ",
+  "mean": 7.8,
+  "rank": 987,
+  "popularity": 2015,
+  "num_list_users": 104709,
+  "num_scoring_users": 57172,
+  "nsfw": "white",
+  "created_at": "2012-12-28T15:46:24+00:00",
+  "updated_at": "2022-04-14T12:58:27+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1434,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

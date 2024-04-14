@@ -1,0 +1,58 @@
+{
+  "id": 48363,
+  "title": "RPG Fudousan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1680/122002.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1680/122002l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "RPG Real Estate",
+    "ja": "RPG不動産"
+  },
+  "start_date": "2022-04-06",
+  "end_date": "2022-06-22",
+  "synopsis": "In a world at peace 15 years after the defeat of the demon lord, a newly graduated mage named Kotone Kazairo moves to Dali—the royal capital of the Kingdom of Actus—to begin a new chapter in her life. To find a place to settle, the 16-year-old goes to a real estate firm called Rent Plan Guide (RPG). There, she meets its employees: the pragmatic priest Rufuria, the tomboyish warrior Rakira, and the adorable demihuman Fa.\n\nCoincidentally, Kotone is also set to work at RPG Real Estate and wastes no time learning about the business from her coworkers. With many housing options available to suit the varied eccentricities of its diverse customer pool, RPG Real Estate strives to deliver perfect matches for clients' specific needs, but it is not always an easy task. Even so, Kotone and her colleagues are determined to bring smiles to the faces of their patrons—one home at a time!\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.73,
+  "rank": 5574,
+  "popularity": 3232,
+  "num_list_users": 46272,
+  "num_scoring_users": 15623,
+  "nsfw": "white",
+  "created_at": "2021-02-26T13:06:18+00:00",
+  "updated_at": "2023-02-13T18:00:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "21:30"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

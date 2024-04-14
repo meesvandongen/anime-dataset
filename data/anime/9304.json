@@ -1,0 +1,41 @@
+{
+  "id": 9304,
+  "title": "Happy Day",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1385/134028.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1385/134028l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seoul Bijin Kisha: Aiyoku Insider"
+    ],
+    "en": "",
+    "ja": "ソウル美人記者 愛欲インサイダー"
+  },
+  "start_date": "2002-04-26",
+  "end_date": "2002-04-26",
+  "synopsis": "A 2000 film originally banned in South Korea, the first animation to have been denied a rating. Released later in 2003 in Japan with the title Seoul Bijin Kisha: Aiyoku Insider, completely dubbed.\n\n(Source: AniDB)",
+  "mean": 5.73,
+  "popularity": 14404,
+  "num_list_users": 753,
+  "num_scoring_users": 119,
+  "nsfw": "gray",
+  "created_at": "2010-08-05T19:49:50+00:00",
+  "updated_at": "2017-07-03T17:51:27+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "average_episode_duration": 5100,
+  "rating": "rx",
+  "studios": []
+}

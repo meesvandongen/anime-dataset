@@ -1,0 +1,43 @@
+{
+  "id": 7751,
+  "title": "Midnight Horror School",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/87510.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/87510l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ミッドナイトホラースクール"
+  },
+  "start_date": "2003-10-01",
+  "end_date": "2004-03-24",
+  "synopsis": "The school has 26 students with each name of them beginning with a letter of the alphabet in order and a color, 3 teachers, 3 classrooms, a library, a cafeteria, a music room, a playroom, a fountain, a skeleton playground, a graveyard and several school staff. \n\n(Source: Wikipedia)",
+  "mean": 6.23,
+  "rank": 8445,
+  "popularity": 13651,
+  "num_list_users": 931,
+  "num_scoring_users": 137,
+  "nsfw": "white",
+  "created_at": "2009-12-26T01:49:08+00:00",
+  "updated_at": "2022-11-01T20:00:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "15:30"
+  },
+  "average_episode_duration": 660,
+  "studios": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": 56622,
+  "title": "Yankee Hamster Season 4",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1581/138432.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1581/138432l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Delinquent Hamsters Season 4",
+    "ja": "ヤンキーハムスター シーズン４"
+  },
+  "start_date": "2023-10-06",
+  "synopsis": "The fourth season of Yankee Hamster.",
+  "rank": 14933,
+  "popularity": 21140,
+  "num_list_users": 153,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2023-09-11T02:28:16+00:00",
+  "updated_at": "2023-12-10T02:12:00+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1762,
+      "name": "Piso Studio"
+    }
+  ]
+}

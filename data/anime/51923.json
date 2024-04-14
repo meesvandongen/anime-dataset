@@ -1,0 +1,54 @@
+{
+  "id": 51923,
+  "title": "Warau Arsnotoria Sun!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1823/124696.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1823/124696l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Smile of the Arsnotoria the Animation",
+    "ja": "咲う アルスノトリア すんっ！"
+  },
+  "start_date": "2022-07-06",
+  "end_date": "2022-09-21",
+  "synopsis": "In the magical academic city of Ashram, girls known as Pentagrams study general education, magic, and etiquette to become proper ladies. Hidden from the rest of the world, the school is like a secret garden that is home to blossoming flowers. However, bugs sensitive to magic may target and trample them; as one of their tasks, the girls must exterminate these insects.\n\nThe smileless Pentagram Arsnotoria lives in the fifth dorm house alongside her adored roommates: the cheerful Mell, the self-paced Little Alberta, the confident Picatrix, and the cool Abramelin. No matter what time of day, they hang out together as much as possible, and even throw tea parties in their secret room after completing their duties. The girls live in peace as they work toward their goal—but there may be more to Ashram and the Pentagrams beyond the calm life they have come to cherish.\n\n[Written by MAL Rewrite]\n",
+  "mean": 5.82,
+  "rank": 10404,
+  "popularity": 4180,
+  "num_list_users": 27978,
+  "num_scoring_users": 7867,
+  "nsfw": "white",
+  "created_at": "2022-05-25T10:35:16+00:00",
+  "updated_at": "2022-10-12T16:25:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "21:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

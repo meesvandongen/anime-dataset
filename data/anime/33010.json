@@ -1,0 +1,78 @@
+{
+  "id": 33010,
+  "title": "FLCL Progressive",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1499/93700.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1499/93700l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "FLCL 2",
+      "Fooly Cooly Progressive",
+      "Furi Kuri Progressive"
+    ],
+    "en": "FLCL Progressive",
+    "ja": "フリクリ プログレ"
+  },
+  "start_date": "2018-09-28",
+  "end_date": "2018-09-28",
+  "synopsis": "Hidomi Hibajiri is a dissilusioned young girl who never takes off her headphones. Her whole life consists of going to school, helping out at her mother's cafe, and listening to music. And with nothing else to break the crippling monotony, she keeps her headphones on at all times. That is, until she is run over by a mysterious guitar-wielding woman.\n\nThat same night, a robot barges into Hidomi’s room along with a boy from her class, Ko Ide, and the kids are chased around town together. They're saved by the guitar-wielding woman from before, but now Hidomi's got a horn growing from her forehead? Who knows where these robots are coming from, what kind of vespa woman this weird guitar woman is warning her about, or what this thing on her forehead is, but it doesn't look like Hidomi is going to be able to ignore all this with headphones!\n\n[Written by MAL Rewrite]",
+  "mean": 6.34,
+  "rank": 7807,
+  "popularity": 1679,
+  "num_list_users": 132781,
+  "num_scoring_users": 40652,
+  "nsfw": "white",
+  "created_at": "2016-03-25T06:18:56+00:00",
+  "updated_at": "2022-04-18T01:46:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 8160,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 1278,
+      "name": "Signal.MD"
+    },
+    {
+      "id": 1317,
+      "name": "Production GoodBook"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 5205,
+  "title": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/56619.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/56619l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kara no Kyoukai: The Garden of Sinners Movie 7",
+      "Borderline of Emptiness: Murder Speculation (Part 2)",
+      "The Garden of Sinners: ...not nothing heart"
+    ],
+    "en": "The Garden of Sinners Chapter 7: A Study in Murder - Part 2",
+    "ja": "劇場版 空の境界 the Garden of sinners 第七章『殺人考察（後）』"
+  },
+  "start_date": "2009-08-08",
+  "end_date": "2009-08-08",
+  "synopsis": "In February 1999, a string of murders has Shiki Ryougi and Mikiya Kokutou on edge. These crimes share a disturbing resemblance to a similar set of homicides from 1995, when Shiki and Mikiya first met, and awaken a dark, murderous desire that has laid dormant within Shiki's soul ever since then.\n\nWith Shiki under suspicion due to her involvement in the past killings and supposed resemblance to the killer, she and Mikiya set out to find the true perpetrator. In the midst of their separate investigations, Mikiya grows increasingly concerned with Shiki's well-being and hurries to find the one responsible in order to protect Shiki from her own impulses. With the lead he receives from his cousin, police investigator Daisuke Akimi, Mikiya is led into the underbelly of Mifune City, as the salvation of Shiki's soul lies in his determination to prove her innocence once and for all.\n\n[Written by MAL Rewrite]",
+  "mean": 8.38,
+  "rank": 194,
+  "popularity": 1163,
+  "num_list_users": 206840,
+  "num_scoring_users": 112107,
+  "nsfw": "white",
+  "created_at": "2008-09-06T21:40:12+00:00",
+  "updated_at": "2023-01-24T00:11:12+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 7283,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

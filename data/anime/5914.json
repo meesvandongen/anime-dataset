@@ -1,0 +1,66 @@
+{
+  "id": 5914,
+  "title": "Kanamemo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/52677.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/52677l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "かなめも"
+  },
+  "start_date": "2009-07-06",
+  "end_date": "2009-09-28",
+  "synopsis": "Middle schooler Kana Nakamachi's life drastically changes when her grandmother passes away. Leaving behind an empty house, Kana learns that no one can provide her lodging due to her young age. Eventually, she stumbles upon the Fuhshin Gazette, a local newspaper delivery business who is able to provide her with a place to stay if she works for them in return.\n\nThe small store is staffed by several unique people: the sweets-loving Yume Kitaoka and her girlfriend Yuuki Minami; the frugal Hinata Azuma; the alcoholic Haruka Nishida; and the young but mature Saki Amano. It is not all fun and games at the Fuhshin Gazette, though, as Kana must deal with long working hours, energetic dogs guarding mailboxes, and confusing delivery routes. Add in a small rivalry with Mika Kujiin, a girl from a competing store, and Kana will have more than enough to keep her hands full!\n\n[Written by MAL Rewrite]",
+  "mean": 6.84,
+  "rank": 5015,
+  "popularity": 3528,
+  "num_list_users": 39728,
+  "num_scoring_users": 15380,
+  "nsfw": "white",
+  "created_at": "2009-01-17T19:06:27+00:00",
+  "updated_at": "2022-01-12T06:45:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:30"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 6293,
+  "title": "Koukou Butouden Crows",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/24261.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/24261l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koukou Butouden Crows 2"
+    ],
+    "en": "Crows",
+    "ja": "高校武闘伝 クローズ"
+  },
+  "start_date": "1994-01-28",
+  "end_date": "1994-06-24",
+  "synopsis": "Bouya Harumichi is a new transfer student to Suzuran all-boys high school, a place where only the worst delinquents assemble. Due to its large amount of delinquents who are hated by the general people for their inauspiciousness, similarly to crows, it is also known as \"Crows High School.\"\n\nHarumichi is an insanely strong fighter but has an irresponsible personality. How will he act in this new environment where everyone is a delinquent?\n\n(Source: MU)",
+  "mean": 6.78,
+  "rank": 5307,
+  "popularity": 8419,
+  "num_list_users": 5034,
+  "num_scoring_users": 2080,
+  "nsfw": "white",
+  "created_at": "2009-04-01T01:40:49+00:00",
+  "updated_at": "2022-03-02T03:03:54+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1994,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2816,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 452,
+      "name": "Knack Productions"
+    }
+  ]
+}

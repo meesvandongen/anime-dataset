@@ -1,0 +1,51 @@
+{
+  "id": 35047,
+  "title": "Mirai e no Tegami: Kono Michi no Tochuu kara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/84578.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/84578l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Letter to the Future: Midway Along the Path"
+    ],
+    "en": "",
+    "ja": "みらいへの手紙~この道の途中から~"
+  },
+  "start_date": "2016-02-15",
+  "end_date": "2017-03-06",
+  "synopsis": "Gainax's Fukushima-based animation studio is working on a project for Fukushima Prefecture which will highlight the area's recovery efforts since the 2011 Touhoku earthquake and tsunami and the disaster at the Fukushima Daiichi Nuclear Power Plant. \n\n(Source: Crunchyroll)",
+  "rank": 16506,
+  "popularity": 17353,
+  "num_list_users": 384,
+  "num_scoring_users": 83,
+  "nsfw": "white",
+  "created_at": "2017-03-08T06:44:28+00:00",
+  "updated_at": "2018-11-14T16:41:05+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 949,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1314,
+      "name": "Gaina"
+    }
+  ]
+}

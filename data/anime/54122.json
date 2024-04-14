@@ -1,0 +1,46 @@
+{
+  "id": 54122,
+  "title": "Ooyukiumi no Kaina: Hoshi no Kenja",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1501/138171.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1501/138171l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kaina of the Great Snow Sea: Star Sage",
+    "ja": "大雪海のカイナ ほしのけんじゃ"
+  },
+  "start_date": "2023-10-13",
+  "end_date": "2023-10-13",
+  "synopsis": "A world blanketed in an endless and ever-growing ocean of snow. The people eke out a living, either huddled around the roots of enormous trees dotting the surface, or high in the canopy, which spreads over the planet's atmosphere.\n\nA chance meeting between Kaina, a youth from the canopy, and Ririha, a young woman from the surface, sets off a chain of events that will change the fate of the world. \n\n(Source: Polygon Pictures)",
+  "mean": 7.03,
+  "rank": 4151,
+  "popularity": 6483,
+  "num_list_users": 9619,
+  "num_scoring_users": 2320,
+  "nsfw": "white",
+  "created_at": "2023-01-07T15:56:34+00:00",
+  "updated_at": "2024-03-13T05:22:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 5948,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1023,
+      "name": "Polygon Pictures"
+    }
+  ]
+}

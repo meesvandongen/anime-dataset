@@ -1,0 +1,66 @@
+{
+  "id": 2335,
+  "title": "Kenyuu Densetsu Yaiba",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/71953.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/71953l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Legendary Brave Swordsman Yaiba",
+    "ja": "剣勇伝説ＹＡＩＢＡ"
+  },
+  "start_date": "1993-04-09",
+  "end_date": "1994-04-01",
+  "synopsis": "Kurogane Yaiba is a boy who doesn't want to become what any regular kid would: A samurai. That's why he undergoes a hard training with his father, knowing only the forest as his world. Then, one day, he is sent to Japan, where he has to deal with a whole new civilized reality, meeting the Mine family, the evil Onimaru and even the legendary Musashi, having lots of dangerous adventures, becoming stronger everyday.\n\n(Source: ANN, edited) ",
+  "mean": 7.15,
+  "rank": 3525,
+  "popularity": 6598,
+  "num_list_users": 9205,
+  "num_scoring_users": 4173,
+  "nsfw": "white",
+  "created_at": "2007-04-23T12:32:36+00:00",
+  "updated_at": "2021-10-26T03:22:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "18:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1346,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 413,
+      "name": "Pastel"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 44046,
+  "title": "Heart",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1941/118591.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1941/118591l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "HEART"
+  },
+  "start_date": "2011-03-06",
+  "end_date": "2011-03-06",
+  "synopsis": "Music video for the song Heart by group_inou.",
+  "popularity": 20585,
+  "num_list_users": 183,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2020-11-18T21:37:01+00:00",
+  "updated_at": "2021-10-06T21:42:54+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 375,
+  "rating": "pg_13",
+  "studios": []
+}

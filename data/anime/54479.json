@@ -1,0 +1,43 @@
+{
+  "id": 54479,
+  "title": "Sasir-eun The Truth Is",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1596/133388.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1596/133388l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "사실은 The Truth Is"
+  },
+  "start_date": "2016-03-21",
+  "end_date": "2016-03-21",
+  "synopsis": "Music video for the song \"Sasir-eun The Truth Is\" by Jay Park.",
+  "popularity": 21806,
+  "num_list_users": 124,
+  "num_scoring_users": 71,
+  "nsfw": "white",
+  "created_at": "2023-02-15T14:45:16+00:00",
+  "updated_at": "2023-02-15T17:16:52+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 237,
+  "rating": "pg",
+  "studios": []
+}

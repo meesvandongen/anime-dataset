@@ -1,0 +1,44 @@
+{
+  "id": 27457,
+  "title": "Porong Porong Pororo 4",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/66623.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/66623l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pororo the Little Penguin 4",
+    "ja": "뽀롱뽀롱 뽀로로 4"
+  },
+  "start_date": "2012-02-29",
+  "end_date": "2012-05-24",
+  "synopsis": "A direct continuation of the previous season where an anthropomorphic car gets separated from his home and arrive in Pororo's village and beings to live there.",
+  "mean": 5.46,
+  "rank": 11727,
+  "popularity": 15838,
+  "num_list_users": 518,
+  "num_scoring_users": 182,
+  "nsfw": "white",
+  "created_at": "2014-09-08T17:02:12+00:00",
+  "updated_at": "2021-10-19T21:58:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "average_episode_duration": 660,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 9834,
+  "title": "Level E",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/29668.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/29668l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Level E",
+    "ja": "レベルE"
+  },
+  "start_date": "2011-01-11",
+  "end_date": "2011-04-05",
+  "synopsis": "Tokyo-born schoolboy Yukitaka Tsutsui is moving to Yamagata Prefecture for high school on a baseball scholarship. Since he went to the top middle school in Japan for baseball, the townsfolk are very excited about his arrival. However, when he arrives in his apartment, he encounters a strange man nonchalantly reading and wearing his clothes! The stranger claims to be an alien who crash-landed on Earth and has nowhere to go. Revealing himself to be Baka Ki El Dogra, the crown prince of the planet Dogra, he is just one of the hundreds of aliens that have already made Earth their home.\n\nDespite his regal origins, the prince is an infamous intergalactic fool who thinks nothing of inconveniencing others for his own amusement. Whether he is running ridiculous tests on his subordinates, giving strange powers to random children, or just generally being a nuisance, nobody is safe from the idiot prince's antics!\n\n[Written by MAL Rewrite]",
+  "mean": 7.41,
+  "rank": 2222,
+  "popularity": 2142,
+  "num_list_users": 94986,
+  "num_scoring_users": 40052,
+  "nsfw": "white",
+  "created_at": "2010-11-13T19:25:01+00:00",
+  "updated_at": "2022-04-12T19:21:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday"
+  },
+  "source": "manga",
+  "average_episode_duration": 1464,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    },
+    {
+      "id": 287,
+      "name": "David Production"
+    }
+  ]
+}

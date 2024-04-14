@@ -1,0 +1,50 @@
+{
+  "id": 37104,
+  "title": "Slow Start: Web Yokoku Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/90006.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/90006l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "『スロウスタート』Web予告ムービー"
+  },
+  "start_date": "2018-01-12",
+  "end_date": "2018-03-23",
+  "synopsis": "Web-exclusive next episode previews for Slow Start. These contain unique chibi animations and are released on Slow Start's official Twitter page as well as Aniplex's official YouTube channel. They are released about a day prior the full episode airing.",
+  "mean": 5.97,
+  "rank": 9732,
+  "popularity": 9869,
+  "num_list_users": 3094,
+  "num_scoring_users": 597,
+  "nsfw": "white",
+  "created_at": "2018-01-12T10:24:04+00:00",
+  "updated_at": "2022-03-03T17:35:50+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 38,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

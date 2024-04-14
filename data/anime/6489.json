@@ -1,0 +1,82 @@
+{
+  "id": 6489,
+  "title": "Zero no Tsukaima: Princesses no Rondo Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/22142.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/22142l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zero no Tsukaima: Princesses no Rondo DVD Specials",
+      "Trysting Theater of Love",
+      "Trysting Ai no Gekijou"
+    ],
+    "en": "The Familiar of Zero: Rondo of Princesses Picture Drama",
+    "ja": "ゼロの使い魔～三美姫の輪舞～ ピクチャードラマ"
+  },
+  "start_date": "2008-09-25",
+  "end_date": "2009-03-25",
+  "synopsis": "Picture Drama episodes included in each DVD volumes of Zero no Tsukaima: Princesses no Rondo.\n\nEpisode Titles:\nvol.1 「Maid's Afternoon: Whip of Love」(メイドの午後　愛のムチ編)\nvol.2 「Maid's Afternoon: Afternoon for Two」(メイドの午後　二人きりの昼下がり編)\nvol.3 「Maid's Afternoon: The Last Night」 (メイドの午後　最後の夜編)\nvol.4 「Countess Butterfly's Graceful Day」 Prologue (バタフライ伯爵夫人の優雅な一日 序章)\nvol.5 「Countess Butterfly's Graceful Day」 Chapter 1 (バタフライ伯爵夫人の優雅な一日 第1章)\nvol.6 「Countess Butterfly's Graceful Day」 Chapter 2 (バタフライ伯爵夫人の優雅な一日 第2章)\nvol.7 「Countess Butterfly's Graceful Day」 The Last Chapter (バタフライ伯爵夫人の優雅な一日 最終章)",
+  "mean": 6.91,
+  "rank": 4683,
+  "popularity": 3095,
+  "num_list_users": 50156,
+  "num_scoring_users": 22239,
+  "nsfw": "white",
+  "created_at": "2009-05-14T04:27:48+00:00",
+  "updated_at": "2023-10-11T21:28:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 202,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

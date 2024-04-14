@@ -1,0 +1,43 @@
+{
+  "id": 56051,
+  "title": "Heaven and Hell",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1969/137298.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1969/137298l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Heaven and Hell"
+  },
+  "start_date": "2020-02-01",
+  "end_date": "2020-02-01",
+  "synopsis": "Music video for the song Heaven and Hell by DUSTCELL.",
+  "popularity": 22398,
+  "num_list_users": 105,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2023-07-22T06:52:30+00:00",
+  "updated_at": "2023-07-22T14:30:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 250,
+  "rating": "pg_13",
+  "studios": []
+}

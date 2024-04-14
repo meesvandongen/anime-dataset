@@ -1,0 +1,62 @@
+{
+  "id": 51213,
+  "title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1561/125302.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1561/125302l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Vermeil in Gold",
+    "ja": "金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～"
+  },
+  "start_date": "2022-07-05",
+  "end_date": "2022-09-20",
+  "synopsis": "Alto Goldfilled, a diligent student at the Ortigia Academy of Magic, aspires to become a powerful sorcerer. But he is unable to become one as, despite his excellent grades and strong commitment to his studies, he fails his summoning class. With the threat of repeating a year hanging over his head, Alto tries following an old, worn-out grimoire in a desperate attempt to resolve his situation.\n\nTo his surprise, he succeeds and summons a powerful demon named Vermeil. As a sign of gratitude for releasing her, Vermeil agrees to become Alto's familiar, sealing their relationship with a deep kiss. Little does Alto know what else he is capable of and what Vermeil's past hides.\n\n[Written by MAL Rewrite]",
+  "mean": 6.81,
+  "rank": 5152,
+  "popularity": 882,
+  "num_list_users": 274295,
+  "num_scoring_users": 111494,
+  "nsfw": "white",
+  "created_at": "2022-03-10T00:44:07+00:00",
+  "updated_at": "2024-03-05T15:33:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1421,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2405,
+      "name": "Staple Entertainment"
+    }
+  ]
+}

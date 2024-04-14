@@ -1,0 +1,68 @@
+{
+  "id": 17080,
+  "title": "Soukyuu no Fafner: Dead Aggressor - Exodus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/68565.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/68565l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fafner in the Azure: Dead Aggressor - Exodus"
+    ],
+    "en": "Fafner Exodus",
+    "ja": "蒼穹のファフナー Dead Aggressor EXODUS"
+  },
+  "start_date": "2015-01-09",
+  "end_date": "2015-04-03",
+  "synopsis": "2150 AD. The battle against the silicon-based Festums from outer space reaches a new phase. Fragments of the North Pole Mir were scattered throughout the world. Eventually, they began to act on their own as independent Mirs. Most hated humanity and attacked them, but some chose to coexist with mankind. Some with the same way of thinking existed within the human race, as well: those who were both human and Festum. They added to the chaos of the battle and brought about even more hatred. \n\n(Source: Crunchyroll)",
+  "mean": 7.38,
+  "rank": 2373,
+  "popularity": 4612,
+  "num_list_users": 22452,
+  "num_scoring_users": 7494,
+  "nsfw": "white",
+  "created_at": "2013-01-08T13:15:49+00:00",
+  "updated_at": "2023-05-20T07:46:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:19"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 898,
+      "name": "I.Gzwei"
+    }
+  ]
+}

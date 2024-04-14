@@ -1,0 +1,45 @@
+{
+  "id": 56201,
+  "title": "Akubi no Mukou ni Tobidasou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1475/137627.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1475/137627l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "あくびのむこうにとびだそう"
+  },
+  "start_date": "1970-05-02",
+  "end_date": "1970-05-02",
+  "synopsis": "Music video for the song Akubi no Mukou ni Tobidasou by Nishirokugou Shounen Shoujo Gasshoudan that was featured on NHK's Minna no Uta program.",
+  "popularity": 23297,
+  "num_list_users": 89,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2023-08-07T05:54:13+00:00",
+  "updated_at": "2023-08-07T05:54:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1970,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

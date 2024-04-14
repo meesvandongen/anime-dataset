@@ -1,0 +1,65 @@
+{
+  "id": 16680,
+  "title": "Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/47615.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/47615l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Pocket Monsters Best Wishes 2: Shinsoku no Genosect",
+      "ExtremeSpeed Genesect: Mewtwo Awakens"
+    ],
+    "en": "Pokémon the Movie: Genesect and the Legend Awakened",
+    "ja": "劇場版 ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒"
+  },
+  "start_date": "2013-07-13",
+  "end_date": "2013-07-13",
+  "synopsis": "The homeland of the Genesect exists no more. After three hundred million years, the snowy mountains where the Paleozoic Pokémon once lived are no longer habitable—but not all of the race are actually extinct. Several specimens are still alive and desperate to find a new place to call home. Led by a Shiny Genesect and accompanied by the Legendary Pokémon Mewtwo, the vagabond creatures arrive in New Tork City.\n\nPerceiving the city skyline as similar to their initial habitat, the Genesect take over the city center, driving out other Pokémon and threatening the existence of the local populace. On top of that, the Genesect leader confronts Mewtwo in a cunning, fast-paced duel that is bound to destroy the entire city—and it's up to Satoshi and his companions to save the city and reconcile the feuding Pokémon.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.35,
+  "rank": 7751,
+  "popularity": 3144,
+  "num_list_users": 48978,
+  "num_scoring_users": 28687,
+  "nsfw": "white",
+  "created_at": "2012-12-14T11:53:26+00:00",
+  "updated_at": "2022-03-29T21:03:50+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 4241,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

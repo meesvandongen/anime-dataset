@@ -1,0 +1,53 @@
+{
+  "id": 57513,
+  "title": "Shenyuan Youxi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1774/140345.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1774/140345l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shen Yuan You Xi",
+      "The Abyss Game",
+      "Game of Abyss",
+      "深渊游戏动画"
+    ],
+    "en": "Fatal Rule",
+    "ja": "深渊游戏"
+  },
+  "start_date": "2023-12-14",
+  "end_date": "2024-03-14",
+  "synopsis": "",
+  "rank": 17956,
+  "popularity": 17813,
+  "num_list_users": 349,
+  "num_scoring_users": 91,
+  "nsfw": "white",
+  "created_at": "2023-12-12T05:52:27+00:00",
+  "updated_at": "2024-03-14T12:44:51+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1344,
+  "rating": "pg_13",
+  "studios": []
+}

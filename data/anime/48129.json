@@ -1,0 +1,44 @@
+{
+  "id": 48129,
+  "title": "Mofa Shu Leyuan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1923/115238.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1923/115238l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "魔法鼠乐园"
+  },
+  "start_date": "2021-01-23",
+  "end_date": "2021-01-23",
+  "synopsis": "",
+  "rank": 16556,
+  "popularity": 21289,
+  "num_list_users": 147,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2021-02-20T10:01:35+00:00",
+  "updated_at": "2021-05-29T11:45:34+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 4913,
+  "rating": "pg",
+  "studios": []
+}

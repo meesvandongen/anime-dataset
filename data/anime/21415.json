@@ -1,0 +1,61 @@
+{
+  "id": 21415,
+  "title": "Machine-Doll wa Kizutsukanai Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/56525.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/56525l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Machine Girl wa Kizutsukanai Special",
+      "Machine-Doll wa Kizutsukanai Special"
+    ],
+    "en": "Unbreakable Machine-Doll Special",
+    "ja": "機巧少女は傷つかない"
+  },
+  "start_date": "2013-12-25",
+  "end_date": "2014-05-28",
+  "synopsis": "Original animation to be included in the BD and DVD volume releases of Machine-Doll wa Kizutsukanai.\n\nVolume 1: \"Soshite Futari wa Manabisha e (And So They Arrive at School)\"\nVolume 2: \"Irori, Rotenburo de Sosou suru (Irori Has an Accident at the Open-Air Bath)\"\nVolume 3: \"Char and Frey, Senritsu no Bathroom (Charl, Frey, and the Bathroom of Terror)\"\nVolume 4: \"Akabane Nadeshiko, Natsu no Yo no Yume (Nadeshiko Akabane, Midsummer Night's Dream)\"\nVolume 5: \"Kojin Jugyou: Imishitsu de Bijo Futari to~ (Private Lesson - Two Beauties in an Infirmary)\"\nVolume 6: \"Bishoujo Shuugou! Mizugi Darake no Daisoudou (Pretty Girls Gather! Swimsuit-Stubbed Pandemonium)\"",
+  "mean": 6.71,
+  "rank": 5700,
+  "popularity": 3631,
+  "num_list_users": 37842,
+  "num_scoring_users": 16626,
+  "nsfw": "gray",
+  "created_at": "2013-11-29T08:27:30+00:00",
+  "updated_at": "2022-11-14T08:48:12+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 276,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

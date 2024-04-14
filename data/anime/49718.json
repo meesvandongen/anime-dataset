@@ -1,0 +1,60 @@
+{
+  "id": 49718,
+  "title": "Huyao Xiao Hongniang: Yue Hong 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1933/118633.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1933/118633l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Huyao Xiao Hongniang Web Movie"
+    ],
+    "en": "",
+    "ja": "狐妖小红娘 月红2"
+  },
+  "start_date": "2021-08-14",
+  "end_date": "2021-08-14",
+  "synopsis": "",
+  "mean": 6.75,
+  "rank": 5470,
+  "popularity": 12713,
+  "num_list_users": 1208,
+  "num_scoring_users": 176,
+  "nsfw": "white",
+  "created_at": "2021-08-31T13:00:50+00:00",
+  "updated_at": "2022-04-12T05:58:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 3900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1593,
+      "name": "Success Corp."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 6567,
+  "title": "Urusei Yatsura: The Shougaibutsu Suieitaikai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/38671.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/38671l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Urusei Yatsura: Za Shougaibutsu Suiei Taikai",
+      "Urusei Yatsura: The Obstacle Course Swim Meet",
+      "It's a Rumic World: Urusei Yatsura"
+    ],
+    "en": "",
+    "ja": "ザ障害物水泳大会"
+  },
+  "start_date": "2008-07-30",
+  "end_date": "2008-07-30",
+  "synopsis": "On a very hot summer day in Tomobiki town, Lum, Ataru, and the rest of the gang are looking forward to using the school's pool. But the teachers have other plans: setting a ludicrous obstacle course between the students in their swimsuits and the pool... naturally this ends in complete chaos.\n\n(Source: AniDB)",
+  "mean": 7.04,
+  "rank": 4093,
+  "popularity": 7772,
+  "num_list_users": 6126,
+  "num_scoring_users": 2245,
+  "nsfw": "white",
+  "created_at": "2009-06-01T15:38:38+00:00",
+  "updated_at": "2022-11-05T04:18:40+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1659,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

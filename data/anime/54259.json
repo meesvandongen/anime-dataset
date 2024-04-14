@@ -1,0 +1,72 @@
+{
+  "id": 54259,
+  "title": "Rokudou no Onna-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1933/134709.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1933/134709l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rokudou no Akujo-tachi"
+    ],
+    "en": "Rokudo's Bad Girls",
+    "ja": "六道の悪女〈おんな〉たち"
+  },
+  "start_date": "2023-04-08",
+  "end_date": "2023-06-24",
+  "synopsis": "Tousuke Rokudou is a first-year attending Aomori High, a school full of delinquents. He is often bullied by his classmates due to his incompatibility with their behavior, the only exceptions being his two good friends who are also social outcasts. Frustrated at the way they are treated, the three wish they could stand up and claim the fun, peaceful school life of their dreams.\n\nHowever, Tousuke's life takes a drastic turn when he receives a package from his late grandfather containing their family heirloom, a scroll said to possess the power to save him from impending danger. Upon holding the scroll, a sudden glow emanates, leaving a strange mark on Tousuke's forehead.\n\nThinking that he's received the means to free himself and his friends from their daily treatment, Tousuke is shocked to find out that its effects are far different than what he had imagined. Although his bullying continues, he realizes that the mark from the scroll acts as a charm, capturing the hearts of delinquent girls—in particular, Ranna Himawari, the strongest of them all.\n\n[Written by MAL Rewrite]",
+  "mean": 6.43,
+  "rank": 7287,
+  "popularity": 3143,
+  "num_list_users": 49004,
+  "num_scoring_users": 19831,
+  "nsfw": "white",
+  "created_at": "2023-01-17T02:33:24+00:00",
+  "updated_at": "2023-05-15T21:36:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

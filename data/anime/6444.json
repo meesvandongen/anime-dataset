@@ -1,0 +1,58 @@
+{
+  "id": 6444,
+  "title": "Tegamibachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/71808.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/71808l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tegami Bachi: Letter Bee",
+    "ja": "テガミバチ"
+  },
+  "start_date": "2009-10-03",
+  "end_date": "2010-03-27",
+  "synopsis": "With his mother taken away from him and having lost everything, Lag Seeing is now a letter whose delivery has been assigned to Gauche Suede, a Letter Bee. Despite their troubling start, the two of them become friends, leading Lag to realize what his aim in life is: to deliver people's most important feelings in the form of letters, just as Gauche has done.\n\n[Written by MAL Rewrite]",
+  "mean": 7.6,
+  "rank": 1493,
+  "popularity": 1802,
+  "num_list_users": 121503,
+  "num_scoring_users": 45026,
+  "nsfw": "white",
+  "created_at": "2009-05-02T20:58:42+00:00",
+  "updated_at": "2023-04-17T06:03:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1471,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1129,
+      "name": "Pierrot Plus"
+    }
+  ]
+}

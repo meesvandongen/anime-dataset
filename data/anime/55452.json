@@ -1,0 +1,40 @@
+{
+  "id": 55452,
+  "title": "Yakousei no Ikimono",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1362/136096.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1362/136096l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "夜行性のいきもの"
+  },
+  "start_date": "2015-08-02",
+  "end_date": "2015-08-02",
+  "synopsis": "An experimental short film by Takahiro Shibata.",
+  "rank": 14909,
+  "popularity": 23078,
+  "num_list_users": 92,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2023-05-24T05:26:06+00:00",
+  "updated_at": "2023-05-24T07:05:31+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 270,
+  "rating": "pg_13",
+  "studios": []
+}

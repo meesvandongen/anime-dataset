@@ -1,0 +1,44 @@
+{
+  "id": 41278,
+  "title": "Nagseo feat. Yerin Baek",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1243/105964.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1243/105964l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Doodle feat. Yerin Baek",
+    "ja": "낙서 feat. 백예린"
+  },
+  "start_date": "2019-11-11",
+  "end_date": "2019-11-11",
+  "synopsis": "Music video directed by mareykrap for the single Nagseo feat. Yerin Baek by South Korean rapper Punchnello.",
+  "mean": 5.79,
+  "popularity": 18021,
+  "num_list_users": 332,
+  "num_scoring_users": 176,
+  "nsfw": "white",
+  "created_at": "2020-02-10T04:31:33+00:00",
+  "updated_at": "2020-06-24T04:05:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 186,
+  "rating": "g",
+  "studios": []
+}

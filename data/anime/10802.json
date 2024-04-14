@@ -1,0 +1,50 @@
+{
+  "id": 10802,
+  "title": "MonHun Nikki Girigiri Airou Mura G",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/29820.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/29820l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Monster Hunter Diary: Felyne Village on the Edge G",
+    "ja": "モンハン日記 ぎりぎりアイルー村G"
+  },
+  "start_date": "2011-07-01",
+  "end_date": "2011-09-29",
+  "synopsis": "This sequel will depict the comical adventures of the Airuu (Felyne), a feline monster species in CAPCOM's Monster Hunter game franchise, as they face numerous quests.\n\n(Source: ANN)",
+  "mean": 5.95,
+  "rank": 9796,
+  "popularity": 14319,
+  "num_list_users": 773,
+  "num_scoring_users": 221,
+  "nsfw": "white",
+  "created_at": "2011-06-09T21:45:00+00:00",
+  "updated_at": "2021-06-17T15:30:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

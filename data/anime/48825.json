@@ -1,0 +1,45 @@
+{
+  "id": 48825,
+  "title": "Kamiari Algorithm",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1444/114599.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1444/114599l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "神或アルゴリズム"
+  },
+  "start_date": "2021-02-25",
+  "end_date": "2021-02-25",
+  "synopsis": "Music video for Masayoshi Ooishi's Kamiari Algorithm.",
+  "mean": 6.86,
+  "popularity": 13988,
+  "num_list_users": 853,
+  "num_scoring_users": 421,
+  "nsfw": "white",
+  "created_at": "2021-04-26T06:50:38+00:00",
+  "updated_at": "2022-03-22T23:07:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 228,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1843,
+      "name": "TriF Studio"
+    }
+  ]
+}

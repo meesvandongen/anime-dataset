@@ -1,0 +1,66 @@
+{
+  "id": 1698,
+  "title": "Nodame Cantabile",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/11986.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/11986l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Nodame Cantabile",
+    "ja": "のだめカンタービレ"
+  },
+  "start_date": "2007-01-12",
+  "end_date": "2007-06-15",
+  "synopsis": "Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist—not only is he highly critical of himself, but of others as well. The only thing stopping Shinichi from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.\n\nDuring his fourth year at Japan's top music university, Shinichi happens to meet Megumi Noda or, as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Shinichi hears Nodame play the piano for the first time, he is in awe of the kind of music she creates. Nevertheless, Shinichi is dismayed to discover that Nodame is his neighbor, and worse, she ends up falling head over heels in love with him.\n\n[Written by MAL Rewrite]",
+  "mean": 8.26,
+  "rank": 302,
+  "popularity": 757,
+  "num_list_users": 314624,
+  "num_scoring_users": 129513,
+  "nsfw": "white",
+  "created_at": "2006-11-29T02:01:29+00:00",
+  "updated_at": "2023-01-17T03:33:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2007,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1350,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

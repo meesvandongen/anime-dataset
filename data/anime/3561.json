@@ -1,0 +1,64 @@
+{
+  "id": 3561,
+  "title": "Dennou Boukenki Webdiver",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1723/138550.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1723/138550l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Webdiver"
+    ],
+    "en": "Brain Adventure Record Webdiver",
+    "ja": "電脳冒険記ウェブダイバー"
+  },
+  "start_date": "2001-04-06",
+  "end_date": "2002-03-23",
+  "synopsis": "Set in the year 2100 where the world is tied together by a computer network. The children of the world become Web Divers, adapting their consciousnesses into data, and love to play together in the cyber park called Magical Gate. However, a mysterious computer virus appears beginning to destroy Magical Gate from the inside out. In cyberspace, programs called Web Knights have been created to protect the children. But, the computer virus has turned all the Web Knights against the children. The only Web Knight to escape the \"brainwashing\" is Gladion. Gladion seeks the help of Kaito Yuki, a Web Diver who is in the fourth grade. \n\n(Source: ANN)",
+  "mean": 6.95,
+  "rank": 4495,
+  "popularity": 10117,
+  "num_list_users": 2822,
+  "num_scoring_users": 1066,
+  "nsfw": "white",
+  "created_at": "2007-12-10T04:22:58+00:00",
+  "updated_at": "2023-06-04T18:20:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "18:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1460,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 81,
+      "name": "Radix"
+    }
+  ]
+}

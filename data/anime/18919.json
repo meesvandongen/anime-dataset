@@ -1,0 +1,55 @@
+{
+  "id": 18919,
+  "title": "The Midnight★Animal",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/53019.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/53019l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Midnight Animals"
+    ],
+    "en": "",
+    "ja": "ザ・ミッドナイト★アニマル"
+  },
+  "start_date": "2013-08-03",
+  "end_date": "2014-01-22",
+  "synopsis": "The story is set in Savannah's 2nd district, where diva-like animals gather in the dead of night to wax poetic about topics that transcend gender.\n\n(Source: ANN)",
+  "rank": 13857,
+  "popularity": 16373,
+  "num_list_users": 463,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2013-05-31T22:51:44+00:00",
+  "updated_at": "2015-03-15T17:45:52+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

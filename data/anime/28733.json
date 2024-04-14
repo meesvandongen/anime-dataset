@@ -1,0 +1,59 @@
+{
+  "id": 28733,
+  "title": "Ginga Tetsudou 999 (ONA)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/69363.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/69363l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Galaxy Express 999 (ONA)"
+    ],
+    "en": "",
+    "ja": "銀河鉄道９９９"
+  },
+  "start_date": "2002-09-09",
+  "end_date": "2004-07",
+  "synopsis": "A flash animation remake of the Ginga Tetsudou 999 series.",
+  "mean": 6.19,
+  "rank": 8632,
+  "popularity": 12339,
+  "num_list_users": 1361,
+  "num_scoring_users": 308,
+  "nsfw": "white",
+  "created_at": "2014-12-05T00:55:30+00:00",
+  "updated_at": "2021-04-27T19:14:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2002,
+    "season": "summer"
+  },
+  "average_episode_duration": 900,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

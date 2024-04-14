@@ -1,0 +1,47 @@
+{
+  "id": 44666,
+  "title": "Da Tang Fengyun 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1972/123655.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1972/123655l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Legend Second of Tang Dynasty",
+    "ja": "大唐风云2"
+  },
+  "start_date": "2018-12-01",
+  "end_date": "2018-12-01",
+  "synopsis": "",
+  "rank": 19068,
+  "popularity": 23673,
+  "num_list_users": 83,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2020-12-14T12:44:32+00:00",
+  "updated_at": "2022-05-07T06:47:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "average_episode_duration": 5280,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": 56369,
+  "title": "Samyang Ramen Original Musical",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1918/139466.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1918/139466l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "삼양라면 오리지널 뮤지컬"
+  },
+  "start_date": "2021-09-29",
+  "end_date": "2021-09-29",
+  "synopsis": "Samyang Ramen's 60th Anniversary music video by Kyuhyun.",
+  "popularity": 22854,
+  "num_list_users": 96,
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "created_at": "2023-08-19T12:52:12+00:00",
+  "updated_at": "2024-01-08T05:50:25+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 198,
+  "rating": "g",
+  "studios": []
+}

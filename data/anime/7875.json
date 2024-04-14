@@ -1,0 +1,49 @@
+{
+  "id": 7875,
+  "title": "Kanokon: Manatsu no Dai Shanikusai Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1771/121758.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1771/121758l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kanokon R Specials",
+      "Kanokon OVA Specials"
+    ],
+    "en": "Kanokon: The Great Midsummer Carnival Specials",
+    "ja": "かのこん ～真夏の大謝肉祭～"
+  },
+  "start_date": "2009-11-25",
+  "end_date": "2009-12-22",
+  "synopsis": "DVD/BD specials featuring more excessive fan-service than the OVA.",
+  "mean": 6.47,
+  "rank": 7059,
+  "popularity": 4893,
+  "num_list_users": 19631,
+  "num_scoring_users": 7605,
+  "nsfw": "gray",
+  "created_at": "2010-01-14T01:58:56+00:00",
+  "updated_at": "2021-09-08T22:37:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 187,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

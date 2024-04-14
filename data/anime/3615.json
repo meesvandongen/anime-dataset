@@ -1,0 +1,62 @@
+{
+  "id": 3615,
+  "title": "Neo Angelique Abyss",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/20960.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/20960l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ネオアンジェリーク Abyss"
+  },
+  "start_date": "2008-04-07",
+  "end_date": "2008-06-30",
+  "synopsis": "While the young Angelique lives out her days peacefully in her school, attacks from the monstrous Thanatos has been increasing everywhere else. Two Purifiers show up one day, men with the power to exterminate the Thanatos. One of them, Nyx, attempts to convince Angelique to join them in their work, as she has the power to be the only female Purifier. As Angelique hesitates, a Thanatos shows up in their school. Nyx and the other Purifier, Rayne, fight a losing battle. With her classmates falling prey to the Thanatos, and the Purifiers beaten to submission, Angelique's desire to save everyone awakens. She became the only female Purifier in their land of Arcadia, the one known as the \"Queen's Egg\".",
+  "mean": 6.79,
+  "rank": 5233,
+  "popularity": 3635,
+  "num_list_users": 37778,
+  "num_scoring_users": 15084,
+  "nsfw": "white",
+  "created_at": "2007-12-21T22:37:51+00:00",
+  "updated_at": "2023-09-19T02:58:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
+}

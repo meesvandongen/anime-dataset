@@ -1,0 +1,45 @@
+{
+  "id": 42662,
+  "title": "Fanta Jiisan no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1081/108845.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1081/108845l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ファンタ爺さんのうた"
+  },
+  "start_date": "2004-08-01",
+  "end_date": "2004-08-01",
+  "synopsis": "Music video for the song Fanta Jiisan no Uta by Yumi Ishikawa and the Morinoki Children's Choir (Morinoki Jidou Gasshoudan) that was featured on NHK's Minna no Uta program. The video features former NHK announcer Tsuneji Tsukagoshi's character Fanta Jiisan. Mr. Tsukagoshi also wrote the lyrics for the song and his younger brother, Teiji Tsukagoshi, did the illustrations for the video.",
+  "popularity": 20848,
+  "num_list_users": 168,
+  "num_scoring_users": 83,
+  "nsfw": "white",
+  "created_at": "2020-08-12T02:29:08+00:00",
+  "updated_at": "2020-08-18T12:29:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

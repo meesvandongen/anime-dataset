@@ -1,0 +1,60 @@
+{
+  "id": 12859,
+  "title": "One Piece Film: Z",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/44297.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/44297l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Movie 12"
+    ],
+    "en": "One Piece Film: Z",
+    "ja": "ワンピース　フィルム　﻿Ｚ"
+  },
+  "start_date": "2012-12-15",
+  "end_date": "2012-12-15",
+  "synopsis": "The Straw Hat Pirates enter the rough seas of the New World in search of the hidden treasures of the Pirate King, Gol D. Roger－One Piece. On their voyage, the pirates come across a terrifying, powerful man, former Marine Admiral Z.\n\nZ is accused of having stolen the \"Dyna Stones\", weapons believed to have the power to shake up the New World. The Marine Headquarters believes Z is about to use it to end the pirate era, and with it, the lives of many innocent people. In fear of such a phenomenal event, marines start to take action against the former admiral.\n\nEven if it means stumbling upon marines and the navy, the Straw Hat Pirates decided to chase after Z and stop him from causing havoc. As they continue to embark on their ventures, the pirates bump into new and familiar acquaintances.",
+  "mean": 8.12,
+  "rank": 471,
+  "popularity": 856,
+  "num_list_users": 283042,
+  "num_scoring_users": 179653,
+  "nsfw": "white",
+  "created_at": "2012-01-30T22:57:47+00:00",
+  "updated_at": "2022-04-18T00:04:39+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 6420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

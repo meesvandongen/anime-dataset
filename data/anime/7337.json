@@ -1,0 +1,56 @@
+{
+  "id": 7337,
+  "title": "Hetalia Axis Powers Movie: Paint it, White",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/30761.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/30761l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ginmaku Hetalia: Axis Powers - Paint it, White (Shiroku Nure!)"
+    ],
+    "en": "Hetalia Axis Powers: Paint it, White!",
+    "ja": "銀幕ヘタリア Axis Powers Paint it, White (白くぬれ！)"
+  },
+  "start_date": "2010-06-05",
+  "end_date": "2010-06-05",
+  "synopsis": "One day, aliens from the planet Pict launch a devastating invasion on Earth. Their sole purpose is to transform all of humanity into \"Noppera\"—featureless creatures with plain white skin, glowing antennae, and no face. This prompts the world's nations to counterattack, but they are all ultimately defeated, as they each launched their offensives separately. \n\nAnd so, both the Allied and Axis nations of Hetalia Axis Powers Movie: Paint it, White must band together and unite their powers to stop the alien invasion and save their planet.\n\n[Written by MAL Rewrite]",
+  "mean": 7.05,
+  "rank": 4045,
+  "popularity": 2841,
+  "num_list_users": 59382,
+  "num_scoring_users": 33584,
+  "nsfw": "white",
+  "created_at": "2009-10-13T08:37:05+00:00",
+  "updated_at": "2022-04-15T12:00:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 4843,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 38812,
+  "title": "Botsuraku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1301/106687.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1301/106687l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Boku no Lyric no Bouyomi",
+      "Boku no Lyric no Boyomi"
+    ],
+    "en": "",
+    "ja": "没落"
+  },
+  "start_date": "2018-12-10",
+  "end_date": "2018-12-10",
+  "synopsis": "A short music video of the song Botsuraku by the band \"Boku no Lyric no Bouyomi.\" It was made in honor of their 4th album of the same name going on sale the 2 days later. ",
+  "mean": 5.58,
+  "popularity": 17858,
+  "num_list_users": 346,
+  "num_scoring_users": 189,
+  "nsfw": "white",
+  "created_at": "2018-12-11T06:46:10+00:00",
+  "updated_at": "2020-03-25T06:34:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 99,
+  "rating": "g",
+  "studios": []
+}

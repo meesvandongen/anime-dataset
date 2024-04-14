@@ -1,0 +1,65 @@
+{
+  "id": 1426,
+  "title": "Lupin III: Part III",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1441/100440.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1441/100440l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rupan Sansei: Part III",
+      "Lupin Sansei: Part III"
+    ],
+    "en": "",
+    "ja": "ルパン三世 - Part III"
+  },
+  "start_date": "1984-03-03",
+  "end_date": "1985-12-25",
+  "synopsis": "Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. \n\n(Source: ANN)",
+  "mean": 7.33,
+  "rank": 2566,
+  "popularity": 4602,
+  "num_list_users": 22533,
+  "num_scoring_users": 6717,
+  "nsfw": "white",
+  "created_at": "2006-08-21T08:14:31+00:00",
+  "updated_at": "2022-04-12T03:14:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 1984,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1470,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

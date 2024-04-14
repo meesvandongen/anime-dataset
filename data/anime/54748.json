@@ -1,0 +1,45 @@
+{
+  "id": 54748,
+  "title": "Rinne",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1176/135754.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1176/135754l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "輪廻"
+  },
+  "start_date": "2021-11-03",
+  "end_date": "2021-11-03",
+  "synopsis": "Music video for the song Rinne by V.W.P.",
+  "mean": 6.56,
+  "popularity": 20324,
+  "num_list_users": 198,
+  "num_scoring_users": 109,
+  "nsfw": "white",
+  "created_at": "2023-03-18T00:52:52+00:00",
+  "updated_at": "2023-05-05T15:51:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 247,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2651,
+      "name": "Stereotype"
+    }
+  ]
+}

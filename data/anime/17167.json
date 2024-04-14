@@ -1,0 +1,59 @@
+{
+  "id": 17167,
+  "title": "Akai Koudan Zillion Recaps",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/45843.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/45843l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Red Photon Zillion Recaps",
+      "Emi Penguin's Diary",
+      "J.J. vs. Ricks: Predestined Confrontation",
+      "Champ & Apple: Fantastic Memories"
+    ],
+    "en": "Zillion Specials",
+    "ja": "赤い光弾ジリオン 特典映像"
+  },
+  "start_date": "1987-07-21",
+  "end_date": "1988-08-21",
+  "synopsis": "1. Akai Koudan Zillion: Emi Penguin's Diary (EMI♡PENGUIN'S DIARY)\n\nMusical retrospective of the TV series with circumstantial commentaries by Emi and JJ.\n\n2. Akai Koudan Zillion: J.J. vs. Ricks - Predestined Confrontation (JJ tai Ricks: Shukumei no Taiketsu)\n\n3. Akai Koudan Zillion: Champ & Apple - Fantastic Memories (チャンプ&アップル FANTASTIC MEMORIES)",
+  "mean": 5.9,
+  "rank": 10005,
+  "popularity": 13985,
+  "num_list_users": 854,
+  "num_scoring_users": 186,
+  "nsfw": "white",
+  "created_at": "2013-01-13T21:01:03+00:00",
+  "updated_at": "2022-10-12T16:31:56+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1987,
+    "season": "summer"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 2520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

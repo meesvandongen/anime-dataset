@@ -1,0 +1,45 @@
+{
+  "id": 58039,
+  "title": "Omajinai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1600/141279.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1600/141279l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "おまじない"
+  },
+  "start_date": "2024-02-01",
+  "end_date": "2024-02-01",
+  "synopsis": "Music video for the song Omajinai by Wanuka that was featured on NHK's Minna no Uta program.",
+  "popularity": 24679,
+  "num_list_users": 68,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2024-02-06T06:33:31+00:00",
+  "updated_at": "2024-02-06T06:33:31+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

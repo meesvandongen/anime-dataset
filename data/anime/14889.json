@@ -1,0 +1,64 @@
+{
+  "id": 14889,
+  "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/40905.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/40905l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ebiten: Kouritsu Ebi Sugawa Koukou Tenmonbu OAD"
+    ],
+    "en": "",
+    "ja": "えびてん 公立海老栖川高校天悶部 OAD"
+  },
+  "start_date": "2013-01-26",
+  "end_date": "2013-01-26",
+  "synopsis": "Blu-ray disc bundled with the fourth volume of the manga.",
+  "mean": 6.3,
+  "rank": 8027,
+  "popularity": 7814,
+  "num_list_users": 6050,
+  "num_scoring_users": 2190,
+  "nsfw": "white",
+  "created_at": "2012-07-18T23:31:31+00:00",
+  "updated_at": "2022-11-02T07:58:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1306,
+      "name": "AIC Classic"
+    }
+  ]
+}

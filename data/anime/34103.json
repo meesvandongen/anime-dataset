@@ -1,0 +1,72 @@
+{
+  "id": 34103,
+  "title": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1295/91106.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1295/91106l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Danganronpa 3: The End of Hope's Peak Academy - Hope Volume"
+    ],
+    "en": "Danganronpa 3: The End of Hope's Peak High School - Hope Arc",
+    "ja": "ダンガンロンパ３-The End of 希望ヶ峰学園-希望編"
+  },
+  "start_date": "2016-09-29",
+  "end_date": "2016-09-29",
+  "synopsis": "The Future Foundation is in shambles after the Final Killing Game and the revelation of the true culprit. As a desperate plot arises from one of the survivors to rid the world of despair once and for all, the remaining Future Foundation members must band together to stop this atrocity from taking place. Fortunately, they find themselves with help from a group of unlikely allies as they race against the clock to stop their world from being changed.\n\nIn this finale to the Hope's Peak storyline of the Danganronpa series, the players in this neverending death game begin to understand the true meaning behind despair, hope, and atonement.\n\n[Written by MAL Rewrite]",
+  "mean": 7.4,
+  "rank": 2266,
+  "popularity": 1304,
+  "num_list_users": 182735,
+  "num_scoring_users": 107930,
+  "nsfw": "white",
+  "created_at": "2016-09-22T16:47:29+00:00",
+  "updated_at": "2023-12-27T18:40:03+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

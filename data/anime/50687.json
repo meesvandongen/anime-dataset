@@ -1,0 +1,42 @@
+{
+  "id": 50687,
+  "title": "Pochi Hana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1915/120266.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1915/120266l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "PochiHana"
+    ],
+    "en": "",
+    "ja": "ぽちはな"
+  },
+  "start_date": "2016-12-02",
+  "end_date": "2016-12-02",
+  "synopsis": "A story about a young girl named Hana and her dog Pochi. Ayaka Miyamoto made it as her graduation project while a student in the Department of Image Arts at Kobe Design University.\n\n(Source: AniList)",
+  "rank": 17243,
+  "popularity": 20039,
+  "num_list_users": 214,
+  "num_scoring_users": 97,
+  "nsfw": "white",
+  "created_at": "2021-12-28T19:43:56+00:00",
+  "updated_at": "2022-04-24T17:00:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 233,
+  "rating": "g",
+  "studios": []
+}

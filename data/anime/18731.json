@@ -1,0 +1,56 @@
+{
+  "id": 18731,
+  "title": "Bokutachi no Peace River",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/50041.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/50041l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ぼくたちのピース・リバー"
+  },
+  "start_date": "1998-10-19",
+  "end_date": "1998-10-19",
+  "synopsis": "Anime adaptation of the children's fantasy novel by Daisaku Ikeda.",
+  "rank": 18606,
+  "popularity": 17818,
+  "num_list_users": 349,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2013-05-12T20:01:50+00:00",
+  "updated_at": "2014-04-20T15:17:40+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "average_episode_duration": 1910,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

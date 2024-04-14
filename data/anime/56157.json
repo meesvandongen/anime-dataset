@@ -1,0 +1,63 @@
+{
+  "id": 56157,
+  "title": "Xi Xing Ji: Nian Fan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1609/139399.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1609/139399l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Xi Xing Ji 5th Season, Journey to the West, Westbound, Westbound Discipline",
+      "西行纪 第五季"
+    ],
+    "en": "The Westward 5th Season",
+    "ja": "西行纪 年番"
+  },
+  "start_date": "2023-08-02",
+  "synopsis": "The fifth season of Xi Xing Ji.",
+  "rank": 14413,
+  "popularity": 17118,
+  "num_list_users": 401,
+  "num_scoring_users": 52,
+  "nsfw": "white",
+  "created_at": "2023-08-02T03:45:31+00:00",
+  "updated_at": "2024-02-02T16:00:15+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1296,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2055,
+      "name": "BYMENT"
+    }
+  ]
+}

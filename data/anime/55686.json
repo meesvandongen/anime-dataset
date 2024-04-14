@@ -1,0 +1,43 @@
+{
+  "id": 55686,
+  "title": "Gin Kkum",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1857/136508.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1857/136508l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "A Long Dream",
+    "ja": "긴 꿈"
+  },
+  "start_date": "2017-06-20",
+  "end_date": "2017-06-20",
+  "synopsis": "Music video for the song Gin Kkum by SE SO NEON.",
+  "popularity": 22516,
+  "num_list_users": 102,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2023-06-17T06:01:34+00:00",
+  "updated_at": "2023-06-17T07:31:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 265,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": 57939,
+  "title": "Arknights 4th Anniversary PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1835/141119.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1835/141119l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Arknights 4th Anniversary PV"
+  },
+  "start_date": "2024-01-09",
+  "end_date": "2024-01-09",
+  "synopsis": "Dear Doctor, the Arknights 4th Anniversary Livestream will begin on January 13. The Operators are busy setting up the scene right now. Let's take a look!\n\n(Source: YouTube)",
+  "mean": 6.48,
+  "popularity": 19906,
+  "num_list_users": 223,
+  "num_scoring_users": 106,
+  "nsfw": "white",
+  "created_at": "2024-01-26T05:37:27+00:00",
+  "updated_at": "2024-01-26T06:32:50+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 302,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2009,
+      "name": "Yostar Pictures"
+    },
+    {
+      "id": 2761,
+      "name": "ARCUS"
+    }
+  ]
+}

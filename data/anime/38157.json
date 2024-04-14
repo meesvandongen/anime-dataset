@@ -1,0 +1,58 @@
+{
+  "id": 38157,
+  "title": "Circlet Princess",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1760/97712.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1760/97712l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "CIRCLET PRINCESS（サークレット・プリンセス）"
+  },
+  "start_date": "2019-01-08",
+  "end_date": "2019-03-26",
+  "synopsis": "Virtual Reality and the arrival of Circlet Technology has changed people's lives. A new competitive electronic sport called Circlet Bout emerges, and schools duel to determine the strongest Circlet Bout Club and player. One day, Yuuka Sasaki gets mistaken for a challenger and battles against Chikage Fujimura, the best player in Japan, tying the intense fight despite her inexperience. These events lead to her passion for the sport, deciding to become a Circlet Bout player. \n\nTwo years later, Yuuka moves to Tokyo and enrolls in Union School, a place where she can practice and pursue her dream of fighting Chikage again. After her arrival at the Union School, she discovers the club closed. Now her first goal is to help the athletic Miyuki Kasahara and club manager Ayumu Aizawa reopen Union's Circle Bout Club and return it to its former glory.\n\n[Written by MAL Rewrite]",
+  "mean": 5.97,
+  "rank": 9701,
+  "popularity": 5100,
+  "num_list_users": 17618,
+  "num_scoring_users": 4815,
+  "nsfw": "white",
+  "created_at": "2018-08-09T02:38:18+00:00",
+  "updated_at": "2023-01-09T06:46:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

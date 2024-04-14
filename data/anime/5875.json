@@ -1,0 +1,49 @@
+{
+  "id": 5875,
+  "title": "Kobutori (1929)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/12518.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/12518l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kobu-tori",
+      "His Snatched Off Lump",
+      "The Stolen Lump (1929)"
+    ],
+    "en": "The Stolen Lump",
+    "ja": "瘤取り"
+  },
+  "start_date": "1929-10-14",
+  "end_date": "1929-10-14",
+  "synopsis": "In Kobu-Tori, an old man with a lump growing on his face takes refuge in a hollow tree during a thunderstorm. When he awakens, he finds the forest populated by mythic creatures. He dances with the sprites and as a reward, the creatures remove his deformity. Back in the village, he tells another man who has a similar growth on his face. Will the creatures bestow the same boon upon this other man?\n\n(Source: 100 Years of Movies)",
+  "mean": 5.86,
+  "rank": 10180,
+  "popularity": 9464,
+  "num_list_users": 3538,
+  "num_scoring_users": 2010,
+  "nsfw": "white",
+  "created_at": "2009-01-09T14:14:17+00:00",
+  "updated_at": "2021-05-30T06:26:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1929,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 630,
+  "rating": "g",
+  "studios": []
+}

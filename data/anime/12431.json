@@ -1,0 +1,68 @@
+{
+  "id": 12431,
+  "title": "Uchuu Kyoudai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1290/135694.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1290/135694l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uchuu Kyodai"
+    ],
+    "en": "Space Brothers",
+    "ja": "宇宙兄弟"
+  },
+  "start_date": "2012-04-01",
+  "end_date": "2014-03-22",
+  "synopsis": "On a fateful summer night in 2006, Mutta Nanba and his younger brother Hibito witness what they believe to be a UFO flying toward the Moon. This impressing and unusual phenomenon leads both siblings vowing to become astronauts, with Hibito aiming for the Moon and Mutta, convinced that the eldest brother has to be one step ahead, for Mars.\n\nNow an adult, life hasn't turned out how Mutta had pictured it: he is diligently working in an automotive company, whereas Hibito is on his way to be the very first Japanese man to step on the Moon. However, after losing his job, Mutta is presented with an unexpected opportunity to catch up to his younger brother when the Japanese Aerospace Exploration Agency, commonly known as JAXA, accepts his application to participate in the next astronaut selection. Despite self-doubts about his prospects, Mutta is unwilling to waste this chance of a lifetime, and thus embarks on an ambitious journey to fulfill the promise made 19 years ago.\n\n[Written by MAL Rewrite]",
+  "mean": 8.49,
+  "rank": 138,
+  "popularity": 1229,
+  "num_list_users": 194077,
+  "num_scoring_users": 52634,
+  "nsfw": "white",
+  "created_at": "2011-12-19T11:04:37+00:00",
+  "updated_at": "2024-03-06T03:30:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 99,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "07:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

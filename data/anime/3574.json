@@ -1,0 +1,62 @@
+{
+  "id": 3574,
+  "title": "Switch",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/26316.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/26316l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スイッチ"
+  },
+  "start_date": "2008-10-24",
+  "end_date": "2009-02-25",
+  "synopsis": "Two new members of Japan's Narcotics Control Department are tasked with dismantling the criminal network that supplies the deadly drug called Funny Angel (FA). While Haru Kurabayashi infiltrates the mafia branch that commercializes this drug, his partner Kai Etou starts working in a suspicious greenhouse that may harbor the FA production. As both agents grow closer to their objective, they are confronted with difficult choices that threaten to jeopardize the cover of each other.\n\n[Written by MAL Rewrite]",
+  "mean": 6.86,
+  "rank": 4891,
+  "popularity": 4248,
+  "num_list_users": 27084,
+  "num_scoring_users": 10950,
+  "nsfw": "white",
+  "created_at": "2007-12-11T01:54:11+00:00",
+  "updated_at": "2023-10-16T06:10:36+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
+}

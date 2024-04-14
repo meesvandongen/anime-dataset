@@ -1,0 +1,57 @@
+{
+  "id": 3759,
+  "title": "School Days: Valentine Days",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1691/121897.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1691/121897l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "School Days LxH",
+      "School Days: Valentine Days"
+    ],
+    "en": "",
+    "ja": "School Days 「Valentine Days」"
+  },
+  "start_date": "2008-01-17",
+  "end_date": "2008-01-17",
+  "synopsis": "OVA that came with the PlayStation 2 game \"School Days L×H\"\n\nMakoto, Sekai, Kotonoha, and many other classmates all go to a hot springs hotel to relax, where they discuss what their plans are for the upcoming Valentine's Day. When the day actually comes, half a dozen girls fight over who gets to give chocolate to Makoto.\n\n(Source: ANN)",
+  "mean": 5.79,
+  "rank": 10511,
+  "popularity": 2953,
+  "num_list_users": 55281,
+  "num_scoring_users": 30584,
+  "nsfw": "white",
+  "created_at": "2008-01-21T22:18:58+00:00",
+  "updated_at": "2022-03-25T08:48:07+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1119,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

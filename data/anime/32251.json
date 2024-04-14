@@ -1,0 +1,46 @@
+{
+  "id": 32251,
+  "title": "Mirai e no Kakehashi: Bridge for Future",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/77430.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/77430l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "未来へのかけ橋～Bridge for future～"
+  },
+  "start_date": "2015-10-01",
+  "end_date": "2016-08-01",
+  "synopsis": "Fukushima Gainax's commissioned commercials for TOHO Bank. The series involves Sayaka Hinata, an overly-energetic new bank employee (voiced by Sarah Emi Bridcutt), and her beleaguered boss, Mitsuya (voiced by Tomokazu Sugita).\n\n(Source: Crunchyroll)",
+  "mean": 5.79,
+  "rank": 10504,
+  "popularity": 14241,
+  "num_list_users": 788,
+  "num_scoring_users": 161,
+  "nsfw": "white",
+  "created_at": "2015-12-08T03:47:35+00:00",
+  "updated_at": "2016-08-16T02:19:21+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1314,
+      "name": "Gaina"
+    }
+  ]
+}

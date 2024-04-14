@@ -1,0 +1,70 @@
+{
+  "id": 41084,
+  "title": "Made in Abyss: Retsujitsu no Ougonkyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1864/122519.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1864/122519l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Made in Abyss: The Golden City of the Scorching Sun",
+    "ja": "メイドインアビス 烈日の黄金郷"
+  },
+  "start_date": "2022-07-06",
+  "end_date": "2022-09-28",
+  "synopsis": "After surviving the brutal challenges of Idofront, Riko now possesses a White Whistle, allowing her to descend into the Abyss's sixth layer—The Capital of the Unreturned. Alongside Reg and Nanachi, Riko begins to explore the uncharted domain, where the ruins of the promised Golden City are located.\n\nAs the trio starts to adapt to the harsh environment, they soon encounter dangerous creatures and treacherous landscapes. Their expedition leads them to a village inhabited by strange beings known as \"hollows.\" Despite the creeping sense of unease that welcomes them, the three venture onward to uncover the mysteries of the settlement and long-lost legacies of the forgotten adventurers who once descended into the horrors of the unexplored Abyss.\n\n[Written by MAL Rewrite]",
+  "mean": 8.64,
+  "rank": 73,
+  "popularity": 510,
+  "num_list_users": 439951,
+  "num_scoring_users": 198241,
+  "nsfw": "white",
+  "created_at": "2020-01-18T06:09:01+00:00",
+  "updated_at": "2024-03-28T11:09:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:30"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1553,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

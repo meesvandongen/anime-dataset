@@ -1,0 +1,64 @@
+{
+  "id": 258,
+  "title": "Hitsuji no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/18066.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/18066l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lament of the Lamb",
+      "Song Of Ram",
+      "Song of Sheep",
+      "Song of the Sheep",
+      "Sheep's Song"
+    ],
+    "en": "",
+    "ja": "羊のうた"
+  },
+  "start_date": "2003-05-25",
+  "end_date": "2004-02-25",
+  "synopsis": "Kazuna's family has a history of suffering from a disease that creates an uncontrollable vampire-like thirst for blood. Knowing none of this, Kazuna was sent to live with the Eda couple as a child. As the sickness begins to show signs of being present within himself, he comes into contact with his older sister, Chizuna, who has been suffering from it since early childhood. Knowing that the sickness incurs a heavy weight upon those that suffer from it, Chizuna tries to ease her brother's burden, to help him learn to control his urges, but... \n\n(Source: ANN) ",
+  "mean": 6.15,
+  "rank": 8807,
+  "popularity": 5064,
+  "num_list_users": 18035,
+  "num_scoring_users": 6665,
+  "nsfw": "white",
+  "created_at": "2005-11-13T07:00:22+00:00",
+  "updated_at": "2023-02-13T06:02:16+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2003,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

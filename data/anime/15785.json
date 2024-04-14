@@ -1,0 +1,60 @@
+{
+  "id": 15785,
+  "title": "Inazuma Eleven Go vs. Danball Senki W Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/60753.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/60753l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Inazuma Eleven Go vs Danball Senki W"
+    ],
+    "en": "",
+    "ja": "劇場版 イナズマイレブンGO vs ダンボール戦機W"
+  },
+  "start_date": "2012-12-01",
+  "end_date": "2012-12-01",
+  "synopsis": "As Shinsei Inazuma Japan was about to have a match with Inazuma Legend Japan, a mysterious attack of a person and a swarm of robots interrupted, and another mysterious girl's power drove the world into another dimension. As the world of Inazuma Eleven Go and Danball Senki W met, the two teams must work together to find out what happened to their worlds.\n\n(Source: Wikipedia)",
+  "mean": 6.95,
+  "rank": 4501,
+  "popularity": 5581,
+  "num_list_users": 13866,
+  "num_scoring_users": 7337,
+  "nsfw": "white",
+  "created_at": "2012-10-05T21:42:10+00:00",
+  "updated_at": "2024-03-06T11:02:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

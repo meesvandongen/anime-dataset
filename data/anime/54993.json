@@ -1,0 +1,57 @@
+{
+  "id": 54993,
+  "title": "Life of the Dead Episode 7",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1022/135282.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1022/135282l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "LIFE OF THE DEAD の第７"
+  },
+  "start_date": "2018-05-12",
+  "end_date": "2018-05-12",
+  "synopsis": "Studio Binzo's 7th episode in their Life of the Dead series. After facing issues with season 2's publication, season 3 was cancelled, and with it, episode 7 never got music, voice work, and SFX done and was abandoned. Six years later, Studio Binzo released it on their official Youtube channel so people could finally watch it.",
+  "rank": 16021,
+  "popularity": 22312,
+  "num_list_users": 107,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2023-04-14T08:02:24+00:00",
+  "updated_at": "2023-04-15T15:50:03+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1494,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1252,
+      "name": "Studio Binzo"
+    }
+  ]
+}

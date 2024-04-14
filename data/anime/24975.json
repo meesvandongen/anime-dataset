@@ -1,0 +1,46 @@
+{
+  "id": 24975,
+  "title": "Ghibli ga Ippai Special Short Short",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/64003.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/64003l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ジブリがいっぱいSPECIAL ショート ショート"
+  },
+  "start_date": "2005-11-16",
+  "end_date": "2005-11-16",
+  "synopsis": "A DVD release with a collection of commercials and TV spots produced by Studio Ghibli or its subsidiary Studio Kajino between the years 2000 and 2005.",
+  "mean": 5.72,
+  "rank": 10766,
+  "popularity": 10433,
+  "num_list_users": 2574,
+  "num_scoring_users": 697,
+  "nsfw": "white",
+  "created_at": "2014-06-28T14:08:54+00:00",
+  "updated_at": "2022-08-03T10:16:24+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

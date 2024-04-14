@@ -1,0 +1,52 @@
+{
+  "id": 25871,
+  "title": "Hello Kitty to Issho",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/66721.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/66721l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Together with Hello Kitty",
+      "Parenting Animation With Hello Kitty",
+      "Shitsuke Anime Hello Kitty to Issho"
+    ],
+    "en": "Growing Up With Hello Kitty",
+    "ja": "ハローキティといっしょ"
+  },
+  "start_date": "1994-02-21",
+  "end_date": "1998-10-21",
+  "synopsis": "Hello Kitty and her twin sister Mimmy learn to share, eat their vegetables, sleeping by themselves, answer the phone, use proper table manners, and much more. \n\n(Source:  AnimEigo)",
+  "mean": 5.85,
+  "rank": 10230,
+  "popularity": 14173,
+  "num_list_users": 807,
+  "num_scoring_users": 265,
+  "nsfw": "white",
+  "created_at": "2014-08-10T06:37:27+00:00",
+  "updated_at": "2018-01-25T11:25:51+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 1994,
+    "season": "winter"
+  },
+  "average_episode_duration": 570,
+  "rating": "g",
+  "studios": []
+}

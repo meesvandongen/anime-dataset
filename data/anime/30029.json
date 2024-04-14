@@ -1,0 +1,74 @@
+{
+  "id": 30029,
+  "title": "Video Ehonkan Sekai Meisaku Douwa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1605/139509.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1605/139509l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai no Otogibanashi"
+    ],
+    "en": "",
+    "ja": "ビデオえほん館 世界名作童話"
+  },
+  "start_date": "1988-12-04",
+  "end_date": "1990-09-13",
+  "synopsis": "Various classic fairy tales told for child aged audiences.",
+  "rank": 14199,
+  "popularity": 17664,
+  "num_list_users": 361,
+  "num_scoring_users": 78,
+  "nsfw": "white",
+  "created_at": "2015-02-14T06:58:05+00:00",
+  "updated_at": "2023-11-07T17:02:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1988,
+    "season": "fall"
+  },
+  "average_episode_duration": 675,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 280,
+      "name": "Studio Junio"
+    }
+  ]
+}

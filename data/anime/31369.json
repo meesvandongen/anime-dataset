@@ -1,0 +1,51 @@
+{
+  "id": 31369,
+  "title": "Mori no Ongakudan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1105/95109.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1105/95109l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Music Orchestra of the Forest"
+    ],
+    "en": "Musicians of the Forest",
+    "ja": "森のおんがくだん"
+  },
+  "start_date": "2015-07-30",
+  "end_date": "2016-11-16",
+  "synopsis": "",
+  "rank": 16606,
+  "popularity": 16683,
+  "num_list_users": 436,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2015-07-30T22:54:40+00:00",
+  "updated_at": "2018-09-29T04:53:34+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

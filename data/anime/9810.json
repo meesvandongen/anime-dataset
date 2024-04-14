@@ -1,0 +1,56 @@
+{
+  "id": 9810,
+  "title": "Nyani ga Nyandaa Nyandaa Kamen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/27206.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/27206l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mighty Cat Masked Niyander"
+    ],
+    "en": "",
+    "ja": "ニャニがニャンだー ニャンダーかめん"
+  },
+  "start_date": "2000-02-06",
+  "end_date": "2001-09-30",
+  "synopsis": "One day a normal cat boy got a power to transform into a super \"kamen cat.\" Whenever he heard people saying \"help\" he would dash right over there and help them fight against enemies.",
+  "mean": 6.82,
+  "rank": 5093,
+  "popularity": 12403,
+  "num_list_users": 1336,
+  "num_scoring_users": 609,
+  "nsfw": "white",
+  "created_at": "2010-11-12T07:43:40+00:00",
+  "updated_at": "2023-09-11T06:40:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 83,
+  "start_season": {
+    "year": 2000,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "07:00"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

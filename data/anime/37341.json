@@ -1,0 +1,58 @@
+{
+  "id": 37341,
+  "title": "Yuru Camp△ Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1258/91059.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1258/91059l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Laid-Back Camp",
+      "Yurukyan",
+      "Yuru Camp△: Heya Camp Episode 0"
+    ],
+    "en": "Laid-Back Camp Specials",
+    "ja": "ゆるキャン△ スペシャル"
+  },
+  "start_date": "2018-03-28",
+  "end_date": "2018-07-25",
+  "synopsis": "When Chiaki Oogaki and Aoi Inuyama start the Outdoor Activities Club at their school, it is only the two of them and an array of ambitious plans. Things do not change much even after a new member—Nadeshiko Kagamihara—joins. And yet, the cheerful, cozy atmosphere seems to bring many curious visitors to their small headquarters. \n\nAs the three girls set out on a camping trip to Australia alongside their friends Rin Shima and Ena Saitou, an unexpected incident turns the relaxing event into quite an adventure.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1665,
+  "popularity": 2937,
+  "num_list_users": 55760,
+  "num_scoring_users": 26671,
+  "nsfw": "white",
+  "created_at": "2018-02-17T07:37:30+00:00",
+  "updated_at": "2024-02-05T01:07:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 480,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1075,
+      "name": "C-Station"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 42682,
+  "title": "Beniimo Musume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1780/108885.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1780/108885l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "紅芋娘"
+  },
+  "start_date": "2005-06-01",
+  "end_date": "2005-06-01",
+  "synopsis": "Music video for the song Beniimo Musume by Japanese pop duo Kiroro that was featured on NHK's Minna no Uta program. The video features a blend of live dancing choreographed by Akiko Miyahira and animation by Taku Anekawa with studio MeltMetal.",
+  "popularity": 20535,
+  "num_list_users": 186,
+  "num_scoring_users": 85,
+  "nsfw": "white",
+  "created_at": "2020-08-15T02:47:06+00:00",
+  "updated_at": "2020-08-15T02:47:06+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

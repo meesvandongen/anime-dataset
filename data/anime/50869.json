@@ -1,0 +1,69 @@
+{
+  "id": 50869,
+  "title": "Kami wa Game ni Ueteiru.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1578/141782.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1578/141782l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kami wa Yuugi ni Ueteiru.",
+      "The Ultimate Game-Battles of a Boy and the Gods",
+      "Kami wa Game ni Ueteiru.: Kamigami ni Idomu Shounen no Kyuukyoku Zunousen"
+    ],
+    "en": "Gods' Game We Play",
+    "ja": "神は遊戯に飢えている。"
+  },
+  "start_date": "2024-04-01",
+  "synopsis": "The supreme Gods who had too much free time created the ultimate brain games \"Play of the Gods.\" Former Goddess Leche awoke from a long slumber and declared to the world, \"Bring forth the person who is the best in games in this era!\" Fay is nominated to represent humanity as the \"best rookie in recent years.\"\n\nThe \"Game of the Gods\" that is about to begin between the two may be a little too difficult, as there has yet to be a victor throughout human history, because Gods are capricious, very unreasonable, and sometimes completely incomprehensible. However, given the nature of the games, it would be a waste not to have a good time and play with all of one's heart! The ultimate brain battles of a genius gamer boy, a former Goddess, and friends begin!\n\n(Source: MAL News)",
+  "mean": 6.22,
+  "rank": 8425,
+  "popularity": 3149,
+  "num_list_users": 48667,
+  "num_scoring_users": 5047,
+  "nsfw": "gray",
+  "created_at": "2022-01-21T08:02:12+00:00",
+  "updated_at": "2024-04-03T12:39:42+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "21:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

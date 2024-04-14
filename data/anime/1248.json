@@ -1,0 +1,72 @@
+{
+  "id": 1248,
+  "title": "Zone of the Enders: 2167 Idolo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1236/91066.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1236/91066l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ZOE: Idolo"
+    ],
+    "en": "Z.O.E. 2167 Idolo",
+    "ja": "Z.O.E 2167 IDOLO"
+  },
+  "start_date": "2001-02-21",
+  "end_date": "2001-02-21",
+  "synopsis": "Z.O.E. 2167 Idolo takes place a few years prior to the events of the series Z.O.E Dolores, i, and is centered on the \"Deimos Incident,\" an act of terrorism by the Mars revolutionaries.\n\nThe BAHRAM army pilots Radium and Viola are the best in their class, and have such have been chosen to do spearhead testing on a new type of weapon; Mars hopes this weapon will liberate them from the UNSF's (United Nations Space Force) tyranny. This new technology called the \"Orbital Frame,\" is powered by an extremely rare and powerful source of energy known as the Metatron ore.",
+  "mean": 6.85,
+  "rank": 4983,
+  "popularity": 6407,
+  "num_list_users": 9865,
+  "num_scoring_users": 4288,
+  "nsfw": "white",
+  "created_at": "2006-08-05T09:45:56+00:00",
+  "updated_at": "2022-03-26T03:21:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 3300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

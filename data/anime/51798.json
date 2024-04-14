@@ -1,0 +1,46 @@
+{
+  "id": 51798,
+  "title": "Natsu wa Kinu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1333/123744.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1333/123744l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Natsu ha Kinu",
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "夏は来ぬ"
+  },
+  "start_date": "1982-06",
+  "end_date": "1982-06",
+  "synopsis": "Music video for the song Natsu wa Kinu by Yurigaoka Children Chorus that was featured on NHK's Minna no Uta program.",
+  "popularity": 21290,
+  "num_list_users": 147,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2022-05-12T08:15:52+00:00",
+  "updated_at": "2022-05-20T11:43:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1982,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 141,
+  "rating": "g",
+  "studios": []
+}

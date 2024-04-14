@@ -1,0 +1,55 @@
+{
+  "id": 12725,
+  "title": "Initial D: Project D to the Next Stage - Project D e Mukete",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/35739.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/35739l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Initial D: Project D to the Next Stage - Speculations on Project D"
+    ],
+    "en": "",
+    "ja": "頭文字D to the Next Stage ～プロジェクトDへ向けて～"
+  },
+  "start_date": "2003-03-22",
+  "end_date": "2003-03-22",
+  "synopsis": "A special that comes with the Fourth Stage DVD-BOX. It is comprised of a recap from First Stage to Third Stage, along with staff commentary and sneak preview of the making of the Fourth Stage.",
+  "mean": 7.57,
+  "rank": 1618,
+  "popularity": 5896,
+  "num_list_users": 12036,
+  "num_scoring_users": 4215,
+  "nsfw": "white",
+  "created_at": "2012-01-18T15:56:13+00:00",
+  "updated_at": "2022-04-15T18:25:55+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 4200,
+  "rating": "pg_13",
+  "studios": []
+}

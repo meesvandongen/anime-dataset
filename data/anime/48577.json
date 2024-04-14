@@ -1,0 +1,52 @@
+{
+  "id": 48577,
+  "title": "Home!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1314/113741.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1314/113741l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Anime no Tane 2021"
+    ],
+    "en": "",
+    "ja": "HOME!"
+  },
+  "start_date": "2021-03-26",
+  "end_date": "2021-03-26",
+  "synopsis": "In the year 2124, Christopher is on a research expedition to Mars where he discovers a missing commercial vessel...",
+  "mean": 6.75,
+  "rank": 5468,
+  "popularity": 7874,
+  "num_list_users": 5939,
+  "num_scoring_users": 2735,
+  "nsfw": "gray",
+  "created_at": "2021-03-27T18:26:32+00:00",
+  "updated_at": "2022-03-27T06:27:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 453,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1109,
+      "name": "Orange"
+    }
+  ]
+}

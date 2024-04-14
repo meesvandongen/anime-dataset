@@ -1,0 +1,58 @@
+{
+  "id": 29835,
+  "title": "47 Todoufuken Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/71643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/71643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "47 Todoufuken 2012 Natsu",
+      "47 Todoufuken 2012 Summer",
+      "47 Todoufuken Spring Special",
+      "47 Todoufuken Summer Special"
+    ],
+    "en": "",
+    "ja": "47都道府犬 2012夏"
+  },
+  "start_date": "2012-03-20",
+  "end_date": "2012-06-30",
+  "synopsis": "A two-part TV special focusing on the romance between the dogs.",
+  "mean": 5.76,
+  "rank": 10599,
+  "popularity": 16804,
+  "num_list_users": 426,
+  "num_scoring_users": 118,
+  "nsfw": "white",
+  "created_at": "2015-01-30T19:05:46+00:00",
+  "updated_at": "2021-07-04T13:00:16+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "average_episode_duration": 240,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1290,
+      "name": "Pollyanna Graphics"
+    }
+  ]
+}

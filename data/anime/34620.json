@@ -1,0 +1,56 @@
+{
+  "id": 34620,
+  "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1009/100450.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1009/100450l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuno"
+    ],
+    "en": "YU-NO: A Girl Who Chants Love at the Bound of This World",
+    "ja": "この世の果てで恋を唄う少女YU-NO"
+  },
+  "start_date": "2019-04-02",
+  "end_date": "2019-10-01",
+  "synopsis": "Takuya Arima is a young student whose father, a historian who has conducted various researches, disappeared recently. During a summer vacation Takuya receives a peculiar package from his missing father, along with a letter containing information about the existence of various parallel worlds. At first Takuya doesn't take it seriously, but soon he realizes that he possesses a device that allows him to travel to alternate dimensions. Is his father alive, after all? If so, where is he?\n\n(Source: VNDB)",
+  "mean": 6.59,
+  "rank": 6370,
+  "popularity": 1467,
+  "num_list_users": 158640,
+  "num_scoring_users": 51107,
+  "nsfw": "white",
+  "created_at": "2016-12-26T18:06:59+00:00",
+  "updated_at": "2024-02-19T03:44:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

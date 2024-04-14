@@ -1,0 +1,44 @@
+{
+  "id": 51558,
+  "title": "Shan Hai Juelun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1272/124773.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1272/124773l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fairy Mountain",
+    "ja": "山海绝伦"
+  },
+  "start_date": "2022-08-23",
+  "end_date": "2022-12-06",
+  "synopsis": "",
+  "rank": 17807,
+  "popularity": 16107,
+  "num_list_users": 491,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2022-04-06T00:12:16+00:00",
+  "updated_at": "2023-01-29T09:03:28+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 17,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1080,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": 16636,
+  "title": "Kotoura-san: Haruka no Heya",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/45090.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/45090l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "琴浦さん 春香の部屋"
+  },
+  "start_date": "2012-12-07",
+  "end_date": "2013-01-11",
+  "synopsis": "Mini episodes of Kotoura-san introducing each of the series' characters.",
+  "mean": 6.24,
+  "rank": 8359,
+  "popularity": 4401,
+  "num_list_users": 25069,
+  "num_scoring_users": 9633,
+  "nsfw": "white",
+  "created_at": "2012-12-12T15:43:00+00:00",
+  "updated_at": "2022-03-03T02:31:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 101,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1306,
+      "name": "AIC Classic"
+    }
+  ]
+}

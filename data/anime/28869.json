@@ -1,0 +1,64 @@
+{
+  "id": 28869,
+  "title": "Kaitou Joker 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/72812.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/72812l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mysterious Joker Second Season"
+    ],
+    "en": "JOKER 2nd Season",
+    "ja": "怪盗ジョーカー シーズン"
+  },
+  "start_date": "2015-04-06",
+  "end_date": "2015-06-29",
+  "synopsis": "Second season in the Kaitou Joker anime series.\n\nThe thief Mysterious Joker doesn't just steal things. An audacious and elusive miracle-maker, he travels the world searching for treasure with his partner and cook Hachi. As they circle the globe, they must avoid traps set by the police and compete in various competitions to reach their final goal, the Timeslip Treasure.\n\n(Source: ANN)",
+  "mean": 7.26,
+  "rank": 2937,
+  "popularity": 7577,
+  "num_list_users": 6537,
+  "num_scoring_users": 3010,
+  "nsfw": "white",
+  "created_at": "2014-12-16T18:53:54+00:00",
+  "updated_at": "2022-01-17T11:36:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1479,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

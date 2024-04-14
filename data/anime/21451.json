@@ -1,0 +1,53 @@
+{
+  "id": 21451,
+  "title": "Nihonbashi Koukashita R Keikaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1668/117560.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1668/117560l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Japan Bridge Overpass Under R Plan",
+    "ja": "日本橋高架下R計画"
+  },
+  "start_date": "2012-04-04",
+  "end_date": "2012-04-04",
+  "synopsis": "Music video for Jin's seventh published song, created for IA Project's compilation album IA/01 -BIRTH-.",
+  "mean": 6.59,
+  "popularity": 9106,
+  "num_list_users": 3999,
+  "num_scoring_users": 2241,
+  "nsfw": "white",
+  "created_at": "2013-12-02T18:24:46+00:00",
+  "updated_at": "2023-12-06T22:00:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    },
+    {
+      "id": 1067,
+      "name": "Rising Force"
+    },
+    {
+      "id": 2162,
+      "name": "Maxilla"
+    }
+  ]
+}

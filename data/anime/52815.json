@@ -1,0 +1,49 @@
+{
+  "id": 52815,
+  "title": "Ganbare! Choushuu-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1662/132222.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1662/132222l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "がんばれ! 長州くん"
+  },
+  "start_date": "2022-08-01",
+  "end_date": "2022-12-08",
+  "synopsis": "Choushuu-kun, a rambunctious grade schooler, experiences a slightly strange everyday life with his classmates.\n\n(Source: ANN)",
+  "rank": 19636,
+  "popularity": 18076,
+  "num_list_users": 329,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2022-08-18T06:33:24+00:00",
+  "updated_at": "2023-01-01T08:36:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 60,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "10:15"
+  },
+  "source": "original",
+  "average_episode_duration": 70,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1005,
+      "name": "Oddjob"
+    }
+  ]
+}

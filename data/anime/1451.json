@@ -1,0 +1,66 @@
+{
+  "id": 1451,
+  "title": "Shuranosuke Zanmaken: Shikamamon no Otoko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/44163.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/44163l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sword for Truth",
+    "ja": "修羅之介斬魔劍 死鎌紋の男"
+  },
+  "start_date": "1990-12-28",
+  "end_date": "1990-12-28",
+  "synopsis": "Shurannosuke Sakaki is a masterless samurai with a razor-sharp katana and a cold-hearted personality. Whenever you see the mark of two crossed scythes on his back, death is sure to follow. Because of his exceptional swordsmanship, Shurannosuke is hired by the Nakura Clan to rescue Princess Mayu from the Seki Ninja. In this mission, he must use his full potential to survive the Seki Ninja's notorious henchmen. \n\n(Source: ANN)",
+  "mean": 4.73,
+  "rank": 12952,
+  "popularity": 8602,
+  "num_list_users": 4765,
+  "num_scoring_users": 2319,
+  "nsfw": "white",
+  "created_at": "2006-08-23T07:35:59+00:00",
+  "updated_at": "2023-09-02T08:42:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 3062,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

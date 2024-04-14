@@ -1,0 +1,65 @@
+{
+  "id": 2465,
+  "title": "Idol Bouei-tai Hummingbird",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/44085.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/44085l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Idol Defense Force Hummingbird",
+      "Idol Boueitai Hummingbird"
+    ],
+    "en": "Hummingbirds",
+    "ja": "アイドル防衛隊ハミングバード"
+  },
+  "start_date": "1993-09-01",
+  "end_date": "1995-12-01",
+  "synopsis": "When the Japanese government puts civilian organizations in charge of the country's air force, some of these companies decide to put their aspiring idol singers behind the controls of their fighter planes. Among these groups of idol singers is Hummingbird, a five-woman team consisting of the Toreishi sisters: Satsuki, Uzuki, Yayoi, Kanna and Mina. During a taping session, video director Kudou sees some potential in these girls and jumps in to help them reach the top of the charts by directing their debut video. \n\n(Source: ANN) ",
+  "mean": 5.88,
+  "rank": 10107,
+  "popularity": 9677,
+  "num_list_users": 3296,
+  "num_scoring_users": 718,
+  "nsfw": "white",
+  "created_at": "2007-05-08T13:48:30+00:00",
+  "updated_at": "2022-03-22T19:32:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1993,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 2090,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

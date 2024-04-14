@@ -1,0 +1,58 @@
+{
+  "id": 25805,
+  "title": "Pokemon Movie 18: Ring no Choumajin Hoopa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/72143.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/72143l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokémon the Movie XY 2015",
+      "Pokémon the Movie XY: The Archdjinni of Rings - Hoopa",
+      "Pokémon Movie 18"
+    ],
+    "en": "Pokémon the Movie: Hoopa and the Clash of Ages",
+    "ja": "ポケモン・ザ・ムービーXY『光輪（リング）の超魔神 フーパ』"
+  },
+  "start_date": "2015-07-18",
+  "end_date": "2015-07-18",
+  "synopsis": "A century ago, the power of a mighty creature known as Hoopa, who is capable of single-handedly defeating legendary Pokémon, was captured in a bottle by a lone traveler. The bottle was then hidden deep inside a cave in the desert, in the hopes that the darkness sealed within it would never see the light of day again.\n\nYears later, a young man finds the bottle and breaks the curses surrounding it, releasing the power confined within it. Its contents take the form of Hoopa's shadow, and it uses its unbound power to shatter the bottle and prevent anyone from capturing it again. The shadow then goes on a rampage and attacks the original Hoopa, while both Pokémon summon other legendary creatures to aid them in their brawl. Satoshi—a budding Pokémon trainer from the Kanto region—and his friends are caught up in the crossfire, and must now work to stop the ravaging Pokémon, or face a devastating clash of legends.\n\n[Written by MAL Rewrite]",
+  "mean": 6.59,
+  "rank": 6377,
+  "popularity": 2938,
+  "num_list_users": 55754,
+  "num_scoring_users": 34336,
+  "nsfw": "white",
+  "created_at": "2014-08-07T09:14:22+00:00",
+  "updated_at": "2022-04-08T12:36:11+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 4680,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

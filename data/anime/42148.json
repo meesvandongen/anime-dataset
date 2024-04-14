@@ -1,0 +1,51 @@
+{
+  "id": 42148,
+  "title": "Xin Jue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1649/109592.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1649/109592l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Core Sense"
+    ],
+    "en": "Awakening Soul",
+    "ja": "芯觉"
+  },
+  "start_date": "2020-10-13",
+  "end_date": "2020-12-29",
+  "synopsis": "The power of beginnings, the energy of the core stone; one may find it good, one may find it evil. During a normal investigation, Yue Juntian finds himself drawn into the battle between the 'beginnings' of Yun City; Jiang Xin arrives in Yun City to stop Li Zunyuan's plan to take over. The two influence each other - one solves the mystery of their birth, the other redeems themselves. Together, they oppose Li Zunyuan.\n\n(Source: V2Anime)",
+  "mean": 5.96,
+  "rank": 9747,
+  "popularity": 12556,
+  "num_list_users": 1271,
+  "num_scoring_users": 264,
+  "nsfw": "white",
+  "created_at": "2020-06-03T09:25:48+00:00",
+  "updated_at": "2022-01-20T17:22:03+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1175,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 30234,
+  "title": "1989",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/72346.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/72346l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "1989 the pillows"
+    ],
+    "en": "",
+    "ja": "1989"
+  },
+  "start_date": "2009-06-03",
+  "end_date": "2009-06-03",
+  "synopsis": "Music video for song '1989' by the pillows from their 20th anniversary compilation album 'Rock stock & too smoking the pillows.'",
+  "mean": 5.55,
+  "popularity": 11831,
+  "num_list_users": 1618,
+  "num_scoring_users": 954,
+  "nsfw": "white",
+  "created_at": "2015-03-02T20:15:11+00:00",
+  "updated_at": "2021-12-13T20:58:27+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 428,
+  "rating": "g",
+  "studios": []
+}

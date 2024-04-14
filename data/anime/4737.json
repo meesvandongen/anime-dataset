@@ -1,0 +1,56 @@
+{
+  "id": 4737,
+  "title": "Himitsukessha Taka no Tsume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/82755.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/82755l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Frogman Show"
+    ],
+    "en": "Eagle Talon",
+    "ja": "秘密結社 鷹の爪"
+  },
+  "start_date": "2006-04-06",
+  "end_date": "2006-06-15",
+  "synopsis": "Eagle Talon is a secret society based in Kojimachi, Tokyo. With plans for world domination, their attempts are continually foiled by Deluxe Fighter, the superhero who always manages to save the day. This comedy of their frivolous lives is definitely not to be missed!",
+  "mean": 6.04,
+  "rank": 9420,
+  "popularity": 12457,
+  "num_list_users": 1313,
+  "num_scoring_users": 368,
+  "nsfw": "white",
+  "created_at": "2008-06-22T01:07:58+00:00",
+  "updated_at": "2021-08-07T14:44:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 599,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

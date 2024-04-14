@@ -1,0 +1,52 @@
+{
+  "id": 38135,
+  "title": "Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1781/93362.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1781/93362l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "猪猪侠 番外篇 拼装特工队"
+  },
+  "start_date": "2016-12-29",
+  "end_date": "2017-01-04",
+  "synopsis": "The first web-season of G.G. Bond, episodes were later televised on a select few TV channels.\n\nThis season is meant to be more educational than the main series line. Each episode focuses on 1 country as the cast travels the world solving riddles while learning about the culture. And of course, fighting crime while at it.",
+  "rank": 15295,
+  "popularity": 19301,
+  "num_list_users": 255,
+  "num_scoring_users": 91,
+  "nsfw": "white",
+  "created_at": "2018-08-07T04:19:47+00:00",
+  "updated_at": "2018-08-07T14:29:29+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 810,
+  "rating": "g",
+  "studios": []
+}

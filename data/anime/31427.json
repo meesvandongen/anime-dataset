@@ -1,0 +1,63 @@
+{
+  "id": 31427,
+  "title": "Zinba",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1613/110505.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1613/110505l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zinba Monsters"
+    ],
+    "en": "Zinba",
+    "ja": "神魄"
+  },
+  "start_date": "2013-08-24",
+  "end_date": "2013-10-13",
+  "synopsis": "The juvenile Kan from the earth is summoned to the Kingdom of Toria , where he encounters attack from the giant creature Zinba, and he's rescued by the linker Shibuki and Uranus. Later, he accidentally gets on the linker squad DUX truck to the maze valley, finding in a cave a golden Zinba.\n\n(Source: Lookus English YT Channel, edited)",
+  "mean": 6.59,
+  "rank": 6341,
+  "popularity": 11573,
+  "num_list_users": 1781,
+  "num_scoring_users": 695,
+  "nsfw": "white",
+  "created_at": "2015-08-12T17:04:08+00:00",
+  "updated_at": "2022-04-04T19:26:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "average_episode_duration": 1400,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1939,
+      "name": "Alpha Animation"
+    }
+  ]
+}

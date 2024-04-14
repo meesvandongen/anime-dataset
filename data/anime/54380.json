@@ -1,0 +1,52 @@
+{
+  "id": 54380,
+  "title": "Tamagotchi! Special DVD",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1388/133153.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1388/133153l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tamagotchi! McDonald's Happy Set Special DVD with Lovelyn",
+    "ja": "たまごっち！スペシャルDVD マクドナルドハッピーセット"
+  },
+  "start_date": "2008-12-12",
+  "end_date": "2008-12-12",
+  "synopsis": "The Tamagotchi characters help out at McDonalds, gaining new experience in the process.",
+  "rank": 13748,
+  "popularity": 22637,
+  "num_list_users": 100,
+  "num_scoring_users": 27,
+  "nsfw": "white",
+  "created_at": "2023-02-04T20:29:17+00:00",
+  "updated_at": "2023-05-05T15:21:16+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg",
+  "studios": []
+}

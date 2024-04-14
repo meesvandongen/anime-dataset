@@ -1,0 +1,44 @@
+{
+  "id": 35106,
+  "title": "Ninja Tamamaru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/84699.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/84699l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "忍者玉丸"
+  },
+  "start_date": "2008-04-12",
+  "end_date": "2008-10-25",
+  "synopsis": "A simple short anime series about a ninja named Tamamaru who is diligent and enthusiastic about his ninja training...but always fails at it.",
+  "rank": 16859,
+  "popularity": 19658,
+  "num_list_users": 235,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2017-03-15T03:45:35+00:00",
+  "updated_at": "2017-03-15T03:45:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

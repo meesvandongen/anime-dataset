@@ -1,0 +1,53 @@
+{
+  "id": 54352,
+  "title": "Kyou, Watashi no Monogatari ga Hashirimasu.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1017/133086.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1017/133086l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "今日、わたしの物語が走ります。"
+  },
+  "start_date": "2023-04-08",
+  "end_date": "2023-04-08",
+  "synopsis": "A commercial for the Japan Racing Association (JRA), featuring Aimer's song Crossovers.",
+  "mean": 6.04,
+  "popularity": 17456,
+  "num_list_users": 376,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2023-01-30T15:22:36+00:00",
+  "updated_at": "2023-12-26T21:15:22+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 142,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1033,
+      "name": "Studio Colorido"
+    }
+  ]
+}

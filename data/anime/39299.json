@@ -1,0 +1,47 @@
+{
+  "id": 39299,
+  "title": "Shoujo Kyouiku RE",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1258/103449.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1258/103449l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Girl's Education RE"
+    ],
+    "en": "",
+    "ja": "少女教育RE"
+  },
+  "start_date": "2019-07-05",
+  "end_date": "2019-09-06",
+  "synopsis": "",
+  "mean": 6.6,
+  "popularity": 7497,
+  "num_list_users": 6703,
+  "num_scoring_users": 2914,
+  "nsfw": "gray",
+  "created_at": "2019-02-17T11:17:04+00:00",
+  "updated_at": "2022-04-12T03:11:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 915,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2269,
+      "name": "New Generation"
+    }
+  ]
+}

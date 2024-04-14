@@ -1,0 +1,58 @@
+{
+  "id": 34494,
+  "title": "Sakura Quest",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/85222.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/85222l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sakura Quest",
+    "ja": "サクラクエスト"
+  },
+  "start_date": "2017-04-06",
+  "end_date": "2017-09-21",
+  "synopsis": "Tired of her rural home, recent college graduate Yoshino Koharu is desperate to lead a more exciting life in Tokyo. After a fruitless job hunt, she finally receives a part-time offer as queen of the bizarre \"Kingdom of Chupakabura,\" a rundown mini-attraction in the small agricultural town of Manoyama. However, Yoshino discovers upon her arrival in Manoyama that she was mistaken for a celebrity and the job offer was a mistake. Left with no other options, Yoshino reluctantly agrees to take on the role and aid the Board of Tourism in their efforts to revitalize Manoyama. Determined to bring excitement to the dying town with the help of local residents, the queen enacts a series of projects to highlight the beauty and charm of Manoyama's culture.\n\nSakura Quest delves into the story of a tight-knit community that is struggling to balance change while also maintaining the rich traditions and bonds which define their identity.\n\n[Written by MAL Rewrite]",
+  "mean": 7.38,
+  "rank": 2365,
+  "popularity": 1539,
+  "num_list_users": 148769,
+  "num_scoring_users": 47163,
+  "nsfw": "white",
+  "created_at": "2016-12-07T03:53:46+00:00",
+  "updated_at": "2023-11-15T14:50:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

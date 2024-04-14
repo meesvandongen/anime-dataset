@@ -1,0 +1,66 @@
+{
+  "id": 318,
+  "title": "Hand Maid May",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/19241.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/19241l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "HAND MAID メイ"
+  },
+  "start_date": "2000-07-26",
+  "end_date": "2000-09-27",
+  "synopsis": "Saotome Kazuya is a computer whiz. One day his friend Nanbara, threatens him with a computer virus. Trying to stop the virus, Kazuya ends up making a special order. May is a cyberdoll that arrives at his door a few minutes later and she is 1/6th the size of a normal person, which makes for many awkward situations. Not to mention the fact Kazuya can't even afford to keep May. Cyberdyne is not satisfied with Kazuya's non-payments and will do anything to retrieve CBD May.\n\n(Source: ANN)",
+  "mean": 6.69,
+  "rank": 5792,
+  "popularity": 4040,
+  "num_list_users": 30271,
+  "num_scoring_users": 13668,
+  "nsfw": "gray",
+  "created_at": "2005-11-18T16:58:45+00:00",
+  "updated_at": "2023-10-17T08:41:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

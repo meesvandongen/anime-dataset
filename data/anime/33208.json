@@ -1,0 +1,52 @@
+{
+  "id": 33208,
+  "title": "Utawarerumono: Itsuwari no Kamen Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/79799.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/79799l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Utawarerumono: The False Faces Specials",
+      "Utawarerumono: The False Mask Specials"
+    ],
+    "en": "",
+    "ja": "うたわれるもの 偽りの仮面"
+  },
+  "start_date": "2016-03-30",
+  "end_date": "2016-06-29",
+  "synopsis": "Utawarerumono: Itsuwari no Kamen specials included with the volumes of the DVD/BD.",
+  "mean": 6.59,
+  "rank": 6336,
+  "popularity": 8381,
+  "num_list_users": 5091,
+  "num_scoring_users": 915,
+  "nsfw": "white",
+  "created_at": "2016-04-19T15:00:36+00:00",
+  "updated_at": "2022-04-26T11:00:33+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 205,
+  "rating": "pg_13",
+  "studios": []
+}

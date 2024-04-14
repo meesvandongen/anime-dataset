@@ -1,0 +1,46 @@
+{
+  "id": 40463,
+  "title": "Kimi no Kimochi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1841/103327.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1841/103327l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Your Feelings"
+    ],
+    "en": "",
+    "ja": "きみのきもち"
+  },
+  "start_date": "2010-08-01",
+  "end_date": "2010-08-01",
+  "synopsis": "Music video for the song Kimi no Kimochi sung by Satoshin (Shin Satou), a well know picture book writer, and Rina (Rina Hatakeyama), a famous child actress, that was featured on NHK's Minna no Uta program. The song was released as a maxi single that same month. The video was animated by Yoshiko Misumi.",
+  "popularity": 20316,
+  "num_list_users": 198,
+  "num_scoring_users": 84,
+  "nsfw": "white",
+  "created_at": "2019-09-29T20:04:55+00:00",
+  "updated_at": "2020-09-14T19:27:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 132,
+  "rating": "g",
+  "studios": []
+}

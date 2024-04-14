@@ -1,0 +1,44 @@
+{
+  "id": 39939,
+  "title": "Emerald no Oka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1657/101458.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1657/101458l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "エメラルドの丘"
+  },
+  "start_date": "2014-01-29",
+  "end_date": "2014-01-29",
+  "synopsis": "Music video directed by Kouhei Yoshino for the song Emerald no Oka by Japanese pop duo moumoon in their fifth full-length album \"LOVE before we DIE\". A short version of the music video was released on the avex YouTube channel, with the full version later being included on DVD and Blu-ray along with the release of the album. It was later uploaded to moumoon's official YouTube channel.",
+  "mean": 5.75,
+  "popularity": 18834,
+  "num_list_users": 280,
+  "num_scoring_users": 156,
+  "nsfw": "white",
+  "created_at": "2019-06-13T02:14:18+00:00",
+  "updated_at": "2019-06-13T02:14:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 265,
+  "rating": "g",
+  "studios": []
+}

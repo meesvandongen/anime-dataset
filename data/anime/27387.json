@@ -1,0 +1,60 @@
+{
+  "id": 27387,
+  "title": "Under the Dog",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1793/112240.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1793/112240l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "UNDER THE DOG EPISODE 0"
+    ],
+    "en": "",
+    "ja": "UNDER THE DOG"
+  },
+  "start_date": "2016-08-01",
+  "end_date": "2016-08-01",
+  "synopsis": "The year is 2025. Five years have passed since the Tokyo Olympic Games were called off after deadly terrorist attacks. An international school run by the United Nations now stands in the former Olympic site on the edge of Tokyo Bay. Seven teenagers with special abilities, known as \"Flowers,\" are among the students.\n\nTheir student identities are only a cover for their real identities as members of an intelligence organization run by the UN. Their objective is to assassinate other teenagers who have the same abilities. The Flowers have no choice but to complete their missions without fail. Their organization has taken their family members hostage to ensure this. For the Flowers, failure would mean death not only for themselves but also for their loved ones.\n\nThis is the story of their struggle against cruel fate, and of how it is human nature to find hope, however bleak the outlook.\n\n(Source: Official site)",
+  "mean": 6.25,
+  "rank": 8319,
+  "popularity": 3016,
+  "num_list_users": 52988,
+  "num_scoring_users": 22050,
+  "nsfw": "white",
+  "created_at": "2014-09-05T06:50:52+00:00",
+  "updated_at": "2022-03-22T20:05:01+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2316,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    },
+    {
+      "id": 1109,
+      "name": "Orange"
+    }
+  ]
+}

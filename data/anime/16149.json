@@ -1,0 +1,58 @@
+{
+  "id": 16149,
+  "title": "Kick-Heart",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/46509.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/46509l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "KICK-HEART"
+  },
+  "start_date": "2013-05-26",
+  "end_date": "2013-05-26",
+  "synopsis": "By day, Romeo Maki is a respectable man who loves bringing gifts to the local orphanage, and Juliet is a newly employed nun working at said orphanage. However, by night, they are Masked Man M and Lady S, popular professional wrestlers. Kick-Heart tells the story of what happens when this dynamic pair meet in the ring, the only place where they can express their hidden desires.\n\n[Written by MAL Rewrite]",
+  "mean": 6.41,
+  "rank": 7420,
+  "popularity": 4723,
+  "num_list_users": 21243,
+  "num_scoring_users": 11321,
+  "nsfw": "white",
+  "created_at": "2012-10-31T11:57:50+00:00",
+  "updated_at": "2022-04-15T09:03:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 720,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

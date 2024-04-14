@@ -1,0 +1,55 @@
+{
+  "id": 10061,
+  "title": "Sore Ike! Anpanman: Baikinman no Gyakushuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/27777.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/27777l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soreike! Anpanman: Baikinman's Counterattack"
+    ],
+    "en": "",
+    "ja": "それいけ! アンパンマン ばいきんまんの逆襲"
+  },
+  "start_date": "1990-07-07",
+  "end_date": "1990-07-07",
+  "synopsis": "Baikinsennin tells Baikinman about a magical vase called \"Mekoisu no tsubo\" that could grant him the power to destroy Anpanman. A princess of the perished Yaada-koku, Yaada-hime, also seeks the vase to restore her kingdom to its glory. When Anpanman joins forces with her, a furious chase ensues with both sides trying to get their hands on the vase.\n\n(Source: ANN)",
+  "mean": 6.31,
+  "rank": 7976,
+  "popularity": 15735,
+  "num_list_users": 529,
+  "num_scoring_users": 161,
+  "nsfw": "white",
+  "created_at": "2010-12-20T18:22:05+00:00",
+  "updated_at": "2020-07-10T02:06:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "summer"
+  },
+  "average_episode_duration": 4200,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

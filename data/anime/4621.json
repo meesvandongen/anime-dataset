@@ -1,0 +1,45 @@
+{
+  "id": 4621,
+  "title": "Arisubyeon-ui Kkumnamu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/29304.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/29304l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "a ri su byun ui ggoom na moo"
+    ],
+    "en": "The Olympic Challenge",
+    "ja": "아리수변 꿈나무"
+  },
+  "start_date": "1988-07-16",
+  "end_date": "1988-07-16",
+  "synopsis": "This is a story of a 13 year old girl whose only dream is to participate in the Olympic Games: Her Struggles, her victories, her failures and her willpower fascinate all who help her to become a outstanding athlete.",
+  "rank": 18239,
+  "popularity": 17767,
+  "num_list_users": 353,
+  "num_scoring_users": 66,
+  "nsfw": "white",
+  "created_at": "2008-05-30T18:46:13+00:00",
+  "updated_at": "2018-01-24T11:33:55+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "summer"
+  },
+  "average_episode_duration": 4421,
+  "rating": "g",
+  "studios": []
+}

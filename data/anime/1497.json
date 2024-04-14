@@ -1,0 +1,62 @@
+{
+  "id": 1497,
+  "title": "Aru Machi Kado no Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/3159.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/3159l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Aru Machikado no Monogatari",
+      "Story of a Street Corner",
+      "Tale of a Street Corner"
+    ],
+    "en": "Tales of the Street Corner",
+    "ja": "ある街角の物語"
+  },
+  "start_date": "1962-11-05",
+  "end_date": "1962-11-05",
+  "synopsis": "On a certain street corner, there live a girl and her bear doll; a mischievous mouse named Kanku-bouya; a sycamore tree; an old street lamp; a moth; and posters containing a bar girl, a violinist, and a pianist. They all strive for life, but the world may not allow them to flourish.\n\nIn Aru Machi Kado no Monogatari, will the inhabitants of the street corner be able to maintain their peaceful existences, or will war and tyranny plunge them into chaos?\n\n[Written by MAL Rewrite]",
+  "mean": 6.56,
+  "rank": 6508,
+  "popularity": 8594,
+  "num_list_users": 4771,
+  "num_scoring_users": 2022,
+  "nsfw": "white",
+  "created_at": "2006-09-12T17:47:12+00:00",
+  "updated_at": "2022-10-12T08:22:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1962,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 2346,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
+}

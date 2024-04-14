@@ -1,0 +1,52 @@
+{
+  "id": 33156,
+  "title": "Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/88062.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/88062l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Code Geass: Lelouch of the Rebellion R2 Picture Drama Turn 12.06",
+      "Code Geass: Lelouch of the Rebellion R2 Picture Drama 10"
+    ],
+    "en": "Code Geass: Lelouch of the Rebellion R2 Picture Drama - Last Moratorium",
+    "ja": "コードギアス 反逆のルルーシュ 続編 ピクチャードラマ TURN 12.06 ラストモラトリアム"
+  },
+  "start_date": "2014-03-26",
+  "end_date": "2014-03-26",
+  "synopsis": "A picture drama special included with the Blu-Ray release of the main series. Lelouch and friends attend Milly's graduation party.\n\n(Source: Wikipedia)",
+  "mean": 6.28,
+  "rank": 8180,
+  "popularity": 6163,
+  "num_list_users": 10829,
+  "num_scoring_users": 2810,
+  "nsfw": "white",
+  "created_at": "2016-04-08T16:24:16+00:00",
+  "updated_at": "2022-03-12T09:15:53+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 678,
+  "rating": "pg_13",
+  "studios": []
+}

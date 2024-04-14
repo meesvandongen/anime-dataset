@@ -1,0 +1,42 @@
+{
+  "id": 47983,
+  "title": "Ushigaeru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1054/112212.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1054/112212l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rattenjaeger"
+    ],
+    "en": "Ushigaer",
+    "ja": "Rattenjaeger"
+  },
+  "start_date": "2004-12-30",
+  "end_date": "2004-12-30",
+  "synopsis": "A short story depicting a fierce pursuit of a mouse, a dog, and a fully automatic pest control machine.\n\n(Source: YouTube description, translated)",
+  "rank": 14178,
+  "popularity": 19569,
+  "num_list_users": 239,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2021-02-19T04:32:13+00:00",
+  "updated_at": "2022-04-02T08:15:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 480,
+  "rating": "g",
+  "studios": []
+}

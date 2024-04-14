@@ -1,0 +1,64 @@
+{
+  "id": 26123,
+  "title": "Seitokai Yakuindomo* OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/79008.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/79008l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seitokai Yakuindomo 2 OVA",
+      "Seitokai Yakuindomo* OAD",
+      "Seitokai Yakuindomo 2 OAD",
+      "SYD* OVA",
+      "SYD 2 OVA"
+    ],
+    "en": "",
+    "ja": "生徒会役員共＊ OAD"
+  },
+  "start_date": "2014-05-16",
+  "end_date": "2020-09-17",
+  "synopsis": "OVAs of Seitokai Yakuindomo* which were either bundled with the limited editions of the manga volumes or as standalone OVAs.",
+  "mean": 7.85,
+  "rank": 893,
+  "popularity": 2384,
+  "num_list_users": 79730,
+  "num_scoring_users": 32984,
+  "nsfw": "white",
+  "created_at": "2014-08-23T16:47:18+00:00",
+  "updated_at": "2022-04-29T20:20:40+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 309,
+      "name": "GoHands"
+    }
+  ]
+}

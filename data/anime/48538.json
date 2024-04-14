@@ -1,0 +1,49 @@
+{
+  "id": 48538,
+  "title": "Trick with Treat!! (with Undead)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1082/113648.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1082/113648l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Trick with Treat!! (with Undead)",
+    "ja": "TRICK with TREAT!!(with UNDEAD)"
+  },
+  "start_date": "2020-07-07",
+  "end_date": "2020-07-07",
+  "synopsis": "A music video for one of Ensemble Star's units, 2wink, of their song Trick with Treat!! featuring Undead.",
+  "mean": 6.36,
+  "popularity": 18359,
+  "num_list_users": 310,
+  "num_scoring_users": 166,
+  "nsfw": "white",
+  "created_at": "2021-03-25T00:30:20+00:00",
+  "updated_at": "2022-12-05T10:14:37+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 148,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1793,
+      "name": "Happy Elements"
+    }
+  ]
+}

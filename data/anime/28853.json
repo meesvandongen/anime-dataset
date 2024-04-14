@@ -1,0 +1,58 @@
+{
+  "id": 28853,
+  "title": "Pokemon: Pikachu to Pokemon Ongakutai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/71600.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/71600l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pocket Monsters: Pikachu to Pokemon Ongakutai",
+      "Pikachu and the Pokemon Musicians",
+      "Pocket Monsters XY Movie 2 Short"
+    ],
+    "en": "Pikachu and the Pokemon Music Squad",
+    "ja": "ポケモン・ザ・ムービーXY『ピカチュウとポケモンおんがくたい』"
+  },
+  "start_date": "2015-07-18",
+  "end_date": "2015-07-18",
+  "synopsis": "Pikachu and the rest of the group practice singing and dancing, as well as rehearsing their segments, until they realize Luchabull (Hawlucha) can't sing! Now it's up to Pikachu and everybody else to encourage Luchabull into getting back on cue before they have to do the show for real! Will they succeed?",
+  "mean": 6.22,
+  "rank": 8464,
+  "popularity": 7630,
+  "num_list_users": 6425,
+  "num_scoring_users": 2382,
+  "nsfw": "white",
+  "created_at": "2014-12-15T15:48:25+00:00",
+  "updated_at": "2022-02-16T20:54:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 919,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 2983,
+  "title": "Digital Devil Story: Megami Tensei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1015/90699.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1015/90699l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Digital Devil Monogatari Megami Tensei"
+    ],
+    "en": "",
+    "ja": "デジタル・デビル物語〈ストーリ〉 女神転生"
+  },
+  "start_date": "1987-03-25",
+  "end_date": "1987-03-25",
+  "synopsis": "Akemi Nakajima, is a high school student with a genius talent for computer programming. \nOne day, Yumiko Shirasagi is transferred to the same class as him. She feels she knows Nakajima from somewhere, but doesn't try to deal with it. After school, Nakajima and a couple of classmates held a ceremony to summon the devil. Nakajima summons the devil Loki on the computer display while presenting a female offering. What will happen to Yumiko, who witnessed the scene?\n\n(Source: Official site, edited)",
+  "mean": 5.14,
+  "rank": 12463,
+  "popularity": 6643,
+  "num_list_users": 9025,
+  "num_scoring_users": 4313,
+  "nsfw": "white",
+  "created_at": "2007-08-12T21:32:13+00:00",
+  "updated_at": "2022-03-15T16:08:19+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 2745,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 155,
+      "name": "animate Film"
+    }
+  ]
+}

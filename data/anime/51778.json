@@ -1,0 +1,52 @@
+{
+  "id": 51778,
+  "title": "Build Divide: Code White Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1322/123675.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1322/123675l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Build Divide: Code White Episode 17.5"
+    ],
+    "en": "",
+    "ja": "ビルディバイド -#FFFFFF(コードホワイト)-"
+  },
+  "start_date": "2022-05-08",
+  "end_date": "2022-05-08",
+  "synopsis": "Recap of the first five episodes of Build Divide: Code White.",
+  "mean": 5.76,
+  "rank": 10602,
+  "popularity": 12669,
+  "num_list_users": 1224,
+  "num_scoring_users": 294,
+  "nsfw": "white",
+  "created_at": "2022-05-07T17:15:03+00:00",
+  "updated_at": "2024-02-06T17:11:41+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

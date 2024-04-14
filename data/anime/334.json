@@ -1,0 +1,62 @@
+{
+  "id": 334,
+  "title": "Marmalade Boy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/6092.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/6092l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Marmalade Boy",
+    "ja": "ママレード・ボーイ"
+  },
+  "start_date": "1994-03-13",
+  "end_date": "1995-09-03",
+  "synopsis": "Miki Koishikawa is a high school student who enjoys a very simple life. However, her ordinary life is about to be turned upside down, and she may not be able to handle everything that is coming her way.\n\nAfter a very \"fun\" holiday in Hawaii, her parents have decided to get a divorce. As if this wasn’t enough of a shock for the poor girl, she also discovers that they will soon be re-marrying and swapping partners with another couple who they met on holiday. In order to include Miki in this shocking turn of events, they ask her to give the new couple a chance, and set up a dinner date with everyone. Miki may have tried to be emotionally prepared for her new parents, but what she was not expecting was their handsome son Matsuura Yuu.\n\nMiki develops an instant crush for Yuu. What starts off as a lovely friendship between them soon develops into romantic feelings which they are both finding hard to control. But more trouble is ahead in their relationship, as both Miki and Yuu have admirers of their own who are trying very hard to keep them separated.",
+  "mean": 7.43,
+  "rank": 2140,
+  "popularity": 2926,
+  "num_list_users": 56033,
+  "num_scoring_users": 21956,
+  "nsfw": "white",
+  "created_at": "2005-11-20T02:49:34+00:00",
+  "updated_at": "2022-04-13T17:35:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 76,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

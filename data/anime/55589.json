@@ -1,0 +1,67 @@
+{
+  "id": 55589,
+  "title": "Xiong Chumo: Chong Fan Di Qiu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1985/136349.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1985/136349l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Boonie Bears Movie 7"
+    ],
+    "en": "Boonie Bears: Back to Earth",
+    "ja": "熊出没·重返地球"
+  },
+  "start_date": "2022-02-01",
+  "end_date": "2022-02-01",
+  "synopsis": "Bramble has always dreamed of becoming a great hero in order to gain recognition from everyone, especially his older brother, Briar. A piece of the alien nucleus that fell from the sky broke the peace of Pine Tree Mountain, but unexpectedly, Bramble merged with the alien nucleus and became a bear with alien wisdom and energy. However, this also brought about the pursuit of \"alien\" Abu who wanted to reclaim the nucleus.\n\n(Source. Wikipedia)",
+  "rank": 14823,
+  "popularity": 22020,
+  "num_list_users": 116,
+  "num_scoring_users": 31,
+  "nsfw": "white",
+  "created_at": "2023-06-06T09:03:49+00:00",
+  "updated_at": "2023-06-06T17:13:37+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 5985,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2611,
+      "name": "Fantawild Animation"
+    }
+  ]
+}

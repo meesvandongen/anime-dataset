@@ -1,0 +1,51 @@
+{
+  "id": 42703,
+  "title": "Sore wo Ai to Yobu dake",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1808/108918.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1808/108918l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Just Call It Love"
+    ],
+    "en": "",
+    "ja": "それを愛と呼ぶだけ"
+  },
+  "start_date": "2020-08-15",
+  "end_date": "2020-08-15",
+  "synopsis": "Official music video for mafumafu's song Sore wo Ai to Yobu dake.",
+  "mean": 6.89,
+  "popularity": 13463,
+  "num_list_users": 978,
+  "num_scoring_users": 549,
+  "nsfw": "white",
+  "created_at": "2020-08-17T17:23:45+00:00",
+  "updated_at": "2022-02-02T17:08:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 224,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1991,
+      "name": "Enishiya"
+    },
+    {
+      "id": 2057,
+      "name": "Toho Interactive Animation"
+    }
+  ]
+}

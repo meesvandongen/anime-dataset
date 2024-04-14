@@ -1,0 +1,58 @@
+{
+  "id": 28683,
+  "title": "One Piece: Episode of Alabasta - Prologue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/69239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/69239l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "劇場版ワンピース エピソードオブアラバスタ"
+  },
+  "start_date": "2011-08-20",
+  "end_date": "2011-08-20",
+  "synopsis": "An adaptation of the Whiskey Peak arc exclusive to some TV airings of One Piece: Episode of Alabasta.",
+  "mean": 7.18,
+  "rank": 3365,
+  "popularity": 5181,
+  "num_list_users": 16888,
+  "num_scoring_users": 7274,
+  "nsfw": "white",
+  "created_at": "2014-11-30T14:42:50+00:00",
+  "updated_at": "2023-12-29T02:12:02+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 3121,
+  "title": "Kodomo no Jikan OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/5682.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/5682l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kodomo no Jikan: Anata ga Watashi ni Kureta Mono",
+      "Kuro-chan to Shiro-chan",
+      "Kodomo no Natsu Jikan",
+      "Nymphet",
+      "Kojika",
+      "Kodomo no Jikan Second Term Special",
+      "Kodomo no Jikan OAD"
+    ],
+    "en": "",
+    "ja": "こどものじかん OVA"
+  },
+  "start_date": "2007-09-11",
+  "end_date": "2011-01-21",
+  "synopsis": "A series of OVA episodes released with the limited edition manga volumes.\n\nEpisode 01: What You Gave Me (Anata ga Watashi ni Kureta Mono)\nKokonoe, Usa, and Kagami go shopping for a present for Sensei. Eventually Kokonoe decides to make one and they all end up spending the night at her house. Along the way we learn more about Usa's love for Reiji, Kagami's love for Kokonoe, and Kokonoe's love for Sensei. \n\nEpisode 02: Kuro-chan, Shiro-chan (Kuro-chan to Shiro-chan)\nKuro-chan tries to become friends with Shirai-sensei.\n\nEpisode 03: A Child's Summer Time (Kodomo no Natsu Jikan)\nThe girls, Aoki and Houin go into the country to visit Aoki's family.",
+  "mean": 7.03,
+  "rank": 4141,
+  "popularity": 4033,
+  "num_list_users": 30398,
+  "num_scoring_users": 16734,
+  "nsfw": "gray",
+  "created_at": "2007-09-15T14:46:56+00:00",
+  "updated_at": "2022-02-28T13:57:46+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 51,
+      "name": "Diomedéa"
+    }
+  ]
+}

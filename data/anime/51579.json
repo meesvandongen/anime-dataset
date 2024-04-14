@@ -1,0 +1,44 @@
+{
+  "id": 51579,
+  "title": "Shinshoku!! Chikyuu Zeniki Zen Ocean",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1374/122604.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1374/122604l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Domination! All the World Is an Ocean",
+    "ja": "浸食!! 地球全域全おーしゃん"
+  },
+  "start_date": "2021-09-18",
+  "end_date": "2021-09-18",
+  "synopsis": "",
+  "mean": 5.94,
+  "popularity": 16246,
+  "num_list_users": 475,
+  "num_scoring_users": 261,
+  "nsfw": "white",
+  "created_at": "2022-04-08T15:26:34+00:00",
+  "updated_at": "2024-01-04T07:00:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 178,
+  "rating": "g",
+  "studios": []
+}

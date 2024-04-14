@@ -1,0 +1,68 @@
+{
+  "id": 5289,
+  "title": "Beast Wars Second Chou Seimeitai Transformers: Lio Convoy Kiki Ippatsu! Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1082/94076.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1082/94076l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Transformers: Beast Wars II: The Movie (special)",
+      "Beast Wars Second: LioConvoy in Imminent Danger!",
+      "Movie Edition Beast Wars Special",
+      "Beast Wars: Super Lifeform Transformers Special",
+      "Beast Wars II: Lio Convoy's Close Call!"
+    ],
+    "en": "",
+    "ja": "映画 ビーストウォーズII[セカンド]超生命体トランスフォーマー ライオコンボイ危機一髪!"
+  },
+  "start_date": "1998-12-19",
+  "end_date": "1998-12-19",
+  "synopsis": "The movie begins with a space battle between the space pirate Seacons and the Cybertron Jointron brothers. Both combine, forming God Neptune and Tripledacus respectively, and being fighting it out. They become heavily engaged in combat, until a mysterious spaceship knocks them both deeper into space. Back at the Cybertron base, one of the Cybertron warriors, Apache, informs the Cybertrons that an object is approaching Planet Gaea. The Destrons have also noticed the spaceship. Galvatron and his brother Gigastorm discuss it and Galvatron decides that the ship is a positive sign, and it will bring good luck.",
+  "mean": 6.07,
+  "rank": 9248,
+  "popularity": 11903,
+  "num_list_users": 1579,
+  "num_scoring_users": 529,
+  "nsfw": "white",
+  "created_at": "2008-09-19T23:54:46+00:00",
+  "updated_at": "2021-10-22T01:55:42+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 2811,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

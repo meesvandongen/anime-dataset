@@ -1,0 +1,66 @@
+{
+  "id": 36536,
+  "title": "Starmyu 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1663/99834.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1663/99834l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koukou Hoshi Kageki 3rd Season",
+      "High School Star Musical 3rd Season",
+      "Starmu"
+    ],
+    "en": "STARMYU Season 3",
+    "ja": "高校星歌劇[スタミュ] 3rdシーズン"
+  },
+  "start_date": "2019-07-01",
+  "end_date": "2019-09-16",
+  "synopsis": "Following a successful graduation performance, Yuuta Hoshitani and the rest of the second years begin preparations for the upcoming Ayanagi Festival. This year's festival is the first time the students will be without their Kao Council mentors, giving them the creative freedom to do what they want. Hoping to perform alongside each other for once, the second years decide to put on a joint production together. The festival’s opening ceremony will also serve another purpose—to reveal next year's Kao Council candidates. \n\nThe Kao Council announces that Team Hiiragi was selected for the opening ceremony performance, preventing them from participating in the collaboration. This shocks and enrages Hoshitani and the others, driving a rift between them and the Kao Council. In an effort to realize their dreams, the students begin to hatch a plan to ensure that all of the second years can perform together on stage.\n\n[Written by MAL Rewrite]",
+  "mean": 6.95,
+  "rank": 4481,
+  "popularity": 6319,
+  "num_list_users": 10169,
+  "num_scoring_users": 3063,
+  "nsfw": "white",
+  "created_at": "2017-10-08T06:31:14+00:00",
+  "updated_at": "2023-07-31T04:53:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "22:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1075,
+      "name": "C-Station"
+    }
+  ]
+}

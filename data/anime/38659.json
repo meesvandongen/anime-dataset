@@ -1,0 +1,72 @@
+{
+  "id": 38659,
+  "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1715/103419.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1715/103419l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru"
+    ],
+    "en": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+    "ja": "慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～"
+  },
+  "start_date": "2019-10-02",
+  "end_date": "2019-12-27",
+  "synopsis": "There is a popular saying: \"you can never be too careful.\" It is very important to prepare for every situation you may face, even if it seems like an unnecessary waste of time. Also, in games like RPGs, it is good to exceed the level of your enemies to achieve total victory.\n\nThese words describe Seiya Ryuuguuin a little too perfectly. After being summoned by the goddess Ristarte to save the world of Gaeabrande from destruction, the hero prepares himself for his noble journey. While this might be normal, he spends a very long time training himself, despite having overpowered stats. He fights weak enemies using his strongest skills and buys excessive amounts of supplies and potions—all to stay safe.\n\nWhile his attitude may be a bit annoying, it might just be the saving grace of Gaeabrande, especially considering that it is a world where the forces of evil dominate each and every expectation.\n\n[Written by MAL Rewrite]",
+  "mean": 7.48,
+  "rank": 1932,
+  "popularity": 347,
+  "num_list_users": 619664,
+  "num_scoring_users": 360158,
+  "nsfw": "white",
+  "created_at": "2018-11-06T23:23:01+00:00",
+  "updated_at": "2023-02-19T16:25:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1430,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

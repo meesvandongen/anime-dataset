@@ -1,0 +1,45 @@
+{
+  "id": 43611,
+  "title": "Xin Hulu Xiongdi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1974/118454.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1974/118454l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Calabash Brothers Ⅱ",
+    "ja": "新葫蘆兄弟"
+  },
+  "start_date": "2016-07-06",
+  "end_date": "2017-07-11",
+  "synopsis": "",
+  "rank": 14723,
+  "popularity": 21241,
+  "num_list_users": 149,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2020-10-25T11:26:10+00:00",
+  "updated_at": "2021-10-01T21:50:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 471,
+      "name": "Shanghai Animation Film Studio"
+    }
+  ]
+}

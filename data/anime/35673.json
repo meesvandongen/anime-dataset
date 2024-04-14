@@ -1,0 +1,60 @@
+{
+  "id": 35673,
+  "title": "Yama no Susume: Omoide Present",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1559/93810.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1559/93810l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yama no Susume OVA"
+    ],
+    "en": "Encouragement of Climb: \"Omoide\" Present",
+    "ja": "ヤマノススメ おもいでプレゼント"
+  },
+  "start_date": "2017-10-28",
+  "end_date": "2017-10-28",
+  "synopsis": "On the final day of summer vacation, Kokona Aoba is ready to spend some long-awaited time with her mother, but these plans are unfortunately canceled due to work. Opting to go outside instead, she takes a stroll down a familiar path—one where fond memories appear at every corner.\n\nLater, in the middle of autumn, Hinata Kuraue and Aoi Yukimura are looking through a scrapbook of their childhood. Snooping around in Aoi's room, Hinata finds that she has kept a strange acorn as a keepsake, but doesn't remember the reason why. As its discovery dwells on her, a wave of old memories comes forth, causing her to reminisce about a forgotten event from her childhood. \n\nFrom time spent with loved ones to promises from the past, Yama no Susume: Omoide Present follows the three girls as they cherish old memories while crafting entirely new ones to remember.\n\n[Written by MAL Rewrite]",
+  "mean": 7.39,
+  "rank": 2314,
+  "popularity": 5415,
+  "num_list_users": 14903,
+  "num_scoring_users": 6526,
+  "nsfw": "white",
+  "created_at": "2017-06-03T07:15:16+00:00",
+  "updated_at": "2023-09-09T08:32:32+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1617,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

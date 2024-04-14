@@ -1,0 +1,65 @@
+{
+  "id": 1017,
+  "title": "Majutsushi Orphen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/61839.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/61839l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sorcerer Stabber Orphen",
+      "Sorcerous Stabber Orphen"
+    ],
+    "en": "Orphen",
+    "ja": "魔術士オーフェン"
+  },
+  "start_date": "1998-10-03",
+  "end_date": "1999-03-27",
+  "synopsis": "Six years ago at the magic school known as the Tower of Fang, a grave accident happened involving the magical sword Baltanders and the magic user Azalie. Unable to control the sword's power, Azalie was transformed into the shape of a great dragon who since that day became known as Bloody August. Krilancelo, a young magician at the Tower who cared greatly for Azalie found much to his disgust that the elders of the Tower of Fang were less than willing to save Azalie and wanted rather to pretend the accident never happened. Angered by their stand, Krilanceloa swore that he would find a way to return Azalie to her former self. Thus he forsook the name Krilancelo and declared himself Orphen, leaving the Tower and his magical studies behind to wander the world...\n\n(Source: ANN, edited)",
+  "mean": 7.08,
+  "rank": 3913,
+  "popularity": 3223,
+  "num_list_users": 46497,
+  "num_scoring_users": 15820,
+  "nsfw": "white",
+  "created_at": "2006-05-31T16:47:21+00:00",
+  "updated_at": "2023-04-17T12:23:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 1998,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

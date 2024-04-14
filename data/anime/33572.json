@@ -1,0 +1,54 @@
+{
+  "id": 33572,
+  "title": "Idol Memories",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/80935.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/80935l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイドルメモリーズ"
+  },
+  "start_date": "2016-10-03",
+  "end_date": "2016-12-19",
+  "synopsis": "The story of Idol Memories is set in the near future, where live idol music performances in virtual reality have become commonplace. Against this backdrop, a pair of rival idol groups compete for the coveted \"tiara,\" which represents the number one spot in the \"Idol League.\"\n\n(Source: Crunchyroll)",
+  "mean": 5.41,
+  "rank": 11862,
+  "popularity": 6702,
+  "num_list_users": 8813,
+  "num_scoring_users": 1823,
+  "nsfw": "white",
+  "created_at": "2016-07-06T12:45:43+00:00",
+  "updated_at": "2021-06-24T05:53:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:30"
+  },
+  "source": "original",
+  "average_episode_duration": 770,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1569,
+      "name": "Seven Arcs Pictures"
+    }
+  ]
+}

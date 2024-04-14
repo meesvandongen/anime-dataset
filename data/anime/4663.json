@@ -1,0 +1,68 @@
+{
+  "id": 4663,
+  "title": "Tekken Chinmi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/57443.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/57443l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ironfist Chinmi"
+    ],
+    "en": "Iron Fist Chinmi",
+    "ja": "鉄拳チンミ"
+  },
+  "start_date": "1988-07-02",
+  "end_date": "1988-12-24",
+  "synopsis": "Chinmi is a young Chinese boy devoted to martial arts training. Word of his skill reaches the kung-fu masters at the famous Dailin temple who invite him to study with them. Through his own dedication and the guidance of his teachers, Chinmi becomes one of the top students at the temple. Eventually, the time comes for him to leave Dailin and make a pilgrimage. On his journey he faces a number of dangers that test his skills, but he also meets many people who inspire him in different ways. A chastened but determined Chinmi returns to Dailin for advanced training. But soon his skills are needed again—the Mongol hordes are nearing the temple.\n\n(Source: ANN)",
+  "mean": 7.23,
+  "rank": 3116,
+  "popularity": 8629,
+  "num_list_users": 4720,
+  "num_scoring_users": 1976,
+  "nsfw": "white",
+  "created_at": "2008-06-08T14:52:50+00:00",
+  "updated_at": "2021-12-14T18:02:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 1988,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 196,
+      "name": "Production Reed"
+    },
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

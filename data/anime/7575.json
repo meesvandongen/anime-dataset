@@ -1,0 +1,66 @@
+{
+  "id": 7575,
+  "title": "Oh! Family",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/61193.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/61193l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Ｏｈ！ファミリー"
+  },
+  "start_date": "1986-10-06",
+  "end_date": "1987-03-30",
+  "synopsis": "This story takes place in Florida, USA. The main characters are the lovable members of the Anderson family; each has their own characteristics which both conflict with and support the others'. By going through many events together (meaningful events as well as weird ones), the bond between them grows stronger and tighter.\n\n(Source: MU, edited)",
+  "mean": 6.52,
+  "rank": 6755,
+  "popularity": 12039,
+  "num_list_users": 1511,
+  "num_scoring_users": 249,
+  "nsfw": "white",
+  "created_at": "2009-11-24T07:00:16+00:00",
+  "updated_at": "2020-06-07T06:53:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1986,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1398,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 452,
+      "name": "Knack Productions"
+    }
+  ]
+}

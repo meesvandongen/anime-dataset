@@ -1,0 +1,58 @@
+{
+  "id": 53716,
+  "title": "Hirogaru Sky! Precure",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1762/135268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1762/135268l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Soaring Sky! Pretty Cure",
+    "ja": "ひろがるスカイ！プリキュア"
+  },
+  "start_date": "2023-02-05",
+  "end_date": "2024-01-28",
+  "synopsis": "A major incident in peaceful Skyland?! The infant princess Ellee-chan has been kidnapped by a monster from the Undergu Empire! A brave girl named Sora follows the princess into a strange hole. It leads her to another world called Sorashido City. Televisions? Bicycles? Are these magical devices?!?! There's no time to be surprised! Sora has to take the princess back to the castle as soon as possible! Flying between two worlds! This is the beginning of a Precure adventure! It's hero time!\n\n(Source: Toei Animation USA)",
+  "mean": 7.83,
+  "rank": 918,
+  "popularity": 6486,
+  "num_list_users": 9616,
+  "num_scoring_users": 3055,
+  "nsfw": "white",
+  "created_at": "2022-11-30T03:31:36+00:00",
+  "updated_at": "2024-01-21T21:25:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

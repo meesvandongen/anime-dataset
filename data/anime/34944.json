@@ -1,0 +1,74 @@
+{
+  "id": 34944,
+  "title": "Bungou Stray Dogs: Dead Apple",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1127/93981.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1127/93981l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bungo Stray Dogs: Dead Apple",
+    "ja": "文豪ストレイドッグス DEAD APPLE"
+  },
+  "start_date": "2018-03-03",
+  "end_date": "2018-03-03",
+  "synopsis": "A large-scale catastrophe is occurring across the planet. Ability users are discovered after the appearance of a mysterious fog, apparently having committed suicide, so the Armed Detective Agency sets out to investigate these mysterious deaths. The case seems to involve an unknown ability user referred to as \"Collector,\" a man who could be the mastermind behind the incident.\n\nTrust and courage are put to the test in order to save the city of Yokohama and ability users across the world from the grip of Collector where the Armed Detective Agency forms an unlikely partnership with the dangerous Port Mafia. \n\n[Written by MAL Rewrite]",
+  "mean": 7.92,
+  "rank": 742,
+  "popularity": 863,
+  "num_list_users": 279641,
+  "num_scoring_users": 158081,
+  "nsfw": "white",
+  "created_at": "2017-02-19T14:23:46+00:00",
+  "updated_at": "2023-10-09T06:38:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 5400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

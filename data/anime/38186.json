@@ -1,0 +1,73 @@
+{
+  "id": 38186,
+  "title": "Bokutachi wa Benkyou ga Dekinai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1602/100510.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1602/100510l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "BokuBen",
+      "We Can't Study"
+    ],
+    "en": "We Never Learn: BOKUBEN",
+    "ja": "ぼくたちは勉強ができない"
+  },
+  "start_date": "2019-04-07",
+  "end_date": "2019-06-30",
+  "synopsis": "Nariyuki Yuiga, an impoverished third-year high school student, works tirelessly to receive the VIP nomination, a scholarship that would cover all of his college tuition fees. In recognition of his hard work, the headmaster awards him the renowned scholarship.\n\nHowever, this scholarship is given under one condition: he must tutor the school's geniuses in their weakest subjects! Joining his new brigade of pupils are the math maestro Rizu Ogata, who wants to study humanities; the literature legend Fumino Furuhashi, who wants to study science; and Yuiga's sports-savvy childhood friend, Uruka Takemoto, who is hopeless at everything else.\n\nBokutachi wa Benkyou ga Dekinai follows Yuiga as he tries to teach his three eccentric tutees in a series of strange and comedic antics. But as Ogata's and Furuhashi's ambitions conflict with their talents, will Yuiga be able to help his students achieve their dreams?\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.27,
+  "rank": 2903,
+  "popularity": 512,
+  "num_list_users": 438592,
+  "num_scoring_users": 228838,
+  "nsfw": "white",
+  "created_at": "2018-08-16T01:25:22+00:00",
+  "updated_at": "2022-05-08T09:06:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1873,
+      "name": "Silver"
+    },
+    {
+      "id": 1874,
+      "name": "Arvo Animation"
+    }
+  ]
+}

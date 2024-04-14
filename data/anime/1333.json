@@ -1,0 +1,65 @@
+{
+  "id": 1333,
+  "title": "Fushigi na Koala Blinky",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/4322.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/4322l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Brinky and Printy",
+      "Blinky the Wonderful Koala"
+    ],
+    "en": "Noozles",
+    "ja": "ふしぎなコアラ ブリンキー"
+  },
+  "start_date": "1984-07-07",
+  "end_date": "1984-12-28",
+  "synopsis": "One day, Sandy's father, Prof. Brown, sends her a stuffed koala doll from one of his trips. Sandy discovers that, after rubbing the koala's nose, he comes alive. His name is Blinky and he is from the magical \"down under\" Koalawalla Land. They are soon joined by his little sister, Pinky. Adventures ensue in both Sandy's world and Koalawalla land. Among the characters met are 2 men after the \"magical talking bear\", a lizard that bounces back and forth from the magical realm and the real realm, and kangaroo police officers.\n\n(Source: ANN)",
+  "mean": 6.1,
+  "rank": 9094,
+  "popularity": 12873,
+  "num_list_users": 1156,
+  "num_scoring_users": 415,
+  "nsfw": "white",
+  "created_at": "2006-08-16T02:29:48+00:00",
+  "updated_at": "2021-06-05T21:51:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

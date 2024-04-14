@@ -1,0 +1,72 @@
+{
+  "id": 35557,
+  "title": "Houseki no Kuni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/88293.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/88293l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Country of Jewels"
+    ],
+    "en": "Land of the Lustrous",
+    "ja": "宝石の国"
+  },
+  "start_date": "2017-10-07",
+  "end_date": "2017-12-23",
+  "synopsis": "In the mysterious future, crystalline organisms called Gems inhabit a world that has been destroyed by six meteors. Each Gem is assigned a role in order to fight against the Lunarians, a species who attacks them in order to shatter their bodies and use them as decorations. \n\nPhosphophyllite, also known as Phos, is a young and fragile Gem who dreams of helping their friends in the war effort. Instead, they are told to compile an encyclopedia because of their delicate condition. After begrudgingly embarking on this task, Phos meets Cinnabar, an intelligent gem who has been relegated to patrolling the isolated island at night because of the corrosive poison their body creates. After seeing how unhappy Cinnabar is, Phos decides to find a role that both of the rejected Gems can enjoy. Houseki no Kuni follows Phos' efforts to be useful and protect their fellow Gems.\n\n[Written by MAL Rewrite]",
+  "mean": 8.39,
+  "rank": 187,
+  "popularity": 489,
+  "num_list_users": 460018,
+  "num_scoring_users": 196942,
+  "nsfw": "white",
+  "created_at": "2017-05-09T20:38:56+00:00",
+  "updated_at": "2023-01-24T00:13:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "21:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1109,
+      "name": "Orange"
+    }
+  ]
+}

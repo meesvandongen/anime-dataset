@@ -1,0 +1,61 @@
+{
+  "id": 10832,
+  "title": "Ikoku Meiro no Croisée: Yune & Alice",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/31995.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/31995l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ikoku Meiro no Croisée The Animation: Yune & Alice",
+      "Ikoku Meiro no Croisee The Animation: Yune & Alice"
+    ],
+    "en": "La croisée dans un labyrinthe étranger: Yune & Alice",
+    "ja": "異国迷路のクロワーゼ 「湯音＆アリス」"
+  },
+  "start_date": "2011-09-21",
+  "end_date": "2012-03-21",
+  "synopsis": "Each of the seven volumes of the Blu-ray & DVDs will carry a short SD anime titled \"Yune & Alice\".",
+  "mean": 6.31,
+  "rank": 8012,
+  "popularity": 8502,
+  "num_list_users": 4933,
+  "num_scoring_users": 1810,
+  "nsfw": "white",
+  "created_at": "2011-06-14T09:12:54+00:00",
+  "updated_at": "2018-11-22T07:38:27+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

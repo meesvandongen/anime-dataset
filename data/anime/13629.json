@@ -1,0 +1,51 @@
+{
+  "id": 13629,
+  "title": "Furiko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/68985.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/68985l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Exogenesis: Symphony Part 3 (Redemption)"
+    ],
+    "en": "Pendulum",
+    "ja": "振り子"
+  },
+  "start_date": "2012-03-16",
+  "end_date": "2012-03-16",
+  "synopsis": "Furiko, meaning \"pendulum,\" shows the highs and lows of a family of two—a high schooler, and his future wife, whom he rescues from delinquents. From the brilliant mind of comedian Tekken, comes a heartwarming story of a couple overcoming their differences even as they struggle through life. Not a moment goes by without meaning or expression in these four and a half minutes.\n\n[Written by MAL Rewrite]",
+  "mean": 7.46,
+  "rank": 2012,
+  "popularity": 4871,
+  "num_list_users": 19896,
+  "num_scoring_users": 12862,
+  "nsfw": "white",
+  "created_at": "2012-03-31T09:28:53+00:00",
+  "updated_at": "2022-12-20T08:15:45+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 270,
+  "rating": "g",
+  "studios": []
+}

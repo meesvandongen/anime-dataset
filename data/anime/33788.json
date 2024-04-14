@@ -1,0 +1,62 @@
+{
+  "id": 33788,
+  "title": "Marginal#4: Kiss kara Tsukuru Big Bang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/83799.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/83799l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "MARGINAL #4 the Animation",
+    "ja": "MARGINAL#4 KISSから創造るBig Bang"
+  },
+  "start_date": "2017-01-12",
+  "end_date": "2017-03-30",
+  "synopsis": "The freshly debuted idol group Marginal#4 dreams of delivering their kisses to the end of the galaxy. Composed of Atom Kirihara, Rui Aiba, and the twins L and R Nomura, Marginal#4 aims to reach the top of the idol world, following in the footsteps of Pythagoras Productions' previous idol group, Lagrange Point.\n\nWhen they aren't performing, however, the boys of Marginal#4 are ordinary high school students. From securing a club room and chasing down missing underwear to filming commercials, their days are packed with various hijinks. As the boys navigate a flurry of events, they try to become shooting star sensations and charm the hearts of their fans, known as the Starclusters.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.67,
+  "rank": 5884,
+  "popularity": 5205,
+  "num_list_users": 16684,
+  "num_scoring_users": 5305,
+  "nsfw": "white",
+  "created_at": "2016-08-05T11:45:56+00:00",
+  "updated_at": "2022-03-28T23:54:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:30"
+  },
+  "source": "music",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

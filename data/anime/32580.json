@@ -1,0 +1,48 @@
+{
+  "id": 32580,
+  "title": "Uniminipet",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/78218.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/78218l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uni Mini Pet"
+    ],
+    "en": "",
+    "ja": "유니미니펫"
+  },
+  "start_date": "2001-06-15",
+  "end_date": "2001-12-07",
+  "synopsis": "Dong Woo is a very pleasant, responsible and cheerful boy. He gets weird feelings every time he opens his closet door and is the only one that can sense these feelings. Why is this? Dong Woo is destined to be \"the person that opens the Door\". His closet is a secret channel that connects the real world to the fourth dimension world called \"Uniland \". Whenever he opens the door, the wavelength from the other world is transferred to him.\n\n(Source: AWN, edited)",
+  "rank": 14160,
+  "popularity": 16844,
+  "num_list_users": 422,
+  "num_scoring_users": 92,
+  "nsfw": "white",
+  "created_at": "2016-01-22T10:42:47+00:00",
+  "updated_at": "2021-07-19T09:45:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday"
+  },
+  "average_episode_duration": 1245,
+  "rating": "g",
+  "studios": []
+}

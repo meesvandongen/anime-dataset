@@ -1,0 +1,47 @@
+{
+  "id": 29455,
+  "title": "Cabbage UFO",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/70819.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/70819l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Kyabetsu UFO"
+    ],
+    "en": "",
+    "ja": "キャベツUFO"
+  },
+  "start_date": "1984-06-02",
+  "end_date": "1984-06-02",
+  "synopsis": "Music video for the song by Kumi Konno featured on NHK's Minna no Uta program.",
+  "mean": 4.93,
+  "popularity": 16034,
+  "num_list_users": 497,
+  "num_scoring_users": 262,
+  "nsfw": "white",
+  "created_at": "2015-01-11T19:45:35+00:00",
+  "updated_at": "2019-11-14T00:44:22+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

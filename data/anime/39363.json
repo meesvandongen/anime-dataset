@@ -1,0 +1,56 @@
+{
+  "id": 39363,
+  "title": "Astro Boy: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1401/99387.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1401/99387l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Astro Boy: Mighty Atom - Visitor of 100,000 Light Years, IGZA",
+      "Astro Boy vs IGZA"
+    ],
+    "en": "ASTROBOY - VISITOR OF 100,000 LIGHT -YEARS IGZA-",
+    "ja": "ASTRO BOY 鉄腕アトム 10万光年の来訪者・IGZA"
+  },
+  "start_date": "2005-09-01",
+  "end_date": "2005-09-01",
+  "synopsis": "Japan's first fully animated IMAX anime film. Interplanetary spacecraft Galileo II is heading for Saturn's largest moon Titan. However the machines on the moon are trying to destroy humans, so Atom must go and fix the problem.",
+  "mean": 6.45,
+  "rank": 7140,
+  "popularity": 12829,
+  "num_list_users": 1168,
+  "num_scoring_users": 338,
+  "nsfw": "white",
+  "created_at": "2019-02-24T08:03:24+00:00",
+  "updated_at": "2019-02-24T08:03:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2460,
+  "rating": "g",
+  "studios": []
+}

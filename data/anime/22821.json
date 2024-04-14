@@ -1,0 +1,54 @@
+{
+  "id": 22821,
+  "title": "Himitsukessha Taka no Tsume EX",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/61107.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/61107l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Secret Society Eagle Talon Extreme"
+    ],
+    "en": "",
+    "ja": "秘密結社鷹の爪 EX"
+  },
+  "start_date": "2014-04-11",
+  "end_date": "2015-03-06",
+  "synopsis": "Sequel to the previous season of the flash anime series.",
+  "rank": 20093,
+  "popularity": 15206,
+  "num_list_users": 600,
+  "num_scoring_users": 117,
+  "nsfw": "white",
+  "created_at": "2014-02-22T15:31:56+00:00",
+  "updated_at": "2015-03-24T07:50:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

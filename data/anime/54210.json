@@ -1,0 +1,54 @@
+{
+  "id": 54210,
+  "title": "Niehime to Kemono no Ou Mini Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1110/132681.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1110/132681l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "贄姫と獣の王 ミニアニメ"
+  },
+  "start_date": "2022-11-21",
+  "end_date": "2023-09-28",
+  "synopsis": "Niehime to Kemono no Ou shorts posted online prior to the anime's broadcast.",
+  "mean": 5.89,
+  "rank": 10047,
+  "popularity": 15133,
+  "num_list_users": 612,
+  "num_scoring_users": 150,
+  "nsfw": "white",
+  "created_at": "2023-01-11T21:45:21+00:00",
+  "updated_at": "2023-10-02T11:36:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 44,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

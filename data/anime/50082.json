@@ -1,0 +1,39 @@
+{
+  "id": 50082,
+  "title": "Ending Song",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1415/118717.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1415/118717l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "エンディングソング"
+  },
+  "start_date": "2014-12-11",
+  "end_date": "2014-12-11",
+  "synopsis": "Music video for the song Ending Song by Megu To Patron.",
+  "popularity": 21029,
+  "num_list_users": 159,
+  "num_scoring_users": 83,
+  "nsfw": "white",
+  "created_at": "2021-10-09T09:21:21+00:00",
+  "updated_at": "2021-10-09T11:05:37+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 258,
+  "rating": "g",
+  "studios": []
+}

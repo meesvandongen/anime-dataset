@@ -1,0 +1,76 @@
+{
+  "id": 1658,
+  "title": "Karakuri no Kimi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1772/112908.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1772/112908l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Clockwork Ones"
+    ],
+    "en": "Puppet Princess",
+    "ja": "からくりの君"
+  },
+  "start_date": "2000-03-24",
+  "end_date": "2000-03-24",
+  "synopsis": "In an obscure corner of feudal Japan, a clumsy young girl carrying a massive box searches for a legendary ninja. That girl is Rangiku Ayawatari—the sole survivor of the Ayuwatari clan—and she seeks revenge against Lord Sadayoshi Karimata, the man who slaughtered her family and stole the secrets of her father's prized puppet collection. However, in place of the legendary ninja, Rangiku finds Yasaburou Manajiri, a vagabond who is being pursued by \"deathless ninjas\"—strange, fearless warriors who can survive seemingly fatal blows. Upon discovering that they share a common enemy, the pair team up to defeat the cruel lord and rid the world of strange puppets that conceal a horrible secret.\n\n[Written by MAL Rewrite]",
+  "mean": 6.47,
+  "rank": 7061,
+  "popularity": 6746,
+  "num_list_users": 8700,
+  "num_scoring_users": 3261,
+  "nsfw": "white",
+  "created_at": "2006-11-12T19:41:11+00:00",
+  "updated_at": "2024-01-05T05:18:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2505,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

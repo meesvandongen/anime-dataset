@@ -1,0 +1,66 @@
+{
+  "id": 2971,
+  "title": "Kyou kara Maou! R",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/22619.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/22619l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyou Kara Maou! OVA",
+      "Kyou Kara Maoh! R",
+      "Maruma OVA"
+    ],
+    "en": "",
+    "ja": "今日からマ王！R"
+  },
+  "start_date": "2007-10-26",
+  "end_date": "2008-03-28",
+  "synopsis": "Life has returned to some form of normalcy after the end of the series, and so His Majesty Yuuri Shibuya travels to oversee how things are going. While doing so, he runs into the king of Small Shimeron--Sararegi. But it seems there may be something more to him than the friendly king he presents himself as. Yuuri go back to Shimaron to relax and meet some friends, when the \"king\" of Little Shimaron suddenly joins the group and wants the Maou to come to his country. The Original king sends a message to Yuuri's brother and his friend that Yuuri is in trouble.\n\n(Source: ANN)",
+  "mean": 7.4,
+  "rank": 2276,
+  "popularity": 4470,
+  "num_list_users": 24207,
+  "num_scoring_users": 10603,
+  "nsfw": "white",
+  "created_at": "2007-08-10T18:59:18+00:00",
+  "updated_at": "2023-04-20T12:03:54+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

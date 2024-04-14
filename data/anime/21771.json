@@ -1,0 +1,44 @@
+{
+  "id": 21771,
+  "title": "Romantica Clock",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/58769.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/58769l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ribbon x Oha Suta Specials",
+      "Ribon x Oha Suta Specials"
+    ],
+    "en": "",
+    "ja": "ロマンチカ クロック"
+  },
+  "start_date": "2014-02-04",
+  "end_date": "2014-02-25",
+  "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials. \n\nAkane: She's beautiful and popular, lively and full of vitality; Aoi: Looks like a small animal but is actually very clever. Who knew that these two very different people were actually... twin siblings?! \n\n(Source: MU) \n\nNote: Episodes were made available on the official stream few days before the official broadcast.",
+  "mean": 5.68,
+  "rank": 10953,
+  "popularity": 5650,
+  "num_list_users": 13544,
+  "num_scoring_users": 6749,
+  "nsfw": "white",
+  "created_at": "2013-12-25T15:34:36+00:00",
+  "updated_at": "2022-01-08T20:08:53+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 80,
+  "rating": "g",
+  "studios": []
+}

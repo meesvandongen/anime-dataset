@@ -1,0 +1,58 @@
+{
+  "id": 34368,
+  "title": "Vatican Kiseki Chousakan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/86746.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/86746l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Vatican Miracle Examiner",
+    "ja": "バチカン奇跡調査官"
+  },
+  "start_date": "2017-07-07",
+  "end_date": "2017-09-22",
+  "synopsis": "Fathers Josef Kou Hiraga and Roberto Nicholas are Vatican Miracle Examiners who investigate the authenticity of miraculous phenomena reported from all over the world. In every seemingly sacred event lies horrors of hidden conspiracies, mysterious murders, and devil worship. In this battle of good and evil, Hiraga, a scientific and mathematical genius, and Roberto, a polymath in linguistics and classics, must work together to bring the truth to light. Will their friendship and faith endure the evils in their journey to find a true miracle?\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.41,
+  "rank": 7396,
+  "popularity": 3201,
+  "num_list_users": 47296,
+  "num_scoring_users": 17104,
+  "nsfw": "white",
+  "created_at": "2016-11-13T07:20:11+00:00",
+  "updated_at": "2022-06-12T05:34:04+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "novel",
+  "average_episode_duration": 1475,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

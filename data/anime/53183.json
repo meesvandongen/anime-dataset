@@ -1,0 +1,49 @@
+{
+  "id": 53183,
+  "title": "Lupin III x McDonald's CMs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1068/128686.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1068/128686l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saraba Nagaki Chuumon",
+      "Saraba Nagaki Order",
+      "Goodbye to Long Orders"
+    ],
+    "en": "",
+    "ja": "さらば長き注文（オーダー）"
+  },
+  "start_date": "2022-09-27",
+  "end_date": "2023-01-10",
+  "synopsis": "In this new 30-second ad, entitled Goodbye to Long Orders, the Lupin III crew visit the McDonald's drive-in to grab a bite, but Lupin has forgotten Fujiko's order. Thanks to a mobile order code from Goemon, though, the day is saved.\n\n(Source: Otaku Magazine USA)",
+  "mean": 6.04,
+  "popularity": 14216,
+  "num_list_users": 795,
+  "num_scoring_users": 376,
+  "nsfw": "gray",
+  "created_at": "2022-09-27T17:13:57+00:00",
+  "updated_at": "2023-12-26T20:32:38+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 36,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1291,
+      "name": "KOO-KI"
+    }
+  ]
+}

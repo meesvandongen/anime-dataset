@@ -1,0 +1,47 @@
+{
+  "id": 57436,
+  "title": "Heart Cocktail Colorful: Fuyu-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1682/140141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1682/140141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ハートカクテル カラフル 冬編"
+  },
+  "start_date": "2023-12-11",
+  "end_date": "2023-12-15",
+  "synopsis": "",
+  "rank": 19988,
+  "popularity": 17752,
+  "num_list_users": 355,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2023-12-04T16:40:58+00:00",
+  "updated_at": "2023-12-27T00:22:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": []
+}

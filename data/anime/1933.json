@@ -1,0 +1,50 @@
+{
+  "id": 1933,
+  "title": "Growlanser IV: Wayfarer of the Time",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1135/106141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1135/106141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Growlanser IV: Wayfarer of Time",
+    "ja": "グローランサーIV ~Wayfarer of the time~"
+  },
+  "start_date": "2005-03-10",
+  "end_date": "2005-03-10",
+  "synopsis": "A promotional ova that came with the PS2 game, Growlanser IV Returns which is an add-on featuring a compilation of three short stories that is told in visual novel style.\n\nSince it is a promotional ova, various main characters from Growlanser I, Growlanser II, and Growlanser III do appear in the ED. Actually, some of the fairies of these main characters do appear in Growlanser IV as that the entire Growlanser story is based on anti-war featuring time freeze, time traveling, and parallel worlds.",
+  "mean": 5.41,
+  "rank": 11861,
+  "popularity": 11187,
+  "num_list_users": 2032,
+  "num_scoring_users": 755,
+  "nsfw": "white",
+  "created_at": "2007-02-12T15:24:59+00:00",
+  "updated_at": "2019-09-09T13:08:16+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    },
+    {
+      "id": 218,
+      "name": "Zexcs"
+    }
+  ]
+}

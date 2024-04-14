@@ -1,0 +1,70 @@
+{
+  "id": 2251,
+  "title": "Baccano!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/14547.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Baccano!",
+    "ja": "バッカーノ！"
+  },
+  "start_date": "2007-07-27",
+  "end_date": "2007-11-02",
+  "synopsis": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, is starting its legendary journey that will leave a trail of blood all over the country. At the same time in New York, the ambitious scientist Szilard and his unwilling aide Ennis are looking for missing bottles of the immortality elixir. In addition, a war between the mafia groups is getting worse. On board the Advena Avis, in 1711, alchemists are about to learn the price of immortality.\n\nBased on the award-winning light novels of the same name, Baccano! follows several events that initially seem unrelated, both in time and place, but are part of a much bigger story—one of alchemy, survival, and immortality. Merging these events together are the kindhearted would-be thieves, Isaac and Miria, connecting various people, all of them with their own hidden ambitions and agendas, and creating lifelong bonds and consequences for everyone involved.\n\n[Written by MAL Rewrite] ",
+  "mean": 8.36,
+  "rank": 207,
+  "popularity": 189,
+  "num_list_users": 904645,
+  "num_scoring_users": 381757,
+  "nsfw": "white",
+  "created_at": "2007-04-10T14:34:24+00:00",
+  "updated_at": "2024-01-05T05:12:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1480,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

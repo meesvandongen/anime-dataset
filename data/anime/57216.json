@@ -1,0 +1,41 @@
+{
+  "id": 57216,
+  "title": "Buta Thunder",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1710/139742.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1710/139742l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pig Thunder"
+    ],
+    "en": "",
+    "ja": "ブタサンダー"
+  },
+  "start_date": "2023-11-17",
+  "end_date": "2023-11-17",
+  "synopsis": "Music video for the song Buta Thunder by Yukopi.",
+  "popularity": 21429,
+  "num_list_users": 140,
+  "num_scoring_users": 71,
+  "nsfw": "white",
+  "created_at": "2023-11-20T06:43:14+00:00",
+  "updated_at": "2023-11-20T06:43:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 137,
+  "rating": "g",
+  "studios": []
+}

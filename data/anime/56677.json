@@ -1,0 +1,55 @@
+{
+  "id": 56677,
+  "title": "Saekomdalkom Catch! Tiniping",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1673/141592.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1673/141592l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dessert Catch! Teenieping",
+      "Catch! Teenieping 4th Season"
+    ],
+    "en": "",
+    "ja": "새콤달콤 캐치! 티니핑"
+  },
+  "start_date": "2023-09-27",
+  "end_date": "2024-04-03",
+  "synopsis": "Puffping stole the Magic Sugar Ball! This has created a strange magical phenomenon where all the Dessert Teeniepings get sucked into a mirror which releases them on Earth for Romi to catch! Along with the Royal Dessert Teeniepings, Jellyping, Shashaping, and Fluffyping, Romi will have to accomplish her mission as fast as possible, otherwise, the Cake Castle will inevitably collapse!\n\n(Source: Catch Teenieping Wiki)",
+  "rank": 17620,
+  "popularity": 17382,
+  "num_list_users": 382,
+  "num_scoring_users": 27,
+  "nsfw": "white",
+  "created_at": "2023-09-16T20:57:38+00:00",
+  "updated_at": "2024-04-14T07:47:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday"
+  },
+  "source": "original",
+  "average_episode_duration": 702,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2541,
+      "name": "SAMG Entertainment "
+    }
+  ]
+}

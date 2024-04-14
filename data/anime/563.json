@@ -1,0 +1,75 @@
+{
+  "id": 563,
+  "title": "DNA²",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1433/103506.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1433/103506l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DNA Squared",
+      "Dokokade Nakushita Aitsuno Aitsu",
+      "DNA2",
+      "DNA^2"
+    ],
+    "en": "DNA²",
+    "ja": "Ｄ・Ｎ・Ａ²　～何処かで失くしたあいつのアイツ～"
+  },
+  "start_date": "1994-10-07",
+  "end_date": "1994-12-23",
+  "synopsis": "Karin, a DNA operator from the future, is on a mission to change the course of History by stopping Junta Momonari from becoming the Mega-Playboy who fathered 100 children and led to the overpopulation of the world. But Junta is no playboy; in fact he is allergic to girls. But when Karin shoots him with the wrong DNA-altering bullet, he starts sporadically becoming the Mega-Playboy capable of charming any woman. Karin must try to restore the situation to normal before the change to Mega-Playboy becomes irreversible. \n\n(Source: ANN)",
+  "mean": 6.64,
+  "rank": 6096,
+  "popularity": 3320,
+  "num_list_users": 44161,
+  "num_scoring_users": 20729,
+  "nsfw": "white",
+  "created_at": "2006-01-09T06:05:58+00:00",
+  "updated_at": "2022-11-06T09:32:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "17:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    },
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

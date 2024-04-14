@@ -1,0 +1,57 @@
+{
+  "id": 48703,
+  "title": "Riku wa Yowakunai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1647/117700.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1647/117700l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "リクはよわくない"
+  },
+  "start_date": "2021-10-01",
+  "end_date": "2021-10-01",
+  "synopsis": "Based on Sakagami's own life, the story follows the carefree daily lives of a 5-year-old and a puppy named Riku. In addition to the Italian greyhound Riku, the characters include the chihuahua Tsutomu, the miniature dachshund Yousuke, the French bulldog Maruchan, and the pug Paguzоou.\n\n(Source: ANN)",
+  "rank": 17515,
+  "popularity": 18759,
+  "num_list_users": 285,
+  "num_scoring_users": 45,
+  "nsfw": "white",
+  "created_at": "2021-04-09T04:58:41+00:00",
+  "updated_at": "2022-10-12T15:51:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 3720,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    },
+    {
+      "id": 1851,
+      "name": "Jumonji"
+    }
+  ]
+}

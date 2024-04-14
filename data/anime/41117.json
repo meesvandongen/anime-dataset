@@ -1,0 +1,52 @@
+{
+  "id": 41117,
+  "title": "Gozonji! Kakuza Tousan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1437/105576.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1437/105576l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ご存知!かくざ父さん"
+  },
+  "start_date": "2007-07-07",
+  "end_date": "2007-12-31",
+  "synopsis": "The second season of the Kakuza Tousan franchise.",
+  "rank": 19769,
+  "popularity": 19496,
+  "num_list_users": 243,
+  "num_scoring_users": 52,
+  "nsfw": "white",
+  "created_at": "2020-01-23T08:51:43+00:00",
+  "updated_at": "2020-01-23T08:51:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": []
+}

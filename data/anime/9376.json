@@ -1,0 +1,68 @@
+{
+  "id": 9376,
+  "title": "Yamato Takeru: After War",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1240/96605.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1240/96605l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maxbot: After War"
+    ],
+    "en": "",
+    "ja": "ヤマトタケル ～After War～"
+  },
+  "start_date": "1995-11-22",
+  "end_date": "1995-11-22",
+  "synopsis": "Three years have passed after the decisive battle at the end of Yamato Takeru  and peace has return to the land. Takeru, Oto and their friends return to the village and continue living their days in bliss until one night Shuranoo, piloted by Mikazuchi, marks a return and appears in the village to wreak havoc. Takeru is left without any choice and is forced to reactivate the sealed Susanoo from his slumber. However, this is just the beginning of a new threat, and Takeru has to overcome himself if he wants to rescue Oto from the impending danger.\n\n(Source: AniDB)",
+  "mean": 6.25,
+  "rank": 8321,
+  "popularity": 13774,
+  "num_list_users": 899,
+  "num_scoring_users": 255,
+  "nsfw": "white",
+  "created_at": "2010-08-16T10:57:57+00:00",
+  "updated_at": "2022-11-06T09:19:18+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1402,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

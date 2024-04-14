@@ -1,0 +1,42 @@
+{
+  "id": 17086,
+  "title": "Agigongryong Doolie (1988)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/45787.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/45787l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baby Dinosaur Dooly (1988)"
+    ],
+    "en": "Little Dino Dooly (1988)",
+    "ja": "아기공룡 둘리"
+  },
+  "start_date": "1988-05-05",
+  "end_date": "1988-05-05",
+  "synopsis": "Continuation of the series from 1987.",
+  "mean": 5.56,
+  "rank": 11413,
+  "popularity": 15909,
+  "num_list_users": 511,
+  "num_scoring_users": 153,
+  "nsfw": "white",
+  "created_at": "2013-01-09T04:34:44+00:00",
+  "updated_at": "2019-03-26T00:54:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 1988,
+    "season": "spring"
+  },
+  "average_episode_duration": 920,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 37990,
+  "title": "Gurazeni Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1496/95059.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1496/95059l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gurazeni 2nd Season",
+      "Gurazeni (2018)"
+    ],
+    "en": "",
+    "ja": "グラゼニ シーズン2"
+  },
+  "start_date": "2018-10-05",
+  "end_date": "2018-12-21",
+  "synopsis": "Second season of Gurazeni.",
+  "mean": 6.75,
+  "rank": 5466,
+  "popularity": 8541,
+  "num_list_users": 4871,
+  "num_scoring_users": 2608,
+  "nsfw": "white",
+  "created_at": "2018-07-21T03:04:04+00:00",
+  "updated_at": "2023-01-09T06:50:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

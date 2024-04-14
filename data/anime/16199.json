@@ -1,0 +1,59 @@
+{
+  "id": 16199,
+  "title": "Girls & Panzer: Shoukai Shimasu!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/43631.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/43631l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Girls und Panzer Recaps",
+      "Girls und Panzer Episode 5.5",
+      "Girls und Panzer Episode 10.5",
+      "Girls und Panzer: Introductions!"
+    ],
+    "en": "",
+    "ja": "ガールズ&パンツァー 紹介します！"
+  },
+  "start_date": "2012-11-13",
+  "end_date": "2012-12-25",
+  "synopsis": "Specials aired between episodes five and six and episodes ten and eleven, both recapitulation episodes.",
+  "mean": 6.68,
+  "rank": 5850,
+  "popularity": 4878,
+  "num_list_users": 19820,
+  "num_scoring_users": 9973,
+  "nsfw": "white",
+  "created_at": "2012-11-06T00:36:09+00:00",
+  "updated_at": "2024-02-25T11:33:27+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
+}

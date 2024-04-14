@@ -1,0 +1,46 @@
+{
+  "id": 33539,
+  "title": "Shima Kousaku no Asia Risshi-den Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/80671.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/80671l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shima Kosaku's Asian Entrepreneurs Specials"
+    ],
+    "en": "",
+    "ja": "島耕作のアジア立志伝"
+  },
+  "start_date": "2013-05-01",
+  "end_date": "2014-05-05",
+  "synopsis": "Specials of Shima Kousaku no Asia Risshi-den not considered a part of the normal episode count. The first two are a part of phase 1 and sandwich the arc. The 3rd episode is a New Years special in the middle of phase 2. And the 4th one is a recap of the ASEAN market after Phase 2 finished.",
+  "rank": 18010,
+  "popularity": 19871,
+  "num_list_users": 224,
+  "num_scoring_users": 36,
+  "nsfw": "white",
+  "created_at": "2016-07-02T06:16:34+00:00",
+  "updated_at": "2017-07-10T10:55:47+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 2400,
+  "rating": "pg_13",
+  "studios": []
+}

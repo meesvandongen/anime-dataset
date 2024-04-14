@@ -1,0 +1,72 @@
+{
+  "id": 42091,
+  "title": "Shingeki no Kyojin: Chronicle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1786/110717.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1786/110717l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Attack on Titan: Chronicle"
+    ],
+    "en": "Attack on Titan: Chronicle",
+    "ja": "進撃の巨人 〜クロニクル〜"
+  },
+  "start_date": "2020-07-17",
+  "end_date": "2020-07-17",
+  "synopsis": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
+  "mean": 7.77,
+  "rank": 1057,
+  "popularity": 2252,
+  "num_list_users": 87552,
+  "num_scoring_users": 28564,
+  "nsfw": "white",
+  "created_at": "2020-05-29T09:26:01+00:00",
+  "updated_at": "2024-03-06T12:45:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 7200,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 6227,
+  "title": "Lovedol: Lovely Idol OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/65169.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/65169l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lovedol Episode 13",
+      "Lovely Idol Special",
+      "Love dol: Lovely Idol",
+      "Lovedol: Onsen desuka?"
+    ],
+    "en": "Lovedol ~Lovely Idol~",
+    "ja": "らぶドル 温泉ですか？"
+  },
+  "start_date": "2007-03-28",
+  "end_date": "2007-03-28",
+  "synopsis": "This is a special episode of Lovedol. It's also called episode 13 of the series.\n\nLovedol, or Lovely Idol, is a girl group consisting of two generations of idols. The 3rd Generation is about to make its debut, but to their surprise, they have been delayed! The vague reason is only that \"they lack something.\" The manager, and the 3rd Gen. girls too, must find the answer.\n",
+  "mean": 6.01,
+  "rank": 9518,
+  "popularity": 11010,
+  "num_list_users": 2143,
+  "num_scoring_users": 630,
+  "nsfw": "white",
+  "created_at": "2009-03-20T07:58:40+00:00",
+  "updated_at": "2021-11-29T00:09:24+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "winter"
+  },
+  "average_episode_duration": 1722,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 88,
+      "name": "AIC ASTA"
+    },
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

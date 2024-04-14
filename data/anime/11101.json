@@ -1,0 +1,61 @@
+{
+  "id": 11101,
+  "title": "Honoo no Alpenrose",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/30729.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/30729l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Blazing Alpenrose",
+      "Dramatic Memory Honoo no Alpenrose"
+    ],
+    "en": "",
+    "ja": "ドラマチックメモリー 炎のアルペンローゼ"
+  },
+  "start_date": "1986-02-15",
+  "end_date": "1986-03-31",
+  "synopsis": "Two-part OVA that summarises the entire Honoo no Alpenrose TV series featuring a new dubbing and reworked scenes.\n\n(Source: AniDB)",
+  "mean": 6.22,
+  "rank": 8489,
+  "popularity": 13628,
+  "num_list_users": 937,
+  "num_scoring_users": 253,
+  "nsfw": "white",
+  "created_at": "2011-07-30T06:00:36+00:00",
+  "updated_at": "2022-03-10T12:38:22+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1986,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 4560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

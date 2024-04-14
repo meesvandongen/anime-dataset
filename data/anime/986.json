@@ -1,0 +1,65 @@
+{
+  "id": 986,
+  "title": "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1978/138488.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1978/138488l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DBZ: A Final Solitary Battle! The Z Warrior Son Goku's Father Challenges Furiza",
+      "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen - Freezer ni Idonda Z Senshi Son Gokuu no Chichi"
+    ],
+    "en": "Dragon Ball Z: Bardock, The Father of Goku",
+    "ja": "DRAGON BALL Z スペシャル たったひとりの最終決戦~フリーザに挑んだZ戦士孫悟空の父~"
+  },
+  "start_date": "1990-10-17",
+  "end_date": "1990-10-17",
+  "synopsis": "Bardock, Son Goku's father, is a low-ranking Saiyan soldier who was given the power to see into the future by the last remaining alien on a planet he just destroyed. He witnesses the destruction of his race and must now do his best to stop Frieza's impending massacre.\n\n(Source: ANN)",
+  "mean": 7.57,
+  "rank": 1609,
+  "popularity": 2002,
+  "num_list_users": 105536,
+  "num_scoring_users": 67743,
+  "nsfw": "white",
+  "created_at": "2006-05-21T23:32:01+00:00",
+  "updated_at": "2023-12-27T18:39:26+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1990,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 2865,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

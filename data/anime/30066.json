@@ -1,0 +1,63 @@
+{
+  "id": 30066,
+  "title": "L/R: Licensed by Royal Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/72038.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/72038l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Licensed by Royalty Special",
+      "Licensed by Royalty ep 4",
+      "Licensed by Royal ep 4",
+      "Licensed by Royalty ep 3.5"
+    ],
+    "en": "Licensed by Royalty",
+    "ja": "L/R -Licensed by Royal-"
+  },
+  "start_date": "2003-04-25",
+  "end_date": "2003-04-25",
+  "synopsis": "Chronologically episode 4, this special never aired on TV.",
+  "mean": 6.13,
+  "rank": 8885,
+  "popularity": 14636,
+  "num_list_users": 695,
+  "num_scoring_users": 218,
+  "nsfw": "white",
+  "created_at": "2015-02-17T06:24:16+00:00",
+  "updated_at": "2018-07-17T17:27:43+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1388,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

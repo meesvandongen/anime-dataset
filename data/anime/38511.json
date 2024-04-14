@@ -1,0 +1,46 @@
+{
+  "id": 38511,
+  "title": "Oniwa no Soto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1663/95536.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1663/95536l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "お庭の外"
+  },
+  "start_date": "2014-06-23",
+  "end_date": "2014-08-14",
+  "synopsis": "Saigo no Shudan's advertisement movies for the 2014 Shibukaru Festival hosted by the Parco department store. A regular version and long version exist of the advertisement, though both share very little footage between each other.",
+  "mean": 5.38,
+  "rank": 11926,
+  "popularity": 18432,
+  "num_list_users": 305,
+  "num_scoring_users": 139,
+  "nsfw": "white",
+  "created_at": "2018-10-11T04:48:01+00:00",
+  "updated_at": "2021-04-07T02:02:01+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 46,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1934,
+      "name": "Saigo no Shudan"
+    }
+  ]
+}

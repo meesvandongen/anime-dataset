@@ -1,0 +1,62 @@
+{
+  "id": 328,
+  "title": "Piano (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/12834.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/12834l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Piano: The Melody of a Young Girl's Heart",
+    "ja": "PIANO"
+  },
+  "start_date": "2002-11-11",
+  "end_date": "2003-01-13",
+  "synopsis": "When Miu was young, she was fascinated by the piano and took up lessons.\n\nWhen the show opens, Miu is in middle school. She is shy, a soft-spoken girl who doesn't have a lot of confidence in herself. Her friends would describe her as \"sweet\" and \"quiet.\" At this point, Miu has been taking piano lessons for some time and while people have told her that she's gotten very good over the years, Miu herself feels she's not really good at anything—including the piano. Her teacher, Mr. Shirakawa, is often frustrated with her playing. Although she plays every note exactly correct, her heart just isn't in it...\n\nMeanwhile, Miu's come of the age when she's noticing boys and this shy young lady has noticed the handsome Kazuya Takahashi—even if he hasn't noticed her.\n\nThis is Miu's story. The story of a young girl who is on a journey to discover the melody within her own heart and the courage to express it.\n\n(Source: RightStuf)",
+  "mean": 6,
+  "rank": 9591,
+  "popularity": 6641,
+  "num_list_users": 9037,
+  "num_scoring_users": 3201,
+  "nsfw": "white",
+  "created_at": "2005-11-19T08:36:27+00:00",
+  "updated_at": "2022-11-01T04:06:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2002,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "20:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

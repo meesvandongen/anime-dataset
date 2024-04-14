@@ -1,0 +1,44 @@
+{
+  "id": 5503,
+  "title": "Atagoal wa Neko no Mori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/14175.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/14175l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Atagoal - Cat's Magical Forest",
+    "ja": "アタゴオルは猫の森"
+  },
+  "start_date": "2006-10-14",
+  "end_date": "2006-10-14",
+  "synopsis": "Today is the Atagoal town carnival. Talking cats and human townsfolk are having a ball. Enjoying the party to the fullest is our hero, Hideyoshi, a big fat cat, who is always involved in any trouble going on in the town.",
+  "mean": 5.9,
+  "rank": 10006,
+  "popularity": 13784,
+  "num_list_users": 897,
+  "num_scoring_users": 219,
+  "nsfw": "white",
+  "created_at": "2008-11-11T21:49:09+00:00",
+  "updated_at": "2017-01-06T18:46:49+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "average_episode_duration": 4846,
+  "rating": "pg",
+  "studios": []
+}

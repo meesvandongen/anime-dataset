@@ -1,0 +1,52 @@
+{
+  "id": 14811,
+  "title": "GJ-bu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/45995.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/45995l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Good Job-bu"
+    ],
+    "en": "GJ Club",
+    "ja": "GJ部"
+  },
+  "start_date": "2013-01-10",
+  "end_date": "2013-03-28",
+  "synopsis": "School clubs usually advertise their activities, but the goings-on of the GJ Club are a mystery. Kyouya \"Kyoro\" Shinomiya recently joined and became the sole male member of the five-person club.\n\nBesides Kyoro, there is Mao Amatsuka, the club president who has a tendency to bite Kyoro when she gets mad or bashful; Megumi Amatsuka, Mao's composed younger sister who always makes tea and desserts for the club's members; Shion Sumeragi, a demure chess prodigy; and Kirara Bernstein, a meat lover with a strong feline personality. All four girls have some form of interest in Kyoro.\n\nWith the girls' idiosyncratic and cute personalities, Kyoro's time in GJ-bu will never be a dull one, for better or for worse.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.29,
+  "rank": 2763,
+  "popularity": 1352,
+  "num_list_users": 174805,
+  "num_scoring_users": 76666,
+  "nsfw": "white",
+  "created_at": "2012-07-09T12:35:08+00:00",
+  "updated_at": "2023-11-04T04:03:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

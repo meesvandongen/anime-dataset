@@ -1,0 +1,50 @@
+{
+  "id": 29865,
+  "title": "BAR Kiraware Yasai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/71721.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/71721l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "BAR 嫌われ野菜"
+  },
+  "start_date": "2015-04-07",
+  "end_date": "2015-06-30",
+  "synopsis": "The anime adapts artist Daisuke Kimura's four-panel manga of the same name, the story centers on vegetables that children hate, everyone hesitates to eat, and are smelly. The series follows these vegetables as they visit a bar to share drinks together while they talk about their worries.\n\n(Source: ANN)",
+  "mean": 4.97,
+  "rank": 12705,
+  "popularity": 10179,
+  "num_list_users": 2780,
+  "num_scoring_users": 1026,
+  "nsfw": "white",
+  "created_at": "2015-02-03T05:57:14+00:00",
+  "updated_at": "2019-08-17T05:07:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:10"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 400,
+      "name": "Gathering"
+    }
+  ]
+}

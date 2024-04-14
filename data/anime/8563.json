@@ -1,0 +1,54 @@
+{
+  "id": 8563,
+  "title": "Chikyuu Monogatari Telepath 2500",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/23296.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/23296l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Earth Story Telepath 2500",
+    "ja": "地球物語 テレパス2500"
+  },
+  "start_date": "1984-08-04",
+  "end_date": "1984-08-04",
+  "synopsis": "On the fifth world of the Tolphan system in the year 2500, a supercomputer chooses marriage partners to find the best matches.\n\n(Source: The Anime Encyclopedia)",
+  "mean": 5.62,
+  "rank": 11216,
+  "popularity": 13246,
+  "num_list_users": 1038,
+  "num_scoring_users": 145,
+  "nsfw": "white",
+  "created_at": "2010-04-06T13:03:05+00:00",
+  "updated_at": "2014-12-26T16:56:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 6300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

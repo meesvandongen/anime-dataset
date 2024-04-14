@@ -1,0 +1,73 @@
+{
+  "id": 2816,
+  "title": "Toushou Daimos",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/79101.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/79101l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Generał Daimos",
+      "Fighting General Daimos",
+      "Fighting King Daimos",
+      "Daimos",
+      "Starbirds",
+      "Battle Commander Daimos"
+    ],
+    "en": "Daimos",
+    "ja": "闘将ダイモス"
+  },
+  "start_date": "1978-04-01",
+  "end_date": "1979-01-27",
+  "synopsis": "The third of Tadao Nagahama's Romance Super Robot Trilogy. (#1: Chou Denji Robo Combattler V, #2: Chou Denji Machine Voltes V)\n\nAfter the destruction of their home world, the survivors of the planet Barm head toward Earth with the goal of negotiating the purchase of land to emigrate to. Unfortunately, during the negotiations, the Barmian's leader, Leon, is assassinated by his second in command, Olban, and the delegation from Earth is framed for the murder. In the ensuing chaos, Doctor Isamu Ryuuzaki of the Earth delegation is shot and killed.\n\nShortly after the disastrous end of the talks, the Barmians (called \"Valerians\" in Starbirds) begin a campaign of terror against Earth, lead by Leon's son, Admiral Richter, who deploys a variety of \"Mecha Soldiers\" against the planet's defenses. The only thing standing between the Earthlings and annihilation is the transforming, karate-using super robot, Daimos, and its pilot, Kazuya Ryuuzaki. But that changes when he meets and falls in love with a mysterious girl named Erika, who turns out to be Richter's sister. Over the course of their struggles to reunite, Kazuya and Erika each learn that the other's people are not all evil... and that their own people are not all good.\n\n(Source: AniDB)",
+  "mean": 7.24,
+  "rank": 3049,
+  "popularity": 7817,
+  "num_list_users": 6048,
+  "num_scoring_users": 2916,
+  "nsfw": "white",
+  "created_at": "2007-07-18T05:07:11+00:00",
+  "updated_at": "2022-11-23T21:04:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 44,
+  "start_season": {
+    "year": 1978,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    },
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

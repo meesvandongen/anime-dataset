@@ -1,0 +1,72 @@
+{
+  "id": 1000,
+  "title": "Uchuu Kaizoku Captain Herlock",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1362/90305.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1362/90305l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Harlock TV",
+      "Albator 78"
+    ],
+    "en": "Space Pirate Captain Harlock",
+    "ja": "宇宙海賊・キャプテンハーロック"
+  },
+  "start_date": "1978-03-14",
+  "end_date": "1979-02-13",
+  "synopsis": "It is 2977 AD and mankind has become stagnant. Robots do all the work, the masses are kept tranquil by subliminal messages, and government officials are lazy, caring only about recreational activities like golf and horse racing. Captain Herlock has defied this insipid mentality, leading a group of like-minded rebels to a more adventurous life aboard the spaceship Arcadia.\n \nA mysterious force known as the Mazone has invaded the Earth, taking the form of mysterious cloaked women that kill anyone who suspect their nefarious doings, such as Tadashi Daiba who is now on their hit-list. After his scientist father is ignored by the government and killed by the Mazone, he joins Captain Herlock and his ragtag group of pirates to assist them as they try to save humanity from the impending alien threat.\n\n[Written by MAL Rewrite]",
+  "mean": 7.71,
+  "rank": 1216,
+  "popularity": 3621,
+  "num_list_users": 38028,
+  "num_scoring_users": 10908,
+  "nsfw": "white",
+  "created_at": "2006-05-28T07:34:14+00:00",
+  "updated_at": "2022-04-17T17:19:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 42,
+  "start_season": {
+    "year": 1978,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

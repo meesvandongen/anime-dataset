@@ -1,0 +1,44 @@
+{
+  "id": 54280,
+  "title": "NHK Special Kyouryuu VS Honyuurui: 1-oku 5-senman Toshi no Tatakai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1046/132848.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1046/132848l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ＮＨＫスペシャル　恐竜ＶＳほ乳類　１億５千万年の戦い"
+  },
+  "start_date": "2006-07-16",
+  "end_date": "2006-07-17",
+  "synopsis": "",
+  "rank": 16823,
+  "popularity": 23149,
+  "num_list_users": 91,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2023-01-19T05:37:15+00:00",
+  "updated_at": "2023-01-19T08:24:18+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 3600,
+  "rating": "pg",
+  "studios": []
+}

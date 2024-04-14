@@ -1,0 +1,72 @@
+{
+  "id": 2903,
+  "title": "Sakigake!! Otokojuku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/60397.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/60397l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Be A Man! Samurai School"
+    ],
+    "en": "Charge!! Men's Private School",
+    "ja": "魁!!男塾"
+  },
+  "start_date": "1988-02-25",
+  "end_date": "1988-11-14",
+  "synopsis": "Otokojuku: a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men.\n\n(Source: ANN)",
+  "mean": 7.42,
+  "rank": 2164,
+  "popularity": 5510,
+  "num_list_users": 14328,
+  "num_scoring_users": 3599,
+  "nsfw": "white",
+  "created_at": "2007-08-02T09:06:06+00:00",
+  "updated_at": "2022-04-18T03:54:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 34,
+  "start_season": {
+    "year": 1988,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

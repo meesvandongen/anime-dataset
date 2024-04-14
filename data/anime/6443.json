@@ -1,0 +1,60 @@
+{
+  "id": 6443,
+  "title": "AIKa Zero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/14628.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/14628l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "AIKa: ZERO"
+    ],
+    "en": "",
+    "ja": "AIKa ZERO"
+  },
+  "start_date": "2009-07-06",
+  "end_date": "2009-12-22",
+  "synopsis": "Aika's story continues, she is now 19 years-old, 3 years older than in R-16 and 7 younger than in Agent AIKa. Strange phenomena have been occuring at a girls academy. Slowly but persistently the most cute and beautiful girls are joining an internal club, but instead of a sing-in they just get abducted by a strange being that takes control over them by some indecent means. \n\nBy coincidence Aika was flying-by on her plane when one of this abductions occurred and she was attacked to prevent her from comming closer, but instead of repelling her, she is intrigued about the attack's origin and then the opportunity shows up when her late partners from R-16 decide to investigate those abductions. The story remains full of action and panty flashing that are a must in Aika's series.\n\n(Source: ANN) ",
+  "mean": 5.86,
+  "rank": 10194,
+  "popularity": 4761,
+  "num_list_users": 20950,
+  "num_scoring_users": 7334,
+  "nsfw": "white",
+  "created_at": "2009-05-02T18:34:54+00:00",
+  "updated_at": "2022-03-28T06:16:07+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1610,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 24,
+      "name": "Studio Fantasia"
+    }
+  ]
+}

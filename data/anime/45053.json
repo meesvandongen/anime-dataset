@@ -1,0 +1,53 @@
+{
+  "id": 45053,
+  "title": "Philip",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1112/110979.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1112/110979l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Philip"
+  },
+  "start_date": "2020-10-02",
+  "end_date": "2020-10-02",
+  "synopsis": "Music video for millennium parade's song Philip.",
+  "mean": 6.33,
+  "popularity": 16236,
+  "num_list_users": 476,
+  "num_scoring_users": 279,
+  "nsfw": "white",
+  "created_at": "2020-12-20T03:55:46+00:00",
+  "updated_at": "2021-04-21T20:45:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 228,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2122,
+      "name": "PERIMETRON"
+    },
+    {
+      "id": 2177,
+      "name": "Mimoid"
+    }
+  ]
+}

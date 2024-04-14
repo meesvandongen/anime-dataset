@@ -1,0 +1,62 @@
+{
+  "id": 51462,
+  "title": "Isekai Nonbiri Nouka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1983/132329.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1983/132329l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Farming Life in Another World",
+    "ja": "異世界のんびり農家"
+  },
+  "start_date": "2023-01-06",
+  "end_date": "2023-03-24",
+  "synopsis": "During the final years of his life, Hiraku Machio remained confined to a hospital bed with a terminal illness until he finally passed away. Taking pity on the unfair life he lived, a god decides to reincarnate Hiraku in another world where he can live as he pleases. Wanting to try farming in this new life, he is bestowed with an all-in-one \"Almighty Farming Tool\" that can transform into any useful implement he wishes. Hiraku is then transported to a forest seemingly far from civilization. Here, he plans to build and farm everything from scratch—gradually developing the lifeless area into a thriving new society.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1635,
+  "popularity": 1192,
+  "num_list_users": 200573,
+  "num_scoring_users": 103349,
+  "nsfw": "white",
+  "created_at": "2022-03-29T09:39:44+00:00",
+  "updated_at": "2024-01-21T03:55:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1379,
+      "name": "Zero-G"
+    }
+  ]
+}

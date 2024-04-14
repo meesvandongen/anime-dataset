@@ -1,0 +1,49 @@
+{
+  "id": 20603,
+  "title": "Kyoufu no Kyou-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/54651.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/54651l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Terrifying Kyou-chan"
+    ],
+    "en": "",
+    "ja": "きょうふのキョーちゃん"
+  },
+  "start_date": "1994-11-13",
+  "end_date": "1995-03-05",
+  "synopsis": "A parody of \"Obake no Q-taro\" written by the comedian Hitoshi Matsumoto, the series is about a kid and his ugly critter (with a strange likeness with Butthead). You better not hurt the kid or Kyou-chan will grow arms on his head and feet on his mouth to rip off your guts!\n\n(Source: TVTropes)",
+  "rank": 15911,
+  "popularity": 17738,
+  "num_list_users": 355,
+  "num_scoring_users": 96,
+  "nsfw": "white",
+  "created_at": "2013-09-24T05:34:15+00:00",
+  "updated_at": "2021-04-17T05:06:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 1994,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "20:00"
+  },
+  "average_episode_duration": 180,
+  "rating": "r",
+  "studios": []
+}

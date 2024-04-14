@@ -1,0 +1,56 @@
+{
+  "id": 32900,
+  "title": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/85524.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/85524l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Mahouka Koukou no Rettousei"
+    ],
+    "en": "The Irregular at Magic High School The Movie - The Girl Who Summons The Stars",
+    "ja": "劇場版 魔法科高校の劣等生 星を呼ぶ少女"
+  },
+  "start_date": "2017-06-17",
+  "end_date": "2017-06-17",
+  "synopsis": "In the story, the seasons have changed and it will soon be the second spring. Tatsuya and Miyuki have finished their first year at First Magic High School and are on their spring break. The two go to their villa on the Ogasawara Island archipelago. After only a small moment of peace a lone young woman named Kokoa appears before them. She has abandoned the Naval base and she tells Tatsuya her one wish.\n\n(Source: ANN)",
+  "mean": 7.46,
+  "rank": 2021,
+  "popularity": 1258,
+  "num_list_users": 189710,
+  "num_scoring_users": 91754,
+  "nsfw": "white",
+  "created_at": "2016-03-09T08:20:49+00:00",
+  "updated_at": "2023-05-08T22:05:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 5400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

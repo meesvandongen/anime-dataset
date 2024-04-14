@@ -1,0 +1,66 @@
+{
+  "id": 32827,
+  "title": "B: The Beginning",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1564/90469.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1564/90469l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "B: The Beginning",
+    "ja": "B: The Beginning"
+  },
+  "start_date": "2018-03-02",
+  "end_date": "2018-03-02",
+  "synopsis": "On the islands of Cremona, a vigilante runs amok. Celebrated by some and hunted by others, the notorious \"Killer B\" takes justice into his own hands, armed with a sharp blade and superhuman abilities. Unable to apprehend this renegade, the Royal Investigation Service (RIS) calls upon the expertise of Keith Flick, a seasoned, yet eccentric detective who was relegated to the Archives Department following a personal loss. As crimes in Cremona begin to escalate, from stealthy executions of wrongdoers to sophisticated strikes on public figures, it soon becomes clear that there is more than one person responsible.\n\nWith the help of his impulsive sidekick Lily Hoshina, and unexpected aid from the elusive Killer B himself, Keith begins to unravel plots involving secret organizations, domestic terrorism, and human experiments. When the involvement of the RIS extends beyond the scope of justice, the extent of the government's corruption—as well as the trustworthiness of close allies—are thrown into question. \n\n[Written by MAL Rewrite]",
+  "mean": 7.16,
+  "rank": 3480,
+  "popularity": 677,
+  "num_list_users": 346642,
+  "num_scoring_users": 175803,
+  "nsfw": "white",
+  "created_at": "2016-02-24T23:39:28+00:00",
+  "updated_at": "2022-04-17T20:23:30+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 31941,
+  "title": "Alice in Dreamland",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1054/132914.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1054/132914l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Alice in Dream Land"
+    ],
+    "en": "",
+    "ja": "アリス・イン・ドリームランド"
+  },
+  "start_date": "2015-12-19",
+  "end_date": "2015-12-19",
+  "synopsis": "Alice is summoned by the White Rabbit to save Wonderland from spreading Darkness. However, she knows Alice in Wonderland is a story and that this must be a dream. And so it proves, but at the end, the now grown-up Alice sees the events of her dream begin to unfold for real.\n\n(Source: thestreamable)",
+  "mean": 4.85,
+  "rank": 12829,
+  "popularity": 10582,
+  "num_list_users": 2446,
+  "num_scoring_users": 490,
+  "nsfw": "white",
+  "created_at": "2015-10-24T21:04:13+00:00",
+  "updated_at": "2022-02-26T10:58:56+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 2660,
+  "rating": "g",
+  "studios": []
+}

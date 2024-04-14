@@ -1,0 +1,45 @@
+{
+  "id": 4395,
+  "title": "Norakuro Nitouhei: Enshuu no Maki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/52275.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/52275l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Private 2nd Class Norakuro: The Training",
+      "Norakuro Nitouhei Part 2",
+      "Private Norakuro in Training"
+    ],
+    "en": "Private 2nd Class Norakuro: The Drill",
+    "ja": "のらくろ二等兵 演習の巻"
+  },
+  "start_date": "1933-06-14",
+  "end_date": "1933-06-14",
+  "synopsis": "Norakuro keeps getting his allies and enemies mixed up while on training maneuvers. What he had thought to be a successfully eliminated enemy tank turns out to be the tank carrying the Regimental Commander.\n\n(Source: AniDB)",
+  "mean": 5.04,
+  "rank": 12612,
+  "popularity": 12875,
+  "num_list_users": 1156,
+  "num_scoring_users": 546,
+  "nsfw": "white",
+  "created_at": "2008-04-22T06:55:30+00:00",
+  "updated_at": "2016-04-06T01:58:45+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1933,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

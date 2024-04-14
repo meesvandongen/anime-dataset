@@ -1,0 +1,53 @@
+{
+  "id": 3107,
+  "title": "Dark Shell: Ori no Naka no Namameki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1843/103910.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1843/103910l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dark Shell: Lust in the Cage",
+    "ja": "ダーク・シェル 檻の中の艶"
+  },
+  "start_date": "2003-06-25",
+  "end_date": "2003-09-25",
+  "synopsis": "A gang of soldiers have their way with a women who is under their protection. The women and the soldiers are trapped in enemy territory, and they must find a way to rejoin their main force if they are to survive the war.",
+  "mean": 6.09,
+  "popularity": 8358,
+  "num_list_users": 5131,
+  "num_scoring_users": 2099,
+  "nsfw": "gray",
+  "created_at": "2007-09-12T17:42:19+00:00",
+  "updated_at": "2022-04-03T03:27:48+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2003,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1691,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    },
+    {
+      "id": 860,
+      "name": "Triple X"
+    }
+  ]
+}

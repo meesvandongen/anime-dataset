@@ -1,0 +1,67 @@
+{
+  "id": 35799,
+  "title": "Miniforce",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1526/96881.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1526/96881l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mini Force",
+      "miniteuggongdae",
+      "Choegang Jeonsa Mini Teuggongdae",
+      "Strongest Warriors Mini Commando Squad",
+      "Zui Qiang Zhanshi Mini Tegong Dui"
+    ],
+    "en": "Miniforce",
+    "ja": "최강전사 미니특공대"
+  },
+  "start_date": "2014-09-03",
+  "end_date": "2014-11-26",
+  "synopsis": "Cute yet mighty! Mini animal rangers transform into super power Force-Bot to save endangered friends!\n\nIn the ruthless world of animals, big strong animals dominate and feed on the small and weak. To buck this natural system, small animals form a secret organization \"MINIFORCE.\" Rigidly selected mutants with special powers: Volt, Sammy, Lucy and Max become top secret rangers to save their small village Bluebell from the hand of human villain Nein and his underling lizard Pascal.\n\nAnimals in danger? No problem! When Force-Gem alerts, it's time to get suit on! With Mini Force and their transforming mechanics, it’s time to sweep! \n\n(Source: Samg Animation)",
+  "rank": 16471,
+  "popularity": 19244,
+  "num_list_users": 258,
+  "num_scoring_users": 92,
+  "nsfw": "white",
+  "created_at": "2017-06-23T23:25:26+00:00",
+  "updated_at": "2023-11-11T10:19:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "14:30"
+  },
+  "source": "original",
+  "average_episode_duration": 798,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2541,
+      "name": "SAMG Entertainment "
+    }
+  ]
+}

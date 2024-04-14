@@ -1,0 +1,53 @@
+{
+  "id": 48861,
+  "title": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1666/125846.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1666/125846l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kimetsu Academy: Kimetsu no Utage Special Edition",
+      "Kimetsu Gakuen Monogatari: Demon's Banquet Special Arc"
+    ],
+    "en": "Junior High and High School!! Kimetsu Academy Story",
+    "ja": "中高一貫!!キメツ学園物語 ～鬼滅の宴=特別編=～"
+  },
+  "start_date": "2020-08-26",
+  "end_date": "2020-08-26",
+  "synopsis": "These specials were originally shown at the Kimetsu no Utage live event which was held on October 20th 2019 in Tokyo. The cast members present at the event did a live dubbing of the characters.\n\nA version with a newly recorded dub was later featured on the DVD & Blu-ray releases containing a recording of the event which came out on August 26th 2020.",
+  "mean": 6.81,
+  "rank": 5128,
+  "popularity": 7317,
+  "num_list_users": 7113,
+  "num_scoring_users": 3827,
+  "nsfw": "white",
+  "created_at": "2021-05-01T14:06:53+00:00",
+  "updated_at": "2023-02-15T09:46:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 96,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

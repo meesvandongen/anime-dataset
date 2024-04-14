@@ -1,0 +1,45 @@
+{
+  "id": 52329,
+  "title": "Ai Datta n da yo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1663/125113.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1663/125113l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "愛だったんだよ"
+  },
+  "start_date": "1998-08",
+  "end_date": "1998-08",
+  "synopsis": "A music video for the song Ai Datta n da yo by Kouji Tamaki that was featured on NHK's Minna no Uta program.",
+  "popularity": 20338,
+  "num_list_users": 197,
+  "num_scoring_users": 82,
+  "nsfw": "white",
+  "created_at": "2022-07-06T14:53:26+00:00",
+  "updated_at": "2022-12-18T19:12:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 279,
+  "rating": "g",
+  "studios": []
+}

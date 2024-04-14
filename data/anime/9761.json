@@ -1,0 +1,64 @@
+{
+  "id": 9761,
+  "title": "Finder Series",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/36823.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/36823l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Finder no Hyouteki",
+      "Target in the Finder",
+      "Target in the Viewfinder",
+      "Finder no Sekiyoku",
+      "One Wing in the Finder",
+      "One Wing in the Viewfinder"
+    ],
+    "en": "You're My Love Prize",
+    "ja": "ファインダーシリーズ"
+  },
+  "start_date": "2012-02-29",
+  "end_date": "2015-08-28",
+  "synopsis": "Twenty-three-year old Takaba Akihito is a young freelance photographer who takes pride in his work and seeks to get a major \"scoop.\" After he takes photographs of the business dealings of crime lord Asami Ryuichi, Asami kidnaps and rapes him, beginning a sadomasochistic relationship between them as they find themselves continually drawn to one another. Fei Long, a rival Chinese boss who blames Asami for his father's death, takes an interest in Takaba, as well, seeking a way to get revenge.\n\n(Source: Wikipedia)",
+  "mean": 6.47,
+  "popularity": 4736,
+  "num_list_users": 21169,
+  "num_scoring_users": 9637,
+  "nsfw": "gray",
+  "created_at": "2010-10-31T03:49:06+00:00",
+  "updated_at": "2022-04-15T04:17:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2580,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1419,
+      "name": "GARDEN LODGE"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1431,
+  "title": "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1143/134195.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1143/134195l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rupan Sansei",
+      "Lupin III: Da Capo of Love - Fujiko's Unlucky Days",
+      "Lupin III: Fujiko's Unlucky Days"
+    ],
+    "en": "Lupin III: The Columbus Files",
+    "ja": "ルパン三世『愛のダ・カーポ ～Fujiko's Unlucky Days』"
+  },
+  "start_date": "1999-07-30",
+  "end_date": "1999-07-30",
+  "synopsis": "When Fujiko acquires and memorizes papers called the Columbus Files, she is attacked and loses her memory. Lupin, a treasure hunter named Rosaria, and the cackling villain Nazaroff all pursue Fujiko, as she is the only key to the location of Columbus' Egg, a treasure connected to the mysterious Orgone Energy. \n\n(Source: ANN)",
+  "mean": 6.77,
+  "rank": 5366,
+  "popularity": 7168,
+  "num_list_users": 7512,
+  "num_scoring_users": 3010,
+  "nsfw": "white",
+  "created_at": "2006-08-21T08:23:31+00:00",
+  "updated_at": "2023-12-27T07:16:10+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5540,
+  "rating": "pg_13",
+  "studios": []
+}

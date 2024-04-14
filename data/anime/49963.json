@@ -1,0 +1,51 @@
+{
+  "id": 49963,
+  "title": "Kick & Slide: Kids B Happy no Ambassador wo Sagase!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1089/118366.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1089/118366l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kick & Slide Special"
+    ],
+    "en": "",
+    "ja": "KIDS B HAPPYのアンバサダーを探せ!"
+  },
+  "start_date": "2021-09-29",
+  "end_date": "2021-09-29",
+  "synopsis": "A bonus episode of Kick & Slide.",
+  "rank": 15607,
+  "popularity": 20373,
+  "num_list_users": 195,
+  "num_scoring_users": 73,
+  "nsfw": "white",
+  "created_at": "2021-09-29T23:39:01+00:00",
+  "updated_at": "2021-10-01T06:58:36+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 160,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1357,
+      "name": "Craftar Studios"
+    }
+  ]
+}

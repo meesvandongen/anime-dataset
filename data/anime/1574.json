@@ -1,0 +1,59 @@
+{
+  "id": 1574,
+  "title": "Get Ride! AMDriver",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/21726.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/21726l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "AM Driver"
+    ],
+    "en": "",
+    "ja": "Get Ride! アムドライバー"
+  },
+  "start_date": "2004-04-05",
+  "end_date": "2005-03-28",
+  "synopsis": "In the future, human beings are attacked by beings called the Bug-chine, which appeared a few years back. No normal human weapon can defeat the Bug-chine, but there is hope. It is the AMDrivers that will save the earth. They are solders using the latest \"AM Technology\". With overwhelming power, they will beat the Bug-chine one after another and become heroes, as well as capture the hearts of their fans.\n\n(Source: ANN)",
+  "mean": 6.21,
+  "rank": 8507,
+  "popularity": 10841,
+  "num_list_users": 2266,
+  "num_scoring_users": 401,
+  "nsfw": "white",
+  "created_at": "2006-10-15T06:13:08+00:00",
+  "updated_at": "2022-11-23T20:47:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:30"
+  },
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

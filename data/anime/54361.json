@@ -1,0 +1,43 @@
+{
+  "id": 54361,
+  "title": "Umi no Mukashibanashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1389/133111.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1389/133111l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "うみのむかしばなし"
+  },
+  "start_date": "2019-02-02",
+  "synopsis": "A series of folktales about the ocean.",
+  "rank": 14152,
+  "popularity": 22369,
+  "num_list_users": 105,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2023-02-01T06:44:28+00:00",
+  "updated_at": "2023-02-05T09:49:35+00:00",
+  "media_type": "movie",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

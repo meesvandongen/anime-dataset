@@ -1,0 +1,46 @@
+{
+  "id": 36888,
+  "title": "Chikatetsu ni Noru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/89263.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/89263l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "地下鉄に乗るっ"
+  },
+  "start_date": "2017-05-27",
+  "end_date": "2017-05-27",
+  "synopsis": "A group of three high school girls explore Kyoto using the Kyoto City Subway system. ",
+  "mean": 5.53,
+  "rank": 11505,
+  "popularity": 14379,
+  "num_list_users": 758,
+  "num_scoring_users": 281,
+  "nsfw": "white",
+  "created_at": "2017-12-04T13:57:08+00:00",
+  "updated_at": "2021-11-13T03:00:12+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2311,
+      "name": "Gyorai Eizo Inc."
+    }
+  ]
+}

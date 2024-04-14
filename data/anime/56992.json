@@ -1,0 +1,48 @@
+{
+  "id": 56992,
+  "title": "DinoCore Evolution Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1451/139303.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1451/139303l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "다이노코어 에볼루션 파트2"
+  },
+  "start_date": "2018-10-12",
+  "end_date": "2019-01-05",
+  "synopsis": "",
+  "rank": 19227,
+  "popularity": 24855,
+  "num_list_users": 66,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2023-10-24T13:27:30+00:00",
+  "updated_at": "2023-10-24T15:49:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 37787,
+  "title": "Space Bug",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1063/94832.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1063/94832l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Journey Home",
+    "ja": "スペースバグ"
+  },
+  "start_date": "2018-07-08",
+  "end_date": "2019-01-06",
+  "synopsis": "This story is about Mick, a sleeping chironomid. Insects are taken up into space for use in experiments by humans. An epic space adventure of Mick and his friends of their journey back home to Earth. The development plans and experiments are aborted by humans for no known reason, the organisms are left behind in the space station with limited resources. Going over hurdles and fighting through challenges, together, they travel across planets and gain new comrades, heading for Earth. As their journey progresses, the mystery behind the human’s abandonment unravels… \n\n(Source: Crunchyroll)",
+  "mean": 6.01,
+  "rank": 9533,
+  "popularity": 13953,
+  "num_list_users": 860,
+  "num_scoring_users": 204,
+  "nsfw": "white",
+  "created_at": "2018-04-25T03:26:34+00:00",
+  "updated_at": "2022-03-23T20:12:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "10:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1425,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1871,
+      "name": "Studio W.Baba"
+    },
+    {
+      "id": 1872,
+      "name": "P.I.C.S."
+    }
+  ]
+}

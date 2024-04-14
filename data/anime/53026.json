@@ -1,0 +1,58 @@
+{
+  "id": 53026,
+  "title": "Synduality: Noir",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1464/134806.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1464/134806l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "SYNDUALITY Noir"
+  },
+  "start_date": "2023-07-11",
+  "end_date": "2023-09-26",
+  "synopsis": "In 2242, the remnants of humanity are forced to live in scattered bubble-like cities across devastated lands. Hiding from toxic rain and hostile lifeforms known as Enders, they survive thanks to a new source of energy from AO crystals. Those tasked with risking their lives to collect AO crystals are called drifters, piloting versatile bipedal tanks with the support of combat androids named magus.\n\nWhile exploring remote ruins with his exceptionally gifted drifter friend Tokio, prospective drifter Kanata uncovers Noir, a seemingly intact magus in stasis. Although she wakes up by herself, Noir has lost her memories and is of no help in Kanata's work. However, amid an Enders attack, Kanata discovers that Noir possesses remarkable combat abilities. The pair now embarks on a journey to not only shed light on Noir's past but also to uncover the location of Histoire—the mythical city harboring secrets of the world that Kanata has always dreamt of visiting.\n\n[Written by MAL Rewrite]",
+  "mean": 6.8,
+  "rank": 5180,
+  "popularity": 3534,
+  "num_list_users": 39623,
+  "num_scoring_users": 10521,
+  "nsfw": "white",
+  "created_at": "2022-09-14T08:43:21+00:00",
+  "updated_at": "2023-12-15T14:05:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 1445,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

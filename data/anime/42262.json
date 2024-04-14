@@ -1,0 +1,45 @@
+{
+  "id": 42262,
+  "title": "Enoshimans Spin-off: Kurage no Soudan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1298/108121.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1298/108121l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "えのしまんず SPIN OFF 『クラゲの相談』"
+  },
+  "start_date": "2019-03-01",
+  "end_date": "2019-03-01",
+  "synopsis": "A spin-off of Enoshimans, a web series that was made to promote the Enoshima Aquarium in Fujisawa. We follow Eno from the original series as he interacts with other jellyfish at the aquarium.",
+  "rank": 19445,
+  "popularity": 20251,
+  "num_list_users": 201,
+  "num_scoring_users": 62,
+  "nsfw": "white",
+  "created_at": "2020-06-20T06:08:44+00:00",
+  "updated_at": "2022-03-23T11:42:33+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 221,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1005,
+      "name": "Oddjob"
+    }
+  ]
+}

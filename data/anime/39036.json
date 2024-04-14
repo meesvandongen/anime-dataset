@@ -1,0 +1,45 @@
+{
+  "id": 39036,
+  "title": "Inuwari-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1815/111535.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1815/111535l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Inuwari-san",
+    "ja": "いぬわりさん"
+  },
+  "start_date": "2009-03-18",
+  "end_date": "2009-03-18",
+  "synopsis": "The pilot of Inuwari-san, it was originally meant to be a TV series before being canceled. The pilot was screened at the 2009 Tokyo International Anime Fair and developed as part of Miyagi Prefecture's Miyagi e-Brand Establishment Support Project.\n\nInuwari-san is a canine (inu) police officer (omawari-san) who loves law, order, and tea. Inuwari-san vows to be the infalliable \"sweeper of evil.\" \n\n(Source: ANN)",
+  "rank": 20374,
+  "popularity": 19585,
+  "num_list_users": 238,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2019-01-19T06:45:25+00:00",
+  "updated_at": "2019-01-26T08:31:42+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 331,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1949,
+      "name": "Anon Pictures"
+    }
+  ]
+}

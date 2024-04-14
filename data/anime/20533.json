@@ -1,0 +1,60 @@
+{
+  "id": 20533,
+  "title": "Z/X: Ignition",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/56797.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/56797l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zillions of Enemy X Ignition"
+    ],
+    "en": "",
+    "ja": "Z/X IGNITION"
+  },
+  "start_date": "2014-01-10",
+  "end_date": "2014-04-03",
+  "synopsis": "The story is set in the not-so-distant future. Five \"Black Points\" suddenly appeared around the world as portals to parallel worlds. Immediately after, strange creatures began their invasion from these portals. These creatures are the inhabitants of five worlds—the same worlds in different timeframes. In order to ensure their own future timeframe survives, each of the five invasion forces battle to wipe the other future timeframes out. The key is one card-shaped device.\n\n(Source: ANN)",
+  "mean": 6.48,
+  "rank": 7023,
+  "popularity": 3504,
+  "num_list_users": 40471,
+  "num_scoring_users": 16966,
+  "nsfw": "white",
+  "created_at": "2013-09-18T16:41:03+00:00",
+  "updated_at": "2023-06-13T09:14:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "card_game",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

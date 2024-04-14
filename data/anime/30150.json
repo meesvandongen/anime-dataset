@@ -1,0 +1,46 @@
+{
+  "id": 30150,
+  "title": "Kamiusagi Rope 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/72181.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/72181l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Paper Rabbit Rope 3"
+    ],
+    "en": "",
+    "ja": "紙兎ロペ3"
+  },
+  "start_date": "2011-12-23",
+  "end_date": "2012-08",
+  "synopsis": "3rd season of Kamiusagi Rope.",
+  "rank": 15483,
+  "popularity": 16427,
+  "num_list_users": 459,
+  "num_scoring_users": 94,
+  "nsfw": "white",
+  "created_at": "2015-02-22T06:38:53+00:00",
+  "updated_at": "2015-02-24T17:23:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "g",
+  "studios": []
+}

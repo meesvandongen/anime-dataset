@@ -1,0 +1,65 @@
+{
+  "id": 5688,
+  "title": "Gegege no Kitarou (1968)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/27398.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/27398l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cackling Kitarou",
+      "Spooky Kitarou"
+    ],
+    "en": "",
+    "ja": "ゲゲゲの鬼太郎"
+  },
+  "start_date": "1968-01-03",
+  "end_date": "1969-03-30",
+  "synopsis": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
+  "mean": 7.16,
+  "rank": 3496,
+  "popularity": 8442,
+  "num_list_users": 5009,
+  "num_scoring_users": 1320,
+  "nsfw": "white",
+  "created_at": "2008-12-08T08:25:21+00:00",
+  "updated_at": "2022-03-12T12:11:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 65,
+  "start_season": {
+    "year": 1968,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1520,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4803,
+  "title": "Kawarazaki-ke no Ichizoku 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1676/115913.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1676/115913l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kawarazaki-ke no Ichizoku 2",
+    "ja": "河原崎家の一族2"
+  },
+  "start_date": "2004-01-23",
+  "end_date": "2004-08-27",
+  "synopsis": "The continuation of the first OVAs, just with a little twists in the main story line, but it refains the same as the first one. \n\n(Source: ANN) ",
+  "mean": 5.51,
+  "popularity": 11006,
+  "num_list_users": 2147,
+  "num_scoring_users": 684,
+  "nsfw": "gray",
+  "created_at": "2008-06-28T20:27:40+00:00",
+  "updated_at": "2023-01-24T12:54:54+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1686,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 9862,
+  "title": "Hana no Mahoutsukai Mary Bell: Phoenix no Kagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/27295.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/27295l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Floral Magician Mary Bell: The Phoenix Key"
+    ],
+    "en": "",
+    "ja": "花の魔法使いマリーベル フェニックスのかぎ"
+  },
+  "start_date": "1992-08-08",
+  "end_date": "1992-08-08",
+  "synopsis": "Mary Bell, Yuri, Ken, Ribbon, and Tambourine go to Flower Land to see Toto (the Phoenix) on his birthday. ",
+  "mean": 6.03,
+  "rank": 9433,
+  "popularity": 14207,
+  "num_list_users": 799,
+  "num_scoring_users": 212,
+  "nsfw": "white",
+  "created_at": "2010-11-19T10:09:17+00:00",
+  "updated_at": "2023-09-18T00:50:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 2580,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 196,
+      "name": "Production Reed"
+    },
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
+}

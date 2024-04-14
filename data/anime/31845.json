@@ -1,0 +1,80 @@
+{
+  "id": 31845,
+  "title": "Masou Gakuen HxH",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/80262.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/80262l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Masou Gakuen Hybrid x Heart"
+    ],
+    "en": "Hybrid x Heart Magias Academy Ataraxia",
+    "ja": "魔装学園H×H"
+  },
+  "start_date": "2016-07-06",
+  "end_date": "2016-09-21",
+  "synopsis": "Hida Kizuna possesses the HHG (Heart Hybrid Gear) ability, but it is not strong enough to make him particularly important. His older sister calls him to transfer to a strategic defense school, where many of the students (many of which are large-breasted girls) use their HHG abilities to fight invaders from another world while wearing extremely skimpy pilot outfits. Kizuna's fighting ability doesn't measure up, but his sister has another plan—apparently having erotic experiences with Kizuna will allow the girls to replenish their energy or power-up. It looks like his new school life is going to be full of embarrassment.\n\n(Source: MangaHelpers)",
+  "mean": 6.12,
+  "rank": 8979,
+  "popularity": 827,
+  "num_list_users": 293181,
+  "num_scoring_users": 130890,
+  "nsfw": "gray",
+  "created_at": "2015-10-14T14:05:51+00:00",
+  "updated_at": "2022-04-16T13:17:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1053,
+      "name": "Production IMS"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 88,
+  "title": "Kidou Senshi Gundam F91",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1637/95288.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1637/95288l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Gundam F91",
+    "ja": "機動戦士ガンダムＦ91"
+  },
+  "start_date": "1991-03-16",
+  "end_date": "1991-03-16",
+  "synopsis": "In the year 123 of the Universal Century, skirmishes between the Federation government and the rebel group Crossbones Vanguard echo across Earth's space colonies. One of these small battles breaks in the hometown of young Seabook Arno, forcing him and his friends to flee and ensnaring them in the political turmoil that is quickly evolving into an all-out war.\n\nSeabook meets Cecily Fairchild, granddaughter of the aristocrat Meitzer Ronah, who seeks to create a new political power called \"Cosmo Babylonia.\" Using the Crossbone Vanguard as its muscle, the Ronah family schemes to restore aristocratic rule and establish an economic system that will benefit the nobility, thus devastating the quality of life for the common people of the Earth Sphere.\n\nSeabook is tasked with piloting the Gundam F91, a mobile suit created by his mother, and must choose between protecting the Federation's status quo or cooperating with Cecily to find a better way of life for all.\n\n[Written by MAL Rewrite]",
+  "mean": 6.61,
+  "rank": 6232,
+  "popularity": 3888,
+  "num_list_users": 32693,
+  "num_scoring_users": 17783,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:44:51+00:00",
+  "updated_at": "2024-03-06T12:02:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 7217,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

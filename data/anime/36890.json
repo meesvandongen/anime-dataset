@@ -1,0 +1,57 @@
+{
+  "id": 36890,
+  "title": "dMatsu-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/89951.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/89951l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mr. dMatsu",
+      "Osomatsu-san 2nd Season Side Stories"
+    ],
+    "en": "",
+    "ja": "d松さん"
+  },
+  "start_date": "2018-01-09",
+  "end_date": "2018-03-27",
+  "synopsis": "The short series will be divided into two arcs. The \"Totoko x Muttsugo\" (Totoko x Sextuplets) arc will feature the six brothers having conversations with Totoko, who will be depicted as \"a certain princess.\" This story will have six \"versions,\" one for each brother. The \"Iyami x Muttsugo\" (Iyami x Sextuplets) arc will feature the six brothers and their everyday life with Iyami. It will also have six \"versions,\" one for each brother. \n\n(Source: ANN)",
+  "mean": 6.05,
+  "rank": 9344,
+  "popularity": 11133,
+  "num_list_users": 2066,
+  "num_scoring_users": 270,
+  "nsfw": "white",
+  "created_at": "2017-12-05T10:37:04+00:00",
+  "updated_at": "2020-11-02T08:46:36+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

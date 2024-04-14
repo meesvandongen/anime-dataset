@@ -1,0 +1,51 @@
+{
+  "id": 8719,
+  "title": "Donna Donna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/24063.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/24063l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Dona Dona"
+    ],
+    "en": "",
+    "ja": "ドナ ドナ"
+  },
+  "start_date": "1966-02-11",
+  "end_date": "1966-02-11",
+  "synopsis": "A calf goes to a new home while memories of happiness flash by.\n\nThis is a 1966 Japanese version of an old 1938 Yiddish folk song that was featured in NHK's Minna no Uta.",
+  "mean": 5.09,
+  "popularity": 15490,
+  "num_list_users": 558,
+  "num_scoring_users": 277,
+  "nsfw": "white",
+  "created_at": "2010-04-26T15:04:03+00:00",
+  "updated_at": "2018-05-04T15:39:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1966,
+    "season": "winter"
+  },
+  "source": "music",
+  "average_episode_duration": 155,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 21649,
+  "title": "Mitsuwano",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/77096.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/77096l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "みツわの"
+  },
+  "start_date": "2014-03-12",
+  "end_date": "2014-03-12",
+  "synopsis": "In Kyoto, apprentices known as maiko are skilled performers of traditional dance and song. It is said their elegance and grace leaves any audience entranced.\n \nMai Ichinose, Riko Kikuzuki, and Midori Aikawa are young girls who aspire to become maiko. They reside together in a geisha house to polish and perfect their skills, developing bonds of trust and supporting each other. However, their shared dream may prove disastrous for their friendship...\n \nWhen they learn about an upcoming festival, they cannot help but get excited. But soon they realize only two maiko can represent each house. It is then that the three close friends become distant, seeking to prove who is most deserving of the role. Ultimately, they must choose between fulfilling their own dream—finally within reach—or keeping their treasured friendship alive.\n \n[Written by MAL Rewrite]",
+  "mean": 5.99,
+  "rank": 9633,
+  "popularity": 8414,
+  "num_list_users": 5045,
+  "num_scoring_users": 2268,
+  "nsfw": "white",
+  "created_at": "2013-12-18T19:02:54+00:00",
+  "updated_at": "2022-01-15T22:12:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1680,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 218,
+      "name": "Zexcs"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 35949,
+  "title": "Kidou Senshi Gundam Thunderbolt: Bandit Flower",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/87511.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/87511l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+    "ja": "機動戦士ガンダム サンダーボルト BANDIT FLOWER"
+  },
+  "start_date": "2017-11-18",
+  "end_date": "2017-11-18",
+  "synopsis": "Compilation film for Mobile Suit Gundam Thunderbolt 2nd Season. ",
+  "mean": 7.25,
+  "rank": 3001,
+  "popularity": 5406,
+  "num_list_users": 15039,
+  "num_scoring_users": 7518,
+  "nsfw": "white",
+  "created_at": "2017-07-17T01:51:04+00:00",
+  "updated_at": "2022-11-07T16:43:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5391,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

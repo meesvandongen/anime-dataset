@@ -1,0 +1,68 @@
+{
+  "id": 39675,
+  "title": "Ling Long: Incarnation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1055/132737.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1055/132737l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Spirit Cage: Incarnation"
+    ],
+    "en": "Ling Cage",
+    "ja": "灵笼: INCARNATION"
+  },
+  "start_date": "2019-07-13",
+  "end_date": "2019-09-21",
+  "synopsis": "In the not-too-distant future, the human world has long been overpopulated. Humanity marched to the stars in search of a new home, and just as this was going on, the moon's alignment caused massive earthquakes to ripple across the world, lasting several decades. Humanity was demolished. When the land finally recovered, humanity reemerged to face this strange yet familiar world. Will we, who once lorded over this domain, still remain the masters of this world?\n\n(Source: Yu Alexius Anime Portal)",
+  "mean": 7.22,
+  "rank": 3170,
+  "popularity": 8195,
+  "num_list_users": 5420,
+  "num_scoring_users": 1499,
+  "nsfw": "white",
+  "created_at": "2019-04-05T09:19:49+00:00",
+  "updated_at": "2022-03-30T20:26:39+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1958,
+      "name": "YHKT Entertainment"
+    }
+  ]
+}

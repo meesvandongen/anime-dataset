@@ -1,0 +1,73 @@
+{
+  "id": 969,
+  "title": "Tsubasa Chronicle 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/6554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/6554l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tsubasa Chronicles - Second Season",
+      "Tsubasa: RESERVoir CHRoNiCLE"
+    ],
+    "en": "Tsubasa RESERVoir CHRoNiCLE Season Two",
+    "ja": "ツバサ・クロニクル 第2シリーズ"
+  },
+  "start_date": "2006-04-29",
+  "end_date": "2006-11-04",
+  "synopsis": "Syaoran, Sakura, Kurogane, Fai and Mokona's journey through to different world's continue as they search for Sakura's feathers. The fated journey slowly becomes more complicated for our travelers, as they find themselves diving deeper into more dangerous worlds.",
+  "mean": 7.58,
+  "rank": 1547,
+  "popularity": 1841,
+  "num_list_users": 117891,
+  "num_scoring_users": 59281,
+  "nsfw": "white",
+  "created_at": "2006-05-10T04:44:58+00:00",
+  "updated_at": "2023-08-02T05:08:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 5,
+      "name": "Bee Train"
+    }
+  ]
+}

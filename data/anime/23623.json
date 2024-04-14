@@ -1,0 +1,69 @@
+{
+  "id": 23623,
+  "title": "Non Non Biyori Repeat",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75105.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75105l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Non Non Biyori 2nd Season",
+      "Non Non Biyori Second Season"
+    ],
+    "en": "Non Non Biyori Repeat",
+    "ja": "のんのんびより りぴーと"
+  },
+  "start_date": "2015-07-07",
+  "end_date": "2015-09-22",
+  "synopsis": "Far from the hustle and bustle of urban life, and with only a single candy store and bus route to its name, the rural Asahigaoka is certainly not a place for everyone. Nevertheless, the village's children still manage to cheerfully spend their days exploring and having fun in the wilderness around them. One such child, Renge Miyauchi, the youngest of the group, looks forward to the entrance ceremony of the upcoming school year, signalling her entry into first grade and the beginning of her elementary school life. Attending the only school in town, Renge and her friends, seventh grader Natsumi Koshigaya and her eighth grade sister Komari, make the most out of their rural lifestyle, playing and studying everyday.\n\nMeanwhile, fifth grader Hotaru Ichijou has just moved to Asahigaoka from Tokyo, unaware of the numerous adventures and memories that await her. \n\n[Written by MAL Rewrite]",
+  "mean": 8.18,
+  "rank": 404,
+  "popularity": 1193,
+  "num_list_users": 200391,
+  "num_scoring_users": 100963,
+  "nsfw": "white",
+  "created_at": "2014-04-06T12:40:42+00:00",
+  "updated_at": "2023-03-04T19:44:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "02:05"
+  },
+  "source": "manga",
+  "average_episode_duration": 1437,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

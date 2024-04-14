@@ -1,0 +1,60 @@
+{
+  "id": 1151,
+  "title": "Dominion",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1450/110634.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1450/110634l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dominion Tank Police"
+    ],
+    "en": "",
+    "ja": "ドミニオン"
+  },
+  "start_date": "1988-05-27",
+  "end_date": "1989-08-11",
+  "synopsis": "Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters. \n\n(Source: ANN)",
+  "mean": 6.86,
+  "rank": 4910,
+  "popularity": 5038,
+  "num_list_users": 18253,
+  "num_scoring_users": 7530,
+  "nsfw": "white",
+  "created_at": "2006-07-06T00:31:27+00:00",
+  "updated_at": "2022-04-18T00:27:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1988,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 2220,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 183,
+      "name": "Agent 21"
+    }
+  ]
+}

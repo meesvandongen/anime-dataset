@@ -1,0 +1,55 @@
+{
+  "id": 3210,
+  "title": "Ikoku Irokoi Romantan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/27506.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/27506l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Romantic Tale of a Foreign Love Affair"
+    ],
+    "en": "A Foreign Love Affair",
+    "ja": "異国色恋浪漫譚"
+  },
+  "start_date": "2007-12-21",
+  "end_date": "2008-10-24",
+  "synopsis": "Japanese yakuza clan heir Ranmaru just got married on a lavish cruise ship, but things aren't as they seem. The marriage is just for the appearances, and he ends up getting drunk and spending the night not with his bride but with the sexy ship captain. When the two men meet again in Italy, it is the start of a spectacular love story.\n\n(Source: MU)",
+  "mean": 6.91,
+  "popularity": 3289,
+  "num_list_users": 44871,
+  "num_scoring_users": 24831,
+  "nsfw": "gray",
+  "created_at": "2007-10-09T20:18:46+00:00",
+  "updated_at": "2023-09-07T08:09:35+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1653,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 347,
+      "name": "PrimeTime"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 39380,
+  "title": "Wei, Kanjian Erduo La! 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1309/99419.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1309/99419l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hora, Mimi ga Mieteru yo! 2",
+      "Look, I Can See Your Ears! 2"
+    ],
+    "en": "",
+    "ja": "喂，看见耳朵啦 第二季"
+  },
+  "start_date": "2019-02-02",
+  "end_date": "2019-04-13",
+  "synopsis": "Second season of Wei, Kanjian Erduo La!.",
+  "mean": 7.29,
+  "rank": 2795,
+  "popularity": 6310,
+  "num_list_users": 10206,
+  "num_scoring_users": 5185,
+  "nsfw": "white",
+  "created_at": "2019-02-25T22:48:35+00:00",
+  "updated_at": "2023-09-07T08:13:16+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1854,
+      "name": "monofilmo"
+    }
+  ]
+}

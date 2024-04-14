@@ -1,0 +1,47 @@
+{
+  "id": 24047,
+  "title": "Kaseki Dorobou to Kyouryuuseki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/62729.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/62729l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Creator's World Project 4"
+    ],
+    "en": "Fossil Thief and the Dinosaur Stones",
+    "ja": "化石ドロボウと恐竜石"
+  },
+  "start_date": "2011-03",
+  "end_date": "2011-03",
+  "synopsis": "The dinosaur fantasy revolves around a 12-year-old named Yuta and Gobi — a moving fossil. The two embark on a journey with Yuta's friends to chase a fossil thief and find Gobi's stolen fossil mother. \n\n(Source: ANN)\n",
+  "mean": 5.79,
+  "rank": 10500,
+  "popularity": 16903,
+  "num_list_users": 417,
+  "num_scoring_users": 148,
+  "nsfw": "white",
+  "created_at": "2014-05-01T09:28:38+00:00",
+  "updated_at": "2021-02-08T08:36:44+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 384,
+  "rating": "g",
+  "studios": []
+}

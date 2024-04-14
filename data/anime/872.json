@@ -1,0 +1,67 @@
+{
+  "id": 872,
+  "title": "Mahou Shoujo-tai Arusu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1934/140911.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1934/140911l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahou Shoujo-tai Alice",
+      "Mahou Shoujotai",
+      "Magic-Girl Squad: Alice",
+      "Magical Girl Squad Arusu"
+    ],
+    "en": "Tweeny Witches",
+    "ja": "魔法少女隊アルス"
+  },
+  "start_date": "2004-04-09",
+  "end_date": "2005-03-04",
+  "synopsis": "Arusu believes in magic. With all her heart, she believes that magic is possible and that it can be used for good deeds and fun games. But suddenly, she finds herself transported into another world, ruled by a mysterious elite of witches—and these witches don't seem to be in it for the fun. They're hard at work capturing sprites, the native magical beings of the world, and forcing them into slavery. Once Arusu realizes that her new surroundings aren't just a dream, she sets out to change things.\n\n(Source: ANN)",
+  "mean": 7.05,
+  "rank": 4056,
+  "popularity": 4025,
+  "num_list_users": 30499,
+  "num_scoring_users": 6666,
+  "nsfw": "white",
+  "created_at": "2006-04-11T21:52:20+00:00",
+  "updated_at": "2022-04-01T12:09:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "18:20"
+  },
+  "source": "original",
+  "average_episode_duration": 560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    }
+  ]
+}

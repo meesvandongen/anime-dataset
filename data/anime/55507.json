@@ -1,0 +1,39 @@
+{
+  "id": 55507,
+  "title": "Cynthia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1567/136161.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1567/136161l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シンシア"
+  },
+  "start_date": "2020-08-14",
+  "end_date": "2020-08-14",
+  "synopsis": "Music video for the song Cynthia by necchi.",
+  "popularity": 22745,
+  "num_list_users": 97,
+  "num_scoring_users": 55,
+  "nsfw": "white",
+  "created_at": "2023-05-26T00:42:28+00:00",
+  "updated_at": "2023-05-30T15:45:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 231,
+  "rating": "pg_13",
+  "studios": []
+}

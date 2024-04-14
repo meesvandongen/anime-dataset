@@ -1,0 +1,57 @@
+{
+  "id": 54803,
+  "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1716/137279.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1716/137279l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Captain Tsubasa: Junior Youth Arc",
+    "ja": "キャプテン翼シーズン2 ジュニアユース編"
+  },
+  "start_date": "2023-10-01",
+  "synopsis": "The International Junior Youth Tournament in Paris, France, is about to begin, and Tsubasa, Misaki, Wakabayashi, Hyuga, and Wakashimazu are ready. Japan’s team of elite players is to face off against the best the soccer world has to offer. Germany’s Schneider, France’s Pierre, Argentina’s Diaz, and Italy’s Hernandez await, along with a host of other new rivals. Let the battle begin!\n\n(Source: VIZ Media)\n",
+  "mean": 7.39,
+  "rank": 2325,
+  "popularity": 5916,
+  "num_list_users": 11978,
+  "num_scoring_users": 2193,
+  "nsfw": "white",
+  "created_at": "2023-03-23T03:21:42+00:00",
+  "updated_at": "2024-03-08T16:13:28+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "17:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1340,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1997,
+      "name": "Studio Kai"
+    }
+  ]
+}

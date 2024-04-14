@@ -1,0 +1,60 @@
+{
+  "id": 37151,
+  "title": "Marvel Future Avengers 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1135/96838.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1135/96838l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Marvel Future Avengers Second Season"
+    ],
+    "en": "",
+    "ja": "マーベル フューチャー・アベンジャーズ 第2期"
+  },
+  "start_date": "2018-07-30",
+  "end_date": "2018-10-22",
+  "synopsis": "Second season of Marvel Future Avengers.",
+  "mean": 5.67,
+  "rank": 11005,
+  "popularity": 11173,
+  "num_list_users": 2040,
+  "num_scoring_users": 546,
+  "nsfw": "white",
+  "created_at": "2018-01-20T03:28:19+00:00",
+  "updated_at": "2021-10-26T18:14:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:00"
+  },
+  "source": "other",
+  "average_episode_duration": 1320,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

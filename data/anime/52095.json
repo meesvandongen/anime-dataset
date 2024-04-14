@@ -1,0 +1,48 @@
+{
+  "id": 52095,
+  "title": "Riku ni Agatta Ningyo no Hanashi Pilot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1496/124534.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1496/124534l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Animal Family",
+    "ja": "陸にあがった人魚のはなし PILOT"
+  },
+  "start_date": "2018-09-22",
+  "end_date": "2018-09-22",
+  "synopsis": "",
+  "rank": 17514,
+  "popularity": 21226,
+  "num_list_users": 150,
+  "num_scoring_users": 55,
+  "nsfw": "white",
+  "created_at": "2022-06-16T23:16:25+00:00",
+  "updated_at": "2022-06-17T15:18:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 390,
+  "rating": "g",
+  "studios": []
+}

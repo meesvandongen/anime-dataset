@@ -1,0 +1,47 @@
+{
+  "id": 58170,
+  "title": "Sakura Kimi Watashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1191/141486.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1191/141486l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "サクラキミワタシ"
+  },
+  "start_date": "2024-02-19",
+  "end_date": "2024-02-19",
+  "synopsis": "Music video for the song Sakura Kimi Watashi by tuki.",
+  "popularity": 22775,
+  "num_list_users": 97,
+  "num_scoring_users": 45,
+  "nsfw": "white",
+  "created_at": "2024-02-19T17:21:39+00:00",
+  "updated_at": "2024-02-19T18:13:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 205,
+  "rating": "pg_13",
+  "studios": []
+}

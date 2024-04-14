@@ -1,0 +1,55 @@
+{
+  "id": 51839,
+  "title": "Iii Icecrin Double",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1716/123876.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1716/123876l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Iii Icecrin 2"
+    ],
+    "en": "",
+    "ja": "iiiあいすくりん2（あいあいあい あいすくりん ダブル）"
+  },
+  "start_date": "2022-07-02",
+  "end_date": "2022-09-17",
+  "synopsis": "Second season of Iii Icecrin.",
+  "rank": 20337,
+  "popularity": 17272,
+  "num_list_users": 390,
+  "num_scoring_users": 89,
+  "nsfw": "white",
+  "created_at": "2022-05-17T06:54:57+00:00",
+  "updated_at": "2022-09-17T05:50:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "07:00"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    },
+    {
+      "id": 2057,
+      "name": "Toho Interactive Animation"
+    }
+  ]
+}

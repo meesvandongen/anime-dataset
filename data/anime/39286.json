@@ -1,0 +1,41 @@
+{
+  "id": 39286,
+  "title": "112 Sabsections of Skyline",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1651/99098.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1651/99098l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "112 Sabsections of Skyline",
+    "ja": "112 Sabsections Of Skyline"
+  },
+  "start_date": "2007-10-20",
+  "end_date": "2007-10-20",
+  "synopsis": "Short film by Takashi Ohashi, depicting birds resting on electrical wires to play out a musical score.",
+  "mean": 5.09,
+  "rank": 12540,
+  "popularity": 14635,
+  "num_list_users": 695,
+  "num_scoring_users": 386,
+  "nsfw": "white",
+  "created_at": "2019-02-15T15:45:19+00:00",
+  "updated_at": "2019-10-22T13:56:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 220,
+  "rating": "g",
+  "studios": []
+}

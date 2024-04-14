@@ -1,0 +1,44 @@
+{
+  "id": 38166,
+  "title": "Malta no Bouken Season 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1235/93452.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1235/93452l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "マルタの冒険　シーズン3"
+  },
+  "start_date": "2017-05-05",
+  "end_date": "2017-07-21",
+  "synopsis": "The third season of Malta no Bouken. It focuses more on an adventure that Malta and her friends go on.",
+  "rank": 16181,
+  "popularity": 20547,
+  "num_list_users": 185,
+  "num_scoring_users": 32,
+  "nsfw": "white",
+  "created_at": "2018-08-11T10:05:55+00:00",
+  "updated_at": "2018-08-11T10:05:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 49692,
+  "title": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1311/120270.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1311/120270l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "To Become a Real Heroine!"
+    ],
+    "en": "Heroines Run the Show: The Unpopular Girl and the Secret Task",
+    "ja": "ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜"
+  },
+  "start_date": "2022-04-07",
+  "end_date": "2022-06-23",
+  "synopsis": "Freshly graduating middle school, energetic 15-year-old Hiyori Suzumi moves from her coastal hometown to Tokyo, pursuing her dream of being a track and field runner. Unfortunately, as soon as her first high school year begins, she faces an imminent problem that ultimately causes her to find a part-time job to cover living costs.\n\nAfter searching through countless prospective workplaces, Hiyori stumbles upon a posting looking for event staff, to which she gets accepted against all odds. It is revealed that she will be working as a manager-in-training for LIPxLIP, a rising male idol group composed of Yuujirou Someya and Aizou Shibasaki—both of whom are coincidentally her classmates. Despite this shocking revelation, Hiyori is resolved to do her best with balancing her studies, her ambition, and most importantly, her role as LIPxLIP's attendant.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.28,
+  "rank": 2831,
+  "popularity": 2640,
+  "num_list_users": 67229,
+  "num_scoring_users": 24512,
+  "nsfw": "white",
+  "created_at": "2021-08-28T12:48:31+00:00",
+  "updated_at": "2023-02-13T17:56:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:30"
+  },
+  "source": "music",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1087,
+      "name": "Lay-duce"
+    }
+  ]
+}

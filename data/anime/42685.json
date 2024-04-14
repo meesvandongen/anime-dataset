@@ -1,0 +1,78 @@
+{
+  "id": 42685,
+  "title": "Dokyuu Hentai HxEros: HxEros Report",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1284/108937.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1284/108937l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dokyuu Hentai HxEros Recap",
+      "Dokyuu Hentai HxEros Episode 7.5",
+      "SUPER HXEROS Recap"
+    ],
+    "en": "",
+    "ja": "ド級編隊エグゼロス 第7.5話「エグゼロス・レポート」"
+  },
+  "start_date": "2020-08-21",
+  "end_date": "2020-08-21",
+  "synopsis": "Recap of the first seven episodes of Dokyuu Hentai HxEros",
+  "mean": 5.92,
+  "rank": 9941,
+  "popularity": 7110,
+  "num_list_users": 7643,
+  "num_scoring_users": 2370,
+  "nsfw": "gray",
+  "created_at": "2020-08-15T05:23:12+00:00",
+  "updated_at": "2024-02-07T15:09:49+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1432,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 40858,
+  "title": "Psycho-Pass 3: First Inspector",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1085/110722.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1085/110722l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR"
+  },
+  "start_date": "2020-03-27",
+  "end_date": "2020-03-27",
+  "synopsis": "Inspectors Arata Shindou and Mikhail Kei Ignatov have uncovered a dangerous conspiracy. The Sybil System, the ultimate judge of human character in Japan, is being undermined by a criminal syndicate that is amassing wealth and power in the shadows.\n\nNow, Bifrost agent Kouichi Azusawa launches a direct assault upon the Criminal Investigation Department (CID) by occupying its headquarters and taking Inspector Shindou and everyone with him hostage. CID Unit 01 supervisor, along with Chief Mika Shimotsuki and former unit members Shinya Kougami and Nobuchika Ginoza, face the task of reclaiming the building and saving everyone inside.\n\nAlongside the hostage situation and Azusawa's demands for Tokyo governor Karina Komiya's resignation, there is a sinister plot hatching in the background—a secret plan that will force Inspector Shindou to confront not only Azusawa but also his own past. These events slowly bring him closer to unshrouding the mystery that has eluded him and his best friend, Ignatov, for many years.\n\n[Written by MAL Rewrite]",
+  "mean": 7.79,
+  "rank": 1017,
+  "popularity": 2109,
+  "num_list_users": 97292,
+  "num_scoring_users": 39694,
+  "nsfw": "white",
+  "created_at": "2019-12-12T17:18:27+00:00",
+  "updated_at": "2023-01-14T20:48:58+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 2760,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

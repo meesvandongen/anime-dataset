@@ -1,0 +1,55 @@
+{
+  "id": 44026,
+  "title": "Zannen na Ikimono Jiten (2019)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1957/110202.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1957/110202l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Encyclopedia of Pitiful Creatures (2019)"
+    ],
+    "en": "",
+    "ja": "ざんねんないきもの事典 (2019)"
+  },
+  "start_date": "2019-07-29",
+  "end_date": "2019-08-07",
+  "synopsis": "",
+  "rank": 15161,
+  "popularity": 18748,
+  "num_list_users": 286,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2020-11-15T23:55:35+00:00",
+  "updated_at": "2021-08-02T21:30:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1797,
+      "name": "NHK Enterprises"
+    }
+  ]
+}

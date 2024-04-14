@@ -1,0 +1,58 @@
+{
+  "id": 4182,
+  "title": "Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/32729.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/32729l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Darker than Black Episode 26",
+      "DTB",
+      "Darker than Black: Kuro no Keiyakusha Special"
+    ],
+    "en": "Darker Than Black Episode 26: Beneath the Fully Bloomed Cherry Blossoms",
+    "ja": "DARKER THAN BLACK -黒の契約者- 桜の花の満開の下"
+  },
+  "start_date": "2008-03-26",
+  "end_date": "2008-03-26",
+  "synopsis": "A side-story of Darker than Black, also called Episode 26, that takes place during the events of Kuro no Keiyakusha. \n\nThe Syndicate has another job for Hei and his team. This assignment involves the sought after possessions of a dead contractor, which are believed to have been buried beneath a cherry tree. Meanwhile, Misaki Kirihara and her team plan a trip to the Cherry Blossom festival.\n\n[Written by MAL Rewrite]",
+  "mean": 7.54,
+  "rank": 1734,
+  "popularity": 1608,
+  "num_list_users": 140920,
+  "num_scoring_users": 79969,
+  "nsfw": "white",
+  "created_at": "2008-03-28T05:20:45+00:00",
+  "updated_at": "2022-04-16T22:28:00+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

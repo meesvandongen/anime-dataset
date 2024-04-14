@@ -1,0 +1,56 @@
+{
+  "id": 49501,
+  "title": "Katarina Nounai Kaigi X",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1722/116827.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1722/116827l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Katarina's Brain Conference X"
+    ],
+    "en": "",
+    "ja": "カタリナ脳内会議Ｘ"
+  },
+  "start_date": "2021-06-21",
+  "end_date": "2021-09-18",
+  "synopsis": "Short specials posted on the official twitter account where the \"Katarina Five\" introduces Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X.",
+  "mean": 5.73,
+  "rank": 10733,
+  "popularity": 8486,
+  "num_list_users": 4951,
+  "num_scoring_users": 931,
+  "nsfw": "white",
+  "created_at": "2021-07-28T22:06:38+00:00",
+  "updated_at": "2022-02-16T03:08:29+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 55,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    }
+  ]
+}

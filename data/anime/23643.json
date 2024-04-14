@@ -1,0 +1,53 @@
+{
+  "id": 23643,
+  "title": "Nezumi no Yomeiri",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/71636.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/71636l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Marriage of a Mouse",
+      "Mouse's Wedding"
+    ],
+    "en": "",
+    "ja": "ねずみのよめいり"
+  },
+  "start_date": "1979-07-29",
+  "end_date": "1979-07-29",
+  "synopsis": "A mouse father seeks the ideal strong husband for his beloved daughter. He goes to talk to the strongest elements. But even the Sun is block by Cloud, and Cloud is moved by Wind, and Wind can't even move the house by an inch no matter how much it blows. Will he ever find a suitable husband for his daughter?",
+  "mean": 5.58,
+  "rank": 11341,
+  "popularity": 16905,
+  "num_list_users": 417,
+  "num_scoring_users": 136,
+  "nsfw": "white",
+  "created_at": "2014-04-07T05:46:09+00:00",
+  "updated_at": "2018-04-01T18:57:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 797,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

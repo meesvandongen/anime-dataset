@@ -1,0 +1,71 @@
+{
+  "id": 55855,
+  "title": "Kuroshitsuji: Kishuku Gakkou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1505/141820.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1505/141820l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Black Butler: Public School Edition"
+    ],
+    "en": "Black Butler: Public School Arc",
+    "ja": "黒執事 -寄宿学校編-"
+  },
+  "start_date": "2024-04-13",
+  "synopsis": "New season of Kuroshitsuji.",
+  "mean": 7.97,
+  "rank": 675,
+  "popularity": 3251,
+  "num_list_users": 45965,
+  "num_scoring_users": 989,
+  "nsfw": "white",
+  "created_at": "2023-07-04T09:13:14+00:00",
+  "updated_at": "2024-04-13T17:47:43+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

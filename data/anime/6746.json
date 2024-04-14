@@ -1,0 +1,64 @@
+{
+  "id": 6746,
+  "title": "Durarara!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/71772.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/71772l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dhurarara!!",
+      "Dyurarara!!",
+      "Dulalala!!",
+      "Dullalala!!",
+      "DRRR!!"
+    ],
+    "en": "Durarara!!",
+    "ja": "デュラララ!!"
+  },
+  "start_date": "2010-01-08",
+  "end_date": "2010-06-25",
+  "synopsis": "In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless \"Black Rider\" who is said to be seen driving a jet-black motorcycle through the city streets.\n\nMikado Ryuugamine has always longed for the excitement of the city life, and an invitation from a childhood friend convinces him to move to Tokyo. Witnessing the Black Rider on his first day in the city, his wishes already seem to have been granted. But as supernatural events begin to occur, ordinary citizens like himself, along with Ikebukuro's most colorful inhabitants, are mixed up in the commotion breaking out in their city.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.1,
+  "rank": 488,
+  "popularity": 90,
+  "num_list_users": 1404550,
+  "num_scoring_users": 663736,
+  "nsfw": "white",
+  "created_at": "2009-07-04T11:04:49+00:00",
+  "updated_at": "2023-01-31T21:23:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:25"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1460,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

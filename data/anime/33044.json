@@ -1,0 +1,56 @@
+{
+  "id": 33044,
+  "title": "Asa da yo! Kaishain",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/79277.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/79277l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Clamployee"
+    ],
+    "en": "",
+    "ja": "朝だよ！貝社員"
+  },
+  "start_date": "2016-04-04",
+  "end_date": "2019-03-29",
+  "synopsis": "The series follows a variety of employed shellfish who exhibit selfish or odd personality traits.\n\n(Source: LiveChart)",
+  "mean": 5.57,
+  "rank": 11367,
+  "popularity": 13971,
+  "num_list_users": 857,
+  "num_scoring_users": 154,
+  "nsfw": "white",
+  "created_at": "2016-03-26T21:35:05+00:00",
+  "updated_at": "2022-12-18T09:45:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 744,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "other",
+    "start_time": "06:45"
+  },
+  "source": "original",
+  "average_episode_duration": 44,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

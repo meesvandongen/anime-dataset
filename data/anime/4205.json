@@ -1,0 +1,53 @@
+{
+  "id": 4205,
+  "title": "KimiKiss Pure Rouge: Love Fighter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1203/127869.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1203/127869l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kimi-kiss pure rouge",
+      "KimiKiss Pure Rouge Special"
+    ],
+    "en": "",
+    "ja": "キミキス pure rouge"
+  },
+  "start_date": "2008-08-22",
+  "end_date": "2008-08-22",
+  "synopsis": "DVD only episode entitled 'love fighter'. It features the whole cast but focuses on Megumi Kuryuu.",
+  "mean": 6.93,
+  "rank": 4574,
+  "popularity": 5820,
+  "num_list_users": 12466,
+  "num_scoring_users": 6742,
+  "nsfw": "white",
+  "created_at": "2008-04-01T03:47:46+00:00",
+  "updated_at": "2021-11-11T22:33:59+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

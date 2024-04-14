@@ -1,0 +1,66 @@
+{
+  "id": 22053,
+  "title": "Gakkou no Kaidan (OVA)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/65195.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/65195l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "学校の怪談"
+  },
+  "start_date": "2005-07-06",
+  "end_date": "2009-08-15",
+  "synopsis": "OVAs included in the August and September issues of Comic Bun Bun between 2005 and 2009. In 2005 and 2006, the anime came on VHS tapes. It switched to DVD in 2007.",
+  "mean": 6.49,
+  "rank": 6969,
+  "popularity": 12414,
+  "num_list_users": 1334,
+  "num_scoring_users": 264,
+  "nsfw": "white",
+  "created_at": "2014-01-10T19:39:39+00:00",
+  "updated_at": "2024-04-13T07:38:08+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 63,
+      "name": "Trinet Entertainment"
+    },
+    {
+      "id": 318,
+      "name": "WAO World"
+    },
+    {
+      "id": 2457,
+      "name": "Studio Ranmaru"
+    }
+  ]
+}

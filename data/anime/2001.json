@@ -1,0 +1,72 @@
+{
+  "id": 2001,
+  "title": "Tengen Toppa Gurren Lagann",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tengen Toppa Gurren-Lagann",
+      "Making Break-Through Gurren Lagann",
+      "Heavenly Breakthrough Gurren Lagann",
+      "TTGL",
+      "Gurren Laggan"
+    ],
+    "en": "Gurren Lagann",
+    "ja": "天元突破グレンラガン"
+  },
+  "start_date": "2007-04-01",
+  "end_date": "2007-09-30",
+  "synopsis": "Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited loose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations. One day while excavating the earth, Simon stumbles upon a mysterious object that turns out to be the ignition key to an ancient artifact of war, which the duo dubs Lagann. Using their new weapon, Simon and Kamina fend off a surprise attack from the surface with the help of Yoko Littner, a hot-blooded redhead wielding a massive gun who wanders the world above.\n\nIn the aftermath of the battle, the sky is now in plain view, prompting Simon and Kamina to set off on a journey alongside Yoko to explore the wastelands of the surface. Soon, they join the fight against the \"Beastmen,\" humanoid creatures that terrorize the remnants of humanity in powerful robots called \"Gunmen.\" Although they face some challenges and setbacks, the trio bravely fights these new enemies alongside other survivors to reclaim the surface, while slowly unraveling a galaxy-sized mystery.\n\n[Written by MAL Rewrite]",
+  "mean": 8.63,
+  "rank": 77,
+  "popularity": 64,
+  "num_list_users": 1607478,
+  "num_scoring_users": 898254,
+  "nsfw": "white",
+  "created_at": "2007-03-03T15:02:10+00:00",
+  "updated_at": "2023-01-09T15:19:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 27,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

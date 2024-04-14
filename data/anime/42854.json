@@ -1,0 +1,48 @@
+{
+  "id": 42854,
+  "title": "Kotobadori (July 2019)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1534/109163.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1534/109163l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "コトバドリ"
+  },
+  "start_date": "2019-07-22",
+  "end_date": "2019-07-22",
+  "synopsis": "Music video by Tarafu Otani for Tomoyo Harada's single Kotobadori.",
+  "mean": 5.95,
+  "popularity": 18335,
+  "num_list_users": 311,
+  "num_scoring_users": 150,
+  "nsfw": "white",
+  "created_at": "2020-09-10T04:39:25+00:00",
+  "updated_at": "2021-02-19T19:00:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 288,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": 4872,
+  "title": "Goku Sayonara Zetsubou Sensei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/14336.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/14336l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sayonara Zetsubou Sensei OAD",
+      "Goodbye Mr. Despair OVA",
+      "GSZS"
+    ],
+    "en": "Goodbye Mr. Despair OAD",
+    "ja": "獄・さよなら絶望先生"
+  },
+  "start_date": "2008-10-17",
+  "end_date": "2009-02-17",
+  "synopsis": "Sayonara Zetsubou Sensei OVA.",
+  "mean": 7.81,
+  "rank": 971,
+  "popularity": 2699,
+  "num_list_users": 64644,
+  "num_scoring_users": 30812,
+  "nsfw": "white",
+  "created_at": "2008-07-08T16:40:27+00:00",
+  "updated_at": "2022-04-01T16:25:46+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

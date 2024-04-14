@@ -1,0 +1,49 @@
+{
+  "id": 19169,
+  "title": "Go! Go! Kadendanshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/51435.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/51435l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Go!Go!家電男子"
+  },
+  "start_date": "2013-07-02",
+  "end_date": "2013-12-28",
+  "synopsis": "",
+  "mean": 5.63,
+  "rank": 11162,
+  "popularity": 15633,
+  "num_list_users": 541,
+  "num_scoring_users": 125,
+  "nsfw": "white",
+  "created_at": "2013-06-21T23:53:36+00:00",
+  "updated_at": "2018-01-10T21:09:53+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 78,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

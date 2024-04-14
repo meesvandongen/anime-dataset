@@ -1,0 +1,47 @@
+{
+  "id": 39616,
+  "title": "Jo Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1835/100206.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1835/100206l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wrench",
+      "Weak"
+    ],
+    "en": "",
+    "ja": "助詩"
+  },
+  "start_date": "2019-03-27",
+  "end_date": "2019-03-27",
+  "synopsis": "Official music video for Wrench's song Jo Uta in honor of their album \"weak\" going on sale the previous week. The artwork was done by Tomohiro Matsuda and the animation and direction by Harunobu Mitsui.",
+  "mean": 5.07,
+  "popularity": 18944,
+  "num_list_users": 274,
+  "num_scoring_users": 139,
+  "nsfw": "white",
+  "created_at": "2019-03-28T04:19:06+00:00",
+  "updated_at": "2021-02-28T00:35:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 277,
+  "rating": "g",
+  "studios": []
+}

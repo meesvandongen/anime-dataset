@@ -1,0 +1,53 @@
+{
+  "id": 28071,
+  "title": "Itsumo Kokoro ni Taiyou wo!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1009/130384.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1009/130384l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Always the Sun in My Soul",
+      "Remember the Sun in the Heart"
+    ],
+    "en": "",
+    "ja": "いつも心に太陽を!"
+  },
+  "start_date": "1999-11-02",
+  "end_date": "1999-11-26",
+  "synopsis": "Follows the story of the manga of the same name where a a high school boy finds a room for a boarding house that only costs 30,000 yen a month (about 300 USD). But there's a catch. ",
+  "mean": 6.14,
+  "rank": 8860,
+  "popularity": 13382,
+  "num_list_users": 1003,
+  "num_scoring_users": 238,
+  "nsfw": "white",
+  "created_at": "2014-10-22T08:54:26+00:00",
+  "updated_at": "2022-11-04T09:47:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 225,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 56425,
+  "title": "Houkago Shounen Hanako-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1530/138031.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1530/138031l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "After-School Hanako-kun",
+    "ja": "放課後少年花子くん"
+  },
+  "start_date": "2023-10-13",
+  "end_date": "2023-11-03",
+  "synopsis": "There are rumors that one of Kamome Academy's Seven Mysteries, Hanako-kun, has gained an assistant: first-year high school student Nene Yashiro. Together, Hanako and Yashiro investigate the school's many mysteries, keeping the balance between humans and the supernatural. But in their free time, the two can often be found goofing off, engaging in various antics involving Yashiro's schoolmates and the lurking spectral entities that normal people cannot see.\n\n[Written by MAL Rewrite]",
+  "mean": 7.05,
+  "rank": 4046,
+  "popularity": 2907,
+  "num_list_users": 56829,
+  "num_scoring_users": 14880,
+  "nsfw": "white",
+  "created_at": "2023-08-24T04:02:59+00:00",
+  "updated_at": "2023-12-10T16:01:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:13"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

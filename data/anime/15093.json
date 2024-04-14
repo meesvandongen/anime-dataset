@@ -1,0 +1,55 @@
+{
+  "id": 15093,
+  "title": "Koihime†Musou OVA Omake",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/40927.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/40927l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koihime Flash"
+    ],
+    "en": "",
+    "ja": "ちびちび演技 恋姫ふらっしゅ～張飛、おっぱいをもとめんとするのこと～"
+  },
+  "start_date": "2009-04-01",
+  "end_date": "2009-04-01",
+  "synopsis": "A special included in the DVD of Koihime†Musou OVA and the BD-BOX of Koihime†Musou.",
+  "mean": 6.05,
+  "rank": 9357,
+  "popularity": 11117,
+  "num_list_users": 2078,
+  "num_scoring_users": 584,
+  "nsfw": "white",
+  "created_at": "2012-08-09T02:57:27+00:00",
+  "updated_at": "2019-05-29T21:42:41+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 720,
+  "rating": "r+",
+  "studios": []
+}

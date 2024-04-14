@@ -1,0 +1,50 @@
+{
+  "id": 10540,
+  "title": "Genki!! Ekoda-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/28950.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/28950l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rinshi!! Ekoda Chang",
+      "Rinshi!! Ekoda-chan",
+      "Yuruani"
+    ],
+    "en": "",
+    "ja": "元気!!江古田ちゃん"
+  },
+  "start_date": "2011-04-13",
+  "end_date": "2011-09-14",
+  "synopsis": "Based on a four-panel manga, Rinshi!! Ekoda-chan is about a single woman in Tokyo who drifts through relationships and who works at various hostess clubs and the like.\n\n(Source: Zigguratbuilder, edited)",
+  "mean": 5.76,
+  "rank": 10605,
+  "popularity": 12815,
+  "num_list_users": 1173,
+  "num_scoring_users": 179,
+  "nsfw": "white",
+  "created_at": "2011-04-02T22:24:35+00:00",
+  "updated_at": "2019-05-21T06:05:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 16389,
+  "title": "Komachi to Dangorou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/44219.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/44219l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Komachi and Dangorou"
+    ],
+    "en": "",
+    "ja": "古町と団五郎"
+  },
+  "start_date": "2012-11-10",
+  "end_date": "2015-10-28",
+  "synopsis": "Niigata city's publicity mascot characters, Komachi Hanano and Dangorou Sasa, search for the mysterious stone that was stolen after it had fallen from the skies.",
+  "mean": 5.14,
+  "rank": 12450,
+  "popularity": 14064,
+  "num_list_users": 832,
+  "num_scoring_users": 335,
+  "nsfw": "white",
+  "created_at": "2012-11-25T18:58:41+00:00",
+  "updated_at": "2017-11-02T17:06:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 482,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    },
+    {
+      "id": 1766,
+      "name": "Husio Studio"
+    }
+  ]
+}

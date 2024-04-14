@@ -1,0 +1,45 @@
+{
+  "id": 42612,
+  "title": "Yumemiru Jump",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1561/108757.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1561/108757l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "夢見るジャンプ"
+  },
+  "start_date": "2005-10-01",
+  "end_date": "2005-10-01",
+  "synopsis": "Music video for the song Yumemiru Jump by Japanese folk group Hirakawachi Itchoume that was featured on NHK's Minna no Uta program. The video was animated by Toshio Nishiuchi.",
+  "popularity": 20304,
+  "num_list_users": 198,
+  "num_scoring_users": 112,
+  "nsfw": "white",
+  "created_at": "2020-08-05T04:19:48+00:00",
+  "updated_at": "2023-11-26T11:42:06+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 34852,
+  "title": "Pikaia!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/84105.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/84105l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ピカイア!!"
+  },
+  "start_date": "2017-02-26",
+  "end_date": "2017-05-27",
+  "synopsis": "Second season of Pikaia!.",
+  "mean": 5.86,
+  "rank": 10187,
+  "popularity": 14741,
+  "num_list_users": 675,
+  "num_scoring_users": 157,
+  "nsfw": "white",
+  "created_at": "2017-02-02T01:10:21+00:00",
+  "updated_at": "2021-01-31T20:05:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

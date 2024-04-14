@@ -1,0 +1,50 @@
+{
+  "id": 16562,
+  "title": "Robot Taekwon V: Wooju Jakjeon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/44666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/44666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Robot Taekwon V 2",
+      "Robot Taekwon V: Space Mission"
+    ],
+    "en": "",
+    "ja": "로보트 태권V 우주작전"
+  },
+  "start_date": "1976-12-13",
+  "end_date": "1976-12-13",
+  "synopsis": "The second movie in the popular Korean movie series Robot Taekwon V.",
+  "rank": 17534,
+  "popularity": 16545,
+  "num_list_users": 448,
+  "num_scoring_users": 101,
+  "nsfw": "white",
+  "created_at": "2012-12-09T01:31:55+00:00",
+  "updated_at": "2012-12-11T16:18:44+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1976,
+    "season": "fall"
+  },
+  "average_episode_duration": 3600,
+  "rating": "pg",
+  "studios": []
+}

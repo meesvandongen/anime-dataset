@@ -1,0 +1,54 @@
+{
+  "id": 50846,
+  "title": "New Initial D Movie: Battle Digest",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1207/120556.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1207/120556l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "新劇場版 頭文字[イニシャル]D BATTLE DIGEST"
+  },
+  "start_date": "2022-01-07",
+  "end_date": "2022-01-07",
+  "synopsis": "New Initial D Movie: Battle Digest is a compilation film in the New Initial D Movie series. It features the battle scenes from the Initial D Legends films with a new soundtrack, in a similar fashion to the Battle Stages.\n\n(Source: Initial D Wiki)",
+  "mean": 7.41,
+  "rank": 2228,
+  "popularity": 7806,
+  "num_list_users": 6063,
+  "num_scoring_users": 1200,
+  "nsfw": "white",
+  "created_at": "2022-01-18T07:38:16+00:00",
+  "updated_at": "2022-04-17T00:45:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2837,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    },
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

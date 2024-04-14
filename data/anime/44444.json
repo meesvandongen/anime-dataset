@@ -1,0 +1,48 @@
+{
+  "id": 44444,
+  "title": "Dou Long Zhanshi 3: Long Yin Zhi Zhan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1484/122896.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1484/122896l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "斗龙战士3龙印之战"
+  },
+  "start_date": "2015-09-01",
+  "end_date": "2015-10-31",
+  "synopsis": "",
+  "rank": 19330,
+  "popularity": 22040,
+  "num_list_users": 115,
+  "num_scoring_users": 23,
+  "nsfw": "white",
+  "created_at": "2020-12-08T06:16:09+00:00",
+  "updated_at": "2022-04-17T09:47:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 60,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1340,
+  "rating": "pg",
+  "studios": []
+}

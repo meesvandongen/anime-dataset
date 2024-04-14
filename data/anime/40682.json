@@ -1,0 +1,66 @@
+{
+  "id": 40682,
+  "title": "Kingdom 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1443/111830.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1443/111830l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Kingdom: Season 3",
+    "ja": "キングダム 第3シリーズ"
+  },
+  "start_date": "2020-04-06",
+  "end_date": "2021-10-17",
+  "synopsis": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China. With a major geographical foothold in the state of Wei now under its control, Qin sets its sights eastward toward the remaining warring states.\n\nMeanwhile Li Mu—an unparalleled strategist and the newly appointed prime minister of the state of Zhao—has taken advantage of Zhao's temporary truce with Qin to negotiate with the other states without interruption. Seemingly without warning, Ying Zheng receives news that armies from the states of Chu, Zhao, Wei, Han, Yan, and Qi have crossed into Qin territory. Realizing too late the purpose behind Li Mu's truce with Qin, Zheng quickly gathers his advisors to devise a plan to address the six-state coalition army on their doorstep. For the first time in history, the state of Qin faces complete destruction and must use every resource and strategy at their disposal to prevent themselves from being wiped off the map.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.82,
+  "rank": 30,
+  "popularity": 2036,
+  "num_list_users": 102573,
+  "num_scoring_users": 40115,
+  "nsfw": "white",
+  "created_at": "2019-11-07T19:45:59+00:00",
+  "updated_at": "2024-03-08T16:22:56+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:10"
+  },
+  "source": "manga",
+  "average_episode_duration": 1507,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    },
+    {
+      "id": 1998,
+      "name": "Studio Signpost"
+    }
+  ]
+}

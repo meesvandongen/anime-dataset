@@ -1,0 +1,56 @@
+{
+  "id": 37978,
+  "title": "Kamisama Minarai: Himitsu no Cocotama - Minarai Cocotama-dou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1620/93304.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1620/93304l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "かみさまみならい ヒミツのここたま 特别篇"
+  },
+  "start_date": "2018-07-05",
+  "end_date": "2018-08-30",
+  "synopsis": "Short episodes that introduce the Cocotama's from Kirakira Happy★Hirake! Cocotama TV series.",
+  "rank": 15479,
+  "popularity": 16529,
+  "num_list_users": 450,
+  "num_scoring_users": 109,
+  "nsfw": "white",
+  "created_at": "2018-07-20T22:21:18+00:00",
+  "updated_at": "2020-10-13T04:15:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

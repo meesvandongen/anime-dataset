@@ -1,0 +1,61 @@
+{
+  "id": 29437,
+  "title": "Meitantei Conan: Kinga Shinnen Mouri Kogorou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/82692.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/82692l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detective Conan: Happy New Year Special",
+    "ja": "名探偵コナン 特別編 「謹賀新年 毛利小五郎」"
+  },
+  "start_date": "2015-01-03",
+  "end_date": "2015-01-03",
+  "synopsis": "Special episode consisting of two short stories. The first being an expanded version of Detective Conan: The Fugitive Kogorou Mouri, which was never aired on TV till now. The second half being a brand new New Years Day segment.",
+  "mean": 6.99,
+  "rank": 4340,
+  "popularity": 8809,
+  "num_list_users": 4445,
+  "num_scoring_users": 1663,
+  "nsfw": "white",
+  "created_at": "2015-01-11T07:57:54+00:00",
+  "updated_at": "2023-11-25T20:02:39+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

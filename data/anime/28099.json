@@ -1,0 +1,54 @@
+{
+  "id": 28099,
+  "title": "Little Twins: Bokura no Natsu ga Tondeiku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/68011.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/68011l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tiffel & Taffel",
+      "Tiffel and Taffel",
+      "Tiffel & Tuffel",
+      "Tiffel and Tuffel",
+      "How Our Summer Flew Past"
+    ],
+    "en": "",
+    "ja": "リトルツインズ ぼくらの夏が飛んでいく"
+  },
+  "start_date": "1992-08-08",
+  "end_date": "1992-08-08",
+  "synopsis": "The length and quality suggests this movie was the fourth video installment, dumped on theaters as a promotional exercise for the tapes.\n\n(Source: The Anime Encyclopedia)",
+  "rank": 16044,
+  "popularity": 18632,
+  "num_list_users": 292,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2014-10-24T05:48:31+00:00",
+  "updated_at": "2017-02-04T03:50:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

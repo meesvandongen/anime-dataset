@@ -1,0 +1,69 @@
+{
+  "id": 49891,
+  "title": "Tensei shitara Ken deshita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1191/127909.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1191/127909l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I became the sword by transmigrating",
+      "TenKen"
+    ],
+    "en": "Reincarnated as a Sword",
+    "ja": "転生したら剣でした"
+  },
+  "start_date": "2022-10-05",
+  "end_date": "2022-12-21",
+  "synopsis": "A nameless sword wakes up to discover he has been reincarnated from his former life as a human. With his power of telekinesis, he moves around this new world, acquiring several skills and abilities. When the sword comes upon a forest filled with monsters, he meets a young girl fleeing from a beast. Grabbing the sword, the girl easily defeats the monster. After introducing herself as Fran, she names the sword \"Shishou\" and officially becomes his wielder.\n\nThe two set out to become adventurers, but unfortunately for Fran, she is a member of the Black Cat Tribe—a Beastkin group with a bad reputation. No member of this tribe has ever evolved into a mightier beast, but Fran plans to be the first and achieve her parents' dream. As Shishou promises to remain her sword until she attains her goal, they form an unstoppable partnership of impressive strength.\n\n[Written by MAL Rewrite]",
+  "mean": 7.53,
+  "rank": 1766,
+  "popularity": 905,
+  "num_list_users": 267146,
+  "num_scoring_users": 131712,
+  "nsfw": "white",
+  "created_at": "2021-09-22T16:40:25+00:00",
+  "updated_at": "2023-09-24T02:01:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 605,
+      "name": "C2C"
+    }
+  ]
+}

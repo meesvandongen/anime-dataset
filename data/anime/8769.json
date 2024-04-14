@@ -1,0 +1,56 @@
+{
+  "id": 8769,
+  "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1508/129576.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1508/129576l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Little Sister Can't Be This Cute"
+    ],
+    "en": "OreImo",
+    "ja": "俺の妹がこんなに可愛いわけがない"
+  },
+  "start_date": "2010-10-03",
+  "end_date": "2010-12-19",
+  "synopsis": "Kirino Kousaka embodies the ideal student with equally entrancing looks. Her grades are near perfect, and to cover her personal expenses, she works as a professional model alongside her best friend Ayase Aragaki, who abhors liars and all things otaku. But what Ayase doesn't know is that Kirino harbors a deep, entrenched secret that will soon be brought to light.\n\nAt home one day, Kyousuke, Kirino's perfectly average brother, stumbles upon an erotic game that belongs to none other than his seemingly flawless little sister. With her reputation at stake, Kirino places a gag order on her sibling while simultaneously introducing him to the world of eroge and anime. Through Kirino, Kyousuke encounters the gothic lolita Ruri Gokou and the bespectacled otaku Saori Makishima, thus jump-starting an entirely new lifestyle. But as he becomes more and more involved in his little sister's secret life, it becomes that much harder to keep under wraps. \n\n[Written by MAL Rewrite]",
+  "mean": 6.95,
+  "rank": 4513,
+  "popularity": 294,
+  "num_list_users": 684773,
+  "num_scoring_users": 387662,
+  "nsfw": "white",
+  "created_at": "2010-05-03T01:17:13+00:00",
+  "updated_at": "2022-04-29T19:37:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 436,
+      "name": "AIC Build"
+    }
+  ]
+}

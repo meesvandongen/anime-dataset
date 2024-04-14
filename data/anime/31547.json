@@ -1,0 +1,39 @@
+{
+  "id": 31547,
+  "title": "Ryouma 30 Seconds",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/76307.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/76307l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "龍馬 30 Seconds"
+  },
+  "start_date": "2009-09",
+  "end_date": "2009-09",
+  "synopsis": "",
+  "rank": 17610,
+  "popularity": 18064,
+  "num_list_users": 329,
+  "num_scoring_users": 49,
+  "nsfw": "white",
+  "created_at": "2015-09-04T13:25:47+00:00",
+  "updated_at": "2017-06-14T01:29:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": []
+}

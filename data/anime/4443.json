@@ -1,0 +1,58 @@
+{
+  "id": 4443,
+  "title": "Duel Masters Charge",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1914/105188.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1914/105188l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "デュエル・マスターズ　チャージ"
+  },
+  "start_date": "2004-04-19",
+  "end_date": "2006-03-27",
+  "synopsis": "Shobu has returned after his 3 years training with all his friends in Battle Arena tournament. However, Shobu encounters a new enemy Zakira and his followers, the Fua Duelists. Zakira is a strong kaijudo duelist like Hakuoh. After kidnapping Hakuoh, they turn him into an enemy! Shobu and his friends try to stop them, but will they make it in time? Or will Shobu lose everything and end up devastated!?\n\n(Source: DuelMasters.wikia.com)",
+  "mean": 6.16,
+  "rank": 8776,
+  "popularity": 8177,
+  "num_list_users": 5444,
+  "num_scoring_users": 2599,
+  "nsfw": "white",
+  "created_at": "2008-05-01T13:35:11+00:00",
+  "updated_at": "2021-05-16T22:28:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1260,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 101,
+      "name": "Studio Hibari"
+    }
+  ]
+}

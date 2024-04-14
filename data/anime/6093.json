@@ -1,0 +1,61 @@
+{
+  "id": 6093,
+  "title": "Anmitsu Hime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/81386.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/81386l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sugar Princess",
+      "Anmitsu-hime"
+    ],
+    "en": "Princess Anmitsu",
+    "ja": "あんみつ姫"
+  },
+  "start_date": "1986-10-05",
+  "end_date": "1987-09-27",
+  "synopsis": "Based on a manga by Kurakane Shousuke serialised in the Shoujo magazine.\n\nAnmitsu is a tomboy princess living happily at the Amakara Castle. Our story begins when she turns ten years old and gets a home tutor Castella from the Pudding Kingdom as a present from her parents. But they were very wrong when they thought that Anmitsu will finally start studying seriously, because she will frequently escape from the castle looking for some fun, and in the process she will learn a lot about the outside world, make numerous friends and cause endless trouble for the inhabitants of the castle who are supposed to take care of her.",
+  "mean": 7.51,
+  "rank": 1834,
+  "popularity": 11760,
+  "num_list_users": 1659,
+  "num_scoring_users": 507,
+  "nsfw": "white",
+  "created_at": "2009-02-19T21:02:12+00:00",
+  "updated_at": "2022-03-13T19:31:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 1986,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

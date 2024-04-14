@@ -1,0 +1,45 @@
+{
+  "id": 4763,
+  "title": "Tsuma Shibori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/9159.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/9159l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Beautiful Sisters",
+    "ja": "妻しぼり"
+  },
+  "start_date": "2008-05-25",
+  "end_date": "2008-09-25",
+  "synopsis": "",
+  "mean": 7.09,
+  "popularity": 6437,
+  "num_list_users": 9765,
+  "num_scoring_users": 3913,
+  "nsfw": "gray",
+  "created_at": "2008-06-25T11:59:57+00:00",
+  "updated_at": "2023-01-24T21:35:51+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1755,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 405,
+      "name": "T-Rex"
+    }
+  ]
+}

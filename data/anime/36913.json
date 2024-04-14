@@ -1,0 +1,47 @@
+{
+  "id": 36913,
+  "title": "Inazuma Eleven x Kaitou Gru no Tsuki Dorobou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/89319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/89319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Inazuma Eleven x Despicable Me CM's"
+    ],
+    "en": "",
+    "ja": "イナズマイレブン x 怪盗グルーの月泥棒"
+  },
+  "start_date": "2011-02",
+  "end_date": "2011-03",
+  "synopsis": "The four \"eyecatch\" bumpers with the Despicable Me cameos tell a standalone short story. Over the four weeks leading up to the timeslot change, the minions are pitching in to help the Inazuma Eleven team move.\n\n(Source: ANN)",
+  "mean": 6.13,
+  "popularity": 10303,
+  "num_list_users": 2680,
+  "num_scoring_users": 1038,
+  "nsfw": "white",
+  "created_at": "2017-12-08T23:08:23+00:00",
+  "updated_at": "2023-12-26T21:48:12+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 12,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

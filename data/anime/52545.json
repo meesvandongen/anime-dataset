@@ -1,0 +1,40 @@
+{
+  "id": 52545,
+  "title": "My Crossroad",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1318/126331.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1318/126331l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "MY CROSSROAD"
+  },
+  "start_date": "1991-04-21",
+  "end_date": "1991-04-21",
+  "synopsis": "Chieko dreaming of being tomorrow's star, is an absent-minded and careless person, but has stronger passion than anybody else. Today as everyday, she's doing her best to get the role of heroine in the graduation play. A sweet, sweet story with a comical touch.",
+  "rank": 16691,
+  "popularity": 22006,
+  "num_list_users": 116,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2022-07-28T10:48:27+00:00",
+  "updated_at": "2022-07-30T07:36:44+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": 35720,
+  "title": "ACCA: 13-ku Kansatsu-ka Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1561/128092.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1561/128092l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ACCA: 13-Territory Inspection Dept.",
+      "ACCA: 13th Territory Inspection Department",
+      "ACCA: 13th Ward Observation Department",
+      "ACCA Jusanku Kansatsuka"
+    ],
+    "en": "",
+    "ja": "ACCA 13区監察課"
+  },
+  "start_date": "2017-04-21",
+  "end_date": "2017-08-29",
+  "synopsis": "The Kingdom of Dowa is free at last of political tensions and coup d'état rumors. Jean and Lotta Otus spend their days together with their best friend Niino, enjoying carefree conversations accompanied by alcohol and cigarettes. Although they look out for any potential threat to Dowa, even the administrative leaders of ACCA seem to relax in the long-awaited warmth of peace.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.81,
+  "rank": 5118,
+  "popularity": 6251,
+  "num_list_users": 10428,
+  "num_scoring_users": 3325,
+  "nsfw": "white",
+  "created_at": "2017-06-10T21:24:11+00:00",
+  "updated_at": "2022-06-14T06:13:05+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 329,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

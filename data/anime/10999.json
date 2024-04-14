@@ -1,0 +1,62 @@
+{
+  "id": 10999,
+  "title": "Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/44972.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/44972l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon",
+      "Inuzuma Eleven Go Movie",
+      "Inazuma Eleven Go: Kyuukyoku no Kizuna Griffon"
+    ],
+    "en": "Inazuma Eleven GO: The Ultimate Bond Griffon",
+    "ja": "劇場版イナズマイレブンGO 究極の絆 グリフォン"
+  },
+  "start_date": "2011-12-23",
+  "end_date": "2011-12-23",
+  "synopsis": "The Raimon team has been invited by Fifth Sector strangely to a soccer camp. When they agree, things go out of hand since it was revealed that Fifth Sector wants to eliminate them once and for all on the island called God Eden. Now, the Raimon team needs to train harder to be able to show that they have the strength to fight back and prove Fifth Sector's doings wrong.\n\n(Source: Inazuma Eleven Wiki)",
+  "mean": 7.44,
+  "rank": 2082,
+  "popularity": 5012,
+  "num_list_users": 18504,
+  "num_scoring_users": 10190,
+  "nsfw": "white",
+  "created_at": "2011-07-22T11:08:22+00:00",
+  "updated_at": "2022-11-26T10:58:14+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 31537,
+  "title": "Manaria Friends",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1287/111373.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1287/111373l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rage of Bahamut: Manaria Friends",
+      "Shingeki no Bahamut: Manaria Friends"
+    ],
+    "en": "Mysteria Friends",
+    "ja": "マナリアフレンズ"
+  },
+  "start_date": "2019-01-21",
+  "end_date": "2019-03-25",
+  "synopsis": "Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other. Two of the academy's students are Anne, a princess and honor student, and Grea, a princess born from a dragon and a human.\n\n(Source: ANN)",
+  "mean": 6.67,
+  "rank": 5883,
+  "popularity": 1773,
+  "num_list_users": 123962,
+  "num_scoring_users": 34592,
+  "nsfw": "white",
+  "created_at": "2015-08-31T07:53:34+00:00",
+  "updated_at": "2023-07-12T03:16:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:30"
+  },
+  "source": "card_game",
+  "average_episode_duration": 849,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1893,
+      "name": "CygamesPictures"
+    }
+  ]
+}

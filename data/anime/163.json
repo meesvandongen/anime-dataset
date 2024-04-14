@@ -1,0 +1,62 @@
+{
+  "id": 163,
+  "title": "Power Stone",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1110/98247.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1110/98247l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "パワーストーン"
+  },
+  "start_date": "1999-04-03",
+  "end_date": "1999-09-25",
+  "synopsis": "An ancient legend tells of a magical Powerstone that granted its owner any wish desired. Adventurers from all over the globe clash as they seek this mystical gem. \n\nBased upon the Dreamcast game, POWERSTONE tries to entertain us with the story behind the game's premise. The plot begins with our hero, Fokker, training to be a fighter like his idol, Vargas. \n\n(Source: AniDB)",
+  "mean": 6.61,
+  "rank": 6241,
+  "popularity": 6932,
+  "num_list_users": 8215,
+  "num_scoring_users": 3887,
+  "nsfw": "white",
+  "created_at": "2005-11-12T05:37:20+00:00",
+  "updated_at": "2022-11-23T20:48:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1220,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

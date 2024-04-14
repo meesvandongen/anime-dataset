@@ -1,0 +1,43 @@
+{
+  "id": 38384,
+  "title": "Toyo Suisan x Tanuki to Kitsune",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1287/94808.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1287/94808l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maruchan collab",
+      "Akai Kitsune - Midori no Tanuki \"Tanuki to Kitsune\" Collab Animation",
+      "Touyou Suisan x Tanuki to Kitsune"
+    ],
+    "en": "",
+    "ja": "東洋水産×「タヌキとキツネ」"
+  },
+  "start_date": "2018-09-24",
+  "end_date": "2018-09-24",
+  "synopsis": "A collaboration between Tanuki to Kitsune and Touyou Suisan's Maruchan instant noodle line Akai Kitsune (udon with abura-age) and Midori no Tanuki (soba with ten-kasu) and 7Eleven. Where if people by two instant noodles at 7Eleven they can receive 1 of 4 Tanuki to Kitsune mini-manga.",
+  "popularity": 18508,
+  "num_list_users": 301,
+  "num_scoring_users": 73,
+  "nsfw": "white",
+  "created_at": "2018-09-25T03:53:14+00:00",
+  "updated_at": "2024-01-16T02:47:22+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 35,
+  "rating": "g",
+  "studios": []
+}

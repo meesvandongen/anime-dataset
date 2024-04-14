@@ -1,0 +1,53 @@
+{
+  "id": 45142,
+  "title": "Mohuan Xian Zong (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1213/110835.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1213/110835l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "魔幻仙踪之妈妈去哪儿"
+    ],
+    "en": "Magic Wonderland (Movie)",
+    "ja": "魔幻仙踪"
+  },
+  "start_date": "2014-05-30",
+  "end_date": "2014-05-30",
+  "synopsis": "A baby princess named Ocean is sent away from the North Pole by her mother because of the tyranny of the magma dragon who controls the volcano. The next twelve years, Princess Ocean lives on a local island and encounters a transforming polar bear whom she names Roly Poly. And she talks to a duo of little fish. While encountering the pirates, she meets an inventor named Momo. Their plan is to subdue and defeat the magma dragon.  \n\n(Source: Wikipedia)",
+  "rank": 16570,
+  "popularity": 22764,
+  "num_list_users": 97,
+  "num_scoring_users": 23,
+  "nsfw": "white",
+  "created_at": "2020-12-21T10:56:29+00:00",
+  "updated_at": "2022-09-24T16:17:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "average_episode_duration": 5343,
+  "rating": "pg",
+  "studios": []
+}

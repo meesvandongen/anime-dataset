@@ -1,0 +1,62 @@
+{
+  "id": 51019,
+  "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1765/135099.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1765/135099l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+    "ja": "鬼滅の刃 刀鍛冶の里編"
+  },
+  "start_date": "2023-04-09",
+  "end_date": "2023-06-18",
+  "synopsis": "For centuries, the Demon Slayer Corps has sacredly kept the location of Swordsmith Village a secret. As the village of the greatest forgers, it provides Demon Slayers with the finest weapons, which allow them to fight night-crawling fiends and ensure the safety of humans. After his sword was chipped and deemed useless, Tanjirou Kamado, along with his precious little sister Nezuko, is escorted to the village to receive a new one.\n\nMeanwhile, the death of an Upper Rank Demon disturbs the idle order in the demon world. As Tanjirou becomes acquainted with Mist Hashira Muichirou Tokitou and Love Hashira Mitsuri Kanroji, ferocious powers creep from the shadows and threaten to shatter the Demon Slayers' greatest line of defense.\n\n[Written by MAL Rewrite]",
+  "mean": 8.25,
+  "rank": 314,
+  "popularity": 232,
+  "num_list_users": 804881,
+  "num_scoring_users": 459551,
+  "nsfw": "white",
+  "created_at": "2022-02-13T15:10:39+00:00",
+  "updated_at": "2024-02-05T09:25:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:15"
+  },
+  "source": "manga",
+  "average_episode_duration": 1680,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

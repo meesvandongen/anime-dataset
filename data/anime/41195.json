@@ -1,0 +1,51 @@
+{
+  "id": 41195,
+  "title": "Kokoro Yohou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1003/105752.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1003/105752l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lotte Ghana: Pink Valentine"
+    ],
+    "en": "Heart Forecast",
+    "ja": "心予報"
+  },
+  "start_date": "2020-01-30",
+  "end_date": "2020-01-30",
+  "synopsis": "Music video for Eve's new single \"Kokoro Yohou\" (Heart Forecast) Created as a  commercial for Lotte Ghana chocolate \"Pink Valentine.\" The commercial features three of Lotte Ghana chocolate's original characters: Akane, Momo, and Yukie.",
+  "mean": 7.62,
+  "popularity": 8082,
+  "num_list_users": 5591,
+  "num_scoring_users": 3354,
+  "nsfw": "white",
+  "created_at": "2020-01-30T16:04:19+00:00",
+  "updated_at": "2022-04-17T09:43:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 223,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1991,
+      "name": "Enishiya"
+    }
+  ]
+}

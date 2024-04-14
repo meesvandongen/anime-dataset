@@ -1,0 +1,67 @@
+{
+  "id": 56690,
+  "title": "Re:Monster",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1523/141680.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1523/141680l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ReMonster"
+    ],
+    "en": "",
+    "ja": "Re:Monster"
+  },
+  "start_date": "2024-04-05",
+  "synopsis": "Tomokui Kanata has been re-incarnated in the weakest goblin, named Goburou, after having undergone an unfortunate death. However Goburou has retained his previous life's memories, an unusual evolution, as well as becoming strong enough to gain status boosts from eating.\n\nIn this alternate world of survival of the fittest, events unfold with competent subordinates and comrades, delightful case of the tail-wagging dog...",
+  "mean": 7.4,
+  "rank": 2287,
+  "popularity": 2951,
+  "num_list_users": 55332,
+  "num_scoring_users": 7868,
+  "nsfw": "white",
+  "created_at": "2023-09-19T11:47:15+00:00",
+  "updated_at": "2024-04-14T02:44:53+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

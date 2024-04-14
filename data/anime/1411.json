@@ -1,0 +1,68 @@
+{
+  "id": 1411,
+  "title": "VS Knight Lamune & 40 Fresh",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1628/94357.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1628/94357l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Knights of Ramune"
+    ],
+    "en": "",
+    "ja": "VS騎士ラムネ＆40FRESH"
+  },
+  "start_date": "1997-05-21",
+  "end_date": "1997-11-21",
+  "synopsis": "To save the galaxy from impending doom, Cacao and Parfait are sent on a mission through time and space to retrieve the Fourth Warrior, Lamunes.\n\nUnfortunately, Cacao and Parfait discover Lamunes at the helm of the marauding Giga Genos invasion fleet. World by world, Lamunes is determined to bring the entire galaxy under his tyrannical heel. With the help of a plicky orphan, it's up to Cacao and Parfait to stop Lamunes from taking over the world. \n",
+  "mean": 6.02,
+  "rank": 9477,
+  "popularity": 9941,
+  "num_list_users": 3008,
+  "num_scoring_users": 1156,
+  "nsfw": "white",
+  "created_at": "2006-08-21T04:45:58+00:00",
+  "updated_at": "2021-04-13T17:04:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1680,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

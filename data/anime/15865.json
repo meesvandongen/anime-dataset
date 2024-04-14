@@ -1,0 +1,49 @@
+{
+  "id": 15865,
+  "title": "Tamagotchi! Yume Kira Dream",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/42957.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/42957l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "たまごっち! ゆめキラドリーム"
+  },
+  "start_date": "2012-09-10",
+  "end_date": "2013-08-29",
+  "synopsis": "Mametchi and his friends return to study abroad at Dream Town, a place that supports the dreams of all who live there. At Dream Town, Mametchi meets the aspiring idol singer Yumemitchi, Kiraritchi and other new characters as they all follow their own dreams. \n\n(Source: ANN) ",
+  "mean": 6.07,
+  "rank": 9236,
+  "popularity": 14436,
+  "num_list_users": 745,
+  "num_scoring_users": 150,
+  "nsfw": "white",
+  "created_at": "2012-10-09T17:14:25+00:00",
+  "updated_at": "2021-07-29T15:01:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 49,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "average_episode_duration": 1434,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 38368,
+  "title": "Youkai Ningen Bem: Part II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1173/94675.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1173/94675l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yokai Ningen Bem Part II, Demon-man Bem Part II"
+    ],
+    "en": "",
+    "ja": "妖怪人間ベム パートII"
+  },
+  "start_date": "1992-10-21",
+  "end_date": "1992-10-21",
+  "synopsis": "For 1982 a 26-episode TV series sequel to Youkai Ningen Bem was planned. Because the original producers disbanded, the animation was done by Topcraft. 2 episodes were created and the project shut down without airing on television. The episodes were released to the public on a LD-Box Set a decade later. 2,000 units were printed and all were sold out.",
+  "mean": 5.81,
+  "rank": 10413,
+  "popularity": 15738,
+  "num_list_users": 529,
+  "num_scoring_users": 134,
+  "nsfw": "white",
+  "created_at": "2018-09-22T07:16:16+00:00",
+  "updated_at": "2018-09-22T07:16:16+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1489,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 363,
+      "name": "Topcraft"
+    }
+  ]
+}

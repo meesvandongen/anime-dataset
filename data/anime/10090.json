@@ -1,0 +1,78 @@
+{
+  "id": 10090,
+  "title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/29259.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/29259l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "GitS Another Dimension",
+      "GitS 3D",
+      "Kokaku Kidotai S.A.C. Solid State Society 3D"
+    ],
+    "en": "Ghost in the Shell: Stand Alone Complex - Solid State Society 3D",
+    "ja": "攻殻機動隊 S.A.C. Solid State Society 3D"
+  },
+  "start_date": "2011-03-26",
+  "end_date": "2011-03-26",
+  "synopsis": "Kenji Kamiyama and Production I.G's Ghost in the Shell: Stand Alone Complex: Solid State Society movie will be converted into stereoscopic 3D. Kamiyama himself is overseeing the conversion, and I.G will also add a newly animated opening sequence.",
+  "mean": 7.73,
+  "rank": 1159,
+  "popularity": 5250,
+  "num_list_users": 16185,
+  "num_scoring_users": 4466,
+  "nsfw": "white",
+  "created_at": "2010-12-25T12:00:15+00:00",
+  "updated_at": "2024-03-06T12:00:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 6480,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

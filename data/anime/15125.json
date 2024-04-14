@@ -1,0 +1,65 @@
+{
+  "id": 15125,
+  "title": "Teekyuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1703/98658.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1703/98658l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tekyuu",
+      "Te-kyu"
+    ],
+    "en": "Teekyu",
+    "ja": "てーきゅう"
+  },
+  "start_date": "2012-10-07",
+  "end_date": "2012-12-23",
+  "synopsis": "Teekyuu is all about the wacky antics of four schoolgirls—Kanae Shinjou gets bored easily and often breaks the laws of physics to get what she wants; Nasuno Takamiya is incredibly rich and knows how to make things go her way; Marimo Bandou would probably get arrested from her actions like eating panties or kidnapping children; and Yuri Oshimoto, their ordinary junior, rounds out the eccentric bunch that forms the sole members of their school's tennis club. \n\nDespite their interest in learning the sport, the older girls prefer messing around, while Yuri, being the only one who actually knows how to play and the most mature in spite of being younger, has to deal with her seniors' out of control behavior. \n\nWhen these four girls come together, insanity ensues in this lightning-paced comedy about a tennis club that doesn't really play tennis. \n\n[Written by MAL Rewrite]",
+  "mean": 6.55,
+  "rank": 6582,
+  "popularity": 2653,
+  "num_list_users": 66968,
+  "num_scoring_users": 28241,
+  "nsfw": "white",
+  "created_at": "2012-08-11T06:19:10+00:00",
+  "updated_at": "2022-04-10T18:45:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:27"
+  },
+  "source": "manga",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 29992,
+  "title": "Silent Chaser Kagami",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1770/119711.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1770/119711l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "SILENT CHASER 狩神"
+  },
+  "start_date": "2000-08-21",
+  "end_date": "2000-08-21",
+  "synopsis": "Based on the adult PC game by Bunny Pro.",
+  "mean": 4.71,
+  "popularity": 14682,
+  "num_list_users": 687,
+  "num_scoring_users": 184,
+  "nsfw": "gray",
+  "created_at": "2015-02-10T13:51:42+00:00",
+  "updated_at": "2021-11-27T09:53:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1800,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2492,
+      "name": "Studio Jin"
+    }
+  ]
+}

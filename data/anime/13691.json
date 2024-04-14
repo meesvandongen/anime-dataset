@@ -1,0 +1,53 @@
+{
+  "id": 13691,
+  "title": "Taisei Kensetsu CMs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/47431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/47431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Doha Kokusai Kuukou",
+      "Taisei Corporation CM: New Doha International Airport",
+      "Bosphorus Kaikyou Tunnel",
+      "Sri Lanka Kousokudouro",
+      "Vietnam Noi Bai Kuukou",
+      "Myanmar-hen",
+      "New Yangon Specialist Hospital"
+    ],
+    "en": "",
+    "ja": "大成建設テレビCM"
+  },
+  "start_date": "2008-12-10",
+  "end_date": "2020-03-20",
+  "synopsis": "30-second animated commercials for the construction company Taisei.",
+  "mean": 5.89,
+  "popularity": 9055,
+  "num_list_users": 4069,
+  "num_scoring_users": 2207,
+  "nsfw": "white",
+  "created_at": "2012-04-03T06:02:22+00:00",
+  "updated_at": "2023-12-26T15:42:03+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
+}

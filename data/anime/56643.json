@@ -1,0 +1,44 @@
+{
+  "id": 56643,
+  "title": "Season of Change",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1213/138460.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1213/138460l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "느린 장마"
+  },
+  "start_date": "2022-11-26",
+  "end_date": "2022-11-26",
+  "synopsis": "Trying new things is never easy.\nOhran Lim is an ex-boxer who never managed to go pro. Now, she spends her days working at the local convenience store, wondering where it all went wrong. But after she meets young couple Woon and Baram, she slowly begins to change her outlook on life. \"I need to find what makes me happy.\"\n\n(Source: Manta)",
+  "rank": 17756,
+  "popularity": 21836,
+  "num_list_users": 123,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2023-09-12T17:52:30+00:00",
+  "updated_at": "2023-09-13T07:24:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": []
+}

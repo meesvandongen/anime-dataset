@@ -1,0 +1,53 @@
+{
+  "id": 3475,
+  "title": "Muramasa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/66111.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/66111l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Muramasa",
+    "ja": "村正"
+  },
+  "start_date": "1987-08-21",
+  "end_date": "1987-08-21",
+  "synopsis": "\"A man with arms which can kill people like puppets is not aware that he himself has already become a puppet.\" In this short hand-drawn silent animation, a wandering samurai learns this lesson firsthand.\n\nAlong his travels, the samurai comes across a straw dummy at the base of a tree, with a sword lodged in its body. Upon drawing it out, the samurai learns that the blade is imbued with magic, and immensely powerful. The power comes at a price, though, and wielding the blade begins to slowly drive the warrior mad. He now has a choice to make: remain himself, or sacrifice his sanity for ultimate power?",
+  "mean": 6.16,
+  "rank": 8752,
+  "popularity": 7937,
+  "num_list_users": 5825,
+  "num_scoring_users": 2746,
+  "nsfw": "white",
+  "created_at": "2007-11-26T11:24:35+00:00",
+  "updated_at": "2022-01-04T21:22:10+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 522,
+  "rating": "pg_13",
+  "studios": []
+}

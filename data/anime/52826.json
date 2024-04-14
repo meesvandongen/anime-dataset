@@ -1,0 +1,56 @@
+{
+  "id": 52826,
+  "title": "Tsurune: Tsunagari no Issha",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1803/132337.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1803/132337l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tsurune 2nd Season"
+    ],
+    "en": "Tsurune - The Linking Shot -",
+    "ja": "ツルネ ―つながりの一射―"
+  },
+  "start_date": "2023-01-05",
+  "end_date": "2023-03-30",
+  "synopsis": "Despite the prefectural tournament's breathtaking conclusion, the Kazemai High School Kyudo Club has no time to celebrate. With the national competition right around the corner, the club is determined to prove that their initial victory was not a mere fluke.\n\nWith his passion for the sport reignited, Minato Narumiya earnestly prepares for the upcoming competition with his teammates, who are equally motivated to win. As the much-anticipated tournament begins, the members of Kazemai's kyudo team fight to stay on target with their ambitious goal. But when old acquaintances reappear as difficult opponents, the boys find that winning the nationals will require more dedication and effort than ever before.\n\n[Written by MAL Rewrite]",
+  "mean": 8.1,
+  "rank": 501,
+  "popularity": 2983,
+  "num_list_users": 54361,
+  "num_scoring_users": 15589,
+  "nsfw": "white",
+  "created_at": "2022-08-19T06:07:23+00:00",
+  "updated_at": "2023-03-12T13:49:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

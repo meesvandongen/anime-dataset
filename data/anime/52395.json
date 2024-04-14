@@ -1,0 +1,50 @@
+{
+  "id": 52395,
+  "title": "Hengao Taisou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1879/125370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1879/125370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Funny Face Excercises, Minna no Uta"
+    ],
+    "en": "",
+    "ja": "変顔体操"
+  },
+  "start_date": "2019-06",
+  "end_date": "2019-06",
+  "synopsis": "",
+  "popularity": 22736,
+  "num_list_users": 98,
+  "num_scoring_users": 42,
+  "nsfw": "white",
+  "created_at": "2022-07-14T16:11:16+00:00",
+  "updated_at": "2022-08-16T19:33:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 151,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2818,
+      "name": "qmotri"
+    }
+  ]
+}

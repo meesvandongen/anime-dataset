@@ -1,0 +1,40 @@
+{
+  "id": 32779,
+  "title": "Anygedybudybombom",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/78614.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/78614l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "anygedybudybombom"
+  },
+  "start_date": "2009-09-29",
+  "end_date": "2009-09-29",
+  "synopsis": "A music video for the Oshare Boys song \"anygedybudybombom.\"",
+  "mean": 4.39,
+  "popularity": 15788,
+  "num_list_users": 523,
+  "num_scoring_users": 308,
+  "nsfw": "white",
+  "created_at": "2016-02-20T05:10:43+00:00",
+  "updated_at": "2016-07-01T21:35:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 188,
+  "rating": "g",
+  "studios": []
+}

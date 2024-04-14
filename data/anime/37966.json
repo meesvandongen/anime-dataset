@@ -1,0 +1,72 @@
+{
+  "id": 37966,
+  "title": "Pokemon Movie 22: Mewtwo no Gyakushuu Evolution",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1207/99489.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1207/99489l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Pocket Monsters: Mewtwo no Gyakushuu Evolution"
+    ],
+    "en": "Pokémon: Mewtwo Strikes Back - Evolution",
+    "ja": "劇場版 ポケットモンスター ミュウツーの逆襲evolution"
+  },
+  "start_date": "2019-07-12",
+  "end_date": "2019-07-12",
+  "synopsis": "When researchers discover and exploit a fossil of the Mythical Pokémon Mew, they unleash a creation that goes against the very laws of nature: Mewtwo, a Legendary Pokémon intended for use as a tool of destruction. But as Mewtwo becomes aware of its own dubious origin, it begins to resent its human creators and seeks revenge—and Satoshi, Pikachu, and their friends find themselves at the center of its rampage! With the future of the Pokémon world at stake, will our heroes be able to overcome Mewtwo’s challenge…and will Mewtwo be able to find a new meaning for its life?\n\n(Source: Official site)",
+  "mean": 6.16,
+  "rank": 8758,
+  "popularity": 4240,
+  "num_list_users": 27181,
+  "num_scoring_users": 15035,
+  "nsfw": "white",
+  "created_at": "2018-07-20T18:45:04+00:00",
+  "updated_at": "2022-03-11T22:09:40+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 5792,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    },
+    {
+      "id": 1231,
+      "name": "OLM Digital"
+    },
+    {
+      "id": 1370,
+      "name": "Sprite Animation Studios"
+    }
+  ]
+}

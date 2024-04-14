@@ -1,0 +1,46 @@
+{
+  "id": 40057,
+  "title": "Akai Hana Shiroi Hana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1246/101881.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1246/101881l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "赤い花 白い花"
+  },
+  "start_date": "1976-12-02",
+  "end_date": "1976-12-02",
+  "synopsis": "Akai Hana Shiroi Hana was a song was originally created in 1970 and has been covered many times such as this minimalist Minna no Uta music video. Other anime notable instances that cover the song include the 12th ED of Sora no Otoshimono and as Mio's folk song in Dororo.",
+  "mean": 5.55,
+  "popularity": 14357,
+  "num_list_users": 764,
+  "num_scoring_users": 306,
+  "nsfw": "white",
+  "created_at": "2019-07-05T05:59:18+00:00",
+  "updated_at": "2021-03-01T13:42:22+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1976,
+    "season": "fall"
+  },
+  "source": "music",
+  "average_episode_duration": 133,
+  "rating": "g",
+  "studios": []
+}

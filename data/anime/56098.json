@@ -1,0 +1,43 @@
+{
+  "id": 56098,
+  "title": "Romantic ga Tomaranai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1599/139913.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1599/139913l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Romantic Can't Stop",
+    "ja": "Romanticが止まらない"
+  },
+  "start_date": "2012-09-07",
+  "end_date": "2012-09-07",
+  "synopsis": "Music video for the song Romantic ga Tomaranai arranged by CCB.",
+  "popularity": 25422,
+  "num_list_users": 61,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2023-07-27T12:34:02+00:00",
+  "updated_at": "2023-11-25T17:49:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 194,
+  "rating": "pg_13",
+  "studios": []
+}

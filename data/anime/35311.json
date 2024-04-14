@@ -1,0 +1,43 @@
+{
+  "id": 35311,
+  "title": "Kamiusagi Rope x TOHO Cinemas",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85034.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85034l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "紙兎ロペ  TOHOシネマズ"
+  },
+  "start_date": "2009-11-05",
+  "synopsis": "Kamiusagi Rope and TOHO Cinemas collaboration episodes that were released online only.",
+  "rank": 15489,
+  "popularity": 17468,
+  "num_list_users": 375,
+  "num_scoring_users": 47,
+  "nsfw": "white",
+  "created_at": "2017-03-29T05:41:01+00:00",
+  "updated_at": "2020-05-24T06:43:50+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 82,
+  "rating": "g",
+  "studios": []
+}

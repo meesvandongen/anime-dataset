@@ -1,0 +1,58 @@
+{
+  "id": 43439,
+  "title": "Shadows House",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1424/113342.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1424/113342l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Shadows House",
+    "ja": "シャドーハウス"
+  },
+  "start_date": "2021-04-11",
+  "end_date": "2021-07-04",
+  "synopsis": "The Shadows, characterized by their pitch-black appearance and tendency to emit soot when agitated, are a family of nobles who reside in a colossal manor deep within the mountains far from other humans. When a Shadow child is nearly of-age, they are assigned a Living Doll who acts not only as their attendant but also as their second half—the faces they could have had if not for their complexion.\n\nEmilico is a cheerful, newly created Doll who serves a rather soft-spoken master named Kate. Despite their difference in personalities, Emilico does what she can to carry out the needs of her master. As she learns more about her role and duty, Emilico begins to meet her fellow Dolls and their respective masters and comes to know more about the purpose of her existence.\n\n\"Do not fret over trivial matters,\" says one of the rules by which all Dolls must abide. But how could the ever-curious Emilico do so in the face of the deep secrets that the Shadows House holds?\n\n[Written by MAL Rewrite]",
+  "mean": 7.8,
+  "rank": 995,
+  "popularity": 979,
+  "num_list_users": 247170,
+  "num_scoring_users": 99756,
+  "nsfw": "white",
+  "created_at": "2020-10-15T16:53:58+00:00",
+  "updated_at": "2023-01-13T01:38:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1432,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

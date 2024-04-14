@@ -1,0 +1,43 @@
+{
+  "id": 18425,
+  "title": "Ikeike! Momon-chan Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/49327.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/49327l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Go, Go! Momon-chan Specials"
+    ],
+    "en": "",
+    "ja": "いけいけ！ももんちゃん 戯"
+  },
+  "start_date": "2012-12-12",
+  "end_date": "2013-03-06",
+  "synopsis": "Specials that streamed earlier on in the season, featuring new characters and cameos by Momon-chan and Tanu.\n\n(Source: Migoto Fansubs)",
+  "mean": 5.31,
+  "rank": 12114,
+  "popularity": 14897,
+  "num_list_users": 649,
+  "num_scoring_users": 328,
+  "nsfw": "white",
+  "created_at": "2013-04-20T08:42:29+00:00",
+  "updated_at": "2016-04-10T03:22:43+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": []
+}

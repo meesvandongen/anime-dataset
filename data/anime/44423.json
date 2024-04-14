@@ -1,0 +1,44 @@
+{
+  "id": 44423,
+  "title": "Shaonian Shiye: Shenmi Dadao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1749/123109.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1749/123109l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "少年师爷之神秘大盗"
+  },
+  "start_date": "2018-04-24",
+  "end_date": "2018-05-14",
+  "synopsis": "",
+  "rank": 17858,
+  "popularity": 22857,
+  "num_list_users": 96,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2020-12-07T17:34:20+00:00",
+  "updated_at": "2022-04-20T17:34:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 875,
+  "rating": "pg",
+  "studios": []
+}

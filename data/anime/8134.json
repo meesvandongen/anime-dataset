@@ -1,0 +1,52 @@
+{
+  "id": 8134,
+  "title": "Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1526/98562.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1526/98562l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chou Gekijou-ban Keroro Gunsou: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de arimasu!!"
+    ],
+    "en": "Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island!!",
+    "ja": "超劇場版ケロロ軍曹 誕生!究極ケロロ奇跡の時空島であります!!"
+  },
+  "start_date": "2010-02-27",
+  "end_date": "2010-02-27",
+  "synopsis": "One day, a stone carving bearing an uncanny likeness to Keroro  arrives at Fuyumi's place. To solve this mystery, the Keroro Squad travels to the isolated and mysterious Easter Island. There, they meet harmless spirits known as Mana, and the odd twins Io and Rana. Lastly, there is Akuaku, a legendary evil spirit recently awoken from its long sleep. \n\n(Source: AniDB) ",
+  "mean": 7.06,
+  "rank": 3979,
+  "popularity": 9297,
+  "num_list_users": 3735,
+  "num_scoring_users": 1527,
+  "nsfw": "white",
+  "created_at": "2010-02-10T14:13:47+00:00",
+  "updated_at": "2022-03-04T01:23:42+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 4450,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 38850,
+  "title": "Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1324/101596.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1324/101596l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "映画スター☆トゥインクルプリキュア 星のうたに想いをこめて"
+  },
+  "start_date": "2019-10-19",
+  "end_date": "2019-10-19",
+  "synopsis": "When a meteor shower causes a mysterious star-shaped alien to land in Lala Hagoromo and Hikaru Hoshina's home, the girls find themselves having to take care of the mischievous creature whom they name \"Yuma.\" Although their relationship gets off to a rocky start, Lala and Yuma eventually connect through their similar passions for music and exploration. \n\nHowever, when strange alien hunters targeting Yuma arrive on Earth, the girls learn that there is more to Yuma than what meets the eye. In protecting Yuma, the Star☆Twinkle Precure find themselves entangled in an astronomical battle where the fate of the galaxy is at stake! Will Yuma feel the Precure's emotions through their melody, and can they make the necessary sacrifices to defend everything they love?\n\n[Written by MAL Rewrite]",
+  "mean": 7.89,
+  "rank": 804,
+  "popularity": 8946,
+  "num_list_users": 4236,
+  "num_scoring_users": 1692,
+  "nsfw": "white",
+  "created_at": "2018-12-18T06:31:48+00:00",
+  "updated_at": "2023-09-18T04:56:59+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4320,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

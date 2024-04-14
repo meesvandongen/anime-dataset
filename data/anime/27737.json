@@ -1,0 +1,53 @@
+{
+  "id": 27737,
+  "title": "Battle Spirits: Burning Soul",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1114/131733.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1114/131733l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Battle Spirits 2015",
+      "Battle Spirits Season 8"
+    ],
+    "en": "",
+    "ja": "バトルスピリッツ烈火魂〈バーニングソウル〉"
+  },
+  "start_date": "2015-04-01",
+  "end_date": "2016-03-30",
+  "synopsis": "In the near future, a battle card game called \"Battle Spirits\" has gained enormous popularity. Players of the game—known as \"Battlers\"—start duelings everywhere using their color-coded cards with different attributes, creating a \"Sengoku (Warring States) period\" for the game.\n\n(Source: ANN)",
+  "mean": 6.68,
+  "rank": 5840,
+  "popularity": 9024,
+  "num_list_users": 4102,
+  "num_scoring_users": 1405,
+  "nsfw": "white",
+  "created_at": "2014-09-27T06:10:21+00:00",
+  "updated_at": "2021-06-24T16:11:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:30"
+  },
+  "source": "card_game",
+  "average_episode_duration": 1350,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

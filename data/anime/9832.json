@@ -1,0 +1,54 @@
+{
+  "id": 9832,
+  "title": "Katte ni Shirokuma",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/27218.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/27218l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Whatever, White Bear",
+    "ja": "かってにシロクマ"
+  },
+  "start_date": "1987-12-21",
+  "end_date": "1987-12-21",
+  "synopsis": "Shiro is a dim-witted albino bear who lives with his mother and siblings in a remote forest, fishing and hunting for food on a daily basis. One day, a chance encounter with a tortoise leads the family to take an unexpected adventure far from their home. As they encounter various mysterious artifacts on their way back to the forest, they unexpectedly stumble upon a peculiar and unique sight: an abandoned city.\n\n[Written by MAL Rewrite]",
+  "mean": 5.36,
+  "rank": 11992,
+  "popularity": 14177,
+  "num_list_users": 806,
+  "num_scoring_users": 331,
+  "nsfw": "white",
+  "created_at": "2010-11-13T10:10:18+00:00",
+  "updated_at": "2023-06-25T13:06:14+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1920,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

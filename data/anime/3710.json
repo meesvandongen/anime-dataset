@@ -1,0 +1,54 @@
+{
+  "id": 3710,
+  "title": "Hakaba Kitarou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1692/113258.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1692/113258l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Graveyard Kitaro",
+    "ja": "墓場鬼太郎"
+  },
+  "start_date": "2008-01-11",
+  "end_date": "2008-03-21",
+  "synopsis": " Kitarou is a youkai boy born in a cemetery, and aside from his mostly-decayed father, the last living member of the Ghost tribe. He is missing his left eye, but his hair usually covers the empty socket. He fights for peace between humans and youkai, which generally involves protecting the former from the wiles of the latter.\n\nThis version of the Kitarou story is based on the original Hakaba Kitarou manga, the manga which inspired the popular Gegege no Kitarou series in the late 60's.\n\n(Source: Wikipedia)",
+  "mean": 6.9,
+  "rank": 4718,
+  "popularity": 5870,
+  "num_list_users": 12187,
+  "num_scoring_users": 4013,
+  "nsfw": "white",
+  "created_at": "2008-01-11T09:08:05+00:00",
+  "updated_at": "2022-07-07T11:17:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:45"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

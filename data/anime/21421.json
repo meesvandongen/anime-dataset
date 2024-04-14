@@ -1,0 +1,44 @@
+{
+  "id": 21421,
+  "title": "Mahou Shoujo Taisen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/62221.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/62221l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magica Wars",
+    "ja": "魔法少女大戦"
+  },
+  "start_date": "2014-04-08",
+  "end_date": "2014-09-30",
+  "synopsis": "\"Mahou Shoujo Taisen\" is a project created from a variety show for the Otaku \"2.5 Chigen TV\" (2.5 Dimension TV). The characters are the mahou shoujo that represent each local town in Japan. The characters that won from the second illustration competitions that were held on pixiv will appear in the anime.\n\n(Source: MAL News)",
+  "mean": 5.73,
+  "rank": 10737,
+  "popularity": 5192,
+  "num_list_users": 16784,
+  "num_scoring_users": 5875,
+  "nsfw": "white",
+  "created_at": "2013-11-29T17:08:22+00:00",
+  "updated_at": "2021-09-29T17:30:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "21:55"
+  },
+  "source": "other",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

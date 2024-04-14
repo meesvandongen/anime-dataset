@@ -1,0 +1,46 @@
+{
+  "id": 20557,
+  "title": "11eyes Picture Drama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/54569.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/54569l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "11eyes 映像特典"
+  },
+  "start_date": "2010-06-25",
+  "end_date": "2010-06-25",
+  "synopsis": "Picture drama specials included on the seventh BD volume of the 11eyes series.\n\nThe stories focused on the Black Knights with jokes.",
+  "mean": 5.38,
+  "rank": 11939,
+  "popularity": 8254,
+  "num_list_users": 5315,
+  "num_scoring_users": 1765,
+  "nsfw": "white",
+  "created_at": "2013-09-21T12:48:39+00:00",
+  "updated_at": "2021-11-28T02:59:25+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 276,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

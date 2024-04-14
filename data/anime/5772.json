@@ -1,0 +1,62 @@
+{
+  "id": 5772,
+  "title": "Akaneiro ni Somaru Saka: Hardcore",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/12090.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/12090l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Akane-iro ni Somaru Saka OVA",
+      "Akaneiro ni Somaru Saka OVA",
+      "Akasaka OVA"
+    ],
+    "en": "Akane Iro ni Somaru Saka Hardcore OVA",
+    "ja": "あかね色に染まる坂 Hardcore"
+  },
+  "start_date": "2009-06-26",
+  "end_date": "2009-06-26",
+  "synopsis": "Everybody goes on vacation to Ayanokouji's private island for fun in the sun. Hilarity ensues.",
+  "mean": 6.38,
+  "rank": 7552,
+  "popularity": 3508,
+  "num_list_users": 40370,
+  "num_scoring_users": 21760,
+  "nsfw": "gray",
+  "created_at": "2008-12-27T17:31:25+00:00",
+  "updated_at": "2021-12-28T20:34:15+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1564,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

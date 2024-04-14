@@ -1,0 +1,52 @@
+{
+  "id": 42966,
+  "title": "Zhan Shuang Panini",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1045/109449l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Punishing: Panini"
+    ],
+    "en": "Panini: Gray Raven",
+    "ja": "战双帕尼尼"
+  },
+  "start_date": "2020-10-27",
+  "end_date": "2021-01-12",
+  "synopsis": "Based on the video game \"Punishing: Gray Raven.\"",
+  "mean": 6.62,
+  "rank": 6182,
+  "popularity": 15150,
+  "num_list_users": 609,
+  "num_scoring_users": 185,
+  "nsfw": "white",
+  "created_at": "2020-09-26T02:45:50+00:00",
+  "updated_at": "2021-12-10T19:38:28+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 390,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1980,
+      "name": "Big Firebird Culture"
+    }
+  ]
+}

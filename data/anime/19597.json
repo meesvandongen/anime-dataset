@@ -1,0 +1,50 @@
+{
+  "id": 19597,
+  "title": "Milk House Dreaming: Ai no Shiki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1594/112338.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1594/112338l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ミルクハウス・ドリーミング 愛の四季"
+  },
+  "start_date": "1987-11-28",
+  "end_date": "1987-11-28",
+  "synopsis": "An image video, setting watercolors from Yumiko Kawahara's 1983 manga to a series of 11 pop songs.\n\n(Source: ANN)",
+  "mean": 5.25,
+  "rank": 12261,
+  "popularity": 13766,
+  "num_list_users": 900,
+  "num_scoring_users": 351,
+  "nsfw": "white",
+  "created_at": "2013-07-21T07:00:08+00:00",
+  "updated_at": "2019-12-31T17:05:51+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 2637,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 54,
+      "name": "Mook Animation"
+    }
+  ]
+}

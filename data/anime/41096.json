@@ -1,0 +1,49 @@
+{
+  "id": 41096,
+  "title": "Inunaki-mura x Taka no Tsumedan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1632/105513.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1632/105513l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Howling Village x Eagle Talon",
+    "ja": "犬鳴村 x 鷹の爪団"
+  },
+  "start_date": "2020-01-17",
+  "end_date": "2020-01-17",
+  "synopsis": "A collaboration between the live-action horror film Inunaki-mura slated to be released in theaters February 7, 2020 and the Eagle Talon franchise. The film is based on the urban legend of the real-life abandoned Inunaki Village and the old tunnel that cut through the area.\n",
+  "mean": 5.07,
+  "rank": 12569,
+  "popularity": 16485,
+  "num_list_users": 454,
+  "num_scoring_users": 142,
+  "nsfw": "white",
+  "created_at": "2020-01-20T04:34:05+00:00",
+  "updated_at": "2023-07-14T14:48:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 148,
+  "rating": "pg_13",
+  "studios": []
+}

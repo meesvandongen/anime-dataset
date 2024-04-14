@@ -1,0 +1,60 @@
+{
+  "id": 2921,
+  "title": "Ashita no Joe 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/45028.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rocky Joe 2"
+    ],
+    "en": "Tomorrow's Joe 2",
+    "ja": "あしたのジョー２"
+  },
+  "start_date": "1980-10-13",
+  "end_date": "1981-08-31",
+  "synopsis": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
+  "mean": 8.73,
+  "rank": 50,
+  "popularity": 3052,
+  "num_list_users": 51977,
+  "num_scoring_users": 20325,
+  "nsfw": "white",
+  "created_at": "2007-08-05T11:33:15+00:00",
+  "updated_at": "2023-01-06T15:14:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 47,
+  "start_season": {
+    "year": 1980,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1477,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 65,
+      "name": "Tokyo Movie Shinsha"
+    }
+  ]
+}

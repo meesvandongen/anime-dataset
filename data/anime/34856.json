@@ -1,0 +1,44 @@
+{
+  "id": 34856,
+  "title": "Cluster A",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/84136.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/84136l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "in the blue shirt",
+      "MARU-151",
+      "Cyanotype"
+    ],
+    "en": "Cluster A",
+    "ja": "Cluster A"
+  },
+  "start_date": "2016-05-13",
+  "end_date": "2016-05-13",
+  "synopsis": "An official music video for the song Cluster A from the [MARU-151] in the blue shirt - Cyanotype release by the band \"in the blue shirt\".",
+  "mean": 5.45,
+  "popularity": 17075,
+  "num_list_users": 404,
+  "num_scoring_users": 221,
+  "nsfw": "white",
+  "created_at": "2017-02-04T23:59:00+00:00",
+  "updated_at": "2017-04-10T16:27:19+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 189,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 3927,
+  "title": "Kidou Senshi Gundam 00 Second Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/12782.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/12782l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kidou Senshi Gundam 00 2nd Season",
+      "Mobile Suit Gundam 00 2nd Season",
+      "Gundam 00 S2"
+    ],
+    "en": "Mobile Suit Gundam 00: Second Season",
+    "ja": "機動戦士ガンダム00 セカンドシーズン"
+  },
+  "start_date": "2008-10-05",
+  "end_date": "2009-03-29",
+  "synopsis": "In the year 2311 AD, a world that once saw itself full of inter-continental conflict now stands unified, led by the Earth Sphere Federation (ESF). The ESF established a preventative military task force known as the A-Laws, tasking them with shutting down violent terrorist organizations. As they gain more and more legal authority, the A-Laws begin to twist the law to fit their own agenda, ruling the citizens of Earth with a heavy hand.\n\nIn response to the fascistic behavior of the A-Laws, the anti-terrorist group Celestial Being reappears. Led by state-of-the-art mobile suits known as Gundam, the pilots of Celestial Being wage a new war with the A-Laws, aiming to stop their tyrannical abuse of power.\n\nSetsuna F. Seiei, pilot of the Gundam Exia, helps to lead the charge along with his fellow Gundam Meisters Lockon Stratos, Allelujah Haptism, and Tieria Erde. But in the process, Setsuna stumbles upon a conspiratorial plot spearheaded by a new faction, the Innovators, and must contend with his own old wounds and ghosts of the past in order to save a world that despises him.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.08,
+  "rank": 514,
+  "popularity": 1522,
+  "num_list_users": 151471,
+  "num_scoring_users": 94323,
+  "nsfw": "white",
+  "created_at": "2008-02-15T17:41:01+00:00",
+  "updated_at": "2023-10-01T16:30:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1454,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

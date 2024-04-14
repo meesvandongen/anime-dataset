@@ -1,0 +1,49 @@
+{
+  "id": 35814,
+  "title": "Granblue Fantasy The Animation: Kabocha no Lantern",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1215/92069.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1215/92069l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Granblue Fantasy The Animation Episode 14",
+      "Granblue Fantasy The Animation: Jack O'Lantern"
+    ],
+    "en": "",
+    "ja": "GRANBLUE FANTASY The Animation Ex2 カボチャのランタン"
+  },
+  "start_date": "2017-11-29",
+  "end_date": "2017-11-29",
+  "synopsis": "Unaired episode bundled with the seventh Blu-ray and DVD volume of Granblue Fantasy The Animation.",
+  "mean": 6.61,
+  "rank": 6273,
+  "popularity": 5076,
+  "num_list_users": 17888,
+  "num_scoring_users": 6639,
+  "nsfw": "white",
+  "created_at": "2017-06-27T01:39:55+00:00",
+  "updated_at": "2022-03-26T07:18:13+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1416,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

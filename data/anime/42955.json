@@ -1,0 +1,54 @@
+{
+  "id": 42955,
+  "title": "Hallelujah: Unmei no Sentaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1772/109454.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1772/109454l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Monster Strike the Animation: Halleujah",
+      "Monsuto Anime: Hallelujah",
+      "Hareruya"
+    ],
+    "en": "",
+    "ja": "ハレルヤ - 運命の選択 -"
+  },
+  "start_date": "2020-09-28",
+  "end_date": "2020-09-28",
+  "synopsis": "The story is set in the ungoverned Tokyo shortly after a mysterious power outage incident. Those who survived from the incident had to protect themselves from the mob.\n\nIt was \"Links,\" the young people with superpower, that saved the people in Tokyo. Among these young people, a performance group known as \"Crown\" gained tremendous support.\n\nThe protagonist Hallelujah and and his best friend Akatsuki, who grew up with him together in an orphanage, are also awakened with the abilities of Links. They join Crown and play an active part to save people every day.\n\n(Source: Qoo News, edited)",
+  "mean": 5.98,
+  "rank": 9685,
+  "popularity": 12519,
+  "num_list_users": 1287,
+  "num_scoring_users": 132,
+  "nsfw": "white",
+  "created_at": "2020-09-24T15:10:30+00:00",
+  "updated_at": "2021-08-06T02:24:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 3252,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1687,
+      "name": "Yokohama Animation Lab"
+    }
+  ]
+}

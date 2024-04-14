@@ -1,0 +1,56 @@
+{
+  "id": 2669,
+  "title": "Doraemon Movie 06: Nobita no Little Star Wars",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/72411.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/72411l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Doraemon: Nobita no Uchuu Shou Sensou",
+      "Doraemon: Nobita's Little Star Wars"
+    ],
+    "en": "Doraemon the Movie: Nobita's Little Space War",
+    "ja": "映画 ドラえもん のび太の宇宙小戦争[リトル・スター・ウォーズ]"
+  },
+  "start_date": "1985-03-16",
+  "end_date": "1985-03-16",
+  "synopsis": "Papi, the tiny president of a faraway planet, escapes to Earth to avoid being captured by the military forces that took over. Despite being welcomed by Doraemon, Nobita and their friends, the little alien notices that his enemies have also reached this world and doesn't want to get his human friends involved in this war. Doraemon, Nobita, Gian, Suneo, and Shizuka start a big adventure as they try to hide and protect Papi.\n\n(Source: ANN)",
+  "mean": 7.09,
+  "rank": 3879,
+  "popularity": 7433,
+  "num_list_users": 6856,
+  "num_scoring_users": 4219,
+  "nsfw": "white",
+  "created_at": "2007-06-17T19:51:40+00:00",
+  "updated_at": "2024-03-06T12:53:11+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "winter"
+  },
+  "average_episode_duration": 5880,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

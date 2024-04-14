@@ -1,0 +1,73 @@
+{
+  "id": 10689,
+  "title": "Appleseed XIII Remix Movie 1: Yuigon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/64539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/64539l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijou Remix Han Appleseed XIII 1",
+      "Appleseed XIII Gekijou Remix-ban 1: Yuigon"
+    ],
+    "en": "",
+    "ja": "劇場リミックス版 APPLESEED XIII ～遺言～"
+  },
+  "start_date": "2011-06-13",
+  "end_date": "2011-06-13",
+  "synopsis": "This is a remix, theatrical release of the first half of the Appleseed XIII series.",
+  "mean": 6.24,
+  "rank": 8346,
+  "popularity": 8751,
+  "num_list_users": 4543,
+  "num_scoring_users": 1140,
+  "nsfw": "white",
+  "created_at": "2011-05-11T06:56:04+00:00",
+  "updated_at": "2023-10-09T13:53:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5080,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 444,
+      "name": "Jinnis Animation Studios"
+    }
+  ]
+}

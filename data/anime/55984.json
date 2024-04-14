@@ -1,0 +1,39 @@
+{
+  "id": 55984,
+  "title": "Circle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1287/137136.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1287/137136l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Circle"
+  },
+  "start_date": "2023-04-05",
+  "end_date": "2023-04-05",
+  "synopsis": "Music video for the song Circle by Kana Hanazawa.",
+  "popularity": 21583,
+  "num_list_users": 134,
+  "num_scoring_users": 69,
+  "nsfw": "white",
+  "created_at": "2023-07-14T18:47:42+00:00",
+  "updated_at": "2023-07-15T08:14:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 177,
+  "rating": "g",
+  "studios": []
+}

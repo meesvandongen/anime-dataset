@@ -1,0 +1,46 @@
+{
+  "id": 8957,
+  "title": "Susume! Gachimuchi Sankyoudai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/24815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/24815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "進め！ガチムチ３兄弟"
+  },
+  "start_date": "2010-06-02",
+  "end_date": "2010-06-02",
+  "synopsis": "A short comedy show about 3 brothers who work out at a gym.",
+  "mean": 4.78,
+  "rank": 12892,
+  "popularity": 15432,
+  "num_list_users": 568,
+  "num_scoring_users": 238,
+  "nsfw": "white",
+  "created_at": "2010-06-08T18:10:23+00:00",
+  "updated_at": "2021-07-09T06:51:41+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 192,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

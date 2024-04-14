@@ -1,0 +1,64 @@
+{
+  "id": 37294,
+  "title": "Wangu Xian Qiong II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1102/93891.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1102/93891l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Everlasting Immortal Firmament 2nd Season",
+      "Ancient Celestial Firmament 2nd Season",
+      "Ancient Divine Pinnacle 2nd Season",
+      "Wangu Xian Qiong 2nd Season",
+      "万古仙穹 第二季"
+    ],
+    "en": "",
+    "ja": "万古仙穹 Ⅱ"
+  },
+  "start_date": "2018-03-15",
+  "end_date": "2018-05-31",
+  "synopsis": "Second season of Wangu Xian Qiong.",
+  "mean": 6.66,
+  "rank": 5986,
+  "popularity": 10265,
+  "num_list_users": 2710,
+  "num_scoring_users": 751,
+  "nsfw": "white",
+  "created_at": "2018-02-10T04:57:17+00:00",
+  "updated_at": "2022-04-11T22:04:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1325,
+      "name": "Haoliners Animation League"
+    },
+    {
+      "id": 2048,
+      "name": "ASK Animation Studio"
+    }
+  ]
+}

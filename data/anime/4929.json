@@ -1,0 +1,62 @@
+{
+  "id": 4929,
+  "title": "Next Senki Ehrgeiz",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1627/110624.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1627/110624l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Next War Chronicle Ehrgeiz",
+    "ja": "ネクスト戦記エーアガイツ"
+  },
+  "start_date": "1997-10-02",
+  "end_date": "1997-12-25",
+  "synopsis": "Earth started space colonization by creating the Next Colonies. Next later rebelled, and created the Next Government. The rebellion became a war, and the multi-purpose Metal Vehicles, MVs for short, were changed for battle purposes. Meanwhile, Terra, an Earth Rebellion force, started creating more trouble for Earth. Now, a mysterious MV-like being, S.A.C (\"S\" for short), is loose, and Next wants it so that they can win the war. Terra's psychic leader, Hal, has been sensing \"S\", and wants to know more about the power it has. The future of these three groups will be up to a bunch of outlaws who live on the abandoned Next 7 colony, though no one knows that yet...",
+  "mean": 5.35,
+  "rank": 12008,
+  "popularity": 11403,
+  "num_list_users": 1880,
+  "num_scoring_users": 367,
+  "nsfw": "white",
+  "created_at": "2008-07-16T21:01:18+00:00",
+  "updated_at": "2021-05-07T16:50:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:15"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

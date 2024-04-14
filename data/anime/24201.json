@@ -1,0 +1,40 @@
+{
+  "id": 24201,
+  "title": "Rakugaki Picasso",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/62599.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/62599l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ラクガキピカソ"
+  },
+  "start_date": "2014-04-16",
+  "end_date": "2014-04-16",
+  "synopsis": "Music video for the song \"Rakugaki Picasso\" by 40mP. Collaboration with Pentel Inc.",
+  "mean": 5.78,
+  "popularity": 13024,
+  "num_list_users": 1107,
+  "num_scoring_users": 630,
+  "nsfw": "white",
+  "created_at": "2014-05-12T14:39:16+00:00",
+  "updated_at": "2017-05-23T05:32:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 257,
+  "rating": "g",
+  "studios": []
+}

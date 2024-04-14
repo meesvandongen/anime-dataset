@@ -1,0 +1,74 @@
+{
+  "id": 993,
+  "title": "Dual! Parallel Runrun Monogatari Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/26319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/26319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dual! Parallel Trouble Adventures Special",
+      "Dual Parallel! Trouble Adventures - Final Frontier",
+      "Dual! Parallel Lunlun Monogatari Special"
+    ],
+    "en": "",
+    "ja": "デュアル！ぱられルンルン物語「ファイナル・フロンティア」"
+  },
+  "start_date": "1999-12-22",
+  "end_date": "1999-12-22",
+  "synopsis": "Peace has been brought to both earths, and everyone is living out their lives as normal citizens. But how normal could life be for war hero Kazuki living with five beautiful women under the same roof... Apparently, he doesn't need to wait long to find out. An ancient artifact that is the key to their adventures in the parallel universes forces Kazuki to hop in the saddle yet again, but this time it's outer space or bust. \n\n(Source: ANN)",
+  "mean": 6.84,
+  "rank": 5007,
+  "popularity": 8059,
+  "num_list_users": 5641,
+  "num_scoring_users": 2948,
+  "nsfw": "white",
+  "created_at": "2006-05-26T22:05:06+00:00",
+  "updated_at": "2022-03-29T16:19:05+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1740,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

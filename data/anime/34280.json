@@ -1,0 +1,70 @@
+{
+  "id": 34280,
+  "title": "Gamers!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/86828.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/86828l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Gamers!",
+    "ja": "ゲーマーズ！"
+  },
+  "start_date": "2017-07-13",
+  "end_date": "2017-09-28",
+  "synopsis": "Keita Amano is a typical high school gamer living out an average student's life. One day, however, he has an unexpected meeting with the cutest girl in school that makes him want to disappear without a trace! \n\nThis girl, Karen Tendou, is an exemplary student who is proclaimed to be the school's idol. She discovers that Amano is a gamer, and this newfound knowledge incites a passionate desire within her to recruit him into the game club. Upon visiting the club, Amano is forcefully made aware of a side to gaming wildly different than the one he loves so dearly. \n\nTendou's interest in Amano begins shaking up what was once an uneventful life, filling it with spontaneity, awkwardness, and a little bit of mayhem. As a result, every day becomes a comical battle for Amano's sanity as he tries to adapt to these wild, unexpected changes.\n\n[Written by MAL Rewrite]",
+  "mean": 6.75,
+  "rank": 5465,
+  "popularity": 320,
+  "num_list_users": 652030,
+  "num_scoring_users": 373304,
+  "nsfw": "white",
+  "created_at": "2016-10-22T12:19:42+00:00",
+  "updated_at": "2023-10-11T22:58:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1295,
+      "name": "PINE JAM"
+    }
+  ]
+}

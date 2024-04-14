@@ -1,0 +1,56 @@
+{
+  "id": 10549,
+  "title": "Precure All Stars GoGo Dream Live!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/30615.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/30615l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pretty Cure All Stars GoGo Dream Live!"
+    ],
+    "en": "",
+    "ja": "ちょ～短編 プリキュアオールスターズ GoGoドリームライブ!"
+  },
+  "start_date": "2008-11-08",
+  "end_date": "2008-11-08",
+  "synopsis": "A special included in the Eiga Yes! Precure 5 GoGo! Okashi no Kuni no Happy Birthday movie.",
+  "mean": 6.89,
+  "rank": 4784,
+  "popularity": 8863,
+  "num_list_users": 4362,
+  "num_scoring_users": 1687,
+  "nsfw": "white",
+  "created_at": "2011-04-05T14:02:41+00:00",
+  "updated_at": "2023-09-18T05:00:55+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 338,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 32202,
+  "title": "Kimi ni Maji Kyun!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/80048.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/80048l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kimi ni Magic★Kyun!",
+      "Magic Kyun! Renaissance"
+    ],
+    "en": "",
+    "ja": "キミにマジきゅんっ！"
+  },
+  "start_date": "2016-05-18",
+  "end_date": "2016-05-18",
+  "synopsis": "Full chorus animation and situational anime bundled as a DVD with the \"Kimi ni Maji Kyun!\" CD release.",
+  "mean": 6.64,
+  "rank": 6055,
+  "popularity": 8241,
+  "num_list_users": 5335,
+  "num_scoring_users": 1129,
+  "nsfw": "white",
+  "created_at": "2015-12-03T15:56:51+00:00",
+  "updated_at": "2023-01-23T19:54:11+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 393,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

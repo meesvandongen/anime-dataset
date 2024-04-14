@@ -1,0 +1,38 @@
+{
+  "id": 10756,
+  "title": "Shita-kiri Suzume",
+  "alternative_titles": {
+    "synonyms": [
+      "Tongue-Cut Sparrow"
+    ],
+    "en": "The Sparrow with the Slit Tongue",
+    "ja": "舌切雀"
+  },
+  "start_date": "1917-10-18",
+  "end_date": "1917-10-18",
+  "synopsis": "This is a short film made in the fall of 1917. It is about a girl asking for rice.",
+  "rank": 13356,
+  "popularity": 15070,
+  "num_list_users": 618,
+  "num_scoring_users": 112,
+  "nsfw": "white",
+  "created_at": "2011-05-25T11:59:57+00:00",
+  "updated_at": "2022-03-09T09:21:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1917,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

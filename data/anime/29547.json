@@ -1,0 +1,43 @@
+{
+  "id": 29547,
+  "title": "Sanrio Christmas Fantasia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/70989.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/70989l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "サンリオ・クリスマス・ファンタジア"
+  },
+  "start_date": "1992-11-01",
+  "end_date": "1992-11-01",
+  "synopsis": "Set to Fantasia-like music, the anime pans over a town during their Christmas celebrations while Santa flies across the sky. ",
+  "rank": 17723,
+  "popularity": 17295,
+  "num_list_users": 389,
+  "num_scoring_users": 77,
+  "nsfw": "white",
+  "created_at": "2015-01-13T07:58:22+00:00",
+  "updated_at": "2021-12-06T14:25:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

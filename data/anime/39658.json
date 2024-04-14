@@ -1,0 +1,47 @@
+{
+  "id": 39658,
+  "title": "Supermarket Flowers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1379/100391.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1379/100391l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Supermarket Flowers Yoriko Hoshi Ver."
+    ],
+    "en": "Supermarket Flowers",
+    "ja": "Supermarket Flowers"
+  },
+  "start_date": "2019-04-03",
+  "end_date": "2019-04-03",
+  "synopsis": "An animated music video of Ed Sheeran's song Supermarket Flowers from his third studio album, \"÷(divide).\" The video was directed by Yoriko Hoshi, who is a winner of the prestigious Tezuka Osamu Cultural Prize. The video consists of a heartwarming story, featuring Ed Sheeran and his beloved cats, Calippo and Dorito.",
+  "mean": 5.67,
+  "popularity": 18210,
+  "num_list_users": 320,
+  "num_scoring_users": 177,
+  "nsfw": "white",
+  "created_at": "2019-04-03T03:55:17+00:00",
+  "updated_at": "2023-02-05T02:33:37+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 229,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1972,
+      "name": "HOTZIPANG"
+    }
+  ]
+}

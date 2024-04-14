@@ -1,0 +1,51 @@
+{
+  "id": 6072,
+  "title": "11-piki no Neko to Ahoudori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/13275.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/13275l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Juuippiki no Neko to Ahoudori"
+    ],
+    "en": "Eleven Cats and an Albatross",
+    "ja": "１１ぴきのねことあほうどり"
+  },
+  "start_date": "1986-08-27",
+  "end_date": "1986-08-27",
+  "synopsis": "Eleven naughty cats on the run from the neighborhood police chief hear that a giant fish is nearby for the taking. They go on a hazardous quest find it, learning that they must work as a team to reach their goal.\n\n(Source: The Anime Encyclopedia)",
+  "mean": 5.95,
+  "rank": 9814,
+  "popularity": 15090,
+  "num_list_users": 616,
+  "num_scoring_users": 138,
+  "nsfw": "white",
+  "created_at": "2009-02-16T19:05:37+00:00",
+  "updated_at": "2024-03-09T13:38:56+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": []
+}

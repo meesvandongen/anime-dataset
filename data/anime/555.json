@@ -1,0 +1,60 @@
+{
+  "id": 555,
+  "title": "Koutetsu Tenshi Kurumi 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/15907.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/15907l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koutetsu Tenshi Kurumi 2 shiki"
+    ],
+    "en": "Steel Angel Kurumi 2",
+    "ja": "鋼鉄天使くるみ2式"
+  },
+  "start_date": "2001-04-12",
+  "end_date": "2001-06-28",
+  "synopsis": "Taking place 75 years after the first series, Steel Angel Kurumi 2 brings the Steel Angels in a new mis-adventure. High school student and aspiring cellist Nako Kagura accidentally discovers and kisses Kurumi Mk. II at her home, thus making her Kurumi's master. But things go awry as Nako's best friend Uruka gets jealous and tries anything - including her father's army of top-secret mecha - to destroy Kurumi and win back Nako. Things get more out of control when Saki Mk. II is awakened by Uruka, and Karinka Mk. II joins in to steal Nako away from Kurumi. \n\n(Source: ANN)",
+  "mean": 6.28,
+  "rank": 8126,
+  "popularity": 5867,
+  "num_list_users": 12198,
+  "num_scoring_users": 5454,
+  "nsfw": "white",
+  "created_at": "2006-01-07T08:55:34+00:00",
+  "updated_at": "2023-10-22T05:37:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 8079,
+  "title": "Tamala 2010: A Punk Cat in Space OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/19770.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/19770l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tamala 2010 OVA",
+      "Tamala 2010 - A Punk Cat In Space (2007)",
+      "Tamala on Parade",
+      "Tamala's Wild party"
+    ],
+    "en": "",
+    "ja": "TAMALA2010 a punk cat in space"
+  },
+  "start_date": "2007-08-24",
+  "end_date": "2007-08-24",
+  "synopsis": "After a long 5-year wait, the team that created the widely acclaimed \"TAMALA2010 A Punk Cat in Space\" (Winner of the Jury and Public's Prize for Best Animated Feature Film in Canada's FanTasia 2003), brings you a fusion of extremely cute graphics and nice music. Also included are 3 shorts directed by Studio 4C's Hidekazu Ohara. It's a new animation world you'd want to see and listen to again and again.\n\n(Source: AniDB)",
+  "mean": 5.39,
+  "rank": 11894,
+  "popularity": 11717,
+  "num_list_users": 1685,
+  "num_scoring_users": 517,
+  "nsfw": "white",
+  "created_at": "2010-02-03T12:06:43+00:00",
+  "updated_at": "2021-12-07T22:29:46+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1050,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

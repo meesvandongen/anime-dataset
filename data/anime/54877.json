@@ -1,0 +1,40 @@
+{
+  "id": 54877,
+  "title": "Gag Short Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1086/134838.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1086/134838l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ギャグショートアニメーション"
+  },
+  "start_date": "2011-02-28",
+  "end_date": "2011-03-01",
+  "synopsis": "A series of short comedic animations.",
+  "rank": 19615,
+  "popularity": 25538,
+  "num_list_users": 60,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2023-03-27T04:32:34+00:00",
+  "updated_at": "2023-04-14T15:14:42+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 37,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}

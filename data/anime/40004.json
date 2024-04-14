@@ -1,0 +1,74 @@
+{
+  "id": 40004,
+  "title": "Bokutachi wa Benkyou ga Dekinai!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1974/102960.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1974/102960l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "BokuBen",
+      "We Can't Study",
+      "Bokutachi wa Benkyou ga Dekinai 2nd Season"
+    ],
+    "en": "We Never Learn!: BOKUBEN Season 2",
+    "ja": "ぼくたちは勉強ができない！"
+  },
+  "start_date": "2019-10-06",
+  "end_date": "2019-12-29",
+  "synopsis": "Under Nariyuki Yuiga's devoted tutelage, his classmates Rizu Ogata, Fumino Furuhashi, and Uruka Takemoto are finally pulling average test scores on their worst subjects. But time is ticking, and there is still a long way to go before the three geniuses of Ichinose Academy are ready for their upcoming university exams. Meanwhile, the girls still struggle to balance the pursuit of their dreams with their growing affections for their unsuspecting tutor.\n\nJoining them are Mafuyu Kirisu, a teacher with strong views about education and talent because of her past as a rising figure skater, and Asumi Kominami, a graduate from their school aiming to attend a national medical university. With these two additions, the group of six is livelier than ever before. Completely caught up in hilarious antics with his new friends, Yuiga finds that his last year of high school now includes a lot more than just going to class and studying.\n\n[Written by MAL Rewrite]",
+  "mean": 7.34,
+  "rank": 2525,
+  "popularity": 806,
+  "num_list_users": 298955,
+  "num_scoring_users": 169673,
+  "nsfw": "white",
+  "created_at": "2019-06-27T16:48:05+00:00",
+  "updated_at": "2022-05-08T09:05:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1873,
+      "name": "Silver"
+    },
+    {
+      "id": 1874,
+      "name": "Arvo Animation"
+    }
+  ]
+}

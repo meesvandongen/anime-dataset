@@ -1,0 +1,71 @@
+{
+  "id": 2674,
+  "title": "Doraemon Movie 16: Nobita no Sousei Nikki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/72421.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/72421l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Doraemon: Nobita's Genesis Diary"
+    ],
+    "en": "Doraemon the Movie: Nobita's Diary of the Creation of the World",
+    "ja": "映画 ドラえもん のび太の創世日記"
+  },
+  "start_date": "1995-03-04",
+  "end_date": "1995-03-04",
+  "synopsis": "Nobita had to find a topic for his summer break research homework. As he was blaming everything to Adam and Eve for sinning and causing their descendants to suffer (from homework), Doraemon decided to provide him with a gadget to observe the creation of the world so that he may write it in a diary-like report. Suneo, Giant and Shizuka eventually joined them and together they watch over the birth of tribes and civilizations. Meanwhile, the time patrol is looking for an illegal time machine whose controllers accidentally heard Giant speaking of the genesis diary project. They captured Giant and Suneo; leaving Nobita, Shizuka and Doraemon to watch over the genesis set and to rescue them. \n\n(Source: ANN) ",
+  "mean": 7.05,
+  "rank": 4036,
+  "popularity": 8397,
+  "num_list_users": 5068,
+  "num_scoring_users": 2560,
+  "nsfw": "white",
+  "created_at": "2007-06-17T19:56:41+00:00",
+  "updated_at": "2021-06-05T17:11:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "average_episode_duration": 5880,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

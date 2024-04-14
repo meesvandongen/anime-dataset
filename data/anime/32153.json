@@ -1,0 +1,62 @@
+{
+  "id": 32153,
+  "title": "Mahou Shoujo Madoka★Magica: Concept Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/77732.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/77732l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Puella Magi Madoka Magica Concept Movie",
+    "ja": "魔法少女まどか★マギカ コンセプトムービー"
+  },
+  "start_date": "2015-11-27",
+  "end_date": "2015-11-27",
+  "synopsis": "Contemplating the meaning of happiness, Madoka Kaname and Homura Akemi compose possible answers that lead them to reflect on their own choices. Meanwhile, strange occurrences cause turmoil among the magical girls as they navigate the challenges of their destiny.\n\n[Written by MAL Rewrite]",
+  "mean": 7.14,
+  "rank": 3605,
+  "popularity": 4124,
+  "num_list_users": 28869,
+  "num_scoring_users": 10810,
+  "nsfw": "white",
+  "created_at": "2015-11-26T17:32:18+00:00",
+  "updated_at": "2023-10-16T00:51:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

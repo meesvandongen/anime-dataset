@@ -1,0 +1,81 @@
+{
+  "id": 34933,
+  "title": "Kakegurui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/86578.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/86578l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kakegurui: Compulsive Gambler",
+      "Gambling School"
+    ],
+    "en": "Kakegurui",
+    "ja": "賭ケグルイ"
+  },
+  "start_date": "2017-07-01",
+  "end_date": "2017-09-23",
+  "synopsis": "Unlike many schools, attending Hyakkaou Private Academy prepares students for their time in the real world. Since many of the students are the children of the richest people in the world, the academy has its quirks that separate it from all the others. By day, it is a normal school, educating its pupils in history, languages, and the like. But at night, it turns into a gambling den, educating them in the art of dealing with money and manipulating people. Money is power; those who come out on top in the games stand at the top of the school.\n\nYumeko Jabami, a seemingly naive and beautiful transfer student, is ready to try her hand at Hyakkaou's special curriculum. Unlike the rest, she doesn't play to win, but for the thrill of the gamble, and her borderline insane way of gambling might just bring too many new cards to the table.\n\n[Written by MAL Rewrite]",
+  "mean": 7.24,
+  "rank": 3024,
+  "popularity": 80,
+  "num_list_users": 1481519,
+  "num_scoring_users": 914432,
+  "nsfw": "white",
+  "created_at": "2017-02-17T03:37:24+00:00",
+  "updated_at": "2024-03-06T11:47:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1470,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

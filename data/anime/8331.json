@@ -1,0 +1,53 @@
+{
+  "id": 8331,
+  "title": "Meitantei Conan Magic File 4: Osaka Okonomiyaki Odyssey",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/21912.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/21912l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey",
+    "ja": "名探偵コナンMAGIC FILE 4 ～大阪お好み焼きオデッセイ～"
+  },
+  "start_date": "2010-04-17",
+  "end_date": "2010-04-17",
+  "synopsis": "Another special to accompany the release of the 14th feature film, The Lost Ship in the Sky. Along with a number of previous episodes, the original episode contained within will take place after the events of the film.",
+  "mean": 7.48,
+  "rank": 1926,
+  "popularity": 5971,
+  "num_list_users": 11699,
+  "num_scoring_users": 5296,
+  "nsfw": "white",
+  "created_at": "2010-03-07T01:41:50+00:00",
+  "updated_at": "2023-11-25T14:17:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1531,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1045,
+  "title": "Elf wo Karu Mono-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/74219.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/74219l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Those Who Hunt Elves",
+    "ja": "エルフを狩るモノたち"
+  },
+  "start_date": "1996-10-04",
+  "end_date": "1996-12-20",
+  "synopsis": "Loudmouthed martial artist Junpei Ryuzouji, elegant actress Airi Komiyama, and cheery but artillery-obsessed student Ritsuko Inoue all find themselves transported from their homeland of Japan to an unfamiliar, magical world. When the elven priestess Celcia Marieclaire casts the spell to send them home, she is interrupted, and the spell is broken into parts that scatter throughout the world. The spell fragments imprint themselves onto the skin of various elves.\n\nThe trio travels in Ritsuko's tank, searching for elves who might carry the spell fragments so that Celcia can transfer them to her own body and make the spell whole again. As they adventure, people begin to refer to them as \"Those Who Hunt Elves,\" gaining a reputation as warriors that put a stop to evil-doers with their miraculous cannon, terrifying elves by stripping any that they find. Though they're not the smartest group, they make up for it with enthusiasm and their strong determination to get back to Japan.\n\n[Written by MAL Rewrite]",
+  "mean": 7,
+  "rank": 4311,
+  "popularity": 4261,
+  "num_list_users": 26963,
+  "num_scoring_users": 10792,
+  "nsfw": "gray",
+  "created_at": "2006-06-01T19:21:22+00:00",
+  "updated_at": "2022-04-12T23:46:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:15"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

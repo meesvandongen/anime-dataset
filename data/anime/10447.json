@@ -1,0 +1,66 @@
+{
+  "id": 10447,
+  "title": "Aquarion Evol",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/72743.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/72743l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Aquarion Evol",
+    "ja": "アクエリオンEVOL"
+  },
+  "start_date": "2012-01-09",
+  "end_date": "2012-06-25",
+  "synopsis": "12,000 years after the events in Genesis Aquarion, humans live on the star Vega under constant threat of trans-dimensional beings called Abductors. These enemies originate from Vega’s sister star Altair and raid Vega for human life. As a countermeasure, an organization known as Neo-DEAVA formed to combat the Abductors. They pilot advanced mecha suits called Aquaria and are strictly separated by gender. Boys and girls are not allowed contact; they are even restrained from fighting on the same battlefield. However, events take a shocking turn when an advanced Abductor mecha suit joins the fray. Two teenagers, Mikono and Amata, are dragged into the conflict. Unknowingly, Amata performs a taboo when he summons an Aquaria and initializes what is called the Forbidden Union between male and female Aquaria. Neo-DEAVA is shocked, and the repercussions of Amata’s actions are much farther reaching than he realizes. How was he able to summon an Aquaria? Where did he learn to form a Forbidden Union? And why was Mikono also able to pilot the mecha suit?",
+  "mean": 7.08,
+  "rank": 3887,
+  "popularity": 1990,
+  "num_list_users": 106396,
+  "num_scoring_users": 45062,
+  "nsfw": "white",
+  "created_at": "2011-03-10T14:36:47+00:00",
+  "updated_at": "2023-01-05T10:00:56+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1464,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    },
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

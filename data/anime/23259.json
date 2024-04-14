@@ -1,0 +1,64 @@
+{
+  "id": 23259,
+  "title": "Gundam: G no Reconguista",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/63753.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/63753l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "G-Reco"
+    ],
+    "en": "Gundam Reconguista in G",
+    "ja": "ガンダム Gのレコンギスタ"
+  },
+  "start_date": "2014-10-03",
+  "end_date": "2015-03-27",
+  "synopsis": "In the year Regild Century 1014, an entire millennium has passed since the end of the fabled Universal Century, where legends like Amuro Ray and Char Aznable ruled the battlefield as ace mobile suit pilots. The Earth's surface that was once hotly contested is now mostly abandoned, with humanity preferring to live in space colonies and the surface of the moon.\n\nCapital Guard Academy student Bellri Zenam lives a peaceful academic life, but his normal days are brought to an end with the capture of pirate pilot Aida Surugan and her mobile suit G-Self. Bellri feels a strong mental connection with the G-Self and discovers that he is able to pilot it. He soon finds himself in contention with the \"Capital Guard,\" a radical faction that follows its own secret agenda despite the wishes of the Amerian Army, who still hold power on Earth. Joining the crew of the Amerian spaceship Megafauna, Bellri and Aida must pilot the G-Self to victory against the Capital Guard and its leaders, the charismatic Colonel Kunpa Rushita and the enigmatic Captain Mask.\n\n[Written by MAL Rewrite]",
+  "mean": 5.95,
+  "rank": 9818,
+  "popularity": 3942,
+  "num_list_users": 31978,
+  "num_scoring_users": 12875,
+  "nsfw": "white",
+  "created_at": "2014-03-20T09:42:31+00:00",
+  "updated_at": "2022-04-11T21:43:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:44"
+  },
+  "source": "original",
+  "average_episode_duration": 1464,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

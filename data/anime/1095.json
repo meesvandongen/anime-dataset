@@ -1,0 +1,71 @@
+{
+  "id": 1095,
+  "title": "Kidou Keisatsu Patlabor the Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/74786.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/74786l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kidou Keisatsu Patlabor Gekijouban",
+      "Patlabor 1: The Movie",
+      "Patlabor: The Mobile Police",
+      "Mobile Police Patlabor: The Movie"
+    ],
+    "en": "Patlabor: The Movie",
+    "ja": "機動警察パトレイバー the Movie"
+  },
+  "start_date": "1989-07-15",
+  "end_date": "1989-07-15",
+  "synopsis": "The Babylon Project is a massive renovation of Tokyo's neighborhoods, including the creation of artificial islands in the Bay. Utilizing \"Labors,\" or robots created for the express purpose of doing work, architects and construction crews are able to more efficiently progress development of the overhaul. When a key figure in the Project's conception is found dead after committing suicide under mysterious circumstances, Captain Kiichi Gotou's Patlabor police unit is tasked with getting to the bottom of the bizarre situation.\n\nAs several Labors begin to go haywire and a hacked AI program endangers the people of Tokyo, young pilot Noa Izumi and her Patlabor Alphonse work under Gotou's orders to save the city and the entire nation from a massive biblical conspiracy.\n\n[Written by MAL Rewrite]",
+  "mean": 7.56,
+  "rank": 1638,
+  "popularity": 3189,
+  "num_list_users": 47681,
+  "num_scoring_users": 20243,
+  "nsfw": "white",
+  "created_at": "2006-06-12T06:19:43+00:00",
+  "updated_at": "2024-03-06T11:56:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5940,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

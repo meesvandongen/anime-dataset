@@ -1,0 +1,59 @@
+{
+  "id": 40893,
+  "title": "Komatta Jiisan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1801/116872.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1801/116872l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Troublesome Old Man, Komatta Jii-san"
+    ],
+    "en": "",
+    "ja": "困ったじいさん"
+  },
+  "start_date": "2020-04-08",
+  "end_date": "2020-07-01",
+  "synopsis": "A story about a handsome, but slightly troubled old man who pretends to be a fool to make the grandma's heart flutter. A tale of a couple celebrating their 50th wedding anniversary, still nurturing a new love. This is a story of a couple's daily life with nothing but happiness that you will want to watch forever.\n\n(Source: BS NTV, translated)",
+  "mean": 6.42,
+  "rank": 7358,
+  "popularity": 8667,
+  "num_list_users": 4662,
+  "num_scoring_users": 2067,
+  "nsfw": "white",
+  "created_at": "2019-12-17T07:39:52+00:00",
+  "updated_at": "2023-11-22T04:06:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:29"
+  },
+  "source": "manga",
+  "average_episode_duration": 60,
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
+}

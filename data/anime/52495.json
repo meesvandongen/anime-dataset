@@ -1,0 +1,44 @@
+{
+  "id": 52495,
+  "title": "Baise Suidao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1993/125871.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1993/125871l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "White Tunnel",
+    "ja": "白色隧道"
+  },
+  "start_date": "2016-11-07",
+  "end_date": "2016-11-07",
+  "synopsis": "There is an April day with inconsistent weather. A taxi driver, four passengers, sisters and brother are going to visit their mother. As strangers. Chaos is in silence, in their minds, on the road...\n\n(Source: IMDB)",
+  "rank": 18386,
+  "popularity": 21670,
+  "num_list_users": 129,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2022-07-25T02:38:58+00:00",
+  "updated_at": "2022-07-26T10:30:08+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": []
+}

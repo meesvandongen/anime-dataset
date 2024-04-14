@@ -1,0 +1,62 @@
+{
+  "id": 2048,
+  "title": "Kikou Ryohei Mellowlink",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/23503.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/23503l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Armor Hunter Mellowlink",
+      "Leechers Army Merowlink",
+      "Mellowlink"
+    ],
+    "en": "",
+    "ja": "機甲猟兵メロウリンク"
+  },
+  "start_date": "1988-11-21",
+  "end_date": "1989-04-28",
+  "synopsis": "As the sole survivor from a squad that was sacrificed and hung out as scapegoats for embezzlement of military resources at the end of the 100 years war, Mellowlink Arity is out for revenge.\n\nCarrying the dogtags of his deceased comrades and armed with a dated AT rifle, he swears to hunt down and exact revenge on the corrupt officers that betrayed his squad, and maybe even uncover the truth behind the plot as well.",
+  "mean": 7.13,
+  "rank": 3661,
+  "popularity": 6257,
+  "num_list_users": 10406,
+  "num_scoring_users": 3044,
+  "nsfw": "white",
+  "created_at": "2007-03-09T23:27:55+00:00",
+  "updated_at": "2022-04-13T06:21:34+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1988,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

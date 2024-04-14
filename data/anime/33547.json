@@ -1,0 +1,51 @@
+{
+  "id": 33547,
+  "title": "Mameshiba x Gaist Crusher Collab CM",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/80692.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/80692l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mameshiba Crusher",
+      "Gaist Shiba"
+    ],
+    "en": "",
+    "ja": "豆しば× ガイストクラッシャーコラボCM"
+  },
+  "start_date": "2014-03-21",
+  "end_date": "2014-03-21",
+  "synopsis": "A collaboration commercial between Gaist Crusher and Mameshiba. In it, Rekka, Hayato, Kurama, and Shiren are wearing their Gaist Gear. Rekka opens a bentou and finds Mameshiba versions of themselves. The shibas tell them that space stations are really stinky because of astronauts farting. Rekka proceeds to not care and eat one of the shibas while Hayato, Kurama and Shiren look at him in disgust.",
+  "mean": 5.39,
+  "popularity": 15581,
+  "num_list_users": 547,
+  "num_scoring_users": 142,
+  "nsfw": "white",
+  "created_at": "2016-07-02T20:23:57+00:00",
+  "updated_at": "2023-12-26T23:32:58+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": []
+}

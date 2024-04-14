@@ -1,0 +1,66 @@
+{
+  "id": 32949,
+  "title": "Kuzu no Honkai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/83937.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/83937l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Scum's Wish",
+    "ja": "クズの本懐"
+  },
+  "start_date": "2017-01-13",
+  "end_date": "2017-03-31",
+  "synopsis": "To the outside world, Hanabi Yasuraoka and Mugi Awaya are the perfect couple. But in reality, they just share the same secret pain: they are both in love with other people they cannot be with. \n\nHanabi has loved her childhood friend and neighbor Narumi Kanai for as long as she can remember, so she is elated to discover that he is her new homeroom teacher. However, Narumi is soon noticed by the music teacher, Akane Minagawa, and a relationship begins to blossom between them, much to Hanabi's dismay. \n\nMugi was tutored by Akane in middle school, and has been in love with her since then. Through a chance meeting in the hallway, he encounters Hanabi. As these two lonely souls spend more time together, they decide to use each other as a substitute for the one they truly love, sharing physical intimacy with one another in order to stave off their loneliness. \n\n[Written by MAL Rewrite]",
+  "mean": 7.12,
+  "rank": 3689,
+  "popularity": 293,
+  "num_list_users": 685523,
+  "num_scoring_users": 333614,
+  "nsfw": "white",
+  "created_at": "2016-03-17T11:48:16+00:00",
+  "updated_at": "2022-10-29T07:09:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1375,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

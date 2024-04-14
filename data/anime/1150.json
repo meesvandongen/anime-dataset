@@ -1,0 +1,62 @@
+{
+  "id": 1150,
+  "title": "Legend of Crystania",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/2764.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/2764l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Legend of Crystania: The Chaos Ring",
+      "Legend of Crystania OVA",
+      "Crystania no Densetsu"
+    ],
+    "en": "Legend of Crystania",
+    "ja": "レジェンド・オブ・クリスタニア"
+  },
+  "start_date": "1996-11-21",
+  "end_date": "1997-04-23",
+  "synopsis": "Dreams begin to haunt Lady Sheru -- dreams of her past life as Pirotesse. Her love, Ashram, is being tormented at the hands of the soul of Barbas posing as their former king, Beld of Marmo. Interpreting this as a plea for help, Sheru searches for a way to save him by entering the chaos realm using the Chaos Ring. Meanwhile, Redon and his friends are called to arms again as ancient creatures begin to appear after being sealed away for centuries. Both their paths will cross once again, and on their shoulders will the fate of Crystania lie. \n(Source: ANN)",
+  "mean": 5.94,
+  "rank": 9852,
+  "popularity": 7832,
+  "num_list_users": 6008,
+  "num_scoring_users": 1955,
+  "nsfw": "white",
+  "created_at": "2006-07-06T00:00:20+00:00",
+  "updated_at": "2024-04-12T11:47:17+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 2700,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 110,
+      "name": "Triangle Staff"
+    }
+  ]
+}

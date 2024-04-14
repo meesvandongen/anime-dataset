@@ -1,0 +1,58 @@
+{
+  "id": 32961,
+  "title": "Regalia: The Three Sacred Stars",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/82161.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/82161l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Regalia: The Three Sacred Stars",
+    "ja": "レガリア The Three Sacred Stars"
+  },
+  "start_date": "2016-07-07",
+  "end_date": "2016-11-24",
+  "synopsis": "In the kingdom of Rimgarde, two mysterious giant robots begin a duel that erases nearly all human life before they disappear. Twelve years later, the young empress of Enastoria, Yuinshiel Asteria, works tirelessly to maintain both her authority and the support of her citizens. But the peace of Enastoria is threatened when survivors of Rimgarde arrive. Armed with giant robots called Regalia Gear, they look for Yuinshiel's adopted sister, Rena. The latter is forced to reveal herself as not just a Regalia Gear wielder, but a real \"Regalia\"—a human capable of transforming into a giant robot—and the culprit behind the fall of Rimgarde.\n\nSuddenly caught up in an international dispute, Yuinshiel must preserve the security of her country while also protecting Rena from those who wish to abuse her powers. However, by fighting for her sister, Yuinshiel risks triggering the same calamity that once destroyed Rimgarde. Amid such a precarious situation, the two girls push their bond to its limits as they fight not only for themselves but for the world's safety as well.\n\n[Written by MAL Rewrite]",
+  "mean": 5.96,
+  "rank": 9786,
+  "popularity": 4076,
+  "num_list_users": 29549,
+  "num_scoring_users": 7857,
+  "nsfw": "white",
+  "created_at": "2016-03-19T14:30:14+00:00",
+  "updated_at": "2023-07-31T16:34:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
+}

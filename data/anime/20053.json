@@ -1,0 +1,58 @@
+{
+  "id": 20053,
+  "title": "Wizard Barristers: Benmashi Cecil",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/58145.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/58145l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Wizard Barristers",
+    "ja": "ウィザード・バリスターズ～弁魔士セシル"
+  },
+  "start_date": "2014-01-13",
+  "end_date": "2014-03-31",
+  "synopsis": "The story takes place in Tokyo in 2018, where normal humans and those who can use magic coexist. As a result, there are laws against using magic, and a \"magic courtroom\" exists to preside over lawsuits regarding magic use. In these cases, \"Benmashi\" or wizard barristers defend those who use magic. The anime follows Cecil, the youngest Benmashi in history, and her associates as they defend clients in these cases.\n\n(Source: ANN)",
+  "mean": 6.17,
+  "rank": 8694,
+  "popularity": 2869,
+  "num_list_users": 58228,
+  "num_scoring_users": 23666,
+  "nsfw": "white",
+  "created_at": "2013-08-10T18:50:59+00:00",
+  "updated_at": "2023-10-16T06:02:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

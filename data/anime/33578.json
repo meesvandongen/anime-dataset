@@ -1,0 +1,47 @@
+{
+  "id": 33578,
+  "title": "Hungry Zombie Francesca!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/80772.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/80772l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Francesca: Girls Be Ambitious",
+      "Hungry Zombie Francesca!! Club Mix"
+    ],
+    "en": "",
+    "ja": "Hungry Zombie Francesca!!"
+  },
+  "start_date": "2013-03-20",
+  "end_date": "2013-06-11",
+  "synopsis": "Official music videos for Francesca released on the official Youtube and NND pages. The CDs of the songs was available for purchase as well. The animation was not reused for the TV series (which was made the following year) but they were included on the BD/DVD release of the TV series. ",
+  "mean": 5.43,
+  "popularity": 14329,
+  "num_list_users": 770,
+  "num_scoring_users": 287,
+  "nsfw": "white",
+  "created_at": "2016-07-07T00:51:49+00:00",
+  "updated_at": "2023-11-03T10:00:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 510,
+  "rating": "g",
+  "studios": []
+}

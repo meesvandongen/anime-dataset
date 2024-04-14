@@ -1,0 +1,62 @@
+{
+  "id": 37349,
+  "title": "Goblin Slayer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Goblin Slayer",
+    "ja": "ゴブリンスレイヤー"
+  },
+  "start_date": "2018-10-07",
+  "end_date": "2018-12-30",
+  "synopsis": "Goblins are known for their ferocity, cunning, and rapid reproduction, but their reputation as the lowliest of monsters causes their threat to be overlooked. Raiding rural civilizations to kidnap females of other species for breeding, these vile creatures are free to continue their onslaught as adventurers turn a blind eye in favor of more rewarding assignments with larger bounties.\n\nTo commemorate her first day as a Porcelain-ranked adventurer, the 15-year-old Priestess joins a band of young, enthusiastic rookies to investigate a tribe of goblins responsible for the disappearance of several village women. Unprepared and inexperienced, the group soon faces its inevitable demise from an ambush while exploring a cave. With no one else left standing, the terrified Priestess accepts her fate—until the Goblin Slayer unexpectedly appears to not only rescue her with little effort, but destroy the entire goblin nest. \n\nAs a holder of the prestigious Silver rank, the Goblin Slayer allows her to accompany him as he assists the Adventurer's Guild in all goblin-related matters. Together with the Priestess, High Elf, Dwarf, and Lizardman, the armored warrior will not rest until every single goblin in the frontier lands has been eradicated for good.\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2193,
+  "popularity": 128,
+  "num_list_users": 1122692,
+  "num_scoring_users": 673381,
+  "nsfw": "white",
+  "created_at": "2018-02-18T07:33:50+00:00",
+  "updated_at": "2024-01-29T21:17:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

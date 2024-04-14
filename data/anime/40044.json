@@ -1,0 +1,62 @@
+{
+  "id": 40044,
+  "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1745/108659.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1745/108659l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Doraemon the Movie 2020: Nobita's New Dinosaur",
+    "ja": "映画 ドラえもん のび太の新恐竜"
+  },
+  "start_date": "2020-08-07",
+  "end_date": "2020-08-07",
+  "synopsis": "Nobita and the gang travel 66 million years into the past to bring a pair of adorable dinosaur twins back to where they belong.\n\n(Source: Netflix)",
+  "mean": 7.52,
+  "rank": 1786,
+  "popularity": 8825,
+  "num_list_users": 4420,
+  "num_scoring_users": 1928,
+  "nsfw": "white",
+  "created_at": "2019-07-04T03:27:30+00:00",
+  "updated_at": "2022-04-02T04:08:33+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 6641,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6607,
+  "title": "Superflat First Love",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/22274.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/22274l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "すーぱーふらっと・ファーストラブ"
+  },
+  "start_date": "2009-04-28",
+  "end_date": "2009-04-28",
+  "synopsis": "6 years after she was swallowed by the Panda Geant, Aya is once again taken into the Multicolor Monogram world and even travels back in time to Paris, 1897 where she meets the young Gaston-Louis Vuitton, both fallen head over heels with each other. What will happen to their young love?",
+  "mean": 5.61,
+  "rank": 11254,
+  "popularity": 9308,
+  "num_list_users": 3716,
+  "num_scoring_users": 2179,
+  "nsfw": "white",
+  "created_at": "2009-06-12T05:53:44+00:00",
+  "updated_at": "2020-08-08T02:19:26+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 187,
+  "rating": "g",
+  "studios": []
+}

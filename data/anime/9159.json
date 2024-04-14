@@ -1,0 +1,66 @@
+{
+  "id": 9159,
+  "title": "Kaibutsu Oujo (OVA)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/27643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/27643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaibutsu Ohjo",
+      "Monster Princess",
+      "Princess Resurrection (OVA)"
+    ],
+    "en": "",
+    "ja": "怪物王女"
+  },
+  "start_date": "2010-12-09",
+  "end_date": "2011-10-07",
+  "synopsis": "Based on a manga by Mitsunaga Yasunori, serialised in Monthly Shounen Sirius.\n\nHiyorimi Hiro moves to a new city to live with his older sister, but dies before he can find her. He then awakens to a new life as a servant of a Princess of the Monster Realm, who just happens to be employing his sister. Monsters soon appear to attack or pester the princess since she is in line for the royal throne, and Hiro must protect her with his life (and repeated deaths).\n\n(Soure: ANN)",
+  "mean": 7.03,
+  "rank": 4136,
+  "popularity": 5717,
+  "num_list_users": 13141,
+  "num_scoring_users": 5305,
+  "nsfw": "white",
+  "created_at": "2010-07-09T04:54:34+00:00",
+  "updated_at": "2022-01-07T00:52:36+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1376,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

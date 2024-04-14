@@ -1,0 +1,45 @@
+{
+  "id": 3557,
+  "title": "Shoujo Auction",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/41659.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/41659l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Virgin Auction",
+    "ja": "処女オークション"
+  },
+  "start_date": "2005-12-09",
+  "end_date": "2006-03-10",
+  "synopsis": "There is a secret club that holds an auction of virgins. They are unmistakably virgins checked their bodies by a sadistic woman doctor. The girls are put up for auction by various reasons, for example, to clear the debts, and they are forced to have sex with bidders.\n\n(Source: AnimeNfo)",
+  "mean": 5.88,
+  "popularity": 10247,
+  "num_list_users": 2727,
+  "num_scoring_users": 1030,
+  "nsfw": "gray",
+  "created_at": "2007-12-09T17:40:25+00:00",
+  "updated_at": "2022-01-23T14:22:33+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 239,
+      "name": "Y.O.U.C"
+    }
+  ]
+}

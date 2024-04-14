@@ -1,0 +1,57 @@
+{
+  "id": 3111,
+  "title": "Nasu: Suitcase no Wataridori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1340/133561.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1340/133561l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nasu 2",
+      "Nasu: Migratory Bird's Suitcase"
+    ],
+    "en": "Nasu: A Migratory Bird with Suitcase",
+    "ja": "茄子 スーツケースの渡り鳥"
+  },
+  "start_date": "2007-10-24",
+  "end_date": "2007-10-24",
+  "synopsis": "Team Pao Pao Beer travel east to participate in the Japan Cup in what is very likely to be their final season together. Pepe Benengeli and teammate Jean Luigi Ciocci face an uncertain future and are also yet to come to terms with the suicide of one their heroes, Marco Rondanini. What follows is an introspective into the important things in life from the perspective of the professional cyclist.",
+  "mean": 7.08,
+  "rank": 3916,
+  "popularity": 9071,
+  "num_list_users": 4046,
+  "num_scoring_users": 1767,
+  "nsfw": "white",
+  "created_at": "2007-09-13T21:05:26+00:00",
+  "updated_at": "2023-02-05T05:03:36+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3246,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 31630,
+  "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/79448.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/79448l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Phoenix Wright: Ace Attorney"
+    ],
+    "en": "Ace Attorney",
+    "ja": "逆転裁判 ～その「真実」、異議あり！～"
+  },
+  "start_date": "2016-04-02",
+  "end_date": "2016-09-24",
+  "synopsis": "Since he was a child, Ryuuichi Naruhodou's dream was to become a defense attorney, protecting the innocent when no one else would. However, when the rookie lawyer finally takes on his first case under the guidance of his mentor Chihiro Ayasato, he realizes that the courtroom is a battlefield. In these fast paced trials, Ryuuichi is forced to think outside the box to uncover the truth of the crimes that have taken place in order to prove the innocence of his clients.\n\nGyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! follows Ryuuichi as he tackles cases to absolve the falsely accused of the charges they face. It will not be easy—standing in his path is the ruthless Reiji Mitsurugi, a prosecutor who will stop at nothing to hand out guilty verdicts. With his back against the wall, the defense attorney must carefully examine both evidence and witness testimony, sifting through lies to solve the mystery behind each case. With a shout of \"objection!,\" the battle in the courtroom begins!\n\n[Written by MAL Rewrite]",
+  "mean": 6.51,
+  "rank": 6815,
+  "popularity": 1644,
+  "num_list_users": 137253,
+  "num_scoring_users": 58691,
+  "nsfw": "white",
+  "created_at": "2015-09-17T05:33:12+00:00",
+  "updated_at": "2022-04-14T11:32:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

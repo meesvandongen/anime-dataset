@@ -1,0 +1,61 @@
+{
+  "id": 3051,
+  "title": "Yes! Precure 5 Movie: Kagami no Kuni no Miracle Daibouken!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1878/142472.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1878/142472l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga Yes! Pretty Cure 5: Kagami no Kuni no Miracle Daibouken!",
+      "Yes! Pretty Cure 5 Movie: Great Miraculous Adventure of the Mirror Country!"
+    ],
+    "en": "",
+    "ja": "映画　Yes! プリキュア５　鏡の国のミラクル大冒険！"
+  },
+  "start_date": "2007-11-10",
+  "end_date": "2007-11-10",
+  "synopsis": "The five girls plus Coco, Nuts, and Milk all go to visit a castle-themed theme park, where they dress up as princes and princesses and go off to have a fun-filled day. However, Coco and Nuts end up kidnapped! The girls have to save them with the help of two inhabitants of the Mirror Country, Hidarin and Migirin,  by battling Shadow, an evil clown, and five girls who are also from the Mirror Country that look very familiar...",
+  "mean": 7.31,
+  "rank": 2668,
+  "popularity": 7853,
+  "num_list_users": 5981,
+  "num_scoring_users": 2628,
+  "nsfw": "white",
+  "created_at": "2007-08-29T02:59:45+00:00",
+  "updated_at": "2023-01-28T20:16:59+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4200,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 38558,
+  "title": "Laidbackers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1345/119892.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1345/119892l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Raidbackers"
+    ],
+    "en": "",
+    "ja": "LAIDBACKERS-レイドバッカーズ-"
+  },
+  "start_date": "2019-04-05",
+  "end_date": "2019-04-05",
+  "synopsis": "In order to take over her grandmother's Dagashi store, art student Kumi Honamanuma moved to Kyoto. She met Harami Mino, K Kusanagi, Mai Haisaka, and a dog who lives in the store, which supposed to be empty. Kumi ended up living with these girls, who claim that they are heroes reincarnated to contemporary period to chase after the demon king. Harami and others seem to live in a peaceful life with no missions to to do anymore, Ran, who was demon king in the past and appears to be an elementary school girl from failing to reincarnate, one day. The story begins with Ran requesting to collect demon king's fragments. \n\n(Source: MAL News)",
+  "mean": 6.12,
+  "rank": 8974,
+  "popularity": 8285,
+  "num_list_users": 5270,
+  "num_scoring_users": 1255,
+  "nsfw": "white",
+  "created_at": "2018-10-19T09:27:08+00:00",
+  "updated_at": "2021-12-04T18:53:29+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 3506,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

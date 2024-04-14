@@ -1,0 +1,44 @@
+{
+  "id": 11691,
+  "title": "Bloody Date",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/32603.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/32603l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chimidoro Date",
+      "Bloody Romance"
+    ],
+    "en": "Bloody Date",
+    "ja": "血みどろデート"
+  },
+  "start_date": "2006-11-29",
+  "end_date": "2006-11-29",
+  "synopsis": "While enjoying their first date, a young couple experiences a nasty surprise when they're interrupted by an axe-wielding murderer! The girl manages to escape and finds refuge in a strange family's house, where she urges the people inside to call the police. However, she is knocked out and awakens inside a nightmarish room. Her real struggle for survival is only just beginning!\n\n[Written by MAL Rewrite]",
+  "mean": 4.24,
+  "rank": 13185,
+  "popularity": 8932,
+  "num_list_users": 4258,
+  "num_scoring_users": 2718,
+  "nsfw": "white",
+  "created_at": "2011-09-23T12:45:20+00:00",
+  "updated_at": "2022-04-17T08:47:47+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 307,
+  "rating": "r",
+  "studios": []
+}

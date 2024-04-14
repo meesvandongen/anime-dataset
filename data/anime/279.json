@@ -1,0 +1,78 @@
+{
+  "id": 279,
+  "title": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/30681.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/30681l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hundred Stories",
+      "100 Stories",
+      "Natsuhiko Kyougoku's Worldly Horror Stories"
+    ],
+    "en": "Requiem from the Darkness",
+    "ja": "京極夏彦　巷説百物語"
+  },
+  "start_date": "2003-10-04",
+  "end_date": "2003-12-27",
+  "synopsis": "In an attempt to turn his floundering career around by compiling one hundred ghost stories, struggling author Momosuke Yamaoka roams through Edo-period Japan searching for material. During his travels, the young man wanders deep into the mountains, where he encounters a monk named Mataichi. Failing to heed the monk's advice to turn back, Momosuke presses forward and soon witnesses a murder carried out by Mataichi and his two associates. As it turns out, Mataichi's gang also investigates paranormal incidents—aiming to make those in the wrong pay the ultimate price.\n\nContinuing to seek out subject matter for his stories, Momosuke repeatedly crosses paths with the trio of outlaws, becoming increasingly involved in their schemes each time. As the author strays further toward the world of darkness, he grapples with both the morality of the group's actions and the line between humans and the supernatural.\n\n[Written by MAL Rewrite]",
+  "mean": 7.09,
+  "rank": 3835,
+  "popularity": 3557,
+  "num_list_users": 39244,
+  "num_scoring_users": 9993,
+  "nsfw": "white",
+  "created_at": "2005-11-16T15:20:36+00:00",
+  "updated_at": "2023-12-10T23:31:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:35"
+  },
+  "source": "novel",
+  "average_episode_duration": 1449,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

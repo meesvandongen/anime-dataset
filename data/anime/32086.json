@@ -1,0 +1,69 @@
+{
+  "id": 32086,
+  "title": "Blame! Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1976/93666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1976/93666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Blame!: The Ancient Terminal City",
+      "Blame!: Tanmatsu Ikou Toshi"
+    ],
+    "en": "Blame!: The Movie",
+    "ja": "BLAME!"
+  },
+  "start_date": "2017-05-20",
+  "end_date": "2017-05-20",
+  "synopsis": "A young girl named Zuru sets out on an expedition through a post-apocalyptic city controlled by machines in a desperate hunt for food. Things go awry when her team accidently triggers the city's AI defense program called the Safeguard. Attacked by the machines, her companions are on the verge of being annihilated when a mysterious man named Killy arrives and exterminates the hostile units.\n\nDespite his heroic intervention, Zuru is hesitant to trust Killy and questions his motives. He reveals to have come from thousands of levels below the city in order to find humans possessing the Net Terminal Genes—a trait that would allow humans to regain control of their civilization and shut down the Safeguard. After hearing his story, Zuru and the rest of her team join Killy and embark on a journey in search of the Genes that could prove to be mankind's last hope of survival.\n\n[Written by MAL Rewrite]",
+  "mean": 7.03,
+  "rank": 4176,
+  "popularity": 1968,
+  "num_list_users": 107699,
+  "num_scoring_users": 59511,
+  "nsfw": "white",
+  "created_at": "2015-11-17T15:08:19+00:00",
+  "updated_at": "2022-04-18T04:58:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 6337,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1023,
+      "name": "Polygon Pictures"
+    }
+  ]
+}

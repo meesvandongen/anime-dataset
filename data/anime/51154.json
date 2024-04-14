@@ -1,0 +1,45 @@
+{
+  "id": 51154,
+  "title": "I Love Me",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1659/121189.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1659/121189l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイラブみー"
+  },
+  "start_date": "2022-03-28",
+  "end_date": "2022-03-30",
+  "synopsis": "The anime is related to the #BeyondGender project, which aims to foster a society where people can live as they are, without being bound by social and cultural gender differences such as \"masculinity\" and \"femininity.\" The anime follows Mii, who has daydreams and thoughts triggered by questions about mind, body, and life.\n\nProfessors of developmental psychology, gender theory, sex education, and other related subjects are supervising the program.\n\n(Source: ANN)",
+  "rank": 20317,
+  "popularity": 18829,
+  "num_list_users": 281,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2022-03-02T16:04:25+00:00",
+  "updated_at": "2022-10-21T10:47:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1005,
+      "name": "Oddjob"
+    }
+  ]
+}

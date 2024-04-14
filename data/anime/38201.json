@@ -1,0 +1,57 @@
+{
+  "id": 38201,
+  "title": "Osomatsu-san Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1492/113860.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1492/113860l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eiga no Osomatsu-san",
+      "Osomatsu-san the Movie"
+    ],
+    "en": "Mr. Osomatsu the Movie",
+    "ja": "えいがのおそ松さん"
+  },
+  "start_date": "2019-03-15",
+  "end_date": "2019-03-15",
+  "synopsis": "After an embarrassing high school class reunion with their successful classmates, who have \"proper\" jobs, relationships, and even children, the Matsuno sextuplets return home to sulk about their status as NEETs. They spend the night drinking away their sorrows, eventually falling unconscious, until they awaken in a strange world of memories, centered around one of the brothers' biggest high school regret.\n\nAs the sextuplets navigate this memory world, they encounter their embarrassing past selves from high school, as well as those of their friends. All the while, they try to uncover whose regret was great enough to trap them in this strange world, so that they can make their way back to reality. However, they're running out of time; this world of memories is unstable, and the sextuplets may lose their chance to make things right if they're too slow....",
+  "mean": 7.87,
+  "rank": 844,
+  "popularity": 5377,
+  "num_list_users": 15245,
+  "num_scoring_users": 6332,
+  "nsfw": "white",
+  "created_at": "2018-08-19T08:09:45+00:00",
+  "updated_at": "2022-04-16T00:49:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 6480,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

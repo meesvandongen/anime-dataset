@@ -1,0 +1,77 @@
+{
+  "id": 1573,
+  "title": "Kishin Douji Zenki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1014/98589.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1014/98589l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Legend of Zenki",
+      "Demon Prince Zenki"
+    ],
+    "en": "Zenki",
+    "ja": "鬼神童子ZENKI"
+  },
+  "start_date": "1995-01-09",
+  "end_date": "1995-12-25",
+  "synopsis": "In ancient times, a great battle was waged between a master mage, Enno Ozuno, and an evil demon goddess, Karuma. Unfortunately, Enno didn't have the strength to defeat her alone and was forced to call upon Zenki, a powerful protector demon. After Karuma was defeated, Enno sealed Zenki away in a pillar located inside his temple.\n\n1,200 years after this epic battle, Enno's descendant, Chiaki, spends her days showing tourists around her hometown of Shikigami-cho and doing exorcisms to pay the bills. One day, two thieves enter the town in hopes of opening a seal in the Ozuno temple and releasing the hidden treasure from within. However, what actually pops out is a dark entity that attaches itself to the henchmen, transforming them into demonic beings. After this transformation, they begin a rampage through the temple, terrorizing poor Chiaki.\n\nIt is now up to this young progeny to unleash her family's powers to summon Zenki and save Shikigami-cho from these demons, as well as the evil entities sure to follow in their footsteps.",
+  "mean": 6.97,
+  "rank": 4402,
+  "popularity": 5512,
+  "num_list_users": 14323,
+  "num_scoring_users": 5564,
+  "nsfw": "white",
+  "created_at": "2006-10-15T04:47:06+00:00",
+  "updated_at": "2023-09-02T20:48:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

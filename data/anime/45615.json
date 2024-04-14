@@ -1,0 +1,45 @@
+{
+  "id": 45615,
+  "title": "Deep Sea Tentacle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1318/111012.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1318/111012l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Deep Sea Tentacle",
+    "ja": "Deep Sea Tentacle"
+  },
+  "start_date": "2007-07-16",
+  "end_date": "2007-07-16",
+  "synopsis": "Abstract short film by Kojirou Shishido featuring creatures in the ocean.",
+  "mean": 4.53,
+  "rank": 13092,
+  "popularity": 16572,
+  "num_list_users": 445,
+  "num_scoring_users": 235,
+  "nsfw": "white",
+  "created_at": "2021-01-02T00:09:38+00:00",
+  "updated_at": "2021-01-02T00:09:38+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 104,
+  "rating": "g",
+  "studios": []
+}

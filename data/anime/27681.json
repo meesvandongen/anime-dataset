@@ -1,0 +1,53 @@
+{
+  "id": 27681,
+  "title": "Sasurai-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/67005.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/67005l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "さすらいくん"
+  },
+  "start_date": "1992-04-07",
+  "end_date": "1992-06-30",
+  "synopsis": "Based on the gag manga by Fujio A Fujiko.",
+  "rank": 17745,
+  "popularity": 16809,
+  "num_list_users": 425,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2014-09-22T14:19:28+00:00",
+  "updated_at": "2022-04-15T19:06:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 1992,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "09:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

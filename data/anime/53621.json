@@ -1,0 +1,64 @@
+{
+  "id": 53621,
+  "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1350/133642.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1350/133642l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Clueless Transfer Student Is Assertive."
+    ],
+    "en": "My Clueless First Friend",
+    "ja": "事情を知らない転校生がグイグイくる。"
+  },
+  "start_date": "2023-04-09",
+  "end_date": "2023-07-02",
+  "synopsis": "Akane Nishimura's quiet nature makes her classmates perceive her as a gloomy and unlikeable person. Combined with her intimidating gaze, it earns Akane the ominous nickname \"Grim Reaper,\" condemning her to endless bullying for her supposed cursed powers that bring misfortune to everyone around her.\n\nHowever, none of these rumors deter transfer student Taiyou Takada from trying to befriend Akane. As someone who finds the supernatural fascinating, Taiyou approaches the Grim Reaper without hesitation, blissfully unaware of the complicated situation within the class. His bright personality and optimistic worldview may just bring about the change that Akane desperately needs.\n\n[Written by MAL Rewrite]",
+  "mean": 7.52,
+  "rank": 1799,
+  "popularity": 2700,
+  "num_list_users": 64626,
+  "num_scoring_users": 28929,
+  "nsfw": "white",
+  "created_at": "2022-11-16T12:42:18+00:00",
+  "updated_at": "2023-06-25T15:36:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1998,
+      "name": "Studio Signpost"
+    }
+  ]
+}

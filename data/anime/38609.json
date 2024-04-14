@@ -1,0 +1,42 @@
+{
+  "id": 38609,
+  "title": "Malta no Kamishibai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1397/95953.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1397/95953l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Malta no Bouken: Kamishibai"
+    ],
+    "en": "",
+    "ja": "マルタのかみしばい"
+  },
+  "start_date": "2018-08-01",
+  "end_date": "2019-01-30",
+  "synopsis": "Animated kamishibai-style Malta no Bouken episodes streamed on the official YouTube channel of the franchise.",
+  "rank": 16182,
+  "popularity": 20693,
+  "num_list_users": 177,
+  "num_scoring_users": 32,
+  "nsfw": "white",
+  "created_at": "2018-10-31T02:41:24+00:00",
+  "updated_at": "2021-09-14T00:53:40+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 370,
+  "rating": "g",
+  "studios": []
+}

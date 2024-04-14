@@ -1,0 +1,39 @@
+{
+  "id": 55175,
+  "title": "Forever Only (SHINDRUM Remix)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1190/135667.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1190/135667l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Forever Only (SHINDRUM Remix)",
+    "ja": "Forever Only (SHINDRUM Remix)"
+  },
+  "start_date": "2023-01-06",
+  "end_date": "2023-01-06",
+  "synopsis": "Music video for JAEHYUN's song Forever Only (SHINDRUM Remix).",
+  "popularity": 21931,
+  "num_list_users": 119,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2023-04-29T20:37:04+00:00",
+  "updated_at": "2023-04-30T09:45:49+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 209,
+  "rating": "g",
+  "studios": []
+}

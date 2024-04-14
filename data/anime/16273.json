@@ -1,0 +1,61 @@
+{
+  "id": 16273,
+  "title": "Acchi Kocchi: Place=Princess",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/43823.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/43823l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Acchi Kocchi Special",
+      "Acchi Kocchi Episode 13"
+    ],
+    "en": "",
+    "ja": "あっちこっち 第13話(未放送)「PLACE=PRINCESS」"
+  },
+  "start_date": "2012-11-07",
+  "end_date": "2012-11-07",
+  "synopsis": "Episode 13 of Acchi Kocchi that was included in Vol.6. ",
+  "mean": 7.46,
+  "rank": 2002,
+  "popularity": 2790,
+  "num_list_users": 61399,
+  "num_scoring_users": 33504,
+  "nsfw": "white",
+  "created_at": "2012-11-12T17:27:50+00:00",
+  "updated_at": "2023-07-11T05:17:06+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1423,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

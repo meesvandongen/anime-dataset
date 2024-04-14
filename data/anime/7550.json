@@ -1,0 +1,59 @@
+{
+  "id": 7550,
+  "title": "Pokemon: Pikachu Tanken Club",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/18114.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/18114l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pocket Monsters: Pikachu Tanken Kurabu"
+    ],
+    "en": "Pikachu's Exploration Club",
+    "ja": "ピカチュウたんけんクラブ"
+  },
+  "start_date": "2007-08-01",
+  "end_date": "2007-08-01",
+  "synopsis": "The fourth short premiered on ANA flights on August 1, 2007.\n\n(Source: Wikipedia)",
+  "mean": 6.26,
+  "rank": 8286,
+  "popularity": 7289,
+  "num_list_users": 7164,
+  "num_scoring_users": 2707,
+  "nsfw": "white",
+  "created_at": "2009-11-18T21:49:53+00:00",
+  "updated_at": "2020-06-08T19:24:06+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "average_episode_duration": 1306,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

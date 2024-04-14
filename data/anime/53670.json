@@ -1,0 +1,54 @@
+{
+  "id": 53670,
+  "title": "Blue Archive: Beautiful Day Dreamer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1635/131498.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1635/131498l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Blue Archive: Beautiful Day Dreamer",
+    "ja": "【ブルアカ】「beautiful day dreamer」"
+  },
+  "start_date": "2022-11-07",
+  "end_date": "2022-11-07",
+  "synopsis": "The short centers on the Game Development Department of Millennium Science School, and shows Momoi being roped into various activities as she struggles to come up with ideas for a game's story.\n\n(Source: ANN)",
+  "mean": 6.97,
+  "rank": 4422,
+  "popularity": 9658,
+  "num_list_users": 3321,
+  "num_scoring_users": 1540,
+  "nsfw": "white",
+  "created_at": "2022-11-24T02:14:52+00:00",
+  "updated_at": "2023-02-22T09:33:27+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 594,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2009,
+      "name": "Yostar Pictures"
+    }
+  ]
+}

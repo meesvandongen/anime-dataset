@@ -1,0 +1,56 @@
+{
+  "id": 34661,
+  "title": "Monster Strike: Zoku Saishuu-banashi - Pandora no Hako",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/84742.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/84742l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "An Encore and Continuance"
+    ],
+    "en": "An Encore and Continuance: Pandora's Box  - A strange phenomenon is overtaking the world?! -",
+    "ja": "パンドラの箱   - 新たな世界のはじまり——!? -"
+  },
+  "start_date": "2016-12-31",
+  "end_date": "2016-12-31",
+  "synopsis": "After defeating the War Gods, Ren and his friends are living the dream. \nIt seems like they've finally managed to regain their normal lives. However, a mysterious girl by the name of Pandora appears, bringing with her a box that must never be opened. \nAn unfortunate incident results in the box opening (of course), setting the world up for some big changes...\n\n(Source: YouTube, edited)",
+  "mean": 6.25,
+  "rank": 8301,
+  "popularity": 9805,
+  "num_list_users": 3170,
+  "num_scoring_users": 861,
+  "nsfw": "white",
+  "created_at": "2016-12-31T11:57:40+00:00",
+  "updated_at": "2022-03-29T14:48:40+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 517,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 101,
+      "name": "Studio Hibari"
+    }
+  ]
+}

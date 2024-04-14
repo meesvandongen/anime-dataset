@@ -1,0 +1,47 @@
+{
+  "id": 30076,
+  "title": "Roba Chotto Suneta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/72057.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/72057l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "A Donkey Got a Bit Sulky"
+    ],
+    "en": "",
+    "ja": "ロバちょっとすねた"
+  },
+  "start_date": "1983-04-03",
+  "end_date": "1983-04-03",
+  "synopsis": "A music video for the song by Agnes Chan that was featured on NHK's Minna no Uta program.\n\nA boy needs to deliver good and uses his donkey. But it gets sulky easily so he ends up bending over backwards to its whims. ",
+  "mean": 5.02,
+  "popularity": 16466,
+  "num_list_users": 456,
+  "num_scoring_users": 225,
+  "nsfw": "white",
+  "created_at": "2015-02-18T00:34:24+00:00",
+  "updated_at": "2019-02-03T10:35:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 141,
+  "rating": "g",
+  "studios": []
+}

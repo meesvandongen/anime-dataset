@@ -1,0 +1,52 @@
+{
+  "id": 32959,
+  "title": "Mirai no Watashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/79144.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/79144l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Future Me",
+      "McDonald's Crew ni Narou. Campaign"
+    ],
+    "en": "",
+    "ja": "未来のワタシ"
+  },
+  "start_date": "2016-03-15",
+  "end_date": "2017-04-27",
+  "synopsis": "The shorts are part of McDonald's new \"Crew ni Narou. Campaign\" (Join the Crew. Campaign) to attract part-time restaraunt staff members.\n\n(Source: ANN)",
+  "mean": 6.26,
+  "popularity": 8723,
+  "num_list_users": 4572,
+  "num_scoring_users": 2546,
+  "nsfw": "white",
+  "created_at": "2016-03-18T20:37:05+00:00",
+  "updated_at": "2023-12-26T20:39:23+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 97,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1033,
+      "name": "Studio Colorido"
+    }
+  ]
+}

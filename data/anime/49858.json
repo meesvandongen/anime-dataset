@@ -1,0 +1,58 @@
+{
+  "id": 49858,
+  "title": "Shinigami Bocchan to Kuro Maid 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1078/136947.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1078/136947l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Duke of Death and His Maid Season 2",
+    "ja": "死神坊ちゃんと黒メイド"
+  },
+  "start_date": "2023-07-09",
+  "end_date": "2023-09-24",
+  "synopsis": "The duke, full of love and kindness, treads carefully around every living being, be it a tender flower or his seductive maid, Alice Lendrott. Were it not for the devotion Alice shows him and the fondness that grows ever stronger between them, the duke would have barely paid heed to his mother's demand: to either lift the dreadful curse placed upon him or lose his family inheritance. Although the duke has no greed for riches, he yearns to be rid of his frightful powers—which cause all he touches to die—for the sake of those closest to him.\n\nAs the duke, Alice, and their friends enjoy spirited days filled with the ridiculous affairs of the supernatural, the spring deadline looms heavily over them. Nonetheless, the duke refuses to take any shortcuts in this endeavor if it means betraying the trust of his cherished friends.\n\n[Written by MAL Rewrite]",
+  "mean": 7.59,
+  "rank": 1536,
+  "popularity": 2432,
+  "num_list_users": 76932,
+  "num_scoring_users": 23445,
+  "nsfw": "white",
+  "created_at": "2021-09-19T14:41:46+00:00",
+  "updated_at": "2023-09-30T01:06:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

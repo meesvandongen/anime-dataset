@@ -1,0 +1,45 @@
+{
+  "id": 38290,
+  "title": "Tokyo Cosmo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1172/98744.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1172/98744l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "東京コスモ"
+  },
+  "start_date": "2015-10-27",
+  "end_date": "2015-10-27",
+  "synopsis": "This five-minute video tells the simple tale of a young woman imagining her normal life being a bit more extraordinary.\n\n(Source: ANN)",
+  "mean": 5.71,
+  "rank": 10808,
+  "popularity": 17062,
+  "num_list_users": 406,
+  "num_scoring_users": 208,
+  "nsfw": "white",
+  "created_at": "2018-09-11T00:32:34+00:00",
+  "updated_at": "2019-02-15T18:39:07+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 280,
+  "rating": "g",
+  "studios": []
+}

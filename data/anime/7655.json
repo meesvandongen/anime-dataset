@@ -1,0 +1,56 @@
+{
+  "id": 7655,
+  "title": "Major S6",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/75216.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/75216l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Major 6th Season"
+    ],
+    "en": "",
+    "ja": "メジャー 第6シリーズ"
+  },
+  "start_date": "2010-04-03",
+  "end_date": "2010-09-25",
+  "synopsis": "The intense Baseball World Cup has reached its conclusion. Gorou Honda has regained his passion for baseball and is once again back in full gear. He has secured a team position with the Hornets and has travelled back to America to prepare for his spectacular debut as a Major League pitcher.\n\nHowever, Gorou encounters a sudden series of unexpected issues and devastating events follow, crushing his motivation and potentially reducing the baseball career that he has worked tirelessly to maintain into crumbs. In the final season of Major, Gorou must yet again overcome immense hardship in order to save his baseball career. This time there is no simple solution, as the problem is deeply rooted within his own mind...\n\n[Written by MAL Rewrite]",
+  "mean": 8.32,
+  "rank": 239,
+  "popularity": 2750,
+  "num_list_users": 62785,
+  "num_scoring_users": 36792,
+  "nsfw": "white",
+  "created_at": "2009-12-04T23:38:26+00:00",
+  "updated_at": "2023-01-13T20:11:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

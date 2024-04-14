@@ -1,0 +1,76 @@
+{
+  "id": 30307,
+  "title": "Monster Musume no Iru Nichijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75104.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75104l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "MonMusu"
+    ],
+    "en": "Monster Musume: Everyday Life with Monster Girls",
+    "ja": "モンスター娘のいる日常"
+  },
+  "start_date": "2015-07-08",
+  "end_date": "2015-09-23",
+  "synopsis": "With his parents abroad, Kimihito Kurusu lived a quiet, unremarkable life alone until monster girls came crowding in! This alternate reality presents cutting-edge Japan, the first country to promote the integration of non-human species into society. After the incompetence of interspecies exchange coordinator Agent Smith leaves Kimihito as the homestay caretaker of a Lamia named Miia, the newly-minted \"Darling\" quickly attracts girls of various breeds, resulting in an ever-growing harem flush with eroticism and attraction.\n\nUnfortunately for him and the ladies, sexual interactions between species is forbidden by the Interspecies Exchange Act! The only loophole is through an experimental marriage provision. Kimihito's life becomes fraught with an abundance of creature-specific caveats and sensitive interspecies law as the passionate, affectionate, and lusty women hound his every move, seeking his romantic and sexual affections. With new species often appearing and events materializing out of thin air, where Kimihito and his harem go is anyone's guess!\n\n[Written by MAL Rewrite]",
+  "mean": 6.95,
+  "rank": 4512,
+  "popularity": 260,
+  "num_list_users": 749278,
+  "num_scoring_users": 430316,
+  "nsfw": "white",
+  "created_at": "2015-03-11T18:13:40+00:00",
+  "updated_at": "2022-04-18T01:33:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

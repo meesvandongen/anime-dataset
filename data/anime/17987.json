@@ -1,0 +1,47 @@
+{
+  "id": 17987,
+  "title": "Kerokero Keroppi no Robin Hood",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1681/112477.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1681/112477l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty and Friends: Keroppi in Robin Hood",
+      "Keroppi and Friends: Robin Hood"
+    ],
+    "en": "Keroppi in Robin Hood",
+    "ja": "けろけろけろっぴのロビンフッド"
+  },
+  "start_date": "1994-01-21",
+  "end_date": "1994-01-21",
+  "synopsis": "Keroppi re-creates the story of Robin Hood.",
+  "mean": 5.76,
+  "rank": 10613,
+  "popularity": 15203,
+  "num_list_users": 600,
+  "num_scoring_users": 199,
+  "nsfw": "white",
+  "created_at": "2013-03-24T16:07:25+00:00",
+  "updated_at": "2023-07-17T11:31:30+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "winter"
+  },
+  "average_episode_duration": 1798,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 958,
+  "title": "Heat Guy J",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/76288.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/76288l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Habitat Ground Jewdo",
+      "Heat Guy Jay",
+      "HeatGuy-J"
+    ],
+    "en": "HeatGuy J",
+    "ja": "ヒートガイジェイ"
+  },
+  "start_date": "2002-10-02",
+  "end_date": "2003-03-26",
+  "synopsis": "In the city of Judoh, Claire Leonelli has inherited leadership of the Mafia group \"Vampire\" following the death of his father. To keep Claire's and other criminal activities in check, the city's Bureau of Urban Safety has Special Services Division operative Daisuke Aurora and the super android codenamed \"J\" (whose identity is apparently kept in secrecy, as androids are banned in the city). With both of them around, crime now has little room to breathe in Judoh.\n\n(Source: ANN)",
+  "mean": 7.13,
+  "rank": 3657,
+  "popularity": 4948,
+  "num_list_users": 19141,
+  "num_scoring_users": 6802,
+  "nsfw": "white",
+  "created_at": "2006-05-07T06:51:14+00:00",
+  "updated_at": "2023-10-16T06:15:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2002,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:50"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

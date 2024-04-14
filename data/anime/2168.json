@@ -1,0 +1,66 @@
+{
+  "id": 2168,
+  "title": "Sakura Taisen: New York",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/2328.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/2328l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sakura Wars: New York",
+      "Sakura Taisen: New York NY",
+      "Sakura Wars OVA 5"
+    ],
+    "en": "",
+    "ja": "サクラ大戦 ニューヨーク・紐育"
+  },
+  "start_date": "2007-04-04",
+  "end_date": "2007-08-01",
+  "synopsis": "New York City, the late 1920s. The battle with Nobunaga is over, the city restored to peace...until the owner of Little Lip Theater informs Shinjiro... \"This time, the leading lady will be...you.\" Thus Shinjiro, disguised as the actress Petitmint, is forced into the role of \"Cleopatra.\" The Star Division members set out to persuade a reluctant Shinjiro, beginning a chase across the five boroughs. Meanwhile, a dark-skinned youth and his servant have appeared unexpectedly in the midst of the flourishing city. His eyes, concealing a silent wrath, are fixed upon nothing less than the Statue of Liberty. Now Shinjiro and company must protect this city of hopes and dreams from a new menace while safely raising the curtain on a new show.\n\n(Source: ANN)",
+  "mean": 6.29,
+  "rank": 8118,
+  "popularity": 9572,
+  "num_list_users": 3415,
+  "num_scoring_users": 1023,
+  "nsfw": "white",
+  "created_at": "2007-03-19T18:30:07+00:00",
+  "updated_at": "2022-11-23T21:50:01+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1454,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

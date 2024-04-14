@@ -1,0 +1,62 @@
+{
+  "id": 1117,
+  "title": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/41801.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/41801l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Power of One",
+      "Gekijouban Pocket Monsters: Revelation Lugia",
+      "Pokémon Movie 2"
+    ],
+    "en": "Pokémon: The Movie 2000",
+    "ja": "ポケットモンスター 幻のポケモンルギア爆誕"
+  },
+  "start_date": "1999-07-17",
+  "end_date": "1999-07-17",
+  "synopsis": "An ancient prophecy tells of a day when the titans of ice, lightning, and fire are disturbed. When this occurs, Lugia, the guardian of the sea, will rise up and restore harmony. Enchanted by the words of the prophecy, Gelardan, a Pokémon collector, sets out on his airship with a dreadful plan to capture Lugia by going after these three titans. \n\nAfter Gelardan makes his move, drastic climate change begins to take place, as terrible storms start popping up all over the globe. One such storm causes the ship carrying Pokémon trainers Satoshi, Kasumi, and Kenji to drift off course and land on Shamouti Island. Upon arriving, Satoshi is told of the ancient prophecy, and of his destiny as the chosen one who will help Lugia restore balance to the world. \n\nWith the fate of the world in his hands, Satoshi must summon the courage to face the chaos that threatens to tear everything apart and stop Gelardan.\n\n[Written by MAL Rewrite]",
+  "mean": 7.34,
+  "rank": 2551,
+  "popularity": 1245,
+  "num_list_users": 191039,
+  "num_scoring_users": 124896,
+  "nsfw": "white",
+  "created_at": "2006-06-21T08:28:39+00:00",
+  "updated_at": "2024-04-05T19:59:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 4840,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

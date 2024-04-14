@@ -1,0 +1,63 @@
+{
+  "id": 8150,
+  "title": "Gegege no Kitarou: Chisougan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/84231.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/84231l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "GeGeGe no Kitaro movie #2: The Geomancer's Eye"
+    ],
+    "en": "Spooky Kitaro: The All Seeing Eye",
+    "ja": "ゲゲゲの鬼太郎 地相眼"
+  },
+  "start_date": "1980-07-12",
+  "end_date": "1980-07-12",
+  "synopsis": "An abbreviated 12 minute version of episode 37 from the 1971 TV anime. This was shown as part of the summer 1980 Toei Manga Matsuri and uses entirely recycled footage.\n\n(Source: TSHS)",
+  "mean": 6,
+  "rank": 9575,
+  "popularity": 13006,
+  "num_list_users": 1116,
+  "num_scoring_users": 358,
+  "nsfw": "white",
+  "created_at": "2010-02-12T15:58:20+00:00",
+  "updated_at": "2017-05-14T19:05:53+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1980,
+    "season": "summer"
+  },
+  "average_episode_duration": 720,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

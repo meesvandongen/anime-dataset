@@ -1,0 +1,75 @@
+{
+  "id": 1611,
+  "title": "Galerians: Rion",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/38577.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/38577l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Galerians: Rion (2003)"
+    ],
+    "en": "",
+    "ja": "ガレリアンズ：リオン"
+  },
+  "start_date": "2002-04-24",
+  "end_date": "2002-04-24",
+  "synopsis": "Six years have passed since Rion discovered his own identity as an artificial being, yet succeeded in destroying the genocidal Mother Computer, Dorothy, before perishing himself. Now reactivated by Lilia, Rion awakens to find that Dorothy managed to execute one final catastrophic program, rendering a new evil crew to finish her goal of human annihilation. It is a fully 3D CGI animated OVA based on the hit PlayStation game, called Galerians, released in August, 1999.\n\n(Source: AniDB)",
+  "mean": 5.34,
+  "rank": 12042,
+  "popularity": 9446,
+  "num_list_users": 3555,
+  "num_scoring_users": 1438,
+  "nsfw": "white",
+  "created_at": "2006-10-25T17:44:07+00:00",
+  "updated_at": "2023-06-04T18:20:59+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2002,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 1457,
+  "rating": "r",
+  "studios": []
+}

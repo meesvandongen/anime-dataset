@@ -1,0 +1,39 @@
+{
+  "id": 35723,
+  "title": "Asuka: Nihon no Rekishi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/86239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/86239l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ASUKA -日本の歴史-"
+  },
+  "start_date": "1991-04-12",
+  "end_date": "1992-03-16",
+  "synopsis": "",
+  "rank": 18270,
+  "popularity": 17427,
+  "num_list_users": 378,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2017-06-11T18:04:29+00:00",
+  "updated_at": "2024-01-04T21:01:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": []
+}

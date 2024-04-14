@@ -1,0 +1,53 @@
+{
+  "id": 11087,
+  "title": "Awake",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1822/116720.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1822/116720l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "AWAKE"
+  },
+  "start_date": "1984-08-16",
+  "end_date": "1987",
+  "synopsis": "The first episode served as the opening animation for 1984's SciFi convention named Uru Matsuri III (ウル祭Ⅲ) and it follows the style of the Daicon openings. The video consists of two primary fixations of the Japanese otaku culture in the 80s - scifi and lolis. The 2nd episode is only known to have been released in 1987. \n\n(Source: AniDB)",
+  "mean": 5.08,
+  "rank": 12559,
+  "popularity": 12961,
+  "num_list_users": 1129,
+  "num_scoring_users": 465,
+  "nsfw": "white",
+  "created_at": "2011-07-28T21:11:34+00:00",
+  "updated_at": "2021-09-11T04:34:04+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "r+",
+  "studios": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 4439,
+  "title": "Kurenai Sanshirou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1445/134584.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1445/134584l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Judo Boy",
+    "ja": "紅三四郎"
+  },
+  "start_date": "1969-04-02",
+  "end_date": "1969-09-24",
+  "synopsis": "Young Sanshiro Kurenai is the proud heir of a judo dojo. One day, he finds his beloved father dead and a glass eye not too far from the corpse. Ready to avenge his father and take his honour back, Sanshiro and his friend Ken start searching for the mysterious one-eyed murderer...\n\n(Source: ANN)",
+  "mean": 6.43,
+  "rank": 7270,
+  "popularity": 10760,
+  "num_list_users": 2327,
+  "num_scoring_users": 657,
+  "nsfw": "white",
+  "created_at": "2008-04-30T00:11:51+00:00",
+  "updated_at": "2022-11-06T09:27:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1969,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

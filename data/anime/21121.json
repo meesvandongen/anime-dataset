@@ -1,0 +1,45 @@
+{
+  "id": 21121,
+  "title": "Heart Cocktail Again",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/55753.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/55753l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ハートカクテルアゲイン"
+  },
+  "start_date": "2003-10-22",
+  "end_date": "2003-10-22",
+  "synopsis": "An OVA produced to celebrate the 20th anniversary of Watase Seizou's Heart Cocktail manga.\n\n(Source: AniDB)",
+  "mean": 6.28,
+  "rank": 8189,
+  "popularity": 14732,
+  "num_list_users": 677,
+  "num_scoring_users": 172,
+  "nsfw": "white",
+  "created_at": "2013-11-03T15:07:34+00:00",
+  "updated_at": "2022-03-23T09:21:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 2460,
+  "rating": "pg_13",
+  "studios": []
+}

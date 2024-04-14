@@ -1,0 +1,58 @@
+{
+  "id": 2761,
+  "title": "Densetsu Kyojin Ideon: Hatsudou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1146/91266.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1146/91266l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Ideon: Be Invoked",
+    "ja": "伝説巨神イデオン 発動篇"
+  },
+  "start_date": "1982-07-10",
+  "end_date": "1982-07-10",
+  "synopsis": "Pushed out to the far reaches of the galaxy, the crew of the Solo Ship faces impossible odds of survival. With the Earth destroyed and the remnants of the Buff Clan pushing them to their limit, the Ideon shows as the last line of defense for the battered remains of humanity. \n\nAs the tensions of their last stand rack up on their minds, Captain Bes Jordan and pilot Cosmo Yuuki race against the clock to protect their final opportunity of survival, even as desperation eats away at the minds of their loved ones. Using any weapons left at their disposal, the crew desperately fight on to protect themselves in the cold clutches of space, punished with a final duel against Harulu Ajiba, who is now desperate to reclaim the honor lost in her father's eyes.\n\n[Written by MAL Rewrite]",
+  "mean": 7.9,
+  "rank": 784,
+  "popularity": 6299,
+  "num_list_users": 10240,
+  "num_scoring_users": 3726,
+  "nsfw": "white",
+  "created_at": "2007-07-02T05:11:51+00:00",
+  "updated_at": "2022-04-12T16:04:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1982,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5911,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

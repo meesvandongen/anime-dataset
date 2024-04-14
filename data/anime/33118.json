@@ -1,0 +1,56 @@
+{
+  "id": 33118,
+  "title": "Kuma Miko Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/79557.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/79557l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Girl meets Bear Specials"
+    ],
+    "en": "",
+    "ja": "くまみこ"
+  },
+  "start_date": "2016-06-24",
+  "end_date": "2016-08-24",
+  "synopsis": "Special episodes included in the Blu-ray and DVD boxes of Kuma Miko.",
+  "mean": 6.53,
+  "rank": 6719,
+  "popularity": 7179,
+  "num_list_users": 7486,
+  "num_scoring_users": 2789,
+  "nsfw": "white",
+  "created_at": "2016-04-04T07:29:20+00:00",
+  "updated_at": "2020-09-23T12:18:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 903,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    },
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

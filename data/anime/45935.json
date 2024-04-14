@@ -1,0 +1,47 @@
+{
+  "id": 45935,
+  "title": "Sirotsumekusa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1592/115525.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1592/115525l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "SiroMovie"
+    ],
+    "en": "",
+    "ja": "白爪草"
+  },
+  "start_date": "2020-09-19",
+  "end_date": "2020-09-19",
+  "synopsis": "Ao Sirotubaki, who works at \"Hanagumi\", was living a normal and quiet life as a flower shop owner. However, her twin sister, Beni Sirotubaki, contacts Ao for the first time in six years. What happened to the sisters six years ago, and what do the two reunited talk about? The lives of the sisters begin to move greatly as their feelings intermingle. A shocking one-situation suspense movie developed in the world's first all-cast VTuber!!\n\n(Source: Humax Cinema)",
+  "rank": 13501,
+  "popularity": 18640,
+  "num_list_users": 292,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2021-01-11T18:22:04+00:00",
+  "updated_at": "2021-06-05T09:54:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 4320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 134,
+      "name": "HoriPro"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 34962,
+  "title": "Digimon Adventure tri. 5: Kyousei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1743/93826.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1743/93826l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Digimon tri. 5"
+    ],
+    "en": "Digimon Adventure tri. Coexistence",
+    "ja": "デジモンアドベンチャーtri.（トライ）第５章「共生」"
+  },
+  "start_date": "2017-09-30",
+  "end_date": "2017-09-30",
+  "synopsis": "Much to the horror of Meiko Mochizuki, her Digimon partner Meicoomon is forced to evolve into Meicrackmon and falls under an evil influence in the process. As Meicrackmon disappears to wreak havoc elsewhere, it seems that the Digital World itself starts to reject the presence of Meiko and the other Chosen Children. While evading various enemies who come after them, the group attempts to find their way back home.\n\nIn the human world, a messenger from the mysterious entity Homeostasis visits both Meiko's father and Daigo Nishijima of the Incorporated Administrative Agency to discuss Meicoomon's origins. The messenger informs the two that Homeostasis plans to eliminate the digital monster. By doing so, they hope to prevent further Digimon from materializing in the human realm—regardless of the Chosen Children's feelings on the matter.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.16,
+  "rank": 3491,
+  "popularity": 3074,
+  "num_list_users": 51052,
+  "num_scoring_users": 26600,
+  "nsfw": "white",
+  "created_at": "2017-02-25T09:01:24+00:00",
+  "updated_at": "2022-06-12T09:11:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5774,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

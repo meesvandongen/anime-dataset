@@ -1,0 +1,57 @@
+{
+  "id": 51013,
+  "title": "A Ripple in Time",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1360/120922.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1360/120922l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Daniel Arsham × Pokémon",
+      "Toki no Hamon"
+    ],
+    "en": "",
+    "ja": "A Ripple in Time / 時の波紋"
+  },
+  "start_date": "2022-02-12",
+  "end_date": "2022-02-12",
+  "synopsis": "Satoshi and Pikachu were having a Pokemon battle with a certain trainer. In the midst of an incandescent battle, he is suddenly surrounded by a large light and is blown to a strange place. What Satoshi and his friends see after chasing Celebi, the only clue to return to the original place ...!?\n\n(Source: YouTube)",
+  "mean": 6.15,
+  "rank": 8791,
+  "popularity": 11962,
+  "num_list_users": 1546,
+  "num_scoring_users": 731,
+  "nsfw": "white",
+  "created_at": "2022-02-13T11:14:56+00:00",
+  "updated_at": "2022-09-14T07:38:25+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 381,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

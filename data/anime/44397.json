@@ -1,0 +1,51 @@
+{
+  "id": 44397,
+  "title": "Shen Shou Jin Gang: Qinglong Zaixian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1223/123096.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1223/123096l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Godbeast Megazord: Return of Green Dragon",
+    "ja": "神兽金刚之青龙再现"
+  },
+  "start_date": "2016-09-15",
+  "synopsis": "",
+  "rank": 17903,
+  "popularity": 22207,
+  "num_list_users": 110,
+  "num_scoring_users": 23,
+  "nsfw": "white",
+  "created_at": "2020-12-07T09:56:41+00:00",
+  "updated_at": "2022-04-20T14:30:38+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5220,
+  "rating": "g",
+  "studios": []
+}

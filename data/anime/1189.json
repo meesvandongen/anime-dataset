@@ -1,0 +1,72 @@
+{
+  "id": 1189,
+  "title": "Eden's Bowy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1770/100142.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1770/100142l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "EDENsBOwY"
+    ],
+    "en": "",
+    "ja": "エデンズ　ボゥイ"
+  },
+  "start_date": "1999-04-06",
+  "end_date": "1999-09-24",
+  "synopsis": "Yorn gazes up at two massive cities floating in the sky and dreams of discovering their mysteries. Without warning, those mysteries come looking for him. Edenic assassins murder his father and Yorn is next on the hit list. A nameless old man and a mysterious young girl help Yorn on his quest to find his long-lost mother and the truth. Known as the God Hunter, Yorn leads a race against the dark designs of the technological overlords.",
+  "mean": 6.62,
+  "rank": 6197,
+  "popularity": 7423,
+  "num_list_users": 6883,
+  "num_scoring_users": 2564,
+  "nsfw": "white",
+  "created_at": "2006-07-06T17:52:41+00:00",
+  "updated_at": "2022-11-17T07:00:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

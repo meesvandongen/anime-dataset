@@ -1,0 +1,39 @@
+{
+  "id": 53101,
+  "title": "Inside Night Looper",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1796/128187.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1796/128187l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "インサイド・ナイトルーパー"
+  },
+  "start_date": "2020-08-23",
+  "end_date": "2020-08-23",
+  "synopsis": "Music video for the song Inside Night Looper by Whale Don't Sleep.",
+  "popularity": 21472,
+  "num_list_users": 138,
+  "num_scoring_users": 69,
+  "nsfw": "white",
+  "created_at": "2022-09-20T19:06:14+00:00",
+  "updated_at": "2022-09-21T07:16:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": 15565,
+  "title": "Maken-Ki! Two",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/58191.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/58191l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maken-Ki! Dai 2-ki",
+      "Maken-Ki! 2",
+      "Maken-Ki! Second Season",
+      "Maken-Ki! 2nd Season"
+    ],
+    "en": "Maken-Ki! Two",
+    "ja": "マケン姫っ！通"
+  },
+  "start_date": "2014-01-16",
+  "end_date": "2014-03-20",
+  "synopsis": "Takeru continues his education at Tenbi Academy as part of the newly formed Security Committee. As a team with the other members, they battle unscrupulous individuals who use their Maken for evil purposes. In the meantime, his libido and the conflicting romantic interests of the girls surrounding him complicate matters considerably.\n\n(Source: ANN)\n",
+  "mean": 6.14,
+  "rank": 8870,
+  "popularity": 1484,
+  "num_list_users": 156672,
+  "num_scoring_users": 71167,
+  "nsfw": "gray",
+  "created_at": "2012-09-17T03:22:07+00:00",
+  "updated_at": "2022-11-17T06:58:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

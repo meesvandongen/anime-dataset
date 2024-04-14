@@ -1,0 +1,58 @@
+{
+  "id": 10852,
+  "title": "Game Tengoku: The Game Paradise!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/29973.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/29973l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Game Paradise!",
+    "ja": "ゲーム天国 The Game Paradise!"
+  },
+  "start_date": "1997-06-06",
+  "end_date": "1997-06-06",
+  "synopsis": "Game Tengoku OVA which came with the limited edition version of the Sega Saturn video game.",
+  "mean": 5.57,
+  "rank": 11371,
+  "popularity": 14878,
+  "num_list_users": 653,
+  "num_scoring_users": 178,
+  "nsfw": "white",
+  "created_at": "2011-06-22T14:30:08+00:00",
+  "updated_at": "2021-02-01T00:19:33+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 950,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 39,
+      "name": "Daume"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 30290,
+  "title": "Fw:Hamatora",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/76832.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/76832l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Forward:Hamatora",
+      "Hamatora Movie"
+    ],
+    "en": "",
+    "ja": "Fw：ハマトラ"
+  },
+  "start_date": "2015-11-14",
+  "end_date": "2015-11-14",
+  "synopsis": "Summary movie of Hamatora The Animation and Re:␣Hamatora.",
+  "mean": 6.98,
+  "rank": 4369,
+  "popularity": 6629,
+  "num_list_users": 9089,
+  "num_scoring_users": 1610,
+  "nsfw": "white",
+  "created_at": "2015-03-08T09:50:03+00:00",
+  "updated_at": "2021-08-24T04:16:30+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 4080,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

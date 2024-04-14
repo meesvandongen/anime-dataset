@@ -1,0 +1,68 @@
+{
+  "id": 2259,
+  "title": "Dr. Rin ni Kiitemite!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1279/96440.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1279/96440l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ask Dr. Rin"
+    ],
+    "en": "",
+    "ja": "Dr.リンにきいてみて！"
+  },
+  "start_date": "2001-03-05",
+  "end_date": "2002-02-25",
+  "synopsis": "Kanzaki Meirin, a junior high school student, posseses fusui power which can drive away evil spirits away whenever they appeared. She is in fact, the fortune teller Dr. Rin. She is in love with her best friend, soccer club member, Yuuki Asuka. However, Yuuki does not like fortune-telling and superstitious things.\n\n(Source: ANN)",
+  "mean": 6.78,
+  "rank": 5298,
+  "popularity": 8600,
+  "num_list_users": 4766,
+  "num_scoring_users": 1219,
+  "nsfw": "white",
+  "created_at": "2007-04-10T20:53:07+00:00",
+  "updated_at": "2021-09-26T06:12:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 126,
+      "name": "Studio Comet"
+    }
+  ]
+}

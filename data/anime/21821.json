@@ -1,0 +1,58 @@
+{
+  "id": 21821,
+  "title": "Fuuun Ishin Dai☆Shogun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/60333.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/60333l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dai-Shogun: Great Revolution",
+    "ja": "風雲維新ダイ☆ショーグン"
+  },
+  "start_date": "2014-04-10",
+  "end_date": "2014-06-26",
+  "synopsis": "In the late Edo period, Japan had experienced an unprecedented crisis by Kurofune (Black Ships), the ships from foreign countries. But a giant robot called Onigami, which has existed since ancient time, dispelled the Kurofune ships and the exclusion of foreigners was accomplished. The story begins in Japan where Meiji restoration in 1868 didn't happen. The tagline says, \"I can be the greatest man in the world, because I am a virgin!!\"\n\n(Source: Crunchyroll)",
+  "mean": 5.68,
+  "rank": 10973,
+  "popularity": 4239,
+  "num_list_users": 27194,
+  "num_scoring_users": 9429,
+  "nsfw": "white",
+  "created_at": "2013-12-27T16:40:09+00:00",
+  "updated_at": "2022-03-06T13:08:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    },
+    {
+      "id": 179,
+      "name": "A.C.G.T."
+    }
+  ]
+}

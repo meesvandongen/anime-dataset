@@ -1,0 +1,43 @@
+{
+  "id": 34997,
+  "title": "Ao no Strada",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/84500.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/84500l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Strada with Blu-ray"
+    ],
+    "en": "",
+    "ja": "青のストラーダ"
+  },
+  "start_date": "2017-02-27",
+  "end_date": "2017-03-13",
+  "synopsis": "Promotional anime for Panasonic CN-F1D Strada. ",
+  "mean": 5.29,
+  "rank": 12159,
+  "popularity": 14735,
+  "num_list_users": 675,
+  "num_scoring_users": 183,
+  "nsfw": "white",
+  "created_at": "2017-03-02T10:15:32+00:00",
+  "updated_at": "2019-07-07T04:31:47+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 210,
+  "rating": "g",
+  "studios": []
+}

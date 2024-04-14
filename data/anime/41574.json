@@ -1,0 +1,60 @@
+{
+  "id": 41574,
+  "title": "Guraburu!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1870/119993.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1870/119993l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Grablu!"
+    ],
+    "en": "Grand Blues!",
+    "ja": "ぐらぶるっ！"
+  },
+  "start_date": "2020-10-08",
+  "end_date": "2020-12-24",
+  "synopsis": "Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.",
+  "mean": 5.79,
+  "rank": 10492,
+  "popularity": 5490,
+  "num_list_users": 14440,
+  "num_scoring_users": 4400,
+  "nsfw": "white",
+  "created_at": "2020-04-01T16:04:29+00:00",
+  "updated_at": "2022-03-25T17:49:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:54"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1396,
+      "name": "W-Toon Studio"
+    },
+    {
+      "id": 1673,
+      "name": "DMM.futureworks"
+    }
+  ]
+}

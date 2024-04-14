@@ -1,0 +1,65 @@
+{
+  "id": 1375,
+  "title": "Watashi no Ashinaga Ojisan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1969/98819.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1969/98819l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai Meisaku Gekijou",
+      "Daddy-Long-Legs"
+    ],
+    "en": "My Daddy Long Legs",
+    "ja": "私のあしながおじさん"
+  },
+  "start_date": "1990-01-04",
+  "end_date": "1990-12-23",
+  "synopsis": "Daddy Long Legs is based on the novel of the same name by Jean Webster. It chronicles the adventures of Judy Abbott, an orphan in New York. During a meeting for the superintendent, with other important and rich people in attendance, a scholarship is offered to Judy by a mysterious benefactor. Catching only a glimpse of his tall shadow as he leaves, Judy calls him \"Daddy Long Legs\" and writes him letters every month as per his request. While studying at the Lincoln Memorial school, she makes many friends and learns about a world she never knew about before. \n\n(Source: ANN)",
+  "mean": 7.69,
+  "rank": 1252,
+  "popularity": 5175,
+  "num_list_users": 16926,
+  "num_scoring_users": 6561,
+  "nsfw": "white",
+  "created_at": "2006-08-18T03:12:59+00:00",
+  "updated_at": "2023-12-27T06:52:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 1990,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "19:30"
+  },
+  "source": "novel",
+  "average_episode_duration": 1410,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

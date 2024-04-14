@@ -1,0 +1,66 @@
+{
+  "id": 1967,
+  "title": "Kidou Senshi Z Gundam I: Hoshi wo Tsugu Mono",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/36701.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/36701l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars",
+    "ja": "機動戦士Zガンダム -星を継ぐ者-"
+  },
+  "start_date": "2005-05-28",
+  "end_date": "2005-05-28",
+  "synopsis": "Digitally remastered compilation movies for the Zeta Gundam TV series with some new footage. Part of Gundam's 25th Anniversary celebration. \n\n(Source: AniDB)",
+  "mean": 7.09,
+  "rank": 3831,
+  "popularity": 5702,
+  "num_list_users": 13197,
+  "num_scoring_users": 6324,
+  "nsfw": "white",
+  "created_at": "2007-02-20T18:55:13+00:00",
+  "updated_at": "2023-01-26T04:31:51+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5640,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

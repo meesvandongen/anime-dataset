@@ -1,0 +1,53 @@
+{
+  "id": 3818,
+  "title": "Soratobu Toshi Keikaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/6815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/6815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Project: City Flying in the Sky",
+    "ja": "空飛ぶ都市計画"
+  },
+  "start_date": "2005-09-10",
+  "end_date": "2005-09-10",
+  "synopsis": "Third animated music video for music by capsule based around their NEXUS-2060 concept—a space station resort in the year 2060. Produced by Ghibli offshoot Studio Kajino, with MOMOSE Yoshiyuki (百瀬ヨシユキ) directing. The song was released on September 7, 2005 as Side A of a single titled Aeropolis, and the animation was first shown on September 10, 2005 as a double bill with the live-action Touch movie.",
+  "mean": 5.97,
+  "popularity": 11099,
+  "num_list_users": 2087,
+  "num_scoring_users": 1250,
+  "nsfw": "white",
+  "created_at": "2008-01-30T20:44:07+00:00",
+  "updated_at": "2019-06-02T00:28:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 272,
+      "name": "Studio Kajino"
+    }
+  ]
+}

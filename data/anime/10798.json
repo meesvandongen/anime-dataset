@@ -1,0 +1,66 @@
+{
+  "id": 10798,
+  "title": "Un-Go",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1823/136763.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1823/136763l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Un-Go",
+    "ja": "UN-GO アン ゴ"
+  },
+  "start_date": "2011-10-14",
+  "end_date": "2011-12-23",
+  "synopsis": "In a dystopian future, detective Shinjuurou Yuuki—known by some as the \"Defeated Detective\"—solves mysteries throughout Tokyo. Aided by his odd associate Inga, Shinjuurou's insight and ingenuity in cracking cases, particularly homicides, lead to numerous mysteries solved and culprits caught. However, his partner seems to have some other, more sinister intentions for the people they catch, and the truth of the assistant's identity and motivation is shrouded in secrecy.\n\n[Written by MAL Rewrite]",
+  "mean": 7.33,
+  "rank": 2588,
+  "popularity": 1518,
+  "num_list_users": 152003,
+  "num_scoring_users": 58566,
+  "nsfw": "white",
+  "created_at": "2011-06-09T20:36:21+00:00",
+  "updated_at": "2023-03-13T20:18:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:45"
+  },
+  "source": "novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

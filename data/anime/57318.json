@@ -1,0 +1,45 @@
+{
+  "id": 57318,
+  "title": "Kyoushitsu Oowarai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1653/139929.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1653/139929l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "教室大笑い"
+  },
+  "start_date": "1989-10-03",
+  "end_date": "1989-10-03",
+  "synopsis": "Music video for the song Kyoushitsu Oowarai by Miyuki Ichijou and the Suginami Jidou Gasshoudan, that was featured on NHK's Minna no Uta program.",
+  "popularity": 26219,
+  "num_list_users": 55,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2023-11-26T06:56:13+00:00",
+  "updated_at": "2023-11-26T06:56:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

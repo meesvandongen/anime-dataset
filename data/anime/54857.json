@@ -1,0 +1,67 @@
+{
+  "id": 54857,
+  "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1079/141646.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1079/141646l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Re: Life in a different world from zero 3rd Season",
+      "ReZero 3rd Season",
+      "Re:Zero - Starting Life in Another World 3"
+    ],
+    "en": "Re:ZERO -Starting Life in Another World- Season 3",
+    "ja": "Re：ゼロから始める異世界生活"
+  },
+  "start_date": "2024-10",
+  "synopsis": "3rd Season of Re:Zero kara Hajimeru Isekai Seikatsu",
+  "popularity": 1609,
+  "num_list_users": 140879,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2023-03-25T05:50:40+00:00",
+  "updated_at": "2024-03-24T02:10:22+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

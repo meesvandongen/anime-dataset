@@ -1,0 +1,53 @@
+{
+  "id": 1154,
+  "title": "Mother: Saigo no Shoujo Eve",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/68115.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/68115l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "E.Y.E.S. of Mars",
+    "ja": "MOTHER 最後の少女イヴ"
+  },
+  "start_date": "1993-12-26",
+  "end_date": "1993-12-26",
+  "synopsis": "The future is bleak and urbanized. A government super-power holds the keys to all the doors. Hope lies in a secret organization who kidnaps \"gifted\" children and teaches them to wield their ability to view the life energy of all living things. A young girl befriends a sempai, a street rat comes to rescue her, and two parents wait helplessly to see their daughter one last time...\n\n(Source: AniDB)",
+  "mean": 5.5,
+  "rank": 11582,
+  "popularity": 11861,
+  "num_list_users": 1599,
+  "num_scoring_users": 553,
+  "nsfw": "white",
+  "created_at": "2006-07-06T01:04:21+00:00",
+  "updated_at": "2021-02-16T20:10:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "average_episode_duration": 4529,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

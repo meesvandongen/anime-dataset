@@ -1,0 +1,43 @@
+{
+  "id": 55154,
+  "title": "Giddy Up",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1431/135617.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1431/135617l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Giddy Up",
+    "ja": "Giddy Up"
+  },
+  "start_date": "2018-04-06",
+  "end_date": "2018-04-06",
+  "synopsis": "Lyric video for THE BOYZ's song Giddy Up.",
+  "popularity": 21900,
+  "num_list_users": 120,
+  "num_scoring_users": 68,
+  "nsfw": "white",
+  "created_at": "2023-04-28T15:18:25+00:00",
+  "updated_at": "2023-04-29T06:17:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": []
+}

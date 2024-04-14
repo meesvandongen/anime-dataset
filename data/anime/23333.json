@@ -1,0 +1,68 @@
+{
+  "id": 23333,
+  "title": "DRAMAtical Murder",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/75642.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/75642l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DMMd"
+    ],
+    "en": "DRAMAtical Murder",
+    "ja": "ドラマティカル マーダー"
+  },
+  "start_date": "2014-07-07",
+  "end_date": "2014-09-22",
+  "synopsis": "Some time ago, the influential and powerful Toue Inc. bought the island of Midorijima, Japan, with the plans of building Platinum Jail—a luxurious utopian facility. Those who are lucky enough to call it home are the wealthiest citizens in the world. The original residents of the island, however, were forced to relocate to the Old Residential District; and after the completion of Platinum Jail, they were completely abandoned.\n \n\"Rib\" and \"Rhyme\" are the most common games played on the island. Rib is an old school game in which gangs engage in turf wars against each other, while Rhyme is a technologically advanced game wherein participants fight in a virtual reality. To be able to play Rhyme, you must have an \"All-Mate\" (an AI that typically looks like a pet), and the match must be mediated by an \"Usui.\"\n\nAoba Seragaki has no interest in playing either game; he prefers to live a peaceful life with his grandmother and All-Mate, Ren. However, after getting forcefully dragged into a dangerous Rhyme match and hearing rumors about disappearing Rib players, all of Aoba's hopes of living a normal life are completely abolished.\n\n[Written by MAL Rewrite]",
+  "mean": 6.05,
+  "rank": 9345,
+  "popularity": 1404,
+  "num_list_users": 167093,
+  "num_scoring_users": 73609,
+  "nsfw": "white",
+  "created_at": "2014-03-22T18:26:37+00:00",
+  "updated_at": "2023-12-22T03:12:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 951,
+      "name": "NAZ"
+    }
+  ]
+}

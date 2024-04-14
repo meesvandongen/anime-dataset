@@ -1,0 +1,68 @@
+{
+  "id": 37458,
+  "title": "Kyoto Teramachi Sanjou no Holmes",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1304/92930.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1304/92930l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Holmes at Kyoto Teramachi Sanjo"
+    ],
+    "en": "Holmes of Kyoto",
+    "ja": "京都寺町三条のホームズ"
+  },
+  "start_date": "2018-07-10",
+  "end_date": "2018-09-25",
+  "synopsis": "High schooler Aoi Mashiro moved from home six months ago, but her recent breakup has made her want to return to tell off her ex-boyfriend. In need of money for a train ticket, she steals two hanging scrolls from her grandfather's attic and takes them to be appraised at an antique shop in the heart of Kyoto's Teramachi Sanjou shopping district. Little does she know that a fateful encounter awaits her during this visit.\n\nUpon entering the shop, Aoi is greeted by Kiyotaka Yagashira, the owner's grandson and a graduate student at Kyoto University. Nicknamed \"Holmes\" for a pun involving his surname, as well as for his incredible deductive skills, Kiyotaka inspects the scrolls that Aoi brought with her. Based on the items she selected to sell, Kiyotaka senses that Aoi possesses great intuition not unlike his own. Seeing her potential and sympathizing with her story, Kiyotaka offers Aoi a part-time job so she can earn the required money herself.\n\nAoi and Kiyotaka begin working together soon after—not only within the antique shop, but also around town whenever the locals ask for help with their various problems. With Kiyotaka's deduction and Aoi's intuition, no case is too tough for this modern-day Holmes and Watson duo!\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.74,
+  "rank": 5540,
+  "popularity": 2690,
+  "num_list_users": 65148,
+  "num_scoring_users": 24151,
+  "nsfw": "white",
+  "created_at": "2018-03-11T15:23:15+00:00",
+  "updated_at": "2022-10-18T02:57:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "02:10"
+  },
+  "source": "novel",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 541,
+      "name": "Seven"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 237,
+  "title": "Koukyoushihen Eureka Seven",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/34443.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/34443l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Psalms of Planets Eureka Seven"
+    ],
+    "en": "Eureka Seven",
+    "ja": "交響詩篇エウレカセブン"
+  },
+  "start_date": "2005-04-17",
+  "end_date": "2006-04-02",
+  "synopsis": "In the backwater town of Bellforest lives a 14-year-old boy named Renton Thurston. He desires to leave his home behind and join the mercenary group known as Gekkostate, hoping to find some adventure to brighten up his mundane life. However, stuck between his grandfather's insistence to become a mechanic like him and the pressure of his deceased father's legacy, the only excitement Renton finds is in his pastime of riding the Trapar wave particles that are dispersed throughout the air, an activity akin to surfing.\n\nEverything changes when an unknown object crashes through Renton's garage, discovered to be a Light Finding Operation—a robot capable of riding the Trapar waves—specifically known as the Nirvash typeZERO. Its pilot is a young girl named Eureka, a member of the Gekkostate, who requests a tune-up for the Nirvash. Their meeting sparks the beginning of Renton's involvement with the Gekkostate as he takes off alongside Eureka as the co-pilot of the Nirvash.\n\n[Written by MAL Rewrite]",
+  "mean": 8.05,
+  "rank": 556,
+  "popularity": 518,
+  "num_list_users": 435378,
+  "num_scoring_users": 182498,
+  "nsfw": "white",
+  "created_at": "2005-11-13T02:35:05+00:00",
+  "updated_at": "2024-03-06T11:53:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "07:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

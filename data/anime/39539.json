@@ -1,0 +1,62 @@
+{
+  "id": 39539,
+  "title": "No Guns Life",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1531/102113.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1531/102113l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "No Guns Life",
+    "ja": "ノー・ガンズ・ライフ"
+  },
+  "start_date": "2019-10-11",
+  "end_date": "2019-12-27",
+  "synopsis": "The technology to create powerful cyborg soldiers has been released for public use by the Berühren Corporation. Those outfitted with robotic parts are known as the Extended. Juuzou Inui, one such Extended, was created as a soldier and has no memories of his former life. But now, after the war, he runs a business that takes care of Extended-related incidents around the city. \n\nRumors of a renegade Extended that kidnapped a child reach his ears; lo and behold, as Juuzo returns to his office,  a giant robotic man with a boy on his back crashes in, asking for help. While Juuzou could just turn the guy in and be done with it, something about this situation is too fishy to ignore. It seems that everyone wants hold of this kid and, whether he likes it or not, Juuzou must find out why this Extended is on the run, how it connects to the Berühren Corporation, and just how far the treachery runs in this city.\n\n[Written by MAL Rewrite]",
+  "mean": 6.86,
+  "rank": 4940,
+  "popularity": 1227,
+  "num_list_users": 194555,
+  "num_scoring_users": 75028,
+  "nsfw": "white",
+  "created_at": "2019-03-15T14:21:49+00:00",
+  "updated_at": "2022-04-14T08:00:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:28"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

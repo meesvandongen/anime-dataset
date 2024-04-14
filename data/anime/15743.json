@@ -1,0 +1,57 @@
+{
+  "id": 15743,
+  "title": "Yuugen Kaisha: Jiken File 00 - Hajimari wa Ayashiku mo Hanayaka ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/87489.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/87489l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuugen Kaisha Special",
+      "Phantom Quest Corp.: Incident File 00 - Mysterious Yet Gorgeous Prologue"
+    ],
+    "en": "",
+    "ja": "幽幻怪社 事件ファイル00 始まりは妖しくも華やかに"
+  },
+  "start_date": "1994-07-25",
+  "end_date": "1994-07-25",
+  "synopsis": "Prologue episode. The first half features main characters in their chibi forms introducing each other and explaining the premise of the show. The second half features footage of seiyuus working, talking about the show and doing some funny stuff.",
+  "mean": 5.49,
+  "rank": 11645,
+  "popularity": 13153,
+  "num_list_users": 1066,
+  "num_scoring_users": 341,
+  "nsfw": "white",
+  "created_at": "2012-10-02T21:59:48+00:00",
+  "updated_at": "2018-02-14T15:40:38+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 678,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

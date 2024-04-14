@@ -1,0 +1,43 @@
+{
+  "id": 51702,
+  "title": "Discomyu Seijin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1976/124092.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1976/124092l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Disukomyu Hoshibito",
+      "Discommu Seijin"
+    ],
+    "en": "Discommunication Alien",
+    "ja": "ディスコミュ星人"
+  },
+  "start_date": "2016-12-07",
+  "end_date": "2016-12-07",
+  "synopsis": "Official music video for the song Discommunication Alien by Akari Nanawo.",
+  "mean": 6.3,
+  "popularity": 19651,
+  "num_list_users": 235,
+  "num_scoring_users": 123,
+  "nsfw": "gray",
+  "created_at": "2022-04-26T21:25:49+00:00",
+  "updated_at": "2022-05-25T18:26:27+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 213,
+  "rating": "pg_13",
+  "studios": []
+}

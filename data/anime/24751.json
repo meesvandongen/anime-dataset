@@ -1,0 +1,62 @@
+{
+  "id": 24751,
+  "title": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/63653.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/63653l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Akuma no Riddle Special",
+      "Riddle Story of Devil Special",
+      "Akuma no Riddle Episode 13"
+    ],
+    "en": "Riddle Story of Devil: Who's the Winner?",
+    "ja": "悪魔のリドル　勝者はだれ？（抜き打ちテスト）"
+  },
+  "start_date": "2014-11-22",
+  "end_date": "2014-11-22",
+  "synopsis": "Unaired episode 13 of Akuma no Riddle released with the seventh Blu-ray/DVD volume.\n\nThe special will be previewed at a screening in Tokyo City on November 22, 2014. The BD/DVD will be released on December 17, 2014. ",
+  "mean": 6.5,
+  "rank": 6872,
+  "popularity": 3495,
+  "num_list_users": 40679,
+  "num_scoring_users": 20512,
+  "nsfw": "white",
+  "created_at": "2014-06-20T14:18:41+00:00",
+  "updated_at": "2022-03-19T05:06:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 26,
+      "name": "Girls Love"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 51,
+      "name": "Diomedéa"
+    }
+  ]
+}

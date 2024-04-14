@@ -1,0 +1,57 @@
+{
+  "id": 42923,
+  "title": "SK∞",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1549/119195.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1549/119195l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "SK Eight",
+      "Skate"
+    ],
+    "en": "SK8 the Infinity",
+    "ja": "SK∞ エスケーエイト"
+  },
+  "start_date": "2021-01-10",
+  "end_date": "2021-04-04",
+  "synopsis": "High school student Reki Kyan is passionate about one thing: skateboarding. When night falls, he heads to \"S,\" an illegal underground race inside a mine where skaters compete in highly dangerous situations. After a loss that results in his skateboard being destroyed and his arm being broken, Reki is now incapable of practicing at all.\n\nWhile working, Reki runs into his new classmate, Langa Hasegawa, a half-Canadian and half-Japanese boy with no skateboarding experience whatsoever. Langa is in desperate need of money. After they both visit \"S\" when tasked by Reki's boss, they get into trouble and are forced into a bet that requires Langa to skate in a race. However, the mysterious transfer student holds a trump card that Reki is unaware of, one which might help him win the race in the most unexpected way.\n\n[Written by MAL Rewrite]",
+  "mean": 8.02,
+  "rank": 602,
+  "popularity": 392,
+  "num_list_users": 555769,
+  "num_scoring_users": 282111,
+  "nsfw": "white",
+  "created_at": "2020-09-20T09:34:00+00:00",
+  "updated_at": "2023-01-09T09:01:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "02:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1435,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

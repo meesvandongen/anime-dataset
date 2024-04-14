@@ -1,0 +1,70 @@
+{
+  "id": 37884,
+  "title": "Golden Kamuy OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1538/124078.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1538/124078l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Golden Kamuy OAD: Showdown in Barato",
+      "Golden Kamuy OVA: Barato no Youjinbou",
+      "茨戸の用心棒"
+    ],
+    "en": "",
+    "ja": "ゴールデンカムイ OAD"
+  },
+  "start_date": "2018-09-19",
+  "end_date": "2018-09-19",
+  "synopsis": "The 7th Division's Private Hyakunosuke Ogata and former Shinsengumi Vice Commander Toshizou Hijikata find themselves on opposite sides of a gang war in Barato after hearing rumors of the Hidoro gang possessing an escaped prisoner's tattooed skin. With a lead to the hidden Ainu gold close at hand, the two gladly take up arms but a betrayal will force both sides to think twice before carelessly jumping the gun.\n\n[Written by MAL Rewrite]",
+  "mean": 7.24,
+  "rank": 3073,
+  "popularity": 4220,
+  "num_list_users": 27393,
+  "num_scoring_users": 12326,
+  "nsfw": "white",
+  "created_at": "2018-05-17T01:05:21+00:00",
+  "updated_at": "2022-11-09T21:28:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1320,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1393,
+      "name": "Geno Studio"
+    }
+  ]
+}

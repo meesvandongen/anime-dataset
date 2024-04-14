@@ -1,0 +1,54 @@
+{
+  "id": 16163,
+  "title": "Sore Ike! Anpanman: Kirakira Boshi no Namida",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/43533.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/43533l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sore Ike! Anpanman: Kirakiraboshi no Namida"
+    ],
+    "en": "Go! Anpanman: The Shining Star's Tear",
+    "ja": "それいけ!アンパンマン キラキラ星の涙"
+  },
+  "start_date": "1989-11-03",
+  "end_date": "1989-11-03",
+  "synopsis": "Anpanman helps the princess Nandananda to find the The Shining Star's Tear.",
+  "mean": 6.45,
+  "rank": 7197,
+  "popularity": 15099,
+  "num_list_users": 616,
+  "num_scoring_users": 208,
+  "nsfw": "white",
+  "created_at": "2012-11-02T01:15:31+00:00",
+  "updated_at": "2021-05-09T11:51:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "average_episode_duration": 4440,
+  "rating": "pg",
+  "studios": []
+}

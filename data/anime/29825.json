@@ -1,0 +1,53 @@
+{
+  "id": 29825,
+  "title": "Onnanoko tte.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/74190.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/74190l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "About Girls",
+      "Ribbon x Oha Suta Specials",
+      "Ribon x Oha Suta Specials"
+    ],
+    "en": "",
+    "ja": "女の子って。"
+  },
+  "start_date": "2015-02-05",
+  "end_date": "2015-02-26",
+  "synopsis": "The March issue of Shueisha's Ribon magazine announced that a television anime of Kanahei's shoujo manga Onnanoko tte. (About Girls) has been green-lit. The shorts will premiere in February and run every Thursday in the children's variety program OhaStu (Good Morning Studio).\n\nThe anime is about the many worries that girls have, such as pimples, dry skin, unwanted hair, drinking while driving, face turning red, and singing well at karaoke. The series explains matters regarding girls' bodies and minds through manga art and answers from experts.\n\n(Source: ANN)",
+  "mean": 5.48,
+  "rank": 11671,
+  "popularity": 15973,
+  "num_list_users": 505,
+  "num_scoring_users": 172,
+  "nsfw": "white",
+  "created_at": "2015-01-29T08:59:51+00:00",
+  "updated_at": "2017-01-02T08:46:28+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 54057,
+  "title": "Betsu Sekai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1825/132228.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1825/132228l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bessekai",
+      "Another World"
+    ],
+    "en": "",
+    "ja": "別世界"
+  },
+  "start_date": "2022-12-28",
+  "end_date": "2022-12-28",
+  "synopsis": "Music video for the song Betsu Sekai by Kanata Amane.",
+  "mean": 6.71,
+  "popularity": 12608,
+  "num_list_users": 1249,
+  "num_scoring_users": 556,
+  "nsfw": "white",
+  "created_at": "2023-01-01T18:23:35+00:00",
+  "updated_at": "2023-08-26T04:03:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 254,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1033,
+      "name": "Studio Colorido"
+    },
+    {
+      "id": 2300,
+      "name": "Studio Jemi"
+    },
+    {
+      "id": 2411,
+      "name": "Studio Massket"
+    }
+  ]
+}

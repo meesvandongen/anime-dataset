@@ -1,0 +1,50 @@
+{
+  "id": 1884,
+  "title": "Himesama Goyoujin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/9520.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/9520l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hime-sama Goyojin",
+      "Hime-sama Goyoujin",
+      "Princess, Be Careful!"
+    ],
+    "en": "Princess Beware",
+    "ja": "姫様ご用心"
+  },
+  "start_date": "2006-04-13",
+  "end_date": "2006-07-20",
+  "synopsis": "Himeko is supposed to be a common high school student... until she happens to obtain a crown and she becomes a princess. Since then, Nana, the true princess, follows her around to take the crown back. In addition, Leslie and Caren, the thieves, appear to rob her of the crown, and her peaceful life turns into turmoil.\n\n(Source: AnimeNfo)",
+  "mean": 6.35,
+  "rank": 7734,
+  "popularity": 10098,
+  "num_list_users": 2839,
+  "num_scoring_users": 992,
+  "nsfw": "white",
+  "created_at": "2007-01-27T00:09:02+00:00",
+  "updated_at": "2021-12-25T21:17:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 70,
+      "name": "Nomad"
+    }
+  ]
+}

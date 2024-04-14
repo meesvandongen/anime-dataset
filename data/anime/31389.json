@@ -1,0 +1,54 @@
+{
+  "id": 31389,
+  "title": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/75684.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/75684l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fate/stay night [Unlimited Blade Works] Season 2: Sunny Day",
+    "ja": "Fate/stay night [Unlimited Blade Works] 新作映像「sunny day」"
+  },
+  "start_date": "2015-10-07",
+  "end_date": "2015-10-07",
+  "synopsis": "As the Fifth Holy Grail War reaches its conclusion, Saber repeats her final duty from the previous war in order to end the vicious cycle once and for all. With the decisive blow draining her remaining mana reserves, Saber's body begins to dissipate. She utters a tearful farewell—but Rin Toosaka reaches out to her at the last moment. \n\nThe future has been changed, and a new beginning awaits.\n\n[Written by MAL Rewrite]",
+  "mean": 7.47,
+  "rank": 1966,
+  "popularity": 1898,
+  "num_list_users": 113658,
+  "num_scoring_users": 65335,
+  "nsfw": "white",
+  "created_at": "2015-08-03T22:51:59+00:00",
+  "updated_at": "2022-04-15T13:43:18+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 583,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 41105,
+  "title": "Chihayafuru 3: Ima Hitotabi no",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1014/105666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1014/105666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chihayafuru 3 Episode 15.5",
+      "Chihayafuru 3: Recap"
+    ],
+    "en": "",
+    "ja": "ちはやふる 3 十五.五首（総集編）"
+  },
+  "start_date": "2020-01-29",
+  "end_date": "2020-01-29",
+  "synopsis": "Recap of first fifteen episodes of Chihayafuru 3.",
+  "mean": 6.81,
+  "rank": 5125,
+  "popularity": 6424,
+  "num_list_users": 9799,
+  "num_scoring_users": 3304,
+  "nsfw": "white",
+  "created_at": "2020-01-21T17:11:36+00:00",
+  "updated_at": "2024-02-07T15:14:22+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1340,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

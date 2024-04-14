@@ -1,0 +1,62 @@
+{
+  "id": 39938,
+  "title": "Inu-Ou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1682/121461.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1682/121461l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Inu-Oh",
+    "ja": "犬王"
+  },
+  "start_date": "2022-05-28",
+  "end_date": "2022-05-28",
+  "synopsis": "After diving for an ancient sword in the waters where the battle of Dan-no-ura was fought and the Heike clan fell, Tomona loses both his sight and his father. Left with few options other than learning to play the biwa, Tomona gains enough skill to join a prestigious troupe of storytelling performers and takes the name \"Tomoichi.\" \n\nSoon after, Tomoichi meets a strange person who finds joy in terrorizing others with his deformed appearance, but is surprised when the sightless storyteller treats him as an equal. The pair become fast friends and begin performing together after the stranger—who chooses the name \"Inu-Ou\"—discovers that he is able to hear spirits telling forgotten tales of the Heike clan.\n\nTomoichi changes his name again to Tomoari and uses his music to promote Inu-Ou's underground dance performances, achieving incredible popularity among the masses. However, the brazen and unconventional style they develop challenges traditions that the shogunate values deeply. As the pair's fame continues to increase, they must contend with the forces of tradition that control the society around them.\n\n[Written by MAL Rewrite]",
+  "mean": 7.8,
+  "rank": 982,
+  "popularity": 4195,
+  "num_list_users": 27760,
+  "num_scoring_users": 8212,
+  "nsfw": "white",
+  "created_at": "2019-06-12T06:29:47+00:00",
+  "updated_at": "2023-04-28T05:55:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 5853,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1591,
+      "name": "Science SARU"
+    }
+  ]
+}

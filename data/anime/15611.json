@@ -1,0 +1,57 @@
+{
+  "id": 15611,
+  "title": "Cardfight!! Vanguard: Link Joker-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1229/125014.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1229/125014l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cardfight!! Vanguard Third Season",
+      "Cardfight!! Vanguard 3rd Season"
+    ],
+    "en": "Cardfight!! Vanguard Link Joker",
+    "ja": "カードファイト!! ヴァンガード リンクジョーカー編"
+  },
+  "start_date": "2013-01-13",
+  "end_date": "2014-03-02",
+  "synopsis": "A few months have passed since the VF Circuit, and Aichi is now in High School. However Aichi is in a different high school than most of his friends, a high school where the instructors focus on looking towards the future. One day Aichi admits he thinks Cardfight can be a future people can believe in, but in order to prove it Aichi must use his new deck, a deck in which Royal Paladins and Gold Paladins are combined as one force. Slowly but surely Aichi must gain friends through Cardfighting and help his new team win the newly formed high school cardfighting championships.\n\n(Source: ANN)",
+  "mean": 7.14,
+  "rank": 3586,
+  "popularity": 4546,
+  "num_list_users": 23188,
+  "num_scoring_users": 12226,
+  "nsfw": "white",
+  "created_at": "2012-09-20T20:15:48+00:00",
+  "updated_at": "2022-10-10T19:42:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 59,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "10:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

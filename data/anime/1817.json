@@ -1,0 +1,69 @@
+{
+  "id": 1817,
+  "title": "DearS: Kin no Tama desu no?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/83451.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/83451l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "DearS: A Ball Of Gold",
+      "DearS Special"
+    ],
+    "en": "DearS: Is It a Golden Ball?",
+    "ja": "金の玉ですの？"
+  },
+  "start_date": "2005-03-16",
+  "end_date": "2005-03-16",
+  "synopsis": "Miu wins the grand prize in the local shopping district raffle, which is a free pass for up to four people to Yuniataru Studio, a spa resort. She decides to take Takeya, Ren and Neneko since her grandparents couldn't attend. ",
+  "mean": 6.78,
+  "rank": 5297,
+  "popularity": 4306,
+  "num_list_users": 26413,
+  "num_scoring_users": 14448,
+  "nsfw": "white",
+  "created_at": "2007-01-04T01:50:20+00:00",
+  "updated_at": "2022-11-12T08:03:39+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1421,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 39,
+      "name": "Daume"
+    }
+  ]
+}

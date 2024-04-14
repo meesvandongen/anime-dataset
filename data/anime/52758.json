@@ -1,0 +1,46 @@
+{
+  "id": 52758,
+  "title": "Konayuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1537/127027.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1537/127027l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Powder Snow"
+    ],
+    "en": "",
+    "ja": "粉雪"
+  },
+  "start_date": "2021-02-11",
+  "end_date": "2021-02-11",
+  "synopsis": "Music video for the song Konayuki, performed by Retort. It was made to celebrate him reaching 2 million subscribers on YouTube.",
+  "popularity": 21152,
+  "num_list_users": 153,
+  "num_scoring_users": 86,
+  "nsfw": "white",
+  "created_at": "2022-08-15T17:15:56+00:00",
+  "updated_at": "2022-08-16T07:33:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 323,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1229,
+      "name": "Pie in the sky"
+    }
+  ]
+}

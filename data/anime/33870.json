@@ -1,0 +1,46 @@
+{
+  "id": 33870,
+  "title": "Kabi Usagi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/81539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/81539l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mold Rabbit",
+      "Hikouki-hen",
+      "Game Center-hen",
+      "Kaichuu-hen"
+    ],
+    "en": "",
+    "ja": "カビうさぎ"
+  },
+  "start_date": "2012-07-05",
+  "end_date": "2012-08-10",
+  "synopsis": "Shorts focusing on the cute (albeit bittersweet) lives of several rabbits with mold growing on them. They dream to spread their mold all over the world. ",
+  "mean": 5.14,
+  "rank": 12448,
+  "popularity": 18467,
+  "num_list_users": 303,
+  "num_scoring_users": 104,
+  "nsfw": "white",
+  "created_at": "2016-08-16T22:25:09+00:00",
+  "updated_at": "2019-04-21T22:01:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 33,
+  "rating": "g",
+  "studios": []
+}

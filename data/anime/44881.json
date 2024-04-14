@@ -1,0 +1,68 @@
+{
+  "id": 44881,
+  "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1424/117718.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1424/117718l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I'm standing on 1,000,000 lives. Season 2"
+    ],
+    "en": "I’m Standing on a Million Lives Season 2",
+    "ja": "100万の命の上に俺は立っている"
+  },
+  "start_date": "2021-07-10",
+  "end_date": "2021-09-25",
+  "synopsis": "Once again, the Game Master's world of quests unexpectedly pulls in Yuusuke Yotsuya and the rest of this old team. Accompanied by the newest addition, Keita Torii, the team reunites with Kahabell, still unaware of their actions' impact on this world. \n\nAfter bidding Kahabell farewell, the team sets out on their newly appointed quest—an offering of a Jiffon Buffalo at Vaikdamnia on Jiffon Island. However, as their journey to the island commences, the team shortly finds that the quest is not as simple as it initially seemed.\n\nIn fact, the island is terrorized by orcs that have made a deal with its inhabitants: instead of devouring the islanders, the orcs will be granted buffalo. With the growing shortage of buffalo, the annual Vaikdamnia festival cannot proceed. But, given the importance of the team's quest, they are left with the obvious choice—rid the island of the orcs and save the islanders.\n\n[Written by MAL Rewrite]",
+  "mean": 6.8,
+  "rank": 5187,
+  "popularity": 1444,
+  "num_list_users": 161807,
+  "num_scoring_users": 76409,
+  "nsfw": "white",
+  "created_at": "2020-12-18T11:37:49+00:00",
+  "updated_at": "2024-03-06T12:30:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1978,
+      "name": "Maho Film"
+    }
+  ]
+}

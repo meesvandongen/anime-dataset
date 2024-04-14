@@ -1,0 +1,60 @@
+{
+  "id": 33914,
+  "title": "Nineko Gelée",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/81610.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/81610l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gelee"
+    ],
+    "en": "Runnin' Away Gelée",
+    "ja": "逃猫ジュレ"
+  },
+  "start_date": "2016-10-25",
+  "end_date": "2016-10-25",
+  "synopsis": "An animation staring Gelée, an anthropomorphic cat character created by DLE.",
+  "mean": 5.13,
+  "rank": 12481,
+  "popularity": 14129,
+  "num_list_users": 816,
+  "num_scoring_users": 320,
+  "nsfw": "white",
+  "created_at": "2016-08-21T02:43:38+00:00",
+  "updated_at": "2021-09-15T03:52:41+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 389,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

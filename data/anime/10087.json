@@ -1,0 +1,58 @@
+{
+  "id": 10087,
+  "title": "Fate/Zero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1887/117644.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1887/117644l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fate/Zero",
+    "ja": "フェイト/ゼロ"
+  },
+  "start_date": "2011-10-02",
+  "end_date": "2011-12-25",
+  "synopsis": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated \"Magus Killer\" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.\n\nKiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.\n\nBased on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War—10 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.\n\n[Written by MAL Rewrite]",
+  "mean": 8.27,
+  "rank": 289,
+  "popularity": 79,
+  "num_list_users": 1498379,
+  "num_scoring_users": 859669,
+  "nsfw": "white",
+  "created_at": "2010-12-24T18:18:16+00:00",
+  "updated_at": "2023-01-17T00:26:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1629,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

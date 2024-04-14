@@ -1,0 +1,60 @@
+{
+  "id": 40272,
+  "title": "A3! Season Autumn & Winter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1049/108197l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Act! Addict! Actors! Season Autumn & Winter"
+    ],
+    "en": "A3! Season Autumn & Winter",
+    "ja": "A3! SEASON AUTUMN & WINTER"
+  },
+  "start_date": "2020-10-13",
+  "end_date": "2020-12-29",
+  "synopsis": "With the completion of the Summer Troupe's show, Izumi Tachibana must now recruit five members for the next sub-troupe, the Autumn Troupe. Luckily, enough people arrive at the audition: Banri Settsu, a talented but boastful jack of all trades; Juuza Hyoudou, a stone-faced delinquent passionate about acting; Taichi Nanao, a man wanting to impress girls through the stage; Omi Fushimi, a college student, amateur photographer, and adept cook; and Sakyou Furuichi, a yakuza member who shares a past connection with the Mankai Company.\n\nBut between the non-existent teamwork and multiple threats jeopardizing the show's success, Izumi realizes that the troupe might be more difficult to handle than she first thought. How will she be able to unite them in time for their debut performance?\n\n[Written by MAL Rewrite]",
+  "mean": 7.27,
+  "rank": 2899,
+  "popularity": 4592,
+  "num_list_users": 22599,
+  "num_scoring_users": 6920,
+  "nsfw": "white",
+  "created_at": "2019-08-18T08:31:48+00:00",
+  "updated_at": "2022-10-23T14:40:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    },
+    {
+      "id": 1127,
+      "name": "Studio 3Hz"
+    }
+  ]
+}

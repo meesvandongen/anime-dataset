@@ -1,0 +1,46 @@
+{
+  "id": 19945,
+  "title": "Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/53183.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/53183l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "続 夏目友人帳 3Ｄニャンコ先生劇場"
+  },
+  "start_date": "2009-04-22",
+  "end_date": "2009-08-26",
+  "synopsis": "Short 3D Nyanko-sensei animations bundled on BD/DVD's of the Zoku Natsume Yuujinchou series.",
+  "mean": 5,
+  "rank": 12670,
+  "popularity": 6742,
+  "num_list_users": 8705,
+  "num_scoring_users": 3128,
+  "nsfw": "white",
+  "created_at": "2013-08-07T14:54:26+00:00",
+  "updated_at": "2022-04-14T22:48:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 29,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

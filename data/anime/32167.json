@@ -1,0 +1,46 @@
+{
+  "id": 32167,
+  "title": "Tenkousei wa Uchuujin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/77273.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/77273l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "転校生は宇宙人"
+  },
+  "start_date": "1988-06-14",
+  "end_date": "1988-06-14",
+  "synopsis": "A music video for the song \"Tenkousei wa Uchuujin\" by BAKUFU-SLUMP. Aired as part of NHK's Minna no Uta program.",
+  "mean": 5.46,
+  "popularity": 18848,
+  "num_list_users": 279,
+  "num_scoring_users": 128,
+  "nsfw": "white",
+  "created_at": "2015-11-29T09:42:42+00:00",
+  "updated_at": "2019-02-06T14:57:41+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 153,
+  "rating": "g",
+  "studios": []
+}

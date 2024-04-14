@@ -1,0 +1,60 @@
+{
+  "id": 12355,
+  "title": "Ookami Kodomo no Ame to Yuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/35721.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/35721l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Wolf Children Ame and Yuki"
+    ],
+    "en": "Wolf Children",
+    "ja": "おおかみこどもの雨と雪"
+  },
+  "start_date": "2012-07-21",
+  "end_date": "2012-07-21",
+  "synopsis": "Hana, a hard-working college student, falls in love with a mysterious man who attends one of her classes though he is not an actual student. As it turns out, he is not truly human either. On a full moon night, he transforms, revealing that he is the last werewolf alive. Despite this, Hana's love remains strong, and the two ultimately decide to start a family.\n\nHana gives birth to two healthy children—Ame, born during rainfall, and Yuki, born during snowfall—both possessing the ability to turn into wolves, a trait inherited from their father. All too soon, however, the sudden death of her lover devastates Hana's life, leaving her to raise a peculiar family completely on her own. The stress of raising her wild-natured children in a densely populated city, all while keeping their identity a secret, culminates in a decision to move to the countryside, where she hopes Ame and Yuki can live a life free from the judgments of society. Wolf Children is the heartwarming story about the challenges of being a single mother in an unforgiving modern world.\n\n[Written by MAL Rewrite]",
+  "mean": 8.57,
+  "rank": 99,
+  "popularity": 227,
+  "num_list_users": 811993,
+  "num_scoring_users": 458993,
+  "nsfw": "white",
+  "created_at": "2011-12-13T07:55:59+00:00",
+  "updated_at": "2023-01-10T15:04:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 7020,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 555,
+      "name": "Studio Chizu"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 4789,
+  "title": "ef: A Tale of Melodies.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1675/131993.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1675/131993l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ef: A Tale of Memories Second Season",
+      "ef: A Tale of Memories 2nd Season"
+    ],
+    "en": "ef - a tale of melodies.",
+    "ja": "ef - a tale of melodies."
+  },
+  "start_date": "2008-10-07",
+  "end_date": "2008-12-23",
+  "synopsis": "In a story set years in the past, Himura Yuu is a studious and diligent young man intent solely on maintaining his top academic position at Otowa Academy. One day, he meets a mysterious girl named Amamiya Yuuko, who, to his surprise, recognizes him. Memories of a distant childhood, memories rather left forgotten... meeting Yuuko again will force Yuu to confront the regrets and sorrows of their collective pasts and presents.\n\nIn the present, Kuze Shuuichi may seem like a womanizer, but upon closer inspection, is a man who would rather be left alone. Hayama Mizuki, however, is not the type of girl who would let him be, especially after hearing the beautiful sounds of his violin performance. As Mizuki attempts to become closer to him, Kuze attempts to push her away—the tale of their budding relationship is darkened with undertones of an imminent tragedy.\n\n[Written by MAL Rewrite]",
+  "mean": 8,
+  "rank": 630,
+  "popularity": 1419,
+  "num_list_users": 164866,
+  "num_scoring_users": 67831,
+  "nsfw": "white",
+  "created_at": "2008-06-27T17:45:47+00:00",
+  "updated_at": "2022-04-16T05:29:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:15"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

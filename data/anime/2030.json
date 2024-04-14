@@ -1,0 +1,61 @@
+{
+  "id": 2030,
+  "title": "El Cazador de la Bruja",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1446/98891.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1446/98891l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "El Cazador",
+      "The Witch Hunter"
+    ],
+    "en": "El Cazador de la Bruja",
+    "ja": "エル・カザド"
+  },
+  "start_date": "2007-04-03",
+  "end_date": "2007-09-25",
+  "synopsis": "Nadie is a bounty hunter with an attitude, and she's got a lock on her next target: Ellis, a young amnesiac girl who is a suspect in the murder of a famous scientist. Nadie manages to apprehend Ellis, but on a whim, decides to accompany her to Wiñay Marka, a place which supposedly holds the key to unlocking Ellis's memories and her mysterious past. However, Nadie cautions Ellis that this does not mean she will go free—once Ellis has found what she is looking for, Nadie will turn her over to the authorities. With Ellis's connection to a gemstone called the Inca Rose as their only guide, the two set off on their journey south through Mexico to search for the mysterious \"Eternal City\" of Wiñay Marka.\n\n[Written by MAL Rewrite]",
+  "mean": 7.23,
+  "rank": 3087,
+  "popularity": 2960,
+  "num_list_users": 54905,
+  "num_scoring_users": 18428,
+  "nsfw": "white",
+  "created_at": "2007-03-09T00:41:05+00:00",
+  "updated_at": "2022-04-13T12:52:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 5,
+      "name": "Bee Train"
+    }
+  ]
+}

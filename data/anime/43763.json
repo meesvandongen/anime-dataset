@@ -1,0 +1,65 @@
+{
+  "id": 43763,
+  "title": "Cestvs: The Roman Fighter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1291/114014.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1291/114014l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kentou Ankokuden Cestv",
+      "Cestus: The Legend of Boxing in the Dark Ages"
+    ],
+    "en": "",
+    "ja": "セスタス-The Roman Fighter-"
+  },
+  "start_date": "2021-04-15",
+  "end_date": "2021-06-24",
+  "synopsis": "In the year 54 AD, 15-year-old slave fighter Cestvs desires one thing—an escape from his violent life. It is the wish Cestvs' owner has promised to grant him, but only after he wins 100 battles. However, Cestvs quickly comes to terms with the fact that, as a slave, his life is expendable. After the death of his friend, the possibility of freedom is the only thing keeping him going. With a burning ambition to attain it, Cestvs embarks on a journey to earn himself back, even if it means fighting other slaves for the entertainment of the public.\n\n[Written by MAL Rewrite]",
+  "mean": 5.96,
+  "rank": 9755,
+  "popularity": 4808,
+  "num_list_users": 20517,
+  "num_scoring_users": 7775,
+  "nsfw": "white",
+  "created_at": "2020-11-05T13:49:38+00:00",
+  "updated_at": "2023-01-13T09:58:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1375,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

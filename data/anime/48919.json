@@ -1,0 +1,44 @@
+{
+  "id": 48919,
+  "title": "HKT48 × Peeping Life",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1686/115583.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1686/115583l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "HKT48 × PeepingLife"
+  },
+  "start_date": "2014-06-20",
+  "end_date": "2014-06-20",
+  "synopsis": "A dream collaboration with the Fukuoka-originated popular CG animation \"Peeping Life\" aired as part of \"HKT48 no Odekake!\"\n\n(Source: Official YouTube, edited)",
+  "popularity": 19330,
+  "num_list_users": 254,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2021-05-10T06:58:41+00:00",
+  "updated_at": "2023-12-26T21:24:02+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
+}

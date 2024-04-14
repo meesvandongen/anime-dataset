@@ -1,0 +1,72 @@
+{
+  "id": 37989,
+  "title": "Golden Kamuy 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1180/95018.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1180/95018l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Golden Kamuy Second Season"
+    ],
+    "en": "Golden Kamuy Season 2",
+    "ja": "ゴールデンカムイ"
+  },
+  "start_date": "2018-10-08",
+  "end_date": "2018-12-24",
+  "synopsis": "In Hokkaido, it is rumored that there is a stash of hidden gold. This gold was supposedly stolen by a man who killed the original Ainu owners; and before being captured and imprisoned by the police, he hid it in a secret location. In order to relay the gold's location to his comrades on the outside, he tattooed the map on the bodies of his cellmates and promised them a share of the gold—provided they managed to escape and find it.\n\nIn Golden Kamuy 2nd Season, First Lieutenant Tokushirou Tsurumi plans to give the 7th Division an advantage in the war for the tattoos by getting a taxidermist to create skins that only he can distinguish as fake. Meanwhile, Saichi \"The Immortal\" Sugimoto, Asirpa, and their companions continue their hunt for the skins by following a strange rumor: a thief who broke into a home in Yubari found taxidermied human corpses, among which was a torso with strange tattoos.\n\n[Written by MAL Rewrite]",
+  "mean": 8.24,
+  "rank": 323,
+  "popularity": 1170,
+  "num_list_users": 204748,
+  "num_scoring_users": 112382,
+  "nsfw": "white",
+  "created_at": "2018-07-21T02:58:22+00:00",
+  "updated_at": "2023-01-18T04:11:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1393,
+      "name": "Geno Studio"
+    }
+  ]
+}

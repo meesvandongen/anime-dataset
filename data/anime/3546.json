@@ -1,0 +1,60 @@
+{
+  "id": 3546,
+  "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Jump Festa Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1343/122175.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1343/122175l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kochikame"
+    ],
+    "en": "",
+    "ja": "こちら葛飾区亀有公園前派出所"
+  },
+  "start_date": "1985-11-23",
+  "end_date": "1985-11-23",
+  "synopsis": "Jump Special Anime Festival piece, based on the popular Shounen Jump manga by AKIMOTO Osamu, that began serialisation in 1976. Produced by Tatsunoko Pro, and later shown on TV Tokyo due to popular demand. ",
+  "mean": 6.77,
+  "rank": 5364,
+  "popularity": 12601,
+  "num_list_users": 1250,
+  "num_scoring_users": 339,
+  "nsfw": "white",
+  "created_at": "2007-12-08T14:06:16+00:00",
+  "updated_at": "2022-11-06T09:33:29+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 30537,
+  "title": "Tiger & Bunny: Too Many Cooks Spoil the Broth.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/74269.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/74269l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Sound of Tiger & Bunny"
+    ],
+    "en": "",
+    "ja": "Too many cooks spoil the broth.(船頭多くして船山に上る)"
+  },
+  "start_date": "2015-09-19",
+  "end_date": "2015-09-19",
+  "synopsis": "The official website for the Tiger & Bunny anime announced on Friday that the Pacifico Yokohama's National Convention Hall of Yokohama would host special Tiger & Bunny concerts September 19th and 20th. The franchise's composer Yoshihiro Ike is personally conducting the \"Sternbild Orchestra & Band\" for live performances of music from the television series and two films.\n\n\"Tiger & Bunny: Too Many Cooks Spoil the Broth\" is an 18 minute episode that was released with the BD of the concert, \"The Sound of Tiger & Bunny\". It features the Heroes of the series being assigned to form a band to play a single performance.\n\n(Source: ANN, edited)",
+  "mean": 6.2,
+  "rank": 8542,
+  "popularity": 9432,
+  "num_list_users": 3577,
+  "num_scoring_users": 785,
+  "nsfw": "white",
+  "created_at": "2015-04-03T07:04:27+00:00",
+  "updated_at": "2022-03-05T22:10:32+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1020,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

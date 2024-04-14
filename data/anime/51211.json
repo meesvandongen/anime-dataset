@@ -1,0 +1,51 @@
+{
+  "id": 51211,
+  "title": "Go! Go! Tokyo MER: Kinkyuujitai to Tatakau Nakama-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1139/121350.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1139/121350l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Go! Go! Tokyo MER: Kinkyuujitai to Tatakau Nakama-tachi"
+    ],
+    "en": "",
+    "ja": "GO!GO!TOKYO MER 緊急事態と戦う仲間達"
+  },
+  "start_date": "2022-01-05",
+  "end_date": "2023",
+  "synopsis": "The live-action Tokyo MER: Hashiru Kinkyuukyuumeishitsu medical drama series got a short anime to commemorate the series' movie announcement. It portrays the characters as animals.\n\n(Source: ANN)",
+  "rank": 19729,
+  "popularity": 20693,
+  "num_list_users": 177,
+  "num_scoring_users": 35,
+  "nsfw": "white",
+  "created_at": "2022-03-09T21:35:55+00:00",
+  "updated_at": "2023-11-23T14:00:03+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 135,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2412,
+      "name": "FUNNY MOVIE"
+    }
+  ]
+}

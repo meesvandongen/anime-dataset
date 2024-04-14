@@ -1,0 +1,64 @@
+{
+  "id": 41467,
+  "title": "Bleach: Sennen Kessen-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1908/135431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bleach: Thousand-Year Blood War Arc"
+    ],
+    "en": "Bleach: Thousand-Year Blood War",
+    "ja": "BLEACH 千年血戦篇"
+  },
+  "start_date": "2022-10-11",
+  "end_date": "2022-12-27",
+  "synopsis": "Substitute Soul Reaper Ichigo Kurosaki spends his days fighting against Hollows, dangerous evil spirits that threaten Karakura Town. Ichigo carries out his quest with his closest allies: Orihime Inoue, his childhood friend with a talent for healing; Yasutora Sado, his high school classmate with superhuman strength; and Uryuu Ishida, Ichigo's Quincy rival.\n\nIchigo's vigilante routine is disrupted by the sudden appearance of Asguiaro Ebern, a dangerous Arrancar who heralds the return of Yhwach, an ancient Quincy king. Yhwach seeks to reignite the historic blood feud between Soul Reaper and Quincy, and he sets his sights on erasing both the human world and the Soul Society for good.\n\nYhwach launches a two-pronged invasion into both the Soul Society and Hueco Mundo, the home of Hollows and Arrancar. In retaliation, Ichigo and his friends must fight alongside old allies and enemies alike to end Yhwach's campaign of carnage before the world itself comes to an end.\n\n[Written by MAL Rewrite]",
+  "mean": 9.02,
+  "rank": 9,
+  "popularity": 411,
+  "num_list_users": 535274,
+  "num_scoring_users": 276355,
+  "nsfw": "white",
+  "created_at": "2020-03-18T09:10:15+00:00",
+  "updated_at": "2023-06-30T08:08:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1471,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

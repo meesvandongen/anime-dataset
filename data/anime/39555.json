@@ -1,0 +1,60 @@
+{
+  "id": 39555,
+  "title": "Baki: Dai Raitaisai-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1924/109353.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1924/109353l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baki (2020)"
+    ],
+    "en": "Baki: The Great Raitai Tournament Saga",
+    "ja": "バキ"
+  },
+  "start_date": "2020-06-04",
+  "end_date": "2020-06-04",
+  "synopsis": "Weakened by the poison from his last battle, Baki Hanma finds himself on the verge of death with no salvation in sight. However, after Baki's friend, Retsu Kaiou, brings him to China, he learns about the centurial Raitai Tournament, where the fiercest warriors fight to be crowned as the strongest martial artist in all of China. \n\nAs it is now allowing entry to foreigners, Baki is informed that he will have to compete in the tournament as it holds the cure to his illness. Unfortunately, Baki's father, deemed the \"Strongest Creature on Earth,\" is participating too. Baki 2nd Season details the events of the grand Chinese tournament, as well as Baki's encounter with the eccentric yet powerful Mohammad Alai Jr.\n\n[Written by MAL Rewrite]",
+  "mean": 7.55,
+  "rank": 1678,
+  "popularity": 1171,
+  "num_list_users": 204652,
+  "num_scoring_users": 125088,
+  "nsfw": "white",
+  "created_at": "2019-03-18T11:55:48+00:00",
+  "updated_at": "2023-01-09T01:29:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1961,
+  "title": "Arashi no Yoru ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/5064.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/5064l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "In the Night of the Storm",
+      "On A Stormy Night",
+      "Stormy Night"
+    ],
+    "en": "",
+    "ja": "あらしのよるに"
+  },
+  "start_date": "2005-12-10",
+  "end_date": "2005-12-10",
+  "synopsis": "A story about a goat and a wolf who become friends on a stormy night, and how they overcome differences and hardships.\n\n(Source: ANN)\n",
+  "mean": 7.65,
+  "rank": 1338,
+  "popularity": 4543,
+  "num_list_users": 23199,
+  "num_scoring_users": 10686,
+  "nsfw": "white",
+  "created_at": "2007-02-19T08:47:11+00:00",
+  "updated_at": "2022-04-14T09:04:01+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "book",
+  "average_episode_duration": 6420,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

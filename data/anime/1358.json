@@ -1,0 +1,72 @@
+{
+  "id": 1358,
+  "title": "Hokuto no Ken Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/25067.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/25067l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hokuto no Ken (1986)"
+    ],
+    "en": "Fist of the North Star: The Movie",
+    "ja": "北斗の拳"
+  },
+  "start_date": "1986-03-08",
+  "end_date": "1986-03-08",
+  "synopsis": "Following a cataclysmic nuclear war, the world teeters on the brink of complete destruction. Civilization is polarized into a degenerate society where opposing packs of marauding scavengers prey on helpless, homeless nomads. For those who are lucky enough to survive the constant brutality and danger, it is a bleak existence. Life an death blur into abstractions. The only hope left for mankind is to find a hero worthy of becoming the next \"Fist of the North Star\" - an enlightened warrior - who is capable of leading those with the will to survive out of this barrenness into a new world. But in this savage no-man's land of shifting loyalties and power-hungry demi-gods, heroes are in short supply. \n\n(Source: AniDB)",
+  "mean": 7.22,
+  "rank": 3160,
+  "popularity": 4692,
+  "num_list_users": 21606,
+  "num_scoring_users": 12256,
+  "nsfw": "white",
+  "created_at": "2006-08-17T00:44:45+00:00",
+  "updated_at": "2023-10-16T00:46:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 6600,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

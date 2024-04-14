@@ -1,0 +1,73 @@
+{
+  "id": 31491,
+  "title": "Hantsu x Trash",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1297/138526.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1297/138526l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hantsu x Torasshu",
+      "Hunts x Trash"
+    ],
+    "en": "Sexy and Stupid Water Polo Comedy!!",
+    "ja": "ハンツー×トラッシュ"
+  },
+  "start_date": "2015-10-06",
+  "end_date": "2016-11-04",
+  "synopsis": "Hamaji Youhei, a high school freshman, lives his life aimlessly, lazing around all day. He can't keep up with his studies, no good at sports and won't stick with anything for long. Besides that he's a pervert who's continuously rejected by girls. A sophomore convinces him into joining a club where he could lunge at girls, fondling and touching all he wanted. Thus he joined the Water Polo Club.\n \nCan Youhei, who never sticks with anything for long, find his place in this club?",
+  "mean": 5.14,
+  "rank": 12468,
+  "popularity": 4376,
+  "num_list_users": 25378,
+  "num_scoring_users": 10301,
+  "nsfw": "gray",
+  "created_at": "2015-08-23T07:11:31+00:00",
+  "updated_at": "2023-09-16T11:13:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 731,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 37521,
+  "title": "Vinland Saga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1500/103005.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ヴィンランド・サガ"
+  },
+  "start_date": "2019-07-08",
+  "end_date": "2019-12-30",
+  "synopsis": "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, \"You have no enemies, nobody does. There is nobody who it's okay to hurt,\" as he grew, Thorfinn knew that nothing was further from the truth.\n\nThe war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on.\n\n[Written by MAL Rewrite]",
+  "mean": 8.75,
+  "rank": 47,
+  "popularity": 76,
+  "num_list_users": 1506219,
+  "num_scoring_users": 866494,
+  "nsfw": "white",
+  "created_at": "2018-03-19T13:28:36+00:00",
+  "updated_at": "2023-10-16T06:33:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:10"
+  },
+  "source": "manga",
+  "average_episode_duration": 1492,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

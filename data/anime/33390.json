@@ -1,0 +1,54 @@
+{
+  "id": 33390,
+  "title": "Zunda Horizon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/83943.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/83943l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wakate Animator Ikusei Project",
+      "2017 Young Animator Training Project",
+      "Anime Tamago"
+    ],
+    "en": "",
+    "ja": "ずんだホライずん"
+  },
+  "start_date": "2017-03-11",
+  "end_date": "2017-03-11",
+  "synopsis": "Zunko Tohoku can make any mochi into delicious zunda mochi by shooting it with her Zunda Arrow. Along with Kiritan Tohoku, Itako Tohoku, Usagi Chuugoku, Metan Shikoku, and Sora Kyushu, she enjoys eating zunda mochi while being full of happiness.\n\nChanko Ooedo conversely leads the Natto Factory along with her companions Tsurugi Chubu, Shinobi Kansai, Awamo Okinawa, and Meron Hokkaido. Even though zunda and natto use the same type of bean, the edamame used in zunda and the soy beans used in natto are harvested at different times, with edamame being harvested first. As a result, the members of the Natto Factory are afraid of a decrease in the quantity of soybeans harvested. Chanko sends Awamo Okinawa and Meron Hokkaido to Zunko's house to assassinate her, but a third power makes their appearance.\n\n(Source: ANN)",
+  "mean": 5.4,
+  "rank": 11890,
+  "popularity": 11132,
+  "num_list_users": 2067,
+  "num_scoring_users": 498,
+  "nsfw": "white",
+  "created_at": "2016-06-03T06:43:57+00:00",
+  "updated_at": "2023-02-27T03:32:32+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1438,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 318,
+      "name": "WAO World"
+    },
+    {
+      "id": 1383,
+      "name": "Studio Live"
+    }
+  ]
+}

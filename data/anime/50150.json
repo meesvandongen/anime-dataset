@@ -1,0 +1,44 @@
+{
+  "id": 50150,
+  "title": "Ivy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1938/118850.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1938/118850l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Ivy"
+  },
+  "start_date": "2017-12-20",
+  "end_date": "2017-12-20",
+  "synopsis": "A music video for the song Ivy from the second album Alstroemeria by Kano.",
+  "mean": 5.91,
+  "popularity": 19826,
+  "num_list_users": 227,
+  "num_scoring_users": 116,
+  "nsfw": "white",
+  "created_at": "2021-10-16T05:05:08+00:00",
+  "updated_at": "2022-03-15T17:41:04+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 287,
+  "rating": "g",
+  "studios": []
+}

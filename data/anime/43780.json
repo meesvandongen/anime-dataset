@@ -1,0 +1,46 @@
+{
+  "id": 43780,
+  "title": "Sumikko Gurashi Movie 2: Aoi Tsukiyo no Mahou no Ko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1929/117643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1929/117643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "映画 すみっコぐらし 青い月夜のまほうのコ"
+  },
+  "start_date": "2021-11-05",
+  "end_date": "2021-11-05",
+  "synopsis": "",
+  "mean": 6.58,
+  "rank": 6405,
+  "popularity": 13825,
+  "num_list_users": 887,
+  "num_scoring_users": 150,
+  "nsfw": "white",
+  "created_at": "2020-11-08T13:20:50+00:00",
+  "updated_at": "2023-10-24T23:42:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 3853,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 866,
+      "name": "Fanworks"
+    }
+  ]
+}

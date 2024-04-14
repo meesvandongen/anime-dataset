@@ -1,0 +1,72 @@
+{
+  "id": 448,
+  "title": "Tenjou Tenge: The Ultimate Fight",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/7362.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/7362l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ultimate Fight"
+    ],
+    "en": "Tenjho Tenge: The Ultimate Fight",
+    "ja": "天上天下ULTIMATE FIGHT"
+  },
+  "start_date": "2005-03-16",
+  "end_date": "2005-03-16",
+  "synopsis": "Continues from where the original series left off. The characters try to settle their conflicts with each other in this 2 episode OAV. Aya confronts her sister Maya about Nagi, while Nagi receives a challenge from Mitsuomi to fight to the death. Meanwhile, Bob trains as hard as he can for the tournament. \n\n(Source: ANN)",
+  "mean": 7.02,
+  "rank": 4232,
+  "popularity": 3401,
+  "num_list_users": 42563,
+  "num_scoring_users": 23232,
+  "nsfw": "white",
+  "created_at": "2005-12-26T08:11:54+00:00",
+  "updated_at": "2023-09-03T03:51:59+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

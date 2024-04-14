@@ -1,0 +1,52 @@
+{
+  "id": 6127,
+  "title": "Toradora!: SOS! Kuishinbou Banbanzai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1242/123508.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1242/123508l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Toradora! SOS! Hooray for Foodies"
+    ],
+    "en": "Toradora!: SOS! Hurray for Gourmands",
+    "ja": "とらドラ! SOS! 食いしん坊万々歳"
+  },
+  "start_date": "2009-02-03",
+  "end_date": "2009-08-26",
+  "synopsis": "Toradora DVD shorts featuring the miniature forms of the Toradora characters talking about, and eating, food.",
+  "mean": 6.41,
+  "rank": 7394,
+  "popularity": 1955,
+  "num_list_users": 109125,
+  "num_scoring_users": 54444,
+  "nsfw": "white",
+  "created_at": "2009-02-25T23:46:18+00:00",
+  "updated_at": "2022-03-27T01:23:10+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 330,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

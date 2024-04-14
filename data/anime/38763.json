@@ -1,0 +1,44 @@
+{
+  "id": 38763,
+  "title": "Synchro Noise",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1785/96873.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1785/96873l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Synchro Noise",
+    "ja": "Synchro Noise"
+  },
+  "start_date": "2013-09-03",
+  "end_date": "2013-09-03",
+  "synopsis": "Silver shards are sent adrift through a dark void, causing glitching and static as they go—utter pandemonium! However, despite their chaos, the pixelated shards manage to find a home within the beat.\n\n[Written by MAL Rewrite]\n",
+  "mean": 4.45,
+  "popularity": 16841,
+  "num_list_users": 422,
+  "num_scoring_users": 219,
+  "nsfw": "white",
+  "created_at": "2018-12-01T18:38:23+00:00",
+  "updated_at": "2023-09-03T03:54:06+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 15,
+  "rating": "g",
+  "studios": []
+}

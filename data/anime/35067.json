@@ -1,0 +1,58 @@
+{
+  "id": 35067,
+  "title": "Osomatsu-san 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/88328.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/88328l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mr. Osomatsu 2",
+    "ja": "おそ松さん 第2期"
+  },
+  "start_date": "2017-10-03",
+  "end_date": "2018-03-27",
+  "synopsis": "Second season of Osomatsu-san.",
+  "mean": 7.61,
+  "rank": 1481,
+  "popularity": 2968,
+  "num_list_users": 54654,
+  "num_scoring_users": 22382,
+  "nsfw": "white",
+  "created_at": "2017-03-10T01:35:46+00:00",
+  "updated_at": "2022-04-12T01:47:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 905,
+  "title": "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1015/93675.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1015/93675l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon Ball Z: Fusion Reborn",
+    "ja": "ドラゴンボールZ 復活のフュージョン!!悟空とベジータ"
+  },
+  "start_date": "1995-03-04",
+  "end_date": "1995-03-04",
+  "synopsis": "After a janitorial mishap, an unsuspecting custodian transforms into Janemba, a fat, yellow demon who wreaks havoc throughout the afterlife. Gokuu Son has been competing in martial arts tournaments for the undead since his heroic death in the battle against Cell. Soon, Janemba's chaos draws Gokuu and fellow combatant Pikkon toward him, forcing the pair to figure out a way to defeat the giant monster.\n\nAfter a bout with him, Gokuu witnesses Janemba undergo another transformation: the demon sheds his fat and changes color, turning into a sword-wielding enemy more powerful than anyone Gokuu has faced thus far. With the aid of his similarly deceased rival Vegeta, Gokuu must stop the terrifying Janemba from disrupting the very fabric of the universe.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.59,
+  "rank": 1516,
+  "popularity": 1509,
+  "num_list_users": 152798,
+  "num_scoring_users": 98392,
+  "nsfw": "white",
+  "created_at": "2006-04-15T07:06:14+00:00",
+  "updated_at": "2022-04-17T14:18:27+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 3044,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3686,
+  "title": "Tokimeki Memorial: Only Love Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1511/128538.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1511/128538l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tokimeki Memorial 17.5: The Excitement of Heroism",
+      "Tokimeki Memorial 25.5",
+      "Tokimeki no Yuuki",
+      "Tokimeki no Sentaku"
+    ],
+    "en": "",
+    "ja": "ときめきメモリアル Only Love"
+  },
+  "start_date": "2007-09-21",
+  "end_date": "2007-09-21",
+  "synopsis": "The final DVD volume contains two specials:\n\nTokimeki no Yuuki\nEpisode 18 (sometimes labeled 17.5), which was never broadcast on TV. It features the swim captain, Utsumi Koayu.\n\nTokimeki no Sentaku\nEpisode 25.5, a recap of all episodes but the last, which was initially displayed at the Konami booth for the Tokyo International Anime Fair in 2007.",
+  "mean": 6.65,
+  "rank": 5993,
+  "popularity": 8534,
+  "num_list_users": 4883,
+  "num_scoring_users": 2143,
+  "nsfw": "white",
+  "created_at": "2008-01-08T19:57:36+00:00",
+  "updated_at": "2017-06-25T18:55:14+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 88,
+      "name": "AIC ASTA"
+    }
+  ]
+}

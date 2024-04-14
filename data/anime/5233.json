@@ -1,0 +1,65 @@
+{
+  "id": 5233,
+  "title": "Slayers Evolution-R",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/20938.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/20938l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Slayers 5th Season",
+      "Slayers fifth Series"
+    ],
+    "en": "",
+    "ja": "スレイヤーズ EVOLUTION-R"
+  },
+  "start_date": "2009-01-12",
+  "end_date": "2009-04-06",
+  "synopsis": "To find a way in rescuing Pokota's country Taforashia which was sealed by Rezo, Lina and her group are in search for the Hellmaster's jar in what the Red Priest placed his soul after death. Zelgadis is willing to do anything to get the jar for changing back into a human while Zuuma is plotting on revenge and accomplishing assignment in killing Lina Inverse. Still a big mystery for her and the others is what Xellos is aiming for in this battle.\n\n(Source: ANN)",
+  "mean": 7.38,
+  "rank": 2372,
+  "popularity": 3889,
+  "num_list_users": 32690,
+  "num_scoring_users": 15459,
+  "nsfw": "white",
+  "created_at": "2008-09-10T23:26:37+00:00",
+  "updated_at": "2023-09-01T00:19:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2009,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "09:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

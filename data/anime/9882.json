@@ -1,0 +1,47 @@
+{
+  "id": 9882,
+  "title": "High School Mystery: Gakuen Nanafushigi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/27334.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/27334l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "High School Mystery: School of Seven Mysteries",
+      "High School Mystery: School of Seven Wonders"
+    ],
+    "en": "",
+    "ja": "ハイスクールミステリー 学園七不思議"
+  },
+  "start_date": "1991-04-12",
+  "end_date": "1992-03-13",
+  "synopsis": "Mizuki Ichijo is a junior student at Kosen high school. Her grandmother was a medium and she experiences various psychic and mysterious phenomena which occur at the school: accidents, suicides, bullying, resentment, romance and more. She is befriended by the third year student Meiko Tsukikage, and together they attempt to solve the mysteries.\n\n(Source: Wikipedia)",
+  "mean": 6.88,
+  "rank": 4842,
+  "popularity": 11851,
+  "num_list_users": 1607,
+  "num_scoring_users": 239,
+  "nsfw": "white",
+  "created_at": "2010-11-21T21:19:34+00:00",
+  "updated_at": "2022-12-30T10:11:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 41,
+  "start_season": {
+    "year": 1991,
+    "season": "spring"
+  },
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": []
+}

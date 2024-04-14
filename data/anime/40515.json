@@ -1,0 +1,50 @@
+{
+  "id": 40515,
+  "title": "Nihon Chinbotsu 2020",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1989/107335.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1989/107335l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Japan Sinks: 2020",
+    "ja": "日本沈没2020"
+  },
+  "start_date": "2020-07-09",
+  "end_date": "2020-07-09",
+  "synopsis": "The Mutou family leads a peaceful life: Kouichirou works at a construction site and his wife Mari is returning from an overseas trip. Their daughter Ayumu has just finished her track practice while their son Gou is playing video games at home. However, life as they know it is flipped upside down when a calamitous earthquake strikes the entire Japanese archipelago—obliterating the face of the country in an instant.\n\nWith society crumbling around them and their nation gradually sinking into the ocean, the Mutou family must band together to survive the catastrophe. Treading the near-apocalyptic setting, they struggle not only to stay alive, but also to learn the difficulty of coping with loss.\n\n[Written by MAL Rewrite]",
+  "mean": 6.45,
+  "rank": 7183,
+  "popularity": 1540,
+  "num_list_users": 148736,
+  "num_scoring_users": 84261,
+  "nsfw": "white",
+  "created_at": "2019-10-09T01:38:35+00:00",
+  "updated_at": "2022-10-27T07:46:12+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "novel",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1591,
+      "name": "Science SARU"
+    }
+  ]
+}

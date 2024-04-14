@@ -1,0 +1,64 @@
+{
+  "id": 9013,
+  "title": "Kuruneko 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/24952.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/24952l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kuru Neko 2nd Season"
+    ],
+    "en": "",
+    "ja": "くるねこ"
+  },
+  "start_date": "2010-07-03",
+  "end_date": "2011-07-02",
+  "synopsis": "Second season of the everyday life of the lady with many cats. Based on a blog by the cat owner.\n\nActress Miki Nakatani (Ringu, Densha Otoko) will take over the series' voice acting duty in second season.",
+  "mean": 6.98,
+  "rank": 4384,
+  "popularity": 11929,
+  "num_list_users": 1565,
+  "num_scoring_users": 471,
+  "nsfw": "white",
+  "created_at": "2010-06-16T15:58:49+00:00",
+  "updated_at": "2022-03-04T13:43:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "11:40"
+  },
+  "source": "manga",
+  "average_episode_duration": 130,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    },
+    {
+      "id": 315,
+      "name": "DAX Production"
+    }
+  ]
+}

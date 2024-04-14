@@ -1,0 +1,79 @@
+{
+  "id": 38409,
+  "title": "Cike Wu Liuqi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1620/94968.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1620/94968l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cike Wuliuqi",
+      "Ci Ke Wu Liu Qi",
+      "Assassin Seven",
+      "Killer Seven"
+    ],
+    "en": "Scissor Seven",
+    "ja": "刺客伍六七"
+  },
+  "start_date": "2018-04-25",
+  "end_date": "2018-06-20",
+  "synopsis": "To the casual eye, the amnesiac bounty hunter Wu Liuqi looks quite intimidating. With his deadly telekinetic scissor techniques and his ability to seamlessly transform into anything, one would not expect his modest demeanor. In fact, Wu is quite terrible at his job. Often times the freelancer can be found botching an assassination or targeting the wrong person. While his failures could be due to his subpar skills, it usually boils down to him being a normal kid, with a heart unsuited for his line of work.\n\nAccompanied by his feathered friend Dai Bo, Wu is on a simple quest to regain his memories. Although his inconspicuous day job as a hairdresser and his after-hours occupation are simply a means for him to repay debt, his various ventures seem to intertwine with his pursuit to recover his lost past.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.86,
+  "rank": 858,
+  "popularity": 2023,
+  "num_list_users": 103642,
+  "num_scoring_users": 51693,
+  "nsfw": "white",
+  "created_at": "2018-09-27T08:10:52+00:00",
+  "updated_at": "2023-04-25T06:11:27+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 840,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2258,
+      "name": "Sharefun Studio"
+    },
+    {
+      "id": 2294,
+      "name": "AHA Entertainment"
+    }
+  ]
+}

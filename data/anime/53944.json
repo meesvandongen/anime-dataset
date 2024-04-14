@@ -1,0 +1,56 @@
+{
+  "id": 53944,
+  "title": "Sore Ike! Anpanman: 12 Seiza wo Sukui Dase",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1367/132024.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1367/132024l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "それいけ！アンパンマン ～12星座をすくいだせ～"
+  },
+  "start_date": "2011-07-16",
+  "end_date": "2011-07-16",
+  "synopsis": "",
+  "rank": 13540,
+  "popularity": 22016,
+  "num_list_users": 116,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2022-12-23T20:04:05+00:00",
+  "updated_at": "2022-12-24T10:16:48+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": []
+}

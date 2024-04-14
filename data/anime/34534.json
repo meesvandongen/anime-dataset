@@ -1,0 +1,67 @@
+{
+  "id": 34534,
+  "title": "Natsume Yuujinchou Go Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/84887.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/84887l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Natsume Yuujinchou Go: Hitoyo Sakazuki",
+      "Natsume Yuujinchou Go: Yuugi no Utage",
+      "Natsume Yuujinchou Go: One Night Sake Cup",
+      "Natsume Yuujinchou Go: Party of Fun & Games"
+    ],
+    "en": "Natsume's Book of Friends Season 5 Specials",
+    "ja": "夏目友人帳 伍 特別編"
+  },
+  "start_date": "2017-03-30",
+  "end_date": "2017-04-26",
+  "synopsis": "One Night Sake Cup \nOn his way back home from an errand, Takashi Natsume gets lost in the forest. Luckily, he is rescued by a traveling youkai couple who make sake cups for a living. Taking a sip of water from one, Natsume feels a surge of energy rush throughout his body, thanks to the \"One Night Cup.\" It is a special cup that makes every drink delicious, but unfortunately, its effects last only for one night. The following day, Natsume attends the youkai banquet with his loyal protector, the sake-loving chubby cat Madara, and gets the once-in-a-lifetime opportunity to learn how to make sake cups.\n\nParty of Fun & Games\nNatsume is filled with regret after hastily declining a rare invitation to a banquet from Madara. Curious, he chases after the cat to an old, run-down mansion but soon enough feels the uncanny presence of numerous youkai nearby. When he runs into the seductive youkai Hinoe, she explains that the empty estate serves as a hide-and-seek playground where the winning spirit acquires authority over a valley. With still no trace of Madara, Natsume starts having eerie dreams of the mansion, but this time as the game's participant.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.32,
+  "rank": 240,
+  "popularity": 3243,
+  "num_list_users": 46023,
+  "num_scoring_users": 21116,
+  "nsfw": "white",
+  "created_at": "2016-12-14T00:34:55+00:00",
+  "updated_at": "2024-03-06T11:35:58+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1119,
+      "name": "Shuka"
+    }
+  ]
+}

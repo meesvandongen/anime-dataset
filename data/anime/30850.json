@@ -1,0 +1,52 @@
+{
+  "id": 30850,
+  "title": "UFO Gakuen no Himitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/74241.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/74241l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Happy Science Movie 7"
+    ],
+    "en": "The Laws of the Universe: Part 0",
+    "ja": "UFO学園の秘密"
+  },
+  "start_date": "2015-10-10",
+  "end_date": "2015-10-10",
+  "synopsis": "Ray, Anna, Tyler, Halle, and Eisuke are five high school students who are suddenly wrapped up in a mysterious incident.\n\nAn alien species called Grey abducts Halle's sister and embeds her with a special chip inside her brain. The five stand up to save Halle's sister and try to reveal the existence of aliens, but continue to be met with mysterious events.\n\nThe high school students' story progresses into a shocking development!\n\nWhat truths hide on the dark side of the moon? What are the true intentions of the aliens that are infiltrating America, Russia, and China? What is the true crisis that is closing in on Earth and what hope can we have towards the future!?\n\n(Source: HS Pictures Studio)",
+  "mean": 5.1,
+  "rank": 12536,
+  "popularity": 9797,
+  "num_list_users": 3173,
+  "num_scoring_users": 874,
+  "nsfw": "white",
+  "created_at": "2015-05-29T07:07:38+00:00",
+  "updated_at": "2020-11-09T23:38:37+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 7518,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1276,
+      "name": "HS Pictures Studio"
+    }
+  ]
+}

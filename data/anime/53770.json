@@ -1,0 +1,59 @@
+{
+  "id": 53770,
+  "title": "Sentai Daishikkaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1183/141489.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1183/141489l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ranger Reject"
+    ],
+    "en": "Go! Go! Loser Ranger!",
+    "ja": "戦隊大失格"
+  },
+  "start_date": "2024-04-07",
+  "synopsis": "Thirteen years ago, the Nefarious Monster Army invaded Earth, but humanity's great protectors, the Dragon Keepers, defeated them in a single year! Every Sunday since, the monsters have been forced to act out humiliating defeat after defeat in front of the unsuspecting public. Determined to change this, a single monster, D, infiltrated the Ranger Force. With the help of the mysterious Ranger, Yumeko Suzukiri, D managed to seize one of the divine artifacts—the only weapons capable of permanently killing the monsters' immortal bodies! However, D's subsequent encounter with the Dragon Keepers led to his unfortunate end, so who will stop them now...? \n\n(Source: Kodansha USA)",
+  "mean": 7.44,
+  "rank": 2095,
+  "popularity": 2774,
+  "num_list_users": 62042,
+  "num_scoring_users": 4009,
+  "nsfw": "white",
+  "created_at": "2022-12-05T21:30:04+00:00",
+  "updated_at": "2024-04-07T13:53:44+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "16:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1427,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2009,
+      "name": "Yostar Pictures"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1533,
+  "title": "Ai Tenshi Densetsu Wedding Peach",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/20446.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/20446l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Legend of the Angel of Love - Wedding Peach"
+    ],
+    "en": "Wedding Peach",
+    "ja": "愛天使伝説 ウェディングピーチ"
+  },
+  "start_date": "1995-04-05",
+  "end_date": "1996-03-27",
+  "synopsis": "There are three known worlds—the human world, the angel world, and the devil world. The evil queen Raindevilla yearns to destroy the angel world with help or her many devil minions. The goddess Aphrodite sends an angel to the human world, Limone, to summon three love angels in the form of three school girls, Momoko Hanasaki, Yuri Tanima, and Hinagiku Tamano, who together become Angel Lilly, Angel Daisy, and Wedding Peach. The three girls must fight to overcome the evils of the devils, as well as their own lives, and restore peace to the angel world by gathering all pieces of the Sacred Four Somethings (or Saint Something Four) and defeat the evil queen once and for all.\n\n(Source: ANN)",
+  "mean": 6.82,
+  "rank": 5104,
+  "popularity": 4520,
+  "num_list_users": 23514,
+  "num_scoring_users": 10677,
+  "nsfw": "white",
+  "created_at": "2006-10-03T22:30:48+00:00",
+  "updated_at": "2023-10-11T09:10:02+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 50,
+      "name": "KSS"
+    }
+  ]
+}

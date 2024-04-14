@@ -1,0 +1,63 @@
+{
+  "id": 1016,
+  "title": "Gunnm",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/41257.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/41257l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ganmu",
+      "Tsutsu Yume: Gunnm",
+      "Battle Angel",
+      "Hyper Future Vision: Gunnm"
+    ],
+    "en": "Battle Angel Alita",
+    "ja": "銃夢 GUNNM"
+  },
+  "start_date": "1993-06-21",
+  "end_date": "1993-08-21",
+  "synopsis": "Doc Ido, a doctor and mechanic who lives and works in the hellish, postapocalyptic \"Scrapyard,\" finds the—miraculously preserved—remains of a female cyborg in a junk heap. After he revives and rebuilds her, the preternaturally strong, amnesiac \"Gally\" begins to forge a life for herself in a world where every day can bring a fight for life.\n\nThe 1993 Gunnm anime adapts the first two volumes of the Gunnm manga.",
+  "mean": 7.08,
+  "rank": 3903,
+  "popularity": 2786,
+  "num_list_users": 61621,
+  "num_scoring_users": 28716,
+  "nsfw": "white",
+  "created_at": "2006-05-31T16:46:12+00:00",
+  "updated_at": "2023-02-06T07:15:29+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1993,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

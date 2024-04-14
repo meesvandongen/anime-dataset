@@ -1,0 +1,56 @@
+{
+  "id": 20039,
+  "title": "Kill Me Baby: Butsuzou Kegatte Nise Halloween",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/53427.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/53427l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kill Me Baby OVA"
+    ],
+    "en": "",
+    "ja": "キルミーベイベー　ぶつぞうけがってにせはろうぃーん"
+  },
+  "start_date": "2013-10-16",
+  "end_date": "2013-10-16",
+  "synopsis": "Bundled with the franchise's Kill Me Baby Super Best Album CD (キルミーベイベー・スーパー). OAD adapted eight previously unanimated story episodes from Kazuho's original manga.\n\n(Source: ANN)",
+  "mean": 6.97,
+  "rank": 4401,
+  "popularity": 5432,
+  "num_list_users": 14836,
+  "num_scoring_users": 7188,
+  "nsfw": "white",
+  "created_at": "2013-08-10T11:27:05+00:00",
+  "updated_at": "2022-07-05T06:43:26+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1620,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

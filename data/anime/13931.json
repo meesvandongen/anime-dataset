@@ -1,0 +1,70 @@
+{
+  "id": 13931,
+  "title": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/69247.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/69247l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "美少女戦士セーラームーン セーラースターズ ヒーロークラブ"
+  },
+  "start_date": "1996-12-13",
+  "end_date": "1997-06-21",
+  "synopsis": "Compilation of Sailor Stars with added narration.",
+  "mean": 7.29,
+  "rank": 2755,
+  "popularity": 6221,
+  "num_list_users": 10566,
+  "num_scoring_users": 3205,
+  "nsfw": "white",
+  "created_at": "2012-04-27T06:43:30+00:00",
+  "updated_at": "2022-02-07T00:58:59+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

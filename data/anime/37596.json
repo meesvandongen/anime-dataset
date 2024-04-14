@@ -1,0 +1,56 @@
+{
+  "id": 37596,
+  "title": "Poputepipikku TV Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1091/100387.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1091/100387l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pop Team Epic (2019)"
+    ],
+    "en": "",
+    "ja": "ポプテピピック　ＴＶスペシャル"
+  },
+  "start_date": "2019-04-01",
+  "end_date": "2019-04-01",
+  "synopsis": "Episode 13 and 14 of Poputepipikku. The special has four versions shown on four different broadcasters: Tokyo MX (Blue Dragon ver.), Nico Nico Douga (Vermilion Bird ver.), Abema TV Anilive (White Tiger ver.) and Abema TV Pop Team Epic Channel (Black Tortoise ver.). Each version has a unique combination of seiyuus.\n\n(Source: AniDB)",
+  "mean": 7.33,
+  "rank": 2578,
+  "popularity": 4398,
+  "num_list_users": 25120,
+  "num_scoring_users": 9515,
+  "nsfw": "white",
+  "created_at": "2018-03-25T01:12:45+00:00",
+  "updated_at": "2024-01-25T01:45:30+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 705,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 437,
+      "name": "Kamikaze Douga"
+    }
+  ]
+}

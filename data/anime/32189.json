@@ -1,0 +1,76 @@
+{
+  "id": 32189,
+  "title": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/80931.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/80931l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Danganronpa 3: The End of Hope's Peak Academy - Future Volume"
+    ],
+    "en": "Danganronpa 3: The End of Hope's Peak High School - Future Arc",
+    "ja": "ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編"
+  },
+  "start_date": "2016-07-11",
+  "end_date": "2016-09-26",
+  "synopsis": "After Makoto Naegi and his fellow survivors escaped Hope's Peak Academy to the world beyond, they soon join the Future Foundation, an organization dedicated to combating despair. Just when all seems to be looking up, Naegi is arrested and tried for betrayal due to defending a malicious group of Remnants of Despair. Standing before all of the Future Foundation executives, he finds himself, along with Kyouko Kirigiri and Aoi Asahina, facing an unknown fate.\n\nThe matter at hand only escalates when the organization's supposedly impenetrable security is hacked into by a familiar face: Monokuma. Much to Naegi's horror, the mechanical bear immediately announces the beginning of a new killing game, as moments later, the first victim appears as a signal for despair to resume its brutal conquest.\n\nNaegi, the Super High School-Level Lucky Student, must once again unravel the mystery as his colleagues and friends begin falling around him. However, there are no more class trials; among the 16 desperate participants, there is only one killer—and their death means the end of this infernal game.\n\n[Written by MAL Rewrite]",
+  "mean": 7.22,
+  "rank": 3140,
+  "popularity": 659,
+  "num_list_users": 354315,
+  "num_scoring_users": 190489,
+  "nsfw": "white",
+  "created_at": "2015-12-02T08:02:01+00:00",
+  "updated_at": "2024-03-06T11:45:17+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:00"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 35957,
+  "title": "Yura Yura Suizokukan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/89666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/89666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ユラユラすいぞくかん"
+  },
+  "start_date": "2017-07-24",
+  "end_date": "2018-04-30",
+  "synopsis": "",
+  "rank": 15136,
+  "popularity": 15574,
+  "num_list_users": 548,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2017-07-18T09:40:06+00:00",
+  "updated_at": "2018-06-24T18:41:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
+}

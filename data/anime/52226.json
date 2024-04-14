@@ -1,0 +1,52 @@
+{
+  "id": 52226,
+  "title": "Usagi (Special)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1072/124825.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1072/124825l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Geinin Anime Kantoku"
+    ],
+    "en": "Usagi",
+    "ja": "うさぎ"
+  },
+  "start_date": "2022-06-11",
+  "end_date": "2022-06-11",
+  "synopsis": "Original anime short that aired during the Fuji TV's Geinin Anime Kantoku (Entertainer Anime Director) variety show.",
+  "mean": 5.93,
+  "rank": 9871,
+  "popularity": 18410,
+  "num_list_users": 307,
+  "num_scoring_users": 123,
+  "nsfw": "white",
+  "created_at": "2022-06-27T17:59:24+00:00",
+  "updated_at": "2023-12-27T19:02:04+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 226,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1109,
+      "name": "Orange"
+    }
+  ]
+}

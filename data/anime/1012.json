@@ -1,0 +1,61 @@
+{
+  "id": 1012,
+  "title": "Sexy Commando Gaiden: Sugoi yo!! Masaru-san Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/33729.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/33729l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sexy Commando Gaiden: Sugoi yo!! Masaru-san - Learn it in 2 Days",
+      "Sexy Commando Side Story: Amazing! Masaru"
+    ],
+    "en": "",
+    "ja": "セクシーコマンドー外伝 すごいよ!! マサルさん"
+  },
+  "start_date": "1998-04-02",
+  "end_date": "1998-04-03",
+  "synopsis": "Recap episodes.",
+  "mean": 6.36,
+  "rank": 7693,
+  "popularity": 11495,
+  "num_list_users": 1825,
+  "num_scoring_users": 849,
+  "nsfw": "white",
+  "created_at": "2006-05-30T13:59:06+00:00",
+  "updated_at": "2021-04-13T12:15:51+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 480,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

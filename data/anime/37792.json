@@ -1,0 +1,44 @@
+{
+  "id": 37792,
+  "title": "Hanasu na★",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1290/92085.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1290/92085l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mode Gakuen 2018",
+      "Suki na Koto dake wa, Shindemo Hanasu na★"
+    ],
+    "en": "",
+    "ja": "離すな★"
+  },
+  "start_date": "2018-04-01",
+  "end_date": "2018-04-01",
+  "synopsis": "A televised advertisement for Mode Gakuen, a vocational college in Japan located in Tokyo, Osaka, Nagoya, and Paris. They specialize in fashion, styling, graphic design both in techniques as well as business. Every year they make a new student recruitment video with a tag line. For 2018, the video was animated with the tag line Suki na Koto dake wa, Shindemo Hanasu na★.",
+  "mean": 5.38,
+  "rank": 11951,
+  "popularity": 14767,
+  "num_list_users": 671,
+  "num_scoring_users": 245,
+  "nsfw": "white",
+  "created_at": "2018-04-26T01:39:03+00:00",
+  "updated_at": "2018-07-20T03:58:02+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 15,
+  "rating": "g",
+  "studios": []
+}

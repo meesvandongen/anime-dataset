@@ -1,0 +1,56 @@
+{
+  "id": 2913,
+  "title": "Daisougen no Chiisana Tenshi: Bush Baby",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1447/98818.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1447/98818l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Bush Baby"
+    ],
+    "en": "Bush Baby, Little Angel of the Great Plains",
+    "ja": "大草原の小さな天使　ブッシュベイビー"
+  },
+  "start_date": "1992-01-12",
+  "end_date": "1992-12-20",
+  "synopsis": "When Jackie Rhodes, a british girl living in Kenya with her family, finds an ill animal called a Bushbaby, she adopts him, calls him Murphy and nurses him back to health. Murphy, Jackie, her family and their friends go on many adventures involving wild animals, poachers and more. But when Jackie's father is recalled to England, Jackie must leave her life in Africa behind. However, before she can go, Jackie, Murphy and Tembo, a friend of Jackie's father, go on one last adventure: they must cross the dangerous savannah to escape the poachers and corrupt police officers chasing them. Along the way, Jackie teaches the now domesticated Murphy to survive in the wild, so that, before she leaves, she can release him in his natural habitat.\n\n(Source: ANN)",
+  "mean": 7.23,
+  "rank": 3083,
+  "popularity": 9926,
+  "num_list_users": 3020,
+  "num_scoring_users": 892,
+  "nsfw": "white",
+  "created_at": "2007-08-04T06:38:13+00:00",
+  "updated_at": "2021-03-05T03:02:05+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 1992,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "19:30"
+  },
+  "source": "novel",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

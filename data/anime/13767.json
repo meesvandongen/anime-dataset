@@ -1,0 +1,63 @@
+{
+  "id": 13767,
+  "title": "Junjou Romantica OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/60389.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/60389l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Junjyou Romantica OAD",
+      "Junjou Egoist",
+      "Junjou Terrorist",
+      "Junjou Mistake"
+    ],
+    "en": "",
+    "ja": "純情ロマンチカ"
+  },
+  "start_date": "2012-12-20",
+  "end_date": "2015-12-01",
+  "synopsis": "OVAs that come with the limited premium edition of volumes 16 and 20 of the manga series.",
+  "mean": 7.69,
+  "rank": 1244,
+  "popularity": 2949,
+  "num_list_users": 55359,
+  "num_scoring_users": 26443,
+  "nsfw": "white",
+  "created_at": "2012-04-09T11:26:43+00:00",
+  "updated_at": "2024-01-11T00:55:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1365,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

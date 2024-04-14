@@ -1,0 +1,64 @@
+{
+  "id": 15911,
+  "title": "Yuyushiki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/48747.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/48747l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuyu-shiki"
+    ],
+    "en": "Yuyushiki",
+    "ja": "ゆゆ式"
+  },
+  "start_date": "2013-04-10",
+  "end_date": "2013-06-26",
+  "synopsis": "The story follows the school life of the three girls, Yuzuko, Yukari, and Yui, who join their high school's Data Processing Club. The odd friendship between the three make for wacky humor in even the most mundane of events.",
+  "mean": 7.35,
+  "rank": 2509,
+  "popularity": 1959,
+  "num_list_users": 108491,
+  "num_scoring_users": 40257,
+  "nsfw": "white",
+  "created_at": "2012-10-12T15:37:25+00:00",
+  "updated_at": "2022-10-17T19:02:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

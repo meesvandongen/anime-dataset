@@ -1,0 +1,47 @@
+{
+  "id": 4817,
+  "title": "Genzai Byoto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1062/103969.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1062/103969l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yokubou Byoutou"
+    ],
+    "en": "The Ward of Original Sin",
+    "ja": "原罪病棟"
+  },
+  "start_date": "1999-06-22",
+  "end_date": "1999-11-18",
+  "synopsis": "After the death of Haruki's mother she is taken by her until now unknown father, Shunkei, to Kazumi hospital. The nurses of this hospital seem to have purged into greed, and show absolute bondage to the doctor. Who made these women change in such a way? And which role plays there Haruki's father? \n",
+  "mean": 5.03,
+  "popularity": 12289,
+  "num_list_users": 1388,
+  "num_scoring_users": 358,
+  "nsfw": "gray",
+  "created_at": "2008-06-30T17:40:57+00:00",
+  "updated_at": "2019-10-31T16:13:30+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1668,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2330,
+      "name": "Meltdown"
+    }
+  ]
+}

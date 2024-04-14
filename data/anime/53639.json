@@ -1,0 +1,54 @@
+{
+  "id": 53639,
+  "title": "Fire Emblem Heroes: Askr Oukoku Teiten Camera (Eir no 1-nichi)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1661/131328.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1661/131328l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fire Emblem Heroes: Askr Ambience - A Day With Eir",
+    "ja": "【FEH】アスク王国 定点カメラ（エイルの1日）"
+  },
+  "start_date": "2022-11-12",
+  "end_date": "2022-11-12",
+  "synopsis": "Enjoy the ambience as Eir and some other Fire Emblem Heroes go about their day.",
+  "mean": 5.86,
+  "rank": 10209,
+  "popularity": 17462,
+  "num_list_users": 376,
+  "num_scoring_users": 137,
+  "nsfw": "white",
+  "created_at": "2022-11-19T01:34:56+00:00",
+  "updated_at": "2023-05-04T06:13:10+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 2102,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2854,
+      "name": "Volca"
+    }
+  ]
+}

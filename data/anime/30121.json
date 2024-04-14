@@ -1,0 +1,43 @@
+{
+  "id": 30121,
+  "title": "Fushigi na Ano Ko wa Suteki na Kono Ko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/72129.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/72129l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ふしぎなあのこはすてきなこのこ"
+  },
+  "start_date": "1994-04-04",
+  "end_date": "1997-04-04",
+  "synopsis": "An NHK toddler's anime following animals and their adventures.",
+  "rank": 19582,
+  "popularity": 18836,
+  "num_list_users": 280,
+  "num_scoring_users": 56,
+  "nsfw": "white",
+  "created_at": "2015-02-20T05:43:49+00:00",
+  "updated_at": "2023-07-03T07:15:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 154,
+  "start_season": {
+    "year": 1994,
+    "season": "spring"
+  },
+  "average_episode_duration": 60,
+  "rating": "pg",
+  "studios": []
+}

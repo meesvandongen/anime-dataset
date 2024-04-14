@@ -1,0 +1,59 @@
+{
+  "id": 14935,
+  "title": "Pokemon: Utae Meloetta - Rinka no Mi wo Sagase!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/81282.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/81282l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Utae Meloetta: Rinka no Mi o Sagase!"
+    ],
+    "en": "Pokémon: Sing Meloetta - Search for the Rinka Berries",
+    "ja": "うたえメロエッタ リンカのみをさがせ"
+  },
+  "start_date": "2012-07-03",
+  "end_date": "2012-07-03",
+  "synopsis": "Meloetta has throat trouble, Pikachu and Snivy search for the Rinka Berries for her throat cure. Meowth and Wobbuffet run after Meloetta. \n\nThe 23rd Pikachu short, bundled with the August 2012 issue of Shogakukan's Ciao shoujo magazine.\n\n(Source: AniDB) ",
+  "mean": 6.2,
+  "rank": 8578,
+  "popularity": 8273,
+  "num_list_users": 5289,
+  "num_scoring_users": 2015,
+  "nsfw": "white",
+  "created_at": "2012-07-25T01:34:01+00:00",
+  "updated_at": "2021-10-18T11:20:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "average_episode_duration": 463,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

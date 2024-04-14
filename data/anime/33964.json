@@ -1,0 +1,67 @@
+{
+  "id": 33964,
+  "title": "91 Days: Mijikai Rousoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/81707.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/81707l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "91 Days Recap",
+      "91 Days Episode 7.5",
+      "Day 7.5 Mijikai Rousoku",
+      "Day 7.5 Short Candle"
+    ],
+    "en": "91 Days: Brief Candle",
+    "ja": "91Days『Day7.5 短いローソク』"
+  },
+  "start_date": "2016-08-26",
+  "end_date": "2016-08-26",
+  "synopsis": "Recap of the first seven episodes of 91 Days series.",
+  "mean": 6.53,
+  "rank": 6686,
+  "popularity": 3779,
+  "num_list_users": 34579,
+  "num_scoring_users": 17249,
+  "nsfw": "white",
+  "created_at": "2016-08-26T20:37:55+00:00",
+  "updated_at": "2024-03-28T11:06:21+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1119,
+      "name": "Shuka"
+    }
+  ]
+}

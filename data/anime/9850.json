@@ -1,0 +1,41 @@
+{
+  "id": 9850,
+  "title": "Koguma no Koro-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/27260.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/27260l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Korochan, the Little Bear",
+    "ja": "こぐまのコロちゃん"
+  },
+  "start_date": "1958-03",
+  "end_date": "1958-03",
+  "synopsis": "Japanese fairy tale about a bear cub who would rather play than help his parents with house chores. ",
+  "mean": 5.5,
+  "rank": 11574,
+  "popularity": 14001,
+  "num_list_users": 848,
+  "num_scoring_users": 419,
+  "nsfw": "white",
+  "created_at": "2010-11-17T09:55:00+00:00",
+  "updated_at": "2018-02-02T00:15:42+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1958,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": []
+}

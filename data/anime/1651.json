@@ -1,0 +1,79 @@
+{
+  "id": 1651,
+  "title": "Uchuu Senkan Yamato 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/83049.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/83049l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Space Battleship Yamato 2",
+      "Star Blazers 2",
+      "Space Cruiser Yamato 2",
+      "Uchu Senkan Yamato 2"
+    ],
+    "en": "Star Blazers: The Comet Empire",
+    "ja": "宇宙戦艦ヤマト2"
+  },
+  "start_date": "1978-10-14",
+  "end_date": "1979-04-07",
+  "synopsis": "A year has passed since the Star Force returned to save the Earth but another danger now approaches from deep space. A gigantic White Comet hurtles toward our galaxy, obliterating everything in its path. But it is no ordinary comet—it is the deadly Comet Empire, conqueror of worlds... and Earth is the next target! Against orders, the Star Force blasts off to investigate, but even if they can get past the flagship Andromeda, they don't yet know the true nature of their new enemy!\n\n(Source: AniDB)",
+  "mean": 7.48,
+  "rank": 1940,
+  "popularity": 6709,
+  "num_list_users": 8789,
+  "num_scoring_users": 3046,
+  "nsfw": "white",
+  "created_at": "2006-11-10T01:27:21+00:00",
+  "updated_at": "2022-12-19T08:51:37+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1978,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "19:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

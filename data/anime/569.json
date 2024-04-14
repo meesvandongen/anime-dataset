@@ -1,0 +1,70 @@
+{
+  "id": 569,
+  "title": "Musekinin Kanchou Tylor",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/14898.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/14898l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Irresponsible Captain Tylor",
+    "ja": "無責任艦長タイラー"
+  },
+  "start_date": "1993-01-25",
+  "end_date": "1993-07-19",
+  "synopsis": "Justy Ueki Tylor is an average 20-year-old man: lazy, greedy, and a passionate womanizer. He plans to land an easy job with the United Planets Space Force that pays decently and is also far away from the rigorous combat raging throughout the galaxy.\n\nHowever, Tylor's dreams of living a simple life are brought to a sudden halt when he stumbles into a dangerous hostage situation. Through one strange mishap after another, Tylor miraculously manages to save the hostages and is awarded command of the decrepit space-cruiser Soyokaze!\n\nNow Tylor finds himself in charge of sending mad mercenaries, proud pilots, skeptical colleagues, and harsh commanders through the infinite expanse of the universe, all the while avoiding the looming threat of the Holy Raalgon Empire. What misadventures await the irresponsible Captain Tylor?\n\n[Written by MAL Rewrite]",
+  "mean": 7.88,
+  "rank": 832,
+  "popularity": 3103,
+  "num_list_users": 49977,
+  "num_scoring_users": 16423,
+  "nsfw": "white",
+  "created_at": "2006-01-13T00:14:08+00:00",
+  "updated_at": "2022-04-11T21:52:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1993,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

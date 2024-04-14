@@ -1,0 +1,60 @@
+{
+  "id": 33245,
+  "title": "Ame-iro Cocoa in Hawaii",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1727/111715.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1727/111715l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ame-iro Cocoa 3"
+    ],
+    "en": "Rainy Cocoa in Hawaii",
+    "ja": "雨色ココア in Hawaii"
+  },
+  "start_date": "2016-10-02",
+  "end_date": "2016-12-18",
+  "synopsis": "Ame-iro Cocoa: Rainy Cocoa Goes to Hawaii!! Nozomu Tokura, who is Aoi's older brother, is appointed as the manager of the Hawaii store.  With more new characters, will he be able to open up the store there successfully?",
+  "mean": 4.76,
+  "rank": 12916,
+  "popularity": 7363,
+  "num_list_users": 6989,
+  "num_scoring_users": 2284,
+  "nsfw": "white",
+  "created_at": "2016-04-28T12:58:24+00:00",
+  "updated_at": "2021-05-28T08:27:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:25"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

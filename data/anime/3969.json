@@ -1,0 +1,70 @@
+{
+  "id": 3969,
+  "title": "Kagaku Kyuujo-tai TechnoVoyager",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1575/104710.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1575/104710l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kagaku Kyujotai Techno Voyager",
+      "TechnoBoyger Scientific Rescue Team Techno Voyager",
+      "Scientific Rescue Team TechnoVoyager",
+      "Thunder Birds"
+    ],
+    "en": "Thunderbirds 2086",
+    "ja": "科学救助隊テクノボイジャー"
+  },
+  "start_date": "1982-04-17",
+  "end_date": "1982-09-11",
+  "synopsis": "Thunderbirds 2086 takes place roughly twenty years after the original series (generally accepted as taking place around 2065, though other dates are seen on screen) and chronicles the adventures of the Thunderbirds, a rescue team working for the International Rescue Organisation. Unlike the original International Rescue, which was small-scale and family-oriented, the IRO is a vast organisation comprising numerous branches and overseen by the Federation, the 2086 equivalent of the United Nations. No direct historical connections are identified between the two series, but it can be assumed that the original International Rescue evolved into its 2086 incarnation over those thirty years. The Tracy family are not mentioned in the animated series. In the animated series, the actual team is known as the Thunderbirds, whilst in the original series the name merely referred to their vehicles. The animated series is otherwise very similar to the original, with most episodes revolving around a natural or man-made disaster which the Thunderbirds team must investigate and help resolve. Unlike the original series, Thunderbirds 2086 also has an on-going story arc revolving around a breakaway independence group known as the Shadow Axis, led by the mysterious Star Crusher. There is a heavy intimation in the series that Star Crusher is not human and may be some kind of alien entity.\n\n(Source: Wikipedia)",
+  "mean": 6.27,
+  "rank": 8219,
+  "popularity": 12295,
+  "num_list_users": 1384,
+  "num_scoring_users": 352,
+  "nsfw": "white",
+  "created_at": "2008-02-20T06:51:29+00:00",
+  "updated_at": "2021-09-23T08:59:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 18,
+  "start_season": {
+    "year": 1982,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "19:30"
+  },
+  "average_episode_duration": 1520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

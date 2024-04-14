@@ -1,0 +1,58 @@
+{
+  "id": 38959,
+  "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1107/111530l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note",
+    "ja": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-"
+  },
+  "start_date": "2019-07-07",
+  "end_date": "2019-09-29",
+  "synopsis": "Ten years after facing defeat in the Fourth Holy Grail War, Waver Velvet, now Lord El-Melloi II, teaches classes at the Clock Tower—the center of education for mages. However, his new status as Lord comes with a caveat: obey the orders of Reines, the younger sister of the deceased Kayneth El-Melloi, until she is old enough to rule the House of El-Melloi.\n\nWaver, along with his mysterious apprentice Gray, takes on a series of cases assigned by Reines and the Mages Association. With each case proving to be more complex than the last, could there be more to the Clock Tower than meets the eye, and what secrets does Reines hide?\n\n[Written by MAL Rewrite]",
+  "mean": 7.38,
+  "rank": 2356,
+  "popularity": 1515,
+  "num_list_users": 152324,
+  "num_scoring_users": 63981,
+  "nsfw": "white",
+  "created_at": "2019-01-01T02:40:27+00:00",
+  "updated_at": "2023-09-30T01:35:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1103,
+      "name": "TROYCA"
+    }
+  ]
+}

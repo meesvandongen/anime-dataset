@@ -1,0 +1,56 @@
+{
+  "id": 51692,
+  "title": "Yoru wa Neko to Issho",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1969/124909.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1969/124909l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zutto Neko Shoshinsha"
+    ],
+    "en": "Nights with a Cat",
+    "ja": "夜は猫といっしょ"
+  },
+  "start_date": "2022-08-04",
+  "end_date": "2023-01-11",
+  "synopsis": "Fuuta-kun has never owned a cat before, but his younger sister, Pii-chan, moves into his house with the round gray cat Kyuruga. Inexperienced with cats, Fuuta-kun has no idea what to expect, and each night after he returns home is marked by odd and endearing surprises from his new pet.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.16,
+  "rank": 3478,
+  "popularity": 5623,
+  "num_list_users": 13676,
+  "num_scoring_users": 4188,
+  "nsfw": "white",
+  "created_at": "2022-04-26T03:09:27+00:00",
+  "updated_at": "2023-01-13T11:45:33+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 150,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 443,
+      "name": "Studio PuYUKAI"
+    }
+  ]
+}

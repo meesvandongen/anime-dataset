@@ -1,0 +1,51 @@
+{
+  "id": 32136,
+  "title": "Narara Superboard",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/77220.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/77220l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Flying Superboard",
+    "ja": "날아라 슈퍼보드"
+  },
+  "start_date": "1990-08-21",
+  "end_date": "2002-01-11",
+  "synopsis": "As a punishment for causing havoc in Heaven, Sonogong is locked in a huge iron mass for 500 years until Samjang Bupsa, an old priest embarking on a mission to rid the world of evil and spread peace throughout the land, rescues him. Sonogong becomes Samjang's disciple. He meets Saojung who enviously eyes Sonogong's amazing Superboard, and a brute swine oil seller Jopalgye. After several twists and turns, they join on Samjang's journey. Wherever they go, they meet overwhelming enemies and get into trouble. But they don't get frustrated and find ingenious way to defeat monsters.\n\n(Source: AniDB)",
+  "rank": 16777,
+  "popularity": 16105,
+  "num_list_users": 491,
+  "num_scoring_users": 115,
+  "nsfw": "white",
+  "created_at": "2015-11-24T05:29:56+00:00",
+  "updated_at": "2021-04-28T14:37:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 54,
+  "start_season": {
+    "year": 1990,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday"
+  },
+  "source": "manga",
+  "average_episode_duration": 1340,
+  "rating": "pg",
+  "studios": []
+}

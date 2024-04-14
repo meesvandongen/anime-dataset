@@ -1,0 +1,68 @@
+{
+  "id": 20329,
+  "title": "Koroshiya-san: The Hired Gun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/55531.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/55531l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mr. Hitman"
+    ],
+    "en": "",
+    "ja": "殺し屋さん The hired gun"
+  },
+  "start_date": "2013-10-11",
+  "end_date": "2013-12-13",
+  "synopsis": "The comedy story follows the title character, who is regarded by himself and others as the best hit man in Japan. He goes by the motto, \"If I have an assignment, I will kill anything.\" However, his \"killing\" assignments have expanded to include everything from summer vacation homework to housekeeping. \"The hit man never fails to kill the target. Though he does not aim to, he also never misses the laughter.\"\n\n(Source: ANN)",
+  "mean": 5.46,
+  "rank": 11721,
+  "popularity": 7187,
+  "num_list_users": 7474,
+  "num_scoring_users": 2745,
+  "nsfw": "white",
+  "created_at": "2013-08-25T15:52:18+00:00",
+  "updated_at": "2022-02-26T11:14:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:00"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1013,
+      "name": "Opera House"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 20673,
+  "title": "Hinata no Aoshigure",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1775/121961.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1775/121961l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rain in the Sunshine"
+    ],
+    "en": "Sonny Boy & Dewdrop Girl",
+    "ja": "陽なたのアオシグレ"
+  },
+  "start_date": "2013-11-09",
+  "end_date": "2013-11-09",
+  "synopsis": "Hinata is very good at drawing and falls in love with his classmate, Shigure; however, Hinata is not good at talking to people, so he keeps his feelings in his imagination and drawings. Then, Shigure's family decides to move to another town. On the day of their move, Hinata says to himself, \"I must tell her my feelings!\" and starts to chase after the train which is taking Shigure away.\n\n(Source: MAL)",
+  "mean": 6.88,
+  "rank": 4843,
+  "popularity": 4361,
+  "num_list_users": 25677,
+  "num_scoring_users": 9443,
+  "nsfw": "white",
+  "created_at": "2013-09-29T07:20:59+00:00",
+  "updated_at": "2022-09-24T09:50:04+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1080,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1033,
+      "name": "Studio Colorido"
+    }
+  ]
+}

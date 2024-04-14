@@ -1,0 +1,60 @@
+{
+  "id": 32551,
+  "title": "Digimon Adventure tri. 3: Kokuhaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/82612.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/82612l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Digimon tri. 3"
+    ],
+    "en": "Digimon Adventure tri. Confession",
+    "ja": "デジモンアドベンチャーtri.（トライ）第３章「告白」"
+  },
+  "start_date": "2016-09-24",
+  "end_date": "2016-09-24",
+  "synopsis": "The Chosen Children are in shock after the betrayal of Meicoomon, the digital monster who had recently joined their group alongside her human partner, Meiko Mochizuki. Koushirou Izumi is determined to diagnose the infection that took control of Meicoomon. Meanwhile, Takeru Takaishi realizes that his own partner, Patamon, is starting to exhibit alarming symptoms similar to those of other infected Digimon, like Meicoomon.\n\nJust then, the Chosen Children receive a message from the mysterious entity Homeostasis, who informs them that their world is in danger of total destruction—and the Digital World, the home of the Digimon, is too. Homeostasis plans to enact a \"Reboot,\" which will reset all the data that makes up the Digital World and eradicate the infection. However, the Reboot will also erase the memories of all Digimon, including the Children's partners. Can the Chosen Children stop Meicoomon before the Reboot becomes necessary, or is this the end of their time together with their Digimon?\n\n[Written by MAL Rewrite]",
+  "mean": 7.61,
+  "rank": 1463,
+  "popularity": 2502,
+  "num_list_users": 73784,
+  "num_scoring_users": 39603,
+  "nsfw": "white",
+  "created_at": "2016-01-16T08:04:30+00:00",
+  "updated_at": "2023-02-27T22:02:52+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 6300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

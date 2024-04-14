@@ -1,0 +1,49 @@
+{
+  "id": 7108,
+  "title": "Shikabane Hime: Puchitto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/16690.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/16690l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shikabane Hime: Chibi Special",
+      "Shikabane Hime: Kuro Omake"
+    ],
+    "en": "",
+    "ja": "屍姫ぷちっと"
+  },
+  "start_date": "2009-08-05",
+  "end_date": "2009-08-05",
+  "synopsis": "Chibi comedy released as a DVD extra. ",
+  "mean": 6.1,
+  "rank": 9073,
+  "popularity": 8622,
+  "num_list_users": 4729,
+  "num_scoring_users": 1755,
+  "nsfw": "white",
+  "created_at": "2009-08-29T23:06:35+00:00",
+  "updated_at": "2018-04-02T12:49:11+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 237,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

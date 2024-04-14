@@ -1,0 +1,60 @@
+{
+  "id": 53434,
+  "title": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1346/141203.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1346/141203l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I, the Demon Lord, Took a Slave Elf as My Wife, but How Do I Love Her?",
+      "Madome"
+    ],
+    "en": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+    "ja": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？"
+  },
+  "start_date": "2024-04-05",
+  "synopsis": "When the sorcerer Zagan decides to participate in an auction selling the goods of the now dead Archdemon Marchosias, he expects to find items of untold power. What he finds instead is a rare white-haired slave elf named Nephelia, and he immediately spends all his money to purchase her, much to the bewilderment of those around him. However, the secret reason behind Zagan's investment was that he had actually fallen in love with her at first sight.\n\nUnfortunately, Zagan has a problem: he is socially inept and has no idea how to express his true feelings, leading to many misunderstandings between him and his new companion. But slowly, the two begin to understand each other, and love begins to bloom.\n\n[Written by MAL Rewrite]",
+  "mean": 7.57,
+  "rank": 1577,
+  "popularity": 2707,
+  "num_list_users": 64271,
+  "num_scoring_users": 7845,
+  "nsfw": "white",
+  "created_at": "2022-10-27T13:37:05+00:00",
+  "updated_at": "2024-04-13T07:54:35+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

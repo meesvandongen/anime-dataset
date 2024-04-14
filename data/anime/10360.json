@@ -1,0 +1,50 @@
+{
+  "id": 10360,
+  "title": "Kinniku Banzuke: Kongou-kun no Daibouken!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/28485.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/28485l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "筋肉番付 金剛くんの大冒険!"
+  },
+  "start_date": "2001-07-30",
+  "end_date": "2001-08-30",
+  "synopsis": "A group of school children are invited to compete in the strongest man competition. As the first match is starting, the bored organizer announces that all matches will now be to the death. None of the competitors have a problem with the change. Who will survive and be crowned the strongest? \n\n(Source: AniDB)",
+  "mean": 5.02,
+  "rank": 12643,
+  "popularity": 14067,
+  "num_list_users": 831,
+  "num_scoring_users": 266,
+  "nsfw": "white",
+  "created_at": "2011-02-17T11:31:54+00:00",
+  "updated_at": "2024-03-06T11:02:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1340,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

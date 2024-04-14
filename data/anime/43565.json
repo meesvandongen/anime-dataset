@@ -1,0 +1,57 @@
+{
+  "id": 43565,
+  "title": "Fire Emblem Heroes Book III Movie：Cohort of the Dead",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1940/109902.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1940/109902l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fire Emblem Heroes: Book III Movie - Cohort of the Dead",
+    "ja": "ファイアーエムブレム ヒーローズ - Book Ⅲ Movie：Cohort of the Dead"
+  },
+  "start_date": "2019-07-21",
+  "end_date": "2019-07-21",
+  "synopsis": "A mini movie released on the Fire Emblem Heroes website in honor of a major plot twist in Book 3.",
+  "mean": 6.28,
+  "rank": 8185,
+  "popularity": 13510,
+  "num_list_users": 965,
+  "num_scoring_users": 411,
+  "nsfw": "white",
+  "created_at": "2020-10-23T02:19:54+00:00",
+  "updated_at": "2022-10-09T02:39:16+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 96,
+  "rating": "pg_13",
+  "studios": []
+}

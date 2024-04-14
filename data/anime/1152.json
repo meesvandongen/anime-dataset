@@ -1,0 +1,65 @@
+{
+  "id": 1152,
+  "title": "New Dominion Tank Police",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1195/110635.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1195/110635l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tokusou Sensha-tai Dominion",
+      "Tokusou Senshatai Dominion"
+    ],
+    "en": "",
+    "ja": "特捜戦車隊ドミニオン"
+  },
+  "start_date": "1993-10-20",
+  "end_date": "1994-10-21",
+  "synopsis": "In the follow up to Shirow's classic anime, Al, Leona and their trusty steed, Bonaparte, continue to fight crime in New Port City, alongside the rest of the Tank Police. But a new threat appears in the form of a series of terrorist attacks, using the latest weapons technology. The Tank Police are out-numbered and out-gunned, but Al and Leona set out to discover who or what is behind these attacks. With massive explosions and high-speed chases, Leona often causes more damage than the criminals she pursues.\n\n(Source: ANN)",
+  "mean": 6.89,
+  "rank": 4776,
+  "popularity": 5962,
+  "num_list_users": 11730,
+  "num_scoring_users": 4905,
+  "nsfw": "white",
+  "created_at": "2006-07-06T00:32:05+00:00",
+  "updated_at": "2022-03-01T08:54:25+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1634,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

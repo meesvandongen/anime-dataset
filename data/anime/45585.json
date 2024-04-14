@@ -1,0 +1,49 @@
+{
+  "id": 45585,
+  "title": "2.43 Mini Anime: Volleyball Kouza",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1194/111069.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1194/111069l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "「2.43　清陰高校男子バレー部」ミニアニメ　バレーボール講座編"
+  },
+  "start_date": "2020-11-29",
+  "end_date": "2021-01-03",
+  "synopsis": "Short episodes with super-deformed characters posted on the official Twitter account and the official YouTube channel.",
+  "mean": 5.2,
+  "rank": 12366,
+  "popularity": 11660,
+  "num_list_users": 1725,
+  "num_scoring_users": 421,
+  "nsfw": "white",
+  "created_at": "2020-12-28T10:23:48+00:00",
+  "updated_at": "2022-02-15T18:01:33+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 135,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2243,
+  "title": "Karasu Tengu Kabuto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/2445.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/2445l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Crow Demon Kabuto",
+      "Raven Goblin Kabuto"
+    ],
+    "en": "",
+    "ja": "カラス天狗カブト"
+  },
+  "start_date": "1990-07-29",
+  "end_date": "1991-06-30",
+  "synopsis": "500 years ago in the Tensho Era of Japan, a man was born who defied the will of a demon; a man who had gods of good on his side; a man destined to battle evil....his name was Kabuto. Somehow, Kuroyasya Douki, the vile Black Night Demon, escaped his prison in hell and returned to the earthly plane to wreak vengeance on the family-line of Kabuto. None can escape his deadly magic and masterful skills with the blade; however, the gods of the North, West, East, and South band together to help Kabuto stand for Justice. With the questionable help of a diabolical talking sword that his own father forged, Kabuto may live another day to see his own sons born....",
+  "mean": 6.76,
+  "rank": 5383,
+  "popularity": 10130,
+  "num_list_users": 2815,
+  "num_scoring_users": 608,
+  "nsfw": "white",
+  "created_at": "2007-04-03T17:31:38+00:00",
+  "updated_at": "2021-12-20T21:48:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1990,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1191,
+      "name": "Azeta Pictures"
+    }
+  ]
+}

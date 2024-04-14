@@ -1,0 +1,68 @@
+{
+  "id": 9403,
+  "title": "Shin Mashin Eiyuuden Wataru Majinzan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1823/94149.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1823/94149l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "New Spirit Hero Wataru",
+      "True Spirit Hero Wataru"
+    ],
+    "en": "",
+    "ja": "真魔神英雄伝ワタル 魔神山編"
+  },
+  "start_date": "1989-08-05",
+  "end_date": "1989-09-05",
+  "synopsis": "Set a few months after the original series, Wataru is called into action once again!",
+  "mean": 6.33,
+  "rank": 7862,
+  "popularity": 13980,
+  "num_list_users": 856,
+  "num_scoring_users": 219,
+  "nsfw": "white",
+  "created_at": "2010-08-20T18:40:26+00:00",
+  "updated_at": "2024-01-13T23:02:11+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 34745,
+  "title": "Mahoujin Guruguru (2017)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1880/103168.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1880/103168l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magical Circle",
+    "ja": "魔法陣グルグル"
+  },
+  "start_date": "2017-07-11",
+  "end_date": "2017-12-20",
+  "synopsis": "Nike was a simple boy from Boering Village, and the last thing he ever wanted was to become a hero. But when a sign appears from the king of Ainshent Castle Town recruiting heroes to slay the Demon Lord Giri, Nike's father enthusiastically forces him out the door. Along with Kukuri, a member of the Migu Migu Clan, Nike sets out on an adventure to become the legendary hero that the world needs.\n\nAs Nike and Kukuri travel across different continents, they attempt to learn the secrets of Guru Guru Magic, a strange but powerful type of magic used to seal Demon Lord Giri's power. While reluctantly taking on their assigned quest, the duo does not fail to acquire new comrades and have fun along the way.\n\n[Written by MAL Rewrite]",
+  "mean": 7.8,
+  "rank": 991,
+  "popularity": 3863,
+  "num_list_users": 33062,
+  "num_scoring_users": 10297,
+  "nsfw": "white",
+  "created_at": "2017-01-11T00:38:15+00:00",
+  "updated_at": "2023-01-07T05:50:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1465,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

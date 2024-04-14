@@ -1,0 +1,62 @@
+{
+  "id": 14073,
+  "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75842.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75842l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ebiten",
+    "ja": "えびてん 公立海老栖川高校天悶部"
+  },
+  "start_date": "2012-07-14",
+  "end_date": "2012-09-15",
+  "synopsis": "Noya Itsuki just transferred to Ebisugawa High School. Since he has always had a fascination with space, he decides to join the Astronomy Club; however, he mistakenly walks into the Asstronomy Club—a club whose members are all female otaku. Itsuki notices that the members are really weird, but he has yet to realize that he joined the wrong club. His life becomes very strange very quickly.",
+  "mean": 6.17,
+  "rank": 8710,
+  "popularity": 4283,
+  "num_list_users": 26700,
+  "num_scoring_users": 8933,
+  "nsfw": "white",
+  "created_at": "2012-05-09T21:26:07+00:00",
+  "updated_at": "2022-04-09T17:21:04+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1490,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1306,
+      "name": "AIC Classic"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 38828,
+  "title": "Ketakuma no DVD",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1077/97399.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1077/97399l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Takuma",
+      "Ketatamashiku Ugoko Kuma"
+    ],
+    "en": "",
+    "ja": "けたくまのDVD"
+  },
+  "start_date": "2018-11-21",
+  "end_date": "2018-11-21",
+  "synopsis": "Ketakuma is a popular LINE stamp character. He's featured in the gif stamps section and his character won the 2016 LINE Creators Stamp Award. Pony Canyon has now teamed up with Ketakuma's designer to make a fully animated DVD ripe with comedy skits and music videos.  ",
+  "rank": 15597,
+  "popularity": 19937,
+  "num_list_users": 220,
+  "num_scoring_users": 38,
+  "nsfw": "white",
+  "created_at": "2018-12-13T10:10:02+00:00",
+  "updated_at": "2018-12-13T10:10:02+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 21,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": []
+}

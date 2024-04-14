@@ -1,0 +1,64 @@
+{
+  "id": 2740,
+  "title": "Monkey Turn",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/75223.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/75223l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I'll Be Number 1!"
+    ],
+    "en": "",
+    "ja": "モンキーターン"
+  },
+  "start_date": "2004-01-11",
+  "end_date": "2004-06-27",
+  "synopsis": "Based on Kawai Katsutoshi's manga of the same name, published in Weekly Shounen Sunday, Monkey Turn is a sports anime based around professional speed boat racing. The anime's protagonist, Tadano Kenji, is too short to follow his dream of becoming a professional baseball player, but his baseball coach recommends him to boat racing. One day Tadano-san unexpectedly meets his old girlfriend and they exchange promises: in return for her being faithful to him, he is charged with becoming Japan's best racer within three years. The eponymous \"Monkey Turn\" is a boat maneuver Kenji-san thought up while visiting his girlfriend. The Monkey Turn gives Kenji quite the advantage over other boaters, but is it enough for him become the best?\n\n(Source: AniDB)",
+  "mean": 6.81,
+  "rank": 5157,
+  "popularity": 11444,
+  "num_list_users": 1858,
+  "num_scoring_users": 454,
+  "nsfw": "white",
+  "created_at": "2007-06-26T07:26:48+00:00",
+  "updated_at": "2021-09-11T18:51:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2004,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1437,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 7376,
+  "title": "Kurumiwari Ningyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/17651.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/17651l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Nutcracker Fantasy",
+    "ja": "くるみ割り人形"
+  },
+  "start_date": "1979-03-03",
+  "end_date": "1979-03-03",
+  "synopsis": "The young girl Clara visits her Aunt Gerda and Uncle Drosselmeyer. Her aunt tells her scary stories about the Ragman, a creepy and mysterious man who turns children into mice if they don't go to bed on time. The Ragman is always spying on sleeping children searching for more victims.\nJust before Clara goes to bed her eccentric uncle gives her a wooden nutcracker doll. He's a bit embarrassed because the only part on the doll that's perfect is the heart, but Clara loves her new doll.\nShe falls asleep but wakes up hearing mice squeaking...",
+  "mean": 6.21,
+  "rank": 8514,
+  "popularity": 13007,
+  "num_list_users": 1116,
+  "num_scoring_users": 359,
+  "nsfw": "white",
+  "created_at": "2009-10-22T19:52:16+00:00",
+  "updated_at": "2022-08-14T06:37:32+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "winter"
+  },
+  "average_episode_duration": 5687,
+  "rating": "g",
+  "studios": []
+}

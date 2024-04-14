@@ -1,0 +1,66 @@
+{
+  "id": 31422,
+  "title": "Minami Kamakura Koukou Joshi Jitensha-bu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/83345.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/83345l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Minami Kamakura High School Girls Cycling Club",
+    "ja": "南鎌倉高校女子自転車部"
+  },
+  "start_date": "2017-01-07",
+  "end_date": "2017-03-25",
+  "synopsis": "Maiharu Hiromi has moved from Nagasaki to Kamakura. She begins her new life in Kamakura and her first day in Minami Kamakura High School by cycling to her school, but she has not ridden a bicycle in many years. On the way to the first day ceremony she almost crashes into Akizuki Tomoe. Obviously Hiromi needs a lot more practice, so Tomoe decides to help Hiromi train to become better at riding a bicycle, and they become good friends.\n\nWhen they discover that the school used to have a bicycle club, the girls, together with Kamikura Fuyune and Higa Natsumi, resurrect the club naming it the Minami Kamakura High School Girls Bicycle Club.\n\n(Source: AniDB)",
+  "mean": 6.35,
+  "rank": 7746,
+  "popularity": 4689,
+  "num_list_users": 21617,
+  "num_scoring_users": 7827,
+  "nsfw": "white",
+  "created_at": "2015-08-10T23:01:28+00:00",
+  "updated_at": "2023-01-09T06:44:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    },
+    {
+      "id": 179,
+      "name": "A.C.G.T."
+    }
+  ]
+}

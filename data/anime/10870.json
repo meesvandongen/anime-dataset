@@ -1,0 +1,56 @@
+{
+  "id": 10870,
+  "title": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/30022.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/30022l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ghost in the Shell: Stand Alone Complex - Tachikoma na Hibi Specials"
+    ],
+    "en": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+    "ja": "攻殻機動隊 STAND ALONE COMPLEX タチコマな日々"
+  },
+  "start_date": "2007-05-02",
+  "end_date": "2008-04-13",
+  "synopsis": "Tachikoma TV series that aired on Animax. Unlike the previous \"Tachikoma na Hibi,\" which were auxiliary episodes to the main Ghost in the Shell SAC and 2nd GIG, the special version has longer stories based on various Japanese and Orthodox folklore. Later re-released on a BD box with all the Tachikoma shorts.",
+  "mean": 7.2,
+  "rank": 3264,
+  "popularity": 5815,
+  "num_list_users": 12494,
+  "num_scoring_users": 3674,
+  "nsfw": "white",
+  "created_at": "2011-06-26T13:33:29+00:00",
+  "updated_at": "2022-04-17T23:15:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 210,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

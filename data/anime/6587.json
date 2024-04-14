@@ -1,0 +1,67 @@
+{
+  "id": 6587,
+  "title": "Kurokami: Intermission",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/15086.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/15086l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kurokami: Tokubetsu Hen Intermission",
+      "Kurokami: Intermission Special",
+      "Kurokami Recap",
+      "Black God Special"
+    ],
+    "en": "",
+    "ja": "特別編 インターミッション"
+  },
+  "start_date": "2009-04-03",
+  "end_date": "2009-04-03",
+  "synopsis": "A recap of the first part of the series.",
+  "mean": 6.59,
+  "rank": 6372,
+  "popularity": 7562,
+  "num_list_users": 6564,
+  "num_scoring_users": 2293,
+  "nsfw": "white",
+  "created_at": "2009-06-08T15:29:51+00:00",
+  "updated_at": "2024-02-07T15:38:40+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1389,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

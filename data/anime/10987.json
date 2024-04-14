@@ -1,0 +1,52 @@
+{
+  "id": 10987,
+  "title": "Zettai Zetsumei Dangerous Jiisan (2004)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/30499.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/30499l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Grandpa Danger"
+    ],
+    "en": "",
+    "ja": "絶体絶命でんぢゃらすじーさん"
+  },
+  "start_date": "2004-04-04",
+  "end_date": "2005-03-27",
+  "synopsis": "Grandpa Danger is a world where the great protector is Grandpa Danger! He's an expert at falling off of cliffs, dealing with a principal who suffers from a severe inferiority complex, and escaping the hidden dangers of sleep! He's a nonsensical, utterly disgusting, relentless prankster. Grandpa Danger's excessive phlegm and farts frustrate Grandson to hilarious extremes, and make you laugh until your stomach splits!\n\n(Source: AniDB)",
+  "mean": 5.75,
+  "rank": 10658,
+  "popularity": 15599,
+  "num_list_users": 545,
+  "num_scoring_users": 143,
+  "nsfw": "white",
+  "created_at": "2011-07-21T18:23:37+00:00",
+  "updated_at": "2021-12-09T22:56:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 101,
+      "name": "Studio Hibari"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 52871,
+  "title": "Watashi wa Saikyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1273/137427.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1273/137427l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "I'm Invincible",
+    "ja": "私は最強"
+  },
+  "start_date": "2022-06-22",
+  "end_date": "2022-06-22",
+  "synopsis": "Music video for the song Watashi wa Saikyou by Ado.",
+  "mean": 7.16,
+  "popularity": 11147,
+  "num_list_users": 2057,
+  "num_scoring_users": 1215,
+  "nsfw": "white",
+  "created_at": "2022-08-23T04:21:54+00:00",
+  "updated_at": "2022-08-23T06:49:04+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 270,
+  "rating": "pg_13",
+  "studios": []
+}

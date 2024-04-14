@@ -1,0 +1,72 @@
+{
+  "id": 1295,
+  "title": "A-Ko The Versus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/41427.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/41427l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Project A-Ko: Vs"
+    ],
+    "en": "Project A-ko: Uncivil Wars",
+    "ja": "A-Ko The VS [ヴァーサス]"
+  },
+  "start_date": "1990-07-21",
+  "end_date": "1990-08-21",
+  "synopsis": "A-ko and B-ko are bounty hunters in an untamed world. When a young heiress, C-ko, falls out of the sky and into their hair, they find themselves battling space pirates and galactic police. Turns out the high-pitched, hungry C-ko holds a secret—the spirit of an ancient evil—and is the center of a plot to destroy the universe!",
+  "mean": 6.23,
+  "rank": 8402,
+  "popularity": 7919,
+  "num_list_users": 5856,
+  "num_scoring_users": 2498,
+  "nsfw": "white",
+  "created_at": "2006-08-08T18:29:44+00:00",
+  "updated_at": "2021-12-04T15:55:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1990,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 3060,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 24,
+      "name": "Studio Fantasia"
+    },
+    {
+      "id": 438,
+      "name": "Studio Signal"
+    }
+  ]
+}

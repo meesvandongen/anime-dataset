@@ -1,0 +1,60 @@
+{
+  "id": 50201,
+  "title": "Namui BL Manhwa Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1289/118953.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1289/118953l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nam-ui BL Manhwa",
+      "NBM, Someone Else's BL Comic Animation"
+    ],
+    "en": "Someone Else's BL Cartoon",
+    "ja": "남의 BL만화’ 애니메이션"
+  },
+  "start_date": "2018-01-11",
+  "end_date": "2018-06-14",
+  "synopsis": "Seunghee may seem like a regular high school boy, but he's got a few secrets: he loves to cross-dress and read BL comics. He's looking for a match that will accept him, but it's classmate Seungtaek who spies him on a date gone bad. Now that someone at school knows he's gay, can Seunghee's life remain ordinary the way he likes it?\n\n(Source: TappyToon)\n\nNamui BL Manhwa Animation is a Korean web adaptation of bbobariee's Manhwa made by BOOKCUBE Studio.",
+  "mean": 5.25,
+  "rank": 12262,
+  "popularity": 11571,
+  "num_list_users": 1783,
+  "num_scoring_users": 413,
+  "nsfw": "gray",
+  "created_at": "2021-10-24T00:54:52+00:00",
+  "updated_at": "2023-12-30T09:13:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": []
+}

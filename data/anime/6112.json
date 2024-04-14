@@ -1,0 +1,64 @@
+{
+  "id": 6112,
+  "title": "Shin Koihime†Musou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/74035.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/74035l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Koihime Musou: Otome Ryouran Sangokushi Engi"
+    ],
+    "en": "",
+    "ja": "真恋姫†無双 ～乙女繚乱☆三国志演義～"
+  },
+  "start_date": "2009-10-05",
+  "end_date": "2009-12-21",
+  "synopsis": "Following the battle for Touka Village and clearing the area of bandits, Unchou Kan'u, Chouhi Yokutoku, and Shokatsuryou Koumei prepare for the next step of their journey. They encounter someone surprising—a young woman claiming to be Gentoku Ryuubi! After being framed for various crimes, Ryuubi is on a mission to reclaim her family heirloom, the sword of Chuuzan Seiou, and clear her name from the evil deeds she allegedly committed.\n\nFor Ryuubi's own safety, the four girls join forces and pursue the sword as it repeatedly changes hands, but they are never quite able to catch up to the current owner. During the adventure, Kan'u and the others meet several familiar faces who happily do what they can to assist in the hunt. Meanwhile, Kan'u and Chouhi continue to learn that there is more to family than blood relations.\n\n[Written by MAL Rewrite]",
+  "mean": 6.79,
+  "rank": 5241,
+  "popularity": 3924,
+  "num_list_users": 32225,
+  "num_scoring_users": 12297,
+  "nsfw": "white",
+  "created_at": "2009-02-24T04:15:55+00:00",
+  "updated_at": "2023-07-30T03:40:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1495,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

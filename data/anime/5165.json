@@ -1,0 +1,50 @@
+{
+  "id": 5165,
+  "title": "Macross 25-shuunen Kinen: All That VF Macross F Version",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/11346.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/11346l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Macross 25th Anniversary Special Eizou: All That VF Macross F Version"
+    ],
+    "en": "Macross 25th Anniversary: All That VF Macross F Version",
+    "ja": "マクロス 25周年記念 『All That VF -Version F-』"
+  },
+  "start_date": "2008-08",
+  "end_date": "2008-08",
+  "synopsis": "Short movie about the Variable Fighters in Macross F.",
+  "mean": 6.23,
+  "rank": 8438,
+  "popularity": 9348,
+  "num_list_users": 3676,
+  "num_scoring_users": 1415,
+  "nsfw": "white",
+  "created_at": "2008-08-30T20:34:30+00:00",
+  "updated_at": "2023-05-25T06:16:57+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}

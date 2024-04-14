@@ -1,0 +1,55 @@
+{
+  "id": 21547,
+  "title": "Shin Choubakumatsu Shounen Seiki Takamaru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/56783.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/56783l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Cho Bakumatsu Shonen Seiki Takamaru",
+      "Children Build The Future"
+    ],
+    "en": "",
+    "ja": "新・超幕末少年世紀タカマル"
+  },
+  "start_date": "1992-11-21",
+  "end_date": "1993-06-20",
+  "synopsis": "",
+  "rank": 18041,
+  "popularity": 17229,
+  "num_list_users": 393,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2013-12-11T09:54:42+00:00",
+  "updated_at": "2013-12-11T09:55:25+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "average_episode_duration": 1686,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

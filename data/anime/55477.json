@@ -1,0 +1,44 @@
+{
+  "id": 55477,
+  "title": "Dreaming All Alone",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1729/136129.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1729/136129l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dreaming All Alone",
+    "ja": "Dreaming All Alone"
+  },
+  "start_date": "2021-12-05",
+  "end_date": "2021-12-05",
+  "synopsis": "Music video for the song Dreaming All Alone by Tacitly.",
+  "popularity": 21987,
+  "num_list_users": 117,
+  "num_scoring_users": 62,
+  "nsfw": "white",
+  "created_at": "2023-05-25T17:06:34+00:00",
+  "updated_at": "2023-05-31T08:19:56+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 194,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2525,
+      "name": "Hurray!"
+    }
+  ]
+}

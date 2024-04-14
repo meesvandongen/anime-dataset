@@ -1,0 +1,53 @@
+{
+  "id": 34871,
+  "title": "Sore Ike! Anpanman: Buruburu no Takarasagashi Daibouken!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1786/91027.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1786/91027l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "それいけ！アンパンマン ブルブルの宝探し大冒険！"
+  },
+  "start_date": "2017-07-01",
+  "end_date": "2017-07-01",
+  "synopsis": "The film centers on Buruburu, a cowardly lion who is a member of a clan of treasure hunters. He is given a treasure map by his father. With the help of Anpanman, he sets out on an adventure to prove himself to the other clan members. Baikinman, however, appears and schemes to take the treasure for himself.\n\n(Source: ANN)",
+  "rank": 13546,
+  "popularity": 17484,
+  "num_list_users": 374,
+  "num_scoring_users": 81,
+  "nsfw": "white",
+  "created_at": "2017-02-06T02:53:26+00:00",
+  "updated_at": "2018-03-13T09:09:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 0,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

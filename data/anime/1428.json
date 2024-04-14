@@ -1,0 +1,66 @@
+{
+  "id": 1428,
+  "title": "Lupin III: Pilot Film (1978)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1185/130917.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1185/130917l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rupan Sansei Secret Files",
+      "Lupin Sansei Pilot Film",
+      "Lupin III - Pilot Film",
+      "Lupin III: Secret File"
+    ],
+    "en": "",
+    "ja": "ルパン三世 シークレットファイル"
+  },
+  "start_date": "1978-12-16",
+  "end_date": "1978-12-16",
+  "synopsis": "A remastered version of the Pilot film, realised in 1978, re-photographed in cinemascope and re-dubbed for being screened in cinema before of 1st movie [Mamoo's 1st copy]. In 1989, it was included on the Lupin III - Secret File OVA.\n",
+  "mean": 6.31,
+  "rank": 7952,
+  "popularity": 7929,
+  "num_list_users": 5836,
+  "num_scoring_users": 2274,
+  "nsfw": "white",
+  "created_at": "2006-08-21T08:17:12+00:00",
+  "updated_at": "2022-05-26T07:18:22+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1978,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 757,
+  "rating": "r+",
+  "studios": []
+}

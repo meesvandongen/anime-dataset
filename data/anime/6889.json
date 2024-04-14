@@ -1,0 +1,71 @@
+{
+  "id": 6889,
+  "title": "Time Bokan Series: Zenderman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1695/133611.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1695/133611l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Time Bokan Series: Zendaman"
+    ],
+    "en": "",
+    "ja": "タイムボカンシリーズ　ゼンダマン"
+  },
+  "start_date": "1979-02-03",
+  "end_date": "1980-01-26",
+  "synopsis": "Dr Monja is a scientist who is curious about the nature of the legendary Elixir of Life which grants the drink eternal lifetimes and forever youth. He built a device called the \"Time Tunnel\" in order to let a team of youngsters to start a quest down the timeline and various spaces to find an exact answer. A trio of villains, however, is also seemingly after the exact same thing.\n\n(Source: Wikipedia)",
+  "mean": 5.88,
+  "rank": 10129,
+  "popularity": 12910,
+  "num_list_users": 1146,
+  "num_scoring_users": 288,
+  "nsfw": "white",
+  "created_at": "2009-07-27T16:54:52+00:00",
+  "updated_at": "2021-06-25T14:14:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1979,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:30"
+  },
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

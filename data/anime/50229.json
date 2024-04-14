@@ -1,0 +1,41 @@
+{
+  "id": 50229,
+  "title": "Setsuna no Uzu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1440/119005.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1440/119005l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Vortex of the Moment"
+    ],
+    "en": "Whirlpool Of The Moment",
+    "ja": "刹那の渦"
+  },
+  "start_date": "2020-12-19",
+  "end_date": "2020-12-19",
+  "synopsis": "Music video for the song Setsuna no Uzu by Keina Suda.",
+  "popularity": 20700,
+  "num_list_users": 177,
+  "num_scoring_users": 89,
+  "nsfw": "gray",
+  "created_at": "2021-10-26T18:57:43+00:00",
+  "updated_at": "2022-04-01T19:08:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 243,
+  "rating": "g",
+  "studios": []
+}

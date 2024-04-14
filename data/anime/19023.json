@@ -1,0 +1,64 @@
+{
+  "id": 19023,
+  "title": "Wake Up, Girls!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/58971.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/58971l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "WUG!"
+    ],
+    "en": "Wake Up, Girls!",
+    "ja": "Wake Up, Girls！"
+  },
+  "start_date": "2014-01-11",
+  "end_date": "2014-03-29",
+  "synopsis": "The gateway to Idol stardom might have opened for the newly formed singing group Wake Up, Girls, but the path to fame is full of perils and pitfalls. And for Mayu, Airi, Minami, Yoshino, Nanami, Kaya and Miyu, it's going to be especially difficult knowing who to trust, as their manager Matsuda's lack of experience could give other, less scrupulous, individuals a chance to take advantage.\n\nThat's a situation that quickly comes to a head when Green Leaves' president suddenly disappears with most of the money, and things only get worse when the replacement producer seems more interested in getting the girls into revealing swimsuits than promoting their music.\n\nAs malicious gossip begins to surface regarding Mayu's past membership in a rival group, and internal tensions begin to tear the team apart, they'll need more than just ambition to survive. Singing may be a business, but friendship and a love of music is what will keep everything together.\n\n(Source: Sentai Filmworks)",
+  "mean": 7.03,
+  "rank": 4167,
+  "popularity": 2980,
+  "num_list_users": 54390,
+  "num_scoring_users": 19376,
+  "nsfw": "white",
+  "created_at": "2013-06-09T17:23:10+00:00",
+  "updated_at": "2022-03-23T08:02:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:23"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    },
+    {
+      "id": 334,
+      "name": "Ordet"
+    }
+  ]
+}

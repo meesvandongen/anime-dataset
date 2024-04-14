@@ -1,0 +1,48 @@
+{
+  "id": 36498,
+  "title": "Arslan Senki (TV): Fuujin Ranbu - Arsen 4-koma Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/88122.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/88122l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Arslan Senki (TV): Fuujin Ranbu Specials"
+    ],
+    "en": "",
+    "ja": "アルスラーン戦記 風塵乱舞 アル戦4コマ劇場"
+  },
+  "start_date": "2016-09-07",
+  "end_date": "2016-12-07",
+  "synopsis": "Bundled with the Blu-ray/DVD volumes of Arslan Senki (TV): Fuujin Ranbu.",
+  "mean": 6.3,
+  "rank": 8018,
+  "popularity": 8513,
+  "num_list_users": 4920,
+  "num_scoring_users": 1095,
+  "nsfw": "white",
+  "created_at": "2017-10-03T16:40:19+00:00",
+  "updated_at": "2021-12-07T13:41:20+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 100,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

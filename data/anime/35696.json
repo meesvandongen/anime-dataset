@@ -1,0 +1,39 @@
+{
+  "id": 35696,
+  "title": "Konigiri-kun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/86112.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/86112l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "こにぎりくん"
+  },
+  "start_date": "2015-02-20",
+  "synopsis": "A stop-motion anime using bentou ingredients as the characters.",
+  "rank": 15743,
+  "popularity": 16745,
+  "num_list_users": 431,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2017-06-07T09:55:16+00:00",
+  "updated_at": "2024-02-29T06:50:09+00:00",
+  "media_type": "tv_special",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

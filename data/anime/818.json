@@ -1,0 +1,64 @@
+{
+  "id": 818,
+  "title": "Sakura Tsuushin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/74961.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/74961l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sakura Mail"
+    ],
+    "en": "Sakura Diaries",
+    "ja": "桜通信"
+  },
+  "start_date": "1997-05-21",
+  "end_date": "1997-10-22",
+  "synopsis": "A Keio University (one of the top three colleges in Japan) exam candidate, Touma Inaba, is interupted when a cute young girl, Urara Kasuga, arrives at his hotel room door. She later turns out to be his cousin who he barely remembers from his childhood. Urara, who had felt something special for him (an other-than-cousinly-love), invites Touma to live with her since he has no place to stay other than the hotel room. Before taking the test, Touma meets Meiko Yotsuba, a beautiful, sophisticated woman also trying to get into Keio. Meiko gets into Keio but Touma does not, due to a cold Urara had given him shortly before. Although he did not make it, he pretends he does to earn the respect of Meiko. Touma is caught up in a love triangle with Urara and Meiko, while struggling to keep Meiko believing he's really a Keio student and still be there for Urara at the same time. \n\n(Source: ANN)",
+  "mean": 6.14,
+  "rank": 8878,
+  "popularity": 5431,
+  "num_list_users": 14841,
+  "num_scoring_users": 5570,
+  "nsfw": "white",
+  "created_at": "2006-03-14T19:26:36+00:00",
+  "updated_at": "2022-04-06T03:24:01+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1997,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1316,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

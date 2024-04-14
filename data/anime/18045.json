@@ -1,0 +1,62 @@
+{
+  "id": 18045,
+  "title": "Koi to Senkyo to Chocolate: Koi Imouto!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/83000.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/83000l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koichoco",
+      "Love, Elections & Chocolate Special",
+      "Koi to Senkyo to Chocolate Episode 13"
+    ],
+    "en": "",
+    "ja": "恋と選挙とチョコレート 第13話「恋妹！」"
+  },
+  "start_date": "2013-03-27",
+  "end_date": "2013-03-27",
+  "synopsis": "Unaired 13th episode released on the 7th DVD/BD.",
+  "mean": 6.82,
+  "rank": 5086,
+  "popularity": 3579,
+  "num_list_users": 38898,
+  "num_scoring_users": 20469,
+  "nsfw": "white",
+  "created_at": "2013-03-28T01:38:12+00:00",
+  "updated_at": "2022-12-24T02:31:23+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 436,
+      "name": "AIC Build"
+    }
+  ]
+}

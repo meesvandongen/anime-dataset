@@ -1,0 +1,44 @@
+{
+  "id": 45453,
+  "title": "Maiquan Keke Yuangu Da Maoxian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1206/128831.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1206/128831l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Maiquan & Keke's Ancient Adventures",
+    "ja": "麦圈可可远古大冒险"
+  },
+  "start_date": "2010-02",
+  "end_date": "2010-10",
+  "synopsis": "",
+  "rank": 16162,
+  "popularity": 22843,
+  "num_list_users": 96,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2020-12-24T02:07:06+00:00",
+  "updated_at": "2022-10-05T18:29:31+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 46,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 680,
+  "rating": "pg",
+  "studios": []
+}

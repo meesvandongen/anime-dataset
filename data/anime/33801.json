@@ -1,0 +1,45 @@
+{
+  "id": 33801,
+  "title": "Shiguang Guiyu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1836/112310.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1836/112310l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Prisoners of Time",
+    "ja": "时光诡域"
+  },
+  "start_date": "2015-12-15",
+  "end_date": "2016-03-08",
+  "synopsis": "On his wedding day, Shi Xiaoguang could only helplessly watch as a mysterious power took his bride Xiaqing, away. Afterwards, he found that no one remembered the existence of “Xiaqing” and he is hunted by this unclear force. Faced with this situation, Shi Xiaoguang slowly began understanding that the world as he knew it had changed. ",
+  "mean": 5.13,
+  "rank": 12484,
+  "popularity": 12456,
+  "num_list_users": 1314,
+  "num_scoring_users": 260,
+  "nsfw": "white",
+  "created_at": "2016-08-08T22:30:47+00:00",
+  "updated_at": "2021-07-10T22:39:41+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 780,
+  "rating": "r",
+  "studios": []
+}

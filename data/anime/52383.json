@@ -1,0 +1,54 @@
+{
+  "id": 52383,
+  "title": "Yuusha-Ou GaoGaiGar: Blockaded Numbers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1134/125339.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1134/125339l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuusha-Ou GaoGaiGar Episodes 14.5 and 43.2"
+    ],
+    "en": "",
+    "ja": "勇者王ガオガイガー BLOCKADED NUMBERS"
+  },
+  "start_date": "1999-04-08",
+  "end_date": "1999-04-08",
+  "synopsis": "Special episodes released with the PlayStation game. They were later included in the Blu-ray Box of Yuusha-Ou GaoGaiGar.",
+  "rank": 15146,
+  "popularity": 20573,
+  "num_list_users": 184,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2022-07-13T17:26:39+00:00",
+  "updated_at": "2022-11-30T15:58:02+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 580,
+  "rating": "g",
+  "studios": []
+}

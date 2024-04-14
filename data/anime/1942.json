@@ -1,0 +1,58 @@
+{
+  "id": 1942,
+  "title": "Rocket Girls",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/79894.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/79894l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ロケットガール"
+  },
+  "start_date": "2007-02-22",
+  "end_date": "2007-05-18",
+  "synopsis": "When Yukari Morita decided to look for her missing father who disappeared in the South Seas, she had no idea how far her journey would take her. Just traveling to the Solomon Islands is a long way for a high school girl to go on her own, but then Yukari runs into an astronaut from the Solomon Space Association, which has been trying to build a rocket powerful enough launch a man into space.\n\nUpon meeting the petite Yukari, however, SSA director Nasuda realizes that she's small enough to go up in a less powerful rocket the SSA has already built! So he offers her a deal: if Yukari agrees to become their astronaut, the SSA will help find her missing father! Will Yukari have the right stuff to blast off in the wildest space quest ever?  \n\n(Source: Sentai Filmworks)",
+  "mean": 7.07,
+  "rank": 3972,
+  "popularity": 6619,
+  "num_list_users": 9137,
+  "num_scoring_users": 3042,
+  "nsfw": "white",
+  "created_at": "2007-02-13T17:00:11+00:00",
+  "updated_at": "2022-01-21T09:31:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2007,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1442,
+      "name": "Mook DLE"
+    }
+  ]
+}

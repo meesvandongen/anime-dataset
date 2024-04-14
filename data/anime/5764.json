@@ -1,0 +1,67 @@
+{
+  "id": 5764,
+  "title": "Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/12370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/12370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zero no Tsukaima: Princess no Rondo OVA",
+      "Zero no Tsukaima: Princesses no Rondo Special",
+      "Zero no Tsukaima: Seductive Beach",
+      "Zero no Tsukaima: Episode 6.5"
+    ],
+    "en": "The Familiar of Zero: Rondo of the Princesses OVA",
+    "ja": "ゼロの使い魔 ～三美姫（プリンセッセ）の輪舞（ロンド）～ 誘惑の砂浜"
+  },
+  "start_date": "2008-12-25",
+  "end_date": "2008-12-25",
+  "synopsis": "DVD beach episode of Zero no Tsukaima: Princesses no Rondo. Also known as episode #6.5.",
+  "mean": 7.24,
+  "rank": 3053,
+  "popularity": 2158,
+  "num_list_users": 94019,
+  "num_scoring_users": 51189,
+  "nsfw": "white",
+  "created_at": "2008-12-26T18:03:45+00:00",
+  "updated_at": "2022-04-06T13:23:23+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1410,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

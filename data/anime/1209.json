@@ -1,0 +1,54 @@
+{
+  "id": 1209,
+  "title": "Nasu: Andalusia no Natsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1006/133560.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1006/133560l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Nasu: Summer in Andalusia",
+    "ja": "茄子 アンダルシアの夏"
+  },
+  "start_date": "2003-07-26",
+  "end_date": "2003-07-26",
+  "synopsis": "Pepe is a Spanish cyclist competing in an multi-stage Iberian cycling race similar to the Tour de France. He is a support rider for one of the teams competing in the race, and his role is to assist the team's top rider in winning the overall race. As the story unfolds, the racers are set to ride through Pepe's home town in Andalusia on the same day as the wedding of his elder brother Angel to his former girlfriend Carmen. Their relationship was a factor in his decision to leave the town to pursue professional cycling, and the wedding is a frustrating reminder that his career hasn't turned out as he would have liked. Now, with the sponsor planning to drop him from the team and his family and friends cheering him on, Pepe abandons his assigned role and strives for glory.\n\n(Source: ANN)",
+  "mean": 6.99,
+  "rank": 4341,
+  "popularity": 6345,
+  "num_list_users": 10081,
+  "num_scoring_users": 4256,
+  "nsfw": "white",
+  "created_at": "2006-07-12T13:30:38+00:00",
+  "updated_at": "2023-01-09T06:52:04+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2769,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 47794,
+  "title": "MILGЯAM",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1497/112023.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1497/112023l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "MILGRAM"
+    ],
+    "en": "MILGRAM",
+    "ja": "ミルグラム"
+  },
+  "start_date": "2020-05-01",
+  "synopsis": "Es awakens in the facility Milgram to find a strange talking animal named Jackalope staring them down. Soon, they learn their purpose: as the prison guard, Es must delve into the psyches of 10 inmates, each of them imprisoned for causing the loss of life in some form or another. Their fates rest in Es' hands. Do the means justify an end, and how much does intent matter if the result is death? No matter how the lines between good and evil, right and wrong, and just and cruel are blurred, there are only two options Es can choose between: innocent or guilty.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.07,
+  "popularity": 6311,
+  "num_list_users": 10205,
+  "num_scoring_users": 1517,
+  "nsfw": "white",
+  "created_at": "2021-02-15T22:26:56+00:00",
+  "updated_at": "2023-08-31T06:14:33+00:00",
+  "media_type": "music",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 274,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2561,
+      "name": "OTOIRO"
+    }
+  ]
+}

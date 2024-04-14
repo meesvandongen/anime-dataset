@@ -1,0 +1,57 @@
+{
+  "id": 1845,
+  "title": "Gaiking: Legend of Daiku-Maryu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/74215.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/74215l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Great Sky Demon Dragon Gaiking",
+      "Gaiking: Legend of Daikuu-Maryuu"
+    ],
+    "en": "",
+    "ja": "ガイキング Legend of Daiku-Maryu"
+  },
+  "start_date": "2005-11-12",
+  "end_date": "2006-09-24",
+  "synopsis": "A boy, Tsuwabaki Daiya found a black fire in an ocean when he and his father were in a small boat. A big monster came out of the fire, and the father and the crews were disappeared into the sea. When he was about to become the next victim, a large mecka dragon appeared and saved him.\n\n5 years later since then, Daiya becomes a junior high school student. A big monster reappear, and he meets the mecha dragon,\"Daiku Maryu\". The head of the dragon separates from the body, and it turns into the body of a super robot, Gaiking. He gets in Gaiking, fights against the monster, and beats it.\n\nHe learns that there is an enemy that plots to conquer the world, and he leaves for another world, Darius, to stop the plot. \n\n(Source: AnimeNfo)",
+  "mean": 7.18,
+  "rank": 3407,
+  "popularity": 8384,
+  "num_list_users": 5090,
+  "num_scoring_users": 1495,
+  "nsfw": "white",
+  "created_at": "2007-01-15T01:19:44+00:00",
+  "updated_at": "2022-04-13T04:19:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

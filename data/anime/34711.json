@@ -1,0 +1,40 @@
+{
+  "id": 34711,
+  "title": "Benpiyaku Colace",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/83688.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/83688l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "便秘薬　コーラック"
+  },
+  "start_date": "2014-07-31",
+  "end_date": "2016-01-04",
+  "synopsis": "Taisho Pharmaceutical commissioned commercials for their new Benpiyaku Colace anti-constipation medicine. It features an intestinal-stressed struggling doe as she encounters other animals who can easily \"go\".",
+  "rank": 18515,
+  "popularity": 19888,
+  "num_list_users": 223,
+  "num_scoring_users": 73,
+  "nsfw": "white",
+  "created_at": "2017-01-05T08:21:03+00:00",
+  "updated_at": "2018-11-19T17:05:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 7,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 24,
+  "rating": "g",
+  "studios": []
+}

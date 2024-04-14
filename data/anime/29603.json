@@ -1,0 +1,50 @@
+{
+  "id": 29603,
+  "title": "Kurokan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/71221.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/71221l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クロカン"
+  },
+  "start_date": "2013-01-01",
+  "end_date": "2014",
+  "synopsis": "To Kirino High, the goal of getting into Koshien Stadium becomes important because the 100th anniversary is around the corner. However, Kurokan's unique way of training has upset the Kirino High Baseball Team Support Association and Alumni Club. Morioka, on the other hand, is a preferrable coach beacuse of his solid style. At the same time, Kurokan's decision on player positions has caused confusions to the team.\n\n(Source: Crunchyroll)",
+  "mean": 6.16,
+  "rank": 8748,
+  "popularity": 15399,
+  "num_list_users": 573,
+  "num_scoring_users": 147,
+  "nsfw": "white",
+  "created_at": "2015-01-17T02:51:07+00:00",
+  "updated_at": "2020-06-20T01:46:40+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 33,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 738,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 819,
+      "name": "Next Media Animation"
+    }
+  ]
+}

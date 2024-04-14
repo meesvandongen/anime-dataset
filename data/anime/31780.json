@@ -1,0 +1,52 @@
+{
+  "id": 31780,
+  "title": "Kimi no Kokoro wa Kagayaiteru kai?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/76534.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/76534l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Love Live! Sunshine!!",
+      "Love Live! School Idol Project"
+    ],
+    "en": "",
+    "ja": "君のこころは輝いてるかい？"
+  },
+  "start_date": "2015-10-07",
+  "end_date": "2015-10-07",
+  "synopsis": "Music video included with the debut single for the Love Live! Sunshine!! anime idol group Aqours.",
+  "mean": 7.26,
+  "popularity": 6217,
+  "num_list_users": 10590,
+  "num_scoring_users": 5138,
+  "nsfw": "white",
+  "created_at": "2015-10-06T06:55:03+00:00",
+  "updated_at": "2023-12-28T05:16:47+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 403,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

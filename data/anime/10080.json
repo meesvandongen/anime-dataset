@@ -1,0 +1,74 @@
+{
+  "id": 10080,
+  "title": "Kami nomi zo Shiru Sekai II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/30030.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/30030l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kami nomi zo Shiru Sekai 2",
+      "Kaminomi II",
+      "The World God Only Knows 2"
+    ],
+    "en": "The World God Only Knows II",
+    "ja": "神のみぞ知るセカイ II"
+  },
+  "start_date": "2011-04-12",
+  "end_date": "2011-06-28",
+  "synopsis": "Keima Katsuragi, the \"God of Conquest,\" returns to his quest of expelling runaway spirits that have possessed the hearts of women. Still stuck in his contract with the demon Elsie, he must continue to utilize the knowledge he has gained from mastering multitudes of dating simulators and chase out the phantoms that reside within by capturing the hearts of that which he hates most: three-dimensional girls.\n\nHowever, the God of Conquest has his work cut out for him. From exorcising karate practitioners and student teachers to the arrival of Elsie's best friend from Hell, he is up against a wide array of girls that will test his wit and may even take him by surprise. Though he would much rather stick to the world of 2D, he is trapped in lousy reality, and so Keima must trudge forward in his conquest of love.\n\n[Written by MAL Rewrite]",
+  "mean": 7.87,
+  "rank": 838,
+  "popularity": 591,
+  "num_list_users": 390382,
+  "num_scoring_users": 240522,
+  "nsfw": "white",
+  "created_at": "2010-12-23T01:41:31+00:00",
+  "updated_at": "2022-04-15T20:27:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1414,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    }
+  ]
+}

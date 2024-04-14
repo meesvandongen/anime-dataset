@@ -1,0 +1,50 @@
+{
+  "id": 47410,
+  "title": "Initial D Battle Stage 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1236/113306l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Initial D Battle Stage 3",
+    "ja": "INITIAL D BATTLE STAGE 3"
+  },
+  "start_date": "2021-03-05",
+  "end_date": "2021-03-05",
+  "synopsis": "Initial D: Battle Stage 3 is the eleventh and final installment of the Initial D series. It features every race from Fifth Stage and Final Stage. Unlike the previous two battle stages, it does not feature any new battles, and doesn't feature any character dialogue.\n\n(Source: Initial D Wiki)",
+  "mean": 7.47,
+  "rank": 1973,
+  "popularity": 7392,
+  "num_list_users": 6936,
+  "num_scoring_users": 2540,
+  "nsfw": "white",
+  "created_at": "2021-02-06T13:02:30+00:00",
+  "updated_at": "2022-04-14T22:46:01+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 5581,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

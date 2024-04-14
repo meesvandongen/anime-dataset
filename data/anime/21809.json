@@ -1,0 +1,65 @@
+{
+  "id": 21809,
+  "title": "Kenzen Robo Daimidaler",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/61435.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/61435l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Daimidaler the Sound Robot",
+      "Midara"
+    ],
+    "en": "Daimidaler: Prince vs. Penguin Empire",
+    "ja": "健全ロボ ダイミダラー"
+  },
+  "start_date": "2014-04-05",
+  "end_date": "2014-06-21",
+  "synopsis": "Battles continue between \"Penguin Empire\", the mysterious life form which arrived on earth all of a sudden, and \"Beauty Salon Prince\", the secret anti-Penguin organization. In order to fight Penguin Empire's gigantic \"Penguin Robot\", Beauty Salon Prince has developed their ultimate weapon, \"Daimidaler\", and is now looking for the pilot. They choose Koichi Madanbashi, a hot-blooded high school boy who is mad about big boobs, because he is the factor of \"Hi-ERo particles\", the source of unknown energy.\n\n(Source: Showgate)",
+  "mean": 6.14,
+  "rank": 8862,
+  "popularity": 2571,
+  "num_list_users": 70786,
+  "num_scoring_users": 25990,
+  "nsfw": "white",
+  "created_at": "2013-12-26T21:15:59+00:00",
+  "updated_at": "2022-04-08T17:09:46+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

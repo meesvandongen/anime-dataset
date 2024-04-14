@@ -1,0 +1,54 @@
+{
+  "id": 16183,
+  "title": "Lupin Shanshei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/44261.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/44261l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ルパンしゃんしぇい"
+  },
+  "start_date": "2012-12-19",
+  "end_date": "2012-12-19",
+  "synopsis": "Series of 10 shorts parodying the popular classic anime Lupin III.",
+  "mean": 5.51,
+  "rank": 11563,
+  "popularity": 10878,
+  "num_list_users": 2242,
+  "num_scoring_users": 538,
+  "nsfw": "white",
+  "created_at": "2012-11-04T16:12:51+00:00",
+  "updated_at": "2014-10-12T07:42:43+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 211,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

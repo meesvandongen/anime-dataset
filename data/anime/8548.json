@@ -1,0 +1,58 @@
+{
+  "id": 8548,
+  "title": "Dr. Slump Movie 08: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete...",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/23176.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/23176l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dr. Slump and Arale-chan: Hoyoyo!! Follow the Rescued Shark...",
+    "ja": "Dr.スランプ アラレちゃん ほよよ!!助けたサメに連れられて..."
+  },
+  "start_date": "1994-03-12",
+  "end_date": "1994-03-12",
+  "synopsis": "Arale saves a baby shark at the beach and in gratitude the sharks invite she and her family to visit the Underwater Kingdom.\n\n(Source: ANN)",
+  "mean": 6.03,
+  "rank": 9428,
+  "popularity": 12107,
+  "num_list_users": 1480,
+  "num_scoring_users": 455,
+  "nsfw": "white",
+  "created_at": "2010-04-04T02:34:34+00:00",
+  "updated_at": "2017-04-19T06:22:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1994,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

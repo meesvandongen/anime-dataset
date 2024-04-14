@@ -1,0 +1,56 @@
+{
+  "id": 53969,
+  "title": "Crayon Shin-chan: Arashi wo Yobu Kasukabe Bouei-tai Uchuu Quiz de Shoubu da zo!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1110/132055.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1110/132055l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クレヨンしんちゃん 嵐を呼ぶかすかべ防衛隊 宇宙クイズで勝負だゾ！"
+  },
+  "start_date": "2011-07-11",
+  "end_date": "2011-07-11",
+  "synopsis": "",
+  "rank": 19025,
+  "popularity": 19831,
+  "num_list_users": 226,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2022-12-24T04:26:08+00:00",
+  "updated_at": "2022-12-24T12:01:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": 32221,
+  "title": "Robocar Poli 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/78248.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/78248l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "로보카 폴리"
+  },
+  "start_date": "2011-12-26",
+  "end_date": "2012-05-15",
+  "synopsis": "In Broom's Town, a small town with a strong rescue team, there are always accidents and troubles such as a car sliding off a cliff in the rain, a car crash, a child locked in a firehouse and so on. In every episode the town's rescue team saves characters. At the end of each episode, the rescue team strongly advises the characters who were in danger and children.\n\n(Source: AniDB)",
+  "mean": 5.64,
+  "rank": 11137,
+  "popularity": 16432,
+  "num_list_users": 459,
+  "num_scoring_users": 165,
+  "nsfw": "white",
+  "created_at": "2015-12-06T07:39:26+00:00",
+  "updated_at": "2023-11-04T15:48:14+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": []
+}

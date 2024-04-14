@@ -1,0 +1,40 @@
+{
+  "id": 41251,
+  "title": "Soshite Kimi wa Tsuki ni Natta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1925/105857.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1925/105857l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "And Then You Became the Moon",
+    "ja": "そして君は月になった"
+  },
+  "start_date": "2012-06-24",
+  "end_date": "2012-06-24",
+  "synopsis": "This song is about two best friends that are represented as the moon and the star. The song seems to be expressing a close friendship that also develops distance gradually.\n\n(Source: Vocaloid Wiki)",
+  "mean": 6.15,
+  "popularity": 19435,
+  "num_list_users": 246,
+  "num_scoring_users": 128,
+  "nsfw": "white",
+  "created_at": "2020-02-04T14:16:38+00:00",
+  "updated_at": "2021-04-18T21:51:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 278,
+  "rating": "g",
+  "studios": []
+}

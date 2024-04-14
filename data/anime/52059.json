@@ -1,0 +1,40 @@
+{
+  "id": 52059,
+  "title": "Yomadoiko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1151/125102.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1151/125102l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "世惑い子"
+  },
+  "start_date": "2021-10-14",
+  "end_date": "2021-10-14",
+  "synopsis": "Music video for the song Yomadoiko by KAF.",
+  "mean": 6.25,
+  "popularity": 19353,
+  "num_list_users": 253,
+  "num_scoring_users": 140,
+  "nsfw": "white",
+  "created_at": "2022-06-12T03:16:24+00:00",
+  "updated_at": "2022-07-06T12:20:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 254,
+  "rating": "g",
+  "studios": []
+}

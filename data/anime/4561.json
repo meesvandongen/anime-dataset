@@ -1,0 +1,51 @@
+{
+  "id": 4561,
+  "title": "Zoku Gosenzo San'e",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/21411.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/21411l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Masquerade 2"
+    ],
+    "en": "",
+    "ja": "続・御先祖賛江"
+  },
+  "start_date": "2000-10-25",
+  "end_date": "2001-04-25",
+  "synopsis": "A direct sequel, continuing about nine months after the first season ends. ",
+  "mean": 5.48,
+  "popularity": 11168,
+  "num_list_users": 2045,
+  "num_scoring_users": 687,
+  "nsfw": "gray",
+  "created_at": "2008-05-24T04:56:12+00:00",
+  "updated_at": "2017-07-12T16:55:42+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

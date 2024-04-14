@@ -1,0 +1,54 @@
+{
+  "id": 3328,
+  "title": "School Days: Magical Heart Kokoro-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1746/121860.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1746/121860l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "School Days ～マジカルハート☆こころちゃん～"
+  },
+  "start_date": "2008-03-26",
+  "end_date": "2008-03-26",
+  "synopsis": "Originally an April's Fool in 2007, this one episode OVA is a spin-off of the School Days game by 0verflow, and shows Kokoro Katsura, the little sister of one of the main characters, from her other side. A mahou shoujo out to save the world, or something like that.\n\n(Source: AniDB)",
+  "mean": 5.54,
+  "rank": 11488,
+  "popularity": 3314,
+  "num_list_users": 44309,
+  "num_scoring_users": 24732,
+  "nsfw": "white",
+  "created_at": "2007-10-31T06:58:48+00:00",
+  "updated_at": "2022-04-13T05:53:58+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1495,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

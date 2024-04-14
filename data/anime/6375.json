@@ -1,0 +1,58 @@
+{
+  "id": 6375,
+  "title": "Kagaku Ninja-tai Gatchaman F",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/45630.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/45630l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gatchaman Fighter",
+      "Science Ninja Team Gatchaman Fighter",
+      "Science Ninja Team Gatchaman F",
+      "Kagaku Ninjatai Gatchaman Fighter"
+    ],
+    "en": "Eagle Riders (2)",
+    "ja": "科学忍者隊ガッチャマンF"
+  },
+  "start_date": "1979-10-07",
+  "end_date": "1980-08-31",
+  "synopsis": "After Leader X is seemingly destroyed for good at the end of Gatchaman II, a fragment of him that survived grows and mutates into Z. With the head of the Egobossler family, Count Egobossler (and his two subordinates Mechandol and Kempler), Z is bent on destroying the Earth, and the Science Ninja Team, once more.\n\nIn the wake of Anderson's death, Dr.Nambu has become the new head of the ISO, while the team is now confined to the Gallatown (aka \"G-Town\") underwater base. Engineer Kamo is introduced, and after the New GodPhoenix is destroyed early on, the team receives the new Gatchaspartan as their mecha. The Gatchaspartan has a special mode as well, called Hypershoot, that can only be utilized by Ken (with his new \"Gatchafencer\" sword).\n\nAs the series progresses, it is learned that the radiation exposure from constant use of the Hypershoot is slowly killing Ken, and that continued use would mean death. Meanwhile, Z plans to destroy the earth with an antimatter asteroid, codenamed \"Poison Apple\".\n",
+  "mean": 6.5,
+  "rank": 6895,
+  "popularity": 10532,
+  "num_list_users": 2489,
+  "num_scoring_users": 728,
+  "nsfw": "white",
+  "created_at": "2009-04-18T00:12:30+00:00",
+  "updated_at": "2022-11-23T20:52:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 48,
+  "start_season": {
+    "year": 1979,
+    "season": "fall"
+  },
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

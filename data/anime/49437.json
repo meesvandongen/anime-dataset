@@ -1,0 +1,40 @@
+{
+  "id": 49437,
+  "title": "Hang Out!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1279/116556.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1279/116556l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Hang out!"
+  },
+  "start_date": "2021-07-15",
+  "end_date": "2021-07-15",
+  "synopsis": "Music video for Hang out! performed by Division All Stars. ",
+  "mean": 6.35,
+  "popularity": 16939,
+  "num_list_users": 415,
+  "num_scoring_users": 223,
+  "nsfw": "white",
+  "created_at": "2021-07-15T10:38:16+00:00",
+  "updated_at": "2023-04-17T08:37:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 334,
+  "rating": "pg_13",
+  "studios": []
+}

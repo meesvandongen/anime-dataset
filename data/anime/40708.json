@@ -1,0 +1,76 @@
+{
+  "id": 40708,
+  "title": "Monster Musume no Oishasan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1762/106598l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The doctor for monster girls."
+    ],
+    "en": "Monster Girl Doctor",
+    "ja": "モンスター娘のお医者さん"
+  },
+  "start_date": "2020-07-12",
+  "end_date": "2020-09-27",
+  "synopsis": "After years of conflict, humans and monsters have settled their differences and are now at peace. This post-war era led to the foundation of Lindworm—a town which has since become the focal point of racial harmony.\n\nAs a human doctor specializing in monster biology, Glenn Litbeit runs a small clinic alongside his partner, Saphentite Neikes, who is a half-snake monster known as a lamia. He uses his knowledge to tend to any monsters who seek his aid. Whatever affliction, concern, or injury it may be, he will always be there, ready to help.\n\n[Written by MAL Rewrite]",
+  "mean": 6.53,
+  "rank": 6725,
+  "popularity": 1108,
+  "num_list_users": 218263,
+  "num_scoring_users": 100699,
+  "nsfw": "gray",
+  "created_at": "2019-11-14T03:14:49+00:00",
+  "updated_at": "2023-09-03T05:22:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1874,
+      "name": "Arvo Animation"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 3044,
+  "title": "Tetsuwan Atom (1980)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1967/129099.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1967/129099l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Astro Boy",
+      "Astroboy"
+    ],
+    "en": "Astro Boy (1980)",
+    "ja": "鉄腕アトム"
+  },
+  "start_date": "1980-10-01",
+  "end_date": "1981-12-23",
+  "synopsis": "Set in a future where machines have advanced to the point of autonomy and become a point of major contention in the political and social realms, Astro Boy (1980) chronicles the struggles of a crime-fighting young robot named Atom. Created in the image of his enigmatic inventor's deceased son, Atom survives rough beginnings, getting saved and adopted by the benevolent Dr. Ochanomizu. In his pursuit of justice, Atom finds himself in the midst of numerous clashes with various factions, and is often faced with the harsh realities of the world.\n\n[Written by MAL Rewrite]",
+  "mean": 7.24,
+  "rank": 3048,
+  "popularity": 5454,
+  "num_list_users": 14687,
+  "num_scoring_users": 6228,
+  "nsfw": "white",
+  "created_at": "2007-08-27T22:39:13+00:00",
+  "updated_at": "2023-11-03T23:01:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1980,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
+}

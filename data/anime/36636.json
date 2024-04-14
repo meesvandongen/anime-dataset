@@ -1,0 +1,53 @@
+{
+  "id": 36636,
+  "title": "Ankoku Cat VS",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/88532.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/88532l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dark Side Cat Versus",
+      "Darkness Cat Versus"
+    ],
+    "en": "",
+    "ja": "暗黒キャットVS"
+  },
+  "start_date": "2011-01-21",
+  "end_date": "2012-01-09",
+  "synopsis": "The sequel to the Ankoku Cat ONA series.",
+  "mean": 5.56,
+  "rank": 11415,
+  "popularity": 16153,
+  "num_list_users": 486,
+  "num_scoring_users": 183,
+  "nsfw": "white",
+  "created_at": "2017-10-21T08:00:32+00:00",
+  "updated_at": "2018-01-01T13:37:08+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 866,
+      "name": "Fanworks"
+    }
+  ]
+}

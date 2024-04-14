@@ -1,0 +1,56 @@
+{
+  "id": 34125,
+  "title": "High School Fleet OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/84267.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/84267l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haifuri OVA"
+    ],
+    "en": "",
+    "ja": "OVA ハイスクール・フリート"
+  },
+  "start_date": "2017-03-31",
+  "end_date": "2017-05-24",
+  "synopsis": "The mutinous Musashi has been defeated, and the girls from Yokosuka Girls' Marine High School are safely back home. However, the Harekaze sustained critical damage during its final encounter with the Musashi and may not be able to sail again. Moreover, rumors spread that the Harekaze-class will be dissolved due to it lacking a ship. \n\nOther classes' attempts to scout members from the Harekaze's crew only make the situation even more uncertain. The answer to this dire problem may be found in the sealed orders that the secretary of the Harekaze, Kouko Nosa, is to deliver to its crewmembers. But time is running short...\n\n[Written by MAL Rewrite]",
+  "mean": 7.24,
+  "rank": 3076,
+  "popularity": 4788,
+  "num_list_users": 20729,
+  "num_scoring_users": 9718,
+  "nsfw": "white",
+  "created_at": "2016-09-24T08:28:54+00:00",
+  "updated_at": "2022-04-04T00:54:49+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1053,
+      "name": "Production IMS"
+    }
+  ]
+}

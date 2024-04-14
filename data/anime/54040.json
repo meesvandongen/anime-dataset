@@ -1,0 +1,57 @@
+{
+  "id": 54040,
+  "title": "Tousouchuu: Great Mission",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1482/141904.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1482/141904l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Run For Money : The Great Mission",
+    "ja": "逃走中 グレートミッション"
+  },
+  "start_date": "2023-04-02",
+  "synopsis": "The anime series is set in the future when humanity migrated to the Moon due to Earth's climate change. It will incorporate original elements unique to the anime, such as human drama about survival, and will feature a diverse field that blurs countries and eras such as Shibuya, the Edo-period era, and London.\n\n(Source: MAL News, edited)",
+  "mean": 5.66,
+  "rank": 11032,
+  "popularity": 8540,
+  "num_list_users": 4871,
+  "num_scoring_users": 669,
+  "nsfw": "gray",
+  "created_at": "2022-12-31T10:23:52+00:00",
+  "updated_at": "2024-03-12T07:13:59+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "09:00"
+  },
+  "source": "other",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

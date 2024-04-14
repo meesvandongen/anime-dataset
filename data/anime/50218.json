@@ -1,0 +1,51 @@
+{
+  "id": 50218,
+  "title": "Makafushigi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1087/119247.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1087/119247l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "MAKAFUKA"
+    ],
+    "en": "",
+    "ja": "摩訶不思議"
+  },
+  "start_date": "2021-10-25",
+  "end_date": "2021-10-25",
+  "synopsis": "Special animation for the collaboration between the MMORPG \"Gran Saga\" and the band RADWIMPS. The song's title is \"MAKAFUKA.\"",
+  "mean": 6.83,
+  "popularity": 15364,
+  "num_list_users": 577,
+  "num_scoring_users": 308,
+  "nsfw": "white",
+  "created_at": "2021-10-25T20:14:51+00:00",
+  "updated_at": "2023-12-28T09:00:21+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 207,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

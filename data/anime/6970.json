@@ -1,0 +1,61 @@
+{
+  "id": 6970,
+  "title": "Choujin Sentai Baratack",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/69967.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/69967l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Balatack",
+      "Baratak",
+      "Superman Task Force Baratack",
+      "Chojin Sentai Baratack",
+      "Superhuman Combat Team Baratack",
+      "Choujin Sentai Barattack"
+    ],
+    "en": "",
+    "ja": "超人戦隊バラタック"
+  },
+  "start_date": "1977-07-03",
+  "end_date": "1978-03-05",
+  "synopsis": "Late at night, at a lake surrounded by a peaceful forest, a mysterious spaceship landed on the water. The group that emerged from that ship kidnapped the head of space engineering, Professor Katou, and his family. \n\nThe Professor's second son, American football player Yuuji, who had run away from home was in the middle of a game and knew nothing of what had happened.\n\nThe four young people watching him were Mark, Dickey, Franco, and Yuri. They were a team of four psychics who had been training in a secret base. They had seen the previous night's events and believed them to be an alien attack. Believing their only option to be the transforming robot Baratack, they used their psychic powers to kidnap Yuuji.\n\nBaratack could only move by combining the powers of Yuuji and the other four acting as one. When all five, including the astonished Yuuji, cried \"Pentagoras Unite!” Baratack emerged. Yuuji was overcome with a violent rage, his fighting spirit burning to defeat the Golteus reptile army.\n\n(Source: Official Website)",
+  "mean": 6.46,
+  "rank": 7119,
+  "popularity": 12919,
+  "num_list_users": 1144,
+  "num_scoring_users": 268,
+  "nsfw": "white",
+  "created_at": "2009-08-11T17:56:15+00:00",
+  "updated_at": "2020-06-05T15:29:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 31,
+  "start_season": {
+    "year": 1977,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 77,
+  "title": "Mahou Shoujo Lyrical Nanoha A's",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/6767.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/6767l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mahou Shoujo Lyrical Nanoha A's",
+      "Nanoha Season 2"
+    ],
+    "en": "Magical Girl Lyrical Nanoha A's",
+    "ja": "魔法少女リリカルなのは エース"
+  },
+  "start_date": "2005-10-02",
+  "end_date": "2005-12-25",
+  "synopsis": "After solving the incident of the scattered Jewel Seeds, Nanoha Takamachi happily returns to her everyday life, though now with added magic practice in the morning. Exchanging video messages with Fate Testarossa and the crew of the Arthra, Nanoha eagerly awaits the chance to speak with them in person again. But while studying in her room one day, Raising Heart suddenly calls out to Nanoha and warns her of an incoming attack!\n\nThe attacker is a young girl named Vita, who calls herself a Belka Knight. She proves her strength by using an intelligent device with a mysterious cartridge system to quickly overwhelm Nanoha. Luckily, the Space-Time Administration Bureau is able to step in before she is completely crushed. Vita and her fellow knights Shamal, Signum, and Zafila are on a mission to steal magical power from mages in order to complete the Book of Darkness, one of the Lost Logia. For what sinister purpose are the knights after this Book of Darkness?\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.97,
+  "rank": 676,
+  "popularity": 2685,
+  "num_list_users": 65382,
+  "num_scoring_users": 33910,
+  "nsfw": "white",
+  "created_at": "2005-11-11T13:19:54+00:00",
+  "updated_at": "2023-10-07T12:09:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2005,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:35"
+  },
+  "source": "original",
+  "average_episode_duration": 1539,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 35,
+      "name": "Seven Arcs"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 51941,
+  "title": "Xing Wushen Jue 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1309/125179.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1309/125179l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Xing Wu Shen Jue",
+      "Star Martial God Technique Second Season"
+    ],
+    "en": "",
+    "ja": "星武神诀 第二季"
+  },
+  "start_date": "2022-06-24",
+  "end_date": "2022-10-28",
+  "synopsis": "The second season of Xing Wushen Jue.",
+  "mean": 6.69,
+  "rank": 5819,
+  "popularity": 13428,
+  "num_list_users": 989,
+  "num_scoring_users": 347,
+  "nsfw": "white",
+  "created_at": "2022-05-26T23:29:31+00:00",
+  "updated_at": "2022-06-25T06:13:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 455,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2042,
+      "name": "Ruo Hong Culture"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 17551,
+  "title": "Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/46883.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/46883l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shana and Yuuji's Why What Shana! Ask Anything Question Box"
+    ],
+    "en": "",
+    "ja": "シャナ＆悠二の なぜなにシャナ！ なんでも質問箱！"
+  },
+  "start_date": "2007-04-04",
+  "end_date": "2007-04-04",
+  "synopsis": "A promotional short special for the movie where Shana and Yuji explain different terms from the show.",
+  "mean": 6.3,
+  "rank": 8051,
+  "popularity": 7654,
+  "num_list_users": 6377,
+  "num_scoring_users": 1817,
+  "nsfw": "white",
+  "created_at": "2013-02-21T15:55:42+00:00",
+  "updated_at": "2021-05-13T14:00:38+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "average_episode_duration": 344,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

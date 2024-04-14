@@ -1,0 +1,62 @@
+{
+  "id": 4444,
+  "title": "Zero Duel Masters",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1456/124274.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1456/124274l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ゼロ デュエル・マスターズ"
+  },
+  "start_date": "2007-04-09",
+  "end_date": "2007-09-28",
+  "synopsis": "It is featured in an alternate universe where Shobu had lost his duel against Hakuoh in their duel back in the Season 1 episode \"Just Duel It\".\n\nA mysterious organization is interested in fledgling duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.\n\n(Source: Duel Masters Wikia)",
+  "mean": 5.96,
+  "rank": 9749,
+  "popularity": 10242,
+  "num_list_users": 2730,
+  "num_scoring_users": 974,
+  "nsfw": "white",
+  "created_at": "2008-05-01T13:40:54+00:00",
+  "updated_at": "2021-05-16T22:28:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

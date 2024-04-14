@@ -1,0 +1,54 @@
+{
+  "id": 16798,
+  "title": "Ttori wa Zeta Robot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/45138.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/45138l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ddoli and Zeta Gundam",
+      "Ddoli wa Zeta Robot"
+    ],
+    "en": "",
+    "ja": "똘이와 제타 로보트"
+  },
+  "start_date": "1985-01-17",
+  "end_date": "1985-01-17",
+  "synopsis": "A boy finds a toy robot which turns out to not to be an ordinary toy.",
+  "mean": 5.89,
+  "rank": 10064,
+  "popularity": 14602,
+  "num_list_users": 705,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2012-12-23T17:36:23+00:00",
+  "updated_at": "2013-12-10T05:41:34+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1985,
+    "season": "winter"
+  },
+  "average_episode_duration": 3771,
+  "studios": []
+}

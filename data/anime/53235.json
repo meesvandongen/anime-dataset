@@ -1,0 +1,61 @@
+{
+  "id": 53235,
+  "title": "One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1360/128759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1360/128759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Recap",
+      "One Piece Special"
+    ],
+    "en": "One Piece: A Comprehensive Anatomy! Fierce Fight! The Five from the New Generation",
+    "ja": "大徹底解剖！激闘！５人の新世代"
+  },
+  "start_date": "2022-10-09",
+  "end_date": "2022-10-09",
+  "synopsis": "Special that recaps the fight on the Skull Dome's roof between the Worst Generation and Kaidou and Big Mom.",
+  "mean": 6.63,
+  "rank": 6143,
+  "popularity": 8567,
+  "num_list_users": 4817,
+  "num_scoring_users": 1946,
+  "nsfw": "white",
+  "created_at": "2022-10-03T10:30:38+00:00",
+  "updated_at": "2023-12-29T02:20:30+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

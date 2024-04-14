@@ -1,0 +1,65 @@
+{
+  "id": 3482,
+  "title": "Madonna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/67361.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/67361l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "マドンナ"
+  },
+  "start_date": "1988-03-11",
+  "end_date": "1989-06-23",
+  "synopsis": "Mako, a sexy young teacher, comes to Gyunabe high school to enlighten young minds. What she wasn't counting on was a class full of misfits lead by the delinquent Obayashi. If their never ending quest to see her underwear and embarrass her in front of the whole school doesn't force her to quit, then her principal's brilliant idea of making her the new rugby coach will.\n\n(Source: ANN)",
+  "mean": 6.06,
+  "rank": 9291,
+  "popularity": 10975,
+  "num_list_users": 2174,
+  "num_scoring_users": 756,
+  "nsfw": "white",
+  "created_at": "2007-11-27T15:06:55+00:00",
+  "updated_at": "2022-01-20T03:39:02+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1988,
+    "season": "winter"
+  },
+  "average_episode_duration": 3000,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

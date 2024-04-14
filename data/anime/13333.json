@@ -1,0 +1,58 @@
+{
+  "id": 13333,
+  "title": "Tari Tari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/83575.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/83575l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tari Tari",
+    "ja": "TARI TARI"
+  },
+  "start_date": "2012-07-01",
+  "end_date": "2012-09-23",
+  "synopsis": "At Shirahamazaka High School, a special recital is held every year in which music students are able to showcase their talents in front of professionals and other prestigious guests. Third-year Konatsu Miyamoto desperately wants to sing in her last high school recital, but because she screwed up the year before, the vice principal has barred her from participating.\n\nThat's when Konatsu comes up with a new plan to get involved; instead of joining the official choir, she'll form her own singing club with her friends! Unfortunately this proves to be harder than she imagined. Her friend Wakana Sakai has given up on singing, for one, and Konatsu needs more than just two members. With only a month left until the recital, will Konatsu be able to find enough members for her club and actually be ready to sing at one of the most important events of the school year and graduate without regrets?",
+  "mean": 7.29,
+  "rank": 2791,
+  "popularity": 1448,
+  "num_list_users": 161178,
+  "num_scoring_users": 58067,
+  "nsfw": "white",
+  "created_at": "2012-03-19T17:52:16+00:00",
+  "updated_at": "2022-04-15T08:07:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

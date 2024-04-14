@@ -1,0 +1,58 @@
+{
+  "id": 51367,
+  "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1051/121959.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1051/121959l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "JoJo's Bizarre Adventure: Stone Ocean Part 2",
+    "ja": "ジョジョの奇妙な冒険 ストーンオーシャン"
+  },
+  "start_date": "2022-09-01",
+  "end_date": "2022-09-01",
+  "synopsis": "Thrown into solitary confinement after a daring rescue attempt, Jolyne Kuujou fights to uncover the sinister plot of Whitesnake, an enemy Stand whose mysterious wielder remains unknown to her.\n\nWhitesnake's user is actually Enrico Pucci, priest and chaplain of Green Dolphin Street Prison. Pucci shares a deep connection with a villain who once plagued the Joestar bloodline, making his feud with Jolyne and her father, Joutarou, a personal one. Intent on executing the master plan of his deceased friend, Pucci uses the prison and its inmates to fulfill his nefarious schemes.\n\nAssisted by fellow prisoners, like Ermes Costello and Foo Fighters, Jolyne battles several enemy Stand users. As the ramifications of Pucci's plot spread beyond the confines of the prison and begin to threaten the rest of the world, Jolyne embraces her family lineage and risks her life to put an end to evil.\n\n[Written by MAL Rewrite]",
+  "mean": 8.08,
+  "rank": 527,
+  "popularity": 955,
+  "num_list_users": 253580,
+  "num_scoring_users": 151219,
+  "nsfw": "white",
+  "created_at": "2022-03-23T16:20:57+00:00",
+  "updated_at": "2023-01-27T14:50:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1469,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 287,
+      "name": "David Production"
+    }
+  ]
+}

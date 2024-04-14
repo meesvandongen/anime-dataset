@@ -1,0 +1,44 @@
+{
+  "id": 56318,
+  "title": "Qian Ting Zong Dong Yuan: Huan You Diqiu 80 Tian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1376/137823.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1376/137823l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "潜艇总动员：环游地球80天"
+  },
+  "start_date": "2023-08-12",
+  "end_date": "2023-08-12",
+  "synopsis": "",
+  "rank": 17364,
+  "popularity": 22873,
+  "num_list_users": 95,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2023-08-15T17:32:12+00:00",
+  "updated_at": "2023-08-16T08:23:27+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 4800,
+  "rating": "pg",
+  "studios": []
+}

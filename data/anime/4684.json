@@ -1,0 +1,52 @@
+{
+  "id": 4684,
+  "title": "Scarecrowman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1414/123121.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1414/123121l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Scarecrowman The Animation",
+      "Scarecrow Man"
+    ],
+    "en": "Scarecrowman",
+    "ja": "スケアクロウマン"
+  },
+  "start_date": "2008-07-03",
+  "end_date": "2008-12-25",
+  "synopsis": "A regular old scarecrow has stood in a field for twenty years when one day, after a lightning storm, he comes to life. He becomes friends with the daughter of a scarecrow shop owner.",
+  "rank": 17751,
+  "popularity": 15533,
+  "num_list_users": 553,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2008-06-12T14:19:08+00:00",
+  "updated_at": "2022-05-01T15:19:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

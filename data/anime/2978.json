@@ -1,0 +1,72 @@
+{
+  "id": 2978,
+  "title": "Shin Getter Robo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/56841.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/56841l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Getter Robo (2004)"
+    ],
+    "en": "New Getter Robo",
+    "ja": "新ゲッターロボ"
+  },
+  "start_date": "2004-04-09",
+  "end_date": "2004-09-10",
+  "synopsis": "Humanity is under attack by demonic creatures called Oni. Unable to fight back by any other means, the scientist Dr. Saotome creates a series of giant robots that harness the mysterious power of Getter Rays, giving them the strength necessary to fight the Oni. The strongest of these is Getter Robo, and Saotome must enlist three very different men to pilot it - martial artist Ryoma Nagare, criminal leader Hayato Jin, and monk Benkei Musashibou. Together, the Getter Team fights to end the Oni menace forever.\n\n(Source: ANN)",
+  "mean": 7.38,
+  "rank": 2368,
+  "popularity": 6166,
+  "num_list_users": 10815,
+  "num_scoring_users": 4335,
+  "nsfw": "white",
+  "created_at": "2007-08-11T09:41:42+00:00",
+  "updated_at": "2023-04-24T09:03:36+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

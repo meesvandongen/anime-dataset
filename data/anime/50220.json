@@ -1,0 +1,72 @@
+{
+  "id": 50220,
+  "title": "Isekai Shoukan wa Nidome desu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1387/134151.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1387/134151l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Isenido"
+    ],
+    "en": "Summoned to Another World for a Second Time",
+    "ja": "異世界召喚は二度目です"
+  },
+  "start_date": "2023-04-09",
+  "end_date": "2023-06-25",
+  "synopsis": "There was once a man who was summoned to another world, and saved it. Of course, he became too popular there, and turned into an isekai-normie. However, that man fell into a \"trap\" and was forcibly returned to his original world. Moreover, he had to start over as a baby!\n\nThis is the story of the way-too-fantastic ex-hero who lived as a gloomy high-schooler, as he gets summoned once again to that same other world in a very unexpected development! \n\n(Source: Coolmic, edited)",
+  "mean": 5.67,
+  "rank": 10998,
+  "popularity": 1560,
+  "num_list_users": 146448,
+  "num_scoring_users": 56257,
+  "nsfw": "white",
+  "created_at": "2021-10-26T09:40:43+00:00",
+  "updated_at": "2023-05-23T00:49:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "02:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1521,
+      "name": "Studio Elle"
+    }
+  ]
+}

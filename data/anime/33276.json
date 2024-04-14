@@ -1,0 +1,43 @@
+{
+  "id": 33276,
+  "title": "Konnichiwa Onara Gorou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/79964.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/79964l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Onara Gorou Episode 0"
+    ],
+    "en": "",
+    "ja": "こんにちは おなら吾郎"
+  },
+  "start_date": "2016-03-14",
+  "end_date": "2016-03-14",
+  "synopsis": "Serves as an \"episode 0\" to the July 2016 television series. It introduces the characters and concept of the show.",
+  "mean": 4.15,
+  "rank": 13205,
+  "popularity": 12326,
+  "num_list_users": 1366,
+  "num_scoring_users": 622,
+  "nsfw": "white",
+  "created_at": "2016-05-07T07:50:19+00:00",
+  "updated_at": "2022-03-24T14:38:10+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 126,
+  "rating": "pg",
+  "studios": []
+}

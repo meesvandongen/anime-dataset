@@ -1,0 +1,80 @@
+{
+  "id": 4886,
+  "title": "InuYasha: Kuroi Tessaiga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/60877.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/60877l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Inu Yasha Special",
+      "Black Tessaiga",
+      "Black Tetsusaiga",
+      "Kuroi Tetsusaiga",
+      "It's a Rumic World: InuYasha"
+    ],
+    "en": "",
+    "ja": "犬夜叉 黒い鉄砕牙"
+  },
+  "start_date": "2008-07-30",
+  "end_date": "2008-07-30",
+  "synopsis": "Sesshoumaru has never approved of his half-demon younger brother Inuyasha inheriting their father's prized sword, Tessaiga, while he was left with the restorative Tenseiga blade. Upon learning that even Tenseiga's one destructive technique—which he himself perfected—was designed to be transferred to Tessaiga, Sesshoumaru grows even more bitter as he feels disowned in favor of an unworthy mongrel. \n\nMeanwhile, Inuyasha's archenemy Naraku unscrupulously takes advantage of Sesshoumaru's grievance to tempt him with a means of stealing Tessaiga's powers. Pitted against each other, the siblings cross blades in a fight that will decide whether Inuyasha will thwart Naraku's dirty scheme and earn Sesshoumaru's acknowledgment or die at the hands of his own flesh and blood.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.74,
+  "rank": 1129,
+  "popularity": 3634,
+  "num_list_users": 37786,
+  "num_scoring_users": 14237,
+  "nsfw": "white",
+  "created_at": "2008-07-09T19:39:15+00:00",
+  "updated_at": "2023-04-17T11:39:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1781,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

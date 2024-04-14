@@ -1,0 +1,47 @@
+{
+  "id": 53033,
+  "title": "Mecha-ude (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1724/127958.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1724/127958l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mechanical Arms",
+    "ja": "メカウデ"
+  },
+  "start_date": "2024-10",
+  "synopsis": "Long ago, alien lifeforms came to Earth, fusing with people on the planet. Due to their appearance, they were dubbed \"Mecha-ude,\" as when fused, they bore a striking resemblance to mechanized limbs.\n\nThrough an involuntary partnership, average middle schooler Hikaru Amatsuga works alongside the Mecha-ude Arma, who is an extremely rare and special existence. To protect Arma, the resistance group ARMS assigns the dual Mecha-ude user Aki Murasame to follow him wherever he goes. However, she is also looking for a mysterious Snake-Type Mecha-ude wielder, who has put many of her comrades in a critical state.\n\nBehind the scenes, an organization known as the Kagami Group is searching for the mythical \"Trigger Arm,\" a Mecha-ude said to grant unlimited power. When Aki's life is threatened by this group, Hikaru must team up with Arma to find the courage to fight back and, along the way, learn that his life will never be ordinary again. \n\n[Written by MAL Rewrite]",
+  "popularity": 8052,
+  "num_list_users": 5646,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2022-09-14T15:14:25+00:00",
+  "updated_at": "2024-03-23T23:18:51+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1843,
+      "name": "TriF Studio"
+    }
+  ]
+}

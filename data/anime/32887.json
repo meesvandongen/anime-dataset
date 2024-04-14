@@ -1,0 +1,60 @@
+{
+  "id": 32887,
+  "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1181/123312.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1181/123312l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Danmachi Sword Oratoria"
+    ],
+    "en": "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+    "ja": "ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア"
+  },
+  "start_date": "2017-04-15",
+  "end_date": "2017-07-01",
+  "synopsis": "After having descended upon this world, the gods have created guilds where adventurers can test their mettle. These guilds, known as \"familia,\" grant adventurers the chance to explore, gather, hunt, or simply enjoy themselves.\n \nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria begins in Orario, the lively city of adventures. The Sword Princess, Ais Wallenstein, and the novice mage, Lefiya Viridis, are members of the Loki Familia, who are experts at monster hunting. With the rest of their group, they journey to the tower of Babel in hopes of exploring the dungeon underneath. Home to powerful monsters, the dungeon will fulfill Ais's desire to master her sword skills, while bringing Lefiya closer to her dream of succeeding Riveria Ljos Alf, vice-captain of the Loki Familia, as the most powerful mage in the land.\n \n[Written by MAL Rewrite]",
+  "mean": 7.07,
+  "rank": 3954,
+  "popularity": 498,
+  "num_list_users": 452158,
+  "num_scoring_users": 225955,
+  "nsfw": "white",
+  "created_at": "2016-03-06T09:08:22+00:00",
+  "updated_at": "2023-09-10T07:17:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1538,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

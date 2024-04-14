@@ -1,0 +1,72 @@
+{
+  "id": 12679,
+  "title": "Joshiraku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/48925.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/48925l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rakugo Girls"
+    ],
+    "en": "Joshiraku",
+    "ja": "じょしらく"
+  },
+  "start_date": "2012-07-06",
+  "end_date": "2012-09-28",
+  "synopsis": "Joshiraku follows the conversations of five rakugo storyteller girls relating the odd things that happen to them each day. Their comedic and satirical chatting covers all kinds of topics, from pointless observations of everyday life, to politics, manga, and more. Each girl has something new to add to the discussion, and the discourse never ends in the same place it began.\n\nEach of the rakugo girls has their own unique personality, with the energetic but immature Marii Buratei; the seemingly cute Kigurumi Haroukitei; the inherently lucky and carefree Tetora Bouhatei; the calm and violent Gankyou Kuurubiyuutei; and the pessimistic and unstable Kukuru Anrakutei. These girls—and their mysterious friend in a wrestling mask—give their observations to the audience, either backstage at the rakugo theater or in various famous locations around Tokyo.\n\n[Written by MAL Rewrite]",
+  "mean": 7.45,
+  "rank": 2067,
+  "popularity": 1332,
+  "num_list_users": 178685,
+  "num_scoring_users": 48334,
+  "nsfw": "white",
+  "created_at": "2012-01-12T15:12:31+00:00",
+  "updated_at": "2023-01-09T07:42:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

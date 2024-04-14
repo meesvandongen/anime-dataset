@@ -1,0 +1,61 @@
+{
+  "id": 9098,
+  "title": "Kidou Senshi SD Gundam Matsuri",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/25192.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/25192l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mobile Suit SD Gundam Festival",
+    "ja": "機動戦士SDガンダムまつり"
+  },
+  "start_date": "1993-03-13",
+  "end_date": "1993-03-13",
+  "synopsis": "The movie is divided into 3 different parts:\n1) The Tale of the SD Warring States: World Peace Chapter\n2) SD Gundam Sidestory: The Legend of the Holy Machine Soldiers\n3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza",
+  "mean": 5.89,
+  "rank": 10039,
+  "popularity": 10819,
+  "num_list_users": 2284,
+  "num_scoring_users": 533,
+  "nsfw": "white",
+  "created_at": "2010-06-30T21:29:20+00:00",
+  "updated_at": "2022-11-07T23:47:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "winter"
+  },
+  "average_episode_duration": 4870,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

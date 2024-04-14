@@ -1,0 +1,51 @@
+{
+  "id": 41298,
+  "title": "Go for 2020",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1765/106088.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1765/106088l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nihonbashi City Dressing for TOKYO 2020"
+    ],
+    "en": "",
+    "ja": "Go for 2020"
+  },
+  "start_date": "2016-09-20",
+  "end_date": "2016-09-20",
+  "synopsis": "Studio Colorido was commissioned by Japanese real estate developer Mitsui Fudosan to create a promotional video for their BE THE CHANGE campaign, in anticipation of the Tokyo 2020 Summer Olympic and Paralympic games. Initiatives from the campaign include communal sport academies, promotional city dressing, and the FUTSUJANAI TEN interactive sports exhibition. In particular, the campaign supports sport climbing, wheelchair rugby, and women's basketball, the later of which is featured in the video.",
+  "mean": 5.93,
+  "popularity": 14642,
+  "num_list_users": 694,
+  "num_scoring_users": 309,
+  "nsfw": "white",
+  "created_at": "2020-02-16T22:51:11+00:00",
+  "updated_at": "2023-12-26T20:40:58+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 249,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1033,
+      "name": "Studio Colorido"
+    }
+  ]
+}

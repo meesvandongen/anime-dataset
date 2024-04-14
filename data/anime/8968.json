@@ -1,0 +1,49 @@
+{
+  "id": 8968,
+  "title": "Shogi Hour",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/24831.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/24831l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Shogi Hour",
+    "ja": "将棋アワー"
+  },
+  "start_date": "2008-10-05",
+  "end_date": "2008-10-05",
+  "synopsis": "A NHK shogi tournament parody. ''55 AJN Trophy TV Shoji Tournamant'' Mr.Yamada versus Mr.Roboco.",
+  "mean": 4.93,
+  "rank": 12740,
+  "popularity": 13269,
+  "num_list_users": 1031,
+  "num_scoring_users": 553,
+  "nsfw": "white",
+  "created_at": "2010-06-09T04:35:14+00:00",
+  "updated_at": "2018-09-25T20:43:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 476,
+  "rating": "g",
+  "studios": []
+}

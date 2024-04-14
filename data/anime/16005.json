@@ -1,0 +1,60 @@
+{
+  "id": 16005,
+  "title": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/44522.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/44522l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Unlimited Hyobu Kyosuke"
+    ],
+    "en": "Unlimited Psychic Squad",
+    "ja": "絶対可憐チルドレン THE UNLIMITED 兵部京介"
+  },
+  "start_date": "2013-01-08",
+  "end_date": "2013-03-26",
+  "synopsis": "Kyousuke Hyoubu, an ESPer who was betrayed many years ago, is now one of the most powerful ESPers—and also a fugitive. However, behind that glare lies a kind heart. His main mission is to save ESPers who are mistreated by humans, even if that be by force. Through his methods, he has saved many ESPer lives and gained the loyalty of those he has saved. The name of his group: P.A.N.D.R.A.\n\n(Source: ANN)",
+  "mean": 7.46,
+  "rank": 2001,
+  "popularity": 1508,
+  "num_list_users": 152953,
+  "num_scoring_users": 60964,
+  "nsfw": "white",
+  "created_at": "2012-10-19T10:47:25+00:00",
+  "updated_at": "2023-09-04T11:35:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 32,
+      "name": "Manglobe"
+    }
+  ]
+}

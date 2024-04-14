@@ -1,0 +1,75 @@
+{
+  "id": 47616,
+  "title": "Yakusoku no Neverland: Michishirube",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1097/111813.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1097/111813l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Promised Neverland Recap",
+      "Yakusoku no Neverland Recap",
+      "Yakusoku no Neverland 2nd Season Episode 5.5",
+      "Yakusoku no Neverland 2nd Season Special"
+    ],
+    "en": "The Promised Neverland: Guidepost",
+    "ja": "約束のネバーランド 特別編「道標」"
+  },
+  "start_date": "2021-02-12",
+  "end_date": "2021-02-12",
+  "synopsis": "Recap of the first season of Yakusoku no Neverland and the first five episodes of season two.",
+  "mean": 4.73,
+  "rank": 12955,
+  "popularity": 3120,
+  "num_list_users": 49549,
+  "num_scoring_users": 24323,
+  "nsfw": "white",
+  "created_at": "2021-02-11T22:02:26+00:00",
+  "updated_at": "2024-02-07T15:13:40+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1382,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

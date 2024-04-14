@@ -1,0 +1,53 @@
+{
+  "id": 8339,
+  "title": "Kachou no Koi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/21953.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/21953l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "課長の恋"
+  },
+  "start_date": "2010-03-26",
+  "end_date": "2010-03-26",
+  "synopsis": "The story centers on a manager named Odakara Kazuhiko who has spent all 33 years of his life without a girlfriend. An encounter with a new employee named Harada makes Odakara realize that he is gay.",
+  "mean": 6.08,
+  "popularity": 5603,
+  "num_list_users": 13797,
+  "num_scoring_users": 6429,
+  "nsfw": "gray",
+  "created_at": "2010-03-08T00:43:21+00:00",
+  "updated_at": "2022-08-25T20:20:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 373,
+      "name": "Panda Factory"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 51280,
+  "title": "Cang Lan Jue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1927/125119.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1927/125119l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Love Between Fairy and Devil",
+    "ja": "苍兰诀"
+  },
+  "start_date": "2022-07-15",
+  "end_date": "2022-09-23",
+  "synopsis": "A donghua based on the novel of the same name written by Jiu Lu Fei Xiang. The story revolves around the relationship between Xiao Lanhua, a low-ranking flower fairy, and the powerful \"Moon Supreme\" Dongfang Qingcang. After being locked away for thousands of years, Xiao Lanhua mistakenly revives Dongfang Qingcang. The two of them become connected as a result, with the powerful and stoic Moon Supreme forced to experience everything she does, both physical and emotional.",
+  "mean": 7.15,
+  "rank": 3572,
+  "popularity": 8830,
+  "num_list_users": 4406,
+  "num_scoring_users": 1051,
+  "nsfw": "white",
+  "created_at": "2022-03-16T04:09:00+00:00",
+  "updated_at": "2022-12-21T12:31:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 938,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2175,
+      "name": "Garden Culture"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 22497,
+  "title": "Hello Kitty no Kaguya-hime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1744/108568.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1744/108568l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hello Kitty's The Bamboo Princess"
+    ],
+    "en": "",
+    "ja": "ハローキティのかぐや姫"
+  },
+  "start_date": "1993-09-21",
+  "end_date": "1993-09-21",
+  "synopsis": "Kitty and friends recreate the story of The Tale of the Bamboo Cutter.",
+  "mean": 5.67,
+  "rank": 10994,
+  "popularity": 13381,
+  "num_list_users": 1003,
+  "num_scoring_users": 350,
+  "nsfw": "white",
+  "created_at": "2014-02-04T07:46:31+00:00",
+  "updated_at": "2022-01-27T04:17:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "summer"
+  },
+  "average_episode_duration": 1731,
+  "rating": "g",
+  "studios": []
+}

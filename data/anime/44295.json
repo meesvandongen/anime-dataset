@@ -1,0 +1,48 @@
+{
+  "id": 44295,
+  "title": "Gangtie Feilong: Zaijian Ultraman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1598/118720.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1598/118720l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dragon Force Movie 2  So long, Ultraman",
+      "Dragon Force: Farewell Ultraman",
+      "Gang Tie Fei Long: Zai Jian Ao Te Man"
+    ],
+    "en": "",
+    "ja": "钢铁飞龙之再见奥特曼"
+  },
+  "start_date": "2017-10-01",
+  "end_date": "2017-10-01",
+  "synopsis": "",
+  "rank": 19660,
+  "popularity": 21467,
+  "num_list_users": 138,
+  "num_scoring_users": 30,
+  "nsfw": "white",
+  "created_at": "2020-12-05T08:08:05+00:00",
+  "updated_at": "2022-08-04T07:29:44+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 5306,
+  "rating": "pg_13",
+  "studios": []
+}

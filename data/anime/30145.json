@@ -1,0 +1,69 @@
+{
+  "id": 30145,
+  "title": "Harukanaru Toki no Naka de: Hachiyou Shou Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/72168.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/72168l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Haruka Naru Toki no Naka de: Hachiyou Shou Recap",
+      "Haruka: Beyond the Stream of Time Recap"
+    ],
+    "en": "",
+    "ja": "遙かなる時空の中で〜八葉抄〜 総集編"
+  },
+  "start_date": "2006-07-28",
+  "end_date": "2006-07-28",
+  "synopsis": "A recap of the Harukanaru Toki no Naka de: Hachiyou Shou series included on the special \"making-of\" DVD release of the Harukanaru Toki no Naka de: Maihitoyo movie.",
+  "mean": 6.13,
+  "rank": 8937,
+  "popularity": 13392,
+  "num_list_users": 1000,
+  "num_scoring_users": 234,
+  "nsfw": "white",
+  "created_at": "2015-02-22T01:04:42+00:00",
+  "updated_at": "2021-09-18T17:55:40+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1979,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
+}

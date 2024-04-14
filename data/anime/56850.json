@@ -1,0 +1,48 @@
+{
+  "id": 56850,
+  "title": "Moonlightspeed",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1517/138942.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1517/138942l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Moonlightspeed"
+  },
+  "start_date": "2022-09-16",
+  "end_date": "2022-09-16",
+  "synopsis": "Music video for the song Moonlightspeed by Midnight Grand Orchestra.",
+  "mean": 6.19,
+  "popularity": 19318,
+  "num_list_users": 254,
+  "num_scoring_users": 153,
+  "nsfw": "white",
+  "created_at": "2023-10-05T04:54:10+00:00",
+  "updated_at": "2023-10-05T04:54:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 204,
+  "rating": "g",
+  "studios": []
+}

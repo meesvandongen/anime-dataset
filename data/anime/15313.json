@@ -1,0 +1,60 @@
+{
+  "id": 15313,
+  "title": "Wooser no Sono Higurashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/55353.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/55353l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Project Wooser"
+    ],
+    "en": "Wooser's Hand-to-Mouth Life",
+    "ja": "うーさーのその日暮らし"
+  },
+  "start_date": "2012-10-03",
+  "end_date": "2012-12-19",
+  "synopsis": "Lovely, but with a dark heart. The hand-to-mouth life of a strange yellow and black creature named \"Wooser\". Lovely but with a dark heart, the new hero (?) from the depths of the internet is appearing on TV and Nico Nico Video! \"My favorite things are meat and money and girls,\" he says, but what are his cute, round eyes staring at? (* Probably meat, money, or girls) The strange hand-to-mouth life of this strange creature is now being animated by Sanzigen, famous for their 3D CG animations! Do note that the dot in the middle is supposedly a mouth, not a nose.\n\n(Source: Crunchyroll)",
+  "mean": 6.18,
+  "rank": 8683,
+  "popularity": 5888,
+  "num_list_users": 12078,
+  "num_scoring_users": 5557,
+  "nsfw": "white",
+  "created_at": "2012-08-24T06:35:55+00:00",
+  "updated_at": "2022-04-17T01:15:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:35"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 240,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 52211,
+  "title": "Mashle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1218/135107.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1218/135107l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mashle: Magic and Muscles",
+    "ja": "マッシュル-MASHLE-"
+  },
+  "start_date": "2023-04-08",
+  "end_date": "2023-07-01",
+  "synopsis": "In this magical world, one is easily identified as having magical abilities by a distinctive mark on their face. Those unable to practice magic are swiftly exterminated to maintain the magical integrity of society. However, deep within a forest lies an anomaly in Mash Burnedead, who can be found pumping iron with one arm and lifting a cream puff with the other. This aloof boy with superhuman strength—but no magical abilities—leads a quiet life with his father, far removed from society.\n\nMash's peace is soon disturbed when the authorities discover his lack of magical powers. They issue him an ultimatum: compete to become a \"Divine Visionary,\" which would force everyone to accept him, or be persecuted forever. To protect his family, he enrolls in the prestigious Easton Magic Academy, which only the most elite and gifted students are allowed to attend. Now, Mash must overcome his shortcomings as a magicless being and surpass the other students—relying solely on his muscles.\n\n[Written by MAL Rewrite]",
+  "mean": 7.62,
+  "rank": 1437,
+  "popularity": 418,
+  "num_list_users": 529393,
+  "num_scoring_users": 283978,
+  "nsfw": "white",
+  "created_at": "2022-06-25T12:20:55+00:00",
+  "updated_at": "2023-05-26T12:08:48+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 267,
+  "title": "Gungrave",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75724.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75724l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Gungrave",
+    "ja": "ガングレイヴ"
+  },
+  "start_date": "2003-10-07",
+  "end_date": "2004-03-30",
+  "synopsis": "Brandon Heat and Harry MacDowel, two friends so close they could be called brothers, receive an abrupt and violent reminder one fateful day of how appallingly merciless the world around them can be. Their whole lives before then were simple and easygoing, consisting largely of local brawls, seducing women, and committing petty theft to make a living and pass the time. What they failed to realize is that in this cruel world, happiness is fleeting, and change is inevitable.\n\nEnter Millennion, the largest and most infamous mafia syndicate in the area, which accepts Brandon and Harry into their ranks and starts them at the bottom of the food chain. Harry has ambitions to ascend the ranks and one day replace Big Daddy as the supreme leader of Millennion, while Brandon only wishes to support his friend and appease Big Daddy who has taken custody of the woman Brandon loves.\n\nBased off the third-person shooter video game under the same name, Gungrave is an epic story of friendship, betrayal, and avarice that spans the course of several years, ultimately tying back to the gripping and foreboding first episode, all the while building up to the story's thrilling conclusion.\n\n[Written by MAL Rewrite]",
+  "mean": 7.82,
+  "rank": 944,
+  "popularity": 1247,
+  "num_list_users": 190493,
+  "num_scoring_users": 69550,
+  "nsfw": "white",
+  "created_at": "2005-11-13T07:04:42+00:00",
+  "updated_at": "2022-10-02T06:53:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1500,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

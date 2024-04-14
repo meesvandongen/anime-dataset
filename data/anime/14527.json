@@ -1,0 +1,76 @@
+{
+  "id": 14527,
+  "title": "Medaka Box Abnormal",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/62919.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/62919l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Medaka Box 2"
+    ],
+    "en": "Medaka Box Abnormal",
+    "ja": "めだかボックス アブノーマル"
+  },
+  "start_date": "2012-10-11",
+  "end_date": "2012-12-27",
+  "synopsis": "After the defeat of Myouri Unzen at the hands of Medaka Kurokami and her Student Council, peace has returned to Hakoniwa Academy—at least, for a short while. Soon, Medaka, Zenkichi Hitoyoshi, Kouki  Akune, and Mogana Kikaijima find themselves wrapped up in another sinister scheme, known as the \"Flask Plan,\" led by the school's principal himself.\n\nHowever, the council's first problem is to deal with a whole new group of superhuman students calling themselves the \"Thirteen Party,\" led by the egotistical but powerful Oudo Miyakonojou. With the mysterious Flask Plan, Oudo's tyranny, and the resurfacing of an old enemy, the state of Hakoniwa Academy is far from tranquil, and Medaka and her companions have their hands full as things only get a lot more abnormal. \n\n[Written by MAL Rewrite]",
+  "mean": 7.39,
+  "rank": 2296,
+  "popularity": 1583,
+  "num_list_users": 143590,
+  "num_scoring_users": 72122,
+  "nsfw": "white",
+  "created_at": "2012-06-20T12:20:39+00:00",
+  "updated_at": "2022-04-09T13:06:52+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:35"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 6,
+      "name": "Gainax"
+    }
+  ]
+}

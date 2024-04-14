@@ -1,0 +1,59 @@
+{
+  "id": 42070,
+  "title": "Tian Yu 2nd Season: Cang Gu Zhi Ban",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1171/107730.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1171/107730l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Revelation 2nd Season"
+    ],
+    "en": "",
+    "ja": "天谕 第二季 苍古之绊"
+  },
+  "start_date": "2018-07-25",
+  "end_date": "2018-10-17",
+  "synopsis": "Second season of Tian Yu.",
+  "rank": 13890,
+  "popularity": 16842,
+  "num_list_users": 422,
+  "num_scoring_users": 106,
+  "nsfw": "white",
+  "created_at": "2020-05-26T10:24:07+00:00",
+  "updated_at": "2020-06-18T07:34:15+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 960,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1768,
+      "name": "Sparkly Key Animation Studio"
+    }
+  ]
+}

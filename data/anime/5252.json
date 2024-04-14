@@ -1,0 +1,60 @@
+{
+  "id": 5252,
+  "title": "One Piece: Romance Dawn Story",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1400/138596.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1400/138596l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Special: Romance Dawn Story"
+    ],
+    "en": "One Piece: Romance Dawn Story",
+    "ja": "ワンピース ロマンスドーンストーリー"
+  },
+  "start_date": "2008-11-24",
+  "end_date": "2008-11-24",
+  "synopsis": "The Straw Hat Pirates, searching for the great passage \"Grand Line\", are in trouble when their food runs out! Luffy, searching for food on his own, finds a ship belonging to the pirate, Gally, and takes it over!! He lands at a nearby town...\n\nLuffy was attacked by a young girl, Silk, who mistook him for a member of the other pirate gang. As the two eat a meal, they tell their stories. Meanwhile, Gally and his band are burning with anger at Luffy, demanding payment from the town's defenseless citizens...!!\n\n(Source: Jumpland)",
+  "mean": 7.33,
+  "rank": 2575,
+  "popularity": 3010,
+  "num_list_users": 53173,
+  "num_scoring_users": 27036,
+  "nsfw": "white",
+  "created_at": "2008-09-14T06:52:24+00:00",
+  "updated_at": "2023-09-20T05:27:45+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1980,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

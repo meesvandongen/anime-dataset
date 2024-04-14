@@ -1,0 +1,57 @@
+{
+  "id": 32026,
+  "title": "Osomatsu-san Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/77727.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/77727l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Osomatsu-san Episode 3.5",
+      "Mr. Osomatsu Special"
+    ],
+    "en": "Mr. Osomatsu Episode 3.5: Virgin Heroes",
+    "ja": "おそ松さん"
+  },
+  "start_date": "2016-01-29",
+  "end_date": "2016-01-29",
+  "synopsis": "The 1st BD & DVD volume of Osomatsu-san will have a new episode, replacing episode 1 of the original series which was removed due to the fact that it contained multiple parodies. It has been pulled entirely from streaming sites and the Japanese Blu-Ray release. This replacement episode is sometimes numbered \"episode 3.5\" as listed on the home-media release, as it's chronologically placed after episode 3 (originally TV episode 4).",
+  "mean": 7.39,
+  "rank": 2301,
+  "popularity": 5951,
+  "num_list_users": 11811,
+  "num_scoring_users": 5860,
+  "nsfw": "white",
+  "created_at": "2015-11-07T00:23:33+00:00",
+  "updated_at": "2022-01-21T23:49:52+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1289,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

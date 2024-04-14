@@ -1,0 +1,47 @@
+{
+  "id": 44011,
+  "title": "Zhiqu Yang Xuetang: Qihuan Chengyu Shu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1728/115302.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1728/115302l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "智趣羊学堂之奇幻成语书"
+  },
+  "start_date": "2018-02-15",
+  "end_date": "2018-02-21",
+  "synopsis": "",
+  "rank": 15237,
+  "popularity": 21211,
+  "num_list_users": 150,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2020-11-15T01:46:17+00:00",
+  "updated_at": "2021-05-30T11:03:54+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "average_episode_duration": 480,
+  "rating": "pg",
+  "studios": []
+}

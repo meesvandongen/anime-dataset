@@ -1,0 +1,72 @@
+{
+  "id": 53730,
+  "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1734/139673.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1734/139673l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The other world doesn't stand a chance against the power of instant death"
+    ],
+    "en": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
+    "ja": "即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。"
+  },
+  "start_date": "2024-01-05",
+  "end_date": "2024-03-22",
+  "synopsis": "Awaking to absolute chaos and carnage while on a school trip, Yogiri Takatou discovers that everyone in his class has been transported to another world! He had somehow managed to sleep through the entire ordeal himself, missing out on the Gift—powers bestowed upon the others by a mysterious Sage who appeared to transport them. Even worse, he and another classmate were ruthlessly abandoned by their friends, left as bait to distract a nearby dragon. Although not terribly bothered by the thought of dying, he reluctantly decides to protect his lone companion. After all, a lowly Level 1000 monster doesn't stand a chance against his secret power to invoke Instant Death with a single thought! If he can stay awake long enough to bother using it, that is...\n\n(Source: J-Novel Club)",
+  "mean": 6.4,
+  "rank": 7455,
+  "popularity": 2005,
+  "num_list_users": 105385,
+  "num_scoring_users": 43158,
+  "nsfw": "white",
+  "created_at": "2022-12-01T12:10:48+00:00",
+  "updated_at": "2024-03-07T19:39:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1421,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2037,
+      "name": "Okuruto Noboru"
+    }
+  ]
+}

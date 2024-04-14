@@ -1,0 +1,60 @@
+{
+  "id": 3595,
+  "title": "Kujakuou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/82866.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/82866l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Peacock King"
+    ],
+    "en": "Spirit Warrior",
+    "ja": "孔雀王"
+  },
+  "start_date": "1988-04-29",
+  "end_date": "1991-09-21",
+  "synopsis": "A young mystic without a past, Kujaku was born under a dark omen possessed of incredible supernatural powers. Raised by priests, he has learned to use these powers for good. But the evil Siegfried von Mittgard seeks to steal his birthright, and rule the world as the Regent of Darkness. He has dispatched bloodthirsty minions to destroy Kujaku before he can awaken to his destiny. Now, Kujaku must unravel the riddle of his past, before the power within consumes him!\n\n(Source: AniDB)",
+  "mean": 5.84,
+  "rank": 10282,
+  "popularity": 9802,
+  "num_list_users": 3170,
+  "num_scoring_users": 818,
+  "nsfw": "white",
+  "created_at": "2007-12-15T01:38:40+00:00",
+  "updated_at": "2022-05-09T17:06:10+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1988,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 3300,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    },
+    {
+      "id": 2169,
+      "name": "Studio 88"
+    }
+  ]
+}

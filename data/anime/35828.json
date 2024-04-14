@@ -1,0 +1,68 @@
+{
+  "id": 35828,
+  "title": "Miira no Kaikata",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1486/93811.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1486/93811l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "How to keep a mummy"
+    ],
+    "en": "How to Keep a Mummy",
+    "ja": "ミイラの飼い方"
+  },
+  "start_date": "2018-01-12",
+  "end_date": "2018-03-30",
+  "synopsis": "High school student Sora Kashiwagi is accustomed to receiving bizarre presents from his father, who is on an expedition around the world. Unfortunately, these gifts have been nothing but nightmares. As a result, when his father sends him a huge package from Egypt, Sora prepares himself for the worst, only to be greeted by Mii-kun—a cute, pint-sized mummy! While initially wary, Sora soon learns that Mii-kun is harmless, a delicate creature yearning for attention.\n\nThroughout their amusing day-to-day lives, the unlikely pair meet other people with unique pets, while also strengthening their bond together. Although keeping a pet is a difficult task, Sora is set on caring for the lovable Mii-kun.\n\n[Written by MAL Rewrite]",
+  "mean": 7.47,
+  "rank": 1982,
+  "popularity": 1643,
+  "num_list_users": 137304,
+  "num_scoring_users": 54068,
+  "nsfw": "white",
+  "created_at": "2017-06-30T13:55:25+00:00",
+  "updated_at": "2023-03-24T08:51:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:58"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1446,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

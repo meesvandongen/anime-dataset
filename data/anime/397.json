@@ -1,0 +1,64 @@
+{
+  "id": 397,
+  "title": "Seikai no Senki II",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/61109.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/61109l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Battle Flag of the Stars II"
+    ],
+    "en": "Banner of the Stars II",
+    "ja": "星界の戦旗 II"
+  },
+  "start_date": "2001-07-11",
+  "end_date": "2001-09-26",
+  "synopsis": "Due to a lack of ambassadors for the recently-conquered worlds the rapidly advancing fleet of the Bebaus brothers leave behind, Lafiel is appointed Territorial Ambassador of the planet Lobnas II. Upon arriving to the planet Jinto and Lafiel discover that the planet was used by the United Mankind as a prison planet and now has a million prisoners on the only inhabited island. The prisoners are parted in three blocks. The western where women are housed, the eastern belongs to the men and the central is mixed under the restriction that all prisoners living there are sterilized. The women in the western sector want to emigrate from the planet of fear for the men and when they do the men in the east rebel, overthrowing the guards and capturing Jinto to try to stop the emigration of the women. At the same time an enemy fleet heads toward the system forcing Lafiel to abandon Jinto.\n\n(Source: ANN)",
+  "mean": 7.79,
+  "rank": 1019,
+  "popularity": 4497,
+  "num_list_users": 23878,
+  "num_scoring_users": 11840,
+  "nsfw": "white",
+  "created_at": "2005-12-23T18:25:58+00:00",
+  "updated_at": "2022-04-06T15:19:08+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2001,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

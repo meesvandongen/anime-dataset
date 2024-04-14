@@ -1,0 +1,56 @@
+{
+  "id": 29829,
+  "title": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/76028.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/76028l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tamayura Kanketsu-hen Movie 2"
+    ],
+    "en": "",
+    "ja": "たまゆら～卒業写真～ 第2部 響-ひびき-"
+  },
+  "start_date": "2015-08-29",
+  "end_date": "2015-08-29",
+  "synopsis": "The second movie of a four-part finale of Tamayura.",
+  "mean": 7.8,
+  "rank": 996,
+  "popularity": 6223,
+  "num_list_users": 10563,
+  "num_scoring_users": 3600,
+  "nsfw": "white",
+  "created_at": "2015-01-30T06:49:37+00:00",
+  "updated_at": "2023-09-09T08:44:57+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 3120,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 333,
+      "name": "TYO Animations"
+    }
+  ]
+}

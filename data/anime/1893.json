@@ -1,0 +1,62 @@
+{
+  "id": 1893,
+  "title": "Azuki-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/10653.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/10653l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "あずきちゃん"
+  },
+  "start_date": "1995-04-04",
+  "end_date": "1998-03-17",
+  "synopsis": "Azusa Noyama is a 12-year-old girl student, taking 5th grade, but everyone knows her as Azuki-Chan, nickname that she dislikes. Yuunosuke Ogasawara, a new student, asks her about her nickname, saying that he likes it. Azuki falls in love with him, and they start going out together. They share a diary, and become boyfriend and girlfriend.\n\n(Source: ANN)",
+  "mean": 6.72,
+  "rank": 5606,
+  "popularity": 9812,
+  "num_list_users": 3152,
+  "num_scoring_users": 1082,
+  "nsfw": "white",
+  "created_at": "2007-01-27T22:52:05+00:00",
+  "updated_at": "2022-02-01T05:06:12+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 117,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

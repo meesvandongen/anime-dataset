@@ -1,0 +1,62 @@
+{
+  "id": 6448,
+  "title": "Yuusei Shounen Papii",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/46719.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/46719l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Planet Boy Popi",
+      "Yuusei Shonen Papi",
+      "Yusei Shonen Papii"
+    ],
+    "en": "Prince Planet",
+    "ja": "遊星少年パピイ"
+  },
+  "start_date": "1965-06-03",
+  "end_date": "1966-05-27",
+  "synopsis": "Tells the story of a member of the Universal Peace Corps from the Planet Radion coming to Earth on a mission to determine if this world meets standards for membership in the Galactic Union of Worlds and assist its inhabitants during his stay. While on his mission Prince Planet adopts the identity of an Earth boy named Bobby and gains comrades who work together alongside him combating evil forces both alien and terrestrial. \n\n(Source: Wikipedia) ",
+  "mean": 5.37,
+  "rank": 11976,
+  "popularity": 13334,
+  "num_list_users": 1012,
+  "num_scoring_users": 297,
+  "nsfw": "white",
+  "created_at": "2009-05-03T15:09:57+00:00",
+  "updated_at": "2018-08-08T14:35:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 1965,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 191,
+      "name": "Eiken"
+    }
+  ]
+}

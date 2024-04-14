@@ -1,0 +1,46 @@
+{
+  "id": 32229,
+  "title": "Ojiichan no Komoriuta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/77383.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/77383l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ojii-chan no Komoriuta",
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "おじいちゃんの子守唄"
+  },
+  "start_date": "1987-02-03",
+  "end_date": "1987-02-03",
+  "synopsis": "A music video for the song \"Ojiichan no Komoriuta\" by Yuuji Akimoto. Aired as part of NHK's Minna no Uta program.",
+  "popularity": 19967,
+  "num_list_users": 218,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2015-12-06T12:24:10+00:00",
+  "updated_at": "2019-01-31T02:21:53+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 137,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 18295,
+  "title": "Kakumeiki Valvrave 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/56573.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/56573l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kakumeiki Valvrave Second Season",
+      "Valvrave the Liberator Second Season"
+    ],
+    "en": "Valvrave the Liberator 2nd Season",
+    "ja": "革命機ヴァルヴレイヴ　2ndシーズン"
+  },
+  "start_date": "2013-10-10",
+  "end_date": "2013-12-27",
+  "synopsis": "Haruto and his comrades continue to fight against the forces of Dorssia. However, many things remain unanswered in the midst of battle, including the past of L-Elf and his fellow soldier's past, the destiny of the mysterious girl Liselotte, and the feelings of Haruto, Shouko, and Saki. The relationships and loyalty of each and every member of each army will be tested as the clash of ideals and power reaches its climax.\n\n(Source: ANN)",
+  "mean": 7.25,
+  "rank": 2999,
+  "popularity": 2167,
+  "num_list_users": 93547,
+  "num_scoring_users": 53098,
+  "nsfw": "white",
+  "created_at": "2013-04-11T13:32:58+00:00",
+  "updated_at": "2022-10-08T08:56:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

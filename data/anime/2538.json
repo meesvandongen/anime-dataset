@@ -1,0 +1,66 @@
+{
+  "id": 2538,
+  "title": "With You: Mitsumeteitai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1038/96384.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1038/96384l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "With You ~みつめていたい~"
+  },
+  "start_date": "2000-12-25",
+  "end_date": "2001-05-25",
+  "synopsis": "Based on a H-game with the same title released by Cocktail Soft in 1998, With You: Mitsumeteitai focuses on love triangle between the main characters who were childhood friends. They were separated because one of them had to move to Myanmar (an Asian country formerly known as Burma). After six years, they are re-united again and the story begins...\n\n(Source: AniDB)",
+  "mean": 5.2,
+  "rank": 12363,
+  "popularity": 12030,
+  "num_list_users": 1515,
+  "num_scoring_users": 459,
+  "nsfw": "white",
+  "created_at": "2007-05-27T17:58:01+00:00",
+  "updated_at": "2020-09-21T04:41:43+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1692,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

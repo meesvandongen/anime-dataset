@@ -1,0 +1,60 @@
+{
+  "id": 3280,
+  "title": "Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/19112.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/19112l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kinnikuman: Showdown! The Seven Justice Supermen vs. The Space Samurais"
+    ],
+    "en": "",
+    "ja": "キン肉マン 決戦!7人の超人vs宇宙野武士"
+  },
+  "start_date": "1984-04-07",
+  "end_date": "1984-04-07",
+  "synopsis": "A TV Special first aired in 1984. It covers the Planet Rakka story arc and takes place after the 21st Choujin Olympics Arc. A young boy from Planet Rakka named Beansman asks Kinnikuman and the others to help save his planet from the Space Samurais led by Black King. The story was a parody of The Seven Samurai.\n\n(Source: Kinnikuman Wiki)",
+  "mean": 6.42,
+  "rank": 7357,
+  "popularity": 12881,
+  "num_list_users": 1154,
+  "num_scoring_users": 344,
+  "nsfw": "white",
+  "created_at": "2007-10-22T19:13:30+00:00",
+  "updated_at": "2024-03-06T11:11:20+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 54,
+      "name": "Combat Sports"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 4340,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

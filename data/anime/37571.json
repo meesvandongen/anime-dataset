@@ -1,0 +1,54 @@
+{
+  "id": 37571,
+  "title": "Senjuushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1357/95039.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1357/95039l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Thousand Noble Musketeers",
+    "ja": "千銃士"
+  },
+  "start_date": "2018-07-03",
+  "end_date": "2018-09-25",
+  "synopsis": "Despair War is a battle between ancient guns and contemporary guns. Due to a nuclear war, the world was destroyed. Under the full governance of a world empire, people are living with their freedom taken. Despite the forbidden rule of owning any weapons, there is a resistance that secretly fights against the world empire. They own ancient guns left as art and fight using these. Then, the Kijuushi appear as the souls of the ancient guns. Proud and magnificent, the \"Absolute Royal\" are the only ones that can give hope to this world. The story depicts the everyday life of the Kijuushi. Laughter, despair, happiness, confusion, pain; they would still pursue their own absolute loyalty to fight. What do they fight for? What should they protect?\n\n(Source: MAL News)",
+  "mean": 4.89,
+  "rank": 12789,
+  "popularity": 5589,
+  "num_list_users": 13845,
+  "num_scoring_users": 3208,
+  "nsfw": "white",
+  "created_at": "2018-03-22T09:55:28+00:00",
+  "updated_at": "2022-03-26T15:23:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1465,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

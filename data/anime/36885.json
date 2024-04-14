@@ -1,0 +1,65 @@
+{
+  "id": 36885,
+  "title": "Saenai Heroine no Sodatekata Fine",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1671/111411.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1671/111411l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saenai Heroine no Sodatekata Movie",
+      "Saekano: How to Raise a Boring Girlfriend Movie"
+    ],
+    "en": "Saekano the Movie: Finale",
+    "ja": "冴えない彼女の育てかた Fine"
+  },
+  "start_date": "2019-10-26",
+  "end_date": "2019-10-26",
+  "synopsis": "With the second Winter Comiket just around the corner, Blessing Software has been vigorously producing its new game, \"How to Raise a Boring Girlfriend.\" Despite Utaha Kasumigaoka and Eriri Spencer Sawamura leaving the circle, Megumi Katou and Tomoya Aki are hopeful that, by sticking to Tomoya's original vision for the game, their upcoming creation will exceed Blessing Software's previous installment.\n\nWith the addition of new members Iori and Izumi Hashima, development ensues—but not without its share of setbacks. Things rarely go as planned in the dating sim industry, with numerous obstacles forcing Tomoya to decide between helping his friends or completing the game. \n\nSaenai Heroine no Sodatekata Fine draws the series to a close as Tomoya selects his final route, both within his personal life and Blessing Software.\n\n[Written by MAL Rewrite]",
+  "mean": 8.42,
+  "rank": 171,
+  "popularity": 1303,
+  "num_list_users": 182904,
+  "num_scoring_users": 82246,
+  "nsfw": "white",
+  "created_at": "2017-12-03T12:24:42+00:00",
+  "updated_at": "2023-01-16T04:26:29+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 6840,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

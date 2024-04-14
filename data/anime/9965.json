@@ -1,0 +1,48 @@
+{
+  "id": 9965,
+  "title": "Soukou Kyojin Z-Knight",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/27552.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/27552l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Soukou Kyoshin Z-Knight"
+    ],
+    "en": "",
+    "ja": "装甲巨神Zナイト"
+  },
+  "start_date": "1991-12-30",
+  "end_date": "1991-12-30",
+  "synopsis": "A promotional video tape with a short Z-Knight anime and other clips sold with a Z-Knight douple pack including colour variations of two Z-Knights.\n\n(Source: AniDB)",
+  "mean": 5.7,
+  "rank": 10871,
+  "popularity": 16455,
+  "num_list_users": 456,
+  "num_scoring_users": 130,
+  "nsfw": "white",
+  "created_at": "2010-12-05T11:02:39+00:00",
+  "updated_at": "2017-05-27T03:35:38+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1991,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 540,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

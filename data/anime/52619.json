@@ -1,0 +1,70 @@
+{
+  "id": 52619,
+  "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1653/136097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1653/136097l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I Was Reborn as a Vending Machine, Wandering in the Dungeon",
+      "I Reincarnated Into a Vending Machine",
+      "Orejihanki"
+    ],
+    "en": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+    "ja": "自動販売機に生まれ変わった俺は迷宮を彷徨う"
+  },
+  "start_date": "2023-07-05",
+  "end_date": "2023-09-20",
+  "synopsis": "A man with a passion for vending machines awakens to realize that he has not only died, but he has also been reborn as one of his beloved machines! Although he is a modern appliance in a fantasy world, he requires money in order to keep functioning. He is stuck in one location until a young girl named Lammis stumbles upon him. Amazed by the drinks and food he sells, Lammis uses her \"Blessing of Might\" to lift him with ease and take him back to the village of Clearflow Lake. There, she officially dubs him Boxxo.\n\nDespite his inability to converse with the villagers, Boxxo becomes an essential part of the community. His goods provide nourishment, and, as he gains new abilities and products, he becomes a staple of daily life. Nobody is as loyal to Boxxo as his first and best customer, Lammis. The more time he spends with her, the more he tries to help her elevate her skills as a young hunter.\n\n[Written by MAL Rewrite]",
+  "mean": 6.51,
+  "rank": 6821,
+  "popularity": 1739,
+  "num_list_users": 126896,
+  "num_scoring_users": 60899,
+  "nsfw": "white",
+  "created_at": "2022-08-06T04:08:09+00:00",
+  "updated_at": "2023-08-30T17:06:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    },
+    {
+      "id": 1299,
+      "name": "AXsiZ"
+    }
+  ]
+}

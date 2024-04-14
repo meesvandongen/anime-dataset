@@ -1,0 +1,64 @@
+{
+  "id": 12343,
+  "title": "Dirty Pair Flash 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/35253.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/35253l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dirty Pair Flash 2 OVA"
+    ],
+    "en": "Dirty Pair Flash 2",
+    "ja": "ダーティペアFLASH 2"
+  },
+  "start_date": "1995-06-01",
+  "end_date": "1995-10-01",
+  "synopsis": "Always causing more destruction than they prevent, special agents Kei and Yuri face tough challenges while at an amusement park planet. This anime set finds the pair facing off against an android hit woman, transvestite assassins, ghosts and more. In addition, the Lovely Angels get into several wild adventures while tracking down a con man and giving love advice to the computer programmer they're protecting. \n\n(Source: Netflix) ",
+  "mean": 6.57,
+  "rank": 6450,
+  "popularity": 8717,
+  "num_list_users": 4581,
+  "num_scoring_users": 1652,
+  "nsfw": "gray",
+  "created_at": "2011-12-11T14:50:22+00:00",
+  "updated_at": "2024-03-06T11:30:29+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1620,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 40250,
+  "title": "Cyborg 009: The Cyborg Soldier - Yomi no Gunzou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1020/102595.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1020/102595l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Cyborg 009: The Cyborg Soldier Recap",
+      "Cyborg 009: The Cyborg Soldier ep 47.5"
+    ],
+    "en": "",
+    "ja": "サイボーグ009 THE CYBORG SOLDIER 黄泉の群像"
+  },
+  "start_date": "2002-09-22",
+  "end_date": "2002-09-22",
+  "synopsis": "A recap episode of Cyborg 009: The Cyborg Soldier that aired between episode 47 and 48.",
+  "mean": 6.05,
+  "rank": 9342,
+  "popularity": 14227,
+  "num_list_users": 792,
+  "num_scoring_users": 179,
+  "nsfw": "white",
+  "created_at": "2019-08-14T04:42:10+00:00",
+  "updated_at": "2024-02-07T18:33:00+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2002,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1441,
+  "rating": "pg_13",
+  "studios": []
+}

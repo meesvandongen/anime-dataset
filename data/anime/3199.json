@@ -1,0 +1,57 @@
+{
+  "id": 3199,
+  "title": "Nanatsu no Umi no Tico",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/69547.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/69547l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sekai Meisaku Gekijou",
+      "Tico and Nanami"
+    ],
+    "en": "Tico and Friends",
+    "ja": "七つの海のティコ"
+  },
+  "start_date": "1994-01-16",
+  "end_date": "1994-12-18",
+  "synopsis": "Nanami Simpson is a young girl. Her mother dies when she is young, and she goes to live with her father, Scott Simpson, on board a marine research vessel, the Peperonchino. Her father is a marine biologist, and he is in search of a creature known as the glowing whale. When he finds the bones of one of these, he is saddened, and resolves to change his mission toward preserving and caring for the creatures. Nanami befriends an Orca which she names Tico, and she goes swimming with it every day. Eventually, she learns to breathe underwater which astounds her father. Nanami nearly drowns one day, and one of the glowing whales saves her from certain death and returns her to the vessel, where her father finally gets to see it.\n\n(Source: ANN)",
+  "mean": 7.41,
+  "rank": 2227,
+  "popularity": 7774,
+  "num_list_users": 6124,
+  "num_scoring_users": 2133,
+  "nsfw": "white",
+  "created_at": "2007-10-06T19:14:20+00:00",
+  "updated_at": "2022-02-16T15:53:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 39,
+  "start_season": {
+    "year": 1994,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "19:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1417,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

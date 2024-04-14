@@ -1,0 +1,77 @@
+{
+  "id": 452,
+  "title": "InuYasha Movie 1: Toki wo Koeru Omoi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1683/94370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1683/94370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Inu Yasha: Toki wo Koeru Omoi",
+      "InuYasha: Love That Transcends Time"
+    ],
+    "en": "InuYasha the Movie: Affections Touching Across Time",
+    "ja": "犬夜叉 時代を越える想い"
+  },
+  "start_date": "2001-12-22",
+  "end_date": "2001-12-22",
+  "synopsis": "During their quest in the feudal era to recover the shards of the miraculous Shikon Jewel, Inuyasha, Kagome Higurashi, and their friends become the target of Menoumaru Hyouga—a demon awakened by one of the Shikon fragments, now in pursuit of Inuyasha's heirloom sword Tessaiga. Following a clash between the fathers of Inuyasha and Menoumaru, the weapon is the only means to restore Menoumaru his rightful family heritage.\n\nHowever, upon ambushing Inuyasha, Menoumaru discovers that Tessaiga's owner alone can wield it. Determined to achieve his objective regardless, he kidnaps Kagome to force Inuyasha to use his blade and release the sealed powers of the Hyouga clan. With their dependable companions' assistance, Inuyasha and Kagome oppose Menoumaru, unaware that his sinister intentions and alarming potential will endanger not only their world but also its distant future.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.56,
+  "rank": 1634,
+  "popularity": 2025,
+  "num_list_users": 103395,
+  "num_scoring_users": 56839,
+  "nsfw": "white",
+  "created_at": "2005-12-26T08:24:40+00:00",
+  "updated_at": "2023-04-17T11:39:32+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5940,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

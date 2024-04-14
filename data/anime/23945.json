@@ -1,0 +1,62 @@
+{
+  "id": 23945,
+  "title": "Majimoji Rurumo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/64443.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/64443l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magimoji Rurumo",
+    "ja": "まじもじるるも"
+  },
+  "start_date": "2014-07-09",
+  "end_date": "2014-09-24",
+  "synopsis": "After an unfortunate accident, completely normal heterosexual high school student Kouta Shibaki is branded as the school pervert. With girls avoiding Kouta like the plague, truly the young man's worst nightmare has come to fruition! One day in the school library, he stumbles upon a peculiar book said to possess the power to summon witches. Partly out of desperation, partly out of boredom, Kouta decides to play along with the joke of a book, until an apprentice witch going by the name of Rurumo Maji Mojiruka appears before him. In an unusual turn of events, Kouta ends up helping Rurumo with some general witchery tasks in exchange for his soul being spared.\n\nMajimoji Rurumo follows the misadventures of Rurumo as she attempts to persuade Kouta to use 666 magical wish-granting tickets in her efforts to become a fully-fledged witch, unaware that every time she grants a wish, Kouta's life is shortened. Aided by Rurumo's familiar Chiro, Kouta must decide between helping Rurumo or saving his own life.\n\n[Written by MAL Rewrite]",
+  "mean": 6.83,
+  "rank": 5065,
+  "popularity": 2496,
+  "num_list_users": 74018,
+  "num_scoring_users": 31614,
+  "nsfw": "white",
+  "created_at": "2014-04-24T07:04:59+00:00",
+  "updated_at": "2022-04-17T01:28:42+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1415,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

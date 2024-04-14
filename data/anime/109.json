@@ -1,0 +1,64 @@
+{
+  "id": 109,
+  "title": "Bakuretsu Tenshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/22647.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/22647l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Bakuretsu Tenshi"
+    ],
+    "en": "Burst Angel",
+    "ja": "爆裂天使"
+  },
+  "start_date": "2004-04-07",
+  "end_date": "2004-09-15",
+  "synopsis": "In Japan's not-too-distant future, crime has become so common that the government has legalised firearms for citizens to use in self-defence. To combat this new wave of wrongdoing, the Recently Armed Police of Tokyo was established in hopes of hunting down criminals with lethal force.\n\nKyohei Tachibana is a gifted culinary student who dreams of saving up enough money to become a pastry chef in France. When four young mercenaries ask him to be their cook, he's forced into making a tough choice. As Jo, Meg, Sei, and Amy take on the bloodiest jobs in the chaotic city of Tokyo, Kyohei accepts an imminent descent into the world of crime—and he'll do a lot more than just cooking!",
+  "mean": 6.78,
+  "rank": 5289,
+  "popularity": 2553,
+  "num_list_users": 71296,
+  "num_scoring_users": 31322,
+  "nsfw": "white",
+  "created_at": "2005-11-11T14:19:45+00:00",
+  "updated_at": "2024-03-07T13:51:11+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "02:12"
+  },
+  "source": "original",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

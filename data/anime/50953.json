@@ -1,0 +1,66 @@
+{
+  "id": 50953,
+  "title": "Bastard!! Ankoku no Hakaishin (ONA)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1599/124228.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1599/124228l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bastard‼ Heavy Metal, Dark Fantasy",
+    "ja": "BASTARD!! -暗黒の破壊神-"
+  },
+  "start_date": "2022-06-30",
+  "end_date": "2022-06-30",
+  "synopsis": "The kingdom of Metallicana is under attack from the Four Lords of Havoc. This party of villains—ninja master Gara, deadly thunder empress Nei Arshes, cold and calculating Kall-Su, and enigmatic dark priest Abigail—will stop at nothing to get what they want, even if it leaves utter destruction in their wake.\n\nHigh Priest Geo is desperate to help save the kingdom and its people. He unleashes the mighty wizard Dark Schneider, a man who used to be an ally of the villains. Unfortunately, Dark Schneider has his own plans in mind. Will he stop the Four Lords of Havoc or join them in their conquest of the world?\n\n[Written by MAL Rewrite]",
+  "mean": 6.61,
+  "rank": 6262,
+  "popularity": 2619,
+  "num_list_users": 68124,
+  "num_scoring_users": 28966,
+  "nsfw": "gray",
+  "created_at": "2022-02-03T10:57:55+00:00",
+  "updated_at": "2023-10-18T23:00:54+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

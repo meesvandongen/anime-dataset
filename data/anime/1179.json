@@ -1,0 +1,66 @@
+{
+  "id": 1179,
+  "title": "Gakuen Senki Muryou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/75379.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/75379l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Shingu: Secret of the Stellar Wars",
+    "ja": "学園戦記ムリョウ"
+  },
+  "start_date": "2001-05-08",
+  "end_date": "2001-12-04",
+  "synopsis": "The world is about to be turned upside down for Hajime Murata. First, a strange alien ship appears over Tokyo, and then a mysterious new transfer student arrives at his school wearing an ancient school uniform. His name is Muryou, and with his arrival, everything begins to change. Students suddenly begin to display amazing psychic powers, a giant white guardian keeps appearing in the skies over the city to fight off gigantic alien creatures, and men with threatening weapons are haunting the shadows of the school grounds.\n\nWith all these strange events taking place around him, Hajime is determined to figure out the truth about a world he thought he already knew. This is his story: a tale of aliens and humans, starships and spies, and friends who are often more than they appear. Join Hajime as he uncovers the mystery of Shingu: Secret of the Stellar Wars!\n\n(Source: RightStuf)",
+  "mean": 7.02,
+  "rank": 4201,
+  "popularity": 7108,
+  "num_list_users": 7644,
+  "num_scoring_users": 1992,
+  "nsfw": "white",
+  "created_at": "2006-07-06T06:34:24+00:00",
+  "updated_at": "2022-12-13T13:08:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2001,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 15649,
+  "title": "Puchimas!: Petit iDOLM@STER",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/44680.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/44680l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Puchimas!: Petit Idolmaster"
+    ],
+    "en": "PUCHIM@S",
+    "ja": "ぷちます！－プチ・アイドルマスター－"
+  },
+  "start_date": "2013-01-01",
+  "end_date": "2013-03-29",
+  "synopsis": "From the popular game \"THE IDOLM@STER\", comes a petit spinoff cute and soothing 4-koma! The setting is the same 765 Production from the games. One day, 765 Pro idols Ami and Mami bring in the mysterious Petit-dols \"Afuu\" and \"Yukipo\"!? More and more Petit-dols gather at the offices where everyone works. Leisurely enjoy their daily lives full of laughs and happenings.",
+  "mean": 7.12,
+  "rank": 3700,
+  "popularity": 5572,
+  "num_list_users": 13910,
+  "num_scoring_users": 5952,
+  "nsfw": "white",
+  "created_at": "2012-09-23T10:05:18+00:00",
+  "updated_at": "2022-03-20T03:54:25+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 64,
+  "start_season": {
+    "year": 2013,
+    "season": "winter"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 150,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 400,
+      "name": "Gathering"
+    }
+  ]
+}

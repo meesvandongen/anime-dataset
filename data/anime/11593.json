@@ -1,0 +1,52 @@
+{
+  "id": 11593,
+  "title": "Ganbare! Bokura no Hit and Run",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/33649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/33649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hit and Run",
+    "ja": "がんばれ！ぼくらのヒットエンドラン"
+  },
+  "start_date": "1979-02-18",
+  "end_date": "1979-02-18",
+  "synopsis": "Inaba Junior High School's baseball team has been defeated miserably since the senior members left. Because of their poor results, the players are suspended from games and are almost forced to break up. Ironically, however, this hardship makes them band tighter together and intensifies their desire to play. They practice hard in the hope of regaining the respect of the other students and teachers. Soon, their will-power leads them to unbelievable victories. This story portrays the boys' dreams and friendship through baseball.\n\n(Source: Official website)",
+  "rank": 19635,
+  "popularity": 16574,
+  "num_list_users": 445,
+  "num_scoring_users": 81,
+  "nsfw": "white",
+  "created_at": "2011-09-15T03:56:11+00:00",
+  "updated_at": "2023-12-27T16:12:58+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "winter"
+  },
+  "average_episode_duration": 4200,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 22,
+      "name": "Nippon Animation"
+    }
+  ]
+}

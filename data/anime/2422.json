@@ -1,0 +1,62 @@
+{
+  "id": 2422,
+  "title": "Kenritsu Chikyuu Boueigun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1840/138245.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1840/138245l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Prefectural Earth Defense Force",
+    "ja": "県立地球防衛軍"
+  },
+  "start_date": "1986-03-21",
+  "end_date": "1986-03-21",
+  "synopsis": "Telegraph Pole Society, a mysterious group, is planning to conquer the world. The principal of the local high school forms a Defense Force by recruiting students from school: Shogi Morita, Kuho Tasuke, and Akiko Ifukube. Meanwhile the high school crazy scientist, Dr. Inogami, has turned a local boy, Kami Sanchin, into a cyborg. They might just defeat the Telegraph Pole Society with the help of the cyborg, or maybe not...\n\n(Source: AnimeNfo)",
+  "mean": 6.12,
+  "rank": 8967,
+  "popularity": 9494,
+  "num_list_users": 3502,
+  "num_scoring_users": 1285,
+  "nsfw": "white",
+  "created_at": "2007-05-03T06:35:36+00:00",
+  "updated_at": "2022-01-07T08:22:40+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2969,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    }
+  ]
+}

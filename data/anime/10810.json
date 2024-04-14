@@ -1,0 +1,55 @@
+{
+  "id": 10810,
+  "title": "Pucca (TV) 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/29860.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/29860l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Jjajang Sonyeo Ppukka"
+    ],
+    "en": "",
+    "ja": "짜장소녀 뿌까"
+  },
+  "start_date": "2008-03-07",
+  "end_date": "2008-07-24",
+  "synopsis": "The second series of Pucca.  The episode numbers continue from 27.",
+  "mean": 6.56,
+  "rank": 6545,
+  "popularity": 6835,
+  "num_list_users": 8428,
+  "num_scoring_users": 4420,
+  "nsfw": "white",
+  "created_at": "2011-06-11T21:57:46+00:00",
+  "updated_at": "2022-07-08T06:20:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 1380,
+  "rating": "g",
+  "studios": []
+}

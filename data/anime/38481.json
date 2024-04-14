@@ -1,0 +1,66 @@
+{
+  "id": 38481,
+  "title": "Toaru Kagaku no Railgun T",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1819/103287l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Toaru Kagaku no Railgun 3",
+      "Toaru Kagaku no Choudenjihou 3",
+      "A Certain Scientific Railgun 3"
+    ],
+    "en": "A Certain Scientific Railgun T",
+    "ja": "とある科学の超電磁砲[レールガン]T"
+  },
+  "start_date": "2020-01-10",
+  "end_date": "2020-09-25",
+  "synopsis": "The Daihasei Festival has begun, and that of course means that Tokiwadai Middle School—a prestigious all-girls' middle school—is competing too. Despite the participation of the \"Ace of Tokiwadai,\" Mikoto Misaka, the other students who are participating are still putting their utmost effort into winning, no matter how impossible the feat may seem against her overwhelming might.\n\nHowever, not all is fun and games. Due to the festival, Academy City opens to the outside world, and various factions have begun plotting ways to infiltrate the city. Misaka appears to be on their radar, and as the festival proceeds, people lurking from the shadows begin to emerge...\n\nToaru Kagaku no Railgun T brings back the Tokiwadai Ace and her friends as they dive deeper into the dark side of Academy City. From terrorist attacks to ruthless underground projects, anything is possible in this city.\n\n[Written by MAL Rewrite]",
+  "mean": 8.16,
+  "rank": 419,
+  "popularity": 1044,
+  "num_list_users": 231246,
+  "num_scoring_users": 92994,
+  "nsfw": "white",
+  "created_at": "2018-10-07T08:38:45+00:00",
+  "updated_at": "2023-04-29T10:07:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

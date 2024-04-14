@@ -1,0 +1,52 @@
+{
+  "id": 56357,
+  "title": "Hero Circle 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1706/137902.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1706/137902l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "히어로 써클 2"
+  },
+  "start_date": "2022-06-29",
+  "end_date": "2022-09-21",
+  "synopsis": "",
+  "rank": 20059,
+  "popularity": 23703,
+  "num_list_users": 82,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2023-08-19T10:31:47+00:00",
+  "updated_at": "2023-08-21T05:39:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 5096,
+  "title": "Doraemon Movie 28: Nobita to Midori no Kyojin Den",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/72433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/72433l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Doraemon the Future 2008",
+      "Doraemon the Movie 2008",
+      "Doraemon: Nobita to Midori no Kyojinden"
+    ],
+    "en": "Doraemon the Movie: Nobita and the Green Giant Legend",
+    "ja": "映画 ドラえもん のび太と緑の巨人伝"
+  },
+  "start_date": "2008-03-08",
+  "end_date": "2008-03-08",
+  "synopsis": "One day Nobita found a small sapling behind the hill but his mom won't allow him to plant it in the backyard. Using Doraemon's special tool, they made the tree alive so it could move around freely. Nobita name it Ki-bō and the two became like brothers. From there, a new adventure awaits...",
+  "mean": 7.49,
+  "rank": 1889,
+  "popularity": 5915,
+  "num_list_users": 11980,
+  "num_scoring_users": 7704,
+  "nsfw": "white",
+  "created_at": "2008-08-18T09:40:42+00:00",
+  "updated_at": "2022-04-08T15:54:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "average_episode_duration": 6720,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 51963,
+  "title": "Xinghuo Chuancheng",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1922/124144.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1922/124144l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "星火传承"
+  },
+  "start_date": "2021-06-03",
+  "end_date": "2021-09-03",
+  "synopsis": "",
+  "rank": 14783,
+  "popularity": 22067,
+  "num_list_users": 114,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2022-05-28T23:10:15+00:00",
+  "updated_at": "2022-07-06T16:36:21+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "average_episode_duration": 501,
+  "studios": []
+}

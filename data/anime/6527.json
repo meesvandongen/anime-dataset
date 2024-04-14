@@ -1,0 +1,60 @@
+{
+  "id": 6527,
+  "title": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1462/142442.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1462/142442l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fresh Pretty Cure! Movie: The Kingdom of Toys has Lots of Secrets!?"
+    ],
+    "en": "",
+    "ja": "映画 フレッシュプリキュア！おもちゃの国は秘密がいっぱい！？"
+  },
+  "start_date": "2009-10-31",
+  "end_date": "2009-10-31",
+  "synopsis": "After resolving the problems in the Labyrinth Kingdom, Love Momozono and her friends live a happy life and continue their dance training. Suddenly, the town children's toys start to go missing and the girls agree to help find them. Love Momozono's stuffed rabbit then comes to life and tells the Cures that the Toymajin is responsible. The Fresh Pretty Cure cast then travel to the Kingdom of Toys to save the day!\n\n(Source: bakabt)",
+  "mean": 6.71,
+  "rank": 5681,
+  "popularity": 8353,
+  "num_list_users": 5137,
+  "num_scoring_users": 2226,
+  "nsfw": "white",
+  "created_at": "2009-05-24T22:59:55+00:00",
+  "updated_at": "2023-01-28T20:17:25+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4200,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

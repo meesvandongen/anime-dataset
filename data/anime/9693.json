@@ -1,0 +1,62 @@
+{
+  "id": 9693,
+  "title": "Moshidora",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/29166.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/29166l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara",
+      "What If a Female Manager of a High School Baseball Team Read Drucker's",
+      "Drucker in the Dug-Out"
+    ],
+    "en": "",
+    "ja": "もしドラ"
+  },
+  "start_date": "2011-04-25",
+  "end_date": "2011-05-06",
+  "synopsis": "Minami joins her High School baseball team as a team manager after finding out that her best friend Yuuki is in the hospital and can't be a team manager any more.  In order to try to fill in for Yuuki and to help out the team the best she can, she goes out to find a book on how to manage a baseball team.  \n\nUnfortunately, she accidentally buys Peter Drucker's book called \"Management: Tasks, Responsibilities, Practices\" which is actually about how to properly manage a business.  Because she couldn't return the book, she decides to read it anyway and to try to apply the business management concepts to the baseball team so that way they can go on and win the Nationals.",
+  "mean": 6.87,
+  "rank": 4866,
+  "popularity": 4660,
+  "num_list_users": 21927,
+  "num_scoring_users": 8961,
+  "nsfw": "white",
+  "created_at": "2010-10-17T08:54:12+00:00",
+  "updated_at": "2022-02-08T02:25:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "22:55"
+  },
+  "source": "novel",
+  "average_episode_duration": 1503,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

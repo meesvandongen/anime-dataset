@@ -1,0 +1,64 @@
+{
+  "id": 6187,
+  "title": "Nodame Cantabile OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/18677.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/18677l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nodame Cantabile OAD"
+    ],
+    "en": "",
+    "ja": "のだめカンタービレ OVA"
+  },
+  "start_date": "2009-08-10",
+  "end_date": "2009-08-10",
+  "synopsis": "Yukihisa Matsuda, principal conductor of the Rising Star Orchestra, arrives in Paris to perform Wagner's Tannhäuser Overture as a guest conductor for the Recyl Symphony Orchestra. When Matsuda overhears the orchestra members praising Shinichi Chiaki, the budding Japanese conductor of the Roux-Marlet Orchestra, he can barely contain his contempt at there being another \"Black-Haired Noble\" in the same city. Freshly dumped by his mistress following the performance, Matsuda catches Chiaki and takes him out to drink under the pretense of discussing career. But much to Chiaki's chagrin, the subject soon turns to Chiaki's own special someone.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.42,
+  "rank": 2159,
+  "popularity": 4148,
+  "num_list_users": 28435,
+  "num_scoring_users": 14537,
+  "nsfw": "white",
+  "created_at": "2009-03-14T11:08:26+00:00",
+  "updated_at": "2023-07-12T10:13:50+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1317,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

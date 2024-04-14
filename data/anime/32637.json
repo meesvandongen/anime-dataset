@@ -1,0 +1,45 @@
+{
+  "id": 32637,
+  "title": "Usawaltz",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/78346.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/78346l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "USAWALTZ"
+  },
+  "start_date": "2011-09-15",
+  "end_date": "2011-09-15",
+  "synopsis": "In the black and white world with so many animals relaxing, there are small rabbits called 'usa' dancing in their world.\n\n(Source: Official site)",
+  "mean": 4.78,
+  "rank": 12894,
+  "popularity": 15084,
+  "num_list_users": 617,
+  "num_scoring_users": 310,
+  "nsfw": "white",
+  "created_at": "2016-01-31T16:37:59+00:00",
+  "updated_at": "2016-08-01T04:02:41+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 141,
+  "rating": "pg_13",
+  "studios": []
+}

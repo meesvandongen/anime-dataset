@@ -1,0 +1,52 @@
+{
+  "id": 32628,
+  "title": "Columbus no Daibouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/78334.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/78334l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Columbus's Great Adventures",
+      "Great Adventure of Columbus",
+      "Les Aventures de Christophe Columbe"
+    ],
+    "en": "",
+    "ja": "コロンブスの大冒険"
+  },
+  "start_date": "1992-12-23",
+  "end_date": "1992-12-23",
+  "synopsis": "As he nears the New World, Christopher Columbus tells cabin boy Paco about his youthful hardships, the difficulties of convincing others of his vision, and the final victory when King Ferdinand and Queen Isabella agreed to sponsor his trip. The sailors are doubtful, though Columbus is vindicated when they arrive on land, but it's not as the planned destination of Japan.\n\n(Source: The Anime Encyclopedia)",
+  "rank": 19001,
+  "popularity": 18046,
+  "num_list_users": 330,
+  "num_scoring_users": 61,
+  "nsfw": "white",
+  "created_at": "2016-01-31T02:29:55+00:00",
+  "updated_at": "2018-01-02T17:25:46+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 4200,
+  "rating": "g",
+  "studios": []
+}

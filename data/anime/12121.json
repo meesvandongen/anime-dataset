@@ -1,0 +1,40 @@
+{
+  "id": 12121,
+  "title": "Towa no Kizuna",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/34227.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/34227l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Everlasting Bond",
+    "ja": "永久のキズナ"
+  },
+  "start_date": "2011-10-19",
+  "end_date": "2011-10-19",
+  "synopsis": "Limited single release from Daisy x Daisy featuring the ninth intro theme of the series Fairy Tail has on the bundled music video Towa no Kizuna feat. Another Infinity. \n\n(Source: AniDB)",
+  "mean": 6.08,
+  "popularity": 8586,
+  "num_list_users": 4788,
+  "num_scoring_users": 2483,
+  "nsfw": "white",
+  "created_at": "2011-11-22T16:00:06+00:00",
+  "updated_at": "2023-12-28T09:02:55+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 221,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 4693,
+  "title": "Dochinpira",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/53635.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/53635l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Gigolo: Dochinpira",
+    "ja": "どチンピラ"
+  },
+  "start_date": "1993-08-27",
+  "end_date": "1993-08-27",
+  "synopsis": "Jin is one horny hunk, a twenty-two year old stud with lady killer looks. He's challenged by gorgeous Ai Mizushima to \"make me scream with pleasure\" it's a wager he can't refuse especially the when the prize is a brand new sports car.\n\n(Source: AniDB)",
+  "mean": 5.19,
+  "popularity": 12298,
+  "num_list_users": 1383,
+  "num_scoring_users": 469,
+  "nsfw": "gray",
+  "created_at": "2008-06-14T10:52:39+00:00",
+  "updated_at": "2021-08-30T00:43:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "summer"
+  },
+  "average_episode_duration": 2700,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 256,
+      "name": "Studio Kikan"
+    }
+  ]
+}

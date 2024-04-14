@@ -1,0 +1,46 @@
+{
+  "id": 7601,
+  "title": "Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1090/94148.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1090/94148l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mashin Eiyuuden Wataru: The Never-Ending Tale of Time"
+    ],
+    "en": "",
+    "ja": "魔神英雄伝ワタル　終わりなき時の物語"
+  },
+  "start_date": "1993-10-01",
+  "end_date": "1994-02-01",
+  "synopsis": "The story is about a 9-year-old boy named Wataru Ikusabe  who is magically transported to a magical realm of the gods called Sokaizan which he is supposed to save. He also befriends many of the Soukaizan natives, and forms some very strong friendship bonds. \n\n(Source: Wikipedia) ",
+  "mean": 6.41,
+  "rank": 7432,
+  "popularity": 13695,
+  "num_list_users": 920,
+  "num_scoring_users": 202,
+  "nsfw": "white",
+  "created_at": "2009-11-26T17:29:44+00:00",
+  "updated_at": "2021-07-14T03:31:54+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "average_episode_duration": 1680,
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

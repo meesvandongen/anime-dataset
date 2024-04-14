@@ -1,0 +1,62 @@
+{
+  "id": 57441,
+  "title": "Meitantei Conan vs. Kaitou Kid",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1411/140221.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1411/140221l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detective Conan vs. Kid the Phantom Thief",
+    "ja": "名探偵コナン VS. 怪盗キッド"
+  },
+  "start_date": "2024-01-05",
+  "end_date": "2024-01-05",
+  "synopsis": "A special edited version of the TV series that presents the birth of the magician under the moon, Kaito Kid, and the first confrontation with the biggest and eternal rival Conan / Shinichi with new scenes!!\n\n(Source: Official website)",
+  "mean": 6.65,
+  "rank": 6031,
+  "popularity": 10134,
+  "num_list_users": 2811,
+  "num_scoring_users": 204,
+  "nsfw": "white",
+  "created_at": "2023-12-04T23:15:12+00:00",
+  "updated_at": "2023-12-07T12:49:40+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 4816,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

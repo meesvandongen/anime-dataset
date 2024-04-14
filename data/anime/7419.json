@@ -1,0 +1,72 @@
+{
+  "id": 7419,
+  "title": "Wrestler Gundan Seisenshi Robin Jr.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1685/134304.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1685/134304l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wrestler Corps Commander Holy Warrior Robin Jr.",
+      "Wrestler Gundan Ginga-hen",
+      "Holy Warrior Robin Jr.",
+      "Gundan Seisenshi Robin Jr"
+    ],
+    "en": "",
+    "ja": "レスラー軍団＜銀河編＞ 聖戦士ロビンＪｒ．"
+  },
+  "start_date": "1989-10-19",
+  "end_date": "1990-09-27",
+  "synopsis": "Robin Jr. and his friends fight to save the solar system.",
+  "rank": 14359,
+  "popularity": 16248,
+  "num_list_users": 475,
+  "num_scoring_users": 90,
+  "nsfw": "white",
+  "created_at": "2009-10-30T00:56:01+00:00",
+  "updated_at": "2021-09-10T02:45:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 50,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": []
+}

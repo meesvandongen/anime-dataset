@@ -1,0 +1,48 @@
+{
+  "id": 54533,
+  "title": "Mida",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1461/133459.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1461/133459l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dream",
+    "ja": "夢見"
+  },
+  "start_date": "2013-11-15",
+  "end_date": "2013-11-15",
+  "synopsis": "Mida is a dream therapist. She can travel in people's dreams and heal their inner fears. During a therapy session, she falls in love with a man with the same ability, but 'he' turns out to be a computer program.\n\n(Source: IMDB)",
+  "rank": 16420,
+  "popularity": 22472,
+  "num_list_users": 103,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2023-02-17T00:31:47+00:00",
+  "updated_at": "2023-04-30T19:04:09+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 5340,
+  "rating": "pg_13",
+  "studios": []
+}

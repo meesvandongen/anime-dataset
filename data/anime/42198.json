@@ -1,0 +1,47 @@
+{
+  "id": 42198,
+  "title": "Atashin'chi Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1666/115433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1666/115433l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Atashinchi SP",
+      "Atashin'chi SP"
+    ],
+    "en": "",
+    "ja": "あたしンち SP"
+  },
+  "start_date": "2002-10-11",
+  "end_date": "2004-10-30",
+  "synopsis": "Special episodes of Atashin'chi.",
+  "rank": 18272,
+  "popularity": 18934,
+  "num_list_users": 275,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2020-06-11T12:15:01+00:00",
+  "updated_at": "2021-06-03T11:22:15+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2002,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1350,
+  "rating": "g",
+  "studios": []
+}

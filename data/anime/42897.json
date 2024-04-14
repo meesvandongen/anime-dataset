@@ -1,0 +1,60 @@
+{
+  "id": 42897,
+  "title": "Horimiya",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1695/111486.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1695/111486l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hori-san and Miyamura-kun"
+    ],
+    "en": "Horimiya",
+    "ja": "ホリミヤ"
+  },
+  "start_date": "2021-01-10",
+  "end_date": "2021-04-04",
+  "synopsis": "On the surface, the thought of Kyouko Hori and Izumi Miyamura getting along would be the last thing in people's minds. After all, Hori has a perfect combination of beauty and brains, while Miyamura appears meek and distant to his fellow classmates. However, a fateful meeting between the two lays both of their hidden selves bare. Even though she is popular at school, Hori has little time to socialize with her friends due to housework. On the other hand, Miyamura lives under the noses of his peers, his body bearing secret tattoos and piercings that make him look like a gentle delinquent.\n\nHaving opposite personalities yet sharing odd similarities, the two quickly become friends and often spend time together in Hori's home. As they both emerge from their shells, they share with each other a side of themselves concealed from the outside world.\n\n[Written by MAL Rewrite]",
+  "mean": 8.2,
+  "rank": 373,
+  "popularity": 94,
+  "num_list_users": 1373603,
+  "num_scoring_users": 832469,
+  "nsfw": "white",
+  "created_at": "2020-09-16T10:56:10+00:00",
+  "updated_at": "2023-03-25T05:26:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1432,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 42351,
+  "title": "Senpai ga Uzai Kouhai no Hanashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1055/118890.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1055/118890l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Senpai is Annoying",
+    "ja": "先輩がうざい後輩の話"
+  },
+  "start_date": "2021-10-10",
+  "end_date": "2021-12-26",
+  "synopsis": "At a certain trading company, saleswoman Futaba Igarashi has managed to hold her respectable job for almost two years thanks to the guidance of her senior coworker—Harumi Takeda. However, due to Igarashi's short stature, Takeda often teases her and treats her like a kid, leaving Igarashi constantly annoyed by his antics.\n\nDespite this, Igarashi notices Takeda's reliability as he is always ready to help whenever something at their workplace goes awry. As Igarashi and Takeda spend more time together, their relationship soon develops further than simply being coworkers at the office.\n\n[Written by MAL Rewrite]",
+  "mean": 7.58,
+  "rank": 1571,
+  "popularity": 716,
+  "num_list_users": 330210,
+  "num_scoring_users": 154044,
+  "nsfw": "white",
+  "created_at": "2020-07-01T10:38:12+00:00",
+  "updated_at": "2023-01-05T18:13:32+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1425,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

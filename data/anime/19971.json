@@ -1,0 +1,56 @@
+{
+  "id": 19971,
+  "title": "Machi Ichiban no Kechinbou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/70125.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/70125l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A Christmas Carol",
+      "The Number One Miser of the City"
+    ],
+    "en": "The Stingiest Man in Town",
+    "ja": "町一番のけちんぼう"
+  },
+  "start_date": "1978-12-24",
+  "end_date": "1978-12-24",
+  "synopsis": "Based on the novel A Christmas Carol by Charles Dickens.\n\n(Source: AniDB)",
+  "mean": 5.76,
+  "rank": 10622,
+  "popularity": 14739,
+  "num_list_users": 675,
+  "num_scoring_users": 206,
+  "nsfw": "white",
+  "created_at": "2013-08-08T22:46:26+00:00",
+  "updated_at": "2023-12-27T14:12:41+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1978,
+    "season": "fall"
+  },
+  "source": "novel",
+  "average_episode_duration": 2995,
+  "rating": "g",
+  "studios": []
+}

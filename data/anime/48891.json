@@ -1,0 +1,43 @@
+{
+  "id": 48891,
+  "title": "The Epic of Zektbach: Ristaccia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1212/114754.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1212/114754l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "The Epic of Zektbach -Ristaccia-"
+  },
+  "start_date": "2009-09-16",
+  "end_date": "2009-09-16",
+  "synopsis": "Music video for the song Ristaccia by ZektBach.",
+  "popularity": 21531,
+  "num_list_users": 136,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2021-05-05T19:46:08+00:00",
+  "updated_at": "2023-01-04T07:31:44+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 139,
+  "rating": "pg_13",
+  "studios": []
+}

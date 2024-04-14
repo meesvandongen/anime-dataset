@@ -1,0 +1,46 @@
+{
+  "id": 36821,
+  "title": "Machibouke",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/89036.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/89036l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Waiting in Vain"
+    ],
+    "en": "",
+    "ja": "待ちぼうけ"
+  },
+  "start_date": "1973-08-16",
+  "end_date": "1973-08-16",
+  "synopsis": "There was a tree stump at the corner of a farmer's field. A speeding rabbit broke its neck and died on it. Rabbits make for a great meal and sell well on the market so the farmer decided to give up farming and just wait for more rabbits to come hit the stump and die again. But he waited and waited and no new rabbits came. Leaving his crops to fail and himself rabbit-less. The song is supposed to teach the lesson of waiting in vain. It's okay to have an optimistic view on something but do not idly sit around waiting for it to happen because it might not. Similar to the Western adage \"don't count your chickens before they hatch.\"",
+  "popularity": 19501,
+  "num_list_users": 243,
+  "num_scoring_users": 106,
+  "nsfw": "white",
+  "created_at": "2017-11-17T05:38:21+00:00",
+  "updated_at": "2017-11-17T17:20:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1973,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 139,
+  "rating": "g",
+  "studios": []
+}

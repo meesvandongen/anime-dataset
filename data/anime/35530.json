@@ -1,0 +1,51 @@
+{
+  "id": 35530,
+  "title": "Mayuge Dance",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85638.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85638l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eyebrow Dance",
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "まゆげダンス"
+  },
+  "start_date": "2016-12-01",
+  "end_date": "2016-12-01",
+  "synopsis": "An eyebrows appreciation music video.",
+  "popularity": 19551,
+  "num_list_users": 240,
+  "num_scoring_users": 104,
+  "nsfw": "white",
+  "created_at": "2017-05-05T07:08:43+00:00",
+  "updated_at": "2019-01-29T15:25:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 143,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1005,
+      "name": "Oddjob"
+    }
+  ]
+}

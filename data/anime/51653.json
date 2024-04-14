@@ -1,0 +1,62 @@
+{
+  "id": 51653,
+  "title": "Ultraman Final",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1671/134694.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1671/134694l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ULTRAMAN FINAL"
+  },
+  "start_date": "2023-05-11",
+  "end_date": "2023-05-11",
+  "synopsis": "Final Season of Ultraman.",
+  "mean": 7.23,
+  "rank": 3120,
+  "popularity": 8495,
+  "num_list_users": 4938,
+  "num_scoring_users": 1835,
+  "nsfw": "white",
+  "created_at": "2022-04-18T13:51:55+00:00",
+  "updated_at": "2023-06-20T21:44:20+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1477,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 1189,
+      "name": "Sola Digital Arts"
+    }
+  ]
+}

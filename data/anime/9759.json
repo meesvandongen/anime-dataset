@@ -1,0 +1,56 @@
+{
+  "id": 9759,
+  "title": "Future GPX Cyber Formula Graffiti",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/31699.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/31699l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shinseiki GPX Cyber Formula Graffiti"
+    ],
+    "en": "",
+    "ja": "新世紀GPXサイバーフォーミュラ グラフィティ"
+  },
+  "start_date": "1992-08-05",
+  "end_date": "1992-08-05",
+  "synopsis": "Short video diary of the original TV series.\n\n(Source: AniDB)",
+  "mean": 6.34,
+  "rank": 7808,
+  "popularity": 14316,
+  "num_list_users": 773,
+  "num_scoring_users": 193,
+  "nsfw": "white",
+  "created_at": "2010-10-30T11:31:39+00:00",
+  "updated_at": "2023-12-14T07:37:57+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1800,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

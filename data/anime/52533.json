@@ -1,0 +1,43 @@
+{
+  "id": 52533,
+  "title": "Nanka Noise ni Kikoeru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1026/126077.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1026/126077l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Irodorimidori",
+      "HaNaMiNa feat.Hana"
+    ],
+    "en": "",
+    "ja": "なんかノイズにきこえる"
+  },
+  "start_date": "2021-05-10",
+  "end_date": "2021-05-10",
+  "synopsis": "Official music video for the song Nanka Noise ni Kikoeru by the fictional band HaNaMiNa. It is the 64th song in the Irodorimidori franchise and focuses on Hana Katsuragi.",
+  "mean": 5.58,
+  "popularity": 17928,
+  "num_list_users": 340,
+  "num_scoring_users": 188,
+  "nsfw": "white",
+  "created_at": "2022-07-28T10:08:13+00:00",
+  "updated_at": "2022-08-16T14:13:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 161,
+  "rating": "g",
+  "studios": []
+}

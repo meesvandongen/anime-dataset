@@ -1,0 +1,50 @@
+{
+  "id": 2697,
+  "title": "Hi-Speed Jecy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1143/105903.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1143/105903l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "High Speed Jessie",
+    "ja": "ハイスピード・ジェシー"
+  },
+  "start_date": "1989-09-05",
+  "end_date": "1990-03-05",
+  "synopsis": "Jecy is a young man on a quest for revenge; he lost his parents to the hands of the organized crime syndicate called the Bismark House - a group on a hunt to acquire a product called ‘lyzorium' at any cost.  With incredible abilities such as increased speed and agility, Jecy travels through space with a girl named Tiana; Fork Green, a priest of the Heartland religion who kills criminals slowly to send them to heaven; and a living ship called Paolon. However, Jecy's revenge won't come easily - a woman named Jera, her bloodthirsty little brother Cross and a number of other adversaries stand in their way!\n\n(Source: Anime-Planet)",
+  "mean": 6.37,
+  "rank": 7648,
+  "popularity": 11552,
+  "num_list_users": 1790,
+  "num_scoring_users": 397,
+  "nsfw": "white",
+  "created_at": "2007-06-22T21:12:14+00:00",
+  "updated_at": "2021-09-20T14:43:16+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1989,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1680,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

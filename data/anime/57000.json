@@ -1,0 +1,49 @@
+{
+  "id": 57000,
+  "title": "Zero Talking",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1259/139323.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1259/139323l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ゼロトーキング"
+  },
+  "start_date": "2023-10-25",
+  "end_date": "2023-10-25",
+  "synopsis": "Music video for the song Zero Talking by Harumaki Gohan.",
+  "mean": 6.21,
+  "popularity": 20050,
+  "num_list_users": 213,
+  "num_scoring_users": 112,
+  "nsfw": "gray",
+  "created_at": "2023-10-25T10:37:16+00:00",
+  "updated_at": "2023-11-19T13:12:16+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 26,
+      "name": "Girls Love"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 226,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2244,
+      "name": "Studio Gohan"
+    }
+  ]
+}

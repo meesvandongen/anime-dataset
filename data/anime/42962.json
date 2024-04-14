@@ -1,0 +1,63 @@
+{
+  "id": 42962,
+  "title": "Uzaki-chan wa Asobitai! Double",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1539/128058.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1539/128058l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uzaki-chan wa Asobitai! 2nd Season",
+      "Uzaki-chan wa Asobitai! ω",
+      "Uzaki-chan Wants to Hang Out! 2nd Season",
+      "Uzaki-chan Wants to Hang Out! ω"
+    ],
+    "en": "Uzaki-chan Wants to Hang Out! Season 2",
+    "ja": "宇崎ちゃんは遊びたい！ω（だぶる）"
+  },
+  "start_date": "2022-10-01",
+  "end_date": "2022-12-24",
+  "synopsis": "During the summer holidays, energetic Hana Uzaki spent most of her time accompanying her lonesome upperclassman, Shinichi Sakurai. Now that school has resumed, Uzaki's teasing continues to ramp up, much to Sakurai's constant annoyance. Nevertheless, no amount of ridicule can damage the pair's relationship—which only seems to be getting better as their college days fly by!\n\n[Written by MAL Rewrite]",
+  "mean": 7.25,
+  "rank": 2979,
+  "popularity": 1121,
+  "num_list_users": 215603,
+  "num_scoring_users": 78739,
+  "nsfw": "gray",
+  "created_at": "2020-09-25T14:44:42+00:00",
+  "updated_at": "2023-04-10T10:23:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "21:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1974,
+      "name": "ENGI"
+    }
+  ]
+}

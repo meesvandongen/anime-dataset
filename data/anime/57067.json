@@ -1,0 +1,67 @@
+{
+  "id": 57067,
+  "title": "Fanren Xiu Xian Chuan 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1119/139470.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1119/139470l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fanren Xiu Xian Chuan: Di San Ji"
+    ],
+    "en": "A Record of Mortal's Journey to Immortality Season 3",
+    "ja": "凡人修仙传 第三季"
+  },
+  "start_date": "2023-11-25",
+  "synopsis": "Third season of Fanren Xiu Xian Chuan.",
+  "mean": 7.63,
+  "rank": 1415,
+  "popularity": 13420,
+  "num_list_users": 994,
+  "num_scoring_users": 231,
+  "nsfw": "white",
+  "created_at": "2023-11-04T19:25:38+00:00",
+  "updated_at": "2023-11-05T10:23:17+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 48,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2065,
+      "name": "Original Force"
+    },
+    {
+      "id": 2471,
+      "name": "Wonder Cat Animation"
+    }
+  ]
+}

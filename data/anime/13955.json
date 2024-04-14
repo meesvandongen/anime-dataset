@@ -1,0 +1,66 @@
+{
+  "id": 13955,
+  "title": "Dennou Coil Recaps",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/38635.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/38635l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dennou Coil Soufukushuu",
+      "Dennou Coil Episode 22.5",
+      "Dennou Coil Comprehensive Recap"
+    ],
+    "en": "",
+    "ja": "電脳コイル総復習"
+  },
+  "start_date": "2007-08-25",
+  "end_date": "2007-11-03",
+  "synopsis": "The entry encompasses two recaps: \"Dennou Coil Overall Review\" - summary episode, recapping the story up to 22nd episode, as well as \"Total Summary Special\" - 90 minute recap that was released with the Blu-ray Box.",
+  "mean": 6.21,
+  "rank": 8499,
+  "popularity": 10375,
+  "num_list_users": 2619,
+  "num_scoring_users": 766,
+  "nsfw": "white",
+  "created_at": "2012-04-29T13:25:37+00:00",
+  "updated_at": "2024-02-06T16:51:00+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 3420,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

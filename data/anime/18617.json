@@ -1,0 +1,64 @@
+{
+  "id": 18617,
+  "title": "Girls & Panzer Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1776/91467.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1776/91467l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Girls & Panzer Gekijouban"
+    ],
+    "en": "Girls und Panzer der Film",
+    "ja": "ガールズ&パンツァー 劇場版"
+  },
+  "start_date": "2015-11-21",
+  "end_date": "2015-11-21",
+  "synopsis": "Having won the 63rd National Sensha-dou tournament, the girls from Ooarai Girls Academy managed to prevent their school from closure by the Japanese Ministry of Education. However, new troubles loom on the horizon: a ministry official argues that the deal was not legally binding and that the Ooarai school carrier is to be decommissioned. Students and their families are frustrated with this injustice and overwhelmed with despair; it seems little can be done to save the school.\n\nTheir last glimmer of hope is a proposed match against the All-Stars University Sensha-dou team, consisting of the most talented students from all over the country. Despite Ooarai being severely outnumbered and clearly outclassed, they accept the challenge.\n\n[Written by MAL Rewrite]",
+  "mean": 8.19,
+  "rank": 387,
+  "popularity": 1992,
+  "num_list_users": 106268,
+  "num_scoring_users": 57961,
+  "nsfw": "white",
+  "created_at": "2013-05-02T14:29:19+00:00",
+  "updated_at": "2023-10-14T15:33:30+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 7200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
+}

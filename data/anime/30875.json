@@ -1,0 +1,67 @@
+{
+  "id": 30875,
+  "title": "Washimo 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/74290.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/74290l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Wasimo Third Season"
+    ],
+    "en": "",
+    "ja": "わしも 第3期"
+  },
+  "start_date": "2015-03-30",
+  "end_date": "2015-09-22",
+  "synopsis": "Third season of Washimo series.",
+  "rank": 14269,
+  "popularity": 17683,
+  "num_list_users": 359,
+  "num_scoring_users": 84,
+  "nsfw": "white",
+  "created_at": "2015-06-01T01:55:16+00:00",
+  "updated_at": "2016-03-26T21:29:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 44,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "other",
+    "start_time": "18:00"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 620,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

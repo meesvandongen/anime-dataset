@@ -1,0 +1,76 @@
+{
+  "id": 42803,
+  "title": "Dokyuu Hentai HxEros OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1592/109081.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1592/109081l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "SUPER HXEROS OVA"
+    ],
+    "en": "",
+    "ja": "ド級編隊エグゼロス"
+  },
+  "start_date": "2020-11-04",
+  "end_date": "2021-03-04",
+  "synopsis": "The first original video episode will follow three of the main heroines in an original story.\n\nBundled with the 11th and 12th volumes of the Dokyuu Hentai HxEros manga.\n\n(Source: MAL News)",
+  "mean": 6.22,
+  "rank": 8484,
+  "popularity": 5088,
+  "num_list_users": 17777,
+  "num_scoring_users": 7306,
+  "nsfw": "gray",
+  "created_at": "2020-09-04T08:49:02+00:00",
+  "updated_at": "2023-09-16T23:51:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1421,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

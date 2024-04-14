@@ -1,0 +1,52 @@
+{
+  "id": 55285,
+  "title": "Stray Sheep no Daibouken",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1094/135846.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1094/135846l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Adventure of Stray Sheep",
+    "ja": "ストレイシープの大冒険"
+  },
+  "start_date": "1994-12-24",
+  "end_date": "2000-12-23",
+  "synopsis": "",
+  "rank": 13619,
+  "popularity": 22492,
+  "num_list_users": 102,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2023-05-14T01:08:38+00:00",
+  "updated_at": "2023-05-14T07:35:07+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1995,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 342,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 249,
+      "name": "Robot Communications"
+    }
+  ]
+}

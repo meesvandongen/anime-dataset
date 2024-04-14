@@ -1,0 +1,65 @@
+{
+  "id": 1737,
+  "title": "Uchuu Senshi Baldios",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1603/98295.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1603/98295l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Space Warrior Baldios",
+    "ja": "宇宙戦士 バルディオス"
+  },
+  "start_date": "1980-06-30",
+  "end_date": "1981-01-25",
+  "synopsis": "After polluting their own planet beyond repair, a race of evil aliens target earth as their next home. Now it is up to a lone outcast and his robotic spacecraft, Baldios, to defend earth. But, first he must convince the distrusting human population of the impending danger.\n\n(Source: ANN)",
+  "mean": 6.45,
+  "rank": 7202,
+  "popularity": 10300,
+  "num_list_users": 2682,
+  "num_scoring_users": 601,
+  "nsfw": "white",
+  "created_at": "2006-12-09T16:58:24+00:00",
+  "updated_at": "2023-06-04T18:18:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 34,
+  "start_season": {
+    "year": 1980,
+    "season": "summer"
+  },
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 242,
+      "name": "Ashi Productions"
+    }
+  ]
+}

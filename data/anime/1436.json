@@ -1,0 +1,62 @@
+{
+  "id": 1436,
+  "title": "Lupin III: Twilight Gemini no Himitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1190/97706.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1190/97706l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lupin III: The Secret of Twilight Gemini",
+      "Rupan Sansei: Twilight Gemini no Himitsu",
+      "Lupin III Special Part 8",
+      "Lupin III: The Legend of Twilight Gemini"
+    ],
+    "en": "Lupin III: The Secret of Twilight Gemini",
+    "ja": "ルパン三世『トワイライト☆ジェミニの秘密』"
+  },
+  "start_date": "1996-08-02",
+  "end_date": "1996-08-02",
+  "synopsis": "A dying mob boss entrusts Lupin with a diamond that supposedly is the key to a vast treasure. But when Lupin is attacked by an assassin and saves a mysterious girl from trouble, it becomes clear that that there's more to this treasure then meets the eye... \n\n(Source: ANN)",
+  "mean": 6.91,
+  "rank": 4655,
+  "popularity": 7010,
+  "num_list_users": 7945,
+  "num_scoring_users": 3529,
+  "nsfw": "white",
+  "created_at": "2006-08-21T08:27:39+00:00",
+  "updated_at": "2023-12-27T07:16:24+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5400,
+  "rating": "r+",
+  "studios": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 19495,
+  "title": "Hakusai Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/53423.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/53423l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shirona"
+    ],
+    "en": "",
+    "ja": "白菜アニメ"
+  },
+  "start_date": "2013-07-15",
+  "end_date": "2021-04-14",
+  "synopsis": "School Life of Hakusai and her friends.\n\nProduced by Lamaze P (ラマーズP) in collaboration with Studio Piapro and broadcasted on Nico Nico.",
+  "mean": 5.54,
+  "rank": 11476,
+  "popularity": 14851,
+  "num_list_users": 659,
+  "num_scoring_users": 144,
+  "nsfw": "white",
+  "created_at": "2013-07-15T04:22:51+00:00",
+  "updated_at": "2023-11-09T09:41:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 252,
+  "rating": "pg",
+  "studios": []
+}

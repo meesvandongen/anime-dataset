@@ -1,0 +1,52 @@
+{
+  "id": 50696,
+  "title": "One Piece: Barto no Himitsu no Heya!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1385/120283.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1385/120283l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Episode 1004.5",
+      "One Piece Episode 1015.5",
+      "One Piece Episode 1073.5",
+      "One Piece Episode 1078.5",
+      "One Piece Special Episodes: Barto's Secret Room"
+    ],
+    "en": "One Piece: Barto's Secret Room",
+    "ja": "バルトの秘密の部屋!"
+  },
+  "start_date": "2021-12-26",
+  "end_date": "2023-10-08",
+  "synopsis": "Bartolomeo and a few mysterious guests recap the adventures of the Straw Hat Crew in the Land of Wano. From Monkey D. Luffy's first encounter with Otama to even the worst generation pirates' final confrontation with Big Mom and Kaido on the roof of Onigashima. The retelling of this exciting tale is just as riveting as the first.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.22,
+  "rank": 8461,
+  "popularity": 5672,
+  "num_list_users": 13375,
+  "num_scoring_users": 6462,
+  "nsfw": "white",
+  "created_at": "2021-12-30T16:31:21+00:00",
+  "updated_at": "2023-12-29T02:19:05+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1431,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

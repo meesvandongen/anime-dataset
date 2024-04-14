@@ -1,0 +1,48 @@
+{
+  "id": 8855,
+  "title": "Eiyuu Gaiden Mozaicka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1292/99545.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1292/99545l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mozaika"
+    ],
+    "en": "",
+    "ja": "英雄凱伝モザイカ"
+  },
+  "start_date": "1991-11-21",
+  "end_date": "1991-12-21",
+  "synopsis": "From Ryosuke Takahashi and Norio Shioyama, the creative minds behind great animes such as Armored Trooper VOTOMs and Panzer World Galient, comes an epic tale of swords and sorcery! On the eternal planet of Mozaika, the formerly benevolent King Sazara has been possessed by an evil priest and has begun a bloody path of conquest all across the world! Mozaika's only hope is the young warrior U-Taruma, son of U-Dante, one of Sazara's victims. If you like fantasy, or classic Norio Shioyama character designs, you can't miss this 4-episode OVA!",
+  "mean": 5.89,
+  "rank": 10083,
+  "popularity": 11700,
+  "num_list_users": 1694,
+  "num_scoring_users": 504,
+  "nsfw": "white",
+  "created_at": "2010-05-22T01:11:05+00:00",
+  "updated_at": "2022-03-23T02:23:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1991,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1768,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 34391,
+  "title": "Kidou Senshi Gundam Thunderbolt 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/86531.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/86531l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kidou Senshi Gundam Thunderbolt 2nd Season"
+    ],
+    "en": "Mobile Suit Gundam Thunderbolt 2nd Season",
+    "ja": "機動戦士ガンダム サンダーボルト 2"
+  },
+  "start_date": "2017-03-24",
+  "end_date": "2017-07-14",
+  "synopsis": "The second season of Mobile Suit Gundam Thunderbolt.",
+  "mean": 7.22,
+  "rank": 3166,
+  "popularity": 4576,
+  "num_list_users": 22764,
+  "num_scoring_users": 11610,
+  "nsfw": "white",
+  "created_at": "2016-11-18T07:43:45+00:00",
+  "updated_at": "2022-11-07T16:42:56+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1260,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

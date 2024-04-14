@@ -1,0 +1,38 @@
+{
+  "id": 47993,
+  "title": "Shen Diao Shiyan Shi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1758/118260.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1758/118260l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "WTF Laboratory",
+    "ja": "神雕实验室"
+  },
+  "start_date": "2019-05-14",
+  "synopsis": "",
+  "rank": 17888,
+  "popularity": 23817,
+  "num_list_users": 81,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2021-02-19T05:09:13+00:00",
+  "updated_at": "2022-10-30T18:56:33+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "average_episode_duration": 52,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 49722,
+  "title": "Karakai Jouzu no Takagi-san Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1376/123398.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Teasing Master Takagi-san: The Movie",
+    "ja": "からかい上手の高木さん"
+  },
+  "start_date": "2022-06-10",
+  "end_date": "2022-06-10",
+  "synopsis": "Takagi and Nishikata's final summer in junior high is about to begin, and it's already off to a heartwarming start! When the pair find an abandoned kitten, they decide to work together and take care of their adorable new companion until they can locate its missing mother.\n\n(Source: Sentai Filmworks)",
+  "mean": 8.47,
+  "rank": 142,
+  "popularity": 2512,
+  "num_list_users": 73239,
+  "num_scoring_users": 31731,
+  "nsfw": "white",
+  "created_at": "2021-09-01T12:40:59+00:00",
+  "updated_at": "2023-08-09T21:10:48+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 4380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

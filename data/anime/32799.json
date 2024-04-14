@@ -1,0 +1,45 @@
+{
+  "id": 32799,
+  "title": "Tokio Heidi: Mainichi no Kodomo Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/78642.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/78642l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tokyo Heidi"
+    ],
+    "en": "",
+    "ja": "東京ハイジ まいにちのこどもうた"
+  },
+  "start_date": "2011-04-06",
+  "synopsis": "A series of animated music videos and short videos teaching children common everyday tasks, such as brushing teeth.",
+  "rank": 13955,
+  "popularity": 18641,
+  "num_list_users": 292,
+  "num_scoring_users": 47,
+  "nsfw": "white",
+  "created_at": "2016-02-21T20:17:45+00:00",
+  "updated_at": "2017-11-19T00:49:51+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 161,
+  "rating": "g",
+  "studios": []
+}

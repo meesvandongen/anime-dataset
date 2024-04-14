@@ -1,0 +1,64 @@
+{
+  "id": 4447,
+  "title": "Meitantei Conan Movie 12: Senritsu no Full Score",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/22766.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/22766l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Meitantei Conan: Senritsu no Gakufu [Full Score]"
+    ],
+    "en": "Detective Conan Movie 12: Full Score of Fear",
+    "ja": "名探偵コナン 戦慄の楽譜（フルスコア）"
+  },
+  "start_date": "2008-04-19",
+  "end_date": "2008-04-19",
+  "synopsis": "Serial murders involving all kinds have happened. All the victims are from a Music School led by a famous pianist. Conan and company have been invited to a opening concert of the Music Hall built by the pianist. The biggest attraction of this concert is the world famous violin called \"Stradivarius\" and a special appearance of a singer who has perfect pitch. \n\n(Source: ANN)",
+  "mean": 7.79,
+  "rank": 1015,
+  "popularity": 3193,
+  "num_list_users": 47578,
+  "num_scoring_users": 27443,
+  "nsfw": "white",
+  "created_at": "2008-05-03T00:59:59+00:00",
+  "updated_at": "2023-11-25T14:06:57+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 6960,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

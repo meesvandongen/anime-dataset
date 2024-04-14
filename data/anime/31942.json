@@ -1,0 +1,50 @@
+{
+  "id": 31942,
+  "title": "Shooting Hero",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/76864.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/76864l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "シューティング・ヒーロー"
+  },
+  "start_date": "1986-04-04",
+  "end_date": "1986-04-04",
+  "synopsis": "A music video for the song Shooting Hero by Duke Aces. Aired as part of NHK's Minna no Uta program from April to May 1986.",
+  "mean": 5.25,
+  "popularity": 17576,
+  "num_list_users": 369,
+  "num_scoring_users": 172,
+  "nsfw": "white",
+  "created_at": "2015-10-25T01:37:51+00:00",
+  "updated_at": "2022-06-22T06:22:47+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "g",
+  "studios": []
+}

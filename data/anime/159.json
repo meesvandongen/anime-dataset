@@ -1,0 +1,86 @@
+{
+  "id": 159,
+  "title": "Boukyaku no Senritsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/52679.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/52679l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Melody of Oblivion",
+    "ja": "忘却の旋律"
+  },
+  "start_date": "2004-04-07",
+  "end_date": "2004-09-22",
+  "synopsis": "A great war occurred in the 20th century between humans and monsters. Since that time, the monsters rule the world in fear but keep relatively hidden from public view. A boy named Bokka ponders the past and wonders what became of the Meros Warriors who defended the world so bravely against the demons. He soon meets Kurofune and learns of the power of the Meros and the I-bar machines they ride in battle. Warriors are the only ones who can see and hear the Melody of Oblivion, a phantom girl hidden away waiting to be rescued and be the savior of mankind. During a battle between Kurofune and a demon, Bokka discovers something only his wildest dreams could possibly imagine...he too can hear that melody. Throughout his journeys, Bokka meets many monsters and their agents, friends, and companions as he discovers the true extent of his new powers. He must continue to battle evil in the hope of releasing Boukyaku no Senritsu and free a world that has forgotten its once beautiful melody.\n\n(Source: ANN)",
+  "mean": 6.28,
+  "rank": 8178,
+  "popularity": 4980,
+  "num_list_users": 18917,
+  "num_scoring_users": 6094,
+  "nsfw": "white",
+  "created_at": "2005-11-12T05:33:19+00:00",
+  "updated_at": "2023-09-23T08:00:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2004,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "02:54"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 36752,
+  "title": "Robotic Girl",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/88927.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/88927l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Robotikkugaru"
+    ],
+    "en": "Robotic Girl",
+    "ja": "ロボティックガール"
+  },
+  "start_date": "2017-10-03",
+  "end_date": "2017-10-03",
+  "synopsis": "A music video for Yunomi's song \"Robotic Girl\".",
+  "mean": 5.92,
+  "popularity": 15754,
+  "num_list_users": 527,
+  "num_scoring_users": 241,
+  "nsfw": "white",
+  "created_at": "2017-11-06T03:30:49+00:00",
+  "updated_at": "2018-01-23T08:10:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 265,
+  "rating": "g",
+  "studios": []
+}

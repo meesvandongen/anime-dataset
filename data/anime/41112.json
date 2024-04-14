@@ -1,0 +1,56 @@
+{
+  "id": 41112,
+  "title": "Tobidase! Dokan-kun Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1590/105571.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1590/105571l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyuushoku Center no Akka Shita Ningen Kankei",
+      "Koushuudenwa Robo no Mukashibanashi"
+    ],
+    "en": "",
+    "ja": "とびだせ!土管くん"
+  },
+  "start_date": "2012-08-24",
+  "end_date": "2012-08-24",
+  "synopsis": "DVD specials of Tobidase! Dokan-kun.",
+  "rank": 13940,
+  "popularity": 21052,
+  "num_list_users": 158,
+  "num_scoring_users": 27,
+  "nsfw": "white",
+  "created_at": "2020-01-23T06:20:20+00:00",
+  "updated_at": "2020-01-23T06:20:20+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

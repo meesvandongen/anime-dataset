@@ -1,0 +1,55 @@
+{
+  "id": 41617,
+  "title": "Shounen Sunday CM: Joujuu Senjin!! Mushibugyou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1167/106879.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1167/106879l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shounen Sunday CM: Mushibugyou"
+    ],
+    "en": "",
+    "ja": "サンデーCM劇場「ムシブギョー」"
+  },
+  "start_date": "2011-06-18",
+  "end_date": "2011-06-18",
+  "synopsis": "Mushibugyou television commercial for Shounen Sunday magazine.",
+  "mean": 5.72,
+  "popularity": 18550,
+  "num_list_users": 297,
+  "num_scoring_users": 127,
+  "nsfw": "white",
+  "created_at": "2020-04-06T15:43:08+00:00",
+  "updated_at": "2023-12-26T15:49:10+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 30,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 1143,
+      "name": "TOHO animation"
+    }
+  ]
+}

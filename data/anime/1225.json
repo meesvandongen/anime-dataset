@@ -1,0 +1,77 @@
+{
+  "id": 1225,
+  "title": "3x3 Eyes: Seima Densetsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1288/120666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1288/120666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin 3x3 Eyes",
+      "Sazan Eyes: Seima Densetsu"
+    ],
+    "en": "3x3 Eyes: Legend of the Divine Demon",
+    "ja": "3×3 EYES聖魔伝説"
+  },
+  "start_date": "1995-07-25",
+  "end_date": "1996-06-25",
+  "synopsis": "Yakumo has trained and searched for 4 years, following Pai's mysterious disappearance. However, when he finally finds her, not all is well as her memory seems to be gone. They attempt to return her memory by going to the Holy Land, birthplace of the immortal race of Sanjiyans.",
+  "mean": 6.91,
+  "rank": 4685,
+  "popularity": 5395,
+  "num_list_users": 15133,
+  "num_scoring_users": 7427,
+  "nsfw": "white",
+  "created_at": "2006-07-28T05:59:41+00:00",
+  "updated_at": "2023-04-24T08:53:03+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1995,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2906,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 280,
+      "name": "Studio Junio"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 13947,
+  "title": "Ashita no Eleven-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1980/110420.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1980/110420l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ashita no Eleventachi",
+      "Tomorrow's Eleven"
+    ],
+    "en": "",
+    "ja": "あしたの勇者(イレブン)たち"
+  },
+  "start_date": "1979-01-07",
+  "end_date": "1979-01-07",
+  "synopsis": "A boy from the farm with amazing running speed is asked to join a newly formed national soccer team and discovers a natural talent for the game. The movie is inspired by Japan's hosting of the world soccer championships that year.\n\n(Source: AniDB)",
+  "mean": 5.48,
+  "rank": 11657,
+  "popularity": 15155,
+  "num_list_users": 608,
+  "num_scoring_users": 179,
+  "nsfw": "white",
+  "created_at": "2012-04-28T18:24:21+00:00",
+  "updated_at": "2023-12-27T14:08:33+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1979,
+    "season": "winter"
+  },
+  "average_episode_duration": 4250,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

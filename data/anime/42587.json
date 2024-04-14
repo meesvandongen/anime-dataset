@@ -1,0 +1,60 @@
+{
+  "id": 42587,
+  "title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1657/118480.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1657/118480l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuki Yuna is a Hero: The Great Full Blossom Chapter"
+    ],
+    "en": "Yuki Yuna is a Hero: The Great Mankai Chapter",
+    "ja": "結城友奈は勇者である 大満開の章"
+  },
+  "start_date": "2021-10-02",
+  "end_date": "2021-12-18",
+  "synopsis": "At the cost of the gods' protection, a new era has dawned, giving the remnants of mankind a chance to rebuild. Having fulfilled their duties to Taisha, the members of Sanshu Middle School's Hero Club finally begin to enjoy their youth, living as regular students. However, such a conclusion did not come about without sacrifice.\n\nIn the year 298 of the Divine Era, Mebuki Kusunoki is among the potential candidates to become the next hero. Despite her painstaking efforts to surpass her competition, she loses the position to Karin Miyoshi, leaving Mebuki furious at Taisha's decision. Two years later, Mebuki is appointed commander of the Sentinels—a group tasked to explore uncharted territory beyond the barrier. The team's seemingly simple mission is quickly disrupted by unforeseen threats, endangering the innocent lives of the fleet. \n\nTo prove her worth as a hero, Mebuki vows to bring everyone back alive, no matter what it takes.\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2182,
+  "popularity": 4465,
+  "num_list_users": 24309,
+  "num_scoring_users": 6697,
+  "nsfw": "white",
+  "created_at": "2020-08-01T08:13:54+00:00",
+  "updated_at": "2023-05-08T06:25:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    }
+  ]
+}

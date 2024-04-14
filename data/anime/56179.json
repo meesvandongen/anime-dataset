@@ -1,0 +1,50 @@
+{
+  "id": 56179,
+  "title": "Delico's Nursery",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1635/138391.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1635/138391l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "デリコズ・ナーサリー"
+  },
+  "start_date": "2024-07",
+  "synopsis": "Dali Delico is an aristocrat from the prestigious Delico family and an elite member of the Blood Pact Council who has a promising future.\n\nHe is ordered to carry out a certain mission by the Blood Pact Council, the highest governing body of vampires, but Dali flatly refuses.\nWhen Gerhard, Dino, and Henrique, who are frustrated fellow members of the Diet, go to try to persuade Dali, they find Dali cradling a young child himself.\n\nMeanwhile, a mysterious series of murders targeting vampires occur in the streets. There seems to be some sort of past connection between Dali and the anti-social organization Pendulum, which is believed to be the mastermind.\n\n''With all our blood and pride, let's show that we can achieve both duty and child-rearing!\"\n\nA tale of noblesse oblige childcare struggles by vampire aristocrats.\nWill it be possible to balance the splendid Gothic world with the careless child-rearing that takes pride in?\n\n(Source: Official Site, translated)",
+  "popularity": 7680,
+  "num_list_users": 6327,
+  "num_scoring_users": 0,
+  "nsfw": "gray",
+  "created_at": "2023-08-04T21:09:14+00:00",
+  "updated_at": "2024-03-23T02:35:12+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 55351,
+  "title": "Azur Lane CMs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1421/135967.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1421/135967l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アズールレーン"
+  },
+  "start_date": "2020-04-17",
+  "synopsis": "Assorted commercials and previews for the Azur Lane Mobile Game posted on the official YouTube channel. The animation is unique and is not present in the game nor in the TV Series.\n",
+  "popularity": 19165,
+  "num_list_users": 262,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2023-05-20T14:48:10+00:00",
+  "updated_at": "2023-12-26T17:52:56+00:00",
+  "media_type": "cm",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 30,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    },
+    {
+      "id": 803,
+      "name": "Trigger"
+    },
+    {
+      "id": 2009,
+      "name": "Yostar Pictures"
+    }
+  ]
+}

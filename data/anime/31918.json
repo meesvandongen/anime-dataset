@@ -1,0 +1,61 @@
+{
+  "id": 31918,
+  "title": "Owaranai Seraph: Nagoya-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/77545.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/77545l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Owari no Seraph Omake Anime",
+      "Owari no Seraph: Owaranai Seraph"
+    ],
+    "en": "Seraph of the Endless: Battle in Nagoya",
+    "ja": "終わらないセラフ名古屋編"
+  },
+  "start_date": "2015-12-25",
+  "end_date": "2016-03-30",
+  "synopsis": "Specials included in the Blu-ray and DVD releases.",
+  "mean": 7.33,
+  "rank": 2577,
+  "popularity": 2916,
+  "num_list_users": 56449,
+  "num_scoring_users": 21897,
+  "nsfw": "white",
+  "created_at": "2015-10-23T05:44:04+00:00",
+  "updated_at": "2024-01-07T03:48:29+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 275,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 52560,
+  "title": "Universe (2016)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1069/126268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1069/126268l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ユニバース"
+  },
+  "start_date": "2016-12-16",
+  "end_date": "2016-12-16",
+  "synopsis": "Music video for Natsushiro Takaaki's song Universe, featured on the album Ganger.",
+  "popularity": 21275,
+  "num_list_users": 147,
+  "num_scoring_users": 84,
+  "nsfw": "white",
+  "created_at": "2022-07-29T19:49:16+00:00",
+  "updated_at": "2022-09-30T21:17:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 253,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2525,
+      "name": "Hurray!"
+    }
+  ]
+}

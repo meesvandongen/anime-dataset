@@ -1,0 +1,43 @@
+{
+  "id": 54539,
+  "title": "Ki no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1155/133470.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1155/133470l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ouka",
+    "ja": "黄ノ歌"
+  },
+  "start_date": "2022-03-09",
+  "end_date": "2022-03-09",
+  "synopsis": "Music video for the song Ki no Uta by Dannie May.",
+  "popularity": 21870,
+  "num_list_users": 121,
+  "num_scoring_users": 68,
+  "nsfw": "white",
+  "created_at": "2023-02-17T06:53:01+00:00",
+  "updated_at": "2023-05-14T15:17:43+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 80,
+      "name": "Visual Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": 9242,
+  "title": "Nine: Original-ban",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/49881.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/49881l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ナイン オリジナル版"
+  },
+  "start_date": "1983-09-16",
+  "end_date": "1983-09-16",
+  "synopsis": "Cinema adaption of the manga by Mitsuru Adachi.",
+  "mean": 6.03,
+  "rank": 9447,
+  "popularity": 12984,
+  "num_list_users": 1122,
+  "num_scoring_users": 398,
+  "nsfw": "white",
+  "created_at": "2010-07-24T19:14:45+00:00",
+  "updated_at": "2021-06-25T09:31:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1983,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 4200,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

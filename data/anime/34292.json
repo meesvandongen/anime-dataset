@@ -1,0 +1,60 @@
+{
+  "id": 34292,
+  "title": "Kamigami no Ki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/82539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/82539l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kamigaminoki"
+    ],
+    "en": "Kamigami no Ki",
+    "ja": "神々の記"
+  },
+  "start_date": "2016-11-25",
+  "end_date": "2017-04-28",
+  "synopsis": "Set during 3000 BCE in the Nile region of Egypt, Kamigami no Ki (\"Chronicles of the Gods\") will depict the comical misadventures of Bastet, Anubis, Ra, and the mysterious ghost Medjedo as well as their caretakers, Iabi and Ahkeu.\n\n(Source: Crunchyroll)",
+  "mean": 5.95,
+  "rank": 9789,
+  "popularity": 12782,
+  "num_list_users": 1185,
+  "num_scoring_users": 286,
+  "nsfw": "white",
+  "created_at": "2016-10-25T09:19:07+00:00",
+  "updated_at": "2021-09-08T06:31:30+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:25"
+  },
+  "source": "original",
+  "average_episode_duration": 123,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 64,
+      "name": "Sotsu"
+    }
+  ]
+}

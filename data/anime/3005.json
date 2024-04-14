@@ -1,0 +1,73 @@
+{
+  "id": 3005,
+  "title": "Shadow Skill",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/4352.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/4352l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shadow Skill 1",
+      "Shadow Skill: Epilogue"
+    ],
+    "en": "",
+    "ja": "影技 SHADOW SKILL"
+  },
+  "start_date": "1995-10-25",
+  "end_date": "1995-10-25",
+  "synopsis": "In this OVA, the story of Gau's history with his adopted sister and the secrets that make up the shadow skill unfold. The pair make their annual return to the gravesite of Gau's parents, where his growth and progress as a warrior can be exhibited for them. Gau has come along way in his training as a Sevalle under Elle's mentorship, but there are those who wish to find a way of eliminating them, just waiting for the right opportunity to mount a deadly attack. As the travellers make their journey, their family bonds and skill will be tested. Opponents are many, and battles are fierce, but Gau's training also entails taking on his sister in battle, and fully embracing the skills he must learn to defeat his ultimate opponent. ",
+  "mean": 6.5,
+  "rank": 6915,
+  "popularity": 7677,
+  "num_list_users": 6333,
+  "num_scoring_users": 2130,
+  "nsfw": "white",
+  "created_at": "2007-08-17T05:38:03+00:00",
+  "updated_at": "2023-10-05T11:12:36+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3086,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1131,
+      "name": "Zero-G Room"
+    }
+  ]
+}

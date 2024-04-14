@@ -1,0 +1,44 @@
+{
+  "id": 16828,
+  "title": "Hokseong Robot Sseondeo A",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/45166.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/45166l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Planetary Robot Thunder A"
+    ],
+    "en": "",
+    "ja": "혹성 로보트 썬더 A"
+  },
+  "start_date": "1982-01-05",
+  "end_date": "1982-01-05",
+  "synopsis": "In the year 2100 the Earth is once again in danger. The group of brave teenagers set out in their giant robot to save humanity.",
+  "rank": 20116,
+  "popularity": 17058,
+  "num_list_users": 406,
+  "num_scoring_users": 97,
+  "nsfw": "white",
+  "created_at": "2012-12-23T20:43:38+00:00",
+  "updated_at": "2022-10-23T14:34:32+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1982,
+    "season": "winter"
+  },
+  "average_episode_duration": 4500,
+  "studios": []
+}

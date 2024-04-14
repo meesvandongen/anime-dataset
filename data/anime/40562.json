@@ -1,0 +1,47 @@
+{
+  "id": 40562,
+  "title": "Otanjoubi Omedetou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1292/103541.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1292/103541l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Happy Birthday"
+    ],
+    "en": "",
+    "ja": "お誕生日おめでとう"
+  },
+  "start_date": "1988-02-02",
+  "end_date": "1988-02-02",
+  "synopsis": "Music video for the song Otanjoubi Omedetou by Megumi Shiina that was featured on NHK's Minna no Uta program. The video was animated by Seiichi Hayashi.",
+  "mean": 5.74,
+  "popularity": 19003,
+  "num_list_users": 271,
+  "num_scoring_users": 123,
+  "nsfw": "white",
+  "created_at": "2019-10-15T16:49:32+00:00",
+  "updated_at": "2019-10-15T16:49:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1988,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 142,
+  "rating": "g",
+  "studios": []
+}

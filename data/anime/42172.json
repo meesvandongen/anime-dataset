@@ -1,0 +1,47 @@
+{
+  "id": 42172,
+  "title": "Dase! Ikevo Gakuen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1658/107930.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1658/107930l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dase! Ikebo Gakuen",
+      "Cheer up! Ikevo Academy"
+    ],
+    "en": "",
+    "ja": "出せ！イケボ学園"
+  },
+  "start_date": "2019-01-08",
+  "end_date": "2019-08-21",
+  "synopsis": "Dase! Ikevo Gakuen is an original anime produced by the ESP College of Entertainment Fukuoka Department of Voice Acting, in collaboration with Takashi Taniguchi. Set in Ikevo Academy, we follow the comedic love story of a young man aspiring to become a voice actor. In the spirit of promoting voice acting education, members of the general public auditioned to voice the characters in the show.",
+  "rank": 19148,
+  "popularity": 19909,
+  "num_list_users": 222,
+  "num_scoring_users": 66,
+  "nsfw": "white",
+  "created_at": "2020-06-07T20:17:01+00:00",
+  "updated_at": "2021-04-27T11:24:34+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 183,
+  "rating": "g",
+  "studios": []
+}

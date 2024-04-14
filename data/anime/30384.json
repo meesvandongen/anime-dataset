@@ -1,0 +1,66 @@
+{
+  "id": 30384,
+  "title": "Miss Monochrome The Animation 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/75014.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/75014l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ミス・モノクローム -The Animation- 2"
+  },
+  "start_date": "2015-07-03",
+  "end_date": "2015-09-25",
+  "synopsis": "The Ultra Super Pictures Special Stage event announced at AnimeJapan 2015 on Saturday that the Miss Monochrome television anime series will receive a second season. The season will run within the 30-minute Ultra Super Anime Time block beginning on July 3, 2015.\n\n(Source: ANN)",
+  "mean": 6.48,
+  "rank": 7004,
+  "popularity": 4779,
+  "num_list_users": 20787,
+  "num_scoring_users": 9752,
+  "nsfw": "white",
+  "created_at": "2015-03-21T07:53:08+00:00",
+  "updated_at": "2021-09-25T04:32:43+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "23:00"
+  },
+  "source": "original",
+  "average_episode_duration": 470,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 537,
+      "name": "SANZIGEN"
+    },
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

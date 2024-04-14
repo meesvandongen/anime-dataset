@@ -1,0 +1,68 @@
+{
+  "id": 6682,
+  "title": "11eyes",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/73520.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/73520l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "11eyes -Tsumi to Batsu to Aganai no Shoujo-"
+    ],
+    "en": "11eyes",
+    "ja": "11eyes イレブンアイズ"
+  },
+  "start_date": "2009-10-07",
+  "end_date": "2009-12-23",
+  "synopsis": "When the sky turns red, the moon turns black, and monsters begin roaming the streets, Satsuki Kakeru is at a loss for what to do. Along with his best friend Yuka, they try to decipher why they have been sent to this strange world, which is seemingly empty aside from themselves.\n\nHowever, when the \"Red Night\" ends, Kakeru and Yuka believe it was all a dream—until it happens again, and they are left in a dangerous situation. They meet four others in the same predicament: Kusakabe Misuzu, an expert swordswoman; Tachibana Kukuri, a strange mute girl who looks uncannily like Kakeru's deceased sister; Hirohara Yukiko, a lively young girl whose personality reverts to that of a cold killer when her glasses are removed; and Tajima Takahisa, a young pyrokineticist.\n\nAs the six of them band together to survive and discover what this mysterious world is, things take a turn for the worse as six shadows appear before them...\n\n[Written by MAL Rewrite]",
+  "mean": 6.05,
+  "rank": 9333,
+  "popularity": 1014,
+  "num_list_users": 237700,
+  "num_scoring_users": 127070,
+  "nsfw": "white",
+  "created_at": "2009-06-26T00:26:09+00:00",
+  "updated_at": "2023-09-22T01:42:15+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:00"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1529,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 95,
+      "name": "Doga Kobo"
+    }
+  ]
+}

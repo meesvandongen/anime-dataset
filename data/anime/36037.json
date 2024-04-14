@@ -1,0 +1,64 @@
+{
+  "id": 36037,
+  "title": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1022/124269.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1022/124269l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Senran Kagura 2nd Season"
+    ],
+    "en": "Senran Kagura: Shinovi Master",
+    "ja": "閃乱カグラ SHINOVI MASTER -東京妖魔篇-"
+  },
+  "start_date": "2018-10-13",
+  "end_date": "2018-12-29",
+  "synopsis": "Girls study at schools for modern shinobi. They dedicate their entire young lives to learning to become true shinobi, battling each other to polish their skills. And then one day, Asuka, whose grandfather is a legendary shinobi, encounters an ancient evil being named a \"Youma\" in the back alleys of Tokyo at Christmastime. Where there is light, there is shadow. Over 28 of the strongest and most well-endowed ninjas in history, both good and evil, will collide in a battle to determine true justice. And this deadly battle begins... right now.\n\n(Source: Crunchyroll)",
+  "mean": 6.31,
+  "rank": 7972,
+  "popularity": 3296,
+  "num_list_users": 44754,
+  "num_scoring_users": 10531,
+  "nsfw": "white",
+  "created_at": "2017-08-01T23:34:35+00:00",
+  "updated_at": "2022-03-30T00:36:53+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 120,
+      "name": "TNK"
+    }
+  ]
+}

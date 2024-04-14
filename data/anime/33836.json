@@ -1,0 +1,62 @@
+{
+  "id": 33836,
+  "title": "Seiren",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1465/121561.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1465/121561l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Seiren",
+    "ja": "セイレン"
+  },
+  "start_date": "2017-01-06",
+  "end_date": "2017-03-24",
+  "synopsis": "For high school students like Shouichi Kamita, university entrance exams and the future are common concerns. It is also during this time in life that a mysterious emotion that vexes people of all ages may begin to weigh upon one's mind—love.\n\nAt this point in his teenage years, Shouichi finds three girls he could see himself having a future with: the ever-cheerful Hikari Tsuneki, who teases Shouichi without mercy, but actually has a softer side; the competitive gamer, Tooru Miyamae, who has difficulty communicating with others; and Shouichi's childhood friend, Kyouko Touno, the sometimes immature shoujo manga enthusiast. Seiren follows Shouichi's relationships with these three girls across three separate arcs, as their feelings grow from mutual interest and blossom into something more beautiful.\n\n[Written by MAL Rewrite]",
+  "mean": 6.28,
+  "rank": 8149,
+  "popularity": 1003,
+  "num_list_users": 239750,
+  "num_scoring_users": 89670,
+  "nsfw": "white",
+  "created_at": "2016-08-12T07:03:37+00:00",
+  "updated_at": "2022-05-13T19:04:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:28"
+  },
+  "source": "original",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    },
+    {
+      "id": 1299,
+      "name": "AXsiZ"
+    }
+  ]
+}

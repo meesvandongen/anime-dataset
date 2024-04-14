@@ -1,0 +1,40 @@
+{
+  "id": 54932,
+  "title": "Kizutsukedo, Aishiteru.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1195/135118.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1195/135118l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "It Might Be Painful, but I Still Love It.",
+    "ja": "傷つけど、愛してる。"
+  },
+  "start_date": "2023-03-04",
+  "end_date": "2023-03-04",
+  "synopsis": "A music video for the song Kizutsukedo, Aishiteru. by TUYU that serves as ending song for Tokyo Revengers: Seiya Kessen-hen",
+  "mean": 6.53,
+  "popularity": 13349,
+  "num_list_users": 1010,
+  "num_scoring_users": 548,
+  "nsfw": "white",
+  "created_at": "2023-04-04T13:25:30+00:00",
+  "updated_at": "2023-04-25T06:20:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 203,
+  "rating": "pg_13",
+  "studios": []
+}

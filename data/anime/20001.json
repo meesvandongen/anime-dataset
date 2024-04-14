@@ -1,0 +1,59 @@
+{
+  "id": 20001,
+  "title": "Mouretsu Atarou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1895/124352.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1895/124352l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Furious Ataro"
+    ],
+    "en": "",
+    "ja": "もーれつア太郎"
+  },
+  "start_date": "1969-04-04",
+  "end_date": "1970-12-25",
+  "synopsis": "Based on a manga of Akatsuka Fujio.\n\nBatsugoro was the owner of a grocery store, Yaobatsu. When he tried to take a balloon hanged caught on the branch for a little child, he fell on to the ground to die. His son, Ataro, succeeded to the store, but Batsugoro was worried about him, and he remained there being a ghost. Ataro managed the shop alone, but soon his follower, Dekoppachi, began to help him. Being surrounded by strange characters such as, Nyarome, Butamatsu, the heart-warming story develops.\n\n(Source: AnimeNfo)",
+  "rank": 16629,
+  "popularity": 15741,
+  "num_list_users": 528,
+  "num_scoring_users": 101,
+  "nsfw": "white",
+  "created_at": "2013-08-09T02:34:08+00:00",
+  "updated_at": "2015-11-18T00:21:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 90,
+  "start_season": {
+    "year": 1969,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "19:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

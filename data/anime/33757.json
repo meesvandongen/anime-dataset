@@ -1,0 +1,45 @@
+{
+  "id": 33757,
+  "title": "Shuang Yue Zhi Cheng",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/81272.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/81272l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Twin Moons",
+    "ja": "双月之城"
+  },
+  "start_date": "2016-03-30",
+  "end_date": "2016-09-08",
+  "synopsis": "In the year 2200, a new Cold War between two forces is set to end with a peace treaty. However, one side is hiding a dark secret, which results in numerous tragedies in the following months. In the wake of a crisis, a paramilitary team is founded to steal information at the center of the conflict.",
+  "mean": 6.06,
+  "rank": 9306,
+  "popularity": 14403,
+  "num_list_users": 753,
+  "num_scoring_users": 142,
+  "nsfw": "white",
+  "created_at": "2016-08-01T00:59:41+00:00",
+  "updated_at": "2021-03-03T14:37:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": []
+}

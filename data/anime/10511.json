@@ -1,0 +1,56 @@
+{
+  "id": 10511,
+  "title": "Toyama Kankou Anime Project",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/28909.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/28909l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nakaseru Sora ni Aitai: Toyama, Miwaku no Muttsu no Monogatari",
+      "Longing for a Tear Bringing Sky: Lovers in Tateyama",
+      "Longing for a Tear Bringing Cuisine: Grandpa in Goayama",
+      "Longing for a Tear Bringing Sea: A Friendship on the Beach",
+      "Longing for a Tear"
+    ],
+    "en": "Toyama Tourism Anime Project",
+    "ja": "富山観光アニメプロジェクト"
+  },
+  "start_date": "2009-06-17",
+  "end_date": "2009-06-25",
+  "synopsis": "The Toyama Kankou Anime Project is a visualization of the three most popular tourist spots of the Toyama prefecture: Tateyama Kurobu Alpine Route; firefly squid from the mysterious ocean of the Toyama Bay; Gokayama known for its architectural world heritage Gasshouzukuri. \n\nThe animation is done by PA Works, which is located in Toyama-ken Nanto-shi, and the flash is done by The BERICH, which is a unit that resides in Toyama-ken Uozu-shi. \n\nAlong with a high-definition commentary video of these attractions, this project aims to broadcast the stunning nature of the Toyama prefecture to the world.",
+  "mean": 5.3,
+  "rank": 12130,
+  "popularity": 12333,
+  "num_list_users": 1364,
+  "num_scoring_users": 398,
+  "nsfw": "white",
+  "created_at": "2011-03-31T07:42:55+00:00",
+  "updated_at": "2021-12-26T14:53:04+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

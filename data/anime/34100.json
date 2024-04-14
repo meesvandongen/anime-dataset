@@ -1,0 +1,52 @@
+{
+  "id": 34100,
+  "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1996/93042.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1996/93042l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fate/kaleid liner Prisma☆Illya Movie: Oath Under Snow"
+    ],
+    "en": "Fate/kaleid liner Prisma Illya: Vow in the Snow",
+    "ja": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い"
+  },
+  "start_date": "2017-08-26",
+  "end_date": "2017-08-26",
+  "synopsis": "After succumbing to an unenviable fate, Kiritsugu Emiya has left Shirou Emiya the duty to save mankind in his place. The world is dying and time is ticking, but when the salvation Shirou seeks is at the cost of his only family left—his younger sister—will he still have the heart to pursue this duty?\n\nShirou is now pressed with the choice to continue being a hero of justice—or become the very evil his ideal has vowed to vanquish. The orphan is alone once again, yet his body is still made of swords. The Fifth Holy Grail War now begins with his oath under snow.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.93,
+  "rank": 738,
+  "popularity": 2120,
+  "num_list_users": 96626,
+  "num_scoring_users": 46804,
+  "nsfw": "white",
+  "created_at": "2016-09-21T18:48:23+00:00",
+  "updated_at": "2022-04-17T17:34:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5382,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

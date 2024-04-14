@@ -1,0 +1,52 @@
+{
+  "id": 9521,
+  "title": "Tie Shan Gongzhu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/68815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/68815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saiyuki: Tessen Koushu no Maki",
+      "Princess Iron Fan"
+    ],
+    "en": "",
+    "ja": "鐵扇公主"
+  },
+  "start_date": "1941-01-01",
+  "end_date": "1941-01-01",
+  "synopsis": "Tang Sanzang and his three protectors—Sun Wukong, Zhu Bajie, and Sha Wujing—are journeying far to the west when they encounter \"Fire Mountain.\" The flames of Fire Mountain are so ferocious that no man dares to brave its scorching flames; unfortunately, there is no other path to their destination.\n\nA local villager informs Tang Sanzang that Princess Iron Fan owns a magical fan that can quench the mountain's fire. However, she is also unlikely to give it to them, as Sun Wukong previously angered her husband, the Bull Demon King. Unwilling to give up their journey, the three protectors must use their shape-shifting powers and formulate a plan to steal the magical fan from the grasp of the princess.\n\n[Written by MAL Rewrite]",
+  "mean": 5.33,
+  "rank": 12065,
+  "popularity": 12597,
+  "num_list_users": 1252,
+  "num_scoring_users": 467,
+  "nsfw": "white",
+  "created_at": "2010-09-10T15:59:31+00:00",
+  "updated_at": "2021-09-30T23:18:01+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1941,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 4380,
+  "rating": "g",
+  "studios": []
+}

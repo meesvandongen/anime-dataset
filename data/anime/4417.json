@@ -1,0 +1,45 @@
+{
+  "id": 4417,
+  "title": "Hennako-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/8379.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/8379l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hen na Ko chan"
+    ],
+    "en": "",
+    "ja": "へんな子ちゃん"
+  },
+  "start_date": "2008-04-25",
+  "end_date": "2008-07-03",
+  "synopsis": "Hennako-chan is a black comedy series targeted at adult readers. The main character is an eccentric elementary school girl who has telekinetic powers that enable her to manipulate other people, animals, and even plants or objects by just staring at them. The series follows the helter-skelter daily lives of Hennako-chan and the people around her, including her family consisting of her very cracker-barrel parents, hot-to-trot elder sister, and a former stray dog, who are always thrown into frenzy by Hennako-chan's super-natural powers that expose their secrets. \n\n(Source: ANN) ",
+  "rank": 20053,
+  "popularity": 17634,
+  "num_list_users": 364,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2008-04-25T07:57:13+00:00",
+  "updated_at": "2012-06-27T08:59:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "average_episode_duration": 180,
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    }
+  ]
+}

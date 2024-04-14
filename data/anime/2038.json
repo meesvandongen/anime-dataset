@@ -1,0 +1,61 @@
+{
+  "id": 2038,
+  "title": "Mahou no Star Magical Emi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1874/134372.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1874/134372l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Star Magician Magical Emi",
+      "Magic Star Magical Emi"
+    ],
+    "en": "",
+    "ja": "魔法のスター マジカルエミ"
+  },
+  "start_date": "1985-06-07",
+  "end_date": "1986-02-28",
+  "synopsis": "Kozuki Mai is an elementary student who wants to be a magician and perform in her family's \"Magicarat\" magical act; however, she is too young, and her magic skills are not very good. Then one day, she encounters a ball of light that was put into a stuffed doll of flying squirrel, bringing it to life and somehow giving her the power to turn in to the 18-year-old magician \"Magical Emi.\" As Emi, Mai was able to join the magic act. But she must keep her identity a secret from her family and from her crush.",
+  "mean": 7.26,
+  "rank": 2945,
+  "popularity": 8104,
+  "num_list_users": 5566,
+  "num_scoring_users": 1740,
+  "nsfw": "white",
+  "created_at": "2007-03-09T10:02:36+00:00",
+  "updated_at": "2023-09-18T00:47:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 1985,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1410,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

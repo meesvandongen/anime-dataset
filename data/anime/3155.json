@@ -1,0 +1,52 @@
+{
+  "id": 3155,
+  "title": "Kingyo Chuuihou! (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1920/104412.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1920/104412l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Goldfish Warning! The Movie"
+    ],
+    "en": "",
+    "ja": "きんぎょ注意報！"
+  },
+  "start_date": "1992-04-25",
+  "end_date": "1992-04-25",
+  "synopsis": "A super-short fast paced theatrical animation about Wapiko and friends. ",
+  "mean": 6.49,
+  "rank": 6918,
+  "popularity": 13815,
+  "num_list_users": 889,
+  "num_scoring_users": 336,
+  "nsfw": "white",
+  "created_at": "2007-09-27T00:32:26+00:00",
+  "updated_at": "2023-09-18T04:23:04+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1274,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

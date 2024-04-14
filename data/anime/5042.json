@@ -1,0 +1,68 @@
+{
+  "id": 5042,
+  "title": "Kiss x Sis",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1966/121554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1966/121554l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kissxsis"
+    ],
+    "en": "",
+    "ja": "キス×シス"
+  },
+  "start_date": "2008-12-22",
+  "end_date": "2015-04-06",
+  "synopsis": "When Keita Suminoe's father remarried, not only did he gain a new mother, but elder twin sisters as well. Distinct yet similar, the homely and mature Ako is a former student council president, while the athletic and aloof Riko is the previous disciplinary president. The three of them have been together since kindergarten, resulting in a deep bond between the siblings. However, over time, their relationship developed into something more romantic—and erotic .\n\nNow in his last year of middle school, Keita has already received a sports recommendation, but it's from a different high school than his two sisters. Disappointed, both sisters try to change his mind, and he agrees, giving in to their desperate pleas. Unaware of the consequences, he now has to attempt to study for his high school exams while warding off the advances of his lust-driven sisters. With their parent's blessings, Ako and Riko strive to be Keita's future wife, leaving him to try his best to keep the relationship between them strictly platonic. However, with two beautiful girls vying for his attention, will Keita be able to withstand the endless temptations?\n\n[Written by MAL Rewrite]",
+  "mean": 6.81,
+  "rank": 5152,
+  "popularity": 718,
+  "num_list_users": 330000,
+  "num_scoring_users": 184713,
+  "nsfw": "gray",
+  "created_at": "2008-08-07T22:18:08+00:00",
+  "updated_at": "2023-10-21T05:00:39+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

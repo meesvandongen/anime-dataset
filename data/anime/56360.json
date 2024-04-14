@@ -1,0 +1,52 @@
+{
+  "id": 56360,
+  "title": "Poten Dogs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1915/137905.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1915/137905l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "PotenDogs",
+    "ja": "포텐독"
+  },
+  "start_date": "2021-03-29",
+  "end_date": "2021-05-05",
+  "synopsis": "",
+  "rank": 17286,
+  "popularity": 24223,
+  "num_list_users": 75,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2023-08-19T11:09:41+00:00",
+  "updated_at": "2023-08-21T05:56:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 18,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 540,
+  "rating": "pg",
+  "studios": []
+}

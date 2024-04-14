@@ -1,0 +1,58 @@
+{
+  "id": 1178,
+  "title": "Detonator Orgun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1172/92855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1172/92855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Detonator Orgun",
+    "ja": "デトネイター・オーガン"
+  },
+  "start_date": "1991-08-25",
+  "end_date": "1992-04-25",
+  "synopsis": "Fleeing from his own race, Orgun—an alien being with superhuman abilities and unearthly weapons—travels to Earth to find an answer to his origin. There, he bonds with a young man named Tomoru to defend Earth against the Evoluders, who seek nothing but destruction of other civilizations.\n\n(Source: ANN)",
+  "mean": 6.37,
+  "rank": 7640,
+  "popularity": 7499,
+  "num_list_users": 6696,
+  "num_scoring_users": 2660,
+  "nsfw": "white",
+  "created_at": "2006-07-06T06:32:28+00:00",
+  "updated_at": "2021-11-26T19:48:10+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1991,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 3120,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    },
+    {
+      "id": 72,
+      "name": "Artmic"
+    }
+  ]
+}

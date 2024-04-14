@@ -1,0 +1,47 @@
+{
+  "id": 40868,
+  "title": "Chanto...",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1881/104777.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1881/104777l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Otona ni Naru tte Nandarou?"
+    ],
+    "en": "",
+    "ja": "ちゃんと・・・"
+  },
+  "start_date": "2017-02-28",
+  "end_date": "2017-02-28",
+  "synopsis": "An animated short commissioned by Sumitomo Mitsui Banking Corporation (SMBC) for their web campaign \"Otona ni Naru tte Nandarou?\" (When do you become an adult?), where they ask individuals to tweet the moment they realized they were an adult. The responses of men and women of various ages were anonymously shared on the campaign's webpage. \n\nIn the video, a mother and her adult daughter dine at a restaurant. After their meal, the daughter uses her card to pay for the bill, an act which her mother, who was about to pay herself, notices as her daughter stepping into adulthood.",
+  "mean": 5.89,
+  "rank": 10075,
+  "popularity": 18888,
+  "num_list_users": 277,
+  "num_scoring_users": 110,
+  "nsfw": "white",
+  "created_at": "2019-12-14T00:12:07+00:00",
+  "updated_at": "2019-12-14T00:12:07+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 206,
+  "rating": "g",
+  "studios": []
+}

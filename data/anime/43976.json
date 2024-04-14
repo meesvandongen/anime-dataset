@@ -1,0 +1,44 @@
+{
+  "id": 43976,
+  "title": "Qi Jiguang Yingxiong Chuan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1831/122859.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1831/122859l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Legend of The Hero",
+    "ja": "戚继光英雄传"
+  },
+  "start_date": "2012-06-01",
+  "end_date": "2012-05-01",
+  "synopsis": "",
+  "rank": 17332,
+  "popularity": 23616,
+  "num_list_users": 84,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2020-11-14T12:41:07+00:00",
+  "updated_at": "2022-04-16T18:42:31+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 5400,
+  "rating": "g",
+  "studios": []
+}

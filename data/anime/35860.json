@@ -1,0 +1,64 @@
+{
+  "id": 35860,
+  "title": "Karakai Jouzu no Takagi-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1591/95091l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Skilled Teaser Takagi-san"
+    ],
+    "en": "Teasing Master Takagi-san",
+    "ja": "からかい上手の高木さん"
+  },
+  "start_date": "2018-01-08",
+  "end_date": "2018-03-26",
+  "synopsis": "Having a friend that knows you inside out should be a good thing, but in Nishikata's case, the opposite is true.\n\nHis classmate Takagi loves to tease him on a daily basis, and she uses her extensive knowledge of his behavior to predict exactly how he will react to her teasing, making it nearly impossible for Nishikata to ever make a successful comeback. Despite this, Nishikata vows to someday give Takagi a taste of her own medicine by making her blush out of embarrassment from his teasing.\n\n[Written by MAL Rewrite]\n",
+  "mean": 7.69,
+  "rank": 1245,
+  "popularity": 371,
+  "num_list_users": 590123,
+  "num_scoring_users": 295110,
+  "nsfw": "white",
+  "created_at": "2017-07-07T08:39:33+00:00",
+  "updated_at": "2023-08-09T21:11:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Romantic Subtext"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1417,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

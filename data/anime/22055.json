@@ -1,0 +1,56 @@
+{
+  "id": 22055,
+  "title": "Gakkou no Kaidan Recaps",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/78468.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/78468l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gakkou no Kaidan: New Year's Special"
+    ],
+    "en": "Ghost Stories Recaps",
+    "ja": "学校の怪談　総集編"
+  },
+  "start_date": "2000-11-15",
+  "end_date": "2001-01-03",
+  "synopsis": "A new year special where Momoko stars to remember some of the adventures, she has had with her friends.",
+  "mean": 6.12,
+  "rank": 8959,
+  "popularity": 10761,
+  "num_list_users": 2327,
+  "num_scoring_users": 691,
+  "nsfw": "white",
+  "created_at": "2014-01-10T19:53:48+00:00",
+  "updated_at": "2024-02-06T16:36:00+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

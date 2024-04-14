@@ -1,0 +1,40 @@
+{
+  "id": 50231,
+  "title": "Inori wa Karappo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1552/119008.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1552/119008l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Empty Prayer",
+    "ja": "祈りは空っぽ"
+  },
+  "start_date": "2019-12-13",
+  "end_date": "2019-12-13",
+  "synopsis": "Music video for the song Empty Prayer by nulut featuring Yukari Yuzuki and flower.",
+  "mean": 6.33,
+  "popularity": 19336,
+  "num_list_users": 253,
+  "num_scoring_users": 126,
+  "nsfw": "gray",
+  "created_at": "2021-10-26T19:49:53+00:00",
+  "updated_at": "2022-04-01T19:03:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 231,
+  "rating": "pg_13",
+  "studios": []
+}

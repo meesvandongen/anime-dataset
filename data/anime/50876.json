@@ -1,0 +1,46 @@
+{
+  "id": 50876,
+  "title": "Sugar Loss",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1897/120617.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1897/120617l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Suger Loss"
+    ],
+    "en": "Sugar Loss",
+    "ja": "シュガーロス"
+  },
+  "start_date": "2022-01-16",
+  "end_date": "2022-01-16",
+  "synopsis": "Music video for the song Sugar Loss by Wanuka.",
+  "mean": 6.55,
+  "popularity": 17724,
+  "num_list_users": 357,
+  "num_scoring_users": 200,
+  "nsfw": "white",
+  "created_at": "2022-01-21T16:28:49+00:00",
+  "updated_at": "2022-05-03T11:07:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 21845,
+  "title": "Ushinawareta Mirai wo Motomete",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1414/112510.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1414/112510l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ushinawareta Mirai o Motomete",
+      "À la recherche du futur perdu",
+      "Waremete"
+    ],
+    "en": "In Search of the Lost Future",
+    "ja": "失われた未来を求めて"
+  },
+  "start_date": "2014-10-04",
+  "end_date": "2014-12-20",
+  "synopsis": "Kaori Sasaki—a member of Uchihama Academy's Astronomy Club—confesses to Sou Akiyama, but later that evening, she dies in a tragic road accident. Her friends and fellow club members mourn her death in a local hospital. Yet she shows up to school the following day, and no one senses anything amiss.\n\nThe day finishes without any unusual incidents, and the group of friends plans for the upcoming cultural festival. Suddenly, the room is shaken by an unnatural earthquake. Everyone splits up to investigate—except for Nagisa Hanamiya, who stays behind. As everyone leaves, Nagisa notices that the odd relic-like cube that she was toying with starts emitting a strange blue light. Meanwhile, Sou stumbles upon an unconscious, naked girl lying in a pool of water.\n\nUshinawareta Mirai wo Motomete follows the Astronomy Club's increasingly bizarre adventures—from dealing with ghosts to quelling unrests between student clubs. All the while, they unravel the circumstances behind the sudden appearance of a new transfer student.\n\n[Written by MAL Rewrite]",
+  "mean": 6.72,
+  "rank": 5653,
+  "popularity": 2179,
+  "num_list_users": 92751,
+  "num_scoring_users": 33993,
+  "nsfw": "white",
+  "created_at": "2013-12-29T08:36:27+00:00",
+  "updated_at": "2022-04-04T11:13:21+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "20:30"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1425,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 91,
+      "name": "feel."
+    }
+  ]
+}

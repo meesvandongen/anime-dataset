@@ -1,0 +1,73 @@
+{
+  "id": 10334,
+  "title": "Rurouni Kenshin Recap",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/28413.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/28413l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rurouni Kenshin: Episode 56b - Summer Special",
+      "Rurouni Kenshin Special"
+    ],
+    "en": "Samurai X Recap",
+    "ja": "るろうに剣心"
+  },
+  "start_date": "1997-07",
+  "end_date": "1997-07",
+  "synopsis": "This is a summary of episodes 34-56.",
+  "mean": 7.18,
+  "rank": 3376,
+  "popularity": 6528,
+  "num_list_users": 9465,
+  "num_scoring_users": 3372,
+  "nsfw": "white",
+  "created_at": "2011-02-09T22:45:25+00:00",
+  "updated_at": "2024-02-06T16:31:18+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 2820,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 36,
+      "name": "Gallop"
+    },
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

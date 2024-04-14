@@ -1,0 +1,62 @@
+{
+  "id": 48633,
+  "title": "Liar Liar",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1571/134525.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1571/134525l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ライアー・ライアー"
+  },
+  "start_date": "2023-07-08",
+  "end_date": "2023-09-23",
+  "synopsis": "Hiroto Shinohara is a new transfer student to Academy Island, where games determine student rankings. The more games won, the more stars a student has, with the highest ranking being that of a Seven Star. On Hiroto's first day, he accidentally antagonizes Sarasa Saionji, the so-called Empress of Academy Island and granddaughter of the island's head director. Forced into a game fueled by misunderstandings that he somehow ends up winning, he is thrust into a major bluff where he must lie about his ranking or risk expulsion from the school and island.\n\nFortunately, with the help of the mysterious Company headed by Shirayuki Himeji, Hiroto is not alone in his bluff. The Company will do everything in its power to help him cheat his way through the game challenges sent his way by students wanting to beat him. Though he is a One Star student, he must fight as though he is actually a Seven Star, and overcome insurmountable odds in his quest to search for a missing girl from his past.\n\n[Written by MAL Rewrite]",
+  "mean": 6.32,
+  "rank": 7923,
+  "popularity": 1614,
+  "num_list_users": 140741,
+  "num_scoring_users": 52844,
+  "nsfw": "white",
+  "created_at": "2021-04-01T06:13:33+00:00",
+  "updated_at": "2023-11-03T16:14:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "22:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1419,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1857,
+      "name": "Geek Toys"
+    }
+  ]
+}

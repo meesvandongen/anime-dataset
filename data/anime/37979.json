@@ -1,0 +1,74 @@
+{
+  "id": 37979,
+  "title": "Mahou Shoujo Tokushusen Asuka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1278/112932.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1278/112932l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magical Girl Spec-Ops Asuka",
+    "ja": "魔法少女特殊戦あすか"
+  },
+  "start_date": "2019-01-12",
+  "end_date": "2019-03-30",
+  "synopsis": "Three years ago, a bloodthirsty race of interdimensional beings known as the Disas appeared and destroyed everything they could reach on Earth. With regular weapons rendered useless, humanity's only hope of survival relied on humans who became magical girls after forming an alliance with the Spirit Realm, who had followed the Disas to Earth. After a violent conflict, the squad of magical girls emerge victorious, with the survivors now known as the \"Magical Five.\"\n\nFollowing the war with the Disas, the Magical Five disbands. Kurumi Mugen, Mia Cyrus, Tamara Volkova, and Lau Peipei independently continue their own military services, while their leader, Asuka Ootorii, retires and becomes a high school student. However, Asuka's peace is short-lived, as it seems there were survivors on the enemy's side as well. As magic must be fought with magic, Asuka is dragged back into combat as an even worse battle looms on the horizon.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.33,
+  "rank": 7847,
+  "popularity": 2294,
+  "num_list_users": 84704,
+  "num_scoring_users": 27697,
+  "nsfw": "white",
+  "created_at": "2018-07-21T02:20:46+00:00",
+  "updated_at": "2023-09-16T23:55:57+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "02:25"
+  },
+  "source": "manga",
+  "average_episode_duration": 1452,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

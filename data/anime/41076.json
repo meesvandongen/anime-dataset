@@ -1,0 +1,42 @@
+{
+  "id": 41076,
+  "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e - Ai no Tsugumi Ryou Gekijou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1672/105443.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1672/105443l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kono Aozora ni Yakusoku wo Specials"
+    ],
+    "en": "",
+    "ja": "この青空に約束を― ～ようこそつぐみ寮へ～ 愛のつぐみ寮劇場"
+  },
+  "start_date": "2007-09-21",
+  "end_date": "2008-01-25",
+  "synopsis": "Mini anime specials included in the DVD volumes 3-7.",
+  "rank": 15747,
+  "popularity": 15873,
+  "num_list_users": 514,
+  "num_scoring_users": 85,
+  "nsfw": "white",
+  "created_at": "2020-01-17T12:44:45+00:00",
+  "updated_at": "2021-06-02T18:13:46+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2007,
+    "season": "summer"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": []
+}

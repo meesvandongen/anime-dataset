@@ -1,0 +1,58 @@
+{
+  "id": 40964,
+  "title": "Back Arrow",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1373/111546.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1373/111546l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Back Arrow",
+    "ja": "バック・アロウ"
+  },
+  "start_date": "2021-01-09",
+  "end_date": "2021-06-19",
+  "synopsis": "The world of Lingalind is surrounded by a mystical wall with seemingly nothing beyond its confines. Worshipped as the mother of the land, the wall delivers celestial gift capsules called \"Rakuho'' to locations across the continent. Arriving once a month, the capsules contain metallic armbands that allow the wearer to transform into a mechanical being known as a \"Briheight.\" As a result, Lingalind is thrown into constant turmoil by its warring nations, all hoping to strengthen their military prowess by procuring the offerings for themselves.\n\nOne day, a Rakuho crash-lands in the countryside with an unexpected inhabitant—a mysterious black-haired man. All eyes are set on this strange newcomer, who calls himself \"Back Arrow,\" when he claims to have hailed from a place beyond the wall—a revelation that can potentially unravel Lingalind's entire dogmatic foundation.\n\n[Written by MAL Rewrite]",
+  "mean": 6.33,
+  "rank": 7821,
+  "popularity": 3492,
+  "num_list_users": 40713,
+  "num_scoring_users": 13514,
+  "nsfw": "white",
+  "created_at": "2019-12-28T21:45:13+00:00",
+  "updated_at": "2023-01-15T16:08:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1432,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1244,
+      "name": "Studio VOLN"
+    }
+  ]
+}

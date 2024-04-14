@@ -1,0 +1,72 @@
+{
+  "id": 709,
+  "title": "Mujin Wakusei Survive",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/46859.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/46859l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Uninhabited Planet Survive",
+      "Survivants",
+      "Survive! - Uninhabited Planet",
+      "Uninhabited Planet SURVIVE",
+      "Uninhabited Planet Survival"
+    ],
+    "en": "",
+    "ja": "無人惑星サヴァイヴ"
+  },
+  "start_date": "2003-10-16",
+  "end_date": "2004-10-28",
+  "synopsis": "The story is set in the 22nd century where space travel, planet colonization and anti-gravity basketball are practically everyday things. Planet Earth has become uninhabitable, and therefore people live in colonies on the surrounding planets. On a school field trip, a mistake causes the protagonist, a young transfer student named Luna, her pet robot, and six of her classmates to be thrown through a gravity storm and crash land on a seemingly uninhabited planet. There, with Luna as their leader, the robot cat Chako, the lone wolf Kaoru, the spoiled rich boy Howard, the shy Sharla, the obedient Bell, the prideful musician Menori and the young genius Shingo must fight for their survival. But is the planet really uninhabited, or is there someone or something out there, waiting in the shadows?\n\n(Source: Wikipedia)",
+  "mean": 7.74,
+  "rank": 1136,
+  "popularity": 4045,
+  "num_list_users": 30059,
+  "num_scoring_users": 10362,
+  "nsfw": "white",
+  "created_at": "2006-02-08T03:37:36+00:00",
+  "updated_at": "2024-03-06T12:44:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    },
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

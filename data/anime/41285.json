@@ -1,0 +1,61 @@
+{
+  "id": 41285,
+  "title": "Hatena☆Illusion: Koi to Mahou no Illusion de, Muchuu Sasechaimasu! Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1265/106701.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1265/106701l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hatena☆Illusion Recap",
+      "Hatena☆Illusion Tokubetsu-hen"
+    ],
+    "en": "",
+    "ja": "はてな☆イリュージョン 特別編 「恋と魔法のイリュージョンで、夢中させちゃいます！スペシャル」"
+  },
+  "start_date": "2020-02-20",
+  "end_date": "2020-02-20",
+  "synopsis": "Recap of first 6 episodes of Hatena☆Illusion.",
+  "mean": 5.6,
+  "rank": 11271,
+  "popularity": 9871,
+  "num_list_users": 3091,
+  "num_scoring_users": 1042,
+  "nsfw": "gray",
+  "created_at": "2020-02-13T07:01:47+00:00",
+  "updated_at": "2024-02-07T15:11:05+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 632,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1407,
+      "name": "Children's Playground Entertainment"
+    }
+  ]
+}

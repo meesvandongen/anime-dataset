@@ -1,0 +1,39 @@
+{
+  "id": 19521,
+  "title": "GAME OVER feat. Hatsune Miku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/52409.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/52409l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "GAME OVER feat. 初音ミク"
+  },
+  "start_date": "2013-07-17",
+  "end_date": "2013-07-17",
+  "synopsis": "Music video for GAME OVER feat. Hatsune Miku by Hachioji-P.\n\nThe song can be found within Hachioji-P’s newest album, Vivid Wave released on the 17th of July 2013.",
+  "mean": 5.91,
+  "popularity": 10127,
+  "num_list_users": 2816,
+  "num_scoring_users": 1640,
+  "nsfw": "white",
+  "created_at": "2013-07-18T00:05:37+00:00",
+  "updated_at": "2021-03-01T15:22:33+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "average_episode_duration": 246,
+  "rating": "g",
+  "studios": []
+}

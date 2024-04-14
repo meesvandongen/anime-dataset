@@ -1,0 +1,68 @@
+{
+  "id": 50590,
+  "title": "Koukyuu no Karasu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1932/127228.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1932/127228l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kokyu no Karasu"
+    ],
+    "en": "Raven of the Inner Palace",
+    "ja": "後宮の烏"
+  },
+  "start_date": "2022-10-01",
+  "end_date": "2022-12-24",
+  "synopsis": "Among the royal court, there is an individual feared as much as revered: the Raven Consort Ryuu Jusetsu. Residing in her jet-black palace and isolated from the emperor, she is the subject of countless rumors. Claimed to possess mystic abilities, she is said to take on any request—from finding lost items to inflicting curses. While some call her an immortal sage, others believe her to be a terrifying revenant. But such comments fail to faze Jusetsu, who prefers to spend her days in quiet solitude. That is, until the emperor, Ka Koushun, barges into her court and asks for her assistance with a mysterious case.\n\nThe young emperor's request requires Jusetsu to step out of her palace for the first time. Despite Ka Koushun's frequent visits annoying her to no end, she cannot bring herself to turn him away. Her predecessor's teachings echo in her ears: the Raven Consort is destined to remain forever alone and never desire anything. Yet Jusetsu finds herself making the first of several bonds when she asks Jiujiu, an innocently inquisitive court girl, to be her sole attendant.\n\nTogether, they begin fulfilling requests from the people of the palace. However, unknown perils lurk in the outside world, and drawing attention to herself may bring Jusetsu face-to-face with a past that is better left undisturbed.\n\n[Written by MAL Rewrite]",
+  "mean": 7.53,
+  "rank": 1756,
+  "popularity": 2221,
+  "num_list_users": 89587,
+  "num_scoring_users": 32093,
+  "nsfw": "white",
+  "created_at": "2021-12-14T10:32:23+00:00",
+  "updated_at": "2022-12-30T08:25:39+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

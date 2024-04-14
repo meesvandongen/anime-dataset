@@ -1,0 +1,49 @@
+{
+  "id": 53270,
+  "title": "Good Day",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1969/128916.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1969/128916l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Good Day",
+    "ja": "GOOD DAY"
+  },
+  "start_date": "2022-10-07",
+  "end_date": "2022-10-07",
+  "synopsis": "Special Anya inspired song Good Day animation MV. The MV was released to commemorate 2,000,000 subscribers to the TOHO animation YouTube channel.",
+  "mean": 6.34,
+  "popularity": 10374,
+  "num_list_users": 2621,
+  "num_scoring_users": 1388,
+  "nsfw": "white",
+  "created_at": "2022-10-07T10:33:06+00:00",
+  "updated_at": "2022-10-07T21:09:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 155,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    },
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

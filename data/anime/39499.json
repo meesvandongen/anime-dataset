@@ -1,0 +1,46 @@
+{
+  "id": 39499,
+  "title": "Den Den Mushi no Danko-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1172/99711.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1172/99711l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "デンデン虫のデン子さん"
+  },
+  "start_date": "1974-02-04",
+  "end_date": "1974-02-04",
+  "synopsis": "A music video as a part of the Minna no Uta series featuring a song by Duke Aces. ",
+  "mean": 5.37,
+  "popularity": 19107,
+  "num_list_users": 265,
+  "num_scoring_users": 143,
+  "nsfw": "white",
+  "created_at": "2019-03-09T06:28:54+00:00",
+  "updated_at": "2019-06-27T03:55:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1974,
+    "season": "winter"
+  },
+  "source": "music",
+  "average_episode_duration": 125,
+  "rating": "g",
+  "studios": []
+}

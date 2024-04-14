@@ -1,0 +1,78 @@
+{
+  "id": 39806,
+  "title": "Mugen no Juunin: Immortal",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1054/110054.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1054/110054l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Blade of the Immortal",
+    "ja": "無限の住人-IMMORTAL-"
+  },
+  "start_date": "2019-10-10",
+  "end_date": "2020-03-26",
+  "synopsis": "Manji is an infamous swordsman in feudal Japan who is known as the \"Hundred Man Killer,\" as he has killed one hundred innocent men. However, there is something far more frightening than his ominous reputation: the fact that he is immortal. This is the handiwork of eight-hundred-year-old nun Yaobikuni, who placed bloodworms capable of healing almost any wound in Manji's body.\n\nTo atone for his crimes, Manji resolves to kill one thousand evil men. Yaobikuni agrees to this proposal, saying that if he succeeds, she will undo his curse of immortality. Soon after this promise, Manji meets Rin Asano, a 16-year-old girl who requests Manji's assistance in killing those who slaughtered her parents.\n\nInitially reluctant, Manji refuses Rin's desperate plea. However, owing to her evident lack of strength, Manji changes his mind and agrees to protect Rin for four years. With this partnership set in stone, the two embark on a perilous journey of bloodshed, vengeance, and redemption, each to fulfill their own life's cause.\n\n[Written by MAL Rewrite]",
+  "mean": 7.42,
+  "rank": 2156,
+  "popularity": 2330,
+  "num_list_users": 83150,
+  "num_scoring_users": 27798,
+  "nsfw": "white",
+  "created_at": "2019-05-10T17:10:38+00:00",
+  "updated_at": "2023-08-29T06:09:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2019,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1434,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

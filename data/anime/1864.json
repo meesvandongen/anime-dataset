@@ -1,0 +1,67 @@
+{
+  "id": 1864,
+  "title": "Koisuru Tenshi Angelique: Kagayaki no Ashita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/76296.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/76296l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koi Suru Tenshi Angelique",
+      "Angelique (2007)",
+      "Beloved Angel Angelique: Radiant Tomorrow",
+      "Koi Suru Tenshi Angelique: Kagayaki no Asu"
+    ],
+    "en": "Loving Angel Angelique: Radiant Tomorrow",
+    "ja": "恋する天使アンジェリーク ～かがやきの明日～"
+  },
+  "start_date": "2007-01-06",
+  "end_date": "2007-03-24",
+  "synopsis": "Ange is now trapped in the Seijuu Universe, and cannot leave until she awakens Seijuu's Queen. In order to do this, she must gather nine new guardians. It sounds like a fairly simple task, but how can she convince these men to tear away from their own lives and protect the life of another?",
+  "mean": 6.9,
+  "rank": 4723,
+  "popularity": 6096,
+  "num_list_users": 11113,
+  "num_scoring_users": 3368,
+  "nsfw": "white",
+  "created_at": "2007-01-20T19:41:59+00:00",
+  "updated_at": "2023-09-18T01:33:40+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 73,
+      "name": "Reverse Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2007,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

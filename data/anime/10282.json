@@ -1,0 +1,42 @@
+{
+  "id": 10282,
+  "title": "Manga Nippon Mukashibanashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/28281.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/28281l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Japanese Folklore Tales"
+    ],
+    "en": "",
+    "ja": "まんが日本昔ばなし"
+  },
+  "start_date": "1975-01-07",
+  "end_date": "1975-03-25",
+  "synopsis": "This series is an anthology of old Japanese tales.\n\n(Source: AniDB)",
+  "mean": 6.25,
+  "rank": 8298,
+  "popularity": 13935,
+  "num_list_users": 863,
+  "num_scoring_users": 211,
+  "nsfw": "white",
+  "created_at": "2011-01-29T17:38:59+00:00",
+  "updated_at": "2021-10-08T04:00:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1975,
+    "season": "winter"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": []
+}

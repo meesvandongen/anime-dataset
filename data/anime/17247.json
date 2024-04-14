@@ -1,0 +1,73 @@
+{
+  "id": 17247,
+  "title": "Machine-Doll wa Kizutsukanai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/56141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/56141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Machine Girl wa Kizutsukanai",
+      "Kikou Shoujo wa Kizutsukanai"
+    ],
+    "en": "Unbreakable Machine-Doll",
+    "ja": "機巧少女〈マシンドール〉は傷つかない"
+  },
+  "start_date": "2013-10-07",
+  "end_date": "2013-12-23",
+  "synopsis": "The Walpurgis Royal Academy of Machinart was founded alongside the development of \"Machinart,\" machine magic capable of giving life and intelligence to mechanical dolls subsequently called as \"automaton.\" Its aim: train skilled puppeteers to control the automatons, as militaries across the globe have begun incorporating Machinart into their armies.\n\nAfter miserably failing the academy's entrance exams, Raishin Akabane and his humanoid automaton Yaya must defeat one of the top one hundred students to earn the right to take part in the Evening Party, a fight for supremacy between puppeteers using their automatons. The last one standing is bestowed the title of \"Wiseman\" and granted access to the powerful forbidden arts.\n\nThus, Raishin challenges Charlotte Belew and her automaton Sigmund to a duel, but before they even begin, Sigmund is attacked by other students. After saving his opponents from their assaulters, Raishin cancels the duel but is forced to search for a new way to gain access to the Party. Driven by the tragedies of his past, Raishin fights alongside Yaya to rise to the top and claim the title of Wiseman.\n\n[Written by MAL Rewrite]",
+  "mean": 7.04,
+  "rank": 4121,
+  "popularity": 733,
+  "num_list_users": 326235,
+  "num_scoring_users": 157277,
+  "nsfw": "white",
+  "created_at": "2013-01-21T13:06:18+00:00",
+  "updated_at": "2024-01-05T12:55:38+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "20:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 456,
+      "name": "Lerche"
+    }
+  ]
+}

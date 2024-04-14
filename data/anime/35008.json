@@ -1,0 +1,45 @@
+{
+  "id": 35008,
+  "title": "Midori no Kuni no Otomodachi: Koeda-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/84532.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/84532l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "みどりのくにのおともだち こえだちゃん"
+  },
+  "start_date": "2017-03-03",
+  "end_date": "2017-10-07",
+  "synopsis": "Based on the Takara Tomy toy line.\n",
+  "rank": 16422,
+  "popularity": 18057,
+  "num_list_users": 329,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2017-03-04T08:54:17+00:00",
+  "updated_at": "2023-09-18T00:32:59+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 232,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 171,
+      "name": "A-Line"
+    }
+  ]
+}

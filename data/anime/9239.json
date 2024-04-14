@@ -1,0 +1,50 @@
+{
+  "id": 9239,
+  "title": "Scoopers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/49239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/49239l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スクーパーズ"
+  },
+  "start_date": "1987-12-01",
+  "end_date": "1987-12-01",
+  "synopsis": "It's 2016 and Shambhala city reporter Yoko and her android boyfriend/bodyguard/cameraman Vito are hunting the enigmatic criminal Mr. X. Their search leads them to the Rainbow Tower, were Yoko is taken hostage and Vito must battle to save her by destroying the program of the Tower's central computer to prevent X's escape.\n\n(Source: AniDB)",
+  "mean": 5.1,
+  "rank": 12534,
+  "popularity": 12090,
+  "num_list_users": 1489,
+  "num_scoring_users": 522,
+  "nsfw": "white",
+  "created_at": "2010-07-24T06:36:13+00:00",
+  "updated_at": "2022-02-09T07:39:54+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 3480,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 420,
+      "name": "ACC Production"
+    }
+  ]
+}

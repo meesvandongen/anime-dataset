@@ -1,0 +1,44 @@
+{
+  "id": 54675,
+  "title": "Butterfly/Satellite",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1864/135567.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1864/135567l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Butterfly/Satellite",
+    "ja": "Butterfly/Satellite"
+  },
+  "start_date": "2014-08-14",
+  "end_date": "2014-08-14",
+  "synopsis": "Official music video for the song Butterfly/Satellite by Kidkanevil ft. Cuushe & Submerse.",
+  "popularity": 22587,
+  "num_list_users": 101,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2023-03-06T03:51:51+00:00",
+  "updated_at": "2023-04-27T16:44:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 201,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 2748,
+      "name": "Sankaku"
+    }
+  ]
+}

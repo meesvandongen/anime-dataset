@@ -1,0 +1,45 @@
+{
+  "id": 53081,
+  "title": "Shala Bon Bon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1855/128106.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1855/128106l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ShalaBonBon"
+    ],
+    "en": "",
+    "ja": "シャラボンボン"
+  },
+  "start_date": "2019-06-02",
+  "end_date": "2019-06-02",
+  "synopsis": "People, animals, flowers, streets, now and the past, all are equally flowing and Bonnnou (Kleshas) will never disappear.\n\n(Source: YouTube)",
+  "popularity": 21393,
+  "num_list_users": 142,
+  "num_scoring_users": 68,
+  "nsfw": "white",
+  "created_at": "2022-09-18T15:19:46+00:00",
+  "updated_at": "2022-09-19T07:20:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "pg_13",
+  "studios": []
+}

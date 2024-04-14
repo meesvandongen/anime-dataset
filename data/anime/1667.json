@@ -1,0 +1,60 @@
+{
+  "id": 1667,
+  "title": "Barom One",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1090/95417.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1090/95417l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baromu One"
+    ],
+    "en": "Barom 1",
+    "ja": "バロムワン"
+  },
+  "start_date": "2002-12-07",
+  "end_date": "2003-03-22",
+  "synopsis": "Takeshi Kido and Kentaro Shiratori are a pair of friends who have been together for almost their entire life. One night, a strange being comes out from the lake and starts attacking them. When Takeshi and Kentaro are almost eliminated, a strange being named Kopu calls them and tells them that they are the chosen ones to inherit the power to protect the world from an evil being named Goumon. Now, they join their hands to transform into Barom One, a being with superior skills, who will fight to protect the city.\n\n(Source: ANN)",
+  "mean": 5.1,
+  "rank": 12524,
+  "popularity": 10516,
+  "num_list_users": 2506,
+  "num_scoring_users": 703,
+  "nsfw": "white",
+  "created_at": "2006-11-20T18:18:46+00:00",
+  "updated_at": "2022-01-03T08:33:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2003,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1490,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 154,
+      "name": "E&G Films"
+    }
+  ]
+}

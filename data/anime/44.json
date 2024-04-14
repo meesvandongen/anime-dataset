@@ -1,0 +1,73 @@
+{
+  "id": 44,
+  "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rurouni Kenshin: Tsuiokuhen",
+      "Rurouni Kenshin: Reminiscence"
+    ],
+    "en": "Samurai X: Trust and Betrayal",
+    "ja": "るろうに剣心―明治剣客浪漫譚―追憶編"
+  },
+  "start_date": "1999-02-20",
+  "end_date": "1999-09-22",
+  "synopsis": "When mankind's savagery surpasses his fear of death, there is little hope for those who wish to live honest lives. Beneath a full moon, a young boy witnesses the murder of the bandits who had enslaved him, and is then christened with a new name by the man who rescued him. This boy is Shinta, now known as Kenshin Himura, and he is destined to become a swordsman. The softness of his heart does not befit the occupation, but his desire to protect the innocent is absolute.\n\nRurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen details the origins of the man who would bear the name of Hitokiri Battousai long before he swore his oath not to kill and before he earned his reputation as an assassin. The young man's heart is divided between justice and corruption, while the fate of a nation rests on his actions.\n\n[Written by MAL Rewrite]",
+  "mean": 8.7,
+  "rank": 54,
+  "popularity": 876,
+  "num_list_users": 276421,
+  "num_scoring_users": 137856,
+  "nsfw": "white",
+  "created_at": "2005-11-11T05:54:34+00:00",
+  "updated_at": "2023-12-14T09:55:38+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 1999,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1747,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

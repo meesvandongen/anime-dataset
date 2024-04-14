@@ -1,0 +1,63 @@
+{
+  "id": 55265,
+  "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1763/139538.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1763/139538l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Reincarnated as an Aristocrat with an Appraisal Skill"
+    ],
+    "en": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+    "ja": "転生貴族、鑑定スキルで成り上がる"
+  },
+  "start_date": "2024-04-07",
+  "synopsis": "An ordinary salaryman dies one day and is reborn as Ars Louvent, the son of a noble. Although he isn't talented in magic or swordplay, he does have one skill that no one else possesses: Appraisal. Using this ability, Ars can determine a person's current strength, how much potential they hold, and where their talents rest.\n\nThis skill is especially useful in the present situation of the country. The government is corrupt, revolts occur more often than not, and nobles far and wide are strengthening their fortifications in preparation for an all-out war. With this in mind, Ars realizes he too must prepare by gathering talented people.\n\nA persecuted foreigner unparalleled with the sword, a slave with an unknown talent for magic, and a timid boy with an unquenchable thirst for knowledge—such talents lend Ars their support as he aims to create the most powerful territory.\n\n[Written by MAL Rewrite]",
+  "mean": 7.21,
+  "rank": 3214,
+  "popularity": 3250,
+  "num_list_users": 45945,
+  "num_scoring_users": 4292,
+  "nsfw": "white",
+  "created_at": "2023-05-08T18:12:26+00:00",
+  "updated_at": "2024-04-08T13:19:02+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2246,
+      "name": "studio MOTHER"
+    }
+  ]
+}

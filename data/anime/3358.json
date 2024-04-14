@@ -1,0 +1,60 @@
+{
+  "id": 3358,
+  "title": "Kure-nai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/8482.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/8482l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Crimson"
+    ],
+    "en": "Kurenai",
+    "ja": "紅"
+  },
+  "start_date": "2008-04-04",
+  "end_date": "2008-06-20",
+  "synopsis": "Shinkurou Kurenai is a 16-year-old student by day and a dispute mediator by night. Though kind-hearted and patient, due to his tragic past, he has trained for years to live on. Now, despite his unimposing appearance, he is a strong martial artist, who also possesses a strange power.\n\nWhile taking various jobs for his employer, Benika Juuzawa, one assignment leads Shinkurou to live with Murasaki Kuhouin as her bodyguard. Murasaki is the seven-year-old daughter of a plutocratic family, who escaped her home under peculiar circumstances with Benika's help. Commoner life, in her eyes, seems bizarre. However, by interacting with her neighbors, she grows more accustomed to the daily routine, and rids herself of her snobbish behavior, gradually growing attached to Shinkurou.\n\nThough many details of the job remain unclear, Shinkurou still strives to protect the young lady. But to make things more complicated, he also lacks a crucial fact—what is the real threat against Murasaki?\n\n[Written by MAL Rewrite]",
+  "mean": 7.33,
+  "rank": 2562,
+  "popularity": 2212,
+  "num_list_users": 90024,
+  "num_scoring_users": 37251,
+  "nsfw": "white",
+  "created_at": "2007-11-04T19:05:48+00:00",
+  "updated_at": "2022-11-05T04:16:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2008,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "02:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

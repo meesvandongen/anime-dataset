@@ -1,0 +1,69 @@
+{
+  "id": 40956,
+  "title": "Enen no Shouboutai: Ni no Shou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1673/107657.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1673/107657l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Enen no Shouboutai 2nd Season",
+      "Fire Force 2nd Season"
+    ],
+    "en": "Fire Force Season 2",
+    "ja": "炎炎ノ消防隊 弐ノ章"
+  },
+  "start_date": "2020-07-04",
+  "end_date": "2020-12-12",
+  "synopsis": "After his confrontation in the Nether with his younger brother Shou, Shinra Kusakabe's resolve to become a hero that saves lives from the flame terror strengthens. Finding a way to turn the Infernals back into people, unraveling the mystery of the Evangelist and Adolla Burst, and saving his mother and Shou—these are the goals Shinra has in mind. However, he has come to realize that attaining these goals will not be easy, especially with the imminent danger the Evangelist poses.\n\nThe Evangelist's plan is clear: to gather the eight pillars—the individuals who possess Adolla Burst—and sacrifice them to recreate the Great Cataclysm from 250 years ago. Having been revealed by the First Pillar that the birth of a new pillar is approaching, Shinra is determined to protect his fellow pillars from the Evangelist. Thus, the fiery battle between the Special Fire Force and the Evangelist ignites. Together with the Special Fire Force, Shinra's fight continues as he uncovers the truth about the Great Cataclysm and the nature of Adolla Bursts, as well as the mysteries behind human combustion. \n\n[Written by MAL Rewrite]",
+  "mean": 7.81,
+  "rank": 970,
+  "popularity": 250,
+  "num_list_users": 766848,
+  "num_scoring_users": 406062,
+  "nsfw": "white",
+  "created_at": "2019-12-27T17:37:31+00:00",
+  "updated_at": "2023-09-05T11:46:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1477,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 287,
+      "name": "David Production"
+    }
+  ]
+}

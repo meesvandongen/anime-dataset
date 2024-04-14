@@ -1,0 +1,50 @@
+{
+  "id": 44056,
+  "title": "Tokyo Gambo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1758/110280.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1758/110280l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "東京ガンボ"
+  },
+  "start_date": "2020-11-22",
+  "end_date": "2020-12-20",
+  "synopsis": "The story will take place 100 years after the world was destroyed in the 21st century due to environmental destruction and depletion of resources. The story follows four girls who work at PARK, based on a real store in Harajuku that follows the theme of \"Fashion × Otaku × Creation.\"\n\n(Source: ANN)",
+  "mean": 5.66,
+  "rank": 11031,
+  "popularity": 9189,
+  "num_list_users": 3871,
+  "num_scoring_users": 117,
+  "nsfw": "white",
+  "created_at": "2020-11-20T08:16:28+00:00",
+  "updated_at": "2022-04-13T06:02:00+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "03:20"
+  },
+  "source": "original",
+  "average_episode_duration": 150,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1851,
+      "name": "Jumonji"
+    }
+  ]
+}

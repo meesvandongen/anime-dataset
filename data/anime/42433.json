@@ -1,0 +1,46 @@
+{
+  "id": 42433,
+  "title": "Nemuri no Mori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1487/108449.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1487/108449l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Le Bois Endormi"
+    ],
+    "en": "",
+    "ja": "眠りの森"
+  },
+  "start_date": "2013-08-04",
+  "end_date": "2013-08-04",
+  "synopsis": "Music video for the single Nemuri no Mori by Aimer. The video was directed by Gaku Kinoshita.",
+  "mean": 6.18,
+  "popularity": 18051,
+  "num_list_users": 330,
+  "num_scoring_users": 167,
+  "nsfw": "white",
+  "created_at": "2020-07-12T20:38:27+00:00",
+  "updated_at": "2020-09-02T19:16:47+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 275,
+  "rating": "g",
+  "studios": []
+}

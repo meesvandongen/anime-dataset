@@ -1,0 +1,62 @@
+{
+  "id": 51861,
+  "title": "Shen Mu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1965/138663.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1965/138663l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tomb of Fallen Gods",
+    "ja": "神墓"
+  },
+  "start_date": "2022-07-21",
+  "end_date": "2022-10-27",
+  "synopsis": "A teenager who was resurrected from the cemetery of the gods and demons, in the new continent formed by the collision of the East and the West ten thousand years later, searches for the truth of the fall of the gods and demons ten thousand years ago, as well as the pursuit of his lover Yuxin, the whereabouts of his parents and the reason for his resurrection. The protagonist develops, and finally leads to a story about the six paths and the chess game of heaven and earth.\n\n(Source: Baike Baidu)",
+  "mean": 6.99,
+  "rank": 4345,
+  "popularity": 11576,
+  "num_list_users": 1779,
+  "num_scoring_users": 663,
+  "nsfw": "white",
+  "created_at": "2022-05-20T02:41:13+00:00",
+  "updated_at": "2022-10-30T07:48:12+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1195,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2281,
+      "name": "Rocen"
+    },
+    {
+      "id": 2471,
+      "name": "Wonder Cat Animation"
+    }
+  ]
+}

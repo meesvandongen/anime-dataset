@@ -1,0 +1,44 @@
+{
+  "id": 56882,
+  "title": "Ochibi-san Tanpen Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1560/139009.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1560/139009l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "オチビサン短編ムービー"
+  },
+  "start_date": "2019-07-05",
+  "end_date": "2021-06-16",
+  "synopsis": "Short videos to commemorate the releases of volumes 9 and 10 of Ochibi-san.",
+  "rank": 16958,
+  "popularity": 20443,
+  "num_list_users": 192,
+  "num_scoring_users": 64,
+  "nsfw": "white",
+  "created_at": "2023-10-10T06:16:39+00:00",
+  "updated_at": "2024-02-16T08:24:39+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 42,
+  "rating": "g",
+  "studios": []
+}

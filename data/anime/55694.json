@@ -1,0 +1,64 @@
+{
+  "id": 55694,
+  "title": "Gaishi Dizun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1885/136527.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1885/136527l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Matchless Emperor"
+    ],
+    "en": "The Galaxy Emperor",
+    "ja": "盖世帝尊"
+  },
+  "start_date": "2023-07-30",
+  "end_date": "2024-01-21",
+  "synopsis": "In ancient times, saints fought for hegemony. A young man known as the \"Sleeping God\" turned out to be a blessing in disguise and opened up a heaven-defying skill. From then on, a genius with unparalleled physical strength dominated the world, slashed the stars with his sword, and thousands of geniuses crawled and trembled under his feet. In a world where heroes are rising, I am the only one who dominates.\n\n(Source: Youku, translated)",
+  "mean": 6.71,
+  "rank": 5684,
+  "popularity": 14474,
+  "num_list_users": 737,
+  "num_scoring_users": 212,
+  "nsfw": "white",
+  "created_at": "2023-06-18T04:30:22+00:00",
+  "updated_at": "2024-01-21T15:47:59+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 725,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2628,
+      "name": "Xiaoming Taiji"
+    }
+  ]
+}

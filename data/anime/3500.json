@@ -1,0 +1,43 @@
+{
+  "id": 3500,
+  "title": "Yume Miru, Anime: on-chan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/29989.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/29989l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yume-miru Anime On-chan",
+      "Yume Miru Anime On-chan",
+      "Dreaming Anime On-chan"
+    ],
+    "en": "",
+    "ja": "ユメミル、アニメ「onちゃん」"
+  },
+  "start_date": "2008-01-18",
+  "end_date": "2008-08-22",
+  "synopsis": "A children's series featuring on-chan, the television station HTB's mascot character. on-chan has appeared in parades and various promotions for the station since 1997. ",
+  "rank": 15118,
+  "popularity": 16846,
+  "num_list_users": 422,
+  "num_scoring_users": 95,
+  "nsfw": "white",
+  "created_at": "2007-11-30T05:53:35+00:00",
+  "updated_at": "2014-07-28T18:04:29+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "average_episode_duration": 360,
+  "rating": "g",
+  "studios": []
+}

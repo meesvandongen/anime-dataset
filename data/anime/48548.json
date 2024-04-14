@@ -1,0 +1,66 @@
+{
+  "id": 48548,
+  "title": "5-toubun no Hanayome Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1037/122516.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1037/122516l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gotoubun no Hanayome",
+      "The Five Wedded Brides",
+      "The Quintessential Quintuplets"
+    ],
+    "en": "The Quintessential Quintuplets Movie",
+    "ja": "映画 五等分の花嫁"
+  },
+  "start_date": "2022-05-20",
+  "end_date": "2022-05-20",
+  "synopsis": "Fuutarou has led five quintuplets to the point where they can graduate and pursue their own dreams. Now, finally, they had reached their final school festival. Having decided to make this occasion one to remember, Fuutarou searches for his feelings for the five quintuplets.\n\n(Source: ANN)",
+  "mean": 7.85,
+  "rank": 884,
+  "popularity": 1006,
+  "num_list_users": 239254,
+  "num_scoring_users": 108270,
+  "nsfw": "white",
+  "created_at": "2021-03-25T18:04:13+00:00",
+  "updated_at": "2022-04-18T02:04:05+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 8160,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1722,
+      "name": "Bibury Animation Studios"
+    }
+  ]
+}

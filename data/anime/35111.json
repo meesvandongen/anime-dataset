@@ -1,0 +1,62 @@
+{
+  "id": 35111,
+  "title": "Haikyuu!! Movie 4: Concept no Tatakai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/86346.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/86346l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "High Kyuu!! Movie 4: Haikyuu!! Movie 4: Battle of Concepts",
+      "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou Recap",
+      "Haikyuu!! Recap 4"
+    ],
+    "en": "Haikyu!! The Movie: Battle of Concepts",
+    "ja": "ハイキュー!! コンセプトの戦い"
+  },
+  "start_date": "2017-09-29",
+  "end_date": "2017-09-29",
+  "synopsis": "The long-awaited finals of the Spring Tournament have arrived for Karasuno High School's volleyball team. The winner of the match will go on to represent all of Miyagi Prefecture at the National Tournament. However, the last challenge Karasuno must overcome is to win against Shiratorizawa Academy, the school that houses Wakatoshi Ushijima, one of Japan's top three aces. Shiratorizawa is the reigning Miyagi champion for the past three years, and Karasuno seems to have little chance at dethroning them. \n\nWhen the other school's captain Ushijima insults Karasuno to their faces, freshmen duo Shouyou Hinata and Tobio Kageyama swear to defeat them and steal their spot in the nationals. Against a roster full of nationally-ranked players, the former flightless crows will have to use everything in their arsenal if they want to represent Miyagi.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.22,
+  "rank": 349,
+  "popularity": 2282,
+  "num_list_users": 85770,
+  "num_scoring_users": 33296,
+  "nsfw": "white",
+  "created_at": "2017-03-15T07:50:44+00:00",
+  "updated_at": "2023-02-05T19:42:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 5280,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

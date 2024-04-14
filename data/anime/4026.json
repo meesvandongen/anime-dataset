@@ -1,0 +1,61 @@
+{
+  "id": 4026,
+  "title": "Pokemon Movie 11: Giratina to Sora no Hanataba Sheimi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/21316.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/21316l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Pocket Monsters Diamond and Pearl: Giratina and the Sky's Bouquet: Shaymin",
+      "Pokemon Diamond & Pearl: Giratina to Sora no Hanataba Sheimi"
+    ],
+    "en": "Pokémon: Giratina and the Sky Warrior",
+    "ja": "ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ"
+  },
+  "start_date": "2008-07-19",
+  "end_date": "2008-07-19",
+  "synopsis": "The legendary Renegade Pokémon, Giratina, encounters the Temporal Pokémon Dialga by a lake and successfully manages to drag Dialga into its home—an alternate dimension separate from the normal world. But a small green Pokémon gets gotten dragged in as well—and though it somehow escapes, Dialga uses this opportunity to escape as well after preventing Giratina from chasing after it.\n\nAfter accidentally ruining Satoshi and his friends' picnic, the green Pokémon is taken to the Pokémon Center where it is treated for injuries and introduced as Shaymin, the mythical Gratitude Pokémon. Using telepathy, Shaymin demands that Satoshi, Hikari, and Takeshi take it somewhere. But before they can find out where to go, the group find themselves being pursued by both Giratina and a strange man named Zero—both in search of little Shaymin! Will Satoshi and his friends be able to find Shaymin's desired place while keeping themselves out of danger?\n\n[Written by MAL Rewrite]",
+  "mean": 6.89,
+  "rank": 4783,
+  "popularity": 2182,
+  "num_list_users": 92312,
+  "num_scoring_users": 56360,
+  "nsfw": "white",
+  "created_at": "2008-02-29T02:28:56+00:00",
+  "updated_at": "2022-04-16T02:29:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 5760,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

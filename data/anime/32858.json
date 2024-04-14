@@ -1,0 +1,40 @@
+{
+  "id": 32858,
+  "title": "Dareka no Santa Claus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/78768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/78768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "誰かのサンタクロース"
+  },
+  "start_date": "2014-10-28",
+  "end_date": "2014-10-28",
+  "synopsis": "A music video for the Twin Cross song \"Dare ka no Santa Claus\".",
+  "mean": 5.55,
+  "popularity": 17263,
+  "num_list_users": 391,
+  "num_scoring_users": 206,
+  "nsfw": "white",
+  "created_at": "2016-02-29T04:23:00+00:00",
+  "updated_at": "2016-04-08T00:02:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "fall"
+  },
+  "source": "music",
+  "average_episode_duration": 273,
+  "rating": "g",
+  "studios": []
+}

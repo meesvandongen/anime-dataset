@@ -1,0 +1,68 @@
+{
+  "id": 4962,
+  "title": "Rokumon Tengai Mon Colle Knights",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/17055.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/17055l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Rokumon Tengai Monkore Knight"
+    ],
+    "en": "Six Gates Faraway Mon Colle Knights",
+    "ja": "六門天外モンコレナイト"
+  },
+  "start_date": "2000-01-10",
+  "end_date": "2000-12-25",
+  "synopsis": "Two mad scientists, Professor Hiiragi and Count Collection, simultaneously manage to open a dream hole to an alternate world where myths are real, the Sixgate world. Professor Hiiragi recruits his daughter Rokuna and her friend Mondo to be the Mon Colle Knights and help him in obtaining six magical items before Count Collection does. These items which can alter the barriers of dimensions when combined, allowing them to be used to either peacefully have the magic of the Sixgate world cross over in the human world, take over the minds of all monsters, or worse, reformat reality.\n\nWhile this entry only has details based on the Japanese version, it also includes the version aired on Jetix.",
+  "mean": 6.58,
+  "rank": 6397,
+  "popularity": 8249,
+  "num_list_users": 5320,
+  "num_scoring_users": 2025,
+  "nsfw": "white",
+  "created_at": "2008-07-23T12:20:25+00:00",
+  "updated_at": "2022-03-18T19:36:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2000,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "18:00"
+  },
+  "source": "card_game",
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

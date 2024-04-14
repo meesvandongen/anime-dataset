@@ -1,0 +1,51 @@
+{
+  "id": 8577,
+  "title": "Aki-Sora: Yume no Naka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/23461.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/23461l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Aki-Sora: Yume no Naka"
+    ],
+    "en": "Aki-Sora: In a Dream",
+    "ja": "あきそら～夢の中～"
+  },
+  "start_date": "2010-07-30",
+  "end_date": "2010-11-17",
+  "synopsis": "Siblings Aki and Sora Aoi have been in a secret relationship ever since they confessed their feelings to each other on a rainy day. Sora's twin sister Nami—unaware that his affections lie elsewhere—decides to have him join the Fashion Research Club at school in an attempt to set him up with their classmate, Kana Sumiya.\n\nHowever, Nami's actions mask painful truths. While her motives appear like those of a good sister trying to help her brother finally get a girlfriend, she is harboring secret, forbidden feelings of her own.\n\n[Written by MAL Rewrite]\n",
+  "mean": 5.98,
+  "popularity": 2403,
+  "num_list_users": 78565,
+  "num_scoring_users": 45542,
+  "nsfw": "gray",
+  "created_at": "2010-04-09T08:28:02+00:00",
+  "updated_at": "2023-11-10T23:39:03+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 49,
+      "name": "Erotica"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1480,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 346,
+      "name": "Hoods Entertainment"
+    }
+  ]
+}

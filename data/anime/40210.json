@@ -1,0 +1,47 @@
+{
+  "id": 40210,
+  "title": "Yorugao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1566/102429.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1566/102429l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Moonflower"
+    ],
+    "en": "",
+    "ja": "ヨルガオ"
+  },
+  "start_date": "2019-08-02",
+  "end_date": "2019-08-02",
+  "synopsis": "Celebrating those who are gone through Oban and Higan through moonflowers (yorugao), which bloom during this time and only bloom in the evening.",
+  "mean": 5.46,
+  "popularity": 18465,
+  "num_list_users": 303,
+  "num_scoring_users": 164,
+  "nsfw": "white",
+  "created_at": "2019-08-04T06:36:33+00:00",
+  "updated_at": "2019-08-04T06:36:33+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 142,
+  "rating": "g",
+  "studios": []
+}

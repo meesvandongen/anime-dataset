@@ -1,0 +1,56 @@
+{
+  "id": 55194,
+  "title": "Ooi! Tonbo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1045/138898.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1045/138898l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hey! Tonbo",
+      "Oi! Tonbo"
+    ],
+    "en": "Tonbo!",
+    "ja": "オーイ！とんぼ"
+  },
+  "start_date": "2024-04-06",
+  "synopsis": "Tonbo Ooi, the protagonist, lost both of her parents in a car accident when she was young and was raised by her grandfather, Gonzou Ooi, a fisherman on the island of Kagoshima in the Tokara Islands. Tonbo learns to play golf while using her father's inherited No. 3 iron on the island's three golf courses, which were built by the islanders themselves.\n\nThe story begins with Tonbo meeting Kazuyoshi Igarashi, a former professional golfer who has come to Kagoshima in search of work.\n\n(Source: MAL News)",
+  "mean": 6.63,
+  "rank": 6145,
+  "popularity": 7720,
+  "num_list_users": 6245,
+  "num_scoring_users": 696,
+  "nsfw": "white",
+  "created_at": "2023-05-01T05:31:39+00:00",
+  "updated_at": "2024-04-13T15:31:20+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "10:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

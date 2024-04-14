@@ -1,0 +1,55 @@
+{
+  "id": 42485,
+  "title": "Miao Xiansheng",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1001/108593.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1001/108593l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Mr. Miao"
+    ],
+    "en": "",
+    "ja": "妙先生"
+  },
+  "start_date": "2020-07-31",
+  "end_date": "2020-07-31",
+  "synopsis": "Adapted from a short tale from self-made animator Bu Sifan, writer and director of Dahufa, the feature introduces a fictional golden-colored flower, which possesses the magical ability to debauch humans who get too close to it.\n\nAs the flower only chooses kindhearted people as hosts, a group of martial artists who want to eradicate the plants face a dilemma: Should one kill good people for rescuing men from sin?\n\n(Source: China Daily)",
+  "rank": 16409,
+  "popularity": 13450,
+  "num_list_users": 984,
+  "num_scoring_users": 76,
+  "nsfw": "white",
+  "created_at": "2020-07-19T08:08:25+00:00",
+  "updated_at": "2020-10-10T08:06:00+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 5323,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1845,
+      "name": "Guton Animation Studio"
+    }
+  ]
+}

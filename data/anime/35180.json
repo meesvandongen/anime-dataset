@@ -1,0 +1,64 @@
+{
+  "id": 35180,
+  "title": "3-gatsu no Lion 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/88469.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/88469l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sangatsu no Lion Second Season"
+    ],
+    "en": "March Comes In Like a Lion 2nd Season",
+    "ja": "3月のライオン 第2シリーズ"
+  },
+  "start_date": "2017-10-14",
+  "end_date": "2018-03-31",
+  "synopsis": "Now in his second year of high school, Rei Kiriyama continues pushing through his struggles in the professional shogi world as well as his personal life. Surrounded by vibrant personalities at the shogi hall, the school club, and in the local community, his solitary shell slowly begins to crack. Among them are the three Kawamoto sisters—Akari, Hinata, and Momo—who forge an affectionate and familial bond with Rei. Through these ties, he realizes that everyone is burdened by their own emotional hardships and begins learning how to rely on others while supporting them in return. \n\nNonetheless, the life of a professional is not easy. Between tournaments, championships, and title matches, the pressure mounts as Rei advances through the ranks and encounters incredibly skilled opponents. As he manages his relationships with those who have grown close to him, the shogi player continues to search for the reason he plays the game that defines his career.\n\n[Written by MAL Rewrite]",
+  "mean": 8.92,
+  "rank": 19,
+  "popularity": 567,
+  "num_list_users": 401068,
+  "num_scoring_users": 199057,
+  "nsfw": "white",
+  "created_at": "2017-03-18T15:14:28+00:00",
+  "updated_at": "2023-11-03T21:50:36+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

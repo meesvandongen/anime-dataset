@@ -1,0 +1,60 @@
+{
+  "id": 34948,
+  "title": "Hakuouki: Otogisoushi Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/84387.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/84387l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hakuouki: Otogisoushi Episode 11.5"
+    ],
+    "en": "",
+    "ja": "薄桜鬼～御伽草子～ 特別篇"
+  },
+  "start_date": "2016-06-21",
+  "end_date": "2016-06-21",
+  "synopsis": "A Hakuouki: Otogisoushi special episode that aired between episode 11 and episode 12, it was not included in the normal episode count of the main show. It had a TV and web release on the same day and is included on the DVD and BD release.",
+  "mean": 6.07,
+  "rank": 9265,
+  "popularity": 11150,
+  "num_list_users": 2056,
+  "num_scoring_users": 583,
+  "nsfw": "white",
+  "created_at": "2017-02-22T01:22:07+00:00",
+  "updated_at": "2018-05-16T18:01:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

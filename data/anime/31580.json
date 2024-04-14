@@ -1,0 +1,72 @@
+{
+  "id": 31580,
+  "title": "Ajin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/77968.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/77968l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ajin"
+    ],
+    "en": "Ajin: Demi-Human",
+    "ja": "亜人"
+  },
+  "start_date": "2016-01-16",
+  "end_date": "2016-04-09",
+  "synopsis": "Mysterious immortal humans known as \"Ajin\" first appeared 17 years ago in Africa. Upon their discovery, they were labeled as a threat to mankind, as they might use their powers for evil and were incapable of being destroyed. Since then, whenever an Ajin is found within society, they are to be arrested and taken into custody immediately.\n\nStudying hard to become a doctor, Kei Nagai is a high schooler who knows very little about Ajin, only having seen them appear in the news every now and then. Students are taught that these creatures are not considered to be human, but Kei doesn't pay much attention in class. As a result, his perilously little grasp on this subject proves to be completely irrelevant when he survives an accident that was supposed to claim his life, signaling his rebirth as an Ajin and the start of his days of torment. However, as he finds himself alone on the run from the entire world, Kei soon realizes that more of his species may be a lot closer than he thinks.\n\n[Written by MAL Rewrite]",
+  "mean": 7.39,
+  "rank": 2318,
+  "popularity": 372,
+  "num_list_users": 587843,
+  "num_scoring_users": 295822,
+  "nsfw": "white",
+  "created_at": "2015-09-10T07:04:52+00:00",
+  "updated_at": "2022-04-18T01:19:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 1470,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1023,
+      "name": "Polygon Pictures"
+    }
+  ]
+}

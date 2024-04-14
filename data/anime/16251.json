@@ -1,0 +1,60 @@
+{
+  "id": 16251,
+  "title": "Shinkai no Kantai: Submarine 707",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/43741.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/43741l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Undersea Fleet Submarine 707F"
+    ],
+    "en": "",
+    "ja": "深海の艦隊 サブマリン707"
+  },
+  "start_date": "1997-01-10",
+  "end_date": "1997-01-10",
+  "synopsis": "A mysterious object attacks and destroys any ship or submarine. Submarine 707 has the mission to search for that mysterious object, when summoned by a whale to follow it. The whale leads them to the world of Mu. But on their way they meet the mysterious object. They find out , it is Commander Red Silver, who had attacked the world of Mu to get Mu's magma sources. Submarine takes up the battle to defeat Red Silver and save Mu, and the world for that matter. \n\n(Source: ANN) ",
+  "mean": 5.49,
+  "rank": 11635,
+  "popularity": 13329,
+  "num_list_users": 1014,
+  "num_scoring_users": 331,
+  "nsfw": "white",
+  "created_at": "2012-11-11T09:49:27+00:00",
+  "updated_at": "2015-04-04T11:03:49+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 2786,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 452,
+      "name": "Knack Productions"
+    }
+  ]
+}

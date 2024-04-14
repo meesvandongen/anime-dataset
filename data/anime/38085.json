@@ -1,0 +1,54 @@
+{
+  "id": 38085,
+  "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1535/103385l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fate/Grand Order: Divine Realm of the Round Table - Camelot Wandering; Agateram",
+    "ja": "劇場版Fate/Grand Order -神聖円卓領域キャメロット- Wandering; Agateram"
+  },
+  "start_date": "2020-12-05",
+  "end_date": "2020-12-05",
+  "synopsis": "The wandering knight, Bedivere, reaches the end of his journey.\n\nThe year is A.D. 1273 in Jerusalem.\n\nThe Holy Land has been transformed into a massive desert, the people have been forced out of their homes, and three major powers wage war with each other in this wasteland. The Knights of the Round Table come together to protect the Holy City and their Lion King. With the whole of his kingdom summoned into a strange land, Ozymandias, the Sun-King, quietly plots against the tyranny of this bizarre realm.\n\nThe mountain people, protectors of those who were stripped of their land, await their chance at rebellion. In order to fulfill his mission, Bedivere heads for the Holy City where the Lion King rules. There he meets humanity’s final Master, Ritsuka Fujimaru, who has come to Jerusalem, accompanied by his Demi-Servant, Mash Kyrielight, in their quest to restore human history.\n\nBedivere joins with Fujimaru and his companions to undertake this quest.\n\n(Source: Official Website)",
+  "mean": 6.88,
+  "rank": 4835,
+  "popularity": 2220,
+  "num_list_users": 89622,
+  "num_scoring_users": 37283,
+  "nsfw": "white",
+  "created_at": "2018-07-29T08:26:03+00:00",
+  "updated_at": "2022-04-17T18:02:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 5340,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1278,
+      "name": "Signal.MD"
+    }
+  ]
+}

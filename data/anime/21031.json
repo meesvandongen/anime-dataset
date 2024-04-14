@@ -1,0 +1,50 @@
+{
+  "id": 21031,
+  "title": "Precure All Stars Movie New Stage 3: Eien no Tomodachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1016/142416.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1016/142416l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pretty Cure All Stars New Stage Eien no Tomodachi",
+      "Eiga Precure All Stars New Stage 3: Eien no Tomodachi",
+      "Pretty Cure All Stars New Stage 3: Friends Forever"
+    ],
+    "en": "",
+    "ja": "映画プリキュアオールスターズNew Stage3 永遠のともだち"
+  },
+  "start_date": "2014-03-15",
+  "end_date": "2014-03-15",
+  "synopsis": "Pretty Cure All Stars New Stage 3: Eien no Tomodachi is the sixth of the Pretty Cure All Stars crossover movie series featuring all current Pretty Cure characters and the last of the \"New Stage\" film, including the 16th movie of all Pretty Cure movie series.\n\n(Source: Pretty Cure Wikia)",
+  "mean": 7.33,
+  "rank": 2579,
+  "popularity": 8674,
+  "num_list_users": 4641,
+  "num_scoring_users": 1901,
+  "nsfw": "white",
+  "created_at": "2013-10-26T15:32:41+00:00",
+  "updated_at": "2023-01-28T20:17:57+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 4260,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

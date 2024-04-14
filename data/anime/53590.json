@@ -1,0 +1,66 @@
+{
+  "id": 53590,
+  "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1280/138474.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1280/138474l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Weakest Tamer Began a Journey to Pick Up Trash",
+    "ja": "最弱テイマーはゴミ拾いの旅を始めました。"
+  },
+  "start_date": "2024-01-12",
+  "end_date": "2024-03-29",
+  "synopsis": "In Ivy's world, stars are everything. She's a Tamer, born to subdue monsters and animals, but she was also born starless! With her life in danger, Ivy flees into the forest where she befriends a weak little slime named Sora—the one creature she can tame. Together, the unlikely pair set off on a journey, salvaging rubbish to survive. Along the way they'll win hearts, evade danger, and discover there's more to starless Ivy than meets the eye! \n\n(Source: Seven Seas Entertainment)",
+  "mean": 7.56,
+  "rank": 1657,
+  "popularity": 2422,
+  "num_list_users": 77475,
+  "num_scoring_users": 32303,
+  "nsfw": "white",
+  "created_at": "2022-11-11T05:43:48+00:00",
+  "updated_at": "2024-03-17T04:36:34+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 81,
+      "name": "Crossdressing"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "23:00"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2411,
+      "name": "Studio Massket"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 5956,
+  "title": "High School! Kimengumi (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/64257.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/64257l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "High School! Funny-face Club Movie"
+    ],
+    "en": "",
+    "ja": "ハイスクール!奇面組　劇場版"
+  },
+  "start_date": "1986-07-12",
+  "end_date": "1986-07-12",
+  "synopsis": "Three additional adventures for the Kimengumi and friends. In the first episode, the boys fail their exams right before summer vacation and have to take supplementary lessons. The second episode is a mandatory school trip to the beach during summer vacation for a swimming competition. In the third episode school is back in session, the karate club is in danger when a new opponent appears. ",
+  "mean": 6.48,
+  "rank": 6989,
+  "popularity": 13199,
+  "num_list_users": 1053,
+  "num_scoring_users": 393,
+  "nsfw": "white",
+  "created_at": "2009-01-23T07:29:53+00:00",
+  "updated_at": "2022-03-29T09:32:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1986,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 3053,
+  "rating": "pg",
+  "studios": []
+}

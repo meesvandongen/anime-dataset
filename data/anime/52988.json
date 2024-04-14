@@ -1,0 +1,43 @@
+{
+  "id": 52988,
+  "title": "Issho ni Utaou! Suku & Iku no Uta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1018/127759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1018/127759l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "いっしょにうたおう！すっく＆いっくの うた"
+  },
+  "start_date": "2019-06-07",
+  "end_date": "2019-12-25",
+  "synopsis": "A series of animated music videos featuring the mascot characters Suku & Iku.",
+  "popularity": 22834,
+  "num_list_users": 96,
+  "num_scoring_users": 43,
+  "nsfw": "white",
+  "created_at": "2022-09-09T06:17:30+00:00",
+  "updated_at": "2022-09-09T08:17:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": []
+}

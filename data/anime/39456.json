@@ -1,0 +1,70 @@
+{
+  "id": 39456,
+  "title": "Sounan desu ka?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1741/102237.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1741/102237l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Are You Lost?",
+    "ja": "ソウナンですか?"
+  },
+  "start_date": "2019-07-02",
+  "end_date": "2019-09-17",
+  "synopsis": "After a school trip goes terribly wrong, Homare Onishima, Shion Kujou, Asuka Suzumori, and Mutsu Amatani are left stranded on a deserted island. While Shion, Asuka, and Mutsu are frightened and desperate, Homare seems strangely calm. Fortunately for the group, this isn't the first time she's been stranded! Homare spent her childhood training with her survivalist father all over the world, climbing cliffs, trapping prey, building shelters, and obtaining valuable nutrition from moose testicles. To Homare, surviving on an uninhabited island with a slim chance of rescue is child's play. The only problem is the other three.\n\nAs Homare shamelessly guides her classmates through the finer points of survival, including drinking fish blood and eating cicadas, the girls start to realize that being stranded might not be as bad as they had imagined.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.6,
+  "rank": 6321,
+  "popularity": 1465,
+  "num_list_users": 158756,
+  "num_scoring_users": 75402,
+  "nsfw": "white",
+  "created_at": "2019-03-04T10:06:31+00:00",
+  "updated_at": "2024-03-06T12:46:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2019,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:15"
+  },
+  "source": "manga",
+  "average_episode_duration": 750,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1864,
+      "name": "Ezόla"
+    }
+  ]
+}

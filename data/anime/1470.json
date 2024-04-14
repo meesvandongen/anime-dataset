@@ -1,0 +1,66 @@
+{
+  "id": 1470,
+  "title": "City Hunter",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/20587.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/20587l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シティーハンター"
+  },
+  "start_date": "1987-04-06",
+  "end_date": "1988-03-28",
+  "synopsis": "\"City Hunter\" is a notorious contractor group with the call sign \"XYZ.\" No matter the job, they will take it, cleaning up the scum on the streets of Tokyo. The key member of City Hunter is Ryou Saeba; armed with his trusty Colt Python and pinpoint accuracy, he works alongside willful tomboy Kaori Makimura.\n\nTogether they solve tough cases and tackle the numerous dangers that accompany their trade head-on. However, when he's not out hunting crooks and villains, Ryou finds pleasure in chasing beautiful ladies with only Kaori and her one hundred-ton hammer to keep him in check. From pickpockets and arms dealers to crime syndicates, nothing can stand in the way of Ryou Saeba when he takes aim at his next mission.\n\n[Written by MAL Rewrite]",
+  "mean": 7.91,
+  "rank": 759,
+  "popularity": 2361,
+  "num_list_users": 80767,
+  "num_scoring_users": 23887,
+  "nsfw": "white",
+  "created_at": "2006-08-30T20:31:01+00:00",
+  "updated_at": "2024-01-28T21:53:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 1987,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1481,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

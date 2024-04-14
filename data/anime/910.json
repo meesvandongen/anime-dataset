@@ -1,0 +1,60 @@
+{
+  "id": 910,
+  "title": "Himawari!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/10221.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/10221l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Himawari"
+    ],
+    "en": "Himawari!",
+    "ja": "ひまわりっ!"
+  },
+  "start_date": "2006-04-09",
+  "end_date": "2006-07-02",
+  "synopsis": "Himawari Hinata recently transfered to Shinobi Gakuen to train to become the best kunoichi she can be. She wanted to be a ninja ever since she was saved by one when she was little. On her first day, she meets Hayato Madenokoji (a new transfer teacher) who saves her life. Hayato does not possess any ninja skills or traits, he is teaching the ninjas about normal society to pay off his debt. However, Himawari notices that Hayato bares the same mark on his neck as the ninja who saved her when she was young. \n\n(Source: ANN)",
+  "mean": 6.32,
+  "rank": 7910,
+  "popularity": 4442,
+  "num_list_users": 24573,
+  "num_scoring_users": 7652,
+  "nsfw": "white",
+  "created_at": "2006-04-17T21:18:25+00:00",
+  "updated_at": "2022-03-20T06:56:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2006,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
+  },
+  "source": "original",
+  "average_episode_duration": 1480,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 38,
+      "name": "Arms"
+    }
+  ]
+}

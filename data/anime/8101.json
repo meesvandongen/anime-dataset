@@ -1,0 +1,59 @@
+{
+  "id": 8101,
+  "title": "HenSemi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/24971.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/24971l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hentai Seiri Seminar",
+      "Hen Semi",
+      "Abnormal Physiology Seminar",
+      "Hen Zemi OVA"
+    ],
+    "en": "",
+    "ja": "変ゼミ"
+  },
+  "start_date": "2010-07-23",
+  "end_date": "2011-03-23",
+  "synopsis": "Matsutaka Nanako is a normal university student, who happened to enroll in an Abnormal Physiology seminar. She tries to keep her mental state sound, but other abnormal classmates start to influence her personality...\n\n(Source: MU)",
+  "mean": 6.48,
+  "rank": 6987,
+  "popularity": 4138,
+  "num_list_users": 28622,
+  "num_scoring_users": 11340,
+  "nsfw": "white",
+  "created_at": "2010-02-07T01:04:11+00:00",
+  "updated_at": "2022-03-28T16:52:37+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2010,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1602,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

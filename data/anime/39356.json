@@ -1,0 +1,60 @@
+{
+  "id": 39356,
+  "title": "Neko Neko Nihonshi 4th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1757/106368.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1757/106368l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Meow Meow Japanese History",
+    "ja": "ねこねこ日本史 第4期"
+  },
+  "start_date": "2019-04-03",
+  "end_date": "2020-02-26",
+  "synopsis": "Fourth season of Neko Neko Nihonshi.",
+  "rank": 16795,
+  "popularity": 16010,
+  "num_list_users": 501,
+  "num_scoring_users": 87,
+  "nsfw": "white",
+  "created_at": "2019-02-23T10:25:25+00:00",
+  "updated_at": "2021-04-08T20:47:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 32,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:45"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 540,
+  "rating": "g",
+  "studios": []
+}

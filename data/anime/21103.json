@@ -1,0 +1,47 @@
+{
+  "id": 21103,
+  "title": "Utopia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/55745.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/55745l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "True Tears x Hanasaku Iroha x Tari Tari: Utopia"
+    ],
+    "en": "",
+    "ja": "true tears×花咲くいろは×TARITARI ユートピア"
+  },
+  "start_date": "2014-02-26",
+  "end_date": "2014-02-26",
+  "synopsis": "Utopia is a song that was specially created for the True Tears x Hanasaku Iroha x Tari Tari Joint Festival Live featuring the seiyuu (voice actors) from the three series. P.A. Works produced a video of this song which is included in the the Blu-ray release of this event.",
+  "mean": 6.41,
+  "popularity": 7197,
+  "num_list_users": 7427,
+  "num_scoring_users": 2831,
+  "nsfw": "white",
+  "created_at": "2013-11-02T11:28:21+00:00",
+  "updated_at": "2021-07-30T05:37:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 99,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
+}

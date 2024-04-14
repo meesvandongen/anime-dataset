@@ -1,0 +1,48 @@
+{
+  "id": 47068,
+  "title": "Bao Dan Jing Ying",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1079/127203.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1079/127203l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Boom Hero",
+    "ja": "爆蛋晶英"
+  },
+  "start_date": "2015-02-13",
+  "end_date": "2016-03-24",
+  "synopsis": "",
+  "rank": 18435,
+  "popularity": 23085,
+  "num_list_users": 92,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2021-01-30T13:36:39+00:00",
+  "updated_at": "2022-08-20T08:04:00+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 767,
+  "rating": "g",
+  "studios": []
+}

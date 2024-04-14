@@ -1,0 +1,57 @@
+{
+  "id": 13185,
+  "title": "Juusen Battle Monsuno",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/40891.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/40891l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Beast Rotation Battle Monsuno",
+      "Monsuno: Combat Chaos."
+    ],
+    "en": "Monsuno: World Master",
+    "ja": "獣旋バトル モンスーノ"
+  },
+  "start_date": "2012-10-03",
+  "end_date": "2013-09-25",
+  "synopsis": "Chase Suno and his friends, Jinja and Bren, are on a search for Chase's father, Jeredy Suno. However, they soon become involved in something else upon reaching their father's lab and becoming involved with an organism known as Monsuno. Chase, choosing to side with his father's work, denies S.T.O.R.M. access to the Monsuno and escapes. They are now on the run from the military organization, S.T.O.R.M., while still looking for Chase's father. However, a mysterious organization also has his eyes set on Chase and the group's Monsuno. \n\n(Source: Animeultima) ",
+  "mean": 6.45,
+  "rank": 7167,
+  "popularity": 6582,
+  "num_list_users": 9252,
+  "num_scoring_users": 3905,
+  "nsfw": "white",
+  "created_at": "2012-03-03T19:45:48+00:00",
+  "updated_at": "2022-04-08T05:26:51+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2012,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1320,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 896,
+      "name": "Larx Entertainment"
+    }
+  ]
+}

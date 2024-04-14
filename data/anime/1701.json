@@ -1,0 +1,64 @@
+{
+  "id": 1701,
+  "title": "Boku no Marie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/72904.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/72904l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Metal Angel Marie"
+    ],
+    "en": "My Dear Marie",
+    "ja": "ぼくのマリー"
+  },
+  "start_date": "1996-03-06",
+  "end_date": "1996-08-21",
+  "synopsis": "Ever met the perfect girl? Did she have the perfect boyfriend? Feel like you can't compete? Why not build your own? When an amateur mad scientist attempts to build a robotic duplicate of this dream girl, Marie is the result. Of course, there are the usual unexpected complications. He built her so well that Marie has a mind of her own and a whole host of questions to go with it. The same questions that each of us ask of life. Where did I come from? Why am I here? Why do I look just like that girl over there?! Well, perhaps we don’t all have to worry about that, but Marie does!",
+  "mean": 6.28,
+  "rank": 8177,
+  "popularity": 8179,
+  "num_list_users": 5440,
+  "num_scoring_users": 2073,
+  "nsfw": "white",
+  "created_at": "2006-11-30T02:28:42+00:00",
+  "updated_at": "2022-04-08T02:11:26+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1996,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1736,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

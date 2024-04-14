@@ -1,0 +1,46 @@
+{
+  "id": 32845,
+  "title": "Ishitsubutsu Toriatsukaijo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/78752.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/78752l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ishitsubutsu Toriatsukaijyo"
+    ],
+    "en": "",
+    "ja": "遺失物取扱所"
+  },
+  "start_date": "2012-05-27",
+  "end_date": "2012-05-27",
+  "synopsis": "A music video for Suck a Stew Dry's song \"Ishitsubutsu Toriatsukaijo\". ",
+  "mean": 5.67,
+  "popularity": 17770,
+  "num_list_users": 353,
+  "num_scoring_users": 175,
+  "nsfw": "white",
+  "created_at": "2016-02-28T18:54:35+00:00",
+  "updated_at": "2016-02-28T18:54:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 265,
+  "rating": "pg_13",
+  "studios": []
+}

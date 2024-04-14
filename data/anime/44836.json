@@ -1,0 +1,44 @@
+{
+  "id": 44836,
+  "title": "Zheng He 1405: Mo Hai Xun Zong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1542/127255.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1542/127255l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Voyage Extraordinaire",
+    "ja": "郑和1405:魔海寻踪"
+  },
+  "start_date": "2013-11-29",
+  "end_date": "2013-11-29",
+  "synopsis": "",
+  "rank": 15205,
+  "popularity": 22980,
+  "num_list_users": 93,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2020-12-17T15:04:14+00:00",
+  "updated_at": "2022-08-22T07:24:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 5918,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": 56148,
+  "title": "Gyakusou Shoujo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1672/137480.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1672/137480l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "逆走少女"
+  },
+  "start_date": "2020-03-29",
+  "end_date": "2020-03-29",
+  "synopsis": "Animated videoclip of Nanawo Akari's song Gyakusou Shoujo, showing characters from Karameru.",
+  "popularity": 22518,
+  "num_list_users": 102,
+  "num_scoring_users": 56,
+  "nsfw": "white",
+  "created_at": "2023-07-31T18:02:54+00:00",
+  "updated_at": "2023-08-01T06:26:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 236,
+  "rating": "pg_13",
+  "studios": []
+}

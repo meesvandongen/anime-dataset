@@ -1,0 +1,50 @@
+{
+  "id": 42880,
+  "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1757/125694.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1757/125694l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Yu Yu Hakusho Opening & Ending Encyclopedia",
+    "ja": "幽☆遊☆白書: オープニング エンディング大百科"
+  },
+  "start_date": "1995-10-20",
+  "end_date": "1995-10-20",
+  "synopsis": "A special that acts as an epilogue to Yu Yu Hakusho, with the opening and ending songs from the anime interspersed throughout.\n",
+  "mean": 6.83,
+  "rank": 5040,
+  "popularity": 11078,
+  "num_list_users": 2106,
+  "num_scoring_users": 743,
+  "nsfw": "white",
+  "created_at": "2020-09-14T03:21:44+00:00",
+  "updated_at": "2022-10-30T17:47:09+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1260,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

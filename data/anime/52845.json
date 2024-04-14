@@ -1,0 +1,44 @@
+{
+  "id": 52845,
+  "title": "Odo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1191/127266.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1191/127266l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "踊"
+  },
+  "start_date": "2021-04-27",
+  "end_date": "2021-04-27",
+  "synopsis": "Music video for the song Odo by Ado.",
+  "mean": 7.48,
+  "popularity": 12685,
+  "num_list_users": 1219,
+  "num_scoring_users": 785,
+  "nsfw": "white",
+  "created_at": "2022-08-20T22:10:52+00:00",
+  "updated_at": "2022-08-22T08:25:31+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 208,
+  "rating": "pg_13",
+  "studios": []
+}

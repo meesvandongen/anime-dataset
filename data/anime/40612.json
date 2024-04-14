@@ -1,0 +1,46 @@
+{
+  "id": 40612,
+  "title": "Pokke",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1546/103649.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1546/103649l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Pocket"
+    ],
+    "en": "",
+    "ja": "ポッケ"
+  },
+  "start_date": "2015-10-01",
+  "end_date": "2015-10-01",
+  "synopsis": "Music video for the song Pokke by Japanese pop group DANCE EARTH PARTY, featuring female performance group Happiness, that aired on NHK's Minna no Uta program. The video depicts the various items stored by a boy in his pockets from the perspective of the family washing machine.",
+  "popularity": 20217,
+  "num_list_users": 204,
+  "num_scoring_users": 94,
+  "nsfw": "white",
+  "created_at": "2019-10-23T04:57:45+00:00",
+  "updated_at": "2019-11-26T17:16:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 142,
+  "rating": "g",
+  "studios": []
+}

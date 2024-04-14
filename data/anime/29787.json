@@ -1,0 +1,69 @@
+{
+  "id": 29787,
+  "title": "Gochuumon wa Usagi desu ka??",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/76702.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/76702l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gochuumon wa Usagi desu ka? 2",
+      "GochiUsa 2"
+    ],
+    "en": "Is the Order a Rabbit??",
+    "ja": "ご注文はうさぎですか??"
+  },
+  "start_date": "2015-10-10",
+  "end_date": "2015-12-26",
+  "synopsis": "With a new year comes new adventures, especially at the Rabbit House! Since her arrival at the café, Kokoa Hoto has become accustomed to her new life as a waitress even though the Rabbit House isn't the rabbit paradise she initially envisioned it to be. Life is pleasant, and she enjoys spending time both working and playing with her friends and fellow waitresses Chino Kafuu, a cute middle school student with a fuzzy bunny companion named Tippy, and Rize Tedeza, the pig-tailed daughter of a soldier who is readily armed for any scenario.\n\nTogether with Chiya Ujimatsu and Sharo Kirima, who also work at neighboring cafés in town, the Rabbit House crew gets involved in all sorts of crazy adventures. Throughout these adventures, the girls encounter troubled novelists, rival cafes, secret treasure, and... alcoholic chocolates?\n\n[Written by MAL Rewrite]",
+  "mean": 7.77,
+  "rank": 1044,
+  "popularity": 1698,
+  "num_list_users": 131859,
+  "num_scoring_users": 59888,
+  "nsfw": "white",
+  "created_at": "2015-01-26T13:43:48+00:00",
+  "updated_at": "2022-11-12T08:09:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "21:30"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    },
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

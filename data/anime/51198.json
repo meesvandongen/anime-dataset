@@ -1,0 +1,51 @@
+{
+  "id": 51198,
+  "title": "Xing Hai Qishi: Xinghuo Chongran",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1523/121307.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1523/121307l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Xing Hai Qishi Episode 15"
+    ],
+    "en": "Knights on Debris: Spark Reignited",
+    "ja": "星骸骑士之星火重燃"
+  },
+  "start_date": "2022-01-01",
+  "end_date": "2022-01-01",
+  "synopsis": "The season finale of the second half of Xing Hai Qishi.",
+  "mean": 6.38,
+  "rank": 7546,
+  "popularity": 16327,
+  "num_list_users": 468,
+  "num_scoring_users": 165,
+  "nsfw": "white",
+  "created_at": "2022-03-08T19:56:01+00:00",
+  "updated_at": "2024-01-27T16:14:35+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 1920,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 56553,
+  "title": "Kurayukaba",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1885/141679.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1885/141679l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クラユカバ"
+  },
+  "start_date": "2024-04-12",
+  "end_date": "2024-04-12",
+  "synopsis": "Business is slow for the Ootsuji Detective Agency. Soutarou and his juvenile sidekick Saki will take any job that comes along, even one that sounds like a lot more risk than it’s worth. It’s festival season in the city but away from the public eye, a wave of mysterious disappearances has occurred. A newspaperman hires Soutarou to investigate, suggesting that answers might lie somewhere in the Dark, the notorious, anarchic maze that is the city’s physical, social, and moral underground. Soutarou subcontracts the gig to Saki, but soon enough regrets it when the kid also goes missing. Now Soutarou is obligated to venture into the Dark himself, and confront its dubious subterranean denizens, including the malicious Laughing Masks gang and the renegade police squad piloting the fearsome Demon 463 armored train!\n\n(Source: Fantasia, edited)",
+  "mean": 6.55,
+  "rank": 6533,
+  "popularity": 9170,
+  "num_list_users": 3903,
+  "num_scoring_users": 297,
+  "nsfw": "white",
+  "created_at": "2023-09-05T18:30:13+00:00",
+  "updated_at": "2024-02-29T03:09:17+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 3824,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2895,
+      "name": "Team OneOne"
+    }
+  ]
+}

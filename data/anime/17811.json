@@ -1,0 +1,47 @@
+{
+  "id": 17811,
+  "title": "Kyoto Animation: Hassou-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/69193.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/69193l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kyoto Animation CM: Hassou-hen"
+    ],
+    "en": "Imaginations",
+    "ja": "京都アニメーションCM「発想編」"
+  },
+  "start_date": "2012-04",
+  "end_date": "2012-04",
+  "synopsis": "While waiting in a park for someone to arrive, a certain person's mind begins to wander: in daydreams and visions, they watch parts of their surroundings transform into the one they await as they descend into these fantasies.\n\n[Written by MAL Rewrite]",
+  "mean": 5.67,
+  "popularity": 8743,
+  "num_list_users": 4552,
+  "num_scoring_users": 2341,
+  "nsfw": "white",
+  "created_at": "2013-03-14T00:31:17+00:00",
+  "updated_at": "2023-12-26T15:43:44+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

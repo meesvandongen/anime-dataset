@@ -1,0 +1,61 @@
+{
+  "id": 38206,
+  "title": "Senjuushi: Gendaijuu no Heya",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1807/97904.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1807/97904l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Thousand Noble Musketeers: Contemporary Gun Group",
+      "Senjuushi Specials",
+      "Senjuushi Mini Anime"
+    ],
+    "en": "",
+    "ja": "千銃士 ミニアニメ 現代銃の部屋"
+  },
+  "start_date": "2018-09-26",
+  "end_date": "2019-02-27",
+  "synopsis": "Specials included in the DVD and Blu-ray Volumes of Senjuushi.",
+  "rank": 17782,
+  "popularity": 13461,
+  "num_list_users": 979,
+  "num_scoring_users": 89,
+  "nsfw": "white",
+  "created_at": "2018-08-21T15:44:01+00:00",
+  "updated_at": "2022-08-22T08:12:19+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 17,
+  "start_season": {
+    "year": 2018,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 113,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 38015,
+  "title": "Shika no Ou: Yuna to Yakusoku no Tabi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1263/119932.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1263/119932l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Deer King",
+    "ja": "鹿の王 ユナと約束の旅"
+  },
+  "start_date": "2022-02-04",
+  "end_date": "2022-02-04",
+  "synopsis": "In the years following a vicious war, the Empire of Zol now controls the land and citizens of rival Aquafa—except for Aquafa's Fire Horse Territory, where wild dogs that once carried the deadly Black Wolf Fever continue to roam free. When a pack of dogs race through a Zol-controled mine, Van, an enslaved former soldier, and a young girl named Yuna are both bitten, but manage to escape as the sole survivors of the attack. Finally free, Van and Yuna seek out a simple, peaceful existence in the countryside. But as the deadly disease once again runs rampant, they find themselves at the crossroads of a struggle much larger than any one nation.\n\n(Source: GKIDS, edited)",
+  "mean": 6.89,
+  "rank": 4789,
+  "popularity": 4163,
+  "num_list_users": 28170,
+  "num_scoring_users": 5006,
+  "nsfw": "white",
+  "created_at": "2018-07-21T06:45:10+00:00",
+  "updated_at": "2022-12-29T08:35:50+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 6801,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

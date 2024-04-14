@@ -1,0 +1,86 @@
+{
+  "id": 11319,
+  "title": "Zero no Tsukaima F",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/75559.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/75559l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zero no Tsukaima Final Series",
+      "Zero's Familiar Final Series",
+      "Zero no Tsukaima S4"
+    ],
+    "en": "The Familiar of Zero F",
+    "ja": "ゼロの使い魔F"
+  },
+  "start_date": "2012-01-07",
+  "end_date": "2012-03-24",
+  "synopsis": "Saito Hiraga and Louise Françoise Le Blanc de La Vallière go on the offensive after the events of Zero no Tsukaima: Princesses no Rondo. Together, they face off against King Joseph in the Holy City of Romalia with the help of two others who control the power of the \"void.\" But in the midst of the many conflicts ahead of them, an ancient evil begins to stir in the shadows. \n\nWill their close bonds blossom into something more or will they be shattered through the ever increasing difficulty of the tasks that they must undertake? Zero no Tsukaima F follows the story of Louise and Saito as they face their final challenges together.\n\n[Written by MAL Rewrite]",
+  "mean": 7.43,
+  "rank": 2116,
+  "popularity": 543,
+  "num_list_users": 420150,
+  "num_scoring_users": 242309,
+  "nsfw": "white",
+  "created_at": "2011-08-20T13:50:54+00:00",
+  "updated_at": "2023-09-25T16:06:58+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "08:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

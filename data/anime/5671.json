@@ -1,0 +1,66 @@
+{
+  "id": 5671,
+  "title": "Saki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/73933.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/73933l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "咲-Saki-"
+  },
+  "start_date": "2009-04-06",
+  "end_date": "2009-09-28",
+  "synopsis": "Due to childhood circumstances, first-year high school student Saki Miyanaga hates anything related to mahjong. When she does play the game, she keeps a low profile to avoid standing out. One day, her friend Kyoutarou Suga drags her along to the school's mahjong club. There, she meets Nodoka Haramura, the champion of the previous year's national middle school mahjong championship, and Yuuki Kataoka, a fellow club member.\n\nAs the club play a few rounds, Saki attempts to hide her talent. However, the club president, Hisa Takei, notices Saki's unusual playstyle. Realizing her potential, she puts Saki's real ability to the test—proving her to be more talented than expected. This revelation damages Nodoka's pride, and their relationship gets off to a rocky start.\n\nSaki ends up joining the club, and after clearing up the misunderstandings between her and Nodoka, friendship blooms between them. As Saki slowly warms up to mahjong once again, she and the rest of her club only have one goal—to win nationals!\n\n[Written by MAL Rewrite]",
+  "mean": 7.46,
+  "rank": 2027,
+  "popularity": 2154,
+  "num_list_users": 94175,
+  "num_scoring_users": 38054,
+  "nsfw": "white",
+  "created_at": "2008-12-04T16:11:25+00:00",
+  "updated_at": "2023-08-24T03:07:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "02:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    },
+    {
+      "id": 78,
+      "name": "Picture Magic"
+    }
+  ]
+}

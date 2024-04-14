@@ -1,0 +1,57 @@
+{
+  "id": 49620,
+  "title": "Fei Ren Zai 1st Season Part 5",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1584/117253.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1584/117253l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shenme Gui 1st Season Part 5",
+      "Non-human 1st Season Part 5"
+    ],
+    "en": "",
+    "ja": "非人哉 第五季"
+  },
+  "start_date": "2021-07-21",
+  "end_date": "2021-09-29",
+  "synopsis": "",
+  "mean": 6.42,
+  "rank": 7338,
+  "popularity": 15526,
+  "num_list_users": 553,
+  "num_scoring_users": 114,
+  "nsfw": "white",
+  "created_at": "2021-08-18T18:03:55+00:00",
+  "updated_at": "2023-01-02T10:27:31+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2076,
+      "name": "Fenz"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 6593,
+  "title": "Elmer no Bouken: My Father's Dragon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1042/134307.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1042/134307l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Elmer no Boken: My Father's Dragon"
+    ],
+    "en": "Elmer's Adventure: My Father's Dragon",
+    "ja": "エルマーの冒険"
+  },
+  "start_date": "1997-07-05",
+  "end_date": "1997-07-05",
+  "synopsis": "Elmer is told by a traveling cat about a baby dragon who is being held captive and mistreated on the scary Wild Island. Elmer decides to investigate and battles tigers, crocodiles and gorillas in order to rescue the little dragon. \n\n(Source: inbaseline) ",
+  "mean": 5.99,
+  "rank": 9621,
+  "popularity": 15775,
+  "num_list_users": 524,
+  "num_scoring_users": 130,
+  "nsfw": "white",
+  "created_at": "2009-06-10T11:54:44+00:00",
+  "updated_at": "2013-04-11T15:21:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1997,
+    "season": "summer"
+  },
+  "source": "book",
+  "average_episode_duration": 5872,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1009,
+      "name": "Aubec"
+    }
+  ]
+}

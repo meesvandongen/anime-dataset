@@ -1,0 +1,51 @@
+{
+  "id": 45032,
+  "title": "Da Xiang Lin Wang: Yi Pao Cheng Ming",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1984/123175.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1984/123175l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Instant Hit of The Elephant Lin Wang",
+    "ja": "大象林旺之一炮成名"
+  },
+  "start_date": "2017-08-04",
+  "synopsis": "",
+  "rank": 19071,
+  "popularity": 23319,
+  "num_list_users": 88,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2020-12-20T00:57:57+00:00",
+  "updated_at": "2022-04-21T19:12:29+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 4585,
+  "rating": "pg",
+  "studios": []
+}

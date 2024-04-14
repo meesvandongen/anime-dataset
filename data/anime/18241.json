@@ -1,0 +1,55 @@
+{
+  "id": 18241,
+  "title": "Himitsukessha Taka no Tsume MAX",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/49315.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/49315l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Eagle Talon MAX"
+    ],
+    "en": "",
+    "ja": "秘密結社鷹の爪 MAX"
+  },
+  "start_date": "2013-04-05",
+  "end_date": "2014-02-21",
+  "synopsis": "Sequel to the previous season.",
+  "mean": 5.97,
+  "rank": 9708,
+  "popularity": 15096,
+  "num_list_users": 616,
+  "num_scoring_users": 128,
+  "nsfw": "white",
+  "created_at": "2013-04-08T09:44:04+00:00",
+  "updated_at": "2014-02-23T18:52:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 38,
+  "start_season": {
+    "year": 2013,
+    "season": "spring"
+  },
+  "average_episode_duration": 330,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

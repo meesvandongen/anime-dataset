@@ -1,0 +1,58 @@
+{
+  "id": 2132,
+  "title": "Inukami! The Movie: Tokumei Reiteki Sousakan Karina Shirou!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/2268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/2268l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Inukami! The Movie",
+    "ja": "いぬかみっ! THE MOVIE 特命霊的捜査官・仮名史郎っ!"
+  },
+  "start_date": "2007-04-21",
+  "end_date": "2007-04-21",
+  "synopsis": "In 2007, the Punishment of Sexual Perversions Law came into effect. The city is surrounded by a squadron wearing protective suits and they begin to arrest any who look like perversions. No wonder that Inukami Master Keita and Inukami Yoko are wanted for Class A perversions. What will happen to Keita, Yoko, Kaoru's Inukami, and the other lovely perversions? What about Karina?\n\n(Source: AniDB)",
+  "mean": 7.01,
+  "rank": 4271,
+  "popularity": 5139,
+  "num_list_users": 17252,
+  "num_scoring_users": 8458,
+  "nsfw": "gray",
+  "created_at": "2007-03-14T20:46:17+00:00",
+  "updated_at": "2020-12-18T23:02:29+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1584,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 35,
+      "name": "Seven Arcs"
+    }
+  ]
+}

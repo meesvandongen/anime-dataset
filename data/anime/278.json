@@ -1,0 +1,60 @@
+{
+  "id": 278,
+  "title": "Viewtiful Joe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1/278.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1/278l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Beautiful Joe"
+    ],
+    "en": "",
+    "ja": "ビューティフル ジョー"
+  },
+  "start_date": "2004-10-02",
+  "end_date": "2005-09-24",
+  "synopsis": "Joe, a red-headed movie buff, and Silvia, his girlfriend, are having a bit of relationship trouble. Silvia feels that Joe is taking her for-granted and wants to do something together for once, so Joe decides to take her to see an old action movie featuring his favorite hero, Captain Blue. What started out as a cute movie date takes a turn for the worst when Silvia is pulled into the movie by the leader of the evil organization, Jado.\n\nJoe follows her into the mysterious \"Movieland,\" and is granted a powerful device known as a V-Watch by Captain Blue himself. With it, he transforms into the action hero named \"Viewtiful Joe\" and goes off to rescue his girlfriend before she can be used by Jado to take over the world. It's a long road to go from average Joe to full-blown hero, but he'll give it his all to save both his girl and the world—and he'll do it in the most \"view-ti-ful\" way possible.",
+  "mean": 6.75,
+  "rank": 5501,
+  "popularity": 5919,
+  "num_list_users": 11964,
+  "num_scoring_users": 5364,
+  "nsfw": "white",
+  "created_at": "2005-11-16T00:41:23+00:00",
+  "updated_at": "2022-11-23T20:48:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "07:00"
+  },
+  "source": "game",
+  "average_episode_duration": 1220,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 39720,
+  "title": "Mu Wang Zhi Wang: Xuan Guan Si",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1153/100598.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1153/100598l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "墓王之王 悬棺寺"
+  },
+  "start_date": "2017-12-07",
+  "end_date": "2018-04-19",
+  "synopsis": "",
+  "mean": 6.25,
+  "rank": 8303,
+  "popularity": 14639,
+  "num_list_users": 694,
+  "num_scoring_users": 181,
+  "nsfw": "white",
+  "created_at": "2019-04-13T16:10:10+00:00",
+  "updated_at": "2021-05-01T18:08:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1235,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2191,
+      "name": "BUILD DREAM"
+    }
+  ]
+}

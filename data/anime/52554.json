@@ -1,0 +1,64 @@
+{
+  "id": 52554,
+  "title": "15-fun de Wakaru: Kami no Tou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1088/126209.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1088/126209l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kami no Tou Recap"
+    ],
+    "en": "Tower of God in 15 Minutes",
+    "ja": "15分で分かる！『神之塔 -Tower of God-』"
+  },
+  "start_date": "2020-06-01",
+  "end_date": "2020-06-01",
+  "synopsis": "A digest video that recaps the contents of the TV anime Kami no Tou in 15 minutes.",
+  "mean": 5.82,
+  "rank": 10353,
+  "popularity": 12839,
+  "num_list_users": 1166,
+  "num_scoring_users": 368,
+  "nsfw": "white",
+  "created_at": "2022-07-29T06:59:53+00:00",
+  "updated_at": "2022-07-30T07:30:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 949,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

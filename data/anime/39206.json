@@ -1,0 +1,41 @@
+{
+  "id": 39206,
+  "title": "Ohanashi no Hana",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1771/98874.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1771/98874l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bloomed Words",
+    "ja": "おはなしの花"
+  },
+  "start_date": "2006-10",
+  "end_date": "2006-10",
+  "synopsis": "Short film by Amika Kubo and Seita Inoue, creatively animating a conversation between three people as they talk about traveling.",
+  "mean": 5.56,
+  "rank": 11393,
+  "popularity": 18977,
+  "num_list_users": 272,
+  "num_scoring_users": 106,
+  "nsfw": "white",
+  "created_at": "2019-02-06T02:28:03+00:00",
+  "updated_at": "2019-08-06T22:53:36+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 135,
+  "rating": "g",
+  "studios": []
+}

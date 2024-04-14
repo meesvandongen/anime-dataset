@@ -1,0 +1,40 @@
+{
+  "id": 51004,
+  "title": "Ima wo Kakeru Shoujo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1442/120905.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1442/120905l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Girl Who Leapt Present",
+    "ja": "今をかける少女"
+  },
+  "start_date": "2016-05-11",
+  "end_date": "2016-05-11",
+  "synopsis": "Music video for the song Ima wo Kakeru Shoujo written by Kano and sung by Miku Hatsune.\n\nIncluded in Kano's 1st Album \"nowhere\".",
+  "mean": 6.15,
+  "popularity": 18677,
+  "num_list_users": 290,
+  "num_scoring_users": 143,
+  "nsfw": "white",
+  "created_at": "2022-02-11T21:46:13+00:00",
+  "updated_at": "2022-02-11T21:52:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 263,
+  "rating": "g",
+  "studios": []
+}

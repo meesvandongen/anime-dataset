@@ -1,0 +1,60 @@
+{
+  "id": 17855,
+  "title": "Namiuchigiwa no Muromi-san: Pangea Chou Tairiku no Muromi-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/62207.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/62207l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Namiuchigiwa no Muromi-san OVA"
+    ],
+    "en": "",
+    "ja": "波打際のむろみさん パンゲア超大陸のむろみさん"
+  },
+  "start_date": "2013-08-16",
+  "end_date": "2013-08-16",
+  "synopsis": "Bundled with the ninth limited-edition volume of the manga.",
+  "mean": 6.7,
+  "rank": 5725,
+  "popularity": 6733,
+  "num_list_users": 8728,
+  "num_scoring_users": 4257,
+  "nsfw": "white",
+  "created_at": "2013-03-16T22:31:23+00:00",
+  "updated_at": "2021-05-02T16:02:33+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1637,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 37607,
+  "title": "Shounen to Mahou no Robot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1232/91413.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1232/91413l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "The Boy and Magic Robot",
+    "ja": "少年と魔法のロボット"
+  },
+  "start_date": "2013-08-01",
+  "end_date": "2013-08-01",
+  "synopsis": "A boy who loves to music but cannot sing in front of others receives an robot from a scientist. He teaches the robot music and singing so it can perform in his stead. Magically, it becomes its own person.\n\nThe music video represents how the Vocaloid franchise has given voice to many people who are too scared or too muddled in their own talents to sing on behalf of the music they created. And while it is a computer software, it's thanks to those peoples' creations that the Vocaloids themselves have gone on to have their own self-standing personas.",
+  "mean": 6.04,
+  "popularity": 17172,
+  "num_list_users": 397,
+  "num_scoring_users": 200,
+  "nsfw": "white",
+  "created_at": "2018-03-25T10:13:23+00:00",
+  "updated_at": "2018-05-04T18:58:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

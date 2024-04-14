@@ -1,0 +1,50 @@
+{
+  "id": 6641,
+  "title": "Tonari no 801-chan R",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/17047.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/17047l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "となりの801ちゃんR"
+  },
+  "start_date": "2009-09-10",
+  "end_date": "2009-09-10",
+  "synopsis": "A 90 second anime adaptation of the original Tonari no 801-chan manga about a 28 year-old salaryman otaku who has a 22 year-old co-worker girlfriend who is a fujoshi, or female otaku obsessed with yaoi. \n\n",
+  "mean": 5.69,
+  "rank": 10886,
+  "popularity": 9681,
+  "num_list_users": 3290,
+  "num_scoring_users": 1449,
+  "nsfw": "white",
+  "created_at": "2009-06-19T18:16:09+00:00",
+  "updated_at": "2018-05-24T12:58:41+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 100,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

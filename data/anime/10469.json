@@ -1,0 +1,65 @@
+{
+  "id": 10469,
+  "title": "Sayonara Zetsubou Sensei Special",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/75518.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/75518l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sayonara Zetsubou Sensei BD Box OVA",
+      "SZS Blu-ray Box Special"
+    ],
+    "en": "",
+    "ja": "さよなら絶望先生"
+  },
+  "start_date": "2012-01-31",
+  "end_date": "2012-01-31",
+  "synopsis": "A new special episode that was distributed to those who purchase all three Blu-ray box sets of Sayonara Zetsubou Sensei series on January 31, 2012. ",
+  "mean": 7.46,
+  "rank": 2028,
+  "popularity": 4984,
+  "num_list_users": 18866,
+  "num_scoring_users": 7917,
+  "nsfw": "white",
+  "created_at": "2011-03-18T13:09:10+00:00",
+  "updated_at": "2022-04-03T01:17:05+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

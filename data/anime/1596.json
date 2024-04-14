@@ -1,0 +1,66 @@
+{
+  "id": 1596,
+  "title": "Arcade Gamer Fubuki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1681/100065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1681/100065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Arcade Gamer Fubuki",
+    "ja": "アーケードゲーマーふぶき"
+  },
+  "start_date": "2002-02-25",
+  "end_date": "2003-01-25",
+  "synopsis": "Fubuki Sakuragasaki is a powerful gamer who, with the power of her Passion Panties, climbs up the ranks of the BAG (Best of Arcade Gamer) tournament to become the greatest Arcade Gamer in the world. However, the evil Gulasic Group is out to conquer the world through said tournament, and their gaming skills will prove to be a challenge. Fubuki must team up with the legendary Mr. Mystery to combat the four Gods of Gaming and make the world of arcade gaming safe for all. \n\n(Source: ANN)",
+  "mean": 5.28,
+  "rank": 12163,
+  "popularity": 7044,
+  "num_list_users": 7853,
+  "num_scoring_users": 2769,
+  "nsfw": "white",
+  "created_at": "2006-10-22T03:36:56+00:00",
+  "updated_at": "2024-03-10T20:03:56+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2002,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1770,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

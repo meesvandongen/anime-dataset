@@ -1,0 +1,52 @@
+{
+  "id": 23613,
+  "title": "Kakkun Cafe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/61157.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/61157l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "カッくんカフェ"
+  },
+  "start_date": "1984-09-22",
+  "end_date": "1984-09-22",
+  "synopsis": "Kakuei Kakkun Tanaka is a superhero who hangs out with his friends. In his misadventures, he becomes prime minister of Japan, visits New York and prevents a nuclear war.\n\n(Source: The Anime Encyclopedia)",
+  "rank": 15461,
+  "popularity": 17909,
+  "num_list_users": 342,
+  "num_scoring_users": 67,
+  "nsfw": "white",
+  "created_at": "2014-04-06T06:55:49+00:00",
+  "updated_at": "2019-01-05T10:12:06+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "average_episode_duration": 3540,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

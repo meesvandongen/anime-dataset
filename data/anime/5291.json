@@ -1,0 +1,56 @@
+{
+  "id": 5291,
+  "title": "Hokuto no Ken Zero: Kenshirou Den",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/76902.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/76902l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shin Kyuuseishu Densetsu Hokuto no Ken Zero Kenshirou-den"
+    ],
+    "en": "Fist of the North Star: Legend of Kenshiro",
+    "ja": "真救世主伝説 北斗の拳 ZERO ケンシロウ伝"
+  },
+  "start_date": "2008-10-11",
+  "end_date": "2008-10-11",
+  "synopsis": "Last of the Shin Kyuuseishu Densetsu pentalogy. A prequel set between Kenshiro's defeat at the hands of Shin and the beginning of the manga. \n\n(Source: Wikipedia)",
+  "mean": 7.47,
+  "rank": 1971,
+  "popularity": 5996,
+  "num_list_users": 11582,
+  "num_scoring_users": 4825,
+  "nsfw": "white",
+  "created_at": "2008-09-20T07:51:11+00:00",
+  "updated_at": "2023-10-10T09:28:21+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5400,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

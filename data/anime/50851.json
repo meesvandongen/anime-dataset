@@ -1,0 +1,41 @@
+{
+  "id": 50851,
+  "title": "U Utsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1991/120565.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1991/120565l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "U Shoot"
+    ],
+    "en": "",
+    "ja": "U撃つ"
+  },
+  "start_date": "2021-06-22",
+  "end_date": "2021-06-22",
+  "synopsis": "Official music video for the song U Utsu by Rie Takahashi.",
+  "popularity": 20224,
+  "num_list_users": 203,
+  "num_scoring_users": 99,
+  "nsfw": "gray",
+  "created_at": "2022-01-18T19:51:53+00:00",
+  "updated_at": "2022-02-11T19:30:54+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 213,
+  "rating": "pg_13",
+  "studios": []
+}

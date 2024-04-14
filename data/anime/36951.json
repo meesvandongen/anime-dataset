@@ -1,0 +1,65 @@
+{
+  "id": 36951,
+  "title": "Yuu☆Yuu☆Hakusho: Two Shots/Noru ka Soru ka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1191/97154.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1191/97154l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yuu Yuu Hakusho, YuYu Hakusho",
+      "Yuu☆Yuu☆Hakusho Specials"
+    ],
+    "en": "",
+    "ja": "幽☆遊☆白書 完全新作アニメーション"
+  },
+  "start_date": "2018-10-26",
+  "end_date": "2018-10-26",
+  "synopsis": "Special included in the 25th anniversary Blu-ray box set.\n\nThe special will cover the \"Two Shot\" bonus chapter from the manga's seventh volume, which tells the story of how Kurama and Hiei met, as well as the manga's penultimate chapter \"All or Nothing.\" which shows the main characters reuniting to solve a hostage crisis in the spirit world.\n\n(Source: ANN)",
+  "mean": 7.4,
+  "rank": 2260,
+  "popularity": 4757,
+  "num_list_users": 20976,
+  "num_scoring_users": 8246,
+  "nsfw": "white",
+  "created_at": "2017-12-16T05:28:57+00:00",
+  "updated_at": "2023-10-07T12:15:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

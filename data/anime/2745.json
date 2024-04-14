@@ -1,0 +1,69 @@
+{
+  "id": 2745,
+  "title": "Jigoku Sensei Nube OVA",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1091/103240.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1091/103240l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Hell Teacher Nube",
+    "ja": "地獄先生ぬ～べ～"
+  },
+  "start_date": "1998-06-12",
+  "end_date": "1999-05-14",
+  "synopsis": "Continuation of the TV series.",
+  "mean": 7.11,
+  "rank": 3759,
+  "popularity": 9480,
+  "num_list_users": 3515,
+  "num_scoring_users": 1205,
+  "nsfw": "white",
+  "created_at": "2007-06-27T19:38:02+00:00",
+  "updated_at": "2020-09-23T06:19:45+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

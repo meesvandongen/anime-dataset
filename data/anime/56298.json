@@ -1,0 +1,52 @@
+{
+  "id": 56298,
+  "title": "Hello Carbot Season 6 Specials: Dongmul Gujodae",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1400/137807.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1400/137807l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "헬로카봇 스페셜 - 동물 구조대"
+  },
+  "start_date": "2019-01-27",
+  "end_date": "2019-02-17",
+  "synopsis": "",
+  "rank": 20026,
+  "popularity": 23996,
+  "num_list_users": 78,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2023-08-15T10:42:30+00:00",
+  "updated_at": "2023-08-16T13:42:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 660,
+  "rating": "pg",
+  "studios": []
+}

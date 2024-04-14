@@ -1,0 +1,44 @@
+{
+  "id": 35163,
+  "title": "Kenta to Nyanta no Kuruma Daisuki!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/84775.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/84775l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ケンタとニャンタのクルマ大好き！"
+  },
+  "start_date": "2009-07",
+  "end_date": "2009-07",
+  "synopsis": "Kenta and Nyanta learn about the importance of child seats and seat belts.",
+  "rank": 15580,
+  "popularity": 20523,
+  "num_list_users": 187,
+  "num_scoring_users": 31,
+  "nsfw": "white",
+  "created_at": "2017-03-18T07:09:06+00:00",
+  "updated_at": "2017-07-22T23:08:31+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 900,
+  "rating": "g",
+  "studios": []
+}

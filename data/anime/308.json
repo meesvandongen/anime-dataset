@@ -1,0 +1,65 @@
+{
+  "id": 308,
+  "title": "Zettai Shounen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/4905.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/4905l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Absolute Boy",
+      "Zettai Shonen"
+    ],
+    "en": "",
+    "ja": "絶対少年"
+  },
+  "start_date": "2005-05-21",
+  "end_date": "2005-11-19",
+  "synopsis": "Oftentimes, people are most vulnerable when they are lonely and unable to get along with those around them. Isolation is felt more keenly amongst a crowd, so some will try to find solace in the strangest of places, where the unknown lurks. Such people include Ayumu Aizawa, a former city boy now living in the countryside of Tana, and Kisa Tanigawa, a young girl who has a hard time relating to others. What these two share in common is a feeling that their life has gone astray. \n\nZettai Shounen tells a story of strange phenomena affecting two different settings, with no explanations of their origin or sudden appearance. All that is known is that these phenomena seem to center on individuals with mixed emotions toward themselves and others.\n\n[Written by MAL Rewrite]",
+  "mean": 6.86,
+  "rank": 4899,
+  "popularity": 4793,
+  "num_list_users": 20681,
+  "num_scoring_users": 4028,
+  "nsfw": "white",
+  "created_at": "2005-11-18T03:33:13+00:00",
+  "updated_at": "2022-12-13T12:47:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2005,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "08:06"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 38524,
+  "title": "Shingeki no Kyojin Season 3 Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Attack on Titan Season 3 Part 2",
+    "ja": "進撃の巨人 Season3 Part.2"
+  },
+  "start_date": "2019-04-29",
+  "end_date": "2019-07-01",
+  "synopsis": "Seeking to restore humanity's diminishing hope, the Survey Corps embark on a mission to retake Wall Maria, where the battle against the merciless \"Titans\" takes the stage once again.\n\nReturning to the tattered Shiganshina District that was once his home, Eren Yeager and the Corps find the town oddly unoccupied by Titans. Even after the outer gate is plugged, they strangely encounter no opposition. The mission progresses smoothly until Armin Arlert, highly suspicious of the enemy's absence, discovers distressing signs of a potential scheme against them. \n\nShingeki no Kyojin Season 3 Part 2 follows Eren as he vows to take back everything that was once his. Alongside him, the Survey Corps strive—through countless sacrifices—to carve a path towards victory and uncover the secrets locked away in the Yeager family's basement.\n\n[Written by MAL Rewrite]",
+  "mean": 9.05,
+  "rank": 5,
+  "popularity": 21,
+  "num_list_users": 2266072,
+  "num_scoring_users": 1580246,
+  "nsfw": "white",
+  "created_at": "2018-10-14T18:13:45+00:00",
+  "updated_at": "2023-10-01T22:11:49+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:10"
+  },
+  "source": "manga",
+  "average_episode_duration": 1435,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

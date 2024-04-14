@@ -1,0 +1,78 @@
+{
+  "id": 50606,
+  "title": "Ayakashi Triangle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1078/131921.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1078/131921l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "あやかしトライアングル"
+  },
+  "start_date": "2023-01-10",
+  "end_date": "2023-09-26",
+  "synopsis": "Ayakashi are strange, supernatural creatures invisible to the majority of people. Though most are harmless, some ayakashi attack humans to devour their life force. Exorcist ninjas are tasked with protecting people from these spiteful spirits.\n\nMatsuri Kazamaki is a young exorcist ninja born to a prestigious clan. His childhood friend, Suzu Kanade, is an ayakashi medium—an individual with immense vitality that attracts ayakashi. Matsuri deems all ayakashi threatening and wishes to keep Suzu as far from them as possible, but this clashes with her desire to remain close to them. One day, the pair encounters Shirogane, the \"King of Ayakashi,\" who is hellbent on consuming Suzu. As she is about to be eaten, Matsuri comes to the rescue and manages to seal the ayakashi's powers—but not before Shirogane takes revenge by turning him into a girl!\n\nUntil he finds a way to transform back, Matsuri must adjust to his new, peculiar lifestyle while fighting against hostile ayakashi. Moreover, Suzu is now conflicted about her feelings toward Matsuri—further plunging their relationship into a state of ambiguity.\n\n[Written by MAL Rewrite]",
+  "mean": 6.44,
+  "rank": 7227,
+  "popularity": 2617,
+  "num_list_users": 68149,
+  "num_scoring_users": 16926,
+  "nsfw": "gray",
+  "created_at": "2021-12-18T07:42:41+00:00",
+  "updated_at": "2023-03-21T23:47:35+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 65,
+      "name": "Magical Sex Shift"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1419,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 957,
+      "name": "Connect"
+    }
+  ]
+}

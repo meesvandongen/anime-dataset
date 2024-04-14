@@ -1,0 +1,50 @@
+{
+  "id": 33021,
+  "title": "Ragnastrike Angels",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/79268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/79268l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ラグナストライクエンジェルズ"
+  },
+  "start_date": "2016-04-03",
+  "end_date": "2016-06-19",
+  "synopsis": "In the near future, massive hostile beings called \"Fiarem\" are waging war on Earth. To defend the world from this alien threat, Japan unleashes a special team known as \"Ragna Strikers\"—six young women wielding advanced weaponry and the ability to grow to gigantic sizes. Ragnastrike Angels follows Ayano Anemori and her friends as they live their daily lives and battle the violent Fiarem.\n \n[Written by MAL Rewrite]",
+  "mean": 4.29,
+  "rank": 13177,
+  "popularity": 5726,
+  "num_list_users": 13056,
+  "num_scoring_users": 5154,
+  "nsfw": "white",
+  "created_at": "2016-03-25T23:59:50+00:00",
+  "updated_at": "2022-03-02T15:47:27+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:56"
+  },
+  "source": "game",
+  "average_episode_duration": 30,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 39886,
+  "title": "Umi e Kite",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1468/101154.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1468/101154l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta",
+      "Come to the Sea",
+      "Come to the Ocean"
+    ],
+    "en": "",
+    "ja": "海へ来て"
+  },
+  "start_date": "1984-08-20",
+  "end_date": "1984-08-20",
+  "synopsis": "Music video for the song Umi e Kite by Masako Mori that was featured on NHK's Minna no Uta program. The video was animated by Kouji Nanke.",
+  "mean": 5.76,
+  "popularity": 18360,
+  "num_list_users": 310,
+  "num_scoring_users": 162,
+  "nsfw": "white",
+  "created_at": "2019-05-29T19:00:51+00:00",
+  "updated_at": "2019-05-29T19:00:51+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1984,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "g",
+  "studios": []
+}

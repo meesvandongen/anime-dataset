@@ -1,0 +1,69 @@
+{
+  "id": 13119,
+  "title": "Hakuouki Movie 2: Shikon Soukyuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/12/71796.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/71796l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hakuoki Movie 2",
+      "Hakuouki Shinsengumi Kitan Movie 2"
+    ],
+    "en": "Hakuoki ~Demon of the Fleeting Blossom~ Warrior Spirit of the Blue Sky",
+    "ja": "劇場版 薄桜鬼 第二章 士魂蒼穹"
+  },
+  "start_date": "2014-03-08",
+  "end_date": "2014-03-08",
+  "synopsis": "Second part of two Hakuouki movies.",
+  "mean": 7.69,
+  "rank": 1262,
+  "popularity": 4622,
+  "num_list_users": 22329,
+  "num_scoring_users": 7208,
+  "nsfw": "white",
+  "created_at": "2012-02-26T17:21:45+00:00",
+  "updated_at": "2022-04-17T07:06:47+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 43,
+      "name": "Josei"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 5220,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

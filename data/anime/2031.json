@@ -1,0 +1,65 @@
+{
+  "id": 2031,
+  "title": "Shining Tears X Wind",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/2298.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/2298l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shining Tears Ex",
+      "Shining Tears Cross Wind"
+    ],
+    "en": "Shining Tears X Wind",
+    "ja": "シャイニング・ティアーズ・クロス・ウィンド"
+  },
+  "start_date": "2007-04-07",
+  "end_date": "2007-06-30",
+  "synopsis": "Mysterious disappearances are occurring one after the other in Tatsumi Town. Kiriya has a vision from a mysterious beautiful girl with pointy ears. A book talking for an alternative world is found. And Mao searching for her long lost friend, Zero, comes to our world. But what she didn’t expect is to find Souma and Kureha, and even less, to accidentally take them to her world. Now, Souma and Kureha have to find a way to come back. But other forces are playing their part in the darkness and Souma with Kureha will find that going back is harder than they first anticipated.\n\n(Source: ANN) ",
+  "mean": 6.47,
+  "rank": 7024,
+  "popularity": 3763,
+  "num_list_users": 34971,
+  "num_scoring_users": 12677,
+  "nsfw": "white",
+  "created_at": "2007-03-09T00:47:34+00:00",
+  "updated_at": "2022-03-29T04:57:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:30"
+  },
+  "source": "game",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

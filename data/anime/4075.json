@@ -1,0 +1,59 @@
+{
+  "id": 4075,
+  "title": "Super Robot Taisen OG: Divine Wars - Sorezore no Michi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/31081.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/31081l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Super Robot Taisen Original Generation: Divine Wars Special",
+      "SRWOG",
+      "Episode 26 DVD Special",
+      "Sorezore no Michi"
+    ],
+    "en": "Super Robot Wars Original Generation: Divine Wars Special",
+    "ja": "スーパーロボット大戦OG ディバイン・ウォーズ それぞれの路（みち）"
+  },
+  "start_date": "2007-10-26",
+  "end_date": "2007-10-26",
+  "synopsis": "This is considered episode 26 of the series which was only included on the final DVD. It primarily focuses on the aftermath of the final TV episode (25).",
+  "mean": 6.7,
+  "rank": 5742,
+  "popularity": 10153,
+  "num_list_users": 2796,
+  "num_scoring_users": 1030,
+  "nsfw": "white",
+  "created_at": "2008-03-09T02:05:57+00:00",
+  "updated_at": "2019-10-21T21:36:27+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 1785,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 3568,
+  "title": "Ganbarist! Shun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1867/132229.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1867/132229l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ganba Fly High",
+      "Persistor! Shun",
+      "Fly High",
+      "Shun the Gymnast",
+      "Gambalist! Shun"
+    ],
+    "en": "",
+    "ja": "ガンバリスト! 駿"
+  },
+  "start_date": "1996-07-01",
+  "end_date": "1997-03-10",
+  "synopsis": "First-year high school student Fujimaki Shun has a dream of becoming an olympic gold medalist as a gymnast. Having no previous training, Shun trusts his passion, boldly joins the gymnastics club, and sets out to pursue his goal.\n\nAlong the way, he meets his share of entertaining and supportive upper classmen, develops a romantic interest in his classmate, and learns about the happiness involved in devoting yourself to a sport.",
+  "mean": 7.24,
+  "rank": 3070,
+  "popularity": 9353,
+  "num_list_users": 3670,
+  "num_scoring_users": 1068,
+  "nsfw": "white",
+  "created_at": "2007-12-10T15:19:26+00:00",
+  "updated_at": "2021-03-07T22:38:44+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 1996,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1560,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

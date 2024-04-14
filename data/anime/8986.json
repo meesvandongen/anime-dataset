@@ -1,0 +1,58 @@
+{
+  "id": 8986,
+  "title": "Supernatural The Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/37135.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/37135l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Supernatural: The Anime Series",
+    "ja": "スーパーナチュラル・ザ・アニメーション"
+  },
+  "start_date": "2011-02-23",
+  "end_date": "2011-04-27",
+  "synopsis": "Monsters walk the earth. While some may refute their existence as myths or urban legends, the Winchester brothers—Sam and Dean—know all too well what dangers lurk out there in the dark. Driving around in their 1967 Chevrolet Impala, these brothers have made it their life's mission to destroy anything supernatural that would threaten human lives.\n\nFrom shapeshifters to werewolves, vampires, ghosts, and even demons, the Winchesters track down and kill every evil being they can find, while also searching for the creature that caused them so much personal tragedy.\n\n[Written by MAL Rewrite]\n",
+  "mean": 6.96,
+  "rank": 4471,
+  "popularity": 3916,
+  "num_list_users": 32321,
+  "num_scoring_users": 10559,
+  "nsfw": "white",
+  "created_at": "2010-06-10T22:58:52+00:00",
+  "updated_at": "2022-04-01T19:40:55+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

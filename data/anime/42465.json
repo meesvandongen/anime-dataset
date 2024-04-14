@@ -1,0 +1,63 @@
+{
+  "id": 42465,
+  "title": "Guan Hai Ce Zhi Tie Qi Xiong Guan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1686/108542.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1686/108542l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Guan Hai Ce 2nd Season",
+      "Strategies of Sea Observation 2"
+    ],
+    "en": "",
+    "ja": "观海策之铁骑雄关"
+  },
+  "start_date": "2020-04-26",
+  "end_date": "2020-07-26",
+  "synopsis": "Second season of Guan Hai Ce.",
+  "rank": 19804,
+  "popularity": 17433,
+  "num_list_users": 378,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2020-07-14T05:43:29+00:00",
+  "updated_at": "2020-08-03T05:41:59+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2020,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 1230,
+  "studios": [
+    {
+      "id": 2084,
+      "name": "Tong Ming Xuan"
+    }
+  ]
+}

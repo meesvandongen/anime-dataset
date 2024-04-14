@@ -1,0 +1,65 @@
+{
+  "id": 977,
+  "title": "Ginga Teikoku no Metsubou Gaiden: Aoki Ookami-tachi no Densetsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/26018.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/26018l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Legend of the Blue Wolf",
+      "Legend of the Four Horsemen",
+      "Hot Space Cowboys"
+    ],
+    "en": "The Legend of the Blue Wolves",
+    "ja": "銀河帝国の滅亡・外伝　蒼き狼たちの伝説"
+  },
+  "start_date": "1996-12-18",
+  "end_date": "1996-12-18",
+  "synopsis": "The overcrowding of Earth forced humanity to migrate to other planets and adapt accordingly. Spread across the solar system, the race continued to prosper—until Pluto was suddenly attacked by an unknown enemy. The complete annihilation of its population made clear the mysterious assailants' aim to destroy mankind. The invaders use their human victims' knowledge and energy to pilot giant mechanical bodies, and humanity has dubbed them Apocalypse out of fear.\n\nIn the year 2199, Second Lieutenant Jonathan Tyberius clears his screening tests and becomes qualified to undergo the most elite military training course—allowing him to develop the ability to pilot humanity’s own manned robots. Working through the tough military training, he gradually grows closer to his new roommate, Leonard Schteinberg.\n\nBeneath the facade of a disciplined army base, corruption runs deep. With a tyrannical predator calling the shots, and long-forgotten memories returning to haunt them, Jonathan and Leonard begin to suspect that their greatest enemy might not actually be the Apocalypse.\n\n[Written by MAL Rewrite]",
+  "mean": 5.42,
+  "popularity": 6923,
+  "num_list_users": 8244,
+  "num_scoring_users": 3721,
+  "nsfw": "gray",
+  "created_at": "2006-05-15T17:15:02+00:00",
+  "updated_at": "2023-01-24T10:34:09+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 12,
+      "name": "Hentai"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 2700,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 329,
+      "name": "Phoenix Entertainment"
+    }
+  ]
+}

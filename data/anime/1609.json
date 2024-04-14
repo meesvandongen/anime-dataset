@@ -1,0 +1,48 @@
+{
+  "id": 1609,
+  "title": "Mai-Otome Zwei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/7222.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/7222l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Otome Zwei"
+    ],
+    "en": "My-Otome Zwei",
+    "ja": "舞-乙HiME ZWEI"
+  },
+  "start_date": "2006-11-24",
+  "end_date": "2007-08-24",
+  "synopsis": "My-Otome Zwei takes place one year after the events of My-Otome. Arika is now a full-fledged Otome (though still under the tutelage of Miss Maria) and Nagi is incarcerated in a prison somewhere in Aries. The various nations are at peace with one another and plan to hold S.O.L.T. (Strategic Otome Limitation Talks) to discuss limiting the numbers of Otome.\n\nA mission to destroy a meteor threatening to collide with Earl sets into motion a chain of events which result in a mysterious shadowy figure attacking Garderobe and several Otome as well as a new, more powerful version of Slave appearing across the planet. To make matters worse, Queen Mashiro disappears following an argument with Arika. The series follows Arika's search for Mashiro as well as Garderobe's attempts to uncover the truth behind the shadowy figure.\n\n(Source: Wikipedia)",
+  "mean": 7.24,
+  "rank": 3029,
+  "popularity": 4927,
+  "num_list_users": 19313,
+  "num_scoring_users": 10379,
+  "nsfw": "white",
+  "created_at": "2006-10-25T09:36:04+00:00",
+  "updated_at": "2022-05-05T05:55:05+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2006,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1671,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

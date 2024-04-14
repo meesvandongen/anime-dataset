@@ -1,0 +1,50 @@
+{
+  "id": 52993,
+  "title": "Aikatsu! 10th Story: Mirai e no Starway",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1716/127765.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1716/127765l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイカツ！ 10th STORY ～未来へのSTARWAY～"
+  },
+  "start_date": "2022-07-15",
+  "end_date": "2022-07-15",
+  "synopsis": "",
+  "mean": 7.01,
+  "rank": 4253,
+  "popularity": 13445,
+  "num_list_users": 986,
+  "num_scoring_users": 260,
+  "nsfw": "white",
+  "created_at": "2022-09-09T11:52:21+00:00",
+  "updated_at": "2022-11-02T11:37:35+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

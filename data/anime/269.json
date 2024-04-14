@@ -1,0 +1,62 @@
+{
+  "id": 269,
+  "title": "Bleach",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/40451l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bleach",
+    "ja": "BLEACH - ブリーチ -"
+  },
+  "start_date": "2004-10-05",
+  "end_date": "2012-03-27",
+  "synopsis": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result.\n\nHowever, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world.\n\n[Written by MAL Rewrite]",
+  "mean": 7.94,
+  "rank": 706,
+  "popularity": 39,
+  "num_list_users": 1959344,
+  "num_scoring_users": 1127410,
+  "nsfw": "white",
+  "created_at": "2005-11-13T16:20:41+00:00",
+  "updated_at": "2023-02-16T15:19:59+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 366,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "18:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Pierrot"
+    }
+  ]
+}

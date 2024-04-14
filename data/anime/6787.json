@@ -1,0 +1,56 @@
+{
+  "id": 6787,
+  "title": "Goulart Knights: Evoked the Beginning Black",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/15684.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/15684l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Goulart Kishidan: Evoked the Beginning Black"
+    ],
+    "en": "Goulart Knights: Evoked the Beginning Black",
+    "ja": "グラール騎士団 Evoked the Beginning Black"
+  },
+  "start_date": "2010-12-25",
+  "end_date": "2010-12-25",
+  "synopsis": "Unidentified creatures \"Archon\" suddenly appear and bring the human beings to a crisis of extinction. A special corps \"Goulart Knights\" is formed to counter attack Archon. The knights have supernatural power to generate \"Holy Grail\" from their spirits and battle against Archon.",
+  "mean": 5.66,
+  "rank": 11049,
+  "popularity": 5972,
+  "num_list_users": 11690,
+  "num_scoring_users": 3800,
+  "nsfw": "white",
+  "created_at": "2009-07-11T10:17:16+00:00",
+  "updated_at": "2023-09-18T01:37:52+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 478,
+      "name": "Studio Blanc."
+    }
+  ]
+}

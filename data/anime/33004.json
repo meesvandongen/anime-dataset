@@ -1,0 +1,50 @@
+{
+  "id": 33004,
+  "title": "Tanaka-kun wa Kyou mo Kedaruge",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/79178.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/79178l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tanaka is Listless Today Too",
+    "ja": "田中くんは今日もけだるげ"
+  },
+  "start_date": "2016-04-07",
+  "end_date": "2016-07-01",
+  "synopsis": "A series of shorts featuring the characters from Tanaka-kun wa Itsumo Kedaruge in chibi form.",
+  "mean": 7.28,
+  "rank": 2802,
+  "popularity": 3491,
+  "num_list_users": 40727,
+  "num_scoring_users": 16394,
+  "nsfw": "white",
+  "created_at": "2016-03-24T14:47:28+00:00",
+  "updated_at": "2023-10-19T08:47:33+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 35,
+  "start_season": {
+    "year": 2016,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 30,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

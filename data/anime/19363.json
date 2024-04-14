@@ -1,0 +1,58 @@
+{
+  "id": 19363,
+  "title": "Gin no Saji 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/57995.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/57995l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Silver Spoon 2nd Season",
+    "ja": "銀の匙"
+  },
+  "start_date": "2014-01-10",
+  "end_date": "2014-03-28",
+  "synopsis": "Now accustomed to his life at Ooezo Agricultural High School, Yuugo Hachiken explores the deeper aspects of what school life really means. As Hachiken learns more about himself and earns the skills necessary for his everyday tasks, he is even offered the position of the Equestrian Club's vice-president. The new semester brings a variety of agricultural dilemmas and personal conflicts, but, nevertheless, Hachiken perseveres in order to discover his dream and continue working together with his friends.\n\n[Written by MAL Rewrite]",
+  "mean": 8.27,
+  "rank": 290,
+  "popularity": 1567,
+  "num_list_users": 145537,
+  "num_scoring_users": 89853,
+  "nsfw": "white",
+  "created_at": "2013-07-05T14:21:25+00:00",
+  "updated_at": "2023-01-17T00:27:47+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:50"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

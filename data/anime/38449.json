@@ -1,0 +1,54 @@
+{
+  "id": 38449,
+  "title": "Choujigen Kakumei Anime: Dimension High School",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1620/113392.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1620/113392l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "超次元革命アニメ Dimensionハイスクール"
+  },
+  "start_date": "2019-01-10",
+  "end_date": "2019-03-21",
+  "synopsis": "The high school boys transferred to an anime world while they are in cramming school. Since then, they start school life in the anime world they transferred in. \n\n(Source: MAL News)",
+  "mean": 5.13,
+  "rank": 12473,
+  "popularity": 6455,
+  "num_list_users": 9678,
+  "num_scoring_users": 2932,
+  "nsfw": "white",
+  "created_at": "2018-10-02T03:53:20+00:00",
+  "updated_at": "2023-01-13T16:05:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:00"
+  },
+  "source": "original",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 517,
+      "name": "Asmik Ace"
+    }
+  ]
+}

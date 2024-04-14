@@ -1,0 +1,58 @@
+{
+  "id": 759,
+  "title": "Tokyo Godfathers",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1480/132791.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1480/132791l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tokyo Godfathers",
+    "ja": "東京ゴッドファーザーズ"
+  },
+  "start_date": "2003-11-08",
+  "end_date": "2003-11-08",
+  "synopsis": "One Christmas Eve, Hana, Gin, and Miyuki are rummaging for presents through heaps of garbage when they chance upon an abandoned baby in the cold winter night. Appalled at the pitiful sight, Hana's maternal instincts kick in and she insists on finding the baby's biological mother to demand an explanation. Naming the baby Kiyoko—meaning pure child—they begin their search using the possible clues left alongside her: a mysterious key and a single note. However, their plans are soon thrown into disarray as they get caught up in a series of unprecedented events.\n\nTokyo Godfathers follows the journey of the trio as they stick together through thick and thin, hoping to deliver Kiyoko to her true home, and find their very own Christmas miracle.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.28,
+  "rank": 277,
+  "popularity": 826,
+  "num_list_users": 293393,
+  "num_scoring_users": 146922,
+  "nsfw": "white",
+  "created_at": "2006-02-18T13:44:59+00:00",
+  "updated_at": "2023-01-17T03:40:02+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2003,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 5520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2701,
+  "title": "Susie-chan to Marvy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/3640.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/3640l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Susie-chan & Marvy"
+    ],
+    "en": "Little Susie and Marvy",
+    "ja": "スージーちゃんとマービー"
+  },
+  "start_date": "1999-04-05",
+  "end_date": "2000-02-03",
+  "synopsis": "",
+  "rank": 13662,
+  "popularity": 16927,
+  "num_list_users": 415,
+  "num_scoring_users": 93,
+  "nsfw": "white",
+  "created_at": "2007-06-23T02:13:17+00:00",
+  "updated_at": "2010-11-24T13:30:54+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 104,
+  "start_season": {
+    "year": 1999,
+    "season": "spring"
+  },
+  "average_episode_duration": 900,
+  "studios": [
+    {
+      "id": 27,
+      "name": "Xebec"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 35191,
+  "title": "Free! Movie 2: Timeless Medley - Yakusoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/87931.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/87931l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Free! The Movie -Timeless Medley- the Promise",
+    "ja": "劇場版 Free!-Timeless Medley- 約束"
+  },
+  "start_date": "2017-07-01",
+  "end_date": "2017-07-01",
+  "synopsis": "Rin Matsuoka’s childhood friend, Sousuke Yamazaki, has recently transferred to Samezuka Academy. Upon their reunion, the two reminisce about their childhood days and reaffirm their wish to swim together. Now with Rin, Sousuke, Captain Mikoshiba’s younger brother Momotarou Mikoshiba, and hard-working Aiichirou Nitori, the Samezuka relay team is formed, and their friendship deepens. However, as tournaments, races, and training go on, the reason for Sousuke’s sudden return begins to trouble him and affect his swimming. Noticing Sousuke’s change, Rin pushes to uncover what is holding him back.\n\n[Written by MAL Rewrite]",
+  "mean": 7.65,
+  "rank": 1344,
+  "popularity": 3394,
+  "num_list_users": 42680,
+  "num_scoring_users": 13098,
+  "nsfw": "white",
+  "created_at": "2017-03-19T12:06:08+00:00",
+  "updated_at": "2022-04-22T19:28:48+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5861,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    },
+    {
+      "id": 929,
+      "name": "Animation Do"
+    }
+  ]
+}

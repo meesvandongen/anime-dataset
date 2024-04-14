@@ -1,0 +1,45 @@
+{
+  "id": 56938,
+  "title": "Hige no Oishasan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1206/141756.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1206/141756l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ひげのお医者さん"
+  },
+  "start_date": "1963-12",
+  "end_date": "1963-12",
+  "synopsis": "Music video for the song Hige no Oishasan by Bonny Jacks that was featured on NHK's Minna no Uta program. It is considered to be lost media.",
+  "popularity": 25934,
+  "num_list_users": 57,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2023-10-18T05:26:30+00:00",
+  "updated_at": "2024-03-03T16:20:48+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1963,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

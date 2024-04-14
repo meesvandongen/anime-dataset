@@ -1,0 +1,52 @@
+{
+  "id": 12569,
+  "title": "Himitsu no Akko-chan (Movie)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/35227.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/35227l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Himitsu no Akko-chan (1989)",
+      "Secret Little Akko"
+    ],
+    "en": "",
+    "ja": "ひみつのアッコちゃん"
+  },
+  "start_date": "1989-03-13",
+  "end_date": "1989-03-13",
+  "synopsis": "Taisho's father plans to construct an apartment building on a vacant land he owns behind his own house. The spot is a playing field for the kids in the neighborhood who will fight to keep it as it is.\n\n(Source: ANN)",
+  "mean": 6.1,
+  "rank": 9099,
+  "popularity": 13681,
+  "num_list_users": 923,
+  "num_scoring_users": 279,
+  "nsfw": "white",
+  "created_at": "2011-12-30T12:13:15+00:00",
+  "updated_at": "2020-05-20T15:04:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "winter"
+  },
+  "average_episode_duration": 1500,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

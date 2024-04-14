@@ -1,0 +1,68 @@
+{
+  "id": 8442,
+  "title": "Maze☆Bakunetsu Jikuu: Tenpen Kyoui no Giant",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/24234.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/24234l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Maze Bakunetsu Jikuu Movie"
+    ],
+    "en": "",
+    "ja": "MAZE☆爆熱時空 天変脅威の大巨人"
+  },
+  "start_date": "1998-04-25",
+  "end_date": "1998-04-25",
+  "synopsis": "Long time ago, there was peace until the giants decide to wake up after years and years of slumber.The three priestesses sisters who were guarding their shrine had to retreat to seek help and who better to ask Maze for help. \n\n(Source: Maze Of The Haze)",
+  "mean": 6.05,
+  "rank": 9361,
+  "popularity": 13179,
+  "num_list_users": 1058,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2010-03-21T15:51:45+00:00",
+  "updated_at": "2013-01-03T18:05:27+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 65,
+      "name": "Magical Sex Shift"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 2520,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

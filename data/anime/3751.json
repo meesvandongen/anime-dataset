@@ -1,0 +1,53 @@
+{
+  "id": 3751,
+  "title": "Sekai Meisaku Douwa: Mori wa Ikiteiru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1263/131904.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1263/131904l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Twelve Months",
+      "The Forest is Alive"
+    ],
+    "en": "",
+    "ja": "森は生きている"
+  },
+  "start_date": "1980-03-15",
+  "end_date": "1980-03-15",
+  "synopsis": "Twelve Months is the story of an orphaned girl named Anya. When a spoiled princess, who is also orphaned, sees a picture of a Galanthus, she immediately wants one. However, the Galanthus only blooms in spring, in the month of April. It is New Year's Eve and there was no way that such a flower can be found in the middle of the winter. The princess offers a basket of gold to anyone who can bring her a bag of Galanthus.",
+  "mean": 6.72,
+  "rank": 5642,
+  "popularity": 10600,
+  "num_list_users": 2435,
+  "num_scoring_users": 1050,
+  "nsfw": "white",
+  "created_at": "2008-01-21T08:09:34+00:00",
+  "updated_at": "2021-07-18T22:39:29+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1980,
+    "season": "winter"
+  },
+  "source": "book",
+  "average_episode_duration": 3900,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

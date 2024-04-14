@@ -1,0 +1,54 @@
+{
+  "id": 17117,
+  "title": "Aoi Kioku: Manmou Kaitaku to Shounen-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/45755.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/45755l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "蒼い記憶 満蒙開拓と少年たち"
+  },
+  "start_date": "1993-12-18",
+  "end_date": "1993-12-18",
+  "synopsis": "A class of Japanese youths volunteer for the war effort during WWII, but then get stranded in Manchuria.",
+  "mean": 6.14,
+  "rank": 8846,
+  "popularity": 14764,
+  "num_list_users": 671,
+  "num_scoring_users": 124,
+  "nsfw": "white",
+  "created_at": "2013-01-10T08:57:55+00:00",
+  "updated_at": "2020-02-17T01:51:08+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1993,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

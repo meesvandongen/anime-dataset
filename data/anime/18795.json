@@ -1,0 +1,54 @@
+{
+  "id": 18795,
+  "title": "Dagram vs. Round-Facer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/50183.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/50183l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "DOUGRAM vs ROUND-FACER"
+  },
+  "start_date": "1987-01-21",
+  "end_date": "1987-01-21",
+  "synopsis": "Flying Dougram battles in space.",
+  "mean": 4.87,
+  "rank": 12811,
+  "popularity": 13582,
+  "num_list_users": 947,
+  "num_scoring_users": 404,
+  "nsfw": "white",
+  "created_at": "2013-05-20T18:09:30+00:00",
+  "updated_at": "2019-07-25T22:19:43+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 172,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
+}

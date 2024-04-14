@@ -1,0 +1,45 @@
+{
+  "id": 32423,
+  "title": "Pretty x Cation The Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1753/104319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1753/104319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "PRETTY×CATION THE ANIMATION"
+  },
+  "start_date": "2016-03-25",
+  "end_date": "2016-07-29",
+  "synopsis": "Spring has come to Tokyo once again, except this year you're now living alone after your parents had to leave due to work. You're renting a room at an apartment run by your aunt, who bluntly asks you, \"Could it be that you're not interested in girls...?\" Well, of course you are! It's just that you haven't had much luck finding someone. \"Your youth is now. Go and find your love or you will regret it later.\" With just that little push, you feel a little confident that it's your time to fall in love. Yes, your love will begin to bloom now...\n\n(Source: VNDB)",
+  "mean": 7.16,
+  "popularity": 5837,
+  "num_list_users": 12392,
+  "num_scoring_users": 4571,
+  "nsfw": "gray",
+  "created_at": "2015-12-26T10:58:11+00:00",
+  "updated_at": "2022-08-12T15:23:52+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 1610,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 405,
+      "name": "T-Rex"
+    }
+  ]
+}

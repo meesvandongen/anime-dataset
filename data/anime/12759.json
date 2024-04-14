@@ -1,0 +1,46 @@
+{
+  "id": 12759,
+  "title": "Zokuzoku Mura no Obake-tachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/35845.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/35845l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zoku Zoku Mura no Obake-tachi"
+    ],
+    "en": "",
+    "ja": "ぞくぞく村のオバケたち"
+  },
+  "start_date": "1996-02-21",
+  "end_date": "1999-04-21",
+  "synopsis": "A succession of tales taken from the 1.3-million-selling children's books by Akiko Sueyoshi and Mako Taruishi, including Ram the Mummy, Obatan the Witch, The Childish Goblin, and Kitten Ghosts Goo, Soo and Pea.\n\n(Source: The Anime Encyclopedia)",
+  "rank": 15335,
+  "popularity": 18044,
+  "num_list_users": 330,
+  "num_scoring_users": 80,
+  "nsfw": "white",
+  "created_at": "2012-01-21T21:43:52+00:00",
+  "updated_at": "2020-03-31T13:41:15+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 1996,
+    "season": "winter"
+  },
+  "average_episode_duration": 1200,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

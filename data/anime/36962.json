@@ -1,0 +1,55 @@
+{
+  "id": 36962,
+  "title": "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1449/97894.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1449/97894l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shokugeki no Souma: San no Sara OVA",
+      "Shokugeki no Souma: San no Sara - Erina no Shin Seikatsu",
+      "Food Wars! The Third Plate OVA",
+      "Shokugeki no Souma 3rd Season OVA"
+    ],
+    "en": "Food Wars! The Third Plate OVA - Erina's New Life",
+    "ja": "食戟のソーマ 餐ノ皿 極星寮のえりな"
+  },
+  "start_date": "2018-05-02",
+  "end_date": "2018-05-02",
+  "synopsis": "Following the sudden changes to Tootsuki Culinary Academy's administration, Erina Nakiri runs away from home to escape the torment of her oppressive father. Taking refuge at Polar Star Dormitory, the chaotic environment she ends up in is a far cry from her usual refined lifestyle. However, with the help of her friends, Erina gradually finds her place among the dormitory's eccentric residents—creating memorable experiences outside the world of cooking along the way.\n\n[Written by MAL Rewrite]",
+  "mean": 7.46,
+  "rank": 1995,
+  "popularity": 2309,
+  "num_list_users": 83920,
+  "num_scoring_users": 35324,
+  "nsfw": "white",
+  "created_at": "2017-12-17T08:50:02+00:00",
+  "updated_at": "2022-10-05T10:16:43+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1434,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}

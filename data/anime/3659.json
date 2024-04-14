@@ -1,0 +1,55 @@
+{
+  "id": 3659,
+  "title": "Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/29990.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/29990l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaiketsu Zorori (Movie)"
+    ],
+    "en": "",
+    "ja": "まじめにふまじめ かいけつゾロリ なぞのお宝大さくせん"
+  },
+  "start_date": "2006-03-11",
+  "end_date": "2006-03-11",
+  "synopsis": "\"Unbelievable\" Zorori is a prankster fox determined to become the Prince of Mischief, with his very own castle and beautiful bride. While is notorious for his prank-making schemes, his ill-meaning plots often backfire against him, and can usually end up even benefiting or cheering up his targets, much to his dismay. Nevertheless, Zorori has the wits and intelligence to wriggle out of the tightest of all spots, and journeys with a pair of twin boars, Ishishi and Noshishi, in order to fulfill his long wished-for goal and at last prove to his deceased mother, Mama Zorori that he truly holds the potential to achieve his dreams.\n\n(Source: ANN)",
+  "mean": 6.36,
+  "rank": 7682,
+  "popularity": 14246,
+  "num_list_users": 786,
+  "num_scoring_users": 239,
+  "nsfw": "white",
+  "created_at": "2008-01-01T14:00:42+00:00",
+  "updated_at": "2022-03-08T05:39:00+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2006,
+    "season": "winter"
+  },
+  "average_episode_duration": 3180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    },
+    {
+      "id": 30,
+      "name": "Ajia-do"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 33808,
+  "title": "Girlfriend (Note)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/82065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/82065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Girlfriend (Onpu)"
+    ],
+    "en": "Girl Friend Note",
+    "ja": "ガールフレンド(♪)"
+  },
+  "start_date": "2016-10-22",
+  "end_date": "2016-11-05",
+  "synopsis": "One day, after the ending of World Dance Battle Royale, it has been unexpectedly decided that the nonet will work together with \"Ootori\" members from Ootoriutain High School to create a drama. The drama is an original story based on Cinderella with an arrangement. It has been decided that Momoko Asahina will play Cinderella and Miyabi Kunishiro the prince. Also, an unexpected role has been decided for Kokomi Shiina. A drama between a slightly different nonet and Ootori members has begun.\n\n(Sourc: MAL News)",
+  "mean": 6.02,
+  "rank": 9498,
+  "popularity": 9172,
+  "num_list_users": 3899,
+  "num_scoring_users": 769,
+  "nsfw": "white",
+  "created_at": "2016-08-09T12:16:12+00:00",
+  "updated_at": "2022-04-01T14:16:31+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2016,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 680,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 354,
+      "name": "Encourage Films"
+    }
+  ]
+}

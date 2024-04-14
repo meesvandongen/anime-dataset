@@ -1,0 +1,72 @@
+{
+  "id": 28215,
+  "title": "Saint Seiya: Soul of Gold",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1052/122018.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1052/122018l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Saint Seiya: Ougon Tamashii"
+    ],
+    "en": "",
+    "ja": "聖闘士星矢 -黄金魂 soul of gold-"
+  },
+  "start_date": "2015-04-11",
+  "end_date": "2015-09-26",
+  "synopsis": "In the Underworld, during the fight against Hades, the 12 Gold Saints gave up their lives to destroy the Wailing Wall and allow Seiya and his friends to keep moving forward. Aioria and the Gold Saints, who should have disappeared, come back to life in this beautiful Earth full of light. How have they resurrected if they were supposed to be dead? While the big mystery remains, Aioria gets involved in a new battle and when his Cosmo exceeds its limits... a change happens to the Leo Cloth!\n\n(Source: AniChart/AniList)",
+  "mean": 7.07,
+  "rank": 3973,
+  "popularity": 4032,
+  "num_list_users": 30400,
+  "num_scoring_users": 16843,
+  "nsfw": "white",
+  "created_at": "2014-10-30T20:15:08+00:00",
+  "updated_at": "2023-04-24T03:57:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2015,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    },
+    {
+      "id": 397,
+      "name": "Bridge"
+    }
+  ]
+}

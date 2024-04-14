@@ -1,0 +1,52 @@
+{
+  "id": 2895,
+  "title": "Kujiratori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/4067.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/4067l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kujira Tori"
+    ],
+    "en": "The Whale Hunt",
+    "ja": "くじらとり"
+  },
+  "start_date": "2001-10-01",
+  "end_date": "2001-10-01",
+  "synopsis": "A group of elementary school children play in their classroom, imagining that they are on a boat in the ocean. This fantasy becomes reality, and soon all the students find themselves stranded in the deep blue sea, looking for their own Moby Dick. Some of the kids want to harpoon the whale, others want to take its picture, and many of the kids are afraid and just want to return home. In the end, a gentle Totoro-esque whale shows up and plays with the children until their fantasy ends and they are again back in school.\n\n(Source: Nausicaa.net)",
+  "mean": 6.14,
+  "rank": 8865,
+  "popularity": 9017,
+  "num_list_users": 4122,
+  "num_scoring_users": 518,
+  "nsfw": "white",
+  "created_at": "2007-08-01T14:20:17+00:00",
+  "updated_at": "2022-10-12T08:39:11+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 960,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    }
+  ]
+}

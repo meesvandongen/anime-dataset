@@ -1,0 +1,40 @@
+{
+  "id": 44267,
+  "title": "My Name Is Elite☆",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1609/110502.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1609/110502l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "My Name Is Elite☆",
+    "ja": "マイネームイズエリート☆"
+  },
+  "start_date": "2019-02-26",
+  "end_date": "2019-02-26",
+  "synopsis": "Official music video for the first original song by Miko Sakura. She comedically sings about how elite she is, with various examples and references. The song is also about doing your best.",
+  "mean": 5.57,
+  "popularity": 16399,
+  "num_list_users": 462,
+  "num_scoring_users": 264,
+  "nsfw": "white",
+  "created_at": "2020-12-03T16:35:50+00:00",
+  "updated_at": "2024-01-04T06:56:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 234,
+  "rating": "g",
+  "studios": []
+}

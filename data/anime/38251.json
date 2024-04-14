@@ -1,0 +1,56 @@
+{
+  "id": 38251,
+  "title": "Sono Toki, Kanojo wa.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1908/93910.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1908/93910l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "At That Time, She."
+    ],
+    "en": "",
+    "ja": "その時、カノジョは。"
+  },
+  "start_date": "2018-10-07",
+  "end_date": "2018-12-23",
+  "synopsis": "The anime takes place in Fukuoka and follows the love lives of four female protagonists as high school students, college students, and as working adults. \n\n(Source: ANN, edited)",
+  "mean": 5.66,
+  "rank": 11025,
+  "popularity": 5348,
+  "num_list_users": 15447,
+  "num_scoring_users": 3947,
+  "nsfw": "white",
+  "created_at": "2018-08-31T08:42:23+00:00",
+  "updated_at": "2022-02-21T20:41:45+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2018,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:35"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1849,
+      "name": "MASTER LIGHTS"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1846,
+  "title": "Princess Nine: Kisaragi Joshikou Yakyuubu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/64743.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/64743l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Princess Nine",
+    "ja": "プリンセスナイン 如月女子高野球部"
+  },
+  "start_date": "1998-04-08",
+  "end_date": "1998-10-14",
+  "synopsis": "Keiko Himuro, Chairman of the Kisuragi School, puts together an all-girl baseball team led by Ryo Hayakawa, daughter of a legendary pitcher, in hopes of proving that girls can compete just as well as boys. Their goal: Koshien Stadium, where only the best teams get the opportunity to play. \n\n(Source: ANN)",
+  "mean": 7.22,
+  "rank": 3188,
+  "popularity": 5786,
+  "num_list_users": 12634,
+  "num_scoring_users": 3986,
+  "nsfw": "white",
+  "created_at": "2007-01-15T01:21:24+00:00",
+  "updated_at": "2022-04-10T18:04:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 1998,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "18:00"
+  },
+  "source": "original",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 329,
+      "name": "Phoenix Entertainment"
+    }
+  ]
+}

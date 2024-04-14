@@ -1,0 +1,62 @@
+{
+  "id": 1057,
+  "title": "Ippatsu Kiki Musume",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/34133.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/34133l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dangerous Girl",
+      "Miss Critical Moment",
+      "Ippatsu Kikimusume"
+    ],
+    "en": "",
+    "ja": "イッパツ危機娘"
+  },
+  "start_date": "1999-10-05",
+  "end_date": "1999-10-29",
+  "synopsis": "Kunyan lives her crazy life of misadventures from episode to episode. This comedy series is accompanied by a narrator who scientifically explains all that happens to her. ",
+  "mean": 6.2,
+  "rank": 8567,
+  "popularity": 7169,
+  "num_list_users": 7509,
+  "num_scoring_users": 2864,
+  "nsfw": "white",
+  "created_at": "2006-06-03T19:53:38+00:00",
+  "updated_at": "2022-03-15T03:40:18+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "other",
+    "start_time": "23:55"
+  },
+  "source": "manga",
+  "average_episode_duration": 225,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
+}

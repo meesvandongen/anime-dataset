@@ -1,0 +1,42 @@
+{
+  "id": 11733,
+  "title": "Chi-Sui Maru 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/32755.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/32755l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Chi-Sui Maru 2",
+      "Chi-Sui Maru Second Season"
+    ],
+    "en": "",
+    "ja": "ちーすい丸"
+  },
+  "start_date": "2011-01-15",
+  "end_date": "2011-09-24",
+  "synopsis": "The battle continues between Chi-Sui Maru, a mosquito, and Nobuo, a common office worker.",
+  "rank": 18844,
+  "popularity": 17074,
+  "num_list_users": 404,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2011-09-29T16:06:24+00:00",
+  "updated_at": "2020-03-05T10:40:50+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 34,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

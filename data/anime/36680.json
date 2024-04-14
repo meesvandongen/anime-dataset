@@ -1,0 +1,40 @@
+{
+  "id": 36680,
+  "title": "Sayonara Nyuunanzai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/88657.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/88657l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "さよなら柔軟剤"
+  },
+  "start_date": "2017-10-25",
+  "end_date": "2017-10-25",
+  "synopsis": "Official music video for Enya-Sang's song Sayonara Nyuunanzai from their \"Dai Main Climax\" album going on sale.",
+  "mean": 5.27,
+  "popularity": 19405,
+  "num_list_users": 249,
+  "num_scoring_users": 118,
+  "nsfw": "white",
+  "created_at": "2017-10-25T12:54:37+00:00",
+  "updated_at": "2017-11-03T00:37:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": 5909,
+  "title": "Seitokai no Ichizon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/19646.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/19646l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Seitokai no Ichizon: Hekiyou Gakuen Seitokai Gijiroku",
+      "It's Student Council's Judgment"
+    ],
+    "en": "Student Council's Discretion",
+    "ja": "生徒会の一存"
+  },
+  "start_date": "2009-10-03",
+  "end_date": "2009-12-19",
+  "synopsis": "Imagine living life as the vice president of the student council, passing the days eating snacks, playing games, and bonding with a harem of beautiful girls. This is exactly the kind of life that high school student Ken Sugisaki leads, or so he thinks!\n\nUsually, the officers of Hekiyou Academy's student council are elected by popular vote, but an additional position is granted to the student who scores the highest on the exams. Ken, who historically has had below average grades, worked hard to improve them to be accepted into the student council, with the ultimate goal of surrounding himself with girls who fawn over him.\n\nUnfortunately for the vice president, things do not go quite as planned. Not only do the ladies of the council continually rebuff his advances, they also prefer to focus on more important and \"boring\" activities, such as organizing school events and managing the other clubs. But a few minor hurdles like these won't stop Ken from chasing after his dreams, even if they seem a bit ridiculous.  \n\n[Written by MAL Rewrite]",
+  "mean": 7.3,
+  "rank": 2715,
+  "popularity": 1223,
+  "num_list_users": 194820,
+  "num_scoring_users": 83210,
+  "nsfw": "white",
+  "created_at": "2009-01-16T13:13:11+00:00",
+  "updated_at": "2022-04-04T19:32:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1465,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 42938,
+  "title": "Fruits Basket: The Final",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1085/114792.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1085/114792l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fruits Basket 3rd Season",
+      "Fruits Basket (2019) 3rd Season",
+      "Furuba"
+    ],
+    "en": "Fruits Basket: The Final Season",
+    "ja": "フルーツバスケット The Final"
+  },
+  "start_date": "2021-04-06",
+  "end_date": "2021-06-29",
+  "synopsis": "Hundreds of years ago, the Chinese zodiac spirits and their god swore to stay together eternally. United by this promise, the possessed members of the Souma family shall always return to each other under any circumstances. Yet, when these bonds shackle them from freedom, it becomes an undesirable burden—a curse. As head of the clan, Akito is convinced that he shares a special connection with the other Soumas. While he desperately clings to this fantasy, the rest of the family remains isolated and suppressed by the fear of punishment.\n\nTooru Honda, who has grown attached to the Soumas, is determined to break the chains that bind them. Her companionship with the family and her friends encourages her to move forward with lifting the curse. However, due to confounding revelations, she struggles to find the tenacity to continue her endeavors. With time slowly withering away, Tooru contends with an uncertain future in hopes of reaching the tranquility that may lie beyond all this commotion.\n\n[Written by MAL Rewrite]",
+  "mean": 8.98,
+  "rank": 13,
+  "popularity": 474,
+  "num_list_users": 474930,
+  "num_scoring_users": 235083,
+  "nsfw": "white",
+  "created_at": "2020-09-21T17:09:51+00:00",
+  "updated_at": "2023-08-03T16:57:23+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}

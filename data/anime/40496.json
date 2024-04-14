@@ -1,0 +1,68 @@
+{
+  "id": 40496,
+  "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1126/108573.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1126/108573l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
+    ],
+    "en": "The Misfit of Demon King Academy",
+    "ja": "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～"
+  },
+  "start_date": "2020-07-04",
+  "end_date": "2020-09-26",
+  "synopsis": "In the distant past, a war between humans and demons brought about widespread chaos and bloodshed. To put an end to this seemingly endless conflict, Demon King Anos Voldigoad willingly sacrificed his life, hoping to be reborn in a peaceful future.\n\nIn preparation for their king's return, the demon race created the Demon King Academy, an elite institution tasked with determining Anos' identity when he reawakens. He reincarnates two millennia later, but to his surprise, he soon learns that the level of magic in the world has drastically waned during his absence. Moreover, when he enrolls at the academy to reclaim his rightful title, he finds out that demonkind remembers him differently. His personality, his deeds, and even his legacy are all falsified—masked beneath the name of an impostor. This \"lack\" of common knowledge renders him the academy's outlier—a misfit never before seen in history.\n\nDespite these drawbacks, Anos remains unfazed. As he sets out to uncover those altering his glorious past, he takes it upon himself to make his descendants recognize that their ruler has finally returned.\n\n[Written by MAL Rewrite]",
+  "mean": 7.36,
+  "rank": 2424,
+  "popularity": 238,
+  "num_list_users": 796009,
+  "num_scoring_users": 471144,
+  "nsfw": "white",
+  "created_at": "2019-10-06T10:57:40+00:00",
+  "updated_at": "2022-10-23T13:30:01+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

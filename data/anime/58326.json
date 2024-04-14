@@ -1,0 +1,44 @@
+{
+  "id": 58326,
+  "title": "Doumei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1961/141833.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1961/141833l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Union",
+    "ja": "同盟"
+  },
+  "start_date": "2024-03-06",
+  "end_date": "2024-03-06",
+  "synopsis": "Music video for the song Doumei by V.W.P.",
+  "popularity": 22924,
+  "num_list_users": 94,
+  "num_scoring_users": 51,
+  "nsfw": "white",
+  "created_at": "2024-03-06T14:35:23+00:00",
+  "updated_at": "2024-03-07T09:27:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 230,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2474,
+      "name": "Haneda xR Studio"
+    }
+  ]
+}

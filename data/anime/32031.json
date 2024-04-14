@@ -1,0 +1,51 @@
+{
+  "id": 32031,
+  "title": "Leopard Eyes",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1804/91720.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1804/91720l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "IDOLiSH7: Leopard Eyes/TRIGGER"
+    ],
+    "en": "",
+    "ja": "アイドリッシュセブン『Leopard Eyes/TRIGGER』"
+  },
+  "start_date": "2015-12-15",
+  "end_date": "2015-12-15",
+  "synopsis": "Official music video for TRIGGER's song Leopard Eyes also released on the album \"SECRET NIGHT.\" The male idol group is primarily a rival to IDOLiSH7, the latter of which is also the name of the overall game franchise being adapted. ",
+  "mean": 6.64,
+  "popularity": 9841,
+  "num_list_users": 3123,
+  "num_scoring_users": 1479,
+  "nsfw": "white",
+  "created_at": "2015-11-07T14:29:18+00:00",
+  "updated_at": "2023-12-21T07:59:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2015,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 279,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 951,
+      "name": "NAZ"
+    }
+  ]
+}

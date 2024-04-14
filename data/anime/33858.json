@@ -1,0 +1,41 @@
+{
+  "id": 33858,
+  "title": "Kissaten Soudou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/8/81518.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/81518l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "喫茶店騒動"
+  },
+  "start_date": "2009-10-08",
+  "end_date": "2009-10-08",
+  "synopsis": "A customer and cafe owner get into a fight.",
+  "mean": 5.24,
+  "rank": 12282,
+  "popularity": 18416,
+  "num_list_users": 306,
+  "num_scoring_users": 120,
+  "nsfw": "white",
+  "created_at": "2016-08-16T05:52:22+00:00",
+  "updated_at": "2016-08-16T05:52:22+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 594,
+  "rating": "g",
+  "studios": []
+}

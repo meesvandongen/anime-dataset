@@ -1,0 +1,57 @@
+{
+  "id": 10807,
+  "title": "Nichijou: Original Jikai Yokoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/2/29848.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/29848l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nichijou Specials",
+      "Everyday Specials"
+    ],
+    "en": "My Ordinary Life Specials",
+    "ja": "日常 オリジナル次回予告"
+  },
+  "start_date": "2011-06-24",
+  "end_date": "2012-06-29",
+  "synopsis": "Original next episode trailers included in the Blu-ray and DVD volumes of Nichijou.",
+  "mean": 7.01,
+  "rank": 4280,
+  "popularity": 4859,
+  "num_list_users": 19992,
+  "num_scoring_users": 5277,
+  "nsfw": "white",
+  "created_at": "2011-06-11T07:33:07+00:00",
+  "updated_at": "2022-04-29T19:09:07+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 25,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 30,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

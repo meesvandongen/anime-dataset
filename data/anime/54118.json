@@ -1,0 +1,50 @@
+{
+  "id": 54118,
+  "title": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1503/132452.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1503/132452l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD"
+  },
+  "start_date": "2023-05-20",
+  "end_date": "2023-05-20",
+  "synopsis": "A live performance by IDOLiSH7, TRIGGER, Re:vale, and ŹOOĻ , 4 groups with different charms, will meet in one place, and the grand live entertainment will begin! \n\n(Source: Translated, edited from official website)",
+  "mean": 7.8,
+  "rank": 981,
+  "popularity": 9836,
+  "num_list_users": 3128,
+  "num_scoring_users": 564,
+  "nsfw": "white",
+  "created_at": "2023-01-06T17:24:42+00:00",
+  "updated_at": "2023-11-27T23:11:23+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 5400,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1109,
+      "name": "Orange"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 32946,
+  "title": "Gyakuten Saiban 6 Prologue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1475/98000.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1475/98000l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Phoenix Wright Ace Attorney: Spirit of Justice Prologue"
+    ],
+    "en": "Ace Attorney 6 Prologue",
+    "ja": "逆転裁判6 プロローグ"
+  },
+  "start_date": "2016-03-17",
+  "end_date": "2016-03-17",
+  "synopsis": "The country of Khura'in doesn't have attorneys. Instead, the outcome of trials are decided by the oracles.\n\nMeanwhile, in Japan, Naruhodo Ryuichi receives a disturbing call from his old friend, Mayoi Ayasato, who is currently training in Kurain.",
+  "mean": 6.53,
+  "rank": 6706,
+  "popularity": 8187,
+  "num_list_users": 5427,
+  "num_scoring_users": 2120,
+  "nsfw": "white",
+  "created_at": "2016-03-17T11:30:40+00:00",
+  "updated_at": "2022-03-21T15:43:22+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 480,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

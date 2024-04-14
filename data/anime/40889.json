@@ -1,0 +1,40 @@
+{
+  "id": 40889,
+  "title": "Teleport",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1803/104829.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1803/104829l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "テレポート"
+  },
+  "start_date": "2017-01-05",
+  "end_date": "2017-01-05",
+  "synopsis": "Music video directed by Yoriko Mizushiri for the song Teleport by Shuta Hasunuma that was released on his album \"Melodies\".",
+  "mean": 5.48,
+  "popularity": 19030,
+  "num_list_users": 269,
+  "num_scoring_users": 144,
+  "nsfw": "white",
+  "created_at": "2019-12-15T19:28:49+00:00",
+  "updated_at": "2019-12-15T19:28:49+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 181,
+  "rating": "g",
+  "studios": []
+}

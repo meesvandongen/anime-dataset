@@ -1,0 +1,40 @@
+{
+  "id": 51478,
+  "title": "!NVADE SHOW!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1930/122178.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1930/122178l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "!NVADE SHOW!"
+  },
+  "start_date": "2020-10-07",
+  "end_date": "2020-10-07",
+  "synopsis": "Animated music video for RAISE A SUILEN's song !NVADE SHOW!. It was first released on BanG Dream's official YouTube and was later included in the limited edition Blu-ray for RAISE A SUILEN's sixth single \"mind of Prominence\".\n\n(Source: AniList)",
+  "mean": 6.03,
+  "popularity": 14470,
+  "num_list_users": 738,
+  "num_scoring_users": 426,
+  "nsfw": "white",
+  "created_at": "2022-03-31T22:36:50+00:00",
+  "updated_at": "2023-07-16T07:41:54+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 122,
+  "rating": "g",
+  "studios": []
+}

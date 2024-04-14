@@ -1,0 +1,47 @@
+{
+  "id": 8792,
+  "title": "Madobe Nanami no Windows 7 de PC Jisaku Ouen Commercial!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/7/24272.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/24272l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Madobe Nanami's Homemade Windows 7 PC Cheerleading Commercial!!"
+    ],
+    "en": "",
+    "ja": "窓辺ななみのWindows 7でPC自作応援コマーシャルっ!!"
+  },
+  "start_date": "2010-05-09",
+  "end_date": "2010-05-09",
+  "synopsis": "Madobe Nanami is a computer store employee who instructs customers on how to magically assemble their PCs.  She also shows them some of the features of Windows 7.",
+  "mean": 6.19,
+  "popularity": 6365,
+  "num_list_users": 10012,
+  "num_scoring_users": 6121,
+  "nsfw": "white",
+  "created_at": "2010-05-08T20:56:59+00:00",
+  "updated_at": "2024-01-13T23:14:00+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 65,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1067,
+      "name": "Rising Force"
+    }
+  ]
+}

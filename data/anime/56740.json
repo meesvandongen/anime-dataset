@@ -1,0 +1,50 @@
+{
+  "id": 56740,
+  "title": "Kanojo, Okarishimasu Petit 3rd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1593/138732.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1593/138732l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kanojo, Okarishimasu Puchi 3",
+      "Rent-a-Girlfriend Chibi 3",
+      "Okarishimasu Mini Anime 3"
+    ],
+    "en": "Rent-a-Girlfriend Petit 3rd Season",
+    "ja": "彼女, お借りします ぷち 3"
+  },
+  "start_date": "2023-09-09",
+  "end_date": "2023-10-11",
+  "synopsis": "Mini anime for the third season of Kanojo, Okarishimasu.",
+  "mean": 5.79,
+  "rank": 10499,
+  "popularity": 12983,
+  "num_list_users": 1122,
+  "num_scoring_users": 335,
+  "nsfw": "white",
+  "created_at": "2023-09-25T04:25:09+00:00",
+  "updated_at": "2023-10-12T12:33:47+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 39833,
+  "title": "Junk Head",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1780/116665.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1780/116665l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "JUNK HEAD"
+  },
+  "start_date": "2017-07-23",
+  "end_date": "2017-07-23",
+  "synopsis": "In the distant future, humanity is hurtling down a path of ruin. Global environmental destruction caused by chemical contamination, radioactive fallout, and UV rays coming through the patchy ozone layer has lead to deterioration of the human genome.\n\n(Source: Official Website)",
+  "mean": 7.02,
+  "rank": 4207,
+  "popularity": 11946,
+  "num_list_users": 1557,
+  "num_scoring_users": 540,
+  "nsfw": "white",
+  "created_at": "2019-05-18T22:21:02+00:00",
+  "updated_at": "2022-02-12T12:56:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 6012,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2564,
+      "name": "Yamiken"
+    }
+  ]
+}

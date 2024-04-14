@@ -1,0 +1,41 @@
+{
+  "id": 57775,
+  "title": "Nohara de Te wo Tatake",
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "野原で手をたたけ"
+  },
+  "start_date": "1964-10",
+  "end_date": "1964-10",
+  "synopsis": "Music video for the song Nohara de Te wo Tatake by the NHK Tokyo Jidou Gasshoudan that was featured on NHK's Minna no Uta program. It is considered to be lost media.",
+  "popularity": 26321,
+  "num_list_users": 54,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2024-01-09T05:44:13+00:00",
+  "updated_at": "2024-01-09T05:44:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1964,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

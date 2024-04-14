@@ -1,0 +1,44 @@
+{
+  "id": 32149,
+  "title": "Tatsunoko Pro x Peeping Life",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/6/77238.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/77238l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "タツノコプロ×Peeping Life"
+  },
+  "start_date": "2011-12-26",
+  "end_date": "2012-01-18",
+  "synopsis": "Collaboration between Peeping Life, Tatsunoko Productions, Circle K Sunkus, and TV Asahi. The first episode Boyakki helps Yatterman No. 2 fix Omocchama who broken mid-battle. The second episode has Otaku-kun talk about Tatsunoko's 50th Anniversary. The third episode has Speed Racer block the front entrance of a 7/11 with his car and has a traffic cop come up. And the fourth episode has Gold Lightan bother Hiroshi working on a PowerPoint presentation due tomorrow.",
+  "rank": 13799,
+  "popularity": 16627,
+  "num_list_users": 440,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2015-11-25T11:53:00+00:00",
+  "updated_at": "2021-09-23T23:56:55+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2011,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 255,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 16454,
+  "title": "Surf Side High-School",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/44584.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/44584l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Surfside High School",
+      "Surf Side Highschool"
+    ],
+    "en": "",
+    "ja": "サーフサイドハイスクール"
+  },
+  "start_date": "1999-06-01",
+  "end_date": "1999-07-02",
+  "synopsis": "At a high school that sits in front of the ocean, three unpopular pubescent guys, Abe, Nagaho, and Mita, spend more of their time goofing off at the beach than studying. Of course, surfing always comes first, but their other adventures on the beach and search for girls are a source of non-stop laughter. \n\n(Source: AniDB)",
+  "rank": 13658,
+  "popularity": 14378,
+  "num_list_users": 758,
+  "num_scoring_users": 111,
+  "nsfw": "white",
+  "created_at": "2012-12-02T10:06:46+00:00",
+  "updated_at": "2021-09-13T11:39:20+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 1999,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "other",
+    "start_time": "23:55"
+  },
+  "average_episode_duration": 420,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    }
+  ]
+}

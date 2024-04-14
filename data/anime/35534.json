@@ -1,0 +1,46 @@
+{
+  "id": 35534,
+  "title": "Tomoyo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85643.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85643l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Friend",
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "友よ"
+  },
+  "start_date": "2011-08-02",
+  "end_date": "2011-08-02",
+  "synopsis": "A warm heart of friendship extended from South Korea to Japan in wake of the 2011 Touhoku earthquake and tsunami.",
+  "popularity": 19667,
+  "num_list_users": 235,
+  "num_scoring_users": 99,
+  "nsfw": "white",
+  "created_at": "2017-05-05T08:04:29+00:00",
+  "updated_at": "2019-02-06T14:52:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": 304,
+  "title": "Aa! Megami-sama! Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/5/71211.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/71211l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gekijouban Aa! Megamisama",
+      "Aa! Megami-sama!: The Movie"
+    ],
+    "en": "Ah! My Goddess: The Movie",
+    "ja": "劇場版　ああっ女神さまっ"
+  },
+  "start_date": "2000-10-21",
+  "end_date": "2000-10-21",
+  "synopsis": "For centuries, a god named Celestin has been imprisoned on the moon for betraying the kingdom of Yggdrasil. Released by the fairy Morgan Le Fey, Celestin travels to Earth to reunite with his former pupil, the goddess Belldandy. Things go awry as Celestin erases Belldandy's memories of her boyfriend Keiichi and uses her as a catalyst to wreak havoc on Earth and Yggdrasil. \n",
+  "mean": 7.54,
+  "rank": 1729,
+  "popularity": 3376,
+  "num_list_users": 43055,
+  "num_scoring_users": 22824,
+  "nsfw": "white",
+  "created_at": "2005-11-18T03:26:21+00:00",
+  "updated_at": "2022-04-08T18:54:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2000,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 6385,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 48,
+      "name": "AIC"
+    }
+  ]
+}

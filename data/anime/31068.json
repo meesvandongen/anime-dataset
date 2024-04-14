@@ -1,0 +1,42 @@
+{
+  "id": 31068,
+  "title": "Hime Chen! Otogi Chikku Idol Lilpri (2011)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/3/74658.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/74658l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Himechan! Otogitic Idol Lil'Pri"
+    ],
+    "en": "Spellbound! Magical Princess Lilpri",
+    "ja": "ひめチェン! おとぎちっくアイドル リルぷりっ"
+  },
+  "start_date": "2011-04-06",
+  "end_date": "2012-03-28",
+  "synopsis": "Short episodes of Hime Chen! Otogi Chikku Idol Lilpri that aired as part of TV Tokyo's morning program block for children, Norinori♪Norisuta (のりのり♪のりスタ).",
+  "mean": 7.01,
+  "rank": 4270,
+  "popularity": 10457,
+  "num_list_users": 2554,
+  "num_scoring_users": 954,
+  "nsfw": "white",
+  "created_at": "2015-06-20T22:48:30+00:00",
+  "updated_at": "2023-09-18T04:26:03+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "num_episodes": 51,
+  "start_season": {
+    "year": 2011,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

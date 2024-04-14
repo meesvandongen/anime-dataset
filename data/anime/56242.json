@@ -1,0 +1,70 @@
+{
+  "id": 56242,
+  "title": "Sengoku Youko: Yonaoshi Kyoudai-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1645/140627.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1645/140627l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sengoku Youko",
+    "ja": "戦国妖狐 世直し姉弟編"
+  },
+  "start_date": "2024-01-11",
+  "end_date": "2024-04-04",
+  "synopsis": "The world is divided into two factions: humans and monsters called katawara. Despite being a katawara, Tama loves humans and vows to protect them from evil, even if it means fighting her own kind. Her brother Jinka, however, hates humans, despite mostly being one. The siblings are joined by a cowardly swordsman named Shinsuke, who wants to learn how to become strong.\n\nWhen the group uncovers a plot to experiment on humans and transform them into monsters, they vow to defeat whoever is behind it... Even if it means battling an entire army of warriors.\n\nThe people they meet, places they see, and creatures they battle will be legendary!\n\n(Source: Tokyopop)",
+  "mean": 7.01,
+  "rank": 4284,
+  "popularity": 3501,
+  "num_list_users": 40565,
+  "num_scoring_users": 10638,
+  "nsfw": "white",
+  "created_at": "2023-08-10T09:21:07+00:00",
+  "updated_at": "2024-03-21T05:36:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 5251,
+  "title": "Angel Densetsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/4/27104.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/27104l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Angel Legend"
+    ],
+    "en": "",
+    "ja": "エンジェル伝説"
+  },
+  "start_date": "1996-12-13",
+  "end_date": "1996-12-13",
+  "synopsis": "When Seikichi Kuroda—self-proclaimed \"guardian\" and head thug of Hekikuu High School—hears rumors of a first-year transfer student named Seiichirou Kitano terrorizing his entire class, Seikichi tries to intimidate him through authority. However, things go awry when he witnesses something horrifying—Seiichirou has a face so dreadful and haunting that even Seikichi hurries away in fear.\n\nBut despite his menacing appearance, Seiichirou has a heart of gold. Inhibited by his poor communication skills and fear-inducing looks, he has never managed to convey his true self to his terrified peers, resulting in his lifelong ostracization. Now the new guardian, Seiichirou discovers that sometimes friends can be found in the most unlikely places and through the most unusual circumstances.\n\n[Written by MAL Rewrite]",
+  "mean": 7.46,
+  "rank": 2004,
+  "popularity": 3521,
+  "num_list_users": 39989,
+  "num_scoring_users": 21894,
+  "nsfw": "white",
+  "created_at": "2008-09-14T02:45:11+00:00",
+  "updated_at": "2022-04-17T06:50:00+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 1996,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1440,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 12189,
+  "title": "Hyouka",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/50521l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Hyou-ka",
+      "Hyouka: You can't escape",
+      "Hyou-ka: You can't escape",
+      "Hyoka"
+    ],
+    "en": "Hyouka",
+    "ja": "氷菓"
+  },
+  "start_date": "2012-04-23",
+  "end_date": "2012-09-17",
+  "synopsis": "High school freshman Houtarou Oreki has but one goal: to lead a gray life while conserving as much energy as he can. Unfortunately, his peaceful days come to an end when his older sister, Tomoe, forces him to save the memberless Classics Club from disbandment.\n\nLuckily, Oreki's predicament seems to be over when he heads to the clubroom and discovers that his fellow first-year, Eru Chitanda, has already become a member. However, despite his obligation being fulfilled, Oreki finds himself entangled by Chitanda's curious and bubbly personality, soon joining the club of his own volition.\n\nHyouka follows the four members of the Classics Club—including Oreki's friends Satoshi Fukube and Mayaka Ibara—as they, driven by Chitanda's insatiable curiosity, solve the trivial yet intriguing mysteries that permeate their daily lives.\n\n[Written by MAL Rewrite]\n",
+  "mean": 8.07,
+  "rank": 534,
+  "popularity": 95,
+  "num_list_users": 1369026,
+  "num_scoring_users": 641991,
+  "nsfw": "white",
+  "created_at": "2011-11-29T04:15:34+00:00",
+  "updated_at": "2024-01-27T05:57:16+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "00:00"
+  },
+  "source": "novel",
+  "average_episode_duration": 1539,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
+}

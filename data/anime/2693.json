@@ -1,0 +1,50 @@
+{
+  "id": 2693,
+  "title": "Detatoko Princess",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/62217.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/62217l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Suddenly Princess",
+    "ja": "でたとこプリンセス"
+  },
+  "start_date": "1997-12-01",
+  "end_date": "1998-05-21",
+  "synopsis": "Lapis is the princess of Sorcerland. She's beautiful, powerful and has a sparkling personality; it`s too bad that she's not that bright. She'll go to any length to protect the most innocent of creatures even if it means destroying the kingdom to do so. And lets not forget her obsession with pudding!\n\nDetatoko Princess is a laugh-out-loud lampoon of all the fantasy stereotypes you've come to love with a generous heaping scoop of slapstick!\n\n(Source: AniDB)",
+  "mean": 6,
+  "rank": 9572,
+  "popularity": 9061,
+  "num_list_users": 4060,
+  "num_scoring_users": 1297,
+  "nsfw": "white",
+  "created_at": "2007-06-22T21:02:39+00:00",
+  "updated_at": "2020-04-16T11:52:04+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 1997,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1800,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}
