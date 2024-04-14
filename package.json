@@ -1,22 +1,22 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
-  "scripts": {
-    "generate": "bunx @hey-api/openapi-ts",
-    "scrape": "bun ./src/scrape.ts",
-    "csv": "bun run ./src/csv.ts"
-  },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "csv-stringify": "^6.4.6"
-  },
+  "main": "index.ts",
   "devDependencies": {
     "@hey-api/openapi-ts": "^0.38.1",
     "@types/bun": "latest",
     "typescript": "^5.0.0",
     "prettier": "^3.2.5"
+  },
+  "description": "",
+  "license": "ISC",
+  "scripts": {
+    "generate": "bunx @hey-api/openapi-ts",
+    "scrape": "bun ./src/scrape.ts",
+    "csv": "bun run ./src/csv.ts"
+  },
+  "dependencies": {
+    "csv": "^6.3.8"
   }
 }
