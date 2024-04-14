@@ -1,5 +1,5 @@
 import fs from "fs";
-import { stringify } from "csv";
+import { stringify } from "csv-stringify";
 
 const fileNames = fs.readdirSync("./data/anime");
 

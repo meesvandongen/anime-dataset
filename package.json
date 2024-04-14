@@ -11,6 +11,6 @@
     "csv": "bun run ./src/csv.ts"
   },
   "dependencies": {
-    "csv": "^6.3.8"
+    "csv-stringify": "^6.4.6"
   }
 }
