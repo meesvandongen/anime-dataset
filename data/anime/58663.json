@@ -1,0 +1,59 @@
+{
+  "id": 58663,
+  "title": "One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1446/142604.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1446/142604l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Recap",
+      "One Piece Special"
+    ],
+    "en": "One Piece: The Log of the Rivalry! The Straw Hats vs. Cipher Pol",
+    "ja": "因縁の記録[ログ]! 麦わらの一味とCP[サイファーポール]"
+  },
+  "start_date": "2024-04-14",
+  "end_date": "2024-04-14",
+  "synopsis": "The second recap special of Egghead arc that covers the battle history between the Straw Hats and CP9.",
+  "rank": 17014,
+  "popularity": 25595,
+  "num_list_users": 62,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2024-04-13T20:26:35+00:00",
+  "updated_at": "2024-04-14T17:12:58+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 1460,
+  "rating": "pg_13",
+  "studios": []
+}
