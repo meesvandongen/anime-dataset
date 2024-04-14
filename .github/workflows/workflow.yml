@@ -26,10 +26,8 @@ jobs:
           bun-version: latest
 
       - name: Scrape step
-        run: "bun run scrape"
+        run: "bun run scrape && bun run csv"
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
-
-      - run: "bun run csv"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
