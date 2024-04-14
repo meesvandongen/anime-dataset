@@ -27,5 +27,7 @@ jobs:
 
       - name: Scrape step
         run: "bun run scrape"
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
