@@ -52,6 +52,10 @@ yearLoop: while (year < lastYearToScrape) {
             console.log("404, we have reached the end of the list.");
             hasNextPage = false;
             hasReachedEnd = true;
+          } else {
+            console.error(err);
+
+            throw err;
           }
         }
       });
