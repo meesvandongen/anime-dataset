@@ -11,6 +11,17 @@
 - Studios: A list of all known studios on MyAnimeList, together with their ID.
   - https://raw.githubusercontent.com/meesvandongen/anime-dataset/main/data/studios.csv
   - https://raw.githack.com/meesvandongen/anime-dataset/main/data/studios.csv
+
+To save some extra space, same parts of the image URLs have been removed from the CSV files as well. A full URL can be constructed as follows:
+
+```js
+`https://cdn.myanimelist.net/images/anime/${image}.jpg`;
+```
+
+Where `${image}` is the part of the URL that is in the CSV file. For example, the image URL for the anime with ID 1 is `https://cdn.myanimelist.net/images/anime/4/19644.jpg`.
+
+## Standalone
+
 - Anime Standalone: A list of all known anime on MyAnimeList, together with their genres and studios. This endpoint can be used to get all information in one go, but is a bit bigger than the other tables combined.
   - https://raw.githubusercontent.com/meesvandongen/anime-dataset/main/data/anime-standalone.csv
   - https://raw.githack.com/meesvandongen/anime-dataset/main/data/anime-standalone.csv
