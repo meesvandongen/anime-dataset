@@ -1,16 +1,10 @@
 {
-  "name": "api",
-  "version": "1.0.0",
-  "author": "",
-  "main": "index.ts",
   "devDependencies": {
     "@hey-api/openapi-ts": "^0.38.1",
     "@types/bun": "latest",
     "typescript": "^5.0.0",
     "prettier": "^3.2.5"
   },
-  "description": "",
-  "license": "ISC",
   "scripts": {
     "generate": "bunx @hey-api/openapi-ts",
     "scrape": "bun ./src/scrape.ts",
