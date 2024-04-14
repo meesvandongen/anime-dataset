@@ -5,19 +5,18 @@
   "main": "index.ts",
   "scripts": {
     "generate": "bunx @hey-api/openapi-ts",
-    "scrape": "bun ./src/scrape.ts"
+    "scrape": "bun ./src/scrape.ts",
+    "csv": "bun run ./src/csv.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hey-api/openapi-ts": "^0.38.1",
-    "orval": "^6.27.1"
+    "csv-stringify": "^6.4.6"
   },
   "devDependencies": {
+    "@hey-api/openapi-ts": "^0.38.1",
     "@types/bun": "latest",
+    "typescript": "^5.0.0",
     "prettier": "^3.2.5"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
   }
 }
