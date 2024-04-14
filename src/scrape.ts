@@ -1,8 +1,14 @@
 import { AnimeService, ApiError, OpenAPI } from "./api/index";
 import { delay } from "./utils";
 
+const clientId = process.env.CLIENT_ID;
+
+if (!clientId) {
+  throw new Error("CLIENT_ID is required.");
+}
+
 OpenAPI.HEADERS = {
-  "X-MAL-CLIENT-ID": process.env.CLIENT_ID!,
+  "X-MAL-CLIENT-ID": clientId,
 };
 
 const seasons = ["winter", "spring", "summer", "fall"];
