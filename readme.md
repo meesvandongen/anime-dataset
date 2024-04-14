@@ -105,3 +105,7 @@ You can choose to use https://raw.githack.com/
 ## Updates
 
 The dataset is incrementally updated. Each day, 20 years of data is updated. Since the start of the dataset is 1917, it will take around a week to refresh the entire dataset.
+
+## History
+
+Since the dataset is stored in git, historical trends can be analyzed by looking at the commit history (if this repository keeps working in the future).
