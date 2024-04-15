@@ -21,6 +21,7 @@ const allAnimeJsonData = sortedFilenames.map((fileName) => {
         .replace("https://cdn.myanimelist.net/images/anime/", "")
         .replace(".jpg", ""),
       mean: singleAnime.mean,
+      rank: singleAnime.rank,
       num_list_users: singleAnime.num_list_users,
       num_scoring_users: singleAnime.num_scoring_users,
       num_episodes: singleAnime.num_episodes,
@@ -80,6 +81,21 @@ const allAnimeJsonData = sortedFilenames.map((fileName) => {
 }
 
 {
+  const allRatings: string[] = [];
+
+  allAnimeJsonData.forEach((anime) => {
+    if (!allRatings.includes(anime.rating)) {
+      allRatings.push(anime.rating);
+    }
+  });
+
+  const sortedRatings = allRatings.toSorted();
+  const ratingsById = sortedRatings.map((rating, index) => {
+    return { id: index + 1, rating };
+  });
+}
+
+{
   const allAnimedataStandalone = allAnimeJsonData.map((singleAnime) => {
     return {
       id: singleAnime.id,
@@ -88,6 +104,7 @@ const allAnimeJsonData = sortedFilenames.map((fileName) => {
       titleEn: singleAnime.alternative_titles?.en,
       image: singleAnime.main_picture?.medium,
       mean: singleAnime.mean,
+      rank: singleAnime.rank,
       num_list_users: singleAnime.num_list_users,
       num_scoring_users: singleAnime.num_scoring_users,
       num_episodes: singleAnime.num_episodes,
