@@ -81,21 +81,6 @@ const allAnimeJsonData = sortedFilenames.map((fileName) => {
 }
 
 {
-  const allRatings: string[] = [];
-
-  allAnimeJsonData.forEach((anime) => {
-    if (!allRatings.includes(anime.rating)) {
-      allRatings.push(anime.rating);
-    }
-  });
-
-  const sortedRatings = allRatings.toSorted();
-  const ratingsById = sortedRatings.map((rating, index) => {
-    return { id: index + 1, rating };
-  });
-}
-
-{
   const allAnimedataStandalone = allAnimeJsonData.map((singleAnime) => {
     return {
       id: singleAnime.id,
