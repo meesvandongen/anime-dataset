@@ -16,13 +16,13 @@
   "end_date": "2013-07-28",
   "synopsis": "A continuation of the previous season under a new director and new name.",
   "mean": 5.91,
-  "rank": 9958,
-  "popularity": 13372,
-  "num_list_users": 1005,
+  "rank": 9987,
+  "popularity": 13384,
+  "num_list_users": 1004,
   "num_scoring_users": 199,
   "nsfw": "white",
   "created_at": "2014-09-18T04:38:18+00:00",
-  "updated_at": "2022-12-18T09:51:27+00:00",
+  "updated_at": "2024-04-14T22:56:54+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 20,
       "name": "Parody"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
     }
   ],
   "num_episodes": 14,

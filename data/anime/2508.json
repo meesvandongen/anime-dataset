@@ -16,23 +16,19 @@
   "end_date": "2007-12-26",
   "synopsis": "The Society for the Study of Modern Visual Culture, otherwise known as Genshiken, is now under the charge of a more confident Sasahara. Things have changed in between semesters, and the otaku club now has a new otaku-hating member named Ogiue. Sasahara's initial goal of starting a doujin circle and selling those fan-made magazines at the next Comic Festival becomes a reality, but reality is a cruel master... who apparently crossplays. Afterward, the club is abuzz with talk about Tanaka and Ohno's relationship, which takes a hesitant step forward.\n\n(Source: Media Blasters)",
   "mean": 7.75,
-  "rank": 1111,
-  "popularity": 2324,
-  "num_list_users": 83369,
-  "num_scoring_users": 45107,
+  "rank": 1094,
+  "popularity": 2325,
+  "num_list_users": 83422,
+  "num_scoring_users": 45141,
   "nsfw": "white",
   "created_at": "2007-05-22T06:02:28+00:00",
-  "updated_at": "2023-09-06T23:08:07+00:00",
+  "updated_at": "2024-04-15T22:53:50+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 50,
       "name": "Adult Cast"
-    },
-    {
-      "id": 4,
-      "name": "Comedy"
     },
     {
       "id": 69,
@@ -45,6 +41,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 12,

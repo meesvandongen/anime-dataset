@@ -14,13 +14,13 @@
   "end_date": "2016-12-26",
   "synopsis": "The series re-imagines the Glass Mask manga and its characters in a school gag comedy focused on satirizing modern society.\n\n(Source: ANN)",
   "mean": 4.68,
-  "rank": 12990,
-  "popularity": 10435,
-  "num_list_users": 2573,
-  "num_scoring_users": 1072,
+  "rank": 13002,
+  "popularity": 10440,
+  "num_list_users": 2574,
+  "num_scoring_users": 1073,
   "nsfw": "white",
   "created_at": "2016-08-30T01:49:19+00:00",
-  "updated_at": "2024-02-17T09:35:18+00:00",
+  "updated_at": "2024-04-14T22:57:06+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
     }
   ],
   "num_episodes": 13,

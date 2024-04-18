@@ -17,23 +17,19 @@
   "end_date": "2013-12-20",
   "synopsis": "Bundled with the limited edition of the 15th volume of the manga. ",
   "mean": 7.15,
-  "rank": 3579,
-  "popularity": 5003,
-  "num_list_users": 18676,
-  "num_scoring_users": 8781,
+  "rank": 3547,
+  "popularity": 5006,
+  "num_list_users": 18685,
+  "num_scoring_users": 8783,
   "nsfw": "white",
   "created_at": "2013-06-21T07:35:51+00:00",
-  "updated_at": "2023-09-06T23:08:26+00:00",
+  "updated_at": "2024-04-15T22:54:02+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 50,
       "name": "Adult Cast"
-    },
-    {
-      "id": 4,
-      "name": "Comedy"
     },
     {
       "id": 69,
@@ -46,6 +42,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,
