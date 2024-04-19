@@ -13,13 +13,13 @@
   "start_date": "2023-11-23",
   "end_date": "2024-05-16",
   "synopsis": "",
-  "rank": 19699,
-  "popularity": 21858,
-  "num_list_users": 122,
-  "num_scoring_users": 8,
+  "rank": 19707,
+  "popularity": 21801,
+  "num_list_users": 124,
+  "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": "2023-11-20T09:09:38+00:00",
-  "updated_at": "2023-11-20T11:10:39+00:00",
+  "updated_at": "2024-04-17T14:07:06+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -38,7 +38,7 @@
     "season": "fall"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 780,
   "rating": "pg",
   "studios": []
 }

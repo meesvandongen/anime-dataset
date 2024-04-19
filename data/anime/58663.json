@@ -16,10 +16,11 @@
   "start_date": "2024-04-14",
   "end_date": "2024-04-14",
   "synopsis": "The second recap special of Egghead arc that covers the battle history between the Straw Hats and CP9.",
-  "rank": 17014,
-  "popularity": 25595,
-  "num_list_users": 62,
-  "num_scoring_users": 33,
+  "mean": 6.23,
+  "rank": 8462,
+  "popularity": 15136,
+  "num_list_users": 613,
+  "num_scoring_users": 340,
   "nsfw": "white",
   "created_at": "2024-04-13T20:26:35+00:00",
   "updated_at": "2024-04-14T17:12:58+00:00",
@@ -55,5 +56,10 @@
   "source": "manga",
   "average_episode_duration": 1460,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
 }
