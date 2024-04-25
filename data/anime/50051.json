@@ -11,29 +11,30 @@
     "ja": "Abandon -100ヌキしないと出られない不思議な教室-"
   },
   "start_date": "2022-03-11",
+  "end_date": "2022-11-18",
   "synopsis": "A mobile app that fulfills a guy's wish to be a porn film director. And the actors will be their own classmates.",
-  "mean": 6.34,
-  "popularity": 9311,
-  "num_list_users": 3720,
-  "num_scoring_users": 1010,
+  "mean": 6.27,
+  "popularity": 9318,
+  "num_list_users": 3738,
+  "num_scoring_users": 1037,
   "nsfw": "gray",
   "created_at": "2021-10-07T21:41:50+00:00",
-  "updated_at": "2022-04-04T20:42:15+00:00",
+  "updated_at": "2024-04-19T17:43:59+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 2,
   "start_season": {
     "year": 2022,
     "season": "winter"
   },
   "source": "manga",
-  "average_episode_duration": 1200,
+  "average_episode_duration": 987,
   "rating": "rx",
   "studios": [
     {

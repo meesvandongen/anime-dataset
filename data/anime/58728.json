@@ -1,0 +1,47 @@
+{
+  "id": 58728,
+  "title": "Teikou Penguin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1555/142707.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1555/142707l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "テイコウペンギン"
+  },
+  "start_date": "2019-01-22",
+  "synopsis": "Follows a penguin working at a black company and his daily life as he grapples with the absurdities of society, such as his boss who forces him to work overtime and his customers who make complaints.\n\n(Source: Wikipedia, translated)",
+  "rank": 13832,
+  "popularity": 26532,
+  "num_list_users": 39,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-04-23T17:06:13+00:00",
+  "updated_at": "2024-04-24T08:52:51+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": []
+}

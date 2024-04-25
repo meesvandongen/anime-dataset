@@ -1,6 +1,6 @@
 {
   "id": 50522,
-  "title": "Teikou Penguin",
+  "title": "Teikou Penguin (TV)",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1018/119890.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1018/119890l.jpg"
@@ -11,23 +11,24 @@
     "ja": "テイコウペンギン"
   },
   "start_date": "2022-01-05",
+  "end_date": "2022-03-30",
   "synopsis": "Centers on a penguin who works in an abusive company and gripes about the difficulties of workplace life. The title is a play on the \"koutei penguin,\" the Japanese name for the emperor penguin.\n\n(Source: ANN)",
-  "rank": 13825,
+  "rank": 13833,
   "popularity": 13664,
-  "num_list_users": 931,
-  "num_scoring_users": 68,
+  "num_list_users": 935,
+  "num_scoring_users": 70,
   "nsfw": "white",
   "created_at": "2021-12-04T06:13:37+00:00",
-  "updated_at": "2022-12-29T08:09:23+00:00",
+  "updated_at": "2024-04-24T08:52:27+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 48,
       "name": "Workplace"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 13,
   "start_season": {
     "year": 2022,
     "season": "winter"

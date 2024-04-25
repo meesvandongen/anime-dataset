@@ -14,16 +14,17 @@
     "ja": "チェリまほミニ劇場"
   },
   "start_date": "2023-12-22",
+  "end_date": "2024-04-12",
   "synopsis": "",
-  "rank": 18847,
-  "popularity": 16560,
-  "num_list_users": 448,
-  "num_scoring_users": 58,
+  "rank": 18852,
+  "popularity": 16477,
+  "num_list_users": 457,
+  "num_scoring_users": 62,
   "nsfw": "gray",
   "created_at": "2023-12-22T14:06:43+00:00",
-  "updated_at": "2024-03-26T00:14:40+00:00",
+  "updated_at": "2024-04-24T08:53:23+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 50,
@@ -46,7 +47,7 @@
       "name": "Workplace"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 11,
   "start_season": {
     "year": 2023,
     "season": "fall"

@@ -11,16 +11,17 @@
     "ja": "僕は小さな淫魔〈サキュバス〉のしもべ"
   },
   "start_date": "2022-08-05",
+  "end_date": "2022-11-18",
   "synopsis": "",
-  "mean": 7.15,
-  "popularity": 8780,
-  "num_list_users": 4507,
-  "num_scoring_users": 1453,
+  "mean": 7.05,
+  "popularity": 8782,
+  "num_list_users": 4528,
+  "num_scoring_users": 1475,
   "nsfw": "gray",
   "created_at": "2022-06-17T16:57:27+00:00",
-  "updated_at": "2022-07-06T10:26:28+00:00",
+  "updated_at": "2024-04-19T17:43:36+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
@@ -31,13 +32,13 @@
       "name": "Supernatural"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 2,
   "start_season": {
     "year": 2022,
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 1200,
+  "average_episode_duration": 909,
   "rating": "rx",
   "studios": [
     {

@@ -1,0 +1,53 @@
+{
+  "id": 58448,
+  "title": "Yong Sheng: Qizhuang Shanhe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1586/142081.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1586/142081l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Yong Sheng 3rd Season"
+    ],
+    "en": "",
+    "ja": "永生 气壮山河"
+  },
+  "start_date": "2024-04-19",
+  "synopsis": "",
+  "rank": 15038,
+  "popularity": 20016,
+  "num_list_users": 217,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2024-03-15T16:25:20+00:00",
+  "updated_at": "2024-04-22T07:16:50+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1174,
+  "rating": "pg_13",
+  "studios": []
+}

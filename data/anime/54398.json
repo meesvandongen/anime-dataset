@@ -13,11 +13,11 @@
   "start_date": "2023-07-07",
   "end_date": "2023-07-07",
   "synopsis": "D.S.O. agent Leon S. Kennedy is on a mission to rescue Dr. Antonio Taylor from kidnappers, when a mysterious woman thwarts his pursuit. Meanwhile, B.S.A.A. agent Chris Redfield is investigating a zombie outbreak in San Francisco, where the cause of the infection cannot be identified. The only thing the victims have in common is that they all visited Alcatraz Island recently. Following that clue, Chris and his team head to the island, where a new horror awaits them. \n\n(Source: Sony Pictures Entertainment)",
-  "mean": 6.65,
-  "rank": 6023,
-  "popularity": 7205,
-  "num_list_users": 7424,
-  "num_scoring_users": 3210,
+  "mean": 6.66,
+  "rank": 6096,
+  "popularity": 7207,
+  "num_list_users": 7452,
+  "num_scoring_users": 3228,
   "nsfw": "white",
   "created_at": "2023-02-08T07:21:13+00:00",
   "updated_at": "2023-10-27T09:36:26+00:00",
@@ -49,6 +49,10 @@
     {
       "id": 73,
       "name": "TMS Entertainment"
+    },
+    {
+      "id": 2243,
+      "name": "Quebico"
     }
   ]
 }
