@@ -13,14 +13,14 @@
   "start_date": "1990-03",
   "end_date": "1991-10",
   "synopsis": "Based on a story by Fujiko F. Fujio.",
-  "mean": 6.76,
-  "rank": 5493,
-  "popularity": 16283,
+  "mean": 6.74,
+  "rank": 5682,
+  "popularity": 16302,
   "num_list_users": 474,
-  "num_scoring_users": 109,
+  "num_scoring_users": 111,
   "nsfw": "white",
   "created_at": "2013-08-05T09:28:07+00:00",
-  "updated_at": "2013-08-05T09:28:07+00:00",
+  "updated_at": "2024-04-26T12:44:21+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -46,6 +46,7 @@
     "year": 1990,
     "season": "winter"
   },
+  "source": "manga",
   "average_episode_duration": 1647,
   "rating": "r",
   "studios": [
