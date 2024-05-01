@@ -11,16 +11,17 @@
     "ja": "捕星司·源起"
   },
   "start_date": "2024-02-29",
+  "end_date": "2024-04-25",
   "synopsis": "",
-  "rank": 18653,
-  "popularity": 15694,
-  "num_list_users": 537,
-  "num_scoring_users": 46,
+  "rank": 15974,
+  "popularity": 15588,
+  "num_list_users": 551,
+  "num_scoring_users": 57,
   "nsfw": "white",
   "created_at": "2023-06-21T05:42:32+00:00",
-  "updated_at": "2023-12-29T13:28:26+00:00",
+  "updated_at": "2024-04-25T07:46:27+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -45,7 +46,7 @@
     "season": "winter"
   },
   "source": "web_novel",
-  "average_episode_duration": 900,
+  "average_episode_duration": 1227,
   "rating": "pg_13",
   "studios": []
 }

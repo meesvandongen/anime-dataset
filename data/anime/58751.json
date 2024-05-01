@@ -1,0 +1,57 @@
+{
+  "id": 58751,
+  "title": "Arknights 2024 Special Commemorative Animation PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1502/142743.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1502/142743l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アークナイツ 2024特別記念動画"
+  },
+  "start_date": "2024-04-27",
+  "end_date": "2024-04-27",
+  "synopsis": "We search for the once flickering dawn, walking side by side through the light and over the darkness. Even with empty hands, let's keep moving forward together.\n\n(Source: Official YouTube)",
+  "mean": 6.91,
+  "popularity": 17435,
+  "num_list_users": 382,
+  "num_scoring_users": 147,
+  "nsfw": "white",
+  "created_at": "2024-04-27T19:40:51+00:00",
+  "updated_at": "2024-04-28T04:04:23+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 126,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1980,
+      "name": "Big Firebird Culture"
+    }
+  ]
+}

@@ -15,11 +15,11 @@
   "start_date": "2020-10-06",
   "end_date": "2020-12-22",
   "synopsis": "Third season of One Room. ",
-  "mean": 6.45,
-  "rank": 7291,
-  "popularity": 3755,
-  "num_list_users": 35281,
-  "num_scoring_users": 13454,
+  "mean": 6.46,
+  "rank": 7381,
+  "popularity": 3756,
+  "num_list_users": 35358,
+  "num_scoring_users": 13511,
   "nsfw": "white",
   "created_at": "2020-02-28T07:47:57+00:00",
   "updated_at": "2022-12-07T10:36:50+00:00",
@@ -46,7 +46,7 @@
   "studios": [
     {
       "id": 1379,
-      "name": "Zero-G"
+      "name": "ZERO-G"
     }
   ]
 }
