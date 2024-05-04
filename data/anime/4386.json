@@ -17,14 +17,14 @@
   "start_date": "1975-07-26",
   "end_date": "1975-07-26",
   "synopsis": "Go Nagai crossover movie. ",
-  "mean": 6.14,
-  "rank": 9002,
-  "popularity": 10948,
-  "num_list_users": 2224,
-  "num_scoring_users": 893,
+  "mean": 6.25,
+  "rank": 8579,
+  "popularity": 10880,
+  "num_list_users": 2289,
+  "num_scoring_users": 955,
   "nsfw": "white",
   "created_at": "2008-04-22T06:53:51+00:00",
-  "updated_at": "2021-08-30T08:03:05+00:00",
+  "updated_at": "2024-05-02T07:42:55+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -46,6 +46,7 @@
     "year": 1975,
     "season": "summer"
   },
+  "source": "manga",
   "average_episode_duration": 1500,
   "rating": "pg_13",
   "studios": [
