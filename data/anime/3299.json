@@ -14,13 +14,13 @@
   "end_date": "2008-03-21",
   "synopsis": "Takuma Hirose is a blind young male high school student, though the cause for his blindness is undetermined. In order to heal his medical condition, he is sent to live in a village with his uncle. There, he meets several girls, three of which stand out more than any of the others. They are Hayami Kohinata, Hinata Kangura, and Otoha. Otoha temporarily heals his blindness and Hirose uses his sight to help others. He finds out that, for some reason, Hayami Kohinata is hated in the village, and he tries his best to help her out. Meanwhile, many sad secrets unfold in the village...",
   "mean": 7,
-  "rank": 4403,
-  "popularity": 2124,
-  "num_list_users": 96541,
-  "num_scoring_users": 48089,
+  "rank": 4468,
+  "popularity": 2125,
+  "num_list_users": 96616,
+  "num_scoring_users": 48143,
   "nsfw": "white",
   "created_at": "2007-10-26T08:54:57+00:00",
-  "updated_at": "2023-09-23T08:01:47+00:00",
+  "updated_at": "2024-05-03T19:04:15+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 12,

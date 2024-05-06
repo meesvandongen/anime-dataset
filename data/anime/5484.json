@@ -16,10 +16,10 @@
   "end_date": "2009-06-26",
   "synopsis": "Short comedy sketches involving Tenko & Kou.",
   "mean": 6.57,
-  "rank": 6672,
-  "popularity": 9595,
-  "num_list_users": 3431,
-  "num_scoring_users": 1050,
+  "rank": 6831,
+  "popularity": 9612,
+  "num_list_users": 3435,
+  "num_scoring_users": 1052,
   "nsfw": "white",
   "created_at": "2008-11-07T19:55:18+00:00",
   "updated_at": "2022-12-13T12:44:31+00:00",
@@ -48,6 +48,7 @@
     "year": 2008,
     "season": "summer"
   },
+  "source": "light_novel",
   "average_episode_duration": 160,
   "rating": "pg_13",
   "studios": []
