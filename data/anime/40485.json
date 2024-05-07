@@ -15,14 +15,14 @@
   "start_date": "2020-04-08",
   "end_date": "2021-06-30",
   "synopsis": "Fourth season of Strike the Blood.",
-  "mean": 6.96,
-  "rank": 4583,
-  "popularity": 2271,
-  "num_list_users": 86957,
-  "num_scoring_users": 26223,
+  "mean": 6.97,
+  "rank": 4616,
+  "popularity": 2270,
+  "num_list_users": 87083,
+  "num_scoring_users": 26316,
   "nsfw": "white",
   "created_at": "2019-10-05T05:22:58+00:00",
-  "updated_at": "2023-01-19T22:32:31+00:00",
+  "updated_at": "2024-05-05T04:23:01+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -41,10 +41,6 @@
     {
       "id": 35,
       "name": "Harem"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     },
     {
       "id": 32,

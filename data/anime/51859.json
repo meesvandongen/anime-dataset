@@ -13,20 +13,24 @@
   "start_date": "2024-04-02",
   "end_date": "2024-05-21",
   "synopsis": "Anime adaptation of the stage play Touken Ranbu: Kyoden Moyuru Honnouji.",
-  "mean": 5.79,
-  "rank": 10637,
-  "popularity": 6553,
-  "num_list_users": 9471,
-  "num_scoring_users": 623,
+  "mean": 5.82,
+  "rank": 10598,
+  "popularity": 6508,
+  "num_list_users": 9657,
+  "num_scoring_users": 663,
   "nsfw": "white",
   "created_at": "2022-05-19T22:55:05+00:00",
-  "updated_at": "2024-03-30T07:27:31+00:00",
+  "updated_at": "2024-05-04T13:57:22+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
     },
     {
       "id": 10,

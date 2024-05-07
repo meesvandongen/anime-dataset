@@ -6,14 +6,16 @@
     "large": "https://cdn.myanimelist.net/images/anime/1875/142717l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "How I made a Harem of Sex Friends"
+    ],
     "en": "",
     "ja": "僕にハーレムセフレが出来た理由"
   },
   "start_date": "2024-06-28",
   "synopsis": "",
-  "popularity": 21602,
-  "num_list_users": 135,
+  "popularity": 20087,
+  "num_list_users": 215,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2024-04-24T13:14:41+00:00",
@@ -31,7 +33,13 @@
     "year": 2024,
     "season": "spring"
   },
+  "source": "other",
   "average_episode_duration": 1200,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 405,
+      "name": "T-Rex"
+    }
+  ]
 }
