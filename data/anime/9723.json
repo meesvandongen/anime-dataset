@@ -18,13 +18,13 @@
   "end_date": "2010-10-03",
   "synopsis": "Summary of the first season of Hakuouki Shinsengumi Kitan. Aired the week before the second season began. ",
   "mean": 7.11,
-  "rank": 3948,
-  "popularity": 5557,
-  "num_list_users": 14176,
-  "num_scoring_users": 5281,
+  "rank": 4074,
+  "popularity": 5561,
+  "num_list_users": 14183,
+  "num_scoring_users": 5286,
   "nsfw": "white",
   "created_at": "2010-10-23T20:25:13+00:00",
-  "updated_at": "2023-12-28T15:28:21+00:00",
+  "updated_at": "2024-05-06T20:39:23+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -51,10 +51,6 @@
     {
       "id": 37,
       "name": "Supernatural"
-    },
-    {
-      "id": 32,
-      "name": "Vampire"
     }
   ],
   "num_episodes": 1,
