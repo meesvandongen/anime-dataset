@@ -2,8 +2,8 @@
   "id": 53802,
   "title": "2.5-jigen no Ririsa",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1630/137739.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1630/137739l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1797/142936.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1797/142936l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,14 +13,14 @@
     "en": "2.5 Dimensional Seduction",
     "ja": "2.5次元の誘惑〈りりさ〉"
   },
-  "start_date": "2024-07",
+  "start_date": "2024-07-05",
   "synopsis": "\"I have no interest in real girls!\" So claims Okumura, the president of the school's manga club. He's your typical otaku, obsessed with a sexy (fictional) 2D manga character known as Lilliel. Then the new school year starts, and a (real!) 3D girl named Lilysa whose passion is cosplay joins the club. Lilysa convinces Okumura to become her photographer—and guess who her favorite manga character is? Not only that, but Lilysa is into modeling the fetishy stuff! The boundaries between 2D and 3D start to blur as this hot-blooded romantic comedy unfolds.\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 4469,
-  "num_list_users": 24492,
+  "popularity": 4403,
+  "num_list_users": 25333,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2022-12-09T15:10:10+00:00",
-  "updated_at": "2024-04-26T09:05:34+00:00",
+  "updated_at": "2024-05-10T09:18:28+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -53,6 +53,9 @@
   "start_season": {
     "year": 2024,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday"
   },
   "source": "manga",
   "average_episode_duration": 0,

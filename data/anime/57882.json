@@ -12,8 +12,8 @@
   },
   "start_date": "2023-12-02",
   "synopsis": "",
-  "rank": 19697,
-  "popularity": 21505,
+  "rank": 19707,
+  "popularity": 21546,
   "num_list_users": 140,
   "num_scoring_users": 12,
   "nsfw": "white",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 390,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2080,
+      "name": "Super Normal Studio"
+    }
+  ]
 }

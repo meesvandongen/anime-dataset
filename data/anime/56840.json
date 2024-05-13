@@ -16,14 +16,14 @@
   "start_date": "2024-05-02",
   "end_date": "2024-07-17",
   "synopsis": "An ordinary high school student named Bon becomes part of a team of time-traveling agents tasked with saving people's lives during historical events that happen across different eras and locations around the globe. \n\n(Source: Netflix)",
-  "mean": 6.96,
-  "rank": 4678,
-  "popularity": 9335,
-  "num_list_users": 3772,
-  "num_scoring_users": 326,
+  "mean": 7.02,
+  "rank": 4544,
+  "popularity": 8932,
+  "num_list_users": 4366,
+  "num_scoring_users": 520,
   "nsfw": "white",
   "created_at": "2023-10-04T14:11:23+00:00",
-  "updated_at": "2024-03-23T03:23:04+00:00",
+  "updated_at": "2024-05-11T10:16:43+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -34,6 +34,14 @@
     {
       "id": 2,
       "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
     },
     {
       "id": 78,
@@ -47,7 +55,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1680,
-  "rating": "pg_13",
+  "rating": "r",
   "studios": [
     {
       "id": 4,

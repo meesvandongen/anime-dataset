@@ -8,29 +8,25 @@
   "alternative_titles": {
     "synonyms": [],
     "en": "Ai-Mai-Mi Surgical Friends",
-    "ja": "ちょぼらうにょぽみ劇場第三幕『あいまいみー～Surgical Friends～』"
+    "ja": "ちょぼらうにょぽみ劇場第三幕「あいまいみー~Surgical Friends~」"
   },
   "start_date": "2017-01-03",
   "end_date": "2017-03-21",
   "synopsis": "Third season of Ai Mai Mii.",
   "mean": 6.05,
-  "rank": 9598,
-  "popularity": 6251,
-  "num_list_users": 10561,
-  "num_scoring_users": 4641,
+  "rank": 9659,
+  "popularity": 6259,
+  "num_list_users": 10573,
+  "num_scoring_users": 4648,
   "nsfw": "white",
   "created_at": "2016-10-27T01:31:13+00:00",
-  "updated_at": "2022-03-05T03:15:58+00:00",
+  "updated_at": "2024-05-07T07:24:48+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 12,
