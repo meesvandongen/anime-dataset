@@ -12,10 +12,10 @@
   },
   "start_date": "2013-05-27",
   "synopsis": "",
-  "rank": 17189,
-  "popularity": 22944,
-  "num_list_users": 97,
-  "num_scoring_users": 19,
+  "rank": 17194,
+  "popularity": 23043,
+  "num_list_users": 96,
+  "num_scoring_users": 18,
   "nsfw": "white",
   "created_at": "2020-12-11T12:53:58+00:00",
   "updated_at": "2022-04-19T06:04:32+00:00",
@@ -39,5 +39,10 @@
   "source": "original",
   "average_episode_duration": 410,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2933,
+      "name": "Hutoon Animation"
+    }
+  ]
 }

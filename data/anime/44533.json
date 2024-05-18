@@ -13,8 +13,8 @@
   "start_date": "2011-04-01",
   "end_date": "2011",
   "synopsis": "",
-  "rank": 17182,
-  "popularity": 22290,
+  "rank": 17187,
+  "popularity": 22299,
   "num_list_users": 112,
   "num_scoring_users": 18,
   "nsfw": "white",
@@ -40,5 +40,10 @@
   "source": "original",
   "average_episode_duration": 798,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2933,
+      "name": "Hutoon Animation"
+    }
+  ]
 }
