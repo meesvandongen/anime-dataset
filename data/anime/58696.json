@@ -1,0 +1,50 @@
+{
+  "id": 58696,
+  "title": "Yuanshen: Xuqu PV - Zhi Zhongmu de Huanyan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1623/142653.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1623/142653l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "【原神】序曲PV「フィナーレへの歓宴」"
+    ],
+    "en": "Genshin Impact: Overture Teaser - The Final Feast",
+    "ja": "《原神》序曲PV——「致终幕的欢宴」"
+  },
+  "start_date": "2023-07-03",
+  "end_date": "2023-07-03",
+  "synopsis": "Promotional video showcasing the Fontaine cast of characters in Genshin Impact.",
+  "mean": 7.09,
+  "popularity": 15350,
+  "num_list_users": 597,
+  "num_scoring_users": 326,
+  "nsfw": "white",
+  "created_at": "2024-04-18T11:43:32+00:00",
+  "updated_at": "2024-05-14T18:30:40+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 222,
+  "rating": "g",
+  "studios": []
+}

@@ -12,14 +12,14 @@
     "en": "The Café Terrace and Its Goddesses Season 2",
     "ja": "女神のカフェテラス 第2期"
   },
-  "start_date": "2024-07",
+  "start_date": "2024-07-05",
   "synopsis": "Second season of Megami no Café Terrace.",
-  "popularity": 4379,
-  "num_list_users": 25699,
+  "popularity": 4352,
+  "num_list_users": 26119,
   "num_scoring_users": 1,
   "nsfw": "gray",
   "created_at": "2023-06-23T17:37:38+00:00",
-  "updated_at": "2024-02-13T15:20:06+00:00",
+  "updated_at": "2024-05-14T19:58:42+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -52,6 +52,10 @@
   "start_season": {
     "year": 2024,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:26"
   },
   "source": "manga",
   "average_episode_duration": 0,

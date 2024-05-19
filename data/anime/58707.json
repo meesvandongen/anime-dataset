@@ -1,0 +1,48 @@
+{
+  "id": 58707,
+  "title": "Yuri!!! on Ice The Movie: Ice Adolescence PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1716/142666.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1716/142666l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ユーリ!!! on ICE 劇場版 : ICE ADOLESCENCE"
+  },
+  "start_date": "2020-11-26",
+  "end_date": "2020-11-26",
+  "synopsis": "A preview for the canceled Yuri!!! on Ice The Movie: Ice Adolescence.",
+  "popularity": 24790,
+  "num_list_users": 70,
+  "num_scoring_users": 29,
+  "nsfw": "white",
+  "created_at": "2024-04-19T19:02:30+00:00",
+  "updated_at": "2024-05-13T14:45:57+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}

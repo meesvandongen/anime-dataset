@@ -1,0 +1,50 @@
+{
+  "id": 55586,
+  "title": "Yuanshen: Xumi CM Duanpian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1711/136337.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1711/136337l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "【原神】スメールPV"
+    ],
+    "en": "Genshin Impact: Sumeru PV",
+    "ja": "《原神》须弥CM短片"
+  },
+  "start_date": "2022-08-11",
+  "end_date": "2022-08-11",
+  "synopsis": "Promotional video showcasing the Sumeru storyline of Genshin Impact.",
+  "mean": 6.8,
+  "popularity": 15727,
+  "num_list_users": 544,
+  "num_scoring_users": 282,
+  "nsfw": "white",
+  "created_at": "2023-06-05T19:24:17+00:00",
+  "updated_at": "2024-05-14T15:06:28+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 41,
+  "rating": "g",
+  "studios": []
+}

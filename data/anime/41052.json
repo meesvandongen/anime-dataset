@@ -13,14 +13,14 @@
     "en": "Mr. Osomatsu-san the Movie: Prologue Theater",
     "ja": "えいがのおそ松さん　前説劇場"
   },
-  "start_date": "2019-11-06",
-  "end_date": "2019-11-06",
+  "start_date": "2019-03-15",
+  "end_date": "2019-04-19",
   "synopsis": "Osomatsu-san Movie shorts shown weekly in theaters and later included in DVD/BD release. In them the boys break the fourth wall worrying about their own film being released.",
   "mean": 6.81,
-  "rank": 5603,
-  "popularity": 10818,
-  "num_list_users": 2356,
-  "num_scoring_users": 816,
+  "rank": 5752,
+  "popularity": 10839,
+  "num_list_users": 2359,
+  "num_scoring_users": 817,
   "nsfw": "white",
   "created_at": "2020-01-14T00:37:51+00:00",
   "updated_at": "2024-05-02T07:41:38+00:00",
@@ -39,7 +39,7 @@
   "num_episodes": 6,
   "start_season": {
     "year": 2019,
-    "season": "fall"
+    "season": "winter"
   },
   "source": "manga",
   "average_episode_duration": 129,
