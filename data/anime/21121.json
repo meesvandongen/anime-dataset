@@ -2,8 +2,8 @@
   "id": 21121,
   "title": "Heart Cocktail Again",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/55753.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/55753l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/55753.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/55753l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,10 +13,10 @@
   "start_date": "2003-10-22",
   "end_date": "2003-10-22",
   "synopsis": "An OVA produced to celebrate the 20th anniversary of Watase Seizou's Heart Cocktail manga.\n\n(Source: AniDB)",
-  "mean": 6.29,
-  "rank": 8570,
-  "popularity": 14806,
-  "num_list_users": 684,
+  "mean": 6.3,
+  "rank": 8023,
+  "popularity": 14811,
+  "num_list_users": 686,
   "num_scoring_users": 174,
   "nsfw": "white",
   "created_at": "2013-11-03T15:07:34+00:00",
@@ -41,5 +41,10 @@
   "source": "manga",
   "average_episode_duration": 2460,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 34,
+      "name": "HAL Film Maker"
+    }
+  ]
 }

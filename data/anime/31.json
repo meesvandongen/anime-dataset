@@ -2,13 +2,14 @@
   "id": 31,
   "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1993/113122.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1993/113122.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1993/113122l.webp"
   },
   "alternative_titles": {
     "synonyms": [
       "Shinseiki Evangelion Gekijouban: Shi to Shinsei",
-      "Neon Genesis Evangelion - Death and Rebirth"
+      "Neon Genesis Evangelion: Death and Rebirth",
+      "Revival of Evangelion"
     ],
     "en": "Neon Genesis Evangelion: Death & Rebirth",
     "ja": "新世紀エヴァンゲリオン劇場版 シト新生"
@@ -16,14 +17,14 @@
   "start_date": "1997-03-15",
   "end_date": "1997-03-15",
   "synopsis": "In the year 2015, more than a decade has passed since the catastrophic event known as Second Impact befell mankind. During this time of recovery, a select few learned of beings known as the Angels—colossal malevolent entities with the intention of triggering the Third Impact and wiping out the rest of humanity.\n\nCalled into the city of Tokyo-3 by his father Gendou Ikari, teenager Shinji is thrust headlong into humanity's struggle. Separated from Gendou since the death of his mother, Shinji presumes that his father wishes to repair their shattered familial bonds; instead, he discovers that he was brought to pilot a giant machine capable of fighting the Angels, Evangelion Unit-01. Forced to battle against wave after wave of mankind's greatest threat, the young boy finds himself caught in the middle of a plan that could affect the future of humanity forever.\n\n[Written by MAL Rewrite]",
-  "mean": 7.48,
-  "rank": 2093,
-  "popularity": 925,
-  "num_list_users": 262713,
-  "num_scoring_users": 146140,
+  "mean": 7.47,
+  "rank": 1992,
+  "popularity": 926,
+  "num_list_users": 262896,
+  "num_scoring_users": 146258,
   "nsfw": "white",
   "created_at": "2005-11-11T01:36:03+00:00",
-  "updated_at": "2023-11-25T12:55:08+00:00",
+  "updated_at": "2024-05-20T22:40:07+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -68,6 +69,10 @@
     {
       "id": 10,
       "name": "Production I.G"
+    },
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
     }
   ]
 }

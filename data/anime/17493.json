@@ -2,8 +2,8 @@
   "id": 17493,
   "title": "Ashita Genki ni Nare!: Hanbun no Satsumaimo",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/46947.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/8/46947l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/46947.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/8/46947l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,10 +13,10 @@
   "start_date": "2005-06-30",
   "end_date": "2005-06-30",
   "synopsis": "The story is about a 5-year-old girl who lived in just after World War II when people were struggle for living.\n\n(Source: AnimeNfo)",
-  "mean": 6.38,
-  "rank": 8073,
-  "popularity": 13559,
-  "num_list_users": 1000,
+  "mean": 6.39,
+  "rank": 7489,
+  "popularity": 13582,
+  "num_list_users": 1002,
   "num_scoring_users": 180,
   "nsfw": "white",
   "created_at": "2013-02-14T08:29:38+00:00",
@@ -36,5 +36,10 @@
   },
   "source": "novel",
   "average_episode_duration": 5340,
-  "studios": []
+  "studios": [
+    {
+      "id": 907,
+      "name": "AYCO"
+    }
+  ]
 }
