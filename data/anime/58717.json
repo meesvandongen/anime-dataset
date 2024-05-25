@@ -11,15 +11,18 @@
     "ja": "餓狼伝: The Way of the Lone Wolf"
   },
   "start_date": "2024-05-23",
+  "end_date": "2024-05-23",
   "synopsis": "On the run from his troubled past, Juuzou is forced into competing in a deadly underground fighting tournament. Skilled in the respected martial art Takemiya-ryuu, Juuzou must navigate a path filled with formidable foes and his personal demons — all while dealing with a bounty of three million yen on his head and a detective on his trail.\n\n(Source: Netflix, edited)",
-  "popularity": 12619,
-  "num_list_users": 1310,
-  "num_scoring_users": 0,
+  "mean": 6.47,
+  "rank": 6949,
+  "popularity": 10979,
+  "num_list_users": 2282,
+  "num_scoring_users": 351,
   "nsfw": "white",
   "created_at": "2024-04-22T03:24:43+00:00",
-  "updated_at": "2024-04-22T06:41:45+00:00",
+  "updated_at": "2024-05-23T21:59:10+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -30,13 +33,14 @@
       "name": "Martial Arts"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 8,
   "start_season": {
     "year": 2024,
     "season": "spring"
   },
   "source": "novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1463,
+  "rating": "r",
   "studios": [
     {
       "id": 951,

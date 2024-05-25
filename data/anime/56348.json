@@ -10,10 +10,10 @@
     "en": "Dungeon People",
     "ja": "ダンジョンの中のひと"
   },
-  "start_date": "2024-07",
+  "start_date": "2024-07-06",
   "synopsis": "An unexplored dungeon, filled with monsters and traps. An expert thief, searching for her lost father. When Clay delves into the dungeon deeper than any adventurer has ever gone, she is offered a job by the dungeon's caretaker! Now, instead of exploring, Clay must learn how to interview new monsters, set traps and position slimes around the dungeon. Will this new career path bring her any closer to finding her father?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 8406,
-  "num_list_users": 5203,
+  "popularity": 8236,
+  "num_list_users": 5496,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-08-17T05:57:36+00:00",
@@ -38,6 +38,10 @@
   "start_season": {
     "year": 2024,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:53"
   },
   "source": "web_manga",
   "average_episode_duration": 0,

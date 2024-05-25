@@ -2,22 +2,22 @@
   "id": 49785,
   "title": "Fairy Tail: 100 Years Quest",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1785/141960.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1785/141960l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1417/143241.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1417/143241l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "FAIRY TAIL 100年クエスト"
   },
-  "start_date": "2024-07",
+  "start_date": "2024-07-07",
   "synopsis": "The 100 Years Quest: a mission so challenging and hazardous that it has remained unaccomplished for over a century. While countless mages have attempted to take on this grueling objective, their results ended in either overwhelming defeat or worse. Nonetheless, Natsu Dragneel and his friends—Lucy Heartfilia, Gray Fullbuster, Erza Scarlet, and Wendy Marvell, along with the exceeds Happy and Charlés—ambitiously embark on the quest.\n\nA year after the Fairy Tail guild has overcome the diabolical forces of Acnologia and Zeref, Natsu and his team trek into the northern continent of Guiltina, where they seek out the employer of the 100 Years Quest and receive their nearly impossible mission: to seal away the Five Dragon Gods—a group of individuals with such vast power that, if left alone, could cause global devastation. Meanwhile, a spirited new member named Touka is recruited to Fairy Tail. Although her vibrant energy and passionate nature makes her perfect for the guild, there seems to be more to her than meets the eye.\n\nDetermined to accomplish their seemingly insurmountable mission, Natsu and his friends begin their treacherous search for the Dragon Gods. However, once encountering a new dark guild named Diabolos, along with the newest recruit of Fairy Tail revealing her true colors, Natsu and his team will find that the 100 Years Quest isn't the only challenge they face. \n\n[Written by MAL Rewrite]",
-  "popularity": 2281,
-  "num_list_users": 86989,
-  "num_scoring_users": 1,
+  "popularity": 2271,
+  "num_list_users": 87637,
+  "num_scoring_users": 8,
   "nsfw": "white",
   "created_at": "2021-09-11T14:31:18+00:00",
-  "updated_at": "2024-03-12T02:18:35+00:00",
+  "updated_at": "2024-05-24T02:13:05+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2024,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "17:30"
   },
   "source": "manga",
   "average_episode_duration": 0,

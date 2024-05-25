@@ -13,14 +13,16 @@
   "start_date": "2024-05-24",
   "end_date": "2024-05-24",
   "synopsis": "Suki demo Kirai na Amanojaku tells the story of Hiiragi Yatsuse, a first-year high school student who struggles to make friends despite his efforts to please others. His life takes an unexpected turn when one summer day, he meets Tsumugi, an oni (demon) girl on a quest to find her mother in the human world. Snow mysteriously begins to fall... and their adventure begins. \n\n(Source: Netflix, edited)",
-  "popularity": 6850,
-  "num_list_users": 8576,
-  "num_scoring_users": 2,
+  "mean": 6.98,
+  "rank": 4205,
+  "popularity": 6426,
+  "num_list_users": 10055,
+  "num_scoring_users": 574,
   "nsfw": "gray",
   "created_at": "2024-03-15T22:46:50+00:00",
-  "updated_at": "2024-04-24T19:53:17+00:00",
+  "updated_at": "2024-05-21T17:36:26+00:00",
   "media_type": "movie",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 37,
@@ -33,7 +35,7 @@
     "season": "spring"
   },
   "source": "original",
-  "average_episode_duration": 6720,
+  "average_episode_duration": 6135,
   "studios": [
     {
       "id": 1033,
