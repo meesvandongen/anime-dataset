@@ -19,7 +19,8 @@ const allAnimeJsonData = sortedFilenames.map((fileName) => {
       titleEn: singleAnime.alternative_titles?.en,
       image: singleAnime.main_picture?.medium
         .replace("https://cdn.myanimelist.net/images/anime/", "")
-        .replace(".jpg", ""),
+        .replace(".jpg", "")
+        .replace(".webp", ""),
       mean: singleAnime.mean,
       rank: singleAnime.rank,
       num_list_users: singleAnime.num_list_users,
