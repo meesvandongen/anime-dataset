@@ -2,8 +2,8 @@
   "id": 2826,
   "title": "Oz no Mahoutsukai (TV)",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/64339.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/13/64339l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/64339.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/13/64339l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,15 +15,15 @@
   },
   "start_date": "1986-10-06",
   "end_date": "1987-09-28",
-  "synopsis": "Based on The Wonderful Wizard of Oz (1900), The Marvelous Land of Oz, Ozma of Oz, and The Emerald City of Oz (1900-1920) by L. Frank Baum (1856-1919).\n\n(Source: AniDB)",
-  "mean": 7.23,
-  "rank": 3575,
-  "popularity": 10034,
-  "num_list_users": 3027,
-  "num_scoring_users": 1290,
+  "synopsis": "Dorothy and her canine pal Toto live a quiet life on a Kansas farm with Uncle Henry and Aunt Em. But one day, the little girl and her dog find themselves spirited away from the fields of Kansas, to the magical land of Oz! Dorothy and Toto meet many friends on the yellow-brick road to Emerald City, where she hopes to find a way home to Kansas-- but when she arrives, the city’s mysterious ruler, the Wizard of Oz, is not what she expects! The Wizard can help Dorothy get home, but at a daunting price: she and her friends the Tin Woodsman, the Scarecrow, and the Cowardly Lion must kill the Wicked Witch of the West and free the Winkies from her rule.\n\n(Source: Discotek Media)",
+  "mean": 6.72,
+  "rank": 5514,
+  "popularity": 10016,
+  "num_list_users": 3054,
+  "num_scoring_users": 1299,
   "nsfw": "white",
   "created_at": "2007-07-21T08:49:45+00:00",
-  "updated_at": "2023-03-21T10:58:06+00:00",
+  "updated_at": "2024-05-27T17:30:31+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -34,6 +34,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
     },
     {
       "id": 15,

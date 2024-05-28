@@ -15,14 +15,14 @@
   "start_date": "1990-09-25",
   "end_date": "1991-02-25",
   "synopsis": "In deep space a battle wages between the forces of good and evil and the fate of the Earth hangs in the balance. The evil Neos Gold dispatches her invading forces towards Earth with only one aim: the total destruction of all mankind. Now it's up to Iczer 3 (the younger sister of Iczer 1) to defend the Earth from the deadly armada of Neos Gold, with only the Earth's single remaining battle cruiser on her side. But don't count her out; what Iczer 3 lacks in experience she makes up for in all-out enthusiasm.",
-  "mean": 6.58,
-  "rank": 7114,
-  "popularity": 9359,
-  "num_list_users": 3796,
-  "num_scoring_users": 1749,
+  "mean": 5.82,
+  "rank": 10333,
+  "popularity": 9357,
+  "num_list_users": 3808,
+  "num_scoring_users": 1754,
   "nsfw": "white",
   "created_at": "2007-04-13T12:13:35+00:00",
-  "updated_at": "2020-11-21T01:41:42+00:00",
+  "updated_at": "2024-05-27T15:04:57+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 2,
       "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
     },
     {
       "id": 24,
