@@ -13,8 +13,8 @@
   "start_date": "2015-12-10",
   "end_date": "2015-12-10",
   "synopsis": "",
-  "rank": 19918,
-  "popularity": 23649,
+  "rank": 17364,
+  "popularity": 23687,
   "num_list_users": 87,
   "num_scoring_users": 15,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 5400,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2940,
+      "name": "Ocon Studio"
+    }
+  ]
 }

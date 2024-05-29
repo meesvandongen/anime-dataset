@@ -13,8 +13,8 @@
   "start_date": "2016-02-28",
   "end_date": "2017-07-09",
   "synopsis": "Korean Animation about the monsters Eerie, Rock-G, Popo, and Yossi and the adventures they go on each day!",
-  "rank": 13835,
-  "popularity": 16290,
+  "rank": 13853,
+  "popularity": 16310,
   "num_list_users": 484,
   "num_scoring_users": 78,
   "nsfw": "white",
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 150,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
 }

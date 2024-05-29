@@ -1,0 +1,49 @@
+{
+  "id": 58931,
+  "title": "Grami's Circus Show",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1264/143288.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1264/143288l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "그라미의 서커스 쇼"
+  },
+  "start_date": "2014-05-17",
+  "end_date": "2014-07-26",
+  "synopsis": "",
+  "rank": 19848,
+  "popularity": 26632,
+  "num_list_users": 22,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-05-26T04:51:28+00:00",
+  "updated_at": "2024-05-26T04:51:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 44,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
+}

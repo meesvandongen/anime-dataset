@@ -13,8 +13,8 @@
   "start_date": "2011-08-29",
   "end_date": "2013-12-12",
   "synopsis": "",
-  "rank": 19149,
-  "popularity": 22288,
+  "rank": 16591,
+  "popularity": 22311,
   "num_list_users": 114,
   "num_scoring_users": 21,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 680,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2813,
+      "name": "Iconix Entertainment"
+    }
+  ]
 }
