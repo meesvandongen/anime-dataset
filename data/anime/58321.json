@@ -1,0 +1,48 @@
+{
+  "id": 58321,
+  "title": "Ephemere",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1993/141824.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1993/141824l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "エフェメール"
+  },
+  "start_date": "2024-03-22",
+  "end_date": "2024-03-22",
+  "synopsis": "Uta, who works and lives in a hotel on Uranus, has always thought that she is different from other people. Whenever she has free time, she sits in front of her computer making things she likes and enjoys herself alone, or goes to cafes alone. One day, she receives a \"Future Ticket\" - the key to a new life. Despite this, Uta continues to live her life as she always has. However, as the \"Star Festival\", a festival to commemorate the closest point between Uranus and Neptune, approaches, she meets Paula, a popular influencer from Neptune whom she admires. After becoming close to her, Uta makes a major decision about her life.\n\n(Source: Official site, translated)",
+  "rank": 19522,
+  "popularity": 26631,
+  "num_list_users": 24,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2024-03-06T09:54:09+00:00",
+  "updated_at": "2024-05-26T13:22:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 605,
+  "studios": [
+    {
+      "id": 2303,
+      "name": "Noovo"
+    },
+    {
+      "id": 2911,
+      "name": "Studio Eight Color"
+    }
+  ]
+}

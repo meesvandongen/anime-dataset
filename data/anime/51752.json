@@ -13,8 +13,8 @@
   "start_date": "2021-09-01",
   "end_date": "2021-11-25",
   "synopsis": "The sixth season of Kkoma Bus Tayo.",
-  "rank": 15714,
-  "popularity": 20744,
+  "rank": 15753,
+  "popularity": 20754,
   "num_list_users": 183,
   "num_scoring_users": 43,
   "nsfw": "white",
@@ -39,5 +39,14 @@
   },
   "average_episode_duration": 660,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2813,
+      "name": "Iconix Entertainment"
+    },
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
 }

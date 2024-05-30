@@ -15,8 +15,8 @@
   "start_date": "2019-04",
   "end_date": "2019-04",
   "synopsis": "When Bella finds out that all the toys were not forgotten and was touched by Ace and Duri's friendship, she decides to help other toys to find their friends(owners) back. But, it seems that Louie isn't the lucky one to find his old friend, Kevin. Tayo and Lani decide to help Louie to find Kevin but there are adventures that they never thought of!\n\n(Source: Official YouTube channel)",
-  "rank": 13817,
-  "popularity": 19732,
+  "rank": 13843,
+  "popularity": 19739,
   "num_list_users": 239,
   "num_scoring_users": 72,
   "nsfw": "white",
@@ -46,5 +46,14 @@
   "source": "original",
   "average_episode_duration": 963,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2813,
+      "name": "Iconix Entertainment"
+    },
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
 }

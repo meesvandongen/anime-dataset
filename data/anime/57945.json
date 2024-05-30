@@ -1,0 +1,62 @@
+{
+  "id": 57945,
+  "title": "Tasuuketsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1729/141127.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1729/141127l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "多数欠"
+  },
+  "start_date": "2024-07-03",
+  "synopsis": "The story follows a group of five in a world where people have suddenly disappeared. A mysterious self-proclaimed \"Emperor\" gathers five people together through anonymous messages and has them participate in a game. Participants answer the question \"Do you want to live or die?\" The game has only one rule: \"Majority dies.\" \n\n(Source: MangaUpdates)",
+  "popularity": 13749,
+  "num_list_users": 962,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-01-26T09:07:42+00:00",
+  "updated_at": "2024-05-28T18:41:45+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:59"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
+}

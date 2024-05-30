@@ -13,8 +13,8 @@
   "start_date": "2018-07-25",
   "end_date": "2018-07-25",
   "synopsis": "",
-  "rank": 13490,
-  "popularity": 21764,
+  "rank": 13516,
+  "popularity": 21804,
   "num_list_users": 132,
   "num_scoring_users": 28,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 4080,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2779,
+      "name": "Studio BAZOOKA"
+    }
+  ]
 }

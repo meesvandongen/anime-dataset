@@ -13,8 +13,8 @@
   "start_date": "2020-03-05",
   "end_date": "2021-01-21",
   "synopsis": "",
-  "rank": 13491,
-  "popularity": 20455,
+  "rank": 13517,
+  "popularity": 20461,
   "num_list_users": 199,
   "num_scoring_users": 32,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 500,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2779,
+      "name": "Studio BAZOOKA"
+    }
+  ]
 }

@@ -13,8 +13,8 @@
   "start_date": "2019-04-25",
   "end_date": "2019-04-25",
   "synopsis": "",
-  "rank": 17330,
-  "popularity": 23064,
+  "rank": 17373,
+  "popularity": 23060,
   "num_list_users": 97,
   "num_scoring_users": 19,
   "nsfw": "white",
@@ -48,5 +48,10 @@
   "source": "original",
   "average_episode_duration": 4762,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2940,
+      "name": "Ocon Studio"
+    }
+  ]
 }

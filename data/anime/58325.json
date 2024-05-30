@@ -11,16 +11,17 @@
     "ja": "小绿和小蓝 第五季"
   },
   "start_date": "2024-03-13",
+  "end_date": "2024-05-29",
   "synopsis": "",
-  "rank": 14564,
-  "popularity": 18499,
-  "num_list_users": 310,
-  "num_scoring_users": 20,
+  "rank": 14592,
+  "popularity": 18430,
+  "num_list_users": 316,
+  "num_scoring_users": 22,
   "nsfw": "gray",
   "created_at": "2024-03-06T11:22:06+00:00",
-  "updated_at": "2024-03-06T11:22:06+00:00",
+  "updated_at": "2024-05-29T10:40:04+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 28,
@@ -39,7 +40,7 @@
       "name": "Fantasy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "winter"

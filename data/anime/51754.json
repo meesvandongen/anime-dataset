@@ -13,8 +13,8 @@
   "start_date": "2019-08-26",
   "end_date": "2020-06-26",
   "synopsis": "The second season of Titipo Titipo.",
-  "rank": 13950,
-  "popularity": 21110,
+  "rank": 13977,
+  "popularity": 21123,
   "num_list_users": 163,
   "num_scoring_users": 35,
   "nsfw": "white",
@@ -39,5 +39,14 @@
   },
   "average_episode_duration": 660,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2813,
+      "name": "Iconix Entertainment"
+    },
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
 }

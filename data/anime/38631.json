@@ -13,8 +13,8 @@
   "start_date": "2018-08-29",
   "end_date": "2019-02-20",
   "synopsis": "The fifth season of Kkoma Bus Tayo.",
-  "rank": 15713,
-  "popularity": 18054,
+  "rank": 15752,
+  "popularity": 18076,
   "num_list_users": 339,
   "num_scoring_users": 108,
   "nsfw": "white",
@@ -40,5 +40,14 @@
   "source": "original",
   "average_episode_duration": 660,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2813,
+      "name": "Iconix Entertainment"
+    },
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
 }

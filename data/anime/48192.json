@@ -15,8 +15,8 @@
   "start_date": "2019-09-28",
   "end_date": "2020-05-02",
   "synopsis": "",
-  "rank": 16124,
-  "popularity": 22524,
+  "rank": 16164,
+  "popularity": 22584,
   "num_list_users": 107,
   "num_scoring_users": 21,
   "nsfw": "white",
@@ -46,5 +46,10 @@
   "source": "original",
   "average_episode_duration": 420,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
 }

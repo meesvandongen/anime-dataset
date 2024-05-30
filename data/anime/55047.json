@@ -13,8 +13,8 @@
   "start_date": "2023-03-20",
   "end_date": "2023-06-15",
   "synopsis": "Fifth season of Sinbi Apartment.",
-  "rank": 13493,
-  "popularity": 17819,
+  "rank": 13519,
+  "popularity": 17847,
   "num_list_users": 358,
   "num_scoring_users": 39,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 1440,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2779,
+      "name": "Studio BAZOOKA"
+    }
+  ]
 }

@@ -13,8 +13,8 @@
   "start_date": "2021-12-22",
   "end_date": "2021-12-22",
   "synopsis": "",
-  "rank": 13486,
-  "popularity": 21269,
+  "rank": 13512,
+  "popularity": 21271,
   "num_list_users": 155,
   "num_scoring_users": 21,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 3300,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2779,
+      "name": "Studio BAZOOKA"
+    }
+  ]
 }

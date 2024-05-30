@@ -16,8 +16,8 @@
   "end_date": "2019-01-24",
   "synopsis": "With help from a 102-year-old goblin dwelling beneath their haunted apartment building, two siblings deal with ghosts and take on spooky mysteries.",
   "mean": 6.19,
-  "rank": 8489,
-  "popularity": 15205,
+  "rank": 8495,
+  "popularity": 15224,
   "num_list_users": 622,
   "num_scoring_users": 167,
   "nsfw": "white",
@@ -38,5 +38,10 @@
   },
   "average_episode_duration": 1220,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2779,
+      "name": "Studio BAZOOKA"
+    }
+  ]
 }

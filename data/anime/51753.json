@@ -15,8 +15,8 @@
   "start_date": "2020-12-10",
   "end_date": "2021-01-08",
   "synopsis": "Tayo speeds into an adventure when his friends get kidnapped by evil magicians invading their city in search of a magical gemstone.\n\n(Source: Netflix)",
-  "rank": 16183,
-  "popularity": 20750,
+  "rank": 16223,
+  "popularity": 20781,
   "num_list_users": 182,
   "num_scoring_users": 51,
   "nsfw": "gray",
@@ -37,5 +37,14 @@
   },
   "average_episode_duration": 763,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2813,
+      "name": "Iconix Entertainment"
+    },
+    {
+      "id": 2939,
+      "name": "Studio Gale"
+    }
+  ]
 }
