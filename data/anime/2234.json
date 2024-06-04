@@ -17,9 +17,9 @@
   "end_date": "2004-10-04",
   "synopsis": "Panda-Z chronicles the misadventures of Pan Taron and his giant robot Panda-Z, as they battle the evil Skull Panda and his Warunimal forces.\n\n(Source: ANN)",
   "mean": 6.1,
-  "rank": 8962,
-  "popularity": 10676,
-  "num_list_users": 2504,
+  "rank": 8968,
+  "popularity": 10679,
+  "num_list_users": 2508,
   "num_scoring_users": 892,
   "nsfw": "white",
   "created_at": "2007-03-31T08:24:31+00:00",
@@ -57,6 +57,7 @@
     "year": 2004,
     "season": "spring"
   },
+  "source": "manga",
   "average_episode_duration": 300,
   "rating": "pg",
   "studios": [

@@ -14,8 +14,8 @@
   "end_date": "2013-05-06",
   "synopsis": "Takahashi is transferred to a main anchor of a news program, which is known for being a little...weird. This is a comedy about somewhat ridiculous happenings occurring at a broadcasting station.\n\n(Source: YouTube)",
   "mean": 5.44,
-  "rank": 11754,
-  "popularity": 14048,
+  "rank": 11768,
+  "popularity": 14050,
   "num_list_users": 877,
   "num_scoring_users": 352,
   "nsfw": "white",
@@ -45,5 +45,10 @@
   "source": "other",
   "average_episode_duration": 300,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
 }
