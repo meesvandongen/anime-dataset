@@ -17,8 +17,8 @@
   "end_date": "2017-06-18",
   "synopsis": "Direct continuation of World Fool News (TV).",
   "mean": 5.75,
-  "rank": 10615,
-  "popularity": 12900,
+  "rank": 10633,
+  "popularity": 12911,
   "num_list_users": 1214,
   "num_scoring_users": 498,
   "nsfw": "white",
@@ -52,5 +52,10 @@
   "source": "other",
   "average_episode_duration": 595,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
 }

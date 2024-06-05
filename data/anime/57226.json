@@ -11,16 +11,17 @@
     "ja": "九天玄帝诀 第五季"
   },
   "start_date": "2023-11-20",
+  "end_date": "2024-05-17",
   "synopsis": "The fifth season of Jiu Tian Xuan Di Jue.",
-  "rank": 20672,
-  "popularity": 17968,
-  "num_list_users": 348,
-  "num_scoring_users": 43,
+  "rank": 20679,
+  "popularity": 17949,
+  "num_list_users": 351,
+  "num_scoring_users": 48,
   "nsfw": "white",
   "created_at": "2023-11-20T13:27:02+00:00",
-  "updated_at": "2023-11-20T15:21:49+00:00",
+  "updated_at": "2024-05-30T08:17:30+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -43,7 +44,7 @@
       "name": "Mythology"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 52,
   "start_season": {
     "year": 2023,
     "season": "fall"

@@ -13,8 +13,8 @@
   "start_date": "2021-03-11",
   "end_date": "2021-07-15",
   "synopsis": "",
-  "rank": 16219,
-  "popularity": 24330,
+  "rank": 16229,
+  "popularity": 24335,
   "num_list_users": 78,
   "num_scoring_users": 11,
   "nsfw": "white",
@@ -40,5 +40,10 @@
   "source": "original",
   "average_episode_duration": 0,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2944,
+      "name": "Brick Studio"
+    }
+  ]
 }
