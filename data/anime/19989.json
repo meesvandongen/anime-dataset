@@ -13,8 +13,8 @@
   "start_date": "1965-12-14",
   "end_date": "1967-10-11",
   "synopsis": "On a distant world, people with paranormal powers battle each other.\n\nBased on a story by Yamano Kouichi.\n\n(Source: AniDB)",
-  "rank": 13842,
-  "popularity": 15631,
+  "rank": 13852,
+  "popularity": 15640,
   "num_list_users": 561,
   "num_scoring_users": 77,
   "nsfw": "white",
@@ -43,5 +43,10 @@
   },
   "average_episode_duration": 1440,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 989,
+      "name": "Nihon Hoso Eigasha"
+    }
+  ]
 }

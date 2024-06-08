@@ -13,9 +13,9 @@
   "start_date": "1969-12-20",
   "end_date": "1969-12-20",
   "synopsis": "Second Kyojin no Hoshi movie.",
-  "rank": 18584,
-  "popularity": 15690,
-  "num_list_users": 554,
+  "rank": 16008,
+  "popularity": 15696,
+  "num_list_users": 555,
   "num_scoring_users": 111,
   "nsfw": "white",
   "created_at": "2013-02-10T14:33:34+00:00",
@@ -41,6 +41,7 @@
     "year": 1969,
     "season": "fall"
   },
+  "source": "manga",
   "average_episode_duration": 4200,
   "rating": "g",
   "studios": []

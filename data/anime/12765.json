@@ -15,8 +15,8 @@
   "start_date": "1968-09-30",
   "end_date": "1969-03-29",
   "synopsis": "A transfer student only just arrives and is confronted by the school gang. One by one he defeats the gang members and challenges their leader to a fight. Each 10 minute episode aired Monday through Saturday. \n\n(Source: AniDB) ",
-  "rank": 15211,
-  "popularity": 15194,
+  "rank": 15221,
+  "popularity": 15202,
   "num_list_users": 627,
   "num_scoring_users": 122,
   "nsfw": "white",
@@ -37,5 +37,10 @@
   },
   "average_episode_duration": 600,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2947,
+      "name": "Tokyo TV Douga"
+    }
+  ]
 }

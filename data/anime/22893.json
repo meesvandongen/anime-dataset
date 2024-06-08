@@ -15,9 +15,9 @@
   "start_date": "1972-08-27",
   "end_date": "1972-11-26",
   "synopsis": "A young woman aims to become a famous fashion designer.\n\n(Source: AniDB)",
-  "rank": 19274,
-  "popularity": 12565,
-  "num_list_users": 1353,
+  "rank": 16696,
+  "popularity": 12568,
+  "num_list_users": 1355,
   "num_scoring_users": 104,
   "nsfw": "white",
   "created_at": "2014-03-02T04:13:53+00:00",
@@ -46,5 +46,10 @@
   "source": "manga",
   "average_episode_duration": 1500,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2948,
+      "name": "Nippon TV Douga"
+    }
+  ]
 }

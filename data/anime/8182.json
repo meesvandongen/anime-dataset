@@ -16,8 +16,8 @@
   "end_date": "1968-03-16",
   "synopsis": "When Earth is threatened by the invading Ghostar, a young boy with nerves of steel and the strength of 50 men appears from a cave on Mount Fuji. He is Shadar, a boy of unknown origin who, with his faithful dog, Pinboke, fights to save the world. \n\n(Source: The Anime Encyclopedia) ",
   "mean": 6.03,
-  "rank": 9328,
-  "popularity": 13206,
+  "rank": 9342,
+  "popularity": 13214,
   "num_list_users": 1117,
   "num_scoring_users": 408,
   "nsfw": "white",
@@ -42,5 +42,10 @@
   },
   "average_episode_duration": 600,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 989,
+      "name": "Nihon Hoso Eigasha"
+    }
+  ]
 }
