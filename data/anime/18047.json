@@ -14,8 +14,8 @@
   "end_date": "2010-08-04",
   "synopsis": "A girl who is protecting her city.",
   "mean": 4.4,
-  "rank": 13150,
-  "popularity": 14149,
+  "rank": 13153,
+  "popularity": 14159,
   "num_list_users": 856,
   "num_scoring_users": 429,
   "nsfw": "white",
@@ -45,6 +45,10 @@
     {
       "id": 2457,
       "name": "Studio Ranmaru"
+    },
+    {
+      "id": 2955,
+      "name": "Sunny Gapen"
     }
   ]
 }

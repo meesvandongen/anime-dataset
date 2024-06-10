@@ -17,16 +17,20 @@
   "end_date": "2006-02-22",
   "synopsis": "Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.\n",
   "mean": 6.12,
-  "rank": 8905,
-  "popularity": 9971,
-  "num_list_users": 3116,
+  "rank": 8872,
+  "popularity": 9974,
+  "num_list_users": 3117,
   "num_scoring_users": 1195,
   "nsfw": "white",
   "created_at": "2006-04-07T17:06:58+00:00",
-  "updated_at": "2022-11-27T22:52:07+00:00",
-  "media_type": "ova",
+  "updated_at": "2024-06-06T10:36:56+00:00",
+  "media_type": "special",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 18,
       "name": "Mecha"
@@ -34,6 +38,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,

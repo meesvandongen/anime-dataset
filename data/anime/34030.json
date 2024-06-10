@@ -14,9 +14,9 @@
   "end_date": "2017-01-27",
   "synopsis": "",
   "mean": 6.51,
-  "popularity": 7022,
-  "num_list_users": 8168,
-  "num_scoring_users": 3176,
+  "popularity": 7025,
+  "num_list_users": 8178,
+  "num_scoring_users": 3179,
   "nsfw": "gray",
   "created_at": "2016-09-10T09:38:57+00:00",
   "updated_at": "2022-03-21T16:12:18+00:00",
@@ -36,10 +36,5 @@
   "source": "manga",
   "average_episode_duration": 1278,
   "rating": "rx",
-  "studios": [
-    {
-      "id": 977,
-      "name": "Queen Bee"
-    }
-  ]
+  "studios": []
 }
