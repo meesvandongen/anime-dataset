@@ -2,8 +2,8 @@
   "id": 37474,
   "title": "Houkago no Yuutousei",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1639/93062.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1639/93062l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1639/93062.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1639/93062l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,9 @@
   "start_date": "2018-05-25",
   "end_date": "2018-12-28",
   "synopsis": "",
-  "mean": 6.88,
-  "popularity": 6284,
-  "num_list_users": 10591,
+  "mean": 6.89,
+  "popularity": 6285,
+  "num_list_users": 10597,
   "num_scoring_users": 3973,
   "nsfw": "gray",
   "created_at": "2018-03-13T11:03:36+00:00",
@@ -36,10 +36,5 @@
   "source": "manga",
   "average_episode_duration": 1228,
   "rating": "rx",
-  "studios": [
-    {
-      "id": 977,
-      "name": "Queen Bee"
-    }
-  ]
+  "studios": []
 }

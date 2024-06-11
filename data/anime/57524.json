@@ -2,8 +2,8 @@
   "id": 57524,
   "title": "Make Heroine ga Oosugiru!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1204/142102.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1204/142102l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1332/143513.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1332/143513l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "Too Many Losing Heroines!",
     "ja": "負けヒロインが多すぎる！"
   },
-  "start_date": "2024-07",
+  "start_date": "2024-07-14",
   "synopsis": "\"Huh? Who are you calling loser?\"\n\nAs the background of the class, I, Kazuhiko Nukumizu, witnessed a popular girl—Anna Yanami—getting rejected by another guy.\n\n\"Even though he said we'll get married. Don't you think he's pretty mean?\"\n\"When did he say that?\"\n\"When we were 4 or 5 years old.\"\n\nThat doesn't count, right? With this, the losing heroines like Remon Yakishio from the track and field club and Chika Komari from the literature club.\n\n\"Nukumizu-kun. There are two types of girls: childhood friends or cheating cats.\"\n\"I see. Well, that's a bold statement.\"\n\nThere's a fortune for those who shine only after losing. Losing heroines—the curtain to the mysterious coming-of-age story Makeine opens now!\n\n(Source: Shogakukan, translated)",
-  "popularity": 5704,
-  "num_list_users": 13509,
+  "popularity": 5476,
+  "num_list_users": 14926,
   "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2023-12-14T11:17:53+00:00",
-  "updated_at": "2024-05-23T10:20:57+00:00",
+  "updated_at": "2024-06-10T11:32:10+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2024,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:30"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

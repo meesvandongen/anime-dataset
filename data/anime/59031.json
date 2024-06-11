@@ -1,0 +1,52 @@
+{
+  "id": 59031,
+  "title": "Pororo Movie: Badas-sog Daemoheom",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1354/143506.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1354/143506l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pororo: Underwater Adventure",
+    "ja": "뽀로로 극장판 바닷속 대모험"
+  },
+  "start_date": "2024-12",
+  "end_date": "2024-12",
+  "synopsis": "Pororo and his friends visit the stronghold of the Red Hunters, the guardians of the ocean, filled with admiration in their hearts. They face consecutive attacks from sea garbage, nasty sharks, and the terrifying sea monster Situs. Though Pororo and Crong are rescued by Merlok, their attempt to hunt Situs fails, and the creature escapes with their friends swallowed. Refusing to give up on their friends, Pororo and Crong decide to help Merlok capture Situs. However, Merlok’s revealed plan to sacrifice their friends shocks Pororo deeply. Can Pororo and Crong stop Merlok and save their friends?\n\n(Source: K-Movie Entertainment)",
+  "popularity": 26693,
+  "num_list_users": 0,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-06-10T05:42:02+00:00",
+  "updated_at": "2024-06-10T05:42:02+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2940,
+      "name": "Ocon Studio"
+    }
+  ]
+}

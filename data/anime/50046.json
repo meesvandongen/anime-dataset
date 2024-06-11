@@ -16,10 +16,10 @@
   "end_date": "2021-08-14",
   "synopsis": "Special Friday 13th episode of Yami Shibai 9. ",
   "mean": 5.68,
-  "rank": 10965,
-  "popularity": 10984,
-  "num_list_users": 2280,
-  "num_scoring_users": 962,
+  "rank": 10951,
+  "popularity": 10983,
+  "num_list_users": 2288,
+  "num_scoring_users": 965,
   "nsfw": "white",
   "created_at": "2021-10-07T16:03:32+00:00",
   "updated_at": "2022-08-04T06:38:52+00:00",
@@ -47,10 +47,6 @@
     {
       "id": 1169,
       "name": "ILCA"
-    },
-    {
-      "id": 2056,
-      "name": "DRAWIZ"
     }
   ]
 }

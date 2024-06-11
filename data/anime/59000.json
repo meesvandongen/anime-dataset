@@ -1,0 +1,39 @@
+{
+  "id": 59000,
+  "title": "Blues in the Closet",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1279/143440.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1279/143440l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Blues in the Closet"
+  },
+  "start_date": "2024-06-06",
+  "end_date": "2024-06-06",
+  "synopsis": "Music video for the song Blues in the Closet by ZUTOMAYO.",
+  "popularity": 23801,
+  "num_list_users": 86,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2024-06-06T14:34:03+00:00",
+  "updated_at": "2024-06-06T16:25:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 224,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": 57822,
+  "title": "Atashin'chi Next",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1890/143420.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1890/143420l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "あたしンちNEXT"
+  },
+  "start_date": "2024-06-05",
+  "end_date": "2024-10-05",
+  "synopsis": "",
+  "rank": 18361,
+  "popularity": 26615,
+  "num_list_users": 51,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-01-13T14:30:35+00:00",
+  "updated_at": "2024-06-06T10:36:03+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 600,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}
