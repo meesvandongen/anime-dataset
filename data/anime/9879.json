@@ -6,7 +6,9 @@
     "large": "https://cdn.myanimelist.net/images/anime/5/27317l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Be Careful Yumi!"
+    ],
     "en": "",
     "ja": "小学生の誘拐防止　ユミちゃんあぶないよ"
   },
@@ -14,8 +16,8 @@
   "end_date": "1991-05-21",
   "synopsis": "A video for kids shown in japanese schools to prevent against kid abduction.",
   "mean": 5.32,
-  "rank": 12099,
-  "popularity": 16128,
+  "rank": 12107,
+  "popularity": 16135,
   "num_list_users": 507,
   "num_scoring_users": 200,
   "nsfw": "white",
