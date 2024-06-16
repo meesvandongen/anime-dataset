@@ -16,8 +16,8 @@
   "start_date": "2016-08-29",
   "end_date": "2017-02-20",
   "synopsis": "",
-  "rank": 13676,
-  "popularity": 21304,
+  "rank": 13686,
+  "popularity": 21317,
   "num_list_users": 156,
   "num_scoring_users": 32,
   "nsfw": "white",
@@ -51,5 +51,10 @@
   "source": "original",
   "average_episode_duration": 1460,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2954,
+      "name": "Studio Button"
+    }
+  ]
 }
