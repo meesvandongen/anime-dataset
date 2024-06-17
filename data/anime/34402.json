@@ -14,23 +14,31 @@
   "end_date": "2017-06-21",
   "synopsis": "The project anthropomorphizes rice (kome in Japanese) into schoolboys. At the Kokuritsu Inaho Academy (\"Rice Ear Academy,\" a wordplay on national schools), five new rice-inspired students attempt to supplant bread as the popular grain at the school. The new students form the \"Love Rice\" unit and challenge themselves to perform at the \"Harvest Show\" to show the delicious appeal of rice grains. The \"heartwarming 'kome'dy with laughs and passion\" promises to let audiences rediscover the virtues of rice (\"Japan's soul food\").\n\n(Source: ANN)",
   "mean": 4.63,
-  "rank": 13035,
-  "popularity": 6080,
-  "num_list_users": 11525,
-  "num_scoring_users": 4587,
+  "rank": 13047,
+  "popularity": 6082,
+  "num_list_users": 11535,
+  "num_scoring_users": 4586,
   "nsfw": "white",
   "created_at": "2016-11-20T20:54:30+00:00",
-  "updated_at": "2021-12-18T15:36:38+00:00",
+  "updated_at": "2024-06-16T15:04:04+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
     {
       "id": 47,
       "name": "Gourmet"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 12,

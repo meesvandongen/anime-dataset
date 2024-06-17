@@ -14,18 +14,26 @@
   },
   "start_date": "2024-07-08",
   "synopsis": "A comedy about two \"NewTubers\" who are active on NewTube, the world's largest video posting site.\n\n(Source: MU, translated)",
-  "popularity": 7407,
-  "num_list_users": 7142,
-  "num_scoring_users": 1,
+  "popularity": 7157,
+  "num_list_users": 7786,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-01-26T10:29:46+00:00",
-  "updated_at": "2024-06-04T08:29:52+00:00",
+  "updated_at": "2024-06-15T02:53:57+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
     }
   ],
   "num_episodes": 0,

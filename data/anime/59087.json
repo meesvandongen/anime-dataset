@@ -1,0 +1,45 @@
+{
+  "id": 59087,
+  "title": "Jiandao Di Yi Xian 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1646/143610.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1646/143610l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Supreme Sword God"
+    ],
+    "en": "",
+    "ja": "剑道第一仙 第二季"
+  },
+  "start_date": "2024-06-12",
+  "synopsis": "The second season of Jiandao Di Yi Xian.",
+  "rank": 20587,
+  "popularity": 23539,
+  "num_list_users": 92,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2024-06-16T06:50:34+00:00",
+  "updated_at": "2024-06-16T07:33:40+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 120,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 480,
+  "rating": "pg_13",
+  "studios": []
+}

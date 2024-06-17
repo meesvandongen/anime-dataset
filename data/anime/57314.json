@@ -12,16 +12,20 @@
   },
   "start_date": "2023-05-03",
   "synopsis": "Animated trailers for the game Honkai: Star Rail, the animation is unique and is not present in the game.",
-  "mean": 7.2,
-  "popularity": 16646,
-  "num_list_users": 453,
-  "num_scoring_users": 133,
+  "mean": 7.19,
+  "popularity": 16261,
+  "num_list_users": 493,
+  "num_scoring_users": 153,
   "nsfw": "white",
   "created_at": "2023-11-26T02:13:20+00:00",
-  "updated_at": "2024-06-02T21:38:51+00:00",
+  "updated_at": "2024-06-14T15:39:50+00:00",
   "media_type": "pv",
   "status": "currently_airing",
   "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
     {
       "id": 24,
       "name": "Sci-Fi"

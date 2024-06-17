@@ -1,0 +1,48 @@
+{
+  "id": 59033,
+  "title": "Pororo Loopy Moheom",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1546/143508.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1546/143508l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pororo and Loopy's Adventure",
+    "ja": "뽀로로와 루피의 모험"
+  },
+  "start_date": "2020-09-26",
+  "end_date": "2020-09-26",
+  "synopsis": "Oh, no!! Pororo's friends are taken by the Giant!! However, Pororo and Loopy continue fighting because they are so different! Can Pororo and Loopy finish their adventure and successfully save their friends?\n\n(Source: Amazon Prime)",
+  "rank": 17414,
+  "popularity": 26704,
+  "num_list_users": 27,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2024-06-10T05:58:47+00:00",
+  "updated_at": "2024-06-10T05:58:47+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1320,
+  "rating": "g",
+  "studios": []
+}

@@ -14,19 +14,23 @@
   "end_date": "2022-07-02",
   "synopsis": "For the first time ever, the members of Shoushukan High School's Rhythmic Gymnastics Club have qualified for regionals and proceed to set their sights on the Inter-High title. Unbridled excitement permeates the air as the club members prepare and practice their routine, hoping to leave with no regrets, no matter the outcome.\n\nAware that this marks the final tournament for their club's third-year members, the team is more determined than ever to shine the brightest on the competition's biggest stage. However, the pressure of this grand event, on top of some personal troubles, may soon prove too much to handle.\n\n[Written by MAL Rewrite]",
   "mean": 7.69,
-  "rank": 1259,
-  "popularity": 4969,
-  "num_list_users": 19343,
-  "num_scoring_users": 3189,
+  "rank": 1260,
+  "popularity": 4968,
+  "num_list_users": 19375,
+  "num_scoring_users": 3207,
   "nsfw": "white",
   "created_at": "2021-06-24T21:43:33+00:00",
-  "updated_at": "2024-04-26T18:32:43+00:00",
+  "updated_at": "2024-06-16T15:01:57+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
       "id": 70,
       "name": "Performing Arts"
+    },
+    {
+      "id": 23,
+      "name": "School"
     },
     {
       "id": 30,

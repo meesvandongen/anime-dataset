@@ -13,8 +13,8 @@
   "start_date": "2021-03-19",
   "end_date": "2021-03-19",
   "synopsis": "HYBE Labels brand identity film.",
-  "popularity": 25812,
-  "num_list_users": 63,
+  "popularity": 25420,
+  "num_list_users": 66,
   "num_scoring_users": 28,
   "nsfw": "white",
   "created_at": "2023-11-25T21:47:01+00:00",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 45,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2957,
+      "name": "Particlefield"
+    }
+  ]
 }
