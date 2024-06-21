@@ -17,10 +17,10 @@
   "start_date": "1994-04-04",
   "end_date": "1995-03-11",
   "synopsis": "A story about kids fighting with Karaoke.",
-  "mean": 6.66,
-  "rank": 5864,
-  "popularity": 14011,
-  "num_list_users": 891,
+  "mean": 6.67,
+  "rank": 5812,
+  "popularity": 14022,
+  "num_list_users": 890,
   "num_scoring_users": 337,
   "nsfw": "white",
   "created_at": "2008-08-26T17:49:49+00:00",
@@ -49,10 +49,5 @@
   "source": "manga",
   "average_episode_duration": 1500,
   "rating": "pg_13",
-  "studios": [
-    {
-      "id": 1129,
-      "name": "Pierrot Plus"
-    }
-  ]
+  "studios": []
 }

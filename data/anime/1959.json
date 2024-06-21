@@ -16,8 +16,8 @@
   "end_date": "1995-02-21",
   "synopsis": "An elite police crime fighting team is formed using convicted criminals. Using their first hand knowledge of the criminal mindset, the Wild 7 are first sent after a gang of Bank robbers. Then in Wild Biker Knights they are sent after a huge crime syndicate that has many high powered government officials in its deep pockets.\n\n(Source: ANN)",
   "mean": 6.22,
-  "rank": 8354,
-  "popularity": 9830,
+  "rank": 8351,
+  "popularity": 9841,
   "num_list_users": 3276,
   "num_scoring_users": 1095,
   "nsfw": "white",
@@ -61,8 +61,12 @@
   "rating": "r",
   "studios": [
     {
-      "id": 1129,
-      "name": "Pierrot Plus"
+      "id": 155,
+      "name": "animate Film"
+    },
+    {
+      "id": 256,
+      "name": "Studio Kikan"
     }
   ]
 }

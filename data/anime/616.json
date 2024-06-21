@@ -13,14 +13,14 @@
   "start_date": "1995-07-07",
   "end_date": "1996-03-29",
   "synopsis": "The Evil Forces of Dark Joker are closing in on our planet after having destroyed the beautiful planet of Queen Earth. Now, 10 year old Moriya Ririka, with the help of her childhood friend Seiya and the mysterious Kanon, must transform into the Nurse Angel and find the elusive Flower of Life, the only way to defeat the evil forces. The Flower of Life, that once bloomed all over the Earth, is where no one thought it ever would be. And Ririka must make the hardest decision of her life in order to acquire it and rid the universe of evil once and for all. \n\n(Source: ANN)",
-  "mean": 6.89,
-  "rank": 4700,
-  "popularity": 8313,
-  "num_list_users": 5418,
-  "num_scoring_users": 1640,
+  "mean": 6.9,
+  "rank": 4658,
+  "popularity": 8315,
+  "num_list_users": 5429,
+  "num_scoring_users": 1642,
   "nsfw": "white",
   "created_at": "2006-02-02T15:29:44+00:00",
-  "updated_at": "2022-03-31T20:13:28+00:00",
+  "updated_at": "2024-06-16T14:50:03+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
     },
     {
       "id": 25,
