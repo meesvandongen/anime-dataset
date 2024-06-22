@@ -16,9 +16,9 @@
   "end_date": "2013-09-08",
   "synopsis": "",
   "mean": 6.61,
-  "rank": 6174,
-  "popularity": 11042,
-  "num_list_users": 2250,
+  "rank": 6168,
+  "popularity": 11049,
+  "num_list_users": 2251,
   "num_scoring_users": 820,
   "nsfw": "white",
   "created_at": "2013-08-03T15:57:53+00:00",
@@ -45,7 +45,7 @@
     "season": "spring"
   },
   "source": "card_game",
-  "average_episode_duration": 1500,
+  "average_episode_duration": 1430,
   "rating": "pg",
   "studios": [
     {

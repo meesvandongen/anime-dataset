@@ -14,13 +14,13 @@
   "end_date": "2011-04-29",
   "synopsis": "A 15-year-old boy travels back in time—over 1,200 years ago to the Heian period—and faces a war between oni (demons) and humans in the former Japanese capital of Kyoto.",
   "mean": 6.49,
-  "rank": 6831,
-  "popularity": 5462,
-  "num_list_users": 15003,
-  "num_scoring_users": 5918,
+  "rank": 6841,
+  "popularity": 5466,
+  "num_list_users": 15029,
+  "num_scoring_users": 5924,
   "nsfw": "white",
   "created_at": "2010-03-27T13:40:57+00:00",
-  "updated_at": "2022-10-12T09:07:00+00:00",
+  "updated_at": "2024-06-16T05:36:54+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 37,
       "name": "Supernatural"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
     }
   ],
   "num_episodes": 1,
