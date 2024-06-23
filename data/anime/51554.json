@@ -13,16 +13,17 @@
     "ja": "機動戦士ガンダム00 Revealed Chronicle"
   },
   "start_date": "2022-04-04",
+  "end_date": "2023-05-28",
   "synopsis": "Revealed Chronicle will feature previously unrevealed anecdotes about how design data from the product development phase was used in the animated series. Mizushima teased that the project, which is not a full anime, will feature stories that fill in gaps in-between the original anime's first and second seasons. The project will also unveil the secrets of the Double Drive, the missing link to the GN Drive. There will be new mobile suits for Setsuna, Lockon, and other characters. \n\n(Source: ANN)",
-  "rank": 15731,
-  "popularity": 12980,
-  "num_list_users": 1198,
+  "rank": 15740,
+  "popularity": 12978,
+  "num_list_users": 1203,
   "num_scoring_users": 78,
   "nsfw": "white",
   "created_at": "2022-04-05T23:27:24+00:00",
-  "updated_at": "2022-11-07T17:12:17+00:00",
+  "updated_at": "2024-06-22T16:40:44+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -41,7 +42,7 @@
       "name": "Sci-Fi"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 3,
   "start_season": {
     "year": 2022,
     "season": "spring"

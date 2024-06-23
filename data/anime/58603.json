@@ -11,16 +11,17 @@
     "ja": "あげおとティム"
   },
   "start_date": "2024-04-02",
+  "end_date": "2024-06-18",
   "synopsis": "A planet inhabited by creatures that never see the light of day. There's nothing to be proud of, but that's okay.",
-  "rank": 18205,
-  "popularity": 20454,
-  "num_list_users": 202,
-  "num_scoring_users": 14,
+  "rank": 18212,
+  "popularity": 20389,
+  "num_list_users": 208,
+  "num_scoring_users": 20,
   "nsfw": "white",
   "created_at": "2024-04-03T16:38:23+00:00",
-  "updated_at": "2024-04-03T18:41:46+00:00",
+  "updated_at": "2024-06-18T07:37:44+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 51,
@@ -31,7 +32,7 @@
       "name": "Comedy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "spring"

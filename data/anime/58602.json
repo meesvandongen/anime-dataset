@@ -11,23 +11,24 @@
     "ja": "ユーチューニャー 第2期"
   },
   "start_date": "2024-04-02",
+  "end_date": "2024-06-18",
   "synopsis": "The second season of YouTuNya.",
-  "rank": 15154,
-  "popularity": 19587,
-  "num_list_users": 250,
-  "num_scoring_users": 24,
+  "rank": 15162,
+  "popularity": 19408,
+  "num_list_users": 262,
+  "num_scoring_users": 37,
   "nsfw": "white",
   "created_at": "2024-04-03T16:25:40+00:00",
-  "updated_at": "2024-04-03T18:41:05+00:00",
+  "updated_at": "2024-06-19T07:44:21+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "spring"
