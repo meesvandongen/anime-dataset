@@ -14,10 +14,10 @@
   "end_date": "1990-07-03",
   "synopsis": "Based on the horror novel by Fujio (A) Fujiko.",
   "mean": 5.47,
-  "rank": 11718,
-  "popularity": 13559,
-  "num_list_users": 1021,
-  "num_scoring_users": 545,
+  "rank": 11724,
+  "popularity": 13571,
+  "num_list_users": 1023,
+  "num_scoring_users": 546,
   "nsfw": "white",
   "created_at": "2013-07-18T07:00:08+00:00",
   "updated_at": "2024-02-04T15:54:46+00:00",
@@ -38,6 +38,7 @@
     "year": 1990,
     "season": "summer"
   },
+  "source": "novel",
   "average_episode_duration": 1860,
   "rating": "pg_13",
   "studios": [
