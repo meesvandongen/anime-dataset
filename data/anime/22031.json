@@ -16,13 +16,13 @@
   "end_date": "2005-06-29",
   "synopsis": "Unaired episode 8.5 of Samurai Gun. Ichimatsu goes on a mission to replace the enemy's keybook with a fake one, while Ohana gets kidnapped.",
   "mean": 5.71,
-  "rank": 10825,
-  "popularity": 13442,
+  "rank": 10812,
+  "popularity": 13452,
   "num_list_users": 1057,
   "num_scoring_users": 337,
   "nsfw": "white",
   "created_at": "2014-01-09T02:53:09+00:00",
-  "updated_at": "2021-05-29T14:09:48+00:00",
+  "updated_at": "2024-06-23T17:32:20+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
     },
     {
       "id": 42,

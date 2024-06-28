@@ -16,10 +16,10 @@
   "end_date": "2016-12-31",
   "synopsis": "After defeating the War Gods, Ren and his friends are living the dream. \nIt seems like they've finally managed to regain their normal lives. However, a mysterious girl by the name of Pandora appears, bringing with her a box that must never be opened. \nAn unfortunate incident results in the box opening (of course), setting the world up for some big changes...\n\n(Source: YouTube, edited)",
   "mean": 6.26,
-  "rank": 8175,
-  "popularity": 9929,
-  "num_list_users": 3185,
-  "num_scoring_users": 867,
+  "rank": 8167,
+  "popularity": 9945,
+  "num_list_users": 3184,
+  "num_scoring_users": 866,
   "nsfw": "white",
   "created_at": "2016-12-31T11:57:40+00:00",
   "updated_at": "2022-03-29T14:48:40+00:00",
@@ -51,6 +51,10 @@
     {
       "id": 101,
       "name": "Studio Hibari"
+    },
+    {
+      "id": 539,
+      "name": "Ultra Super Pictures"
     }
   ]
 }
