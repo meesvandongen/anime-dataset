@@ -1,0 +1,43 @@
+{
+  "id": 59123,
+  "title": "Kumarba Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1511/143674.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1511/143674l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "クマーバ シーズン2"
+  },
+  "start_date": "2024-10",
+  "synopsis": "Second season of Kumarba.",
+  "popularity": 26762,
+  "num_list_users": 26,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-06-22T15:25:51+00:00",
+  "updated_at": "2024-06-26T01:17:55+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 0,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 2914,
+      "name": "Creative House Pocket"
+    }
+  ]
+}

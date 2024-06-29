@@ -1,0 +1,46 @@
+{
+  "id": 58649,
+  "title": "Ikkyuumono-san",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1921/142557.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1921/142557l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ikimono-san x Ikkyuu-san Collab"
+    ],
+    "en": "",
+    "ja": "一休ものさん"
+  },
+  "start_date": "2024-01-09",
+  "end_date": "2024-01-09",
+  "synopsis": "A collaboration between Ikimono-san and Ikkyuu-san.",
+  "rank": 17798,
+  "popularity": 26771,
+  "num_list_users": 13,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2024-04-12T01:17:01+00:00",
+  "updated_at": "2024-06-27T21:02:31+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 65,
+  "rating": "g",
+  "studios": []
+}

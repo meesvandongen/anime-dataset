@@ -2,8 +2,8 @@
   "id": 54900,
   "title": "Wind Breaker",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1438/141816.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1438/141816l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1438/141816.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1438/141816l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,16 +16,16 @@
   "start_date": "2024-04-05",
   "end_date": "2024-06-28",
   "synopsis": "From an early age, Haruka Sakura was made an outcast due to his unconventional appearance and lack of social skills. However, the rough treatment turned him into a proficient fighter, which is now the only thing he prides himself on. Starting at Furin High School, where it is rumored that strength is valued over academics, Sakura has only one goal—taking the top spot.\n\nInvolved in a street brawl the day before his enrollment, Sakura happens to meet a group of his future schoolmates. Instead of the usual rejection, they fight alongside him, demonstrating that what the school actually cares about is protecting the town of Makochi from any harm—hence why the students call themselves \"Bofurin.\" Surprised by the support and appreciation of the townspeople, Sakura has a hard time accepting their goodwill.\n\nThough unfamiliar with kindness being shown to him, Sakura must learn to push past his discomfort when Bofurin is pitted against formidable enemies. After experiencing the feeling of acceptance, he finds himself fighting for the sake of others for the first time.\n\n[Written by MAL Rewrite]",
-  "mean": 7.8,
-  "rank": 993,
-  "popularity": 1187,
-  "num_list_users": 205190,
-  "num_scoring_users": 43229,
+  "mean": 7.86,
+  "rank": 868,
+  "popularity": 1138,
+  "num_list_users": 217071,
+  "num_scoring_users": 63489,
   "nsfw": "white",
   "created_at": "2023-03-30T09:11:19+00:00",
-  "updated_at": "2024-06-20T12:45:05+00:00",
+  "updated_at": "2024-06-28T01:13:58+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -34,10 +34,6 @@
     {
       "id": 55,
       "name": "Delinquents"
-    },
-    {
-      "id": 23,
-      "name": "School"
     }
   ],
   "num_episodes": 13,

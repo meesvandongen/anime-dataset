@@ -11,17 +11,18 @@
     "ja": "アイドルランドプリパラ"
   },
   "start_date": "2021-08-18",
+  "end_date": "2024-04-24",
   "synopsis": "Tie-in anime linked to the \"Idol Land PriPara\" smartphone game.",
-  "mean": 7.42,
-  "rank": 2188,
-  "popularity": 11075,
-  "num_list_users": 2234,
-  "num_scoring_users": 307,
+  "mean": 7.26,
+  "rank": 2900,
+  "popularity": 11081,
+  "num_list_users": 2235,
+  "num_scoring_users": 312,
   "nsfw": "white",
   "created_at": "2020-12-06T16:37:13+00:00",
-  "updated_at": "2023-09-18T00:37:14+00:00",
+  "updated_at": "2024-06-25T16:37:11+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 60,
@@ -36,7 +37,7 @@
       "name": "Slice of Life"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2021,
     "season": "summer"

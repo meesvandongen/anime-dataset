@@ -13,11 +13,11 @@
   "start_date": "2018-06-22",
   "end_date": "2018-06-22",
   "synopsis": "Oragon lived a lonely life all by himself, until one day he was pulled into a mysterious new dimension. There he learns that an incredibly powerful enemy will attack in six months, destroying his beloved Monster Strike forever! Now Oragon must gather allies in the Strike World to save Monster Strike!\n\nIt is animated in full CG unlike its predecessor.\n\n(Source: Official YouTube Channel)",
-  "mean": 5.66,
-  "rank": 11084,
-  "popularity": 12121,
-  "num_list_users": 1580,
-  "num_scoring_users": 513,
+  "mean": 5.64,
+  "rank": 11022,
+  "popularity": 12132,
+  "num_list_users": 1579,
+  "num_scoring_users": 512,
   "nsfw": "white",
   "created_at": "2018-07-21T08:22:34+00:00",
   "updated_at": "2022-03-29T14:41:51+00:00",
@@ -47,24 +47,8 @@
   "rating": "g",
   "studios": [
     {
-      "id": 298,
-      "name": "Anima"
-    },
-    {
-      "id": 1169,
-      "name": "ILCA"
-    },
-    {
       "id": 1296,
       "name": "Marza Animation Planet"
-    },
-    {
-      "id": 1573,
-      "name": "XFLAG Pictures"
-    },
-    {
-      "id": 1976,
-      "name": "CGCG Studio"
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "id": 58265,
+  "title": "Babanbabanban Vampire",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1576/143714.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1576/143714l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baban Baban Ban Vampire"
+    ],
+    "en": "",
+    "ja": "ババンババンバンバンパイア"
+  },
+  "start_date": "2025-01",
+  "synopsis": "Mori Ranmaru works as a live-in part-timer at a long-established public bathhouse. His true identity is a 450-year-old vampire. Seeking the ultimate taste of \"the blood of an 18-year-old virgin,\" he continues to protect the virginity of 15-year-old Rihito, the only son of the bathhouse owner. However, a crisis arises as Rihito reaches puberty—he falls in love at first sight with a girl in the same class! \"Rihito's virginity must be protected at all costs!! Love shall not be allowed!!\" Ranmaru's desperate \"Operation Virginity Loss Prevention\" begins!\n\n(Source: MAL News)",
+  "popularity": 13788,
+  "num_list_users": 961,
+  "num_scoring_users": 0,
+  "nsfw": "gray",
+  "created_at": "2024-02-29T09:16:48+00:00",
+  "updated_at": "2024-06-24T10:40:06+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1314,
+      "name": "Gaina"
+    }
+  ]
+}
