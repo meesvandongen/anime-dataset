@@ -13,10 +13,10 @@
   "start_date": "2005-06-02",
   "end_date": "2005-06-02",
   "synopsis": "Ark takes place on a dying alien world in which a global war between two technologically advanced human civilizations has reduced the planet to a wasteland. The only way to escape the world is by activating the Ark, an ancient giant robot capable of supporting a human city as well as traveling through space.\n\n(Source: Wikipedia)",
-  "mean": 5.84,
-  "rank": 10254,
-  "popularity": 12688,
-  "num_list_users": 1316,
+  "mean": 5.82,
+  "rank": 10259,
+  "popularity": 12709,
+  "num_list_users": 1315,
   "num_scoring_users": 467,
   "nsfw": "white",
   "created_at": "2008-10-22T21:07:58+00:00",
@@ -56,5 +56,10 @@
   },
   "average_episode_duration": 5370,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2967,
+      "name": "Digital Dream Studios"
+    }
+  ]
 }

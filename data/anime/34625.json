@@ -13,10 +13,10 @@
   "start_date": "2016-12-25",
   "end_date": "2016-12-25",
   "synopsis": "An epilogue of Master of Torque shows what the series' characters are up to one year after the events of Season 3 at the foot of Mt. Fuji.\n\n(Source: Official Email)",
-  "mean": 4.92,
-  "rank": 12766,
-  "popularity": 14836,
-  "num_list_users": 698,
+  "mean": 4.9,
+  "rank": 12737,
+  "popularity": 14848,
+  "num_list_users": 700,
   "num_scoring_users": 300,
   "nsfw": "white",
   "created_at": "2016-12-27T05:32:46+00:00",
@@ -37,5 +37,10 @@
   "source": "original",
   "average_episode_duration": 573,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1324,
+      "name": "Shimogumi"
+    }
+  ]
 }

@@ -17,13 +17,13 @@
   "end_date": "2008-07-12",
   "synopsis": "Set in the year 2029 and following World Wars III and IV, a Japanese-led Asian block dominates world affairs. The alliance maintains its international supremacy through its elite security force whose cybernetically enhanced operatives tackle an array of hi-tech terrorists and other threats to international security. These augmented agents can \"ghost hack\" (i.e., download their consciousness) via the now omnipresent internet into other machines and human/machine cross breeds.\n\nMajor Motoko Kusanagi, a cybernetically augmented female agent, has been tracking a virtual entity known as the Puppet Master with her crack squad of security agents. The shape-shifting Puppet Master, a rogue creation of a rival agency of the security apparatus, has concluded that it is a life form in its own right, \"born in sea of information,\" and requested political asylum and true physical existence in defiance of its creators.\n\n(Source: Manga Entertainment, edited)",
   "mean": 7.97,
-  "rank": 678,
-  "popularity": 2269,
-  "num_list_users": 89238,
-  "num_scoring_users": 39763,
+  "rank": 672,
+  "popularity": 2272,
+  "num_list_users": 89270,
+  "num_scoring_users": 39775,
   "nsfw": "white",
   "created_at": "2008-06-10T18:49:07+00:00",
-  "updated_at": "2022-09-29T00:28:55+00:00",
+  "updated_at": "2024-06-30T00:36:04+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -44,6 +44,10 @@
       "name": "Mecha"
     },
     {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
       "id": 40,
       "name": "Psychological"
     },
@@ -54,6 +58,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
     }
   ],
   "num_episodes": 1,

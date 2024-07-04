@@ -15,16 +15,20 @@
   "start_date": "2015-02-26",
   "end_date": "2015-11-18",
   "synopsis": "Set in the \"Train World\" where all citizens are trains. However, among the residents there are special trains that can transform into robots, the Robot Trains. Featuring our 5 train heroes, with special powers: Kay, Alf, Duck, Selly and Victor - and their exciting adventures. Can the Robot Trains save the village from the evil dark forces that be?\n\n(Source: IMDB)",
-  "rank": 20304,
-  "popularity": 21110,
+  "rank": 20303,
+  "popularity": 21130,
   "num_list_users": 167,
   "num_scoring_users": 43,
   "nsfw": "white",
   "created_at": "2019-04-07T07:22:22+00:00",
-  "updated_at": "2022-07-07T16:21:50+00:00",
+  "updated_at": "2024-06-30T16:44:17+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
     {
       "id": 15,
       "name": "Kids"
@@ -37,7 +41,7 @@
   },
   "source": "original",
   "average_episode_duration": 780,
-  "rating": "g",
+  "rating": "pg",
   "studios": [
     {
       "id": 2779,
