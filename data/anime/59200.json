@@ -1,0 +1,49 @@
+{
+  "id": 59200,
+  "title": "Etupirka: Omoi wo Tsumugu Tori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1847/143942.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1847/143942l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "エトピリカ～想いを紡ぐ鳥～"
+  },
+  "start_date": "2022-04-20",
+  "end_date": "2022-04-20",
+  "synopsis": "Etupirka: A Bird that Spins Thoughts is a animated film created based on the testimonies of former residents of the Northern Territories.\n\nThe film was produced with the aim of helping many people, especially young people, learn more about what happened in the Northern Territories at the end of the war and the harsh experiences of the former islanders who were forced to leave their homes, and to raise momentum for the return of the Northern Territories.\n\n(Source: Official site, translated)",
+  "rank": 16892,
+  "popularity": 26799,
+  "num_list_users": 28,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2024-07-01T17:30:11+00:00",
+  "updated_at": "2024-07-02T07:47:26+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 1423,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2969,
+      "name": "Mainichi Eigasha"
+    }
+  ]
+}

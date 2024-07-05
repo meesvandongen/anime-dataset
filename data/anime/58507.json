@@ -1,0 +1,39 @@
+{
+  "id": 58507,
+  "title": "Pokemon Card wo Yattemita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1117/142216.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1117/142216l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ポケモンカードをやってみたい"
+  },
+  "start_date": "2024-03-21",
+  "end_date": "2024-03-21",
+  "synopsis": "Animated commercial for the Pokemon Battle Academy starter kit.",
+  "popularity": 26804,
+  "num_list_users": 30,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2024-03-23T01:38:23+00:00",
+  "updated_at": "2024-03-23T01:38:23+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": []
+}

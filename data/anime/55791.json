@@ -13,15 +13,17 @@
     "ja": "【推しの子】第2期"
   },
   "start_date": "2024-07-03",
-  "synopsis": "Second season of \"Oshi no Ko\".",
-  "popularity": 1166,
-  "num_list_users": 209970,
-  "num_scoring_users": 30,
+  "synopsis": "Aqua's desire for revenge takes center stage as he navigates the dark underbelly of the entertainment world alongside his twin sister, Ruby. While Ruby follows in their slain mother's footsteps to become an idol, Aqua joins a famous theater troupe in hopes of uncovering clues to the identity of his father—the man who arranged their mother's untimely death, and the man who once starred in the same troupe Aqua hopes to infiltrate.\n\n(Source: HIDIVE)",
+  "mean": 8.49,
+  "rank": 137,
+  "popularity": 1059,
+  "num_list_users": 232780,
+  "num_scoring_users": 8249,
   "nsfw": "white",
   "created_at": "2023-06-28T14:55:16+00:00",
-  "updated_at": "2024-06-21T22:11:17+00:00",
+  "updated_at": "2024-07-02T06:47:15+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -44,7 +46,7 @@
       "name": "Supernatural"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 13,
   "start_season": {
     "year": 2024,
     "season": "summer"
@@ -54,7 +56,7 @@
     "start_time": "23:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1520,
   "rating": "pg_13",
   "studios": [
     {
