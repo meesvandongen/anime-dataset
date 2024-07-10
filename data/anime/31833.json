@@ -2,8 +2,8 @@
   "id": 31833,
   "title": "Metamorphose",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/76682.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/76682l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/76682.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/76682l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,9 @@
   "start_date": "2013-08-02",
   "end_date": "2013-08-02",
   "synopsis": "Short animation by Komazaki Tomomi.",
-  "mean": 4.93,
-  "rank": 12712,
-  "popularity": 14909,
+  "mean": 4.91,
+  "rank": 12764,
+  "popularity": 14928,
   "num_list_users": 687,
   "num_scoring_users": 307,
   "nsfw": "white",
@@ -28,6 +28,7 @@
     "year": 2013,
     "season": "summer"
   },
+  "source": "original",
   "average_episode_duration": 124,
   "rating": "g",
   "studios": []
