@@ -16,9 +16,9 @@
   "end_date": "2023-12-01",
   "synopsis": "",
   "mean": 5.54,
-  "popularity": 11646,
-  "num_list_users": 1875,
-  "num_scoring_users": 493,
+  "popularity": 11633,
+  "num_list_users": 1891,
+  "num_scoring_users": 512,
   "nsfw": "gray",
   "created_at": "2023-03-24T20:23:30+00:00",
   "updated_at": "2024-07-04T09:30:22+00:00",
@@ -36,7 +36,7 @@
     "season": "spring"
   },
   "source": "visual_novel",
-  "average_episode_duration": 1800,
+  "average_episode_duration": 1654,
   "rating": "rx",
   "studios": [
     {

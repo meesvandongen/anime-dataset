@@ -2,8 +2,8 @@
   "id": 56653,
   "title": "BanG Dream! Ave Mujica",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1981/138491.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1981/138491l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1855/144030.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1855/144030l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,15 +12,19 @@
   },
   "start_date": "2025-01",
   "synopsis": "BanG Dream! Ave Mujica will focus on the story of the Ave Mujica band in the BanG Dream! franchise",
-  "popularity": 9366,
-  "num_list_users": 3867,
-  "num_scoring_users": 0,
+  "popularity": 9290,
+  "num_list_users": 3975,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2023-09-14T15:13:00+00:00",
-  "updated_at": "2024-01-06T19:35:48+00:00",
+  "updated_at": "2024-07-06T07:05:59+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
     {
       "id": 19,
       "name": "Music"

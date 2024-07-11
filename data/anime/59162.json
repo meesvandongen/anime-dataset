@@ -16,14 +16,16 @@
   "start_date": "2024-07-07",
   "end_date": "2024-07-07",
   "synopsis": "Episode 0 of Kinnikuman: Kanpeki Chоujin Shiso-hen.",
-  "popularity": 15738,
-  "num_list_users": 559,
-  "num_scoring_users": 0,
+  "mean": 6.55,
+  "rank": 6471,
+  "popularity": 13495,
+  "num_list_users": 1053,
+  "num_scoring_users": 358,
   "nsfw": "white",
   "created_at": "2024-06-27T19:51:26+00:00",
   "updated_at": "2024-06-27T20:04:46+00:00",
   "media_type": "tv_special",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 54,
@@ -48,7 +50,8 @@
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1427,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 10,

@@ -13,13 +13,13 @@
   "start_date": "2024-05-31",
   "end_date": "2024-05-31",
   "synopsis": "",
-  "mean": 6.17,
-  "popularity": 13797,
-  "num_list_users": 966,
-  "num_scoring_users": 141,
+  "mean": 6.25,
+  "popularity": 13149,
+  "num_list_users": 1166,
+  "num_scoring_users": 266,
   "nsfw": "gray",
   "created_at": "2024-03-02T04:45:57+00:00",
-  "updated_at": "2024-03-02T09:26:02+00:00",
+  "updated_at": "2024-07-08T08:24:01+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -34,7 +34,7 @@
     "season": "spring"
   },
   "source": "visual_novel",
-  "average_episode_duration": 960,
+  "average_episode_duration": 980,
   "rating": "rx",
   "studios": [
     {

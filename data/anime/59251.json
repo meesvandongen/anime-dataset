@@ -1,0 +1,64 @@
+{
+  "id": 59251,
+  "title": "Shinkalion: Change the World - Ushinawareta Kioku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1820/144131.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1820/144131l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shinkalion: Change the World Recap",
+      "Shinkalion: Change the World Lost Memories"
+    ],
+    "en": "",
+    "ja": "シンカリオン チェンジ ザ ワールド失われた記憶"
+  },
+  "start_date": "2024-07-07",
+  "end_date": "2024-07-07",
+  "synopsis": "\"How did it end up like this... Where did I end up, and what did I do...?\"\n\nAs the driver of the Phantom Shinkalion, Ina stood in front of Taisei and the others. What was Ina doing behind the scenes of the battle with Taisei and the others?\n\nA special edition looking back on the past from Ina's perspective.\n\n(Source: Shinkalion Wiki)",
+  "rank": 13445,
+  "popularity": 21454,
+  "num_list_users": 156,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2024-07-08T23:41:49+00:00",
+  "updated_at": "2024-07-10T16:19:53+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    },
+    {
+      "id": 1278,
+      "name": "Signal.MD"
+    }
+  ]
+}

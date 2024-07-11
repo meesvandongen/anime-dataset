@@ -13,9 +13,9 @@
   "start_date": "2024-06-20",
   "end_date": "2024-06-20",
   "synopsis": "Music video for the song Johari by Nornis.",
-  "popularity": 24791,
-  "num_list_users": 73,
-  "num_scoring_users": 40,
+  "popularity": 24447,
+  "num_list_users": 80,
+  "num_scoring_users": 44,
   "nsfw": "white",
   "created_at": "2024-06-20T14:05:31+00:00",
   "updated_at": "2024-06-20T15:21:49+00:00",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 215,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2824,
+      "name": "Production HASU"
+    }
+  ]
 }

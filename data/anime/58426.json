@@ -12,14 +12,16 @@
   },
   "start_date": "2024-07-07",
   "synopsis": "No one knows Torako used to be a delinquent. All of her classmates only know her as the perfect student. But everything changes when Nokotan, a transfer student with antlers, enters her life. Antlers aren't the only thing strange about Nokotan. Her deer nose can sniff out Torako's secret past! Whether it's at school or the zoo, chaos follows this doe-eyed girl's every step. Torako has so many questions! Is Nokotan a deer, a girl, or something in-between?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 2727,
-  "num_list_users": 65853,
-  "num_scoring_users": 750,
+  "mean": 8.1,
+  "rank": 502,
+  "popularity": 2045,
+  "num_list_users": 105067,
+  "num_scoring_users": 12427,
   "nsfw": "white",
   "created_at": "2024-03-13T03:08:25+00:00",
-  "updated_at": "2024-06-26T22:41:03+00:00",
+  "updated_at": "2024-07-07T14:38:50+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -49,6 +51,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1415,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 858,

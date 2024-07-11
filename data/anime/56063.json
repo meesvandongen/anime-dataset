@@ -2,8 +2,8 @@
   "id": 56063,
   "title": "NieR:Automata Ver1.1a Part 2",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1364/143539.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1364/143539l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1364/143539.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1364/143539l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,16 @@
   },
   "start_date": "2024-07-05",
   "synopsis": "Second part of NieR:Automata Ver1.1a",
-  "popularity": 3184,
-  "num_list_users": 49269,
-  "num_scoring_users": 12,
+  "mean": 7.79,
+  "rank": 1009,
+  "popularity": 2976,
+  "num_list_users": 56354,
+  "num_scoring_users": 2500,
   "nsfw": "white",
   "created_at": "2023-07-23T12:13:38+00:00",
-  "updated_at": "2024-06-22T16:24:57+00:00",
+  "updated_at": "2024-07-05T16:44:18+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -34,7 +36,7 @@
       "name": "Sci-Fi"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "summer"
@@ -44,7 +46,7 @@
     "start_time": "23:30"
   },
   "source": "game",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
   "rating": "pg_13",
   "studios": [
     {

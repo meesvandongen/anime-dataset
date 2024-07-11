@@ -12,14 +12,16 @@
   },
   "start_date": "2024-07-06",
   "synopsis": "Spoiled harvest goddess Sakuna finds herself banished from her opulent celestial home to an island overrun with demons. In the untamed wilderness, she must rediscover her birthright as the daughter of a warrior god and harvest goddess by weathering the elements, fighting monsters, and cultivating rice, the source of her power. By her side in this forbidding place is her guardian Tama and a group of outcast humans. Together, these unlikely companions must join hands to tame both the soil and the demons of Hinoe Island. \n\n(Source: Steam)",
-  "popularity": 7908,
-  "num_list_users": 6149,
-  "num_scoring_users": 5,
+  "mean": 6.62,
+  "rank": 6120,
+  "popularity": 6581,
+  "num_list_users": 9737,
+  "num_scoring_users": 995,
   "nsfw": "white",
   "created_at": "2024-03-09T10:24:52+00:00",
-  "updated_at": "2024-07-04T01:09:03+00:00",
+  "updated_at": "2024-07-06T17:31:42+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -34,7 +36,7 @@
       "name": "Mythology"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 13,
   "start_season": {
     "year": 2024,
     "season": "summer"
@@ -44,7 +46,8 @@
     "start_time": "23:00"
   },
   "source": "game",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1450,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 132,

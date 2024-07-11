@@ -12,14 +12,16 @@
   },
   "start_date": "2024-07-06",
   "synopsis": "An unexplored dungeon, filled with monsters and traps. An expert thief, searching for her lost father. When Clay delves into the dungeon deeper than any adventurer has ever gone, she is offered a job by the dungeon's caretaker! Now, instead of exploring, Clay must learn how to interview new monsters, set traps and position slimes around the dungeon. Will this new career path bring her any closer to finding her father?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 5793,
-  "num_list_users": 13235,
-  "num_scoring_users": 5,
+  "mean": 6.75,
+  "rank": 5378,
+  "popularity": 5054,
+  "num_list_users": 19001,
+  "num_scoring_users": 1631,
   "nsfw": "white",
   "created_at": "2023-08-17T05:57:36+00:00",
-  "updated_at": "2024-07-04T11:40:35+00:00",
+  "updated_at": "2024-07-05T18:53:46+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 2,
@@ -44,7 +46,8 @@
     "start_time": "01:53"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1469,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 28,

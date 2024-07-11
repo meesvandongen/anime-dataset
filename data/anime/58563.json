@@ -13,12 +13,12 @@
   "start_date": "2024-06-28",
   "end_date": "2024-07-26",
   "synopsis": "",
-  "popularity": 14819,
-  "num_list_users": 706,
-  "num_scoring_users": 48,
+  "popularity": 14422,
+  "num_list_users": 812,
+  "num_scoring_users": 103,
   "nsfw": "gray",
   "created_at": "2024-03-29T16:04:27+00:00",
-  "updated_at": "2024-04-01T12:02:24+00:00",
+  "updated_at": "2024-07-08T08:24:44+00:00",
   "media_type": "ova",
   "status": "currently_airing",
   "genres": [
@@ -33,7 +33,7 @@
     "season": "spring"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1060,
   "rating": "rx",
   "studios": [
     {

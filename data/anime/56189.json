@@ -12,14 +12,16 @@
   },
   "start_date": "2024-07-06",
   "synopsis": "Duke Fleed is a survivor of the Fleed Planet who is escaped to the Earth, onboard a mysterious \"spaceship\", where is raised by Dr. Umon as his adoptive son, and known as Daisuke Umon. Years after his arrival, he's faced with the threat of King Vega and his army, who want to conquer the Earth. With his friends Koji and Hikaru (and later his younger sister Maria Grace), Duke decides to fight back using his best weapon - the almighty Grendizer.",
-  "popularity": 9134,
-  "num_list_users": 4184,
-  "num_scoring_users": 3,
+  "mean": 6.17,
+  "rank": 8567,
+  "popularity": 8521,
+  "num_list_users": 5129,
+  "num_scoring_users": 352,
   "nsfw": "white",
   "created_at": "2023-08-05T12:44:22+00:00",
   "updated_at": "2024-06-12T23:08:11+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -44,7 +46,8 @@
     "start_time": "01:23"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1314,
