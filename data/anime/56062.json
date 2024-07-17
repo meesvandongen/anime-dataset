@@ -2,26 +2,29 @@
   "id": 56062,
   "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1780/142909.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1780/142909l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Why Nobody Remembers My World?"
+      "Why Nobody Remembers My World?",
+      "NazeBoku"
     ],
     "en": "Why Does Nobody Remember Me in This World?",
     "ja": "なぜ僕の世界を誰も覚えていないのか？"
   },
   "start_date": "2024-07-13",
   "synopsis": "In a time when the great war between five rival races for supremacy on Earth ended with humanity's victory led by the hero Sid, the world suddenly gets \"overwritten\" right before the eyes of a boy named Kai. In this rewritten world, Kai witnesses humanity's defeat in the war as a result of Sid's absence—where dragons and demons now rule the land, and Kai himself has become a forgotten existence to all humans. However, after encountering the mysterious girl Rinne, Kai resolves to break free from this rewritten fate. In a world without a hero, he inherits the sword and martial skills of the hero (Sid) and challenges the powerful enemy races that dominate the land.\n\n(Source: MAL News)",
-  "popularity": 4002,
-  "num_list_users": 32180,
-  "num_scoring_users": 154,
+  "mean": 7.21,
+  "rank": 3177,
+  "popularity": 3397,
+  "num_list_users": 44414,
+  "num_scoring_users": 3215,
   "nsfw": "white",
   "created_at": "2023-07-23T11:58:21+00:00",
-  "updated_at": "2024-06-18T16:40:00+00:00",
+  "updated_at": "2024-07-16T02:21:16+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -36,7 +39,7 @@
       "name": "Sci-Fi"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "summer"
@@ -46,7 +49,8 @@
     "start_time": "22:30"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 439,

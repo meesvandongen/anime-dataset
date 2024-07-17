@@ -14,18 +14,18 @@
     "ja": "T・Pぼん"
   },
   "start_date": "2024-05-02",
-  "end_date": "2024-07-17",
+  "end_date": "2024-05-02",
   "synopsis": "An ordinary high school student named Bon becomes part of a team of time-traveling agents tasked with saving people's lives during historical events that happen across different eras and locations around the globe. \n\n(Source: Netflix)",
-  "mean": 6.91,
-  "rank": 4567,
-  "popularity": 7977,
-  "num_list_users": 6030,
-  "num_scoring_users": 1188,
+  "mean": 6.95,
+  "rank": 4406,
+  "popularity": 7922,
+  "num_list_users": 6142,
+  "num_scoring_users": 1334,
   "nsfw": "white",
   "created_at": "2023-10-04T14:11:23+00:00",
-  "updated_at": "2024-05-11T10:16:43+00:00",
+  "updated_at": "2024-07-11T07:31:05+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -48,13 +48,13 @@
       "name": "Time Travel"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "spring"
   },
   "source": "manga",
-  "average_episode_duration": 1680,
+  "average_episode_duration": 1652,
   "rating": "r",
   "studios": [
     {

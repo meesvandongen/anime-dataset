@@ -1,0 +1,59 @@
+{
+  "id": 59274,
+  "title": "T.P BON Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1779/144181.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1779/144181l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Time-Patrol Bon 2nd Season"
+    ],
+    "en": "",
+    "ja": "T・Pぼん"
+  },
+  "start_date": "2024-07-17",
+  "end_date": "2024-07-17",
+  "synopsis": "Second season of T.P BON.",
+  "rank": 13843,
+  "popularity": 15218,
+  "num_list_users": 644,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2024-07-11T07:19:59+00:00",
+  "updated_at": "2024-07-11T07:30:50+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 4,
+      "name": "Bones"
+    }
+  ]
+}

@@ -11,29 +11,30 @@
     "ja": "パパ喝ッ!"
   },
   "start_date": "2021-12-24",
+  "end_date": "2023-08-25",
   "synopsis": "",
-  "mean": 6.42,
-  "popularity": 8535,
-  "num_list_users": 5102,
-  "num_scoring_users": 1741,
+  "mean": 6.36,
+  "popularity": 8543,
+  "num_list_users": 5114,
+  "num_scoring_users": 1755,
   "nsfw": "gray",
   "created_at": "2021-10-02T02:13:28+00:00",
-  "updated_at": "2023-06-08T05:52:47+00:00",
+  "updated_at": "2024-07-12T10:43:22+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 4,
   "start_season": {
     "year": 2021,
     "season": "fall"
   },
   "source": "original",
-  "average_episode_duration": 1411,
+  "average_episode_duration": 1485,
   "rating": "rx",
   "studios": [
     {

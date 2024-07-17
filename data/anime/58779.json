@@ -1,6 +1,6 @@
 {
   "id": 58779,
-  "title": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei 2nd Season",
+  "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1794/142824.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1794/142824l.jpg"
@@ -8,19 +8,19 @@
   "alternative_titles": {
     "synonyms": [
       "A Gentle Dragon of 5000 Years Old, It Was Recognized as an Evil Dragon Without Any Cause",
-      "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season"
+      "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei 2nd Season"
     ],
     "en": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
-    "ja": "齢5000年の草食ドラゴン、いわれなき邪竜認定 第2期"
+    "ja": "食草老龙被冠以恶龙之名 第二季"
   },
   "start_date": "2024-10",
-  "synopsis": "",
-  "popularity": 14149,
-  "num_list_users": 877,
-  "num_scoring_users": 4,
+  "synopsis": "The old herbivorous dragon, who gets mistaken for an evil dragon, and Reiko, a young girl with miraculous powers, arrive in a totally new country, Asgar, where the herbivorous dragon keeps taking the blame when he gets caught up in an elaborate conspiracy. Even though he just wants to live a peaceful life, the herbivorous dragon is continuously getting stuck in his role as the evil dragon and walks further and further down the road towards overthrowing the demon king.\n\n(Source: bilibili, translated)",
+  "popularity": 12140,
+  "num_list_users": 1622,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-05-02T08:15:20+00:00",
-  "updated_at": "2024-07-10T15:50:11+00:00",
+  "updated_at": "2024-07-11T20:57:01+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -45,5 +45,10 @@
   "source": "light_novel",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1774,
+      "name": "LAN Studio"
+    }
+  ]
 }
