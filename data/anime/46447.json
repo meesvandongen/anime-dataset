@@ -15,8 +15,8 @@
   "start_date": "2017-10-18",
   "end_date": "2018-03-01",
   "synopsis": "",
-  "rank": 17975,
-  "popularity": 20989,
+  "rank": 20603,
+  "popularity": 21018,
   "num_list_users": 179,
   "num_scoring_users": 31,
   "nsfw": "white",
@@ -54,5 +54,10 @@
   "source": "novel",
   "average_episode_duration": 1320,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2569,
+      "name": "Yinhe Changxing Culture"
+    }
+  ]
 }

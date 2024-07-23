@@ -2,8 +2,8 @@
   "id": 40421,
   "title": "Given Movie 1",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1648/111422.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1648/111422l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1648/111422.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1648/111422l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,8 +18,8 @@
   "mean": 8.13,
   "rank": 471,
   "popularity": 1024,
-  "num_list_users": 240135,
-  "num_scoring_users": 129278,
+  "num_list_users": 240481,
+  "num_scoring_users": 129510,
   "nsfw": "gray",
   "created_at": "2019-09-19T18:29:27+00:00",
   "updated_at": "2024-02-28T15:47:23+00:00",
