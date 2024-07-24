@@ -1,0 +1,41 @@
+{
+  "id": 35403,
+  "title": "Manga Revue Haru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/9/85265.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/85265l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Animated Revue \"Spring\"",
+    "ja": "漫画レビュー 春"
+  },
+  "start_date": "1931-06",
+  "end_date": "1931-06",
+  "synopsis": "A lighthearted anime about spring time. It was originally set to an elementary school song. The film features several vignettes.",
+  "mean": 5.06,
+  "rank": 12613,
+  "popularity": 15679,
+  "num_list_users": 576,
+  "num_scoring_users": 281,
+  "nsfw": "white",
+  "created_at": "2017-04-11T22:38:25+00:00",
+  "updated_at": "2017-04-19T15:09:51+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1931,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 573,
+  "rating": "g",
+  "studios": []
+}
