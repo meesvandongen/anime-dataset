@@ -16,9 +16,9 @@
   "end_date": "1993-04-02",
   "synopsis": "An OVA based on the work of Kawaguchi Kaiji consisting of nine independent stories, each animated by a different director. With Beatles music involved, somewhere.\n\n(Source: AniDB)\n",
   "mean": 6.52,
-  "rank": 6639,
-  "popularity": 8339,
-  "num_list_users": 5463,
+  "rank": 6641,
+  "popularity": 8343,
+  "num_list_users": 5468,
   "num_scoring_users": 1748,
   "nsfw": "white",
   "created_at": "2007-04-28T17:06:28+00:00",
@@ -40,6 +40,7 @@
     "year": 1993,
     "season": "spring"
   },
+  "source": "manga",
   "average_episode_duration": 5520,
   "rating": "pg_13",
   "studios": [
