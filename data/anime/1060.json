@@ -2,8 +2,8 @@
   "id": 1060,
   "title": "Oruchuban Ebichu",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/79591.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/4/79591l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/79591.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/4/79591l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -20,13 +20,13 @@
   "end_date": "1999-10-01",
   "synopsis": "Ebichu the hamster seems like the perfect house pet: she cleans, shops, cooks, does laundry, and anything to please her master, known only as \"Office Lady\" (OL). Unfortunately, OL and her unfaithful boyfriend, combined with Ebichu's uncontrollable exuberance and love for ice cream, often earn her severe and bloody punishment. However, Ebichu doesn't seem to mind the abuse if she achieves her goal of making her beloved master a little bit happier.\n\n(Source: IMDB)",
   "mean": 7.36,
-  "rank": 2409,
+  "rank": 2428,
   "popularity": 3059,
-  "num_list_users": 53851,
-  "num_scoring_users": 20374,
+  "num_list_users": 53895,
+  "num_scoring_users": 20384,
   "nsfw": "white",
   "created_at": "2006-06-03T20:03:24+00:00",
-  "updated_at": "2023-11-24T02:37:50+00:00",
+  "updated_at": "2024-07-26T20:53:17+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -45,6 +45,10 @@
     {
       "id": 57,
       "name": "Gag Humor"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
     },
     {
       "id": 42,

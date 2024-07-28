@@ -17,10 +17,10 @@
   "end_date": "2005-08-26",
   "synopsis": "Jouji Gouda is a new transfer student at Hakuryo High. He fell in love at first sight and boldly proposed to Akane Suzumiya, representative of his class, on his first day at the new school. Although Akane finds him very annoying, hot-blooded and simple-minded Jouji never gives up and would do anything to express his love towards Akane. \n",
   "mean": 5.73,
-  "rank": 10687,
-  "popularity": 5033,
-  "num_list_users": 19220,
-  "num_scoring_users": 9604,
+  "rank": 10679,
+  "popularity": 5036,
+  "num_list_users": 19230,
+  "num_scoring_users": 9609,
   "nsfw": "white",
   "created_at": "2005-11-17T08:49:07+00:00",
   "updated_at": "2022-03-31T08:39:13+00:00",
@@ -49,10 +49,6 @@
   "average_episode_duration": 1620,
   "rating": "pg_13",
   "studios": [
-    {
-      "id": 108,
-      "name": "Media Factory"
-    },
     {
       "id": 1873,
       "name": "Silver"
