@@ -15,12 +15,12 @@
   },
   "start_date": "2024-10",
   "synopsis": "\"Magical Girl\"—A profession that undertakes the work of exterminating a kind of natural disaster called \"Kaii.\" Kana Sakuragi, a female college student who struggles with job hunting, is picked up by a magical girl startup company and...?! Magical Girl work-life starts now!\n\n(Source: MANGA Plus)",
-  "popularity": 8153,
-  "num_list_users": 5738,
+  "popularity": 8088,
+  "num_list_users": 5860,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-11-28T15:16:40+00:00",
-  "updated_at": "2024-06-23T21:52:54+00:00",
+  "updated_at": "2024-07-25T19:18:42+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
     },
     {
       "id": 66,

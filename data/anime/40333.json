@@ -1,0 +1,68 @@
+{
+  "id": 40333,
+  "title": "Uzumaki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1432/105265.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1432/105265l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Spiral"
+    ],
+    "en": "Uzumaki: Spiral into Horror",
+    "ja": "うずまき"
+  },
+  "start_date": "2024-09-28",
+  "synopsis": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals.\n\nBut his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness.\n\n[Written by MAL Rewrite]",
+  "popularity": 1824,
+  "num_list_users": 122691,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2019-08-31T02:51:28+00:00",
+  "updated_at": "2024-07-27T04:39:52+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1967,
+      "name": "Drive"
+    }
+  ]
+}

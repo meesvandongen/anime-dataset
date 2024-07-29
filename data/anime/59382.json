@@ -1,0 +1,47 @@
+{
+  "id": 59382,
+  "title": "Horangi Deureowayo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1735/144446.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1735/144446l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tiger Coming In",
+    "ja": "호랑이 들어와요"
+  },
+  "start_date": "2024-07-25",
+  "synopsis": "The fun and mysterious daily life of a young couple in a forest and strange children who come to them one day.\n\n(Source: Naver Corporation, translated)",
+  "rank": 20430,
+  "popularity": 25971,
+  "num_list_users": 64,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-07-25T09:27:40+00:00",
+  "updated_at": "2024-07-25T13:59:33+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 53,
+      "name": "Childcare"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 720,
+  "rating": "g",
+  "studios": []
+}
