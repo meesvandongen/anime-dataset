@@ -14,8 +14,8 @@
   "end_date": "2004-03-20",
   "synopsis": "Based on Ueda Toshiko's shoujo manga.",
   "mean": 6.05,
-  "rank": 9218,
-  "popularity": 16043,
+  "rank": 9239,
+  "popularity": 16063,
   "num_list_users": 531,
   "num_scoring_users": 189,
   "nsfw": "white",
@@ -45,5 +45,10 @@
   "source": "manga",
   "average_episode_duration": 3600,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 386,
+      "name": "Animaruya"
+    }
+  ]
 }
