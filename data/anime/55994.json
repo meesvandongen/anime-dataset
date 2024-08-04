@@ -12,14 +12,14 @@
     "en": "",
     "ja": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ"
   },
-  "start_date": "2024-10",
+  "start_date": "2024-10-05",
   "synopsis": "Second season of Sword Art Online Alternative: Gun Gale Online.",
-  "popularity": 3184,
-  "num_list_users": 49870,
+  "popularity": 3166,
+  "num_list_users": 50436,
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2023-07-15T12:42:17+00:00",
-  "updated_at": "2024-05-05T23:19:24+00:00",
+  "updated_at": "2024-08-02T11:20:05+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2024,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

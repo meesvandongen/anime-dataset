@@ -1,0 +1,46 @@
+{
+  "id": 59465,
+  "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1412/144623.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1412/144623l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Fate/Grand Order: Fujimaru Ritsuka Doesn't Get It Season 2"
+    ],
+    "en": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 2",
+    "ja": "Fate/Grand Order 藤丸立香はわからない Season2"
+  },
+  "start_date": "2024-08-03",
+  "synopsis": "Second season of Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai.",
+  "rank": 19717,
+  "popularity": 15740,
+  "num_list_users": 574,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2024-08-03T14:05:21+00:00",
+  "updated_at": "2024-08-03T14:06:03+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

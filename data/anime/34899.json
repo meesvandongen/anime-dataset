@@ -17,9 +17,9 @@
   "end_date": "2017-02-10",
   "synopsis": "Adaptation of the doujin eroge Monmusu Quest (Monster Girl Quest).",
   "mean": 6.54,
-  "popularity": 7105,
-  "num_list_users": 8143,
-  "num_scoring_users": 3043,
+  "popularity": 7112,
+  "num_list_users": 8149,
+  "num_scoring_users": 3044,
   "nsfw": "gray",
   "created_at": "2017-02-09T21:12:54+00:00",
   "updated_at": "2024-05-19T00:46:37+00:00",
@@ -48,10 +48,6 @@
   "average_episode_duration": 994,
   "rating": "rx",
   "studios": [
-    {
-      "id": 1374,
-      "name": "Office TakeOut"
-    },
     {
       "id": 2315,
       "name": "Office No. 8"
