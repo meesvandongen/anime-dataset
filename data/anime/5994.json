@@ -15,9 +15,9 @@
   "start_date": "1989-09-25",
   "end_date": "1990-12-16",
   "synopsis": "The story of students of a baseball team from Midoriyama High School, who will participate in the 66th National Championship Tournament of Senior High School Baseball in Japan. ",
-  "rank": 16757,
-  "popularity": 14385,
-  "num_list_users": 831,
+  "rank": 16802,
+  "popularity": 14399,
+  "num_list_users": 833,
   "num_scoring_users": 117,
   "nsfw": "white",
   "created_at": "2009-01-30T21:49:39+00:00",
@@ -49,5 +49,10 @@
   },
   "average_episode_duration": 2520,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 386,
+      "name": "Animaruya"
+    }
+  ]
 }
