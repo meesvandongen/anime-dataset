@@ -1,0 +1,47 @@
+{
+  "id": 57559,
+  "title": "MF Ghost 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1732/142133.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1732/142133l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "MFゴースト 2nd Season"
+  },
+  "start_date": "2024-10-06",
+  "synopsis": "Second season of MF Ghost",
+  "popularity": 5843,
+  "num_list_users": 13153,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2023-12-17T19:12:56+00:00",
+  "updated_at": "2024-08-09T11:18:10+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1440,
+      "name": "Felix Film"
+    }
+  ]
+}
