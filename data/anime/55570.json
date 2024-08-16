@@ -2,22 +2,22 @@
   "id": 55570,
   "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1383/140402.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1383/140402l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1826/144788.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1826/144788l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "The Prince of Tennis: U-17 World Cup Semifinal",
     "ja": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL"
   },
-  "start_date": "2024-10",
+  "start_date": "2024-10-03",
   "synopsis": "",
-  "popularity": 9949,
-  "num_list_users": 3255,
+  "popularity": 9902,
+  "num_list_users": 3305,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-06-04T17:42:28+00:00",
-  "updated_at": "2024-03-23T05:08:56+00:00",
+  "updated_at": "2024-08-14T16:12:21+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -39,8 +39,17 @@
     "year": 2024,
     "season": "fall"
   },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
+  },
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 463,
+      "name": "M.S.C"
+    }
+  ]
 }

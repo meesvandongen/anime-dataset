@@ -2,8 +2,8 @@
   "id": 55586,
   "title": "Yuanshen: Xumi CM Duanpian",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1711/136337.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1711/136337l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1711/136337.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1711/136337l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,12 +16,12 @@
   "end_date": "2022-08-11",
   "synopsis": "Promotional video showcasing the Sumeru storyline of Genshin Impact.",
   "mean": 6.9,
-  "popularity": 13682,
-  "num_list_users": 1027,
-  "num_scoring_users": 537,
+  "popularity": 13606,
+  "num_list_users": 1045,
+  "num_scoring_users": 549,
   "nsfw": "white",
   "created_at": "2023-06-05T19:24:17+00:00",
-  "updated_at": "2024-05-14T15:06:28+00:00",
+  "updated_at": "2024-08-12T16:53:06+00:00",
   "media_type": "pv",
   "status": "finished_airing",
   "genres": [
@@ -32,10 +32,6 @@
     {
       "id": 62,
       "name": "Isekai"
-    },
-    {
-      "id": 6,
-      "name": "Mythology"
     }
   ],
   "num_episodes": 1,

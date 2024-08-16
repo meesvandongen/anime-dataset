@@ -16,12 +16,12 @@
   "end_date": "2023-07-03",
   "synopsis": "Promotional video showcasing the Fontaine cast of characters in Genshin Impact.",
   "mean": 7.29,
-  "popularity": 13222,
-  "num_list_users": 1167,
-  "num_scoring_users": 647,
+  "popularity": 13165,
+  "num_list_users": 1188,
+  "num_scoring_users": 659,
   "nsfw": "white",
   "created_at": "2024-04-18T11:43:32+00:00",
-  "updated_at": "2024-05-14T18:30:40+00:00",
+  "updated_at": "2024-08-12T16:53:18+00:00",
   "media_type": "pv",
   "status": "finished_airing",
   "genres": [
@@ -32,10 +32,6 @@
     {
       "id": 62,
       "name": "Isekai"
-    },
-    {
-      "id": 6,
-      "name": "Mythology"
     }
   ],
   "num_episodes": 1,

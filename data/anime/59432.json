@@ -1,0 +1,44 @@
+{
+  "id": 59432,
+  "title": "Nando datte Lalala",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1685/144552.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1685/144552l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "何度だってLalala"
+  },
+  "start_date": "2022-11-30",
+  "end_date": "2022-11-30",
+  "synopsis": "Music video for the song Nando datte Lalala by Naoto Inti Raymi.",
+  "popularity": 27019,
+  "num_list_users": 24,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2024-07-31T05:27:36+00:00",
+  "updated_at": "2024-08-12T17:44:10+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 274,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2988,
+      "name": "Shadow Pond Studio"
+    }
+  ]
+}

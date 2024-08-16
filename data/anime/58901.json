@@ -1,0 +1,43 @@
+{
+  "id": 58901,
+  "title": "Hazard Symbol",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1133/143223.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1133/143223l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ハザードシンボル"
+  },
+  "start_date": "2024-05-14",
+  "end_date": "2024-05-14",
+  "synopsis": "Music video for the song Hazard Symbol by Yuyu. The song was featured as the opening for Kaii to Otome to Kamikakushi.\n",
+  "popularity": 26984,
+  "num_list_users": 29,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2024-05-22T10:16:25+00:00",
+  "updated_at": "2024-08-12T18:52:29+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 237,
+  "rating": "pg_13",
+  "studios": []
+}

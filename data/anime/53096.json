@@ -13,7 +13,7 @@
   "start_date": "2022-07-17",
   "end_date": "2022-07-17",
   "synopsis": "Music video for Gen Hosino's song Isekai Kongou dai Butoukai feat. Obake",
-  "popularity": 21016,
+  "popularity": 21032,
   "num_list_users": 183,
   "num_scoring_users": 77,
   "nsfw": "white",
@@ -34,5 +34,10 @@
   },
   "average_episode_duration": 243,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2987,
+      "name": "Outline"
+    }
+  ]
 }

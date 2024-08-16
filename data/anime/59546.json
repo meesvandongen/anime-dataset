@@ -1,0 +1,44 @@
+{
+  "id": 59546,
+  "title": "Anata no Shiranai Boku ga Iru feat. Motohiro Hata",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1712/144784.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1712/144784l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "あなたの知らない僕がいる feat.秦 基博"
+  },
+  "start_date": "2021-03-10",
+  "end_date": "2021-03-10",
+  "synopsis": "Music video for the song Anata no Shiranai Boku ga Iru by Fujifabric, featuring Motohiro Hata.",
+  "popularity": 26977,
+  "num_list_users": 30,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2024-08-14T05:58:13+00:00",
+  "updated_at": "2024-08-14T05:58:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 332,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2679,
+      "name": "cogitoworks"
+    }
+  ]
+}
