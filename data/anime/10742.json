@@ -2,8 +2,8 @@
   "id": 10742,
   "title": "Saru to Kani no Gassen",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/83742.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/4/83742l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/83742.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/83742l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,9 +16,9 @@
   "end_date": "1917-05-20",
   "synopsis": "A monkey tricks a crab and steals his food. More crabs arrive and begin fighting the monkey.\n\n(Source: AniDB)",
   "mean": 4.92,
-  "rank": 12811,
-  "popularity": 13168,
-  "num_list_users": 1183,
+  "rank": 12816,
+  "popularity": 13184,
+  "num_list_users": 1184,
   "num_scoring_users": 442,
   "nsfw": "white",
   "created_at": "2011-05-21T07:03:42+00:00",
@@ -37,7 +37,7 @@
     "season": "spring"
   },
   "source": "other",
-  "average_episode_duration": 360,
+  "average_episode_duration": 0,
   "rating": "g",
   "studios": []
 }
