@@ -15,9 +15,9 @@
   "start_date": "1993-03-06",
   "end_date": "1993-03-06",
   "synopsis": "To confirm that birds descend from dinosaurs, Dorami and her friends from the 22nd century use a time machine to go millions of years back in time.\n\n(Source: ANN)",
-  "mean": 6.02,
-  "rank": 9389,
-  "popularity": 15243,
+  "mean": 6.03,
+  "rank": 9388,
+  "popularity": 15255,
   "num_list_users": 653,
   "num_scoring_users": 187,
   "nsfw": "white",
@@ -38,5 +38,10 @@
   },
   "average_episode_duration": 2400,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
 }

@@ -16,10 +16,10 @@
   "start_date": "1979-10-03",
   "end_date": "1979-10-03",
   "synopsis": "The pilot to Doraemon (1979). It was created in 1978 but was released to the public as the first special double-billed with episode 159 in the same timeslot. In it, Doraemon creates a fishing pond in Nobita's room so he could play around instead of studying.",
-  "mean": 6.14,
-  "rank": 8729,
-  "popularity": 13005,
-  "num_list_users": 1234,
+  "mean": 6.17,
+  "rank": 8594,
+  "popularity": 13016,
+  "num_list_users": 1237,
   "num_scoring_users": 489,
   "nsfw": "white",
   "created_at": "2017-11-02T16:19:17+00:00",
@@ -52,5 +52,10 @@
   "source": "manga",
   "average_episode_duration": 745,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
 }
