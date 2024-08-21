@@ -16,10 +16,10 @@
   "end_date": "2011-04-02",
   "synopsis": "As a child, Moritaka Mashiro dreamt of becoming a mangaka, just like his childhood hero and uncle, Tarou Kawaguchi, creator of a popular gag manga. But when tragedy strikes, he gives up on his dream and spends his middle school days studying, aiming to become a salaryman instead.\n\nOne day, his classmate Akito Takagi, the school's top student and aspiring writer, notices the detailed drawings in Moritaka's notebook. Seeing the vast potential of his artistic talent, Akito approaches Moritaka, proposing that they become mangaka together. After much convincing, Moritaka realizes that if he is able to create a popular manga series, he may be able to get the girl he has a crush on, Miho Azuki, to take part in the anime adaptation as a voice actor. Thus the pair begins creating manga under the pen name Muto Ashirogi, hoping to become the greatest mangaka in Japan, the likes of which no one has ever seen.\n\n[Written by MAL Rewrite]",
   "mean": 8.18,
-  "rank": 395,
+  "rank": 405,
   "popularity": 350,
-  "num_list_users": 627347,
-  "num_scoring_users": 299873,
+  "num_list_users": 627626,
+  "num_scoring_users": 300009,
   "nsfw": "white",
   "created_at": "2009-12-10T17:23:37+00:00",
   "updated_at": "2023-01-29T18:20:22+00:00",
@@ -51,6 +51,10 @@
   "start_season": {
     "year": 2010,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:00"
   },
   "source": "manga",
   "average_episode_duration": 1470,

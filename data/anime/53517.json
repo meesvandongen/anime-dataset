@@ -14,10 +14,10 @@
   "end_date": "2015-04-18",
   "synopsis": "Manner movie featuring Conan and Camera Man, a character from \"NO MORE Eiga Dorobou\" campaign.",
   "mean": 5.96,
-  "rank": 9663,
-  "popularity": 16019,
-  "num_list_users": 541,
-  "num_scoring_users": 160,
+  "rank": 9696,
+  "popularity": 15967,
+  "num_list_users": 549,
+  "num_scoring_users": 162,
   "nsfw": "white",
   "created_at": "2022-11-04T17:06:10+00:00",
   "updated_at": "2023-11-25T20:10:39+00:00",
@@ -37,5 +37,10 @@
   "source": "manga",
   "average_episode_duration": 72,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
 }

@@ -1,0 +1,52 @@
+{
+  "id": 59614,
+  "title": "Kojin Senshi Oredam",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1869/144939.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1869/144939l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "個人戦士オレダム"
+  },
+  "start_date": "2010-03-03",
+  "end_date": "2010-03-03",
+  "synopsis": "An exclusive music video special released with the Blu-Ray Box Set of Seto no Hanayome.",
+  "rank": 18738,
+  "popularity": 22735,
+  "num_list_users": 113,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2024-08-20T04:17:47+00:00",
+  "updated_at": "2024-08-20T11:24:52+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 133,
+  "rating": "pg_13",
+  "studios": []
+}
