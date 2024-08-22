@@ -15,13 +15,13 @@
   "start_date": "2024-08-16",
   "end_date": "2024-08-16",
   "synopsis": "",
-  "rank": 20481,
-  "popularity": 12713,
-  "num_list_users": 1351,
-  "num_scoring_users": 0,
+  "rank": 20535,
+  "popularity": 12072,
+  "num_list_users": 1667,
+  "num_scoring_users": 69,
   "nsfw": "white",
   "created_at": "2023-08-08T04:06:01+00:00",
-  "updated_at": "2024-08-10T10:04:50+00:00",
+  "updated_at": "2024-08-17T10:34:25+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,13 +38,13 @@
       "name": "School"
     }
   ],
-  "num_episodes": 1,
+  "num_episodes": 6,
   "start_season": {
     "year": 2024,
     "season": "summer"
   },
   "source": "web_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1326,
   "rating": "pg_13",
   "studios": [
     {

@@ -12,14 +12,14 @@
     "en": "365 Days to the Wedding",
     "ja": "結婚するって、本当ですか 365 Days To The Wedding"
   },
-  "start_date": "2024-10",
+  "start_date": "2024-10-03",
   "synopsis": "Takuya and Rika are coworkers in a travel agency in Tokyo. They're both single, but they don't mind, since they're introverts with fulfilling lives at home. Unfortunately, now their job is looking to staff an office in Siberia, and non-married employees are the first to be considered. Rika is desperate to avoid the transfer and goes to Takuya with an idea: if they pretend they're getting married in a year, they can stay in Tokyo. The only problem is the two of them barely know each other! If these two quiet coworkers \"fake\" a relationship, will it turn into something real?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 5389,
-  "num_list_users": 16120,
-  "num_scoring_users": 1,
+  "popularity": 5267,
+  "num_list_users": 17104,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-07-07T09:10:43+00:00",
-  "updated_at": "2024-07-05T13:15:49+00:00",
+  "updated_at": "2024-08-16T09:01:39+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -44,6 +44,10 @@
   "start_season": {
     "year": 2024,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:30"
   },
   "source": "manga",
   "average_episode_duration": 0,

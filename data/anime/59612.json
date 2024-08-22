@@ -1,0 +1,64 @@
+{
+  "id": 59612,
+  "title": "Zankoku Douwa: Utsukushi-hime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1887/144936.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1887/144936l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Monogatari Series: Off & Monster Season Episode 6.5"
+    ],
+    "en": "A Cruel Fairy Tale: The Beautiful Princess",
+    "ja": "残酷童話 うつくし姫"
+  },
+  "start_date": "2024-08-17",
+  "end_date": "2024-08-17",
+  "synopsis": "Episode 6.5 of Monogatari Series: Off & Monster Season, adapting the short story A Cruel Fairy Tale: The Beautiful Princess.\n\nOnce upon a time, there was a true story that happened about 600 years ago. It's a story of a very beautiful girl who lived in a country that no longer exists.\n\n(Source: Crunchyroll)",
+  "mean": 7.03,
+  "rank": 4170,
+  "popularity": 19680,
+  "num_list_users": 271,
+  "num_scoring_users": 152,
+  "nsfw": "white",
+  "created_at": "2024-08-19T21:00:14+00:00",
+  "updated_at": "2024-08-21T23:09:05+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 750,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}

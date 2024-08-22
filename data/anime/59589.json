@@ -1,0 +1,48 @@
+{
+  "id": 59589,
+  "title": "Toy Cop",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1017/144844.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1017/144844l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Toy Cop",
+    "ja": "토이캅"
+  },
+  "start_date": "2017-09-14",
+  "end_date": "2017-11-30",
+  "synopsis": "",
+  "rank": 14346,
+  "popularity": 27081,
+  "num_list_users": 19,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-08-18T10:06:01+00:00",
+  "updated_at": "2024-08-18T15:48:26+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 22,
+  "start_season": {
+    "year": 2017,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 320,
+  "rating": "pg",
+  "studios": []
+}

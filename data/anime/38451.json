@@ -13,16 +13,17 @@
     "ja": "れいぞうこのつけのすけ！"
   },
   "start_date": "2018-10-01",
+  "end_date": "2020-03-17",
   "synopsis": "A gag anime about foods in a refrigerator. The anime airs within the Oha Suta children's morning TV program and will receive a simultaneous manga serialization by Kazumata Oguri.",
-  "rank": 20518,
-  "popularity": 18182,
-  "num_list_users": 350,
-  "num_scoring_users": 27,
+  "rank": 20572,
+  "popularity": 18179,
+  "num_list_users": 352,
+  "num_scoring_users": 29,
   "nsfw": "white",
   "created_at": "2018-10-02T11:56:35+00:00",
-  "updated_at": "2018-10-02T20:23:23+00:00",
+  "updated_at": "2024-08-18T11:52:31+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -37,7 +38,7 @@
       "name": "Parody"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 65,
   "start_season": {
     "year": 2018,
     "season": "fall"
