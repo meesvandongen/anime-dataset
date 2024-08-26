@@ -14,8 +14,8 @@
   "end_date": "1981-08-01",
   "synopsis": "The story tells the adventures of the boy, 21 emon, engaged in the management of a hotel belonging to his family for years. In his problems, 21 emons is helped by the robot Gonsuke and the little alien Monga.\n\n(Source: Wikipedia)",
   "mean": 5.65,
-  "rank": 11078,
-  "popularity": 13641,
+  "rank": 11110,
+  "popularity": 13649,
   "num_list_users": 1039,
   "num_scoring_users": 376,
   "nsfw": "white",
@@ -42,6 +42,7 @@
     "year": 1981,
     "season": "summer"
   },
+  "source": "manga",
   "average_episode_duration": 5500,
   "rating": "g",
   "studios": [

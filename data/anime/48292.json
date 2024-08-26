@@ -7,7 +7,9 @@
   },
   "alternative_titles": {
     "synonyms": [
-      "Yennal Yetjeoge"
+      "Yennal Yetjeoge",
+      "Baechudosa Mudosaui Yesnal Yesjeog-e",
+      "배추도사 무도사의 옛날 옛적에"
     ],
     "en": "",
     "ja": "옛날 옛적에"
@@ -15,8 +17,8 @@
   "start_date": "1990-01-05",
   "end_date": "1990-03-30",
   "synopsis": "",
-  "rank": 15310,
-  "popularity": 21283,
+  "rank": 15334,
+  "popularity": 21308,
   "num_list_users": 169,
   "num_scoring_users": 34,
   "nsfw": "white",
@@ -35,7 +37,13 @@
     "year": 1990,
     "season": "winter"
   },
+  "source": "other",
   "average_episode_duration": 1106,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2444,
+      "name": "Hanho Heung-Up"
+    }
+  ]
 }

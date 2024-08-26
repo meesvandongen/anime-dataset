@@ -16,10 +16,10 @@
   "start_date": "1992-03-07",
   "end_date": "1992-03-07",
   "synopsis": "The third movie of Magical Taruruuto-kun",
-  "rank": 19182,
-  "popularity": 15784,
-  "num_list_users": 572,
-  "num_scoring_users": 118,
+  "rank": 19216,
+  "popularity": 15786,
+  "num_list_users": 574,
+  "num_scoring_users": 120,
   "nsfw": "white",
   "created_at": "2014-03-06T15:28:35+00:00",
   "updated_at": "2022-11-06T09:30:33+00:00",
@@ -62,7 +62,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1800,
-  "rating": "g",
+  "rating": "pg_13",
   "studios": [
     {
       "id": 18,

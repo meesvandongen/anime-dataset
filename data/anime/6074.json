@@ -14,9 +14,9 @@
   "end_date": "1992-03-07",
   "synopsis": "",
   "mean": 6.13,
-  "rank": 8807,
-  "popularity": 13445,
-  "num_list_users": 1097,
+  "rank": 8832,
+  "popularity": 13452,
+  "num_list_users": 1098,
   "num_scoring_users": 414,
   "nsfw": "white",
   "created_at": "2009-02-16T20:12:13+00:00",
@@ -42,6 +42,7 @@
     "year": 1992,
     "season": "winter"
   },
+  "source": "manga",
   "average_episode_duration": 2400,
   "rating": "g",
   "studios": [
