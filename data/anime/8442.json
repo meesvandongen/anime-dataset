@@ -16,16 +16,20 @@
   "end_date": "1998-04-25",
   "synopsis": "Long time ago, there was peace until the giants decide to wake up after years and years of slumber.The three priestesses sisters who were guarding their shrine had to retreat to seek help and who better to ask Maze for help. \n\n(Source: Maze Of The Haze)",
   "mean": 5.94,
-  "rank": 9784,
-  "popularity": 13472,
-  "num_list_users": 1090,
+  "rank": 9806,
+  "popularity": 13485,
+  "num_list_users": 1089,
   "num_scoring_users": 155,
   "nsfw": "white",
   "created_at": "2010-03-21T15:51:45+00:00",
-  "updated_at": "2013-01-03T18:05:27+00:00",
+  "updated_at": "2024-08-24T21:55:19+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 2,
       "name": "Adventure"
@@ -37,6 +41,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
     },
     {
       "id": 65,

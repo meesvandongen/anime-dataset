@@ -11,23 +11,24 @@
     "ja": "鷹の爪団、富山"
   },
   "start_date": "2016-04-06",
+  "end_date": "2023-03-27",
   "synopsis": "A crossover of Kaette Kite yoo Toyama kara with Himitsukessha Taka no Tsume as they explore more of Toyama city.",
-  "rank": 14060,
-  "popularity": 16759,
-  "num_list_users": 463,
-  "num_scoring_users": 80,
+  "rank": 14085,
+  "popularity": 16743,
+  "num_list_users": 466,
+  "num_scoring_users": 84,
   "nsfw": "white",
   "created_at": "2016-08-21T05:35:32+00:00",
-  "updated_at": "2023-07-14T14:44:57+00:00",
+  "updated_at": "2024-08-22T06:38:55+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 9,
   "start_season": {
     "year": 2016,
     "season": "spring"
