@@ -13,20 +13,28 @@
   "start_date": "2023-10-08",
   "end_date": "2024-03-31",
   "synopsis": "\"I can help you laugh, but I can't take away the tears you've shed.\" In Mametsubu-cho, a town somewhere in the ancient Japanese city of Kamakura, Ochibi-san lives a relaxed, easy life. With his friend Nazeni the dog, Jack the naughty kitten, and Pankui the hungry dog, Ochibi-san's year in Mametsubu-cho is filled with encounters and new discoveries! Flower-viewing in spring, swimming in summer, collecting leaves in fall, and eating yummy food in winter.\n\n(Source: Crunchyroll)",
-  "mean": 6.33,
-  "rank": 7752,
-  "popularity": 13904,
-  "num_list_users": 970,
-  "num_scoring_users": 253,
+  "mean": 6.32,
+  "rank": 7800,
+  "popularity": 13837,
+  "num_list_users": 994,
+  "num_scoring_users": 257,
   "nsfw": "white",
   "created_at": "2023-09-08T09:02:19+00:00",
-  "updated_at": "2024-03-28T14:25:52+00:00",
+  "updated_at": "2024-08-22T19:32:42+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
       "id": 63,
       "name": "Iyashikei"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
     },
     {
       "id": 36,

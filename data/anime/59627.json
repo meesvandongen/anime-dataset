@@ -1,0 +1,49 @@
+{
+  "id": 59627,
+  "title": "Rich Mountain Toyama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1374/144990.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1374/144990l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "リッチマウンテン富山"
+  },
+  "start_date": "2022-09-29",
+  "end_date": "2023-11-01",
+  "synopsis": "Follow Perorich as he visits various people and places across Toyama City.",
+  "rank": 20628,
+  "popularity": 25340,
+  "num_list_users": 72,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2024-08-22T05:07:22+00:00",
+  "updated_at": "2024-08-22T09:54:02+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 90,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

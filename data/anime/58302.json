@@ -2,22 +2,22 @@
   "id": 58302,
   "title": "The iDOLM@STER Shiny Colors 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1632/141786.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1632/141786l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1978/145055.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1978/145055l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "アイドルマスター シャイニーカラーズ 2nd season"
   },
-  "start_date": "2024-10",
+  "start_date": "2024-10-05",
   "synopsis": "Second season of The iDOLM@STER Shiny Colors.",
-  "popularity": 10857,
-  "num_list_users": 2468,
+  "popularity": 10810,
+  "num_list_users": 2514,
   "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": "2024-03-03T19:45:11+00:00",
-  "updated_at": "2024-03-04T02:20:28+00:00",
+  "updated_at": "2024-08-24T20:53:38+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -34,6 +34,10 @@
   "start_season": {
     "year": 2024,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:23"
   },
   "source": "game",
   "average_episode_duration": 0,

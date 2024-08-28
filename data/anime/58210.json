@@ -13,10 +13,10 @@
   "start_date": "2024-02-23",
   "end_date": "2024-02-23",
   "synopsis": "Music video for the song Value by Ado.",
-  "mean": 6.84,
-  "popularity": 18758,
-  "num_list_users": 312,
-  "num_scoring_users": 183,
+  "mean": 6.85,
+  "popularity": 18755,
+  "num_list_users": 314,
+  "num_scoring_users": 186,
   "nsfw": "white",
   "created_at": "2024-02-23T17:12:10+00:00",
   "updated_at": "2024-02-24T09:18:59+00:00",
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 192,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2684,
+      "name": "CHOCOLATE"
+    }
+  ]
 }
