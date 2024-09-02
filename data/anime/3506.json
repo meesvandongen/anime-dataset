@@ -2,8 +2,8 @@
   "id": 3506,
   "title": "Connected",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1974/111954.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1974/111954l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1974/111954.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1974/111954l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,9 +16,9 @@
   "end_date": "2002-01-01",
   "synopsis": "Music video by Ayumi Hamasaki, created by Studio 4°C.",
   "mean": 5.95,
-  "popularity": 8943,
-  "num_list_users": 4570,
-  "num_scoring_users": 2751,
+  "popularity": 8954,
+  "num_list_users": 4579,
+  "num_scoring_users": 2749,
   "nsfw": "white",
   "created_at": "2007-12-02T19:17:22+00:00",
   "updated_at": "2023-12-06T19:22:45+00:00",
