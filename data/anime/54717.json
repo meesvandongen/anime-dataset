@@ -2,8 +2,8 @@
   "id": 54717,
   "title": "Mahoutsukai Precure!! Mirai Days",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1111/143323.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1111/143323l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1176/145125.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1176/145125l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,13 +13,13 @@
     "ja": "魔法つかいプリキュア！！～MIRAI DAYS～"
   },
   "start_date": "2025-01-12",
-  "synopsis": "Second season of Mahoutsukai Precure!",
-  "popularity": 11414,
-  "num_list_users": 2096,
+  "synopsis": "Second season of Mahoutsukai Precure!.",
+  "popularity": 11408,
+  "num_list_users": 2108,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-03-14T03:52:49+00:00",
-  "updated_at": "2024-07-03T12:32:57+00:00",
+  "updated_at": "2024-08-29T02:44:53+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -51,6 +51,10 @@
     {
       "id": 18,
       "name": "Toei Animation"
+    },
+    {
+      "id": 37,
+      "name": "Studio Deen"
     }
   ]
 }

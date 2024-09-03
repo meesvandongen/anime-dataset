@@ -2,22 +2,22 @@
   "id": 53723,
   "title": "Acro Trip",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1889/144318.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1889/144318l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1397/145153.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1397/145153l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "アクロトリップ"
   },
-  "start_date": "2024-10",
+  "start_date": "2024-10-02",
   "synopsis": "Chizuko Date is an otaku girl who lives in a city in Niigata Prefecture. Chizuko is obsessed with Berry Blossom, the magical girl who protects the city. However, Chroma — the leader of the local evil organization Fossa Magna — is inept and weak, so hardly anyone else cares about Berry Blossom and Chroma's frequent battles anymore. Chizuko vows to shine a light on the magical girl's exploits — and this fervent desire takes this seemingly shy middle school girl down a dark path filled with strange folks...\n\n(Source: ANN)",
-  "popularity": 8221,
-  "num_list_users": 5728,
-  "num_scoring_users": 0,
+  "popularity": 8118,
+  "num_list_users": 5908,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2022-11-30T17:28:51+00:00",
-  "updated_at": "2024-07-18T11:21:02+00:00",
+  "updated_at": "2024-08-30T10:03:02+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2024,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "22:00"
   },
   "source": "manga",
   "average_episode_duration": 0,

@@ -6,18 +6,20 @@
     "large": "https://cdn.myanimelist.net/images/anime/1584/144860l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Blue Lock 2nd Season",
+    "synonyms": [
+      "Blue Lock 2nd Season"
+    ],
+    "en": "Blue Lock Season 2",
     "ja": "ブルーロック VS. U-20 JAPAN"
   },
   "start_date": "2024-10-05",
   "synopsis": "Second season of Blue Lock.",
-  "popularity": 1850,
-  "num_list_users": 122027,
-  "num_scoring_users": 9,
+  "popularity": 1838,
+  "num_list_users": 123856,
+  "num_scoring_users": 13,
   "nsfw": "white",
   "created_at": "2023-03-25T17:37:57+00:00",
-  "updated_at": "2024-08-18T16:26:40+00:00",
+  "updated_at": "2024-08-31T20:21:50+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [

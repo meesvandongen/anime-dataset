@@ -13,16 +13,17 @@
     "ja": "是王者啊？第3季 有求必应星之队"
   },
   "start_date": "2024-06-13",
+  "end_date": "2024-08-29",
   "synopsis": "",
-  "rank": 13595,
-  "popularity": 23257,
-  "num_list_users": 102,
-  "num_scoring_users": 2,
+  "rank": 13604,
+  "popularity": 23206,
+  "num_list_users": 104,
+  "num_scoring_users": 4,
   "nsfw": "gray",
   "created_at": "2024-07-06T13:54:01+00:00",
-  "updated_at": "2024-08-03T07:19:56+00:00",
+  "updated_at": "2024-08-29T13:13:23+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -39,7 +40,7 @@
     "season": "spring"
   },
   "source": "game",
-  "average_episode_duration": 600,
+  "average_episode_duration": 526,
   "rating": "pg_13",
   "studios": []
 }

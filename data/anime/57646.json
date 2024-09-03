@@ -15,15 +15,16 @@
     "ja": "モブから始まる探索英雄譚"
   },
   "start_date": "2024-07-06",
+  "end_date": "2024-09-14",
   "synopsis": "Meet Kaito Takagi, your typical high schooler with a low profile. He spends his days exploring dungeons in Japan, hunting slimes for some extra cash. On the side, he quietly admires his childhood friend, the popular girl in class. One day, a rare golden slime shows up, and after Kaito defeats it, he finds a super valuable item—a card that can summon mythical beings! He decides to use it and summons a stunning warrior maiden. Now, Kaito has a chance to rise above his ordinary explorer life. Get ready for a modern fantasy story filled with battles!\n\n(Source: MAL News)",
-  "mean": 5.97,
-  "rank": 9664,
-  "popularity": 3389,
-  "num_list_users": 45207,
-  "num_scoring_users": 7363,
+  "mean": 5.91,
+  "rank": 9939,
+  "popularity": 3261,
+  "num_list_users": 48545,
+  "num_scoring_users": 7790,
   "nsfw": "white",
   "created_at": "2023-12-27T13:51:04+00:00",
-  "updated_at": "2024-07-15T23:29:57+00:00",
+  "updated_at": "2024-08-30T15:05:32+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -40,7 +41,7 @@
       "name": "Fantasy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "summer"

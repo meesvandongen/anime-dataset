@@ -1,0 +1,46 @@
+{
+  "id": 59680,
+  "title": "Momoume Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1834/145116.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1834/145116l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Momo Ume Specials, Momo and Ume Specials"
+    ],
+    "en": "",
+    "ja": "モモウメ"
+  },
+  "start_date": "2021-06-30",
+  "end_date": "2021-06-30",
+  "synopsis": "Specials included in the Blu-ray release of Momoume.",
+  "rank": 19692,
+  "popularity": 27141,
+  "num_list_users": 19,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-08-28T07:18:51+00:00",
+  "updated_at": "2024-08-28T07:18:51+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}

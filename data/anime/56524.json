@@ -12,14 +12,14 @@
   },
   "start_date": "2023-10-03",
   "synopsis": "Fourth season of Tunshi Xingkong.",
-  "mean": 8.25,
-  "rank": 325,
-  "popularity": 10603,
-  "num_list_users": 2678,
-  "num_scoring_users": 845,
+  "mean": 8.24,
+  "rank": 327,
+  "popularity": 10528,
+  "num_list_users": 2758,
+  "num_scoring_users": 870,
   "nsfw": "white",
   "created_at": "2023-09-02T11:47:44+00:00",
-  "updated_at": "2024-03-23T08:26:03+00:00",
+  "updated_at": "2024-09-02T17:25:18+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -44,7 +44,7 @@
       "name": "Sci-Fi"
     }
   ],
-  "num_episodes": 52,
+  "num_episodes": 71,
   "start_season": {
     "year": 2023,
     "season": "fall"

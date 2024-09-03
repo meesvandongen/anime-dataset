@@ -14,8 +14,8 @@
   },
   "start_date": "2024-10-07",
   "synopsis": "Second season of Kamonohashi Ron no Kindan Suiri.",
-  "popularity": 4581,
-  "num_list_users": 24372,
+  "popularity": 4546,
+  "num_list_users": 24858,
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2023-12-25T14:05:30+00:00",
@@ -50,7 +50,8 @@
     "season": "fall"
   },
   "broadcast": {
-    "day_of_the_week": "monday"
+    "day_of_the_week": "monday",
+    "start_time": "22:30"
   },
   "source": "manga",
   "average_episode_duration": 0,
