@@ -1,0 +1,45 @@
+{
+  "id": 59747,
+  "title": "Yuuyake Hoshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1505/145318.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1505/145318l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ゆうやけ星"
+  },
+  "start_date": "1987-10-02",
+  "end_date": "1987-10-02",
+  "synopsis": "Music video for the song Yuuyake Hoshi by Machiko Fukuda that was featured on NHK's Minna no Uta program.",
+  "popularity": 27168,
+  "num_list_users": 17,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2024-09-05T19:02:05+00:00",
+  "updated_at": "2024-09-05T19:02:05+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1987,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}
