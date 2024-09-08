@@ -2,8 +2,8 @@
   "id": 921,
   "title": "Nurse Witch Komugi-chan Magikarte Z",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/46145.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/13/46145l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/46145.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/46145l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2005-09-22",
   "synopsis": "Sequel to the first series.",
   "mean": 6.62,
-  "rank": 6136,
-  "popularity": 7548,
-  "num_list_users": 7054,
-  "num_scoring_users": 3064,
+  "rank": 6143,
+  "popularity": 7551,
+  "num_list_users": 7063,
+  "num_scoring_users": 3067,
   "nsfw": "white",
   "created_at": "2006-04-20T20:50:04+00:00",
-  "updated_at": "2021-12-11T10:29:46+00:00",
+  "updated_at": "2024-09-05T20:01:08+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -29,12 +29,20 @@
       "name": "Comedy"
     },
     {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
       "id": 57,
       "name": "Gag Humor"
     },
     {
       "id": 66,
       "name": "Mahou Shoujo"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
     },
     {
       "id": 20,

@@ -2,8 +2,8 @@
   "id": 28025,
   "title": "Tsukimonogatari",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/68259.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/6/68259l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/68259.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/68259l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2014-12-31",
   "synopsis": "Koyomi Araragi is studying hard in preparation for his college entrance exams when he begins to notice something very strange: his reflection no longer appears in a mirror, a characteristic of a true vampire. Worried about the state of his body, he enlists the help of the human-like doll Yotsugi Ononoki and her master Yozuru Kagenui, an immortal oddity specialist.\n\nQuickly realizing what is wrong with him, Kagenui gives Araragi two choices: either abstain from using the vampiric abilities he received from Shinobu Oshino, or lose his humanity forever.\n\n[Written by MAL Rewrite]",
   "mean": 8.09,
-  "rank": 510,
+  "rank": 509,
   "popularity": 558,
-  "num_list_users": 423958,
-  "num_scoring_users": 240685,
+  "num_list_users": 424275,
+  "num_scoring_users": 240862,
   "nsfw": "white",
   "created_at": "2014-10-20T07:14:05+00:00",
-  "updated_at": "2024-07-10T23:16:03+00:00",
+  "updated_at": "2024-09-05T01:03:24+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -42,6 +42,10 @@
     {
       "id": 37,
       "name": "Supernatural"
+    },
+    {
+      "id": 32,
+      "name": "Vampire"
     }
   ],
   "num_episodes": 4,

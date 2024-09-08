@@ -2,8 +2,8 @@
   "id": 8407,
   "title": "Sora no Otoshimono Forte",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/50309.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/11/50309l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/50309.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/50309l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -20,9 +20,9 @@
   "synopsis": "Sakurai Tomoki has settled into his life with the two angeloids, Ikaros and Nymph, and is enjoying himself immensely.  However, he keeps having weird dreams and asks all of his friends to help him investigate the cause.\n\nNymph conjures up a device that enables people, but not angeloids, to enter other people's dreams.  The device malfunctions at first but eventually they get to what was supposed to be Tomoki's dream but discover that something is very wrong with it.\n\nLater, a meteor comes crashing down from the skies at the site of the large cherry blossom tree where Tomoki first discovered Ikaros.  An extremely well endowed blonde angeloid with a huge sword emerges from the meteor and sets off in search of Tomoki!",
   "mean": 7.43,
   "rank": 2124,
-  "popularity": 860,
-  "num_list_users": 295145,
-  "num_scoring_users": 169839,
+  "popularity": 861,
+  "num_list_users": 295278,
+  "num_scoring_users": 169888,
   "nsfw": "gray",
   "created_at": "2010-03-16T10:34:37+00:00",
   "updated_at": "2023-05-13T09:15:04+00:00",
@@ -62,6 +62,10 @@
   "start_season": {
     "year": 2010,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:00"
   },
   "source": "manga",
   "average_episode_duration": 1419,

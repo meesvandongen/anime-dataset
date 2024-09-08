@@ -16,10 +16,10 @@
   "end_date": "2013-04-01",
   "synopsis": "One day as Kon Hokaze is playing an MMORPG, he receives a request from a female character in the game. He thinks that he has lucked out and found a girlfriend online, but suddenly he finds himself transported into the world of Mira where he accidentally saves a young princess by landing on her attacker with his swivel chair. With no idea how he got there nor how to get back to his own world, Kon tags along with the princess as part of her honor guard while a militant faction of the princess's own country seeks to capture her before she can complete her arranged marriage.\n\n(Source: Wikipedia)",
   "mean": 7.13,
-  "rank": 3649,
+  "rank": 3647,
   "popularity": 1933,
-  "num_list_users": 116358,
-  "num_scoring_users": 47674,
+  "num_list_users": 116438,
+  "num_scoring_users": 47696,
   "nsfw": "white",
   "created_at": "2012-07-07T15:34:42+00:00",
   "updated_at": "2022-04-17T20:45:33+00:00",
@@ -47,6 +47,10 @@
   "start_season": {
     "year": 2012,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:05"
   },
   "source": "game",
   "average_episode_duration": 1440,
