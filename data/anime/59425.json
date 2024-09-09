@@ -2,28 +2,38 @@
   "id": 59425,
   "title": "NegaPosi Angler",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1483/144541.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1483/144541l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1537/145325.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1537/145325l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "Negative Positive Angler",
     "ja": "ネガポジアングラー"
   },
-  "start_date": "2024-10",
+  "start_date": "2024-10-03",
   "synopsis": "The story follows Tsunehiro Sasaki, a depressed college student burdened with debt and being told that he only has two years left to live. After falling into the sea while on the run from debt collectors, Tsunehiro is rescued by friends Hana and Takaaki and soon becomes hooked on fishing himself.\n\n(Source: Crunchyroll)",
-  "popularity": 12201,
-  "num_list_users": 1625,
+  "popularity": 10302,
+  "num_list_users": 2963,
   "num_scoring_users": 1,
   "nsfw": "gray",
   "created_at": "2024-07-30T09:21:48+00:00",
-  "updated_at": "2024-08-01T03:34:55+00:00",
+  "updated_at": "2024-09-06T04:32:58+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    }
+  ],
   "num_episodes": 0,
   "start_season": {
     "year": 2024,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "22:30"
   },
   "source": "original",
   "average_episode_duration": 0,

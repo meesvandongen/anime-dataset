@@ -13,13 +13,13 @@
     "ja": "村井の恋"
   },
   "start_date": "2024-10-06",
-  "synopsis": "The story tells a romantic comedy between Tanaka, a high school teacher who loves otome games, and Murai, a high school boy who is in love with Tanaka. Tanaka, who has never been involved in a real-life romance, is confessed to by Murai but rejects his confession. On the next day, Murai transforms himself into the exact likeness of Tanaka's favorite character from her favorite otome game. \n\n(Source: Crunchyroll)",
-  "popularity": 8378,
-  "num_list_users": 5518,
-  "num_scoring_users": 1,
+  "synopsis": "Murai is a second-year student at Takebe Gakuen High School enrolled in the college preparatory course. His homeroom teacher, Tanaka, summons him to her office after he declares that his post-high school plans are to marry her. Tanaka rejects Murai, telling him that she would never be interested in a boy with long, black hair. Secretly an otaku, she has eyes only for Hitotose, a character from an otome video game. The next day, Murai appears before Tanaka a changed man. Having cut his hair short and dyed it blond, Murai looks exactly like her beloved Hitotose. Tanaka is unable to hide her shock at this sudden development and tries to distance herself from Murai, while Murai presses on in his attempts to romance his teacher.\n\n(Source: Disney+)",
+  "popularity": 7615,
+  "num_list_users": 6932,
+  "num_scoring_users": 164,
   "nsfw": "white",
   "created_at": "2022-06-15T07:59:24+00:00",
-  "updated_at": "2024-08-15T22:36:04+00:00",
+  "updated_at": "2024-09-07T19:15:57+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -34,6 +34,10 @@
     {
       "id": 22,
       "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 0,

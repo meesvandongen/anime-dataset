@@ -2,11 +2,13 @@
   "id": 55302,
   "title": "Tsuru ga Mau Yoru ni",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1034/135878.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1034/135878l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1034/135878.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1034/135878l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Gratitude of the Crane in Timeless"
+    ],
     "en": "",
     "ja": "鶴が舞う夜に"
   },
@@ -14,13 +16,13 @@
   "end_date": "2023-03-31",
   "synopsis": "",
   "mean": 6.14,
-  "rank": 8764,
-  "popularity": 17785,
-  "num_list_users": 386,
-  "num_scoring_users": 139,
+  "rank": 8770,
+  "popularity": 17776,
+  "num_list_users": 388,
+  "num_scoring_users": 140,
   "nsfw": "white",
   "created_at": "2023-05-15T16:51:56+00:00",
-  "updated_at": "2023-05-15T17:49:57+00:00",
+  "updated_at": "2024-09-03T12:45:42+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

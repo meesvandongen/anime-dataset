@@ -6,22 +6,21 @@
     "large": "https://cdn.myanimelist.net/images/anime/1375/121654l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [
-      "White Lightning"
-    ],
-    "en": "",
+    "synonyms": [],
+    "en": "White Lightning",
     "ja": "白色闪电"
   },
   "start_date": "2024-07-20",
   "end_date": "2024-08-17",
   "synopsis": "",
-  "rank": 16106,
-  "popularity": 13663,
-  "num_list_users": 1044,
-  "num_scoring_users": 107,
+  "mean": 7.32,
+  "rank": 2621,
+  "popularity": 13634,
+  "num_list_users": 1058,
+  "num_scoring_users": 111,
   "nsfw": "white",
   "created_at": "2022-03-20T02:35:29+00:00",
-  "updated_at": "2024-08-17T18:55:34+00:00",
+  "updated_at": "2024-09-05T19:08:30+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
