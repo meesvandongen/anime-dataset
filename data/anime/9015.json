@@ -16,8 +16,8 @@
   "end_date": "1993-04-12",
   "synopsis": "Holly the Ghost is about Holly (Chocola) who wants to be a \"holly ghost\". \"Holly ghost\" is a group of \"monsters\" who spread fear. Their leader is a witch called Majoline. Together with his 4 new friends (Candy, Toreppaa, etc) he learns to be a real \"holly ghost\".",
   "mean": 5.9,
-  "rank": 10009,
-  "popularity": 14180,
+  "rank": 10017,
+  "popularity": 14200,
   "num_list_users": 905,
   "num_scoring_users": 345,
   "nsfw": "white",
@@ -44,7 +44,16 @@
     "year": 1991,
     "season": "winter"
   },
+  "broadcast": {
+    "day_of_the_week": "other",
+    "start_time": "17:50"
+  },
   "average_episode_duration": 600,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 280,
+      "name": "Studio Junio"
+    }
+  ]
 }

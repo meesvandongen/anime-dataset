@@ -2,8 +2,8 @@
   "id": 24663,
   "title": "Dororonpa!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/63501.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/9/63501l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/63501.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/63501l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -15,18 +15,22 @@
   "synopsis": "Komachi is a little ghost who died during the Meiji Era and has hung around earth as a wandering spirit girl for over a hundred years. Komachi appears in the room of a young girl named Anko and the two get wrapped up in all sorts of adventures involving other ghosts and demons.\n\n(Source: TV Asahi)",
   "mean": 6.12,
   "rank": 8902,
-  "popularity": 14958,
-  "num_list_users": 716,
-  "num_scoring_users": 145,
+  "popularity": 14949,
+  "num_list_users": 721,
+  "num_scoring_users": 147,
   "nsfw": "white",
   "created_at": "2014-06-14T14:20:16+00:00",
-  "updated_at": "2024-08-03T07:18:36+00:00",
+  "updated_at": "2024-09-09T19:54:22+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
     },
     {
       "id": 37,
@@ -38,6 +42,7 @@
     "year": 1991,
     "season": "spring"
   },
+  "source": "manga",
   "average_episode_duration": 600,
   "rating": "pg",
   "studios": [

@@ -14,10 +14,10 @@
   "end_date": "1979-12-18",
   "synopsis": "Curtis Newton, aka Captain Future, is an orphan. His parents died in their artificial satellite while he was an infant. His father was a scientist, who has abandoned earth for the satellite to dedicate his life for science along with his aging friend the genius Dr Simon Wright. Wright senses his death, and decides to implant his brain in a mechanical container. They both manufactured a superior robot and an android. Captain future dedicated his life to fight evil along with his three men, the brain, android, and robot. \n\n(Source: ANN)",
   "mean": 7.11,
-  "rank": 3726,
-  "popularity": 8350,
-  "num_list_users": 5582,
-  "num_scoring_users": 2594,
+  "rank": 3728,
+  "popularity": 8352,
+  "num_list_users": 5589,
+  "num_scoring_users": 2597,
   "nsfw": "white",
   "created_at": "2007-05-30T13:53:42+00:00",
   "updated_at": "2023-06-04T18:23:06+00:00",
@@ -41,6 +41,10 @@
   "start_season": {
     "year": 1978,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "19:30"
   },
   "source": "novel",
   "average_episode_duration": 1380,
