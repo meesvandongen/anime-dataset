@@ -18,13 +18,13 @@
   "end_date": "2005-03-28",
   "synopsis": "During a monster attack on the city, which is something that happens quite often, Silk and her two friends try get close to the attacking monster for a better view. An unfortunate choice of location to watch from leads to UFO-man, the city's giant protector, to land on the girls crushing them to death. Feeling sorry, UFO-man blames their death on the monster and promises to bring Silk and her friends back to life by lending them his power but the catch is that they now have to become the city's protector as well.\n\n(Source: ANN)",
   "mean": 5.61,
-  "rank": 11289,
-  "popularity": 6519,
-  "num_list_users": 10165,
-  "num_scoring_users": 3893,
+  "rank": 11298,
+  "popularity": 6531,
+  "num_list_users": 10171,
+  "num_scoring_users": 3894,
   "nsfw": "white",
   "created_at": "2005-11-20T03:12:51+00:00",
-  "updated_at": "2022-02-26T18:47:21+00:00",
+  "updated_at": "2024-09-08T07:58:53+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 9,
       "name": "Ecchi"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
     },
     {
       "id": 24,

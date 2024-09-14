@@ -2,8 +2,8 @@
   "id": 437,
   "title": "Perfect Blue",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1254/134212.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -16,11 +16,11 @@
   "mean": 8.55,
   "rank": 115,
   "popularity": 284,
-  "num_list_users": 731872,
-  "num_scoring_users": 392461,
+  "num_list_users": 732860,
+  "num_scoring_users": 392983,
   "nsfw": "white",
   "created_at": "2005-12-26T07:26:57+00:00",
-  "updated_at": "2024-03-06T12:16:02+00:00",
+  "updated_at": "2024-09-09T19:53:18+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 5,
       "name": "Avant Garde"
+    },
+    {
+      "id": 46,
+      "name": "Award Winning"
     },
     {
       "id": 8,

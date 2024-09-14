@@ -14,23 +14,23 @@
   "end_date": "2015-03-31",
   "synopsis": "Picks up after the events of Transformers 2010. Ultra Magnus goes on a solo mission through various Decepticon strongholds to find out exactly what happened to Optimus.",
   "mean": 5.38,
-  "rank": 12023,
-  "popularity": 12936,
-  "num_list_users": 1288,
-  "num_scoring_users": 356,
+  "rank": 12032,
+  "popularity": 12918,
+  "num_list_users": 1299,
+  "num_scoring_users": 357,
   "nsfw": "white",
   "created_at": "2014-11-14T08:18:47+00:00",
-  "updated_at": "2022-03-09T14:09:53+00:00",
+  "updated_at": "2024-09-12T19:07:35+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 18,
-      "name": "Mecha"
+      "id": 1,
+      "name": "Action"
     },
     {
-      "id": 20,
-      "name": "Parody"
+      "id": 18,
+      "name": "Mecha"
     },
     {
       "id": 36,

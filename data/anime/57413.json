@@ -1,0 +1,38 @@
+{
+  "id": 57413,
+  "title": "Xfit x One Piece",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1234/145392.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1234/145392l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2016-02-21",
+  "end_date": "2016-06-20",
+  "synopsis": "Collaboration commercials between Xfit razors and One Piece to promote their specially branded packaging which included figurines of characters from the series.",
+  "popularity": 27094,
+  "num_list_users": 39,
+  "num_scoring_users": 18,
+  "nsfw": "gray",
+  "created_at": "2023-12-02T06:14:27+00:00",
+  "updated_at": "2024-09-10T18:22:39+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2016,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 30,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}
