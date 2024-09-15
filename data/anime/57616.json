@@ -2,8 +2,8 @@
   "id": 57616,
   "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1718/143481.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1718/143481l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1093/145470.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1093/145470l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
     "ja": "君のことが大大大大大好きな100人の彼女 2期"
   },
-  "start_date": "2025-01",
+  "start_date": "2025-01-12",
   "synopsis": "Second season of Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
-  "popularity": 3499,
-  "num_list_users": 42963,
-  "num_scoring_users": 1,
+  "popularity": 3485,
+  "num_list_users": 43342,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-12-23T23:02:22+00:00",
-  "updated_at": "2024-06-08T16:05:17+00:00",
+  "updated_at": "2024-09-14T10:01:22+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -52,6 +52,10 @@
   "start_season": {
     "year": 2025,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
   },
   "source": "manga",
   "average_episode_duration": 0,

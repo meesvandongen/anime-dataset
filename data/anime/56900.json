@@ -1,0 +1,43 @@
+{
+  "id": 56900,
+  "title": "Project Voltage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1081/139076.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1081/139076l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokemon feat. Hatsune Miku",
+      "Project VOLTAGE - Pokemon feat. Hatsune Miku",
+      "PokeMiku"
+    ],
+    "en": "",
+    "ja": "Project VOLTAGE"
+  },
+  "start_date": "2023-09-29",
+  "end_date": "2024-05-10",
+  "synopsis": "A music and art collaboration project between Pokemon and Hatsune Miku. The art part of the collaboration tasked six artists to answer a simple question: What if Hatsune Miku was a XX-type Pokemon Trainer?",
+  "popularity": 27111,
+  "num_list_users": 38,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2023-10-13T15:34:26+00:00",
+  "updated_at": "2024-09-09T22:00:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 14,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 184,
+  "rating": "g",
+  "studios": []
+}

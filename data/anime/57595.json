@@ -12,9 +12,9 @@
   },
   "start_date": "2023-12-21",
   "synopsis": "Animated commercials for Pokemon Sleep.",
-  "popularity": 19503,
-  "num_list_users": 273,
-  "num_scoring_users": 105,
+  "popularity": 19421,
+  "num_list_users": 278,
+  "num_scoring_users": 106,
   "nsfw": "white",
   "created_at": "2023-12-22T05:45:20+00:00",
   "updated_at": "2024-08-09T06:40:08+00:00",
@@ -42,6 +42,10 @@
     {
       "id": 235,
       "name": "Shirogumi"
+    },
+    {
+      "id": 1023,
+      "name": "Polygon Pictures"
     }
   ]
 }

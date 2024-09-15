@@ -1,0 +1,64 @@
+{
+  "id": 59770,
+  "title": "Nige Jouzu no Wakagimi: Makuai (1333-nen - 1334-nen) \"Rekishi\"",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1710/145356.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1710/145356l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nige Jouzu no Wakagimi Episode 9.5",
+      "Nige Jouzu no Wakagimi Recap",
+      "The Elusive Samurai Episode 9.5",
+      "The Elusive Samurai Recap",
+      "Nigewaka Recap"
+    ],
+    "en": "The Elusive Samurai: Interlude (1333-1334) \"History\"",
+    "ja": "逃げ上手の若君: 幕間（1333年-1334年）「歴史」"
+  },
+  "start_date": "2024-09-07",
+  "end_date": "2024-09-07",
+  "synopsis": "Recap of the first nine episodes of Nige Jouzu no Wakagimi.",
+  "mean": 6.12,
+  "rank": 8886,
+  "popularity": 16731,
+  "num_list_users": 474,
+  "num_scoring_users": 242,
+  "nsfw": "white",
+  "created_at": "2024-09-07T16:18:34+00:00",
+  "updated_at": "2024-09-09T12:18:20+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 1835,
+      "name": "CloverWorks"
+    }
+  ]
+}

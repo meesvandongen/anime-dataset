@@ -1,0 +1,52 @@
+{
+  "id": 59790,
+  "title": "Osomatsu-san Shinsaku Short Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1769/145400.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1769/145400l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "おそ松さん 新作ショートアニメ"
+  },
+  "start_date": "2024-09-11",
+  "synopsis": "",
+  "rank": 17694,
+  "popularity": 27214,
+  "num_list_users": 26,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2024-09-10T13:15:53+00:00",
+  "updated_at": "2024-09-13T21:56:01+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 84,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2951,
+      "name": "Pierrot Films"
+    }
+  ]
+}

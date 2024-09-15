@@ -18,13 +18,13 @@
   "end_date": "2017-06-27",
   "synopsis": "Upon the broadcast of Starmyu 2nd Season's final episode on Tuesday, it was announced that it will get a special episode airing on June 27. It will be airing a 27-minute duration of the musical parts. \n\n(Source: MAL News)",
   "mean": 6.68,
-  "rank": 5789,
-  "popularity": 10694,
+  "rank": 5790,
+  "popularity": 10705,
   "num_list_users": 2627,
-  "num_scoring_users": 472,
+  "num_scoring_users": 473,
   "nsfw": "white",
   "created_at": "2017-06-19T23:53:48+00:00",
-  "updated_at": "2024-04-16T09:47:45+00:00",
+  "updated_at": "2024-09-14T23:07:27+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 70,
       "name": "Performing Arts"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

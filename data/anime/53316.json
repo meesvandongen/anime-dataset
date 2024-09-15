@@ -13,10 +13,10 @@
   "start_date": "2022-08-24",
   "end_date": "2022-08-24",
   "synopsis": "Music video for the song Pocket no Naka by Quruli. It serves as the ending for Rilakkuma to Yuuenchi.",
-  "mean": 5.93,
-  "popularity": 20193,
-  "num_list_users": 236,
-  "num_scoring_users": 116,
+  "mean": 5.94,
+  "popularity": 20174,
+  "num_list_users": 238,
+  "num_scoring_users": 117,
   "nsfw": "white",
   "created_at": "2022-10-11T04:43:58+00:00",
   "updated_at": "2022-10-11T08:48:34+00:00",
@@ -36,5 +36,10 @@
   "source": "other",
   "average_episode_duration": 346,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1133,
+      "name": "dwarf"
+    }
+  ]
 }

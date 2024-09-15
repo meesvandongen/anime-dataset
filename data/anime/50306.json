@@ -10,14 +10,14 @@
     "en": "Seirei Gensouki: Spirit Chronicles Season 2",
     "ja": "精霊幻想記2"
   },
-  "start_date": "2024-10",
+  "start_date": "2024-10-08",
   "synopsis": "Second season of Seirei Gensouki.",
-  "popularity": 2114,
-  "num_list_users": 102201,
-  "num_scoring_users": 10,
+  "popularity": 2106,
+  "num_list_users": 103302,
+  "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": "2021-11-05T10:09:53+00:00",
-  "updated_at": "2024-08-01T10:16:27+00:00",
+  "updated_at": "2024-09-12T10:01:15+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -54,6 +54,10 @@
   "start_season": {
     "year": 2024,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "01:30"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

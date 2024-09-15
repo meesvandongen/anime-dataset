@@ -13,9 +13,9 @@
   "start_date": "2019-11-05",
   "end_date": "2020-07-28",
   "synopsis": "A collaboration between Momoume and the mail order shop Kaunet.",
-  "popularity": 27085,
-  "num_list_users": 37,
-  "num_scoring_users": 10,
+  "popularity": 27078,
+  "num_list_users": 42,
+  "num_scoring_users": 13,
   "nsfw": "white",
   "created_at": "2024-08-28T07:11:50+00:00",
   "updated_at": "2024-08-28T07:11:50+00:00",
@@ -39,5 +39,10 @@
   "source": "original",
   "average_episode_duration": 120,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3002,
+      "name": "CUEBiC Inc."
+    }
+  ]
 }
