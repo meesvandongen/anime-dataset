@@ -16,9 +16,9 @@
   "end_date": "1989-12-31",
   "synopsis": "Apulo (a cat-like space alien with the ability to lock a human's emotions) and Latell work for the Division of Space Piracy (or DSP for short). The two of them are extremely destructive in their solving of DSP cases. They are attempting to stop Youmei the space pirate from exploiting Computer Aided Thinking for his own nefarious plans.",
   "mean": 6.03,
-  "rank": 9407,
-  "popularity": 10849,
-  "num_list_users": 2506,
+  "rank": 9414,
+  "popularity": 10859,
+  "num_list_users": 2509,
   "num_scoring_users": 924,
   "nsfw": "white",
   "created_at": "2007-06-17T21:38:22+00:00",
@@ -51,6 +51,10 @@
     {
       "id": 11,
       "name": "Madhouse"
+    },
+    {
+      "id": 2573,
+      "name": "Watanabe Promotion"
     }
   ]
 }
