@@ -1,0 +1,51 @@
+{
+  "id": 56141,
+  "title": "Dragon Ball: Nihon Ijin Taishou - Saikyou no Ijin wa Dare?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1615/137462.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1615/137462l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Dragon Ball: Japan Hero Awards - Who is the Strongest Hero?"
+    ],
+    "en": "",
+    "ja": "日本偉人大賞 - 最強の偉人は誰？"
+  },
+  "start_date": "2007-04-07",
+  "end_date": "2007-04-07",
+  "synopsis": "A huge audience has gathered to witness \"The First Strongest Hero Fighting Tournament\". Miyake Masaharu is ready to begin the tournament once a special guest arrives. Miyake-san suddenly spots something off in the distance; Goku appears riding on the Flying Nimbus, he leaps off it and lands in the area. After showing off his martial arts, he's ready to take on all his strong opponents. \n\n(Source: Dragon Ball Wiki)",
+  "rank": 19784,
+  "popularity": 27229,
+  "num_list_users": 30,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2023-07-30T11:32:56+00:00",
+  "updated_at": "2024-09-17T07:26:36+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2007,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 620,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

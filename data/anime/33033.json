@@ -18,13 +18,13 @@
   "end_date": "2016-09-21",
   "synopsis": "After a successful Ayanagi Festival, Yuuta Hoshitani and the members of Team Ootori celebrate the beginning of a new year and their final semester as first years at Ayanagi Academy. However, with Itsuki Ootori expelled from the Kao Council, Team Ootori no longer qualifies as a Star Team. Stripped of their privileges, they also will not be allowed to participate in the upcoming graduation ceremony. Desperate to get their mentor back, Hoshitani and the others hatch a plan to convince the Kao Council to allow Ootori to reassume his former position.\n\n[Written by MAL Rewrite]",
   "mean": 7.11,
-  "rank": 3742,
-  "popularity": 7418,
-  "num_list_users": 7393,
+  "rank": 3745,
+  "popularity": 7428,
+  "num_list_users": 7397,
   "num_scoring_users": 2506,
   "nsfw": "white",
   "created_at": "2016-03-26T06:43:41+00:00",
-  "updated_at": "2023-07-31T04:52:07+00:00",
+  "updated_at": "2024-09-14T23:06:39+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 2,

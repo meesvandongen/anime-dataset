@@ -2,8 +2,8 @@
   "id": 29853,
   "title": "Girls & Panzer Heartful Tank Disc: Fushou Akiyama Yukari no Sensha Kouza",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/71676.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/11/71676l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/71676.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/11/71676l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,10 +18,10 @@
   "end_date": "2013-09-25",
   "synopsis": "Girls & Panzer specials with Yukari Akiyama included on the \"Heartful Tank Disc.\"",
   "mean": 6.83,
-  "rank": 5026,
-  "popularity": 8505,
-  "num_list_users": 5316,
-  "num_scoring_users": 1535,
+  "rank": 5025,
+  "popularity": 8517,
+  "num_list_users": 5320,
+  "num_scoring_users": 1536,
   "nsfw": "white",
   "created_at": "2015-02-02T06:47:23+00:00",
   "updated_at": "2024-06-22T23:26:57+00:00",
@@ -53,5 +53,10 @@
   "source": "original",
   "average_episode_duration": 815,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    }
+  ]
 }

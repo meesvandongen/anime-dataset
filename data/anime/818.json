@@ -16,16 +16,20 @@
   "end_date": "1997-10-22",
   "synopsis": "A Keio University (one of the top three colleges in Japan) exam candidate, Touma Inaba, is interupted when a cute young girl, Urara Kasuga, arrives at his hotel room door. She later turns out to be his cousin who he barely remembers from his childhood. Urara, who had felt something special for him (an other-than-cousinly-love), invites Touma to live with her since he has no place to stay other than the hotel room. Before taking the test, Touma meets Meiko Yotsuba, a beautiful, sophisticated woman also trying to get into Keio. Meiko gets into Keio but Touma does not, due to a cold Urara had given him shortly before. Although he did not make it, he pretends he does to earn the respect of Meiko. Touma is caught up in a love triangle with Urara and Meiko, while struggling to keep Meiko believing he's really a Keio student and still be there for Urara at the same time. \n\n(Source: ANN)",
   "mean": 6.13,
-  "rank": 8874,
-  "popularity": 5489,
-  "num_list_users": 15608,
-  "num_scoring_users": 5887,
+  "rank": 8876,
+  "popularity": 5492,
+  "num_list_users": 15641,
+  "num_scoring_users": 5898,
   "nsfw": "white",
   "created_at": "2006-03-14T19:26:36+00:00",
-  "updated_at": "2022-04-06T03:24:01+00:00",
+  "updated_at": "2024-09-14T03:17:41+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
     {
       "id": 4,
       "name": "Comedy"
@@ -33,6 +37,10 @@
     {
       "id": 8,
       "name": "Drama"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
     },
     {
       "id": 64,
@@ -43,8 +51,8 @@
       "name": "Romance"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 12,

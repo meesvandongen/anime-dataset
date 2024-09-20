@@ -2,8 +2,8 @@
   "id": 23365,
   "title": "By Your Side",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/60365.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/9/60365l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/60365.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/9/60365l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,8 +15,8 @@
   "start_date": "2014-03-11",
   "end_date": "2014-03-11",
   "synopsis": "In a quiet countryside, a little girl plays music for her friends, a little bear and a rabbit. An earthquake stops everything and when the bear and the rabbit looks up, the little girl is nowhere to be found. Still, the two friends try to rebuild their lives in the hope of seeing their friend once more.",
-  "mean": 5.98,
-  "popularity": 12421,
+  "mean": 5.97,
+  "popularity": 12441,
   "num_list_users": 1522,
   "num_scoring_users": 923,
   "nsfw": "white",
@@ -38,5 +38,10 @@
   "source": "original",
   "average_episode_duration": 346,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 1133,
+      "name": "dwarf"
+    }
+  ]
 }

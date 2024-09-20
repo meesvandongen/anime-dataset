@@ -14,10 +14,10 @@
   "end_date": "2014-06-21",
   "synopsis": "",
   "mean": 5.66,
-  "rank": 11079,
-  "popularity": 17634,
-  "num_list_users": 400,
-  "num_scoring_users": 162,
+  "rank": 11083,
+  "popularity": 17603,
+  "num_list_users": 404,
+  "num_scoring_users": 164,
   "nsfw": "white",
   "created_at": "2022-03-26T17:47:20+00:00",
   "updated_at": "2024-08-21T18:21:11+00:00",
@@ -38,6 +38,7 @@
     "year": 2014,
     "season": "spring"
   },
+  "source": "other",
   "average_episode_duration": 238,
   "rating": "g",
   "studios": []
