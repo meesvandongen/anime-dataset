@@ -1,0 +1,61 @@
+{
+  "id": 59891,
+  "title": "Yao Shen Ji 6th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1631/145609.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1631/145609l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tales of Demons and Gods Season 6"
+    ],
+    "en": "",
+    "ja": "妖神记 第6季"
+  },
+  "start_date": "2022-04-23",
+  "synopsis": "Sixth season of Yao Shen Ji.",
+  "rank": 15367,
+  "popularity": 27268,
+  "num_list_users": 15,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2024-09-20T08:24:31+00:00",
+  "updated_at": "2024-09-20T08:25:01+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2022,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 480,
+  "rating": "pg_13",
+  "studios": []
+}

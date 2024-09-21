@@ -14,10 +14,10 @@
   "end_date": "2019-10-31",
   "synopsis": "Faced with a threat to the survival of her family restaurant, as well as a rival for Garu's heart, Pucca fights for all that she loves.",
   "mean": 6.58,
-  "rank": 6380,
-  "popularity": 12974,
-  "num_list_users": 1280,
-  "num_scoring_users": 440,
+  "rank": 6356,
+  "popularity": 12989,
+  "num_list_users": 1281,
+  "num_scoring_users": 442,
   "nsfw": "white",
   "created_at": "2021-02-22T04:57:56+00:00",
   "updated_at": "2022-03-26T14:41:40+00:00",
@@ -49,5 +49,10 @@
   "source": "other",
   "average_episode_duration": 1460,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2667,
+      "name": "Keyring"
+    }
+  ]
 }

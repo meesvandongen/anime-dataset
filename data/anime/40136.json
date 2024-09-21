@@ -16,13 +16,13 @@
   "end_date": "2020-03-28",
   "synopsis": "In the \"one-of-a-kind samurai-general-reincarnated-as-a-canine comedy,\" Nobunaga perishes at Honnouji as in history, and reincarnates in modern-day Japan as a dog named Shinamon. Other Warring States era warlords such as Takeda Shingen eventually join him, also as dogs.\n\n(Source: ANN)",
   "mean": 6.58,
-  "rank": 6377,
-  "popularity": 4813,
-  "num_list_users": 21724,
-  "num_scoring_users": 7981,
+  "rank": 6353,
+  "popularity": 4818,
+  "num_list_users": 21741,
+  "num_scoring_users": 7987,
   "nsfw": "white",
   "created_at": "2019-07-20T01:23:17+00:00",
-  "updated_at": "2022-03-16T10:10:31+00:00",
+  "updated_at": "2024-09-19T07:34:05+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -35,10 +35,6 @@
       "name": "Comedy"
     },
     {
-      "id": 13,
-      "name": "Historical"
-    },
-    {
       "id": 71,
       "name": "Pets"
     },
@@ -49,10 +45,6 @@
     {
       "id": 42,
       "name": "Seinen"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 12,

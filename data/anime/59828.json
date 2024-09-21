@@ -1,0 +1,42 @@
+{
+  "id": 59828,
+  "title": "Shoushimin Series 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1333/145473.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1333/145473l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Shoshimin: How to Become Ordinary Season 2",
+    "ja": "小市民シリーズ 第2期"
+  },
+  "start_date": "2025-04",
+  "synopsis": "Second season of Shoushimin Series.",
+  "popularity": 7040,
+  "num_list_users": 8528,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-09-14T17:00:14+00:00",
+  "updated_at": "2024-09-14T19:47:06+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

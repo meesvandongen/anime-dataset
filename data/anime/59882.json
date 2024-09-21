@@ -1,0 +1,52 @@
+{
+  "id": 59882,
+  "title": "Geugjangpan Beuledeu Movie: Ppangseutaui Tansaeng",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1674/145584.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1674/145584l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Bread Barbershop: The Birth Of The Bread Star",
+    "ja": "극장판 브레드 이발소: 빵스타의 탄생"
+  },
+  "start_date": "2024-09-12",
+  "end_date": "2024-09-12",
+  "synopsis": "",
+  "rank": 20175,
+  "popularity": 27254,
+  "num_list_users": 20,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2024-09-18T18:12:02+00:00",
+  "updated_at": "2024-09-20T12:09:54+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 4620,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 59888,
+  "title": "On-chan no Kyou wa Donna Kanji?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1505/145592.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1505/145592l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "How is On-chan Today?"
+    ],
+    "en": "",
+    "ja": "onちゃんのきょうはどんなかんじ？"
+  },
+  "start_date": "2021-05-08",
+  "end_date": "2021-07-24",
+  "synopsis": "On-chan no Kyou wa Donna Kanji? selects kanji related to Hokkaido that are compulsory for elementary school students in the lower grades, and aims to help with local education. On-chan, a popular mascot character of Hokkaido Television Broadcasting (HTB) that is loved by all generations, takes a single kanji character as a theme and freely imagines its meaning and shape, and performs a cute dance according to the stroke order.\n\n(Source: Taiyo Kikaku, translated)",
+  "rank": 17640,
+  "popularity": 27270,
+  "num_list_users": 14,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2024-09-19T19:00:10+00:00",
+  "updated_at": "2024-09-19T19:00:10+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 12,
+  "start_season": {
+    "year": 2021,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday"
+  },
+  "source": "original",
+  "average_episode_duration": 76,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2178,
+      "name": "Tecarat"
+    }
+  ]
+}

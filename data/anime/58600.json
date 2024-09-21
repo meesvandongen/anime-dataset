@@ -1,0 +1,48 @@
+{
+  "id": 58600,
+  "title": "Ameku Takao no Suiri Karte",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1970/145508.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1970/145508l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ameku Takao's Detective Karte"
+    ],
+    "en": "Ameku M.D.: Doctor Detective",
+    "ja": "天久鷹央の推理カルテ"
+  },
+  "start_date": "2025-01",
+  "synopsis": "In Tenikai General Hospital's general diagnostic department, patients who are deemed ''difficult to treat'' by other doctors are collected here. Furthermore, there are \"murders\" and \"mysteries\" of unknown causes that even the police can't handle. Genius doctor Takao Ameku reveals the shocking truth hidden behind these mysterious \"disease.\"\n\n(Source: Official Site, translated)",
+  "popularity": 9766,
+  "num_list_users": 3541,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-04-03T11:47:13+00:00",
+  "updated_at": "2024-09-16T06:11:49+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 67,
+      "name": "Medical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 439,
+      "name": "Project No.9"
+    }
+  ]
+}

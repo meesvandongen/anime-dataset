@@ -14,8 +14,8 @@
   "end_date": "2021-03-18",
   "synopsis": "A music video for the song Palette by Tokoyami Towa.",
   "mean": 6.75,
-  "popularity": 14417,
-  "num_list_users": 855,
+  "popularity": 14425,
+  "num_list_users": 858,
   "num_scoring_users": 482,
   "nsfw": "white",
   "created_at": "2022-04-01T19:28:37+00:00",
@@ -33,7 +33,7 @@
     "year": 2021,
     "season": "winter"
   },
-  "source": "other",
+  "source": "original",
   "average_episode_duration": 221,
   "rating": "g",
   "studios": []

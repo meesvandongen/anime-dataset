@@ -13,9 +13,10 @@
   "start_date": "2024-09-14",
   "end_date": "2024-09-14",
   "synopsis": "Music video for the song Undead by YOASOBI.\n\nThe song was used as the ending theme of the anime Monogatari Series: Off & Monster Season.",
-  "popularity": 26498,
-  "num_list_users": 64,
-  "num_scoring_users": 36,
+  "mean": 6.83,
+  "popularity": 19838,
+  "num_list_users": 258,
+  "num_scoring_users": 143,
   "nsfw": "white",
   "created_at": "2024-09-14T14:19:13+00:00",
   "updated_at": "2024-09-14T16:32:22+00:00",
@@ -32,8 +33,13 @@
     "year": 2024,
     "season": "summer"
   },
-  "source": "original",
+  "source": "light_novel",
   "average_episode_duration": 186,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
 }
