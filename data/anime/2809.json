@@ -17,9 +17,9 @@
   "end_date": "1978-03-25",
   "synopsis": "When a little girl who loves music sneaks aboard a balloon, she soon finds herself far from home. She meets other children who also love music and agree to help her find her way back home.\n\n(Source: AniDB)",
   "mean": 6.21,
-  "rank": 8439,
-  "popularity": 14928,
-  "num_list_users": 732,
+  "rank": 8427,
+  "popularity": 14941,
+  "num_list_users": 734,
   "num_scoring_users": 207,
   "nsfw": "white",
   "created_at": "2007-07-18T04:01:19+00:00",
@@ -44,6 +44,10 @@
   "start_season": {
     "year": 1977,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:00"
   },
   "source": "original",
   "average_episode_duration": 1500,

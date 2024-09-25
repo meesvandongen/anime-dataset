@@ -14,9 +14,9 @@
   "end_date": "1991-11-08",
   "synopsis": "The intelligent Antoinette, known to her friends as Tony, moves to Paris where she takes a job as a reporter for the newspaper \"\"La Voix de Paris.\" Together with the photographer Alain and the artist Bricolage she solves unsolved crimes and often crosses the path of the crook Madame Lapin. ",
   "mean": 6.48,
-  "rank": 6928,
-  "popularity": 12858,
-  "num_list_users": 1327,
+  "rank": 6946,
+  "popularity": 12870,
+  "num_list_users": 1330,
   "num_scoring_users": 270,
   "nsfw": "white",
   "created_at": "2009-06-24T19:59:52+00:00",
@@ -37,6 +37,9 @@
   "start_season": {
     "year": 1991,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
   },
   "source": "original",
   "average_episode_duration": 1320,
