@@ -2,8 +2,8 @@
   "id": 7088,
   "title": "Ichiban Ushiro no Daimaou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/75554.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/11/75554l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/75554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/75554l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2010-06-19",
   "synopsis": "Dreaming of changing the world for good, Akuto Sai transfers to Constant Magic Academy where he befriends a virtuous ninja clan member, Junko Hattori. On the way to the academy, they vow to make the world a better place together; however, the situation suddenly takes a turn for the worse upon his arrival—it is prophesied that he will become the Demon King!\n\nAs word of his destiny spreads, the school begins to fear him, and Junko's trust in him falters. While Akuto is determined to not let his predicted future control his fate, it seems as though everything he says and does only serve to reinforce the fact that he is destined to be the Demon King. Moreover, he is surrounded by a harem of beautiful girls who each have their own plans for him, ranging from bringing him to justice to simply showering him with love. With his newly awakened powers, Akuto must cope with his constantly growing list of misfortunes and fight to prove that his fate is not set in stone.\n\n[Written by MAL Rewrite]",
   "mean": 6.71,
-  "rank": 5658,
+  "rank": 5645,
   "popularity": 425,
-  "num_list_users": 538756,
-  "num_scoring_users": 306797,
+  "num_list_users": 539068,
+  "num_scoring_users": 306938,
   "nsfw": "white",
   "created_at": "2009-08-27T14:41:36+00:00",
-  "updated_at": "2022-04-17T21:30:05+00:00",
+  "updated_at": "2024-09-24T01:09:12+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -45,6 +45,10 @@
     {
       "id": 35,
       "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     },
     {
       "id": 23,

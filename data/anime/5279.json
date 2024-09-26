@@ -17,13 +17,13 @@
   "end_date": "2009-03-25",
   "synopsis": "\"Kusano's first errand\" - A ten minute OVA that came along with the 6th vol. limited edition of Sekirei. Kusano finally tires of nobody admitting her as Sahashi's potential wife, so she insists on joining Musubi and Tsukiumi on their shopping race to show her abilities. An iffy day ensues.",
   "mean": 7.03,
-  "rank": 4119,
-  "popularity": 2968,
-  "num_list_users": 58213,
-  "num_scoring_users": 31241,
+  "rank": 4100,
+  "popularity": 2971,
+  "num_list_users": 58251,
+  "num_scoring_users": 31251,
   "nsfw": "white",
   "created_at": "2008-09-18T04:27:43+00:00",
-  "updated_at": "2022-12-24T02:16:32+00:00",
+  "updated_at": "2024-09-24T01:12:48+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -34,6 +34,10 @@
     {
       "id": 35,
       "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     },
     {
       "id": 42,

@@ -14,10 +14,10 @@
   "end_date": "2014-10-10",
   "synopsis": "The place is Kyoto, Japan.\nThe bride has a mishap just before the wedding ceremony.\nHer father and mother get into a panic, her younger sister runs around, and her pet just sits still.\nThis is a story of a family.\n\n(Source: Official Youtube channel)",
   "mean": 5.61,
-  "rank": 11291,
-  "popularity": 16583,
-  "num_list_users": 491,
-  "num_scoring_users": 238,
+  "rank": 11297,
+  "popularity": 16604,
+  "num_list_users": 492,
+  "num_scoring_users": 239,
   "nsfw": "white",
   "created_at": "2016-07-02T05:31:09+00:00",
   "updated_at": "2016-08-16T02:17:46+00:00",
@@ -37,5 +37,10 @@
   "source": "original",
   "average_episode_duration": 222,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1522,
+      "name": "Echoes"
+    }
+  ]
 }
