@@ -13,8 +13,8 @@
   "start_date": "2021-06-02",
   "end_date": "2021-06-02",
   "synopsis": "Promotional video for the Naver Webtoon manhwa Return of the Blossoming Blade.",
-  "mean": 5.78,
-  "popularity": 17277,
+  "mean": 5.79,
+  "popularity": 17294,
   "num_list_users": 429,
   "num_scoring_users": 176,
   "nsfw": "white",
@@ -49,7 +49,7 @@
     "year": 2021,
     "season": "spring"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 81,
   "rating": "r",
   "studios": []

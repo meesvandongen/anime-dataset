@@ -14,9 +14,9 @@
   "end_date": "2021-03-29",
   "synopsis": "Promotional video for the Naver Webtoon manhwa Your Letter.",
   "mean": 5.87,
-  "popularity": 19419,
-  "num_list_users": 280,
-  "num_scoring_users": 123,
+  "popularity": 19377,
+  "num_list_users": 284,
+  "num_scoring_users": 125,
   "nsfw": "white",
   "created_at": "2022-08-23T10:03:51+00:00",
   "updated_at": "2023-12-26T21:05:47+00:00",
@@ -45,7 +45,7 @@
     "year": 2021,
     "season": "winter"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 50,
   "rating": "pg_13",
   "studios": []

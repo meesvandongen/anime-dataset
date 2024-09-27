@@ -13,11 +13,12 @@
     "ja": "妖神记 第6季"
   },
   "start_date": "2022-04-23",
+  "end_date": "2022-10-15",
   "synopsis": "Sixth season of Yao Shen Ji.",
-  "rank": 15367,
-  "popularity": 27268,
-  "num_list_users": 15,
-  "num_scoring_users": 5,
+  "rank": 15387,
+  "popularity": 27189,
+  "num_list_users": 37,
+  "num_scoring_users": 11,
   "nsfw": "white",
   "created_at": "2024-09-20T08:24:31+00:00",
   "updated_at": "2024-09-20T08:25:01+00:00",
@@ -57,5 +58,10 @@
   "source": "novel",
   "average_episode_duration": 480,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2042,
+      "name": "Ruo Hong Culture"
+    }
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "id": 59934,
+  "title": "FNS 27-Jikan TV: Nihon no Rekishi Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1976/145726.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1976/145726l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "FNS27時間テレビ にほんのれきし アニメ"
+  },
+  "start_date": "2017-09-09",
+  "end_date": "2017-09-10",
+  "synopsis": "Special animated corners part of FNS 27-Jikan TV: Nihon no Rekishi that aired on Fuji TV. The corners feature characters from Chibi Maruko-chan, Dragon Ball Super, Kochira Katsushikaku Kameari Kouenmae Hashutsujo, and One Piece as they explore the history of Japan's from the Paleolithic to Heisei period.",
+  "rank": 17370,
+  "popularity": 27291,
+  "num_list_users": 21,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-09-24T06:51:21+00:00",
+  "updated_at": "2024-09-24T06:51:21+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2017,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1560,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

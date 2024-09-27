@@ -14,7 +14,7 @@
   "end_date": "2022-08-27",
   "synopsis": "Promotional video for the Naver Webtoon manhwa Eating Life.",
   "mean": 5.66,
-  "popularity": 18850,
+  "popularity": 18875,
   "num_list_users": 314,
   "num_scoring_users": 147,
   "nsfw": "white",
@@ -37,7 +37,7 @@
     "year": 2022,
     "season": "summer"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 83,
   "rating": "g",
   "studios": []

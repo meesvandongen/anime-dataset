@@ -1,0 +1,61 @@
+{
+  "id": 56701,
+  "title": "Watashi no Shiawase na Kekkon 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1563/145703.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1563/145703l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "My Blissful Marriage"
+    ],
+    "en": "My Happy Marriage Season 2",
+    "ja": "わたしの幸せな結婚"
+  },
+  "start_date": "2025-01",
+  "synopsis": "The second season of Watashi no Shiawase na Kekkon.",
+  "popularity": 3502,
+  "num_list_users": 43162,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2023-09-20T15:09:17+00:00",
+  "updated_at": "2024-09-23T01:07:41+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

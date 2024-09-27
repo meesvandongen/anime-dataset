@@ -13,9 +13,9 @@
   "start_date": "2021-10-26",
   "end_date": "2021-10-26",
   "synopsis": "Promotional video for the Naver Webtoon manhwa Lovers of the Red Sky.",
-  "popularity": 20022,
-  "num_list_users": 248,
-  "num_scoring_users": 106,
+  "popularity": 20009,
+  "num_list_users": 250,
+  "num_scoring_users": 107,
   "nsfw": "white",
   "created_at": "2022-08-23T10:32:53+00:00",
   "updated_at": "2023-12-26T21:07:03+00:00",
@@ -36,7 +36,7 @@
     "year": 2021,
     "season": "fall"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 81,
   "rating": "pg_13",
   "studios": []

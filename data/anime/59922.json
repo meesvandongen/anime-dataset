@@ -1,0 +1,51 @@
+{
+  "id": 59922,
+  "title": "Armageddon (Flava D Remix)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1763/145705.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1763/145705l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Armageddon (Flava D Remix)"
+  },
+  "start_date": "2024-09-20",
+  "end_date": "2024-09-20",
+  "synopsis": "Music video for the Flava D remix of aespa's Armageddon.",
+  "popularity": 27190,
+  "num_list_users": 37,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2024-09-23T02:25:35+00:00",
+  "updated_at": "2024-09-24T11:00:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 250,
+  "rating": "pg_13",
+  "studios": []
+}
