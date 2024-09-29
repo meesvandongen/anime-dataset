@@ -1,0 +1,46 @@
+{
+  "id": 59930,
+  "title": "Kaguya-hime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1881/145720.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1881/145720l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Princess Kaguya"
+    ],
+    "en": "",
+    "ja": "かぐや姫"
+  },
+  "start_date": "1942-02-24",
+  "end_date": "1942-02-24",
+  "synopsis": "A silhouette animation version of Princess Kaguya, also known as The Tale of the Bamboo Cutter, a 10th century folk tale.",
+  "rank": 18551,
+  "popularity": 27301,
+  "num_list_users": 26,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-09-23T21:15:46+00:00",
+  "updated_at": "2024-09-24T07:47:24+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1942,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 1560,
+  "rating": "g",
+  "studios": []
+}
