@@ -15,10 +15,10 @@
   "start_date": "2002-04-26",
   "end_date": "2002-04-26",
   "synopsis": "A 2000 film originally banned in South Korea, the first animation to have been denied a rating. Released later in 2003 in Japan with the title Seoul Bijin Kisha: Aiyoku Insider, completely dubbed.\n\n(Source: AniDB)",
-  "mean": 5.71,
-  "popularity": 14743,
-  "num_list_users": 786,
-  "num_scoring_users": 122,
+  "mean": 5.69,
+  "popularity": 14755,
+  "num_list_users": 787,
+  "num_scoring_users": 124,
   "nsfw": "gray",
   "created_at": "2010-08-05T19:49:50+00:00",
   "updated_at": "2017-07-03T17:51:27+00:00",
@@ -35,7 +35,7 @@
     "year": 2002,
     "season": "spring"
   },
-  "average_episode_duration": 5100,
-  "rating": "rx",
+  "average_episode_duration": 5072,
+  "rating": "r+",
   "studios": []
 }

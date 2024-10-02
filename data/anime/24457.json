@@ -18,9 +18,9 @@
   "start_date": "2014-10-29",
   "end_date": "2015-06-26",
   "synopsis": "What do Ryouma Echizen and the Seishun Academy Boys' Tennis Team get up to when they are off the court? They are pranking each other with a creepy kokeshi doll in the locker room and incorrectly dressing up for Halloween, just to name a few. With cameos from rival school players to add to the hilarity, Houkago no Oujisama explores life outside of the sport that makes these characters tick.\n\n[Written by MAL Rewrite]",
-  "mean": 6.86,
-  "rank": 4885,
-  "popularity": 10089,
+  "mean": 6.88,
+  "rank": 4814,
+  "popularity": 10106,
   "num_list_users": 3195,
   "num_scoring_users": 858,
   "nsfw": "white",
@@ -50,5 +50,10 @@
   "source": "manga",
   "average_episode_duration": 464,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 463,
+      "name": "M.S.C"
+    }
+  ]
 }

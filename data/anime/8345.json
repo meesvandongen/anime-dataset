@@ -19,23 +19,27 @@
   "start_date": "2006-11-20",
   "end_date": "2006-12-25",
   "synopsis": "Meet Penelope, the absent-minded young koala. Rarely seen without Deudeu – her favourite stuffed rabbit – Penelope likes nothing more than finding another adventure in the most unlikely of places. A simple gust of wind blowing her hat away can lead to Penelope running her own stall atop a tree stump where she trades flowers for apples, and paper planes for acorns. From games of hide and seek with her friends, to playing with the bubbles in the bath or counting sheep during nap time, Penelope’s life is never dull – even if she does wear odd socks when she gets herself dressed in the morning.\n\n(Source: Anime-Planet)",
-  "rank": 14554,
-  "popularity": 16419,
-  "num_list_users": 514,
+  "rank": 14628,
+  "popularity": 16434,
+  "num_list_users": 515,
   "num_scoring_users": 104,
   "nsfw": "white",
   "created_at": "2010-03-09T12:31:26+00:00",
-  "updated_at": "2022-10-12T09:03:48+00:00",
+  "updated_at": "2024-09-29T06:38:35+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
     {
       "id": 46,
       "name": "Award Winning"
     },
     {
-      "id": 4,
-      "name": "Comedy"
+      "id": 15,
+      "name": "Kids"
     },
     {
       "id": 36,

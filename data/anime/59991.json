@@ -1,0 +1,53 @@
+{
+  "id": 59991,
+  "title": "High Score Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1774/145821.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1774/145821l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "HIGH SCORE"
+  },
+  "start_date": "2012-03-15",
+  "end_date": "2012-03-15",
+  "synopsis": "Special episodes of High Score that were included with the DVD release of the series.",
+  "rank": 20624,
+  "popularity": 27323,
+  "num_list_users": 28,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2024-09-29T19:10:26+00:00",
+  "updated_at": "2024-09-29T19:16:40+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 180,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}
