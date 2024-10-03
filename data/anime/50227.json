@@ -2,8 +2,8 @@
   "id": 50227,
   "title": "Love (2020)",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1934/119002.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1934/119002l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1934/119002.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1934/119002l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,8 @@
   "start_date": "2020-07-09",
   "end_date": "2020-07-09",
   "synopsis": "",
-  "popularity": 20703,
+  "mean": 6.07,
+  "popularity": 20738,
   "num_list_users": 210,
   "num_scoring_users": 106,
   "nsfw": "white",

@@ -13,13 +13,13 @@
   "start_date": "2019-12-31",
   "end_date": "2019-12-31",
   "synopsis": "The Dengeki Bunko light novel label commemorated Fate/strange Fake sixth light novel volume's release for January 10, 2020 by releasing a full commercial on their official YouTube channel an hour before the new year.",
-  "mean": 6.68,
-  "popularity": 6381,
-  "num_list_users": 10808,
-  "num_scoring_users": 4169,
+  "mean": 6.69,
+  "popularity": 6391,
+  "num_list_users": 10818,
+  "num_scoring_users": 4177,
   "nsfw": "white",
   "created_at": "2020-01-01T06:29:42+00:00",
-  "updated_at": "2024-09-11T21:09:47+00:00",
+  "updated_at": "2024-10-02T16:48:43+00:00",
   "media_type": "pv",
   "status": "finished_airing",
   "genres": [
@@ -36,8 +36,8 @@
       "name": "Music"
     },
     {
-      "id": 37,
-      "name": "Supernatural"
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

@@ -17,14 +17,14 @@
   "start_date": "2023-12-08",
   "end_date": "2023-12-08",
   "synopsis": "After Catarina avoids her own death flag, she and her friends run into a mysterious young man traveling with a caravan. Who is this young man and what does he want?",
-  "mean": 6.84,
-  "rank": 4979,
-  "popularity": 3643,
-  "num_list_users": 40083,
-  "num_scoring_users": 915,
+  "mean": 6.88,
+  "rank": 4816,
+  "popularity": 3650,
+  "num_list_users": 40132,
+  "num_scoring_users": 941,
   "nsfw": "white",
   "created_at": "2021-09-17T17:30:48+00:00",
-  "updated_at": "2023-10-27T03:29:18+00:00",
+  "updated_at": "2024-10-02T15:48:54+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -41,10 +41,6 @@
       "name": "Isekai"
     },
     {
-      "id": 72,
-      "name": "Reincarnation"
-    },
-    {
       "id": 73,
       "name": "Reverse Harem"
     },
@@ -59,6 +55,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 83,
+      "name": "Villainess"
     }
   ],
   "num_episodes": 1,

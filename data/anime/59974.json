@@ -1,0 +1,39 @@
+{
+  "id": 59974,
+  "title": "Kitto Zutto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1759/145795.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1759/145795l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "きっとずっと"
+  },
+  "start_date": "2024-09-03",
+  "end_date": "2024-09-03",
+  "synopsis": "Music video for the song Kitto Zutto by TOMORROW X TOGETHER.",
+  "popularity": 27157,
+  "num_list_users": 46,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2024-09-28T00:08:25+00:00",
+  "updated_at": "2024-09-28T00:08:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 176,
+  "rating": "g",
+  "studios": []
+}

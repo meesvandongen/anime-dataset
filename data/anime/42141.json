@@ -11,24 +11,23 @@
     "ja": "彼女がヤツに抱かれたヒ"
   },
   "start_date": "2020-08-28",
-  "end_date": "2020-12-25",
   "synopsis": "",
-  "mean": 6.06,
-  "popularity": 8824,
-  "num_list_users": 4850,
-  "num_scoring_users": 1805,
+  "mean": 6.08,
+  "popularity": 8838,
+  "num_list_users": 4856,
+  "num_scoring_users": 1809,
   "nsfw": "gray",
   "created_at": "2020-06-03T04:00:41+00:00",
-  "updated_at": "2022-04-16T09:05:02+00:00",
+  "updated_at": "2024-09-30T15:33:54+00:00",
   "media_type": "ova",
-  "status": "finished_airing",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 2,
+  "num_episodes": 0,
   "start_season": {
     "year": 2020,
     "season": "summer"

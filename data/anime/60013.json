@@ -1,0 +1,41 @@
+{
+  "id": 60013,
+  "title": "Onna Gakusei Nisshi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1836/145870.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1836/145870l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Female Student's Diary"
+    ],
+    "en": "",
+    "ja": "女學生日誌"
+  },
+  "start_date": "2024-09-25",
+  "end_date": "2024-09-25",
+  "synopsis": "Music video for the song Onna Gakusei Nisshi by Makabe Jakushitsu.",
+  "popularity": 27342,
+  "num_list_users": 25,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2024-10-02T09:21:24+00:00",
+  "updated_at": "2024-10-02T14:24:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 237,
+  "rating": "pg_13",
+  "studios": []
+}

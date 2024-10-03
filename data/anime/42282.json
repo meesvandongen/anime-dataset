@@ -18,13 +18,13 @@
   "end_date": "2021-09-18",
   "synopsis": "With no more death flags in sight, personable but dense Catarina Claes is finally able to lead a peaceful life surrounded by all of her friends and family. For that reason, she is determined to enjoy the school festival to the fullest without any concern on her mind.\n\nUnbeknownst to her, however, the story of Fortune Lover—the game she used to play—has yet to end. Even more characters make an appearance, each with their own agenda to fulfill, and new mysteries await Katarina and those she loves. Will there be any way to avoid a bad ending when Catarina cannot remember what happens next?\n\n[Written by MAL Rewrite]",
   "mean": 7.26,
-  "rank": 2965,
+  "rank": 2987,
   "popularity": 1014,
-  "num_list_users": 247843,
-  "num_scoring_users": 107056,
+  "num_list_users": 248184,
+  "num_scoring_users": 107239,
   "nsfw": "white",
   "created_at": "2020-06-20T17:42:40+00:00",
-  "updated_at": "2023-10-26T23:29:18+00:00",
+  "updated_at": "2024-10-02T15:46:12+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -41,10 +41,6 @@
       "name": "Isekai"
     },
     {
-      "id": 72,
-      "name": "Reincarnation"
-    },
-    {
       "id": 73,
       "name": "Reverse Harem"
     },
@@ -59,6 +55,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 83,
+      "name": "Villainess"
     }
   ],
   "num_episodes": 12,

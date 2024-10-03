@@ -1,0 +1,51 @@
+{
+  "id": 59977,
+  "title": "Hu He Yao Shi Lu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1717/145797.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1717/145797l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "虎鹤妖师录"
+  },
+  "start_date": "2024-10-05",
+  "synopsis": "In a world where humans and demons coexist and compete, people who practice magic and kill demons as their own mission are called demon masters. Qi Xiaoxuan, the captain of the national demon master, met the prodigal Huzi by accident, and the two embarked on a journey to slay demons and protect the Tao together. Now, the world has experienced five hundred years of peace, and the demons are already ready to move, casting a haze on their future...\n\n(Source: Bilibili, Google translated)",
+  "popularity": 27162,
+  "num_list_users": 45,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-09-28T03:27:09+00:00",
+  "updated_at": "2024-10-01T07:57:27+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 900,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1827,
+      "name": "Motion Magic"
+    }
+  ]
+}

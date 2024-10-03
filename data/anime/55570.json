@@ -12,14 +12,15 @@
   },
   "start_date": "2024-10-03",
   "synopsis": "",
-  "popularity": 9450,
-  "num_list_users": 3926,
-  "num_scoring_users": 1,
+  "rank": 13797,
+  "popularity": 9215,
+  "num_list_users": 4277,
+  "num_scoring_users": 63,
   "nsfw": "white",
   "created_at": "2023-06-04T17:42:28+00:00",
-  "updated_at": "2024-09-21T06:59:41+00:00",
+  "updated_at": "2024-10-02T18:35:03+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 23,
@@ -44,7 +45,7 @@
     "start_time": "00:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1419,
   "rating": "pg_13",
   "studios": [
     {

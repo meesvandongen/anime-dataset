@@ -18,13 +18,13 @@
   "end_date": "2021-09-30",
   "synopsis": "Before they met Catarina Claes, each of her close friends struggled with their personal conflicts. But with a bright smile and a helping hand, the warmth of Catarina's friendship began to melt away the moments of their lonesome darkness.\n\n[Written by MAL Rewrite]\n",
   "mean": 6.87,
-  "rank": 4837,
-  "popularity": 4379,
-  "num_list_users": 27218,
-  "num_scoring_users": 10243,
+  "rank": 4890,
+  "popularity": 4384,
+  "num_list_users": 27267,
+  "num_scoring_users": 10268,
   "nsfw": "white",
   "created_at": "2021-07-18T12:56:48+00:00",
-  "updated_at": "2023-09-22T18:21:13+00:00",
+  "updated_at": "2024-10-02T15:47:10+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -45,10 +45,6 @@
       "name": "Isekai"
     },
     {
-      "id": 72,
-      "name": "Reincarnation"
-    },
-    {
       "id": 73,
       "name": "Reverse Harem"
     },
@@ -63,6 +59,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 83,
+      "name": "Villainess"
     }
   ],
   "num_episodes": 1,

@@ -14,13 +14,13 @@
   "end_date": "2017-12-31",
   "synopsis": "Short centering on a \"Lost Room\" where you can find what was lost—or those who lost. This room, which belongs to no one, lies forgotten in a corner of Chaldea.\n\n(Source: ANN)",
   "mean": 6.32,
-  "rank": 7839,
-  "popularity": 2906,
-  "num_list_users": 61088,
-  "num_scoring_users": 29561,
+  "rank": 7948,
+  "popularity": 2908,
+  "num_list_users": 61119,
+  "num_scoring_users": 29578,
   "nsfw": "white",
   "created_at": "2017-12-09T12:19:50+00:00",
-  "updated_at": "2024-02-04T15:56:22+00:00",
+  "updated_at": "2024-10-02T16:29:20+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -31,10 +31,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,
