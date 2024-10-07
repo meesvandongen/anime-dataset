@@ -2,8 +2,8 @@
   "id": 3875,
   "title": "Mahoutsukai Sally 2",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/6929.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/6929l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/6929.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/6929l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,9 +17,9 @@
   "end_date": "1990-12-22",
   "synopsis": "During Sally's coronation ceremony in the magic world, she hears her human friends back on Earth are in trouble. Despite the warnings from her parents, she escapes to Earth to help her friends. Because she was caught using magic in front of humans, she had to erase her friends' memories. Now Sally will remain on Earth so she can regain Sumire and Yoshiko's friendship while helping other humans in trouble.\n\nThis is a sequel and reboot of the original series.",
   "mean": 6.58,
-  "rank": 6430,
-  "popularity": 11531,
-  "num_list_users": 2076,
+  "rank": 6451,
+  "popularity": 11538,
+  "num_list_users": 2080,
   "num_scoring_users": 915,
   "nsfw": "white",
   "created_at": "2008-02-05T00:37:21+00:00",
@@ -44,6 +44,10 @@
   "start_season": {
     "year": 1989,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "19:00"
   },
   "source": "manga",
   "average_episode_duration": 1220,

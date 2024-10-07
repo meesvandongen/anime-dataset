@@ -2,8 +2,8 @@
   "id": 1239,
   "title": "Bishoujo Senshi Sailor Moon SuperS",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1600/92253.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1600/92253l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1600/92253.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1600/92253l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,20 +17,16 @@
   "end_date": "1996-03-02",
   "synopsis": "SuperS centers heavily on Chibi-usa and the Sailor Team. A new enemy, the Dead Moon Circus, has now appeared. Their motive is to find the Golden Dream Mirror that would be used to rule the world. To do this, the enemy attacks innocent victims for their Dream Mirrors and test their energy. Chibi-usa also has a new ally on her side, Pegasus. This season also sees the Sailor Senshi obtaining new powers. ",
   "mean": 7.62,
-  "rank": 1458,
-  "popularity": 1870,
-  "num_list_users": 122660,
-  "num_scoring_users": 62947,
+  "rank": 1460,
+  "popularity": 1871,
+  "num_list_users": 122747,
+  "num_scoring_users": 62984,
   "nsfw": "white",
   "created_at": "2006-08-03T07:08:45+00:00",
-  "updated_at": "2022-10-11T09:35:23+00:00",
+  "updated_at": "2024-10-05T16:34:34+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 10,
-      "name": "Fantasy"
-    },
     {
       "id": 66,
       "name": "Mahou Shoujo"

@@ -14,13 +14,13 @@
   "end_date": "1997-06-21",
   "synopsis": "Compilation of Sailor Stars with added narration.",
   "mean": 7.29,
-  "rank": 2793,
-  "popularity": 6316,
-  "num_list_users": 11113,
-  "num_scoring_users": 3479,
+  "rank": 2798,
+  "popularity": 6321,
+  "num_list_users": 11125,
+  "num_scoring_users": 3481,
   "nsfw": "white",
   "created_at": "2012-04-27T06:43:30+00:00",
-  "updated_at": "2022-02-07T00:58:59+00:00",
+  "updated_at": "2024-10-05T16:35:59+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -35,10 +35,6 @@
     {
       "id": 8,
       "name": "Drama"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 66,
