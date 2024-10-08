@@ -2,8 +2,8 @@
   "id": 32902,
   "title": "Mahoutsukai no Yome: Hoshi Matsu Hito",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/80587.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/4/80587l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/80587.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/4/80587l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2017-09-09",
   "synopsis": "Angelica sends Chise some magic supplies including a present. The present turns out to be a book Chise read in her childhood. Elias asks Chise to tell him the story behind the book. Chise tells him about Miura-san and the mysterious library she found in the forest as a child.\n\n[Written by MAL Rewrite]",
   "mean": 8.1,
-  "rank": 506,
+  "rank": 508,
   "popularity": 885,
-  "num_list_users": 287611,
-  "num_scoring_users": 128924,
+  "num_list_users": 287733,
+  "num_scoring_users": 128984,
   "nsfw": "white",
   "created_at": "2016-03-09T15:28:37+00:00",
-  "updated_at": "2023-03-10T11:56:01+00:00",
+  "updated_at": "2024-10-06T18:08:55+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +38,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 3,

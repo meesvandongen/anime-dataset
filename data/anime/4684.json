@@ -16,9 +16,9 @@
   "start_date": "2008-07-03",
   "end_date": "2008-12-25",
   "synopsis": "A regular old scarecrow has stood in a field for twenty years when one day, after a lightning storm, he comes to life. He becomes friends with the daughter of a scarecrow shop owner.",
-  "rank": 18498,
-  "popularity": 15930,
-  "num_list_users": 573,
+  "rank": 18562,
+  "popularity": 15927,
+  "num_list_users": 578,
   "num_scoring_users": 100,
   "nsfw": "white",
   "created_at": "2008-06-12T14:19:08+00:00",
@@ -40,7 +40,11 @@
     "year": 2008,
     "season": "summer"
   },
-  "source": "original",
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:00"
+  },
+  "source": "picture_book",
   "average_episode_duration": 1500,
   "rating": "g",
   "studios": [

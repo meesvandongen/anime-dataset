@@ -2,8 +2,8 @@
   "id": 7745,
   "title": "Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/25283.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/9/25283l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/25283.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/9/25283l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,13 +18,13 @@
   "end_date": "2010-07-16",
   "synopsis": "An OVA that takes place during the manga's middle school storyline.",
   "mean": 7.14,
-  "rank": 3600,
-  "popularity": 7464,
-  "num_list_users": 7371,
-  "num_scoring_users": 2902,
+  "rank": 3660,
+  "popularity": 7471,
+  "num_list_users": 7379,
+  "num_scoring_users": 2903,
   "nsfw": "white",
   "created_at": "2009-12-25T18:47:03+00:00",
-  "updated_at": "2024-08-08T20:20:20+00:00",
+  "updated_at": "2024-10-04T14:57:44+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -43,10 +43,6 @@
     {
       "id": 31,
       "name": "Super Power"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

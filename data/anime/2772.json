@@ -16,20 +16,24 @@
   "start_date": "2007-10-08",
   "end_date": "2008-03-31",
   "synopsis": "For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form—a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.\n\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.\n\n(Source: RightStuf)",
-  "mean": 6.82,
-  "rank": 5104,
-  "popularity": 4314,
-  "num_list_users": 28102,
-  "num_scoring_users": 10340,
+  "mean": 6.81,
+  "rank": 5197,
+  "popularity": 4327,
+  "num_list_users": 28113,
+  "num_scoring_users": 10342,
   "nsfw": "white",
   "created_at": "2007-07-05T19:51:50+00:00",
-  "updated_at": "2023-09-22T01:27:23+00:00",
+  "updated_at": "2024-10-07T05:26:00+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
     },
     {
       "id": 10,
@@ -42,10 +46,6 @@
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 31,
-      "name": "Super Power"
     }
   ],
   "num_episodes": 26,

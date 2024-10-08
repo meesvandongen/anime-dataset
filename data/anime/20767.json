@@ -2,8 +2,8 @@
   "id": 20767,
   "title": "Noragami OVA",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/77177.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/7/77177l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/77177.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/77177l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,23 +16,19 @@
   "end_date": "2014-07-17",
   "synopsis": "Hiyori Iki is excited to start high school alongside her two middle school friends, but \"Delivery God\" Yato seems to have other plans for the day. Will Hiyori be able to make a good impression on her first day? Or will Yato cost her a happy high school life?\n\nOn another day, Hiyori decides to take advantage of the beautiful weather and invites a number of people to gaze at the cherry blossoms, including the fearsome combat god, Bishamon. But how long will their blissful day last when Yato and his old rival Bishamon start to drink together? \n\n[Written by MAL Rewrite]",
   "mean": 7.71,
-  "rank": 1242,
-  "popularity": 757,
-  "num_list_users": 329450,
-  "num_scoring_users": 187342,
+  "rank": 1243,
+  "popularity": 758,
+  "num_list_users": 329585,
+  "num_scoring_users": 187414,
   "nsfw": "white",
   "created_at": "2013-10-05T13:45:23+00:00",
-  "updated_at": "2023-08-09T03:02:05+00:00",
+  "updated_at": "2024-10-04T15:54:11+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 6,
@@ -45,6 +41,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 2,

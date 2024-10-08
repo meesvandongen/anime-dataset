@@ -2,8 +2,8 @@
   "id": 31121,
   "title": "Monster Musume no Iru Nichijou: Hobo Mainichi ◯◯! Namappoi Douga",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1401/125601.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1401/125601l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1401/125601.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1401/125601l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2015-09-29",
   "synopsis": "Anime shorts that offer a secret candid look at the daily lives of Monster Musume. The shorts will update almost every weekday, but each short will be available for 24 hours only. The weekends will have a digest version summarizing the week's videos.\n\n(Source: ANN)",
   "mean": 6.51,
-  "rank": 6860,
-  "popularity": 3248,
-  "num_list_users": 49328,
-  "num_scoring_users": 20432,
+  "rank": 6891,
+  "popularity": 3253,
+  "num_list_users": 49350,
+  "num_scoring_users": 20437,
   "nsfw": "white",
   "created_at": "2015-06-27T15:40:12+00:00",
-  "updated_at": "2023-09-09T08:42:47+00:00",
+  "updated_at": "2024-10-04T16:42:55+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -42,6 +42,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 60,

@@ -14,18 +14,18 @@
   "end_date": "2017-03-16",
   "synopsis": "Special trailers released on YouTube announcing Violet Evergarden's anime adaptation. Features all original animation not used in the series.",
   "mean": 7.94,
-  "popularity": 6974,
-  "num_list_users": 8793,
-  "num_scoring_users": 3620,
+  "popularity": 6972,
+  "num_list_users": 8819,
+  "num_scoring_users": 3633,
   "nsfw": "white",
   "created_at": "2020-06-06T13:54:09+00:00",
-  "updated_at": "2023-12-27T16:23:38+00:00",
+  "updated_at": "2024-10-04T16:10:30+00:00",
   "media_type": "cm",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 10,
-      "name": "Fantasy"
+      "id": 8,
+      "name": "Drama"
     }
   ],
   "num_episodes": 2,

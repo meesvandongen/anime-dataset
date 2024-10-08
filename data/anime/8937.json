@@ -2,8 +2,8 @@
   "id": 8937,
   "title": "Toaru Majutsu no Index II",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/75612.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/9/75612l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75612.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75612l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -19,11 +19,11 @@
   "mean": 7.52,
   "rank": 1824,
   "popularity": 499,
-  "num_list_users": 468388,
-  "num_scoring_users": 253888,
+  "num_list_users": 468623,
+  "num_scoring_users": 253994,
   "nsfw": "white",
   "created_at": "2010-06-07T11:50:20+00:00",
-  "updated_at": "2023-04-29T10:01:05+00:00",
+  "updated_at": "2024-10-04T16:27:45+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -42,6 +42,10 @@
     {
       "id": 31,
       "name": "Super Power"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 24,

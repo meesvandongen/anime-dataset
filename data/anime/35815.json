@@ -17,13 +17,13 @@
   "end_date": "2016-03-18",
   "synopsis": "Recap episodes of Boku dake ga Inai Machi covering episodes 1 to 6 and episodes 7 to 11.\n",
   "mean": 7.26,
-  "rank": 2958,
-  "popularity": 3825,
-  "num_list_users": 36321,
-  "num_scoring_users": 13884,
+  "rank": 2968,
+  "popularity": 3833,
+  "num_list_users": 36344,
+  "num_scoring_users": 13888,
   "nsfw": "white",
   "created_at": "2017-06-27T05:06:48+00:00",
-  "updated_at": "2024-05-10T07:04:53+00:00",
+  "updated_at": "2024-10-03T23:33:26+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 42,
       "name": "Seinen"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     },
     {
       "id": 41,

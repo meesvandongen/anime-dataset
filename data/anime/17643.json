@@ -2,8 +2,8 @@
   "id": 17643,
   "title": "Little Busters! Sekai no Saitou wa Ore ga Mamoru!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/56461.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/9/56461l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/56461.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/56461l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2013-11-15",
   "synopsis": "A special unaired episode of Little Busters! sent to those who bought all 9 BD/DVD volumes of the anime. This episode includes the story about \"Mask the Saitou.\"",
   "mean": 7.32,
-  "rank": 2668,
-  "popularity": 4217,
-  "num_list_users": 29460,
-  "num_scoring_users": 14207,
+  "rank": 2673,
+  "popularity": 4229,
+  "num_list_users": 29466,
+  "num_scoring_users": 14215,
   "nsfw": "white",
   "created_at": "2013-03-02T04:04:04+00:00",
-  "updated_at": "2023-01-17T21:06:47+00:00",
+  "updated_at": "2024-10-07T20:44:18+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -33,10 +33,6 @@
     {
       "id": 23,
       "name": "School"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,
