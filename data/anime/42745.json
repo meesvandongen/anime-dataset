@@ -2,8 +2,8 @@
   "id": 42745,
   "title": "Machikado Mazoku: 2-choume",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1036/121135.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1036/121135l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1036/121135.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1036/121135l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2022-07-01",
   "synopsis": "Second season of Machikado Mazoku.",
   "mean": 7.85,
-  "rank": 904,
-  "popularity": 2667,
-  "num_list_users": 71134,
-  "num_scoring_users": 25630,
+  "rank": 914,
+  "popularity": 2669,
+  "num_list_users": 71221,
+  "num_scoring_users": 25673,
   "nsfw": "white",
   "created_at": "2020-08-27T07:14:04+00:00",
-  "updated_at": "2023-02-13T17:54:41+00:00",
+  "updated_at": "2024-10-05T17:17:07+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -34,10 +34,6 @@
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 66,

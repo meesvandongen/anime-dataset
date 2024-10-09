@@ -2,8 +2,8 @@
   "id": 51716,
   "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1388/133092.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1388/133092l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1388/133092.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1388/133092l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,20 +14,16 @@
   "end_date": "2023-06-30",
   "synopsis": "The final battle for the Sailor Guardians begins as they face Sailor Iron Mouse, Sailor Aluminum Siren, Sailor Lead Crow, Sailor Tin Nyanko and more.\n\n(Source: Netflix)",
   "mean": 7.8,
-  "rank": 995,
+  "rank": 1003,
   "popularity": 5952,
-  "num_list_users": 12886,
-  "num_scoring_users": 3327,
+  "num_list_users": 12960,
+  "num_scoring_users": 3397,
   "nsfw": "white",
   "created_at": "2022-04-28T13:34:51+00:00",
-  "updated_at": "2024-07-26T04:09:46+00:00",
+  "updated_at": "2024-10-05T16:43:31+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 10,
-      "name": "Fantasy"
-    },
     {
       "id": 66,
       "name": "Mahou Shoujo"

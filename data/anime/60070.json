@@ -1,0 +1,42 @@
+{
+  "id": 60070,
+  "title": "Kaijuu Sekai Seifuku (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1000/145977.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1000/145977l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "かいじゅうせかいせいふく"
+  },
+  "start_date": "2025-04",
+  "synopsis": "Following the chaotic and heartwarming daily lives of Kaijuu who have come to Earth to conquer the world and live with their human masters.",
+  "popularity": 27394,
+  "num_list_users": 1,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-10-08T19:30:33+00:00",
+  "updated_at": "2024-10-08T21:55:27+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

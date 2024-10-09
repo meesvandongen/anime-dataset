@@ -13,12 +13,12 @@
   "start_date": "2024-11-29",
   "end_date": "2024-11-29",
   "synopsis": "Movie compilation of season one of Ore dake Level Up na Ken, with the addition of the first two episodes of the second season.",
-  "popularity": 4558,
-  "num_list_users": 25059,
-  "num_scoring_users": 7,
+  "popularity": 4406,
+  "num_list_users": 27161,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2024-09-16T03:37:19+00:00",
-  "updated_at": "2024-09-16T04:12:16+00:00",
+  "updated_at": "2024-10-03T14:36:06+00:00",
   "media_type": "movie",
   "status": "not_yet_aired",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

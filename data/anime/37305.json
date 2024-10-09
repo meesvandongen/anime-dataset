@@ -2,8 +2,8 @@
   "id": 37305,
   "title": "K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1211/91852.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1211/91852l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1211/91852.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1211/91852l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,14 @@
   "start_date": "2018-10-06",
   "end_date": "2018-10-06",
   "synopsis": "Misaki Yata is a youth whose reckless and immature attitude has led him to be shunned by his classmates. Saruhiko Fushimi is a loner who views the world in a pessimistic way. Despite being polar opposites, the two become the best of friends.\n\n(Source: TubiTV)",
-  "mean": 7.43,
-  "rank": 2165,
-  "popularity": 4873,
-  "num_list_users": 21521,
-  "num_scoring_users": 6253,
+  "mean": 7.42,
+  "rank": 2193,
+  "popularity": 4886,
+  "num_list_users": 21539,
+  "num_scoring_users": 6260,
   "nsfw": "white",
   "created_at": "2018-02-11T11:18:12+00:00",
-  "updated_at": "2022-03-07T02:14:15+00:00",
+  "updated_at": "2024-10-04T15:25:16+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -33,10 +33,6 @@
     {
       "id": 31,
       "name": "Super Power"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

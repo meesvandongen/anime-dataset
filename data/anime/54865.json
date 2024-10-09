@@ -14,14 +14,16 @@
   },
   "start_date": "2024-10-05",
   "synopsis": "Second season of Blue Lock.",
-  "popularity": 1659,
-  "num_list_users": 143235,
-  "num_scoring_users": 19,
+  "mean": 8.01,
+  "rank": 633,
+  "popularity": 1482,
+  "num_list_users": 165256,
+  "num_scoring_users": 7174,
   "nsfw": "white",
   "created_at": "2023-03-25T17:37:57+00:00",
-  "updated_at": "2024-09-18T22:50:23+00:00",
+  "updated_at": "2024-10-05T16:23:21+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 27,
@@ -46,7 +48,7 @@
     "start_time": "23:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1549,
   "rating": "pg_13",
   "studios": [
     {

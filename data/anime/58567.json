@@ -14,12 +14,12 @@
   },
   "start_date": "2025-01",
   "synopsis": "Second season of Ore dake Level Up na Ken.",
-  "popularity": 1919,
-  "num_list_users": 118461,
-  "num_scoring_users": 5,
+  "popularity": 1880,
+  "num_list_users": 122533,
+  "num_scoring_users": 10,
   "nsfw": "white",
   "created_at": "2024-03-30T16:32:46+00:00",
-  "updated_at": "2024-09-16T05:07:18+00:00",
+  "updated_at": "2024-10-03T14:36:22+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -38,6 +38,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 0,

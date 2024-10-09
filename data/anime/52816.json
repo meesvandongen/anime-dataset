@@ -15,14 +15,14 @@
   "start_date": "2024-01-12",
   "end_date": "2024-04-05",
   "synopsis": "Cursed by a witch, the feral and tempestuous Guideau tenaciously searches for the culprit so she can exact revenge. To this end, she joins the Order of Magical Resonance, an organization that deals with everything connected to magic. The Order agrees to work with Guideau in return for her help solving the myriad of magic-related cases occurring across the world.\n\nThe Order's suave and mysterious mage Ashaf accompanies Guideau for the sake of successfully completing missions. As the pair traverses the land in search of that unknown witch, their experience with the fantastical world of magic grows ever more peculiar the further they advance in their journey.\n\n[Written by MAL Rewrite]",
-  "mean": 7.4,
-  "rank": 2307,
-  "popularity": 1600,
-  "num_list_users": 149662,
-  "num_scoring_users": 50885,
+  "mean": 7.41,
+  "rank": 2262,
+  "popularity": 1598,
+  "num_list_users": 150254,
+  "num_scoring_users": 51239,
   "nsfw": "white",
   "created_at": "2022-08-18T13:54:55+00:00",
-  "updated_at": "2024-02-29T23:31:11+00:00",
+  "updated_at": "2024-10-06T18:23:06+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,12 +31,24 @@
       "name": "Action"
     },
     {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
       "id": 10,
       "name": "Fantasy"
     },
     {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 12,

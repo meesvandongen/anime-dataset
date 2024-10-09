@@ -13,24 +13,20 @@
   "start_date": "2021-07-04",
   "end_date": "2021-07-18",
   "synopsis": "Recap episodes of Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV), aired for three weeks prior to second season.",
-  "mean": 6.1,
-  "rank": 9164,
-  "popularity": 8901,
-  "num_list_users": 4751,
-  "num_scoring_users": 879,
+  "mean": 6.11,
+  "rank": 9188,
+  "popularity": 8918,
+  "num_list_users": 4753,
+  "num_scoring_users": 884,
   "nsfw": "white",
   "created_at": "2021-06-25T11:40:57+00:00",
-  "updated_at": "2024-02-06T17:14:54+00:00",
+  "updated_at": "2024-10-05T16:50:33+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 8,
       "name": "Drama"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 66,

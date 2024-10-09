@@ -14,13 +14,13 @@
   "end_date": "2021-06-19",
   "synopsis": "The 203rd Air Mage Battalion led by Tanya is forced to fight in the southern desert, the front line. In an effort to provide some food for the harsh conditions, Colonel Rerugen sent dried pasta to the battlefield. Will Tanya and the others be able to eat the delicious pasta under the conditions of water shortage?\n\n(Source: AniDB)",
   "mean": 7.46,
-  "rank": 2035,
+  "rank": 2048,
   "popularity": 2855,
-  "num_list_users": 63197,
-  "num_scoring_users": 31421,
+  "num_list_users": 63315,
+  "num_scoring_users": 31482,
   "nsfw": "white",
   "created_at": "2021-06-19T17:02:11+00:00",
-  "updated_at": "2023-03-05T02:20:14+00:00",
+  "updated_at": "2024-10-04T21:04:01+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 72,
       "name": "Reincarnation"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

@@ -2,8 +2,8 @@
   "id": 35823,
   "title": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/88769.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/88769l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/88769.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/88769l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2017-06-29",
   "synopsis": "During summer break, Tetsuo asks Sakie to join him on patrol duty for the local summer festival, which both the demis and Himari and her friends go to. As each group decides to check out a nearby shrine, they get spooked by some strange occurrences, which turn out to be each other. As the next term begins, Tetsuo converses with an invisible woman named Matsuri.\n\n(Source: Crunchyroll)",
   "mean": 7.48,
-  "rank": 1985,
-  "popularity": 2370,
-  "num_list_users": 85684,
-  "num_scoring_users": 49207,
+  "rank": 1998,
+  "popularity": 2372,
+  "num_list_users": 85770,
+  "num_scoring_users": 49247,
   "nsfw": "white",
   "created_at": "2017-06-29T21:15:16+00:00",
-  "updated_at": "2023-04-17T11:54:44+00:00",
+  "updated_at": "2024-10-06T16:30:50+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -45,6 +45,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     },
     {
       "id": 32,

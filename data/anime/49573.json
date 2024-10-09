@@ -14,31 +14,44 @@
   },
   "start_date": "2024-10-04",
   "synopsis": "In a busy and bustling city, history is soundlessly scattered throughout. Those legends that speak of rare treasures, lost in the flowing river of time. At this place, in this time, they are here--in an antique shop named \"Ya She\".",
-  "popularity": 12226,
-  "num_list_users": 1647,
-  "num_scoring_users": 0,
+  "rank": 15477,
+  "popularity": 11823,
+  "num_list_users": 1904,
+  "num_scoring_users": 12,
   "nsfw": "white",
   "created_at": "2021-08-08T15:00:38+00:00",
-  "updated_at": "2022-12-28T01:50:43+00:00",
+  "updated_at": "2024-10-06T21:11:22+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
-      "id": 10,
-      "name": "Fantasy"
+      "id": 50,
+      "name": "Adult Cast"
     },
     {
-      "id": 13,
-      "name": "Historical"
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "fall"
   },
   "source": "novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1440,
   "rating": "pg_13",
   "studios": [
     {

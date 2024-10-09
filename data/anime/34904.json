@@ -17,13 +17,13 @@
   "end_date": "2017-02-17",
   "synopsis": "Recap of the first 6 episodes of Youjo Senki.",
   "mean": 6.7,
-  "rank": 5773,
-  "popularity": 3726,
-  "num_list_users": 38432,
-  "num_scoring_users": 19348,
+  "rank": 5805,
+  "popularity": 3734,
+  "num_list_users": 38478,
+  "num_scoring_users": 19367,
   "nsfw": "white",
   "created_at": "2017-02-10T15:10:29+00:00",
-  "updated_at": "2024-02-07T15:09:14+00:00",
+  "updated_at": "2024-10-04T21:04:23+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -46,6 +46,10 @@
     {
       "id": 72,
       "name": "Reincarnation"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

@@ -13,11 +13,11 @@
   "start_date": "2024-07-31",
   "end_date": "2024-10-02",
   "synopsis": "\"If the dark night comes to an end, I will stand in front of tens of thousands of people, slashing my sword into the abyss, staining the sky with blood!\" Have you ever thought that monsters from ancient myths lurk under the bright neon cities? Have you ever thought that above the moon hanging high above the heads of the world, there are gods watching over the world? Have you ever thought that in the crowded modern cities, there are extraordinary people who walk the world in place of gods?\n\n(Source: Tencent, Google translated)",
-  "mean": 7.34,
-  "rank": 2539,
-  "popularity": 13808,
-  "num_list_users": 1033,
-  "num_scoring_users": 185,
+  "mean": 7.65,
+  "rank": 1411,
+  "popularity": 13532,
+  "num_list_users": 1122,
+  "num_scoring_users": 252,
   "nsfw": "white",
   "created_at": "2024-07-16T03:00:06+00:00",
   "updated_at": "2024-10-02T15:09:19+00:00",
@@ -47,7 +47,8 @@
     "season": "summer"
   },
   "source": "web_novel",
-  "average_episode_duration": 1440,
+  "average_episode_duration": 1511,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 2526,

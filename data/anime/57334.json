@@ -7,19 +7,21 @@
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "DAN DA DAN",
+    "en": "Dan Da Dan",
     "ja": "ダンダダン"
   },
   "start_date": "2024-10-04",
   "synopsis": "After being aggressively rejected, Momo Ayase finds herself sulking when she stumbles across a boy being bullied. Saved by her rash kindness, the alien-obsessed boy attempts to speak to her about extraterrestrial interests he believes they share. Rejecting his claims, Ayase proclaimed that she instead is a believer in ghosts, starting an argument between the two over which is real.\n\nIn a bet to determine who is correct, the two decide to separately visit locations associated with both the extraterrestrial and the supernatural—Ayase visiting the former and the boy visiting the latter. When the two reach their respective places, it turns out that neither was wrong and that both aliens and ghosts do exist.\n\nThis marks the beginning of Ayase and the boy's adventure, as they attempt to fix the surreal, supernatural, and extraterrestrial elements around them to return to a normal life.\n\n[Written by MAL Rewrite]",
-  "popularity": 1697,
-  "num_list_users": 139173,
-  "num_scoring_users": 1521,
+  "mean": 8.66,
+  "rank": 72,
+  "popularity": 1094,
+  "num_list_users": 231584,
+  "num_scoring_users": 28032,
   "nsfw": "white",
   "created_at": "2023-11-27T15:18:50+00:00",
-  "updated_at": "2024-09-18T22:49:52+00:00",
+  "updated_at": "2024-10-03T23:46:30+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -38,7 +40,7 @@
       "name": "Supernatural"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "fall"
@@ -48,7 +50,8 @@
     "start_time": "00:26"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1437,
+  "rating": "r",
   "studios": [
     {
       "id": 1591,

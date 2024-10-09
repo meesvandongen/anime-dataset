@@ -16,13 +16,13 @@
   "end_date": "2017-01-07",
   "synopsis": "Compilation film of the second half of the TV series. ",
   "mean": 7.57,
-  "rank": 1612,
-  "popularity": 3103,
-  "num_list_users": 53715,
-  "num_scoring_users": 17727,
+  "rank": 1625,
+  "popularity": 3108,
+  "num_list_users": 53786,
+  "num_scoring_users": 17754,
   "nsfw": "white",
   "created_at": "2016-07-01T00:51:45+00:00",
-  "updated_at": "2023-11-03T08:01:57+00:00",
+  "updated_at": "2024-10-03T13:37:56+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -53,6 +53,10 @@
     {
       "id": 41,
       "name": "Suspense"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

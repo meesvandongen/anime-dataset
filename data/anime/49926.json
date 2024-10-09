@@ -2,8 +2,8 @@
   "id": 49926,
   "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1065/118763.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1065/118763l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2021-11-28",
   "synopsis": "A mysterious string of disappearances on a certain train has caught the attention of the Demon Slayer Corps, and they have sent one of their best to exterminate what can only be a demon responsible. However, the plan to board the Mugen Train is delayed by a lesser demon who is terrorizing the mechanics and targeting a kind, elderly woman and her granddaughter. Kyoujurou Rengoku, the Flame Hashira, must eliminate the threat before boarding the train.\n\nSent to assist the Hashira, Tanjirou Kamado, Inosuke Hashira, and Zenitsu Agatsuma enter the train prepared to fight. But their monstrous target already has a devious plan in store for them and the two hundred passengers: by delving deep into their consciousness, the demon intends to obliterate everyone in a stunning display of the power held by the Twelve Kizuki. \n\n[Written by MAL Rewrite]",
   "mean": 8.36,
-  "rank": 216,
+  "rank": 219,
   "popularity": 240,
-  "num_list_users": 815402,
-  "num_scoring_users": 488993,
+  "num_list_users": 817468,
+  "num_scoring_users": 490285,
   "nsfw": "white",
   "created_at": "2021-09-25T15:05:08+00:00",
-  "updated_at": "2023-08-03T17:04:36+00:00",
+  "updated_at": "2024-10-07T21:32:11+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,16 +31,16 @@
       "name": "Action"
     },
     {
-      "id": 10,
-      "name": "Fantasy"
-    },
-    {
       "id": 13,
       "name": "Historical"
     },
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 7,

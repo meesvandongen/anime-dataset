@@ -12,14 +12,16 @@
   },
   "start_date": "2024-10-03",
   "synopsis": "The story follows Tsunehiro Sasaki, a depressed college student burdened with debt and being told that he only has two years left to live. After falling into the sea while on the run from debt collectors, Tsunehiro is rescued by friends Hana and Takaaki and soon becomes hooked on fishing himself.\n\n(Source: Crunchyroll)",
-  "popularity": 6058,
-  "num_list_users": 12320,
-  "num_scoring_users": 4,
+  "mean": 7.15,
+  "rank": 3554,
+  "popularity": 4827,
+  "num_list_users": 22093,
+  "num_scoring_users": 1928,
   "nsfw": "gray",
   "created_at": "2024-07-30T09:21:48+00:00",
-  "updated_at": "2024-09-18T01:28:43+00:00",
+  "updated_at": "2024-10-03T15:09:36+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
@@ -36,7 +38,8 @@
     "start_time": "22:00"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1567,

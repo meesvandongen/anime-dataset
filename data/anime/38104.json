@@ -2,8 +2,8 @@
   "id": 38104,
   "title": "Mahou Shoujo Site Recaps",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1255/93332.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1255/93332l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1255/93332.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1255/93332l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2018-06-13",
   "synopsis": "Recaps of the Mahou Shoujo Site created by Avex Entertainment. Narrated by AI Kizuna and Nobuhiko Okamoto.",
   "mean": 6.23,
-  "rank": 8484,
-  "popularity": 8409,
-  "num_list_users": 5550,
-  "num_scoring_users": 1416,
+  "rank": 8526,
+  "popularity": 8419,
+  "num_list_users": 5554,
+  "num_scoring_users": 1417,
   "nsfw": "white",
   "created_at": "2018-08-03T18:59:59+00:00",
-  "updated_at": "2022-02-15T19:52:48+00:00",
+  "updated_at": "2024-10-05T16:29:10+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -47,8 +47,8 @@
       "name": "Psychological"
     },
     {
-      "id": 37,
-      "name": "Supernatural"
+      "id": 41,
+      "name": "Suspense"
     }
   ],
   "num_episodes": 2,

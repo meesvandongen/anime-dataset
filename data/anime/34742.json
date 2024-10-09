@@ -17,19 +17,23 @@
   "end_date": "2017-04-03",
   "synopsis": "A chibi parody of Youjo Senki. ",
   "mean": 6.72,
-  "rank": 5672,
-  "popularity": 4493,
-  "num_list_users": 25837,
-  "num_scoring_users": 12052,
+  "rank": 5699,
+  "popularity": 4506,
+  "num_list_users": 25854,
+  "num_scoring_users": 12056,
   "nsfw": "white",
   "created_at": "2017-01-10T09:56:34+00:00",
-  "updated_at": "2022-04-14T17:49:32+00:00",
+  "updated_at": "2024-10-04T21:05:12+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
     },
     {
       "id": 62,
@@ -46,6 +50,10 @@
     {
       "id": 72,
       "name": "Reincarnation"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 12,

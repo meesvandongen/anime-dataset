@@ -2,8 +2,8 @@
   "id": 55887,
   "title": "Kekkon suru tte, Hontou desu ka",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1969/145469.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1969/145469l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1572/145903.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1572/145903l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,14 +14,16 @@
   },
   "start_date": "2024-10-03",
   "synopsis": "Takuya and Rika are coworkers in a travel agency in Tokyo. They're both single, but they don't mind, since they're introverts with fulfilling lives at home. Unfortunately, now their job is looking to staff an office in Siberia, and non-married employees are the first to be considered. Rika is desperate to avoid the transfer and goes to Takuya with an idea: if they pretend they're getting married in a year, they can stay in Tokyo. The only problem is the two of them barely know each other! If these two quiet coworkers \"fake\" a relationship, will it turn into something real?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 3946,
-  "num_list_users": 34117,
-  "num_scoring_users": 4,
+  "mean": 7.26,
+  "rank": 2988,
+  "popularity": 3276,
+  "num_list_users": 48835,
+  "num_scoring_users": 3605,
   "nsfw": "white",
   "created_at": "2023-07-07T09:10:43+00:00",
-  "updated_at": "2024-09-14T09:39:57+00:00",
+  "updated_at": "2024-10-03T15:52:37+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
@@ -50,7 +52,8 @@
     "start_time": "23:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 242,
