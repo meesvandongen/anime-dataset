@@ -18,23 +18,19 @@
   "end_date": "1994-04-09",
   "synopsis": "Millennia ago, a war was fought between the Netherworld and the Spirit World. Ultimately, the Netherworld was destroyed and Lord Yakumo, the King of the Netherworld, was banished to the depths of space. Now, five defenders from the Spirit World must team-up against Yakumo's Demon-Gods for possession of five, mystical sites. But Lord Yakumo is dangerously close to reclaiming the Power Sphere—the source of the Netherworld's energy—and once it is again in his possession, our world will become the new Netherworld.\n\n(Source: AniDB)",
   "mean": 7.16,
-  "rank": 3497,
-  "popularity": 4146,
-  "num_list_users": 30656,
-  "num_scoring_users": 14661,
+  "rank": 3514,
+  "popularity": 4155,
+  "num_list_users": 30680,
+  "num_scoring_users": 14674,
   "nsfw": "white",
   "created_at": "2006-04-13T20:10:57+00:00",
-  "updated_at": "2023-10-07T12:07:58+00:00",
+  "updated_at": "2024-10-07T21:25:52+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 17,
@@ -47,6 +43,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

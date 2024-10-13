@@ -2,8 +2,8 @@
   "id": 10709,
   "title": "Manga Nihon Keizai Nyuumon",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/29513.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/9/29513l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/29513.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/29513l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,10 +13,10 @@
   "start_date": "1987-10-13",
   "end_date": "1988-03-29",
   "synopsis": "Depiction of Japan's economy, based on Shoutarou Ishinomori's epynomous manga.",
-  "rank": 16962,
-  "popularity": 15085,
-  "num_list_users": 711,
-  "num_scoring_users": 104,
+  "rank": 19515,
+  "popularity": 15097,
+  "num_list_users": 712,
+  "num_scoring_users": 105,
   "nsfw": "white",
   "created_at": "2011-05-17T00:18:23+00:00",
   "updated_at": "2022-03-29T02:58:09+00:00",
@@ -50,7 +50,7 @@
     "season": "fall"
   },
   "source": "manga",
-  "average_episode_duration": 1500,
+  "average_episode_duration": 1466,
   "rating": "pg_13",
   "studios": [
     {
