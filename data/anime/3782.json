@@ -19,19 +19,23 @@
   "end_date": "2007-12-29",
   "synopsis": "In the winter of 1995, Mikiya Kokutou passes a young woman during a late night stroll in the snow. Clad in a striking white kimono and bearing an enigmatic gaze, Shiki Ryougi smiles at Mikiya who stares back with curiosity. Later that spring, Mikiya notices Shiki at his high school entrance ceremony, and they become acquaintances through lunchtime conversations. As Shiki begins opening up to him, Mikiya learns about her unique upbringing.\n\nMeanwhile, a series of unprecedented murders takes place across Mifune City. Seemingly related, these murders are particularly brutal and warrant a large scale police investigation. Because of his cousin's work as a police investigator, Mikiya is given insight into the investigation. Concerned for Shiki's safety, Mikiya decides to monitor her actions, but in doing so, he stumbles upon a truly frightening discovery that changes his life forever.\n\n[Written by MAL Rewrite]",
   "mean": 7.76,
-  "rank": 1109,
-  "popularity": 1023,
-  "num_list_users": 245382,
-  "num_scoring_users": 150543,
+  "rank": 1112,
+  "popularity": 1026,
+  "num_list_users": 245487,
+  "num_scoring_users": 150598,
   "nsfw": "white",
   "created_at": "2008-01-26T12:21:25+00:00",
-  "updated_at": "2022-04-30T00:56:36+00:00",
+  "updated_at": "2024-10-08T20:34:33+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
     },
     {
       "id": 7,
@@ -42,12 +46,12 @@
       "name": "Romance"
     },
     {
-      "id": 37,
-      "name": "Supernatural"
-    },
-    {
       "id": 41,
       "name": "Suspense"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,
