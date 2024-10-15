@@ -1,0 +1,49 @@
+{
+  "id": 60076,
+  "title": "Blue Lock: Episode Nagi - Additional Time!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1006/146003.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1006/146003l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！"
+  },
+  "start_date": "2024-04-19",
+  "end_date": "2024-05-10",
+  "synopsis": "A series of shorts which aired along with the release of Blue Lock: Episode Nagi. A different short was shown each week during the film's theatrical run and they were all included with the BD release.",
+  "rank": 16523,
+  "popularity": 18915,
+  "num_list_users": 319,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2024-10-10T04:49:13+00:00",
+  "updated_at": "2024-10-10T17:32:55+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 90,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

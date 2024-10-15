@@ -12,16 +12,16 @@
     "en": "Blue Lock 2nd Season",
     "ja": "ブルーロック VS. U-20 JAPAN"
   },
-  "start_date": "2024-10-05",
+  "start_date": "2024-10-06",
   "synopsis": "Second season of Blue Lock.",
-  "mean": 8.01,
-  "rank": 633,
-  "popularity": 1482,
-  "num_list_users": 165256,
-  "num_scoring_users": 7174,
+  "mean": 7.72,
+  "rank": 1225,
+  "popularity": 1400,
+  "num_list_users": 175449,
+  "num_scoring_users": 10976,
   "nsfw": "white",
   "created_at": "2023-03-25T17:37:57+00:00",
-  "updated_at": "2024-10-05T16:23:21+00:00",
+  "updated_at": "2024-10-12T21:18:57+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -48,7 +48,7 @@
     "start_time": "23:30"
   },
   "source": "manga",
-  "average_episode_duration": 1549,
+  "average_episode_duration": 1429,
   "rating": "pg_13",
   "studios": [
     {

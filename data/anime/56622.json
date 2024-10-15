@@ -11,16 +11,17 @@
     "ja": "ヤンキーハムスター シーズン４"
   },
   "start_date": "2023-10-06",
+  "end_date": "2024-09-19",
   "synopsis": "The fourth season of Yankee Hamster.",
-  "rank": 15508,
-  "popularity": 21403,
-  "num_list_users": 175,
-  "num_scoring_users": 13,
+  "rank": 15550,
+  "popularity": 21394,
+  "num_list_users": 178,
+  "num_scoring_users": 15,
   "nsfw": "white",
   "created_at": "2023-09-11T02:28:16+00:00",
-  "updated_at": "2023-12-10T02:12:00+00:00",
+  "updated_at": "2024-10-10T16:08:07+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -35,13 +36,13 @@
       "name": "Pets"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 50,
   "start_season": {
     "year": 2023,
     "season": "fall"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 135,
   "rating": "pg_13",
   "studios": [
     {

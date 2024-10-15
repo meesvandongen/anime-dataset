@@ -1,26 +1,26 @@
 {
   "id": 59732,
-  "title": "Pochaazu",
+  "title": "Pochars",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1155/145243.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1155/145243l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Pochars"
+      "Pochaazu"
     ],
     "en": "",
     "ja": "ぽちゃーズ"
   },
-  "start_date": "2024-10-08",
+  "start_date": "2024-10-09",
   "synopsis": "",
-  "rank": 18025,
-  "popularity": 22365,
-  "num_list_users": 133,
-  "num_scoring_users": 0,
+  "rank": 20568,
+  "popularity": 21274,
+  "num_list_users": 184,
+  "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": "2024-09-04T10:06:39+00:00",
-  "updated_at": "2024-09-21T08:47:11+00:00",
+  "updated_at": "2024-10-11T13:09:40+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -39,7 +39,7 @@
     "start_time": "01:25"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 60,
   "rating": "g",
   "studios": [
     {

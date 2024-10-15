@@ -14,8 +14,8 @@
   "end_date": "2022-10-14",
   "synopsis": "Soju Saero commercial by Lotte Chilsung featuring Eunji Jung.",
   "mean": 5.89,
-  "rank": 10276,
-  "popularity": 19284,
+  "rank": 10318,
+  "popularity": 19317,
   "num_list_users": 292,
   "num_scoring_users": 131,
   "nsfw": "white",
@@ -41,5 +41,10 @@
   "source": "other",
   "average_episode_duration": 307,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3014,
+      "name": "STUDIOK110"
+    }
+  ]
 }

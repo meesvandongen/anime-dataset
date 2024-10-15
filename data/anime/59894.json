@@ -14,14 +14,15 @@
   },
   "start_date": "2024-10-10",
   "synopsis": "",
-  "popularity": 22914,
-  "num_list_users": 117,
-  "num_scoring_users": 0,
+  "rank": 13937,
+  "popularity": 21825,
+  "num_list_users": 156,
+  "num_scoring_users": 8,
   "nsfw": "white",
   "created_at": "2024-09-20T20:20:12+00:00",
   "updated_at": "2024-09-22T11:22:50+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 10,
@@ -38,7 +39,8 @@
     "season": "fall"
   },
   "broadcast": {
-    "day_of_the_week": "thursday"
+    "day_of_the_week": "thursday",
+    "start_time": "18:00"
   },
   "source": "original",
   "average_episode_duration": 660,

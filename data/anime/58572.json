@@ -15,14 +15,16 @@
   },
   "start_date": "2024-10-13",
   "synopsis": "Second season of Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su.",
-  "popularity": 2462,
-  "num_list_users": 81232,
-  "num_scoring_users": 380,
+  "mean": 8.16,
+  "rank": 444,
+  "popularity": 2298,
+  "num_list_users": 91274,
+  "num_scoring_users": 3691,
   "nsfw": "white",
   "created_at": "2024-03-31T11:15:27+00:00",
-  "updated_at": "2024-09-10T05:14:14+00:00",
+  "updated_at": "2024-10-13T13:26:18+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -45,7 +47,7 @@
       "name": "Video Game"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 25,
   "start_season": {
     "year": 2024,
     "season": "fall"
@@ -55,7 +57,7 @@
     "start_time": "17:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1430,
   "rating": "pg_13",
   "studios": [
     {

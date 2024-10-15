@@ -2,8 +2,8 @@
   "id": 56894,
   "title": "Dragon Ball Daima",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1723/145231.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1723/145231l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1723/145231.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1723/145231l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,15 +11,17 @@
     "ja": "ドラゴンボール ダイマ"
   },
   "start_date": "2024-10-11",
-  "synopsis": "New Dragon Ball series.",
-  "popularity": 3482,
-  "num_list_users": 43888,
-  "num_scoring_users": 8,
+  "synopsis": "Due to a conspiracy, Goku and his friends are turned small. What sort of adventure awaits Goku, Supreme Kai, and the new characters Glorio and Panzy in this unknown world, the \"Demon Realm\"?\n\n(Source: Crunchyroll)",
+  "mean": 8.14,
+  "rank": 453,
+  "popularity": 3006,
+  "num_list_users": 57658,
+  "num_scoring_users": 4284,
   "nsfw": "white",
   "created_at": "2023-10-12T19:24:44+00:00",
   "updated_at": "2024-09-18T22:49:08+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,

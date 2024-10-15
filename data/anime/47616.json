@@ -2,8 +2,8 @@
   "id": 47616,
   "title": "Yakusoku no Neverland: Michishirube",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1097/111813.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1097/111813l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1097/111813.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1097/111813l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -19,20 +19,16 @@
   "end_date": "2021-02-12",
   "synopsis": "Recap of the first season of Yakusoku no Neverland and the first five episodes of season two.",
   "mean": 4.76,
-  "rank": 13182,
-  "popularity": 3219,
-  "num_list_users": 50406,
-  "num_scoring_users": 24630,
+  "rank": 13237,
+  "popularity": 3226,
+  "num_list_users": 50424,
+  "num_scoring_users": 24641,
   "nsfw": "white",
   "created_at": "2021-02-11T22:02:26+00:00",
-  "updated_at": "2024-10-04T16:00:05+00:00",
+  "updated_at": "2024-10-15T02:47:38+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 10,
-      "name": "Fantasy"
-    },
     {
       "id": 7,
       "name": "Mystery"
@@ -40,10 +36,6 @@
     {
       "id": 40,
       "name": "Psychological"
-    },
-    {
-      "id": 24,
-      "name": "Sci-Fi"
     },
     {
       "id": 27,
@@ -56,10 +48,6 @@
     {
       "id": 41,
       "name": "Suspense"
-    },
-    {
-      "id": 82,
-      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

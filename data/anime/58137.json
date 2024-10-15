@@ -12,10 +12,10 @@
   },
   "start_date": "2024-10-05",
   "synopsis": "",
-  "rank": 16126,
-  "popularity": 13976,
-  "num_list_users": 992,
-  "num_scoring_users": 11,
+  "rank": 18676,
+  "popularity": 13815,
+  "num_list_users": 1041,
+  "num_scoring_users": 18,
   "nsfw": "white",
   "created_at": "2024-02-16T09:40:53+00:00",
   "updated_at": "2024-09-20T12:51:55+00:00",
@@ -50,6 +50,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1440,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 36,
