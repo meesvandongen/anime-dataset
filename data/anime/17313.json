@@ -13,8 +13,8 @@
   "start_date": "1982-10-19",
   "end_date": "1982-10-19",
   "synopsis": "First TV adaptation of manga \"Pro Golfer Saru\"  by Motoo Abiko, serialised in Shonen Sunday and CoroCoro Comic.",
-  "rank": 20639,
-  "popularity": 17631,
+  "rank": 20647,
+  "popularity": 17653,
   "num_list_users": 411,
   "num_scoring_users": 101,
   "nsfw": "white",
@@ -40,5 +40,10 @@
   "source": "manga",
   "average_episode_duration": 5460,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
 }

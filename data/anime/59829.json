@@ -13,8 +13,8 @@
   "start_date": "1981-07",
   "end_date": "1981-07",
   "synopsis": "",
-  "rank": 17258,
-  "popularity": 27221,
+  "rank": 17264,
+  "popularity": 27250,
   "num_list_users": 45,
   "num_scoring_users": 5,
   "nsfw": "white",
@@ -48,5 +48,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
 }
