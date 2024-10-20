@@ -2,8 +2,8 @@
   "id": 11111,
   "title": "Another",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/4/75509l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/75509.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/4/75509l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -16,8 +16,8 @@
   "mean": 7.47,
   "rank": 2008,
   "popularity": 59,
-  "num_list_users": 1698773,
-  "num_scoring_users": 1008592,
+  "num_list_users": 1699653,
+  "num_scoring_users": 1009097,
   "nsfw": "white",
   "created_at": "2011-07-30T20:25:52+00:00",
   "updated_at": "2024-10-04T01:13:08+00:00",

@@ -2,8 +2,8 @@
   "id": 30321,
   "title": "Strike the Blood: Valkyria no Oukoku-hen",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/77275.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/77275l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/77275.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/77275l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2015-12-23",
   "synopsis": "It was officially announced at the Dengeki Game Festival 2015 event that Strike the Blood will be getting a two-episode OVA series to be released at the end of 2015. The OVA will be an original story written by Gakuto Mikumo.\n\n(Source: MAL News)",
   "mean": 7.22,
-  "rank": 3182,
-  "popularity": 2195,
-  "num_list_users": 98064,
-  "num_scoring_users": 47552,
+  "rank": 3181,
+  "popularity": 2196,
+  "num_list_users": 98107,
+  "num_scoring_users": 47570,
   "nsfw": "white",
   "created_at": "2015-03-15T06:58:06+00:00",
-  "updated_at": "2024-05-05T04:22:16+00:00",
+  "updated_at": "2024-10-19T13:06:01+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -45,6 +45,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     },
     {
       "id": 32,

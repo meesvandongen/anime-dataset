@@ -18,11 +18,11 @@
   "mean": 7.47,
   "rank": 2007,
   "popularity": 30,
-  "num_list_users": 2137365,
-  "num_scoring_users": 1335691,
+  "num_list_users": 2138806,
+  "num_scoring_users": 1336539,
   "nsfw": "white",
   "created_at": "2014-01-20T15:10:34+00:00",
-  "updated_at": "2023-03-10T04:27:53+00:00",
+  "updated_at": "2024-10-14T20:42:25+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -41,10 +41,6 @@
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 31,
-      "name": "Super Power"
     }
   ],
   "num_episodes": 24,
