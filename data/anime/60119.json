@@ -1,0 +1,45 @@
+{
+  "id": 60119,
+  "title": "Funky Solution",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1153/146078.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1153/146078l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Funky Solution 2018"
+    ],
+    "en": "",
+    "ja": "Funky Solution"
+  },
+  "start_date": "2018-03-28",
+  "end_date": "2018-03-28",
+  "synopsis": "Music video for the 2018 version of Funky Solution by Osamu Satou.",
+  "popularity": 27337,
+  "num_list_users": 38,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2024-10-15T17:00:26+00:00",
+  "updated_at": "2024-10-15T17:00:26+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2018,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 360,
+  "rating": "pg_13",
+  "studios": []
+}

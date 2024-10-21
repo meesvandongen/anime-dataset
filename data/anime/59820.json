@@ -2,8 +2,8 @@
   "id": 59820,
   "title": "Elf-san wa Yaserarenai. Specials",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1871/145457.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1871/145457l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1871/145457.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1871/145457l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,9 @@
   "start_date": "2024-11-21",
   "end_date": "2024-11-21",
   "synopsis": "Specials included in the Blu-ray release of Elf-san wa Yaserarenai.",
-  "popularity": 10785,
-  "num_list_users": 2631,
-  "num_scoring_users": 151,
+  "popularity": 10031,
+  "num_list_users": 3326,
+  "num_scoring_users": 823,
   "nsfw": "gray",
   "created_at": "2024-09-13T18:57:34+00:00",
   "updated_at": "2024-10-07T19:37:26+00:00",
@@ -43,5 +43,10 @@
   "source": "web_manga",
   "average_episode_duration": 660,
   "rating": "r+",
-  "studios": []
+  "studios": [
+    {
+      "id": 2928,
+      "name": "Elias"
+    }
+  ]
 }

@@ -13,7 +13,7 @@
   "start_date": "2022-09-06",
   "end_date": "2022-09-06",
   "synopsis": "Music video for Bernard Park's song All Day.",
-  "popularity": 23424,
+  "popularity": 23490,
   "num_list_users": 106,
   "num_scoring_users": 52,
   "nsfw": "white",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 224,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3035,
+      "name": "Koinrush Studio"
+    }
+  ]
 }

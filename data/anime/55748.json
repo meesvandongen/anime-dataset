@@ -1,6 +1,6 @@
 {
   "id": 55748,
-  "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai Kanketsu-hen",
+  "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1476/142232.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1476/142232l.jpg"
@@ -13,16 +13,17 @@
     "ja": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 完結編"
   },
   "start_date": "2024-09-06",
-  "synopsis": "A three-part theatrical screening of Love Live! Nijigasaki High School Idol Club.",
-  "rank": 19384,
-  "popularity": 8133,
-  "num_list_users": 6012,
-  "num_scoring_users": 81,
+  "end_date": "2024-09-06",
+  "synopsis": "First part of Love Live! Nijigasaki Gakuen School Idol Doukoukai Kanketsu-hen.",
+  "rank": 16898,
+  "popularity": 8090,
+  "num_list_users": 6110,
+  "num_scoring_users": 95,
   "nsfw": "white",
   "created_at": "2023-06-23T11:54:49+00:00",
-  "updated_at": "2024-08-31T10:31:45+00:00",
+  "updated_at": "2024-10-20T22:52:47+00:00",
   "media_type": "movie",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 60,
@@ -41,7 +42,7 @@
       "name": "Slice of Life"
     }
   ],
-  "num_episodes": 3,
+  "num_episodes": 1,
   "start_season": {
     "year": 2024,
     "season": "summer"

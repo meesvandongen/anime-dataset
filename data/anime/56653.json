@@ -10,14 +10,14 @@
     "en": "",
     "ja": "BanG Dream! Ave Mujica"
   },
-  "start_date": "2025-01",
+  "start_date": "2025-01-02",
   "synopsis": "BanG Dream! Ave Mujica will focus on the story of the Ave Mujica band in the BanG Dream! franchise",
-  "popularity": 8773,
-  "num_list_users": 5013,
+  "popularity": 8723,
+  "num_list_users": 5093,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-09-14T15:13:00+00:00",
-  "updated_at": "2024-10-13T16:37:17+00:00",
+  "updated_at": "2024-10-18T10:49:16+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -34,6 +34,10 @@
   "start_season": {
     "year": 2025,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:00"
   },
   "source": "mixed_media",
   "average_episode_duration": 0,

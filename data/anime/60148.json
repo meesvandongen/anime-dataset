@@ -1,0 +1,47 @@
+{
+  "id": 60148,
+  "title": "Anta Nante.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1060/146145.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1060/146145l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "あんたなんて。"
+  },
+  "start_date": "2024-10-19",
+  "end_date": "2024-10-19",
+  "synopsis": "Music video for the song Anta Nante. by Riria. The song was used as the ending theme of the anime Ranma ½ (2024).",
+  "popularity": 25432,
+  "num_list_users": 77,
+  "num_scoring_users": 44,
+  "nsfw": "white",
+  "created_at": "2024-10-19T17:43:17+00:00",
+  "updated_at": "2024-10-19T18:07:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 270,
+  "rating": "pg_13",
+  "studios": []
+}

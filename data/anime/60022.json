@@ -12,15 +12,17 @@
   },
   "start_date": "2024-10-20",
   "end_date": "2024-10-20",
-  "synopsis": "Two years after the Summit War in which Straw Hat pirate Luffy lost his brother Ace, the story takes place on the Sabaody Archipelago. The protagonist, a young girl who has a strong admiration for Nami, sets off on a small adventure. This is an ensemble drama that focuses on people who do not \"pursue\" ONE PIECE, depicting the reunion of the Straw Hat Pirates from their perspective.\n\n(Source: One Piece Official Website)",
-  "popularity": 12122,
-  "num_list_users": 1729,
-  "num_scoring_users": 2,
+  "synopsis": "Two years after the Summit War in which Straw Hat pirate Luffy lost his brother Ace, the story takes place on the Sabaody Archipelago. The protagonist, a young girl who has a strong admiration for Nami, sets off on a small adventure. This is an ensemble drama that focuses on people who do not \"pursue\" ONE PIECE, depicting the reunion of the Straw Hat Pirates from their perspective.\n\n(Source: Official site, translated)",
+  "mean": 9.24,
+  "rank": 2,
+  "popularity": 5677,
+  "num_list_users": 15098,
+  "num_scoring_users": 10734,
   "nsfw": "white",
   "created_at": "2024-10-03T03:49:19+00:00",
-  "updated_at": "2024-10-03T09:56:23+00:00",
+  "updated_at": "2024-10-20T12:25:24+00:00",
   "media_type": "tv_special",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -45,7 +47,7 @@
     "season": "fall"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1495,
   "rating": "pg_13",
   "studios": [
     {

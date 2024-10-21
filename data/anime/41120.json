@@ -16,8 +16,8 @@
   "mean": 7.51,
   "rank": 1890,
   "popularity": 532,
-  "num_list_users": 444743,
-  "num_scoring_users": 203332,
+  "num_list_users": 445074,
+  "num_scoring_users": 203479,
   "nsfw": "white",
   "created_at": "2020-01-23T10:02:54+00:00",
   "updated_at": "2024-07-01T10:59:17+00:00",
@@ -47,7 +47,7 @@
     "start_time": "00:55"
   },
   "source": "novel",
-  "average_episode_duration": 1380,
+  "average_episode_duration": 1386,
   "rating": "pg_13",
   "studios": [
     {

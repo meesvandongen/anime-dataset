@@ -13,7 +13,7 @@
   "start_date": "2024-05-24",
   "end_date": "2024-05-24",
   "synopsis": "Music video for the song Goldenweek by millennium parade.",
-  "popularity": 24125,
+  "popularity": 24202,
   "num_list_users": 94,
   "num_scoring_users": 49,
   "nsfw": "white",
@@ -40,6 +40,10 @@
   "average_episode_duration": 218,
   "rating": "pg_13",
   "studios": [
+    {
+      "id": 2177,
+      "name": "Mimoid"
+    },
     {
       "id": 2878,
       "name": "Khaki"
