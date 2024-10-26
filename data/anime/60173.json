@@ -1,0 +1,43 @@
+{
+  "id": 60173,
+  "title": "Ghost in the Rain",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1000/146195.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1000/146195l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Ghost In The Rain"
+  },
+  "start_date": "2009-05-31",
+  "end_date": "2009-05-31",
+  "synopsis": "Music video for the song Ghost In The Rain by the HIATUS.",
+  "popularity": 27425,
+  "num_list_users": 34,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2024-10-22T05:51:28+00:00",
+  "updated_at": "2024-10-22T05:51:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2009,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 220,
+  "rating": "g",
+  "studios": []
+}

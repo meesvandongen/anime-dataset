@@ -14,13 +14,13 @@
   "end_date": "2014-03-31",
   "synopsis": "The story takes place in Tokyo in 2018, where normal humans and those who can use magic coexist. As a result, there are laws against using magic, and a \"magic courtroom\" exists to preside over lawsuits regarding magic use. In these cases, \"Benmashi\" or wizard barristers defend those who use magic. The anime follows Cecil, the youngest Benmashi in history, and her associates as they defend clients in these cases.\n\n(Source: ANN)",
   "mean": 6.17,
-  "rank": 8856,
-  "popularity": 2940,
-  "num_list_users": 60019,
-  "num_scoring_users": 24094,
+  "rank": 8895,
+  "popularity": 2945,
+  "num_list_users": 60041,
+  "num_scoring_users": 24097,
   "nsfw": "white",
   "created_at": "2013-08-10T18:50:59+00:00",
-  "updated_at": "2023-10-16T06:02:48+00:00",
+  "updated_at": "2024-10-23T13:32:04+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 18,
       "name": "Mecha"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 12,

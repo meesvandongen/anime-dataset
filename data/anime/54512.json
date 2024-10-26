@@ -2,8 +2,8 @@
   "id": 54512,
   "title": "Neoui Mogsoli",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1249/133438.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1249/133438l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1201/139987.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1201/139987l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,7 @@
   "start_date": "2016-12-29",
   "end_date": "2016-12-29",
   "synopsis": "Music video for the song Neoui Mogsoli by SMTOWN X Steve Barakatt.",
-  "popularity": 23581,
+  "popularity": 23582,
   "num_list_users": 104,
   "num_scoring_users": 56,
   "nsfw": "white",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 240,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3035,
+      "name": "Koinrush Studio"
+    }
+  ]
 }

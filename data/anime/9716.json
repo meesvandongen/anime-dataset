@@ -2,8 +2,8 @@
   "id": 9716,
   "title": "Rurouni Kenshin: Review Special",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1101/124404.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1101/124404l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1101/124404.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1101/124404l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,10 +16,10 @@
   "end_date": "1997-03-26",
   "synopsis": "Summary of various fighting scenes of the first half of the series and a brief overview of the Kyoto arc.",
   "mean": 6.64,
-  "rank": 6146,
-  "popularity": 7855,
-  "num_list_users": 6597,
-  "num_scoring_users": 2012,
+  "rank": 6155,
+  "popularity": 7860,
+  "num_list_users": 6601,
+  "num_scoring_users": 2014,
   "nsfw": "white",
   "created_at": "2010-10-21T22:09:15+00:00",
   "updated_at": "2021-06-03T10:10:58+00:00",
@@ -50,7 +50,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1579,
-  "rating": "pg_13",
+  "rating": "r",
   "studios": [
     {
       "id": 36,

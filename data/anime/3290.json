@@ -16,9 +16,9 @@
   "start_date": "2001-10-13",
   "end_date": "2002-03-30",
   "synopsis": "Have you ever heard of the Vampirians? One noble family of such vegetarian vampires have been banished from Monsterland for their inability to scare humans. To lift the exile set on the family, Papa, the head of the household, must scare 1000 humans. To this end, he attempts to use his magnificent skills in making new inventions, but always and inevitably fails. To complicate things further, Papa's daughter Sue falls in love with a young human boy and no longer wants to return to Monsterland. Will Papa ever get his family back home?\n\n(Source: Production I.G.)",
-  "mean": 5.95,
-  "rank": 10040,
-  "popularity": 13337,
+  "mean": 5.94,
+  "rank": 10105,
+  "popularity": 13347,
   "num_list_users": 1192,
   "num_scoring_users": 210,
   "nsfw": "white",
@@ -56,6 +56,10 @@
     {
       "id": 10,
       "name": "Production I.G"
+    },
+    {
+      "id": 80,
+      "name": "Trans Arts"
     }
   ]
 }
