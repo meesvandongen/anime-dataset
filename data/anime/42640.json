@@ -14,13 +14,13 @@
   "end_date": "2020-12-16",
   "synopsis": "\"Dear Mom and Dad, it's already been a year since I left home. Don't worry- I'm doing great! I can take care of myself now. And I've learned to take care of others, too. Before, I never could have imagined having so many friends. But now, I can hardly imagine living without them. I think... Here, is my second home.\"\n\nIt was all a lie.\n\nSuspicion. Betrayal. Conspiracy. \n\n(Source: PV)",
   "mean": 8.03,
-  "rank": 606,
+  "rank": 616,
   "popularity": 5875,
-  "num_list_users": 13470,
-  "num_scoring_users": 7154,
+  "num_list_users": 13486,
+  "num_scoring_users": 7163,
   "nsfw": "white",
   "created_at": "2020-08-09T02:13:43+00:00",
-  "updated_at": "2023-07-20T16:13:28+00:00",
+  "updated_at": "2024-10-22T11:42:18+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 6,
       "name": "Mythology"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 12,

@@ -18,13 +18,13 @@
   "end_date": "2019-09-10",
   "synopsis": "Recap of the first four episodes of Cop Craft series from Tilarna's perspective.",
   "mean": 5.85,
-  "rank": 10520,
+  "rank": 10515,
   "popularity": 8137,
-  "num_list_users": 6024,
+  "num_list_users": 6029,
   "num_scoring_users": 2556,
   "nsfw": "white",
   "created_at": "2019-09-13T12:03:46+00:00",
-  "updated_at": "2024-02-07T18:32:46+00:00",
+  "updated_at": "2024-10-26T12:41:10+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -47,6 +47,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

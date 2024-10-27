@@ -1,36 +1,32 @@
 {
   "id": 39972,
-  "title": "Mayonaka no Occult Koumuin OVA",
+  "title": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki/Sakura no Mori no Mankai no Shita",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1892/101617.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1892/101617l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "Midnight Occult Civil Servants OVA",
-    "ja": "真夜中のオカルト公務員」TV未放送エピソード「ひとりぼっちの吸血鬼」"
+    "en": "Midnight Occult Civil Servants: Lonely Vampire/Beneath the Cherry Tree Forest in Full Bloom",
+    "ja": "真夜中のオカルト公務員「ひとりぼっちの吸血鬼」/「サクラの森の満開の下」"
   },
   "start_date": "2019-09-25",
   "end_date": "2019-09-25",
   "synopsis": "2 Unaired Episodes of Mayonaka no Occult Koumuin.",
   "mean": 7.13,
-  "rank": 3708,
-  "popularity": 6658,
-  "num_list_users": 9912,
-  "num_scoring_users": 3737,
+  "rank": 3685,
+  "popularity": 6657,
+  "num_list_users": 9926,
+  "num_scoring_users": 3741,
   "nsfw": "white",
   "created_at": "2019-06-23T16:47:59+00:00",
-  "updated_at": "2024-03-05T12:32:49+00:00",
+  "updated_at": "2024-10-22T11:20:14+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 50,
       "name": "Adult Cast"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 7,
@@ -43,6 +39,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     },
     {
       "id": 48,
