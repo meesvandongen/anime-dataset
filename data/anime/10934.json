@@ -21,13 +21,13 @@
   "end_date": "2011-12-05",
   "synopsis": "Episode bundled with the ninth volume of the Itsuka Tenma no Kuro Usagi novel.\n\nIncludes Mirai's chibi-style dream, body-swapping and a crossover with Densetsu no Yuusha no Densetsu.",
   "mean": 6.87,
-  "rank": 4914,
-  "popularity": 4966,
-  "num_list_users": 20822,
-  "num_scoring_users": 9839,
+  "rank": 4926,
+  "popularity": 4971,
+  "num_list_users": 20830,
+  "num_scoring_users": 9840,
   "nsfw": "gray",
   "created_at": "2011-07-10T09:53:30+00:00",
-  "updated_at": "2023-09-22T01:47:14+00:00",
+  "updated_at": "2024-10-30T03:13:07+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -44,8 +44,8 @@
       "name": "Ecchi"
     },
     {
-      "id": 10,
-      "name": "Fantasy"
+      "id": 6,
+      "name": "Mythology"
     },
     {
       "id": 22,
@@ -54,6 +54,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     },
     {
       "id": 32,

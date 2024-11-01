@@ -19,11 +19,11 @@
   "mean": 7.61,
   "rank": 1511,
   "popularity": 247,
-  "num_list_users": 810213,
-  "num_scoring_users": 480849,
+  "num_list_users": 810704,
+  "num_scoring_users": 481128,
   "nsfw": "white",
   "created_at": "2014-12-20T08:00:06+00:00",
-  "updated_at": "2024-04-28T06:45:22+00:00",
+  "updated_at": "2024-10-29T11:01:04+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -46,6 +46,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     },
     {
       "id": 32,
