@@ -13,8 +13,8 @@
   "start_date": "2020-12-14",
   "end_date": "2020-12-14",
   "synopsis": "Musical Christmas video featuring Binggrae confectionery company characters.",
-  "rank": 16525,
-  "popularity": 22444,
+  "rank": 16538,
+  "popularity": 22468,
   "num_list_users": 133,
   "num_scoring_users": 45,
   "nsfw": "white",
@@ -40,5 +40,10 @@
   "source": "mixed_media",
   "average_episode_duration": 97,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3014,
+      "name": "STUDIOK110"
+    }
+  ]
 }

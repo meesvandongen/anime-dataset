@@ -13,7 +13,7 @@
   "start_date": "2021-12-17",
   "end_date": "2021-12-17",
   "synopsis": "A music video by Soyeon (of (G)I-DLE) promoting Hot Chicken Flavor Ramen.",
-  "popularity": 22532,
+  "popularity": 22554,
   "num_list_users": 131,
   "num_scoring_users": 64,
   "nsfw": "white",
@@ -39,5 +39,10 @@
   "source": "other",
   "average_episode_duration": 128,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3014,
+      "name": "STUDIOK110"
+    }
+  ]
 }

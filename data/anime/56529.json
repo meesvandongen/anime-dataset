@@ -13,8 +13,8 @@
   "start_date": "2022-05-27",
   "end_date": "2022-05-27",
   "synopsis": "Promotional video for Hyundai Mobis.",
-  "rank": 17141,
-  "popularity": 22087,
+  "rank": 17155,
+  "popularity": 22106,
   "num_list_users": 148,
   "num_scoring_users": 45,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "other",
   "average_episode_duration": 711,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3014,
+      "name": "STUDIOK110"
+    }
+  ]
 }

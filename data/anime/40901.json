@@ -16,13 +16,13 @@
   "end_date": "2020-11-29",
   "synopsis": "Since ancient times, shrine maidens who wield swords have been exorcising \"aratama,\" strange existences that threaten the human world. These young women who wear school uniforms and a sword are called \"Toji,\" and they serve as an official unit within the police force as a \"special religious service police squad.\" The government authorizes the Toji to wear swords and serve as government officials, and the government has set up five schools throughout the country for the girls to attend. In the spring, the five schools send their best Toji to compete in a tournament. As the tournament comes closer, all of the representatives rigorously train themselves in order to get stronger and improve their skills.\n\n(Source: ANN)",
   "mean": 6.62,
-  "rank": 6309,
-  "popularity": 7996,
-  "num_list_users": 6303,
-  "num_scoring_users": 2034,
+  "rank": 6290,
+  "popularity": 8004,
+  "num_list_users": 6305,
+  "num_scoring_users": 2035,
   "nsfw": "white",
   "created_at": "2019-12-19T02:37:29+00:00",
-  "updated_at": "2022-11-16T11:48:39+00:00",
+  "updated_at": "2024-10-27T13:23:35+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 2,

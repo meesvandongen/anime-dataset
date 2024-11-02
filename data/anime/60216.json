@@ -1,0 +1,43 @@
+{
+  "id": 60216,
+  "title": "Kanojo Face The Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1360/146318.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1360/146318l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "彼女フェイス THE ANIMATION"
+  },
+  "start_date": "2025-01-31",
+  "synopsis": "",
+  "popularity": 25332,
+  "num_list_users": 78,
+  "num_scoring_users": 0,
+  "nsfw": "gray",
+  "created_at": "2024-10-30T12:47:16+00:00",
+  "updated_at": "2024-10-30T21:58:29+00:00",
+  "media_type": "ova",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2332,
+      "name": "Shion"
+    }
+  ]
+}

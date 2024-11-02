@@ -12,14 +12,14 @@
   },
   "start_date": "2024-10-03",
   "synopsis": "A depressed author. A concerned editor. An eccentric mushroom researcher. And a strange pink mushroom... that turns into a dog?! Put this all together and you get Mushroom Pup.\n\nMushroom Pup tells a heart-warming tale of the power of friendship, a dog's love, and the dangers of dwelling on regrets. With the help of his friends and the mysterious Mushroom Pup, Hotaru Yuyami, a grieving picture book author, slowly begins to move forward after the tragic loss of his beloved dog, Hanako. Full of laughs and warm moments, Mushroom Pup is sure to find a place in your heart. \n\n(Source: DMP)",
-  "mean": 6.31,
-  "rank": 8083,
-  "popularity": 8436,
-  "num_list_users": 5571,
-  "num_scoring_users": 790,
+  "mean": 6.28,
+  "rank": 8205,
+  "popularity": 8355,
+  "num_list_users": 5704,
+  "num_scoring_users": 834,
   "nsfw": "white",
   "created_at": "2024-05-13T14:35:31+00:00",
-  "updated_at": "2024-10-10T20:54:10+00:00",
+  "updated_at": "2024-10-31T16:12:04+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -42,6 +42,10 @@
     {
       "id": 36,
       "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 12,

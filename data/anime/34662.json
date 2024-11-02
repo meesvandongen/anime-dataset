@@ -2,8 +2,8 @@
   "id": 34662,
   "title": "Fate/Apocrypha",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/86573.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/9/86573l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/86573.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/86573l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2017-12-31",
   "synopsis": "The Holy Grail is a powerful, ancient relic capable of granting any wish the beholder desires. In order to obtain this power, various magi known as \"masters\" summon legendary Heroic Spirits called \"servants\" to fight for them in a destructive battle royale—the Holy Grail War. Only the last master-servant pair standing may claim the Grail for themselves. Yet, the third war ended inconclusively, as the Grail mysteriously disappeared following the conflict.\n\nMany years later, the magi clan Yggdmillennia announces its possession of the Holy Grail, and intends to leave the Mage's Association. In response, the Association sends 50 elite magi to retrieve the Grail; however, all but one are killed by an unknown servant. The lone survivor is used as a messenger to convey Yggdmillennia's declaration of war on the Association.\n\nAs there are only two parties involved in the conflict, the Holy Grail War takes on an unusual form. Yggdmillennia and the Mage's Association will each deploy seven master-servant pairs, and the side that loses all its combatants first will forfeit the artifact. As the 14 masters summon their servants and assemble on the battlefield, the magical world shivers in anticipation with the rise of the Great Holy Grail War.\n\n[Written by MAL Rewrite]",
   "mean": 7.19,
-  "rank": 3376,
-  "popularity": 480,
-  "num_list_users": 488794,
-  "num_scoring_users": 259297,
+  "rank": 3393,
+  "popularity": 479,
+  "num_list_users": 489024,
+  "num_scoring_users": 259436,
   "nsfw": "white",
   "created_at": "2016-12-31T16:55:08+00:00",
-  "updated_at": "2024-10-02T16:28:05+00:00",
+  "updated_at": "2024-10-29T11:14:44+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 25,

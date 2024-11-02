@@ -13,8 +13,8 @@
   "start_date": "2023-07-07",
   "end_date": "2023-07-07",
   "synopsis": "",
-  "rank": 17142,
-  "popularity": 22007,
+  "rank": 17156,
+  "popularity": 22033,
   "num_list_users": 152,
   "num_scoring_users": 39,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "other",
   "average_episode_duration": 417,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3014,
+      "name": "STUDIOK110"
+    }
+  ]
 }
