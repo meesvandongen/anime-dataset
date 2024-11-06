@@ -2,8 +2,8 @@
   "id": 47,
   "title": "Akira",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1408/114012.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1408/114012l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,23 +14,19 @@
   "end_date": "1988-07-16",
   "synopsis": "Japan, 1988. An explosion caused by a young boy with psychic powers tears through the city of Tokyo and ignites the fuse that leads to World War III. In order to prevent any further destruction, he is captured and taken into custody, never to be heard from again. Now, in the year 2019, a restored version of the city known as Neo-Tokyo—an area rife with gang violence and terrorism against the current government—stands in its place. Here, Shoutarou Kaneda leads \"the Capsules,\" a group of misfits known for riding large, custom motorcycles and being in constant conflict with their rivals \"the Clowns.\"\n\nDuring one of these battles, Shoutarou's best friend Tetsuo Shima is caught up in an accident with an esper who finds himself in the streets of Tokyo after escaping confinement from a government institution. Through this encounter, Tetsuo begins to develop his own mysterious abilities, as the government seeks to quarantine this latest psychic in a desperate attempt to prevent him from unleashing the destructive power that could once again bring the city to its knees.\n\n[Written by MAL Rewrite]",
   "mean": 8.16,
-  "rank": 442,
+  "rank": 439,
   "popularity": 209,
-  "num_list_users": 878405,
-  "num_scoring_users": 527899,
+  "num_list_users": 879130,
+  "num_scoring_users": 528324,
   "nsfw": "white",
   "created_at": "2005-11-11T05:57:41+00:00",
-  "updated_at": "2023-09-15T06:19:56+00:00",
+  "updated_at": "2024-11-04T04:20:36+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 2,
-      "name": "Adventure"
     },
     {
       "id": 58,
@@ -53,8 +49,8 @@
       "name": "Seinen"
     },
     {
-      "id": 37,
-      "name": "Supernatural"
+      "id": 31,
+      "name": "Super Power"
     }
   ],
   "num_episodes": 1,
