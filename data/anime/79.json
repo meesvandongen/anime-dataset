@@ -14,23 +14,19 @@
   "end_date": "2006-01-06",
   "synopsis": "In present times, Gods and Demons coexist together with Humans after the door between each of these worlds had opened. Tsuchimi Rin is a normal young high school student attending Verbena Academy, spending his days living peacefully with his childhood friend Kaede. Unexpectedly, one day the King of Gods, the King of Demons and their families move into be Rin's next door neighbors. Apparently the daughter of the Gods, Sia, and the daughter of the demons, Nerine, are both deeply in love with Rin after having met him in the past. Along with his playful friendship with upperclassmen Asa and his encounter with the silent but cute Primula, Rin has much on his hands dealing with the affections of each of these girls. Based on the eroge by Navel.",
   "mean": 7.01,
-  "rank": 4283,
-  "popularity": 899,
-  "num_list_users": 283193,
-  "num_scoring_users": 137019,
+  "rank": 4269,
+  "popularity": 900,
+  "num_list_users": 283256,
+  "num_scoring_users": 137039,
   "nsfw": "gray",
   "created_at": "2005-11-11T13:23:04+00:00",
-  "updated_at": "2023-09-19T10:21:03+00:00",
+  "updated_at": "2024-11-03T08:03:38+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 8,
-      "name": "Drama"
     },
     {
       "id": 9,
@@ -51,6 +47,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 24,
