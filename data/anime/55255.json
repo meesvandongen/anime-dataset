@@ -11,16 +11,17 @@
     "ja": "ALIEN STAGE (에일리언스테이지)"
   },
   "start_date": "2022-09-07",
+  "end_date": "2024-10-25",
   "synopsis": "Alien Stage, a reality audition program, has taken the alien world by storm, and its upcoming season is planned to be just as exciting. Contestants must sing for their survival, as the loser faces on-the-spot termination. As the competition heats up, a mysterious girl emerges, whose involvement may hold the key to humanity's fate...\n\n(Source: Alien Stage Wiki)",
-  "mean": 8.66,
-  "popularity": 9515,
-  "num_list_users": 3922,
-  "num_scoring_users": 1195,
+  "mean": 8.68,
+  "popularity": 9397,
+  "num_list_users": 4094,
+  "num_scoring_users": 1274,
   "nsfw": "white",
   "created_at": "2023-05-07T14:34:31+00:00",
   "updated_at": "2023-05-07T15:00:47+00:00",
   "media_type": "music",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 8,

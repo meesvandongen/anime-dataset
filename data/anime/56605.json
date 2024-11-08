@@ -14,13 +14,13 @@
   "end_date": "2023-09-10",
   "synopsis": "Recap of the first seven episodes of Zom 100: Zombie ni Naru made ni Shitai 100 no Koto.",
   "mean": 6.62,
-  "rank": 6293,
-  "popularity": 8852,
-  "num_list_users": 4928,
-  "num_scoring_users": 1795,
+  "rank": 6278,
+  "popularity": 8848,
+  "num_list_users": 4946,
+  "num_scoring_users": 1805,
   "nsfw": "white",
   "created_at": "2023-09-09T22:07:39+00:00",
-  "updated_at": "2024-02-06T16:37:48+00:00",
+  "updated_at": "2024-11-04T05:49:22+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -37,16 +37,16 @@
       "name": "Comedy"
     },
     {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
       "id": 14,
       "name": "Horror"
     },
     {
       "id": 42,
       "name": "Seinen"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     },
     {
       "id": 76,

@@ -1,0 +1,55 @@
+{
+  "id": 60246,
+  "title": "He Zhong Zhi Hai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1050/146376.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1050/146376l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Sea in a Box",
+    "ja": "盒中之海"
+  },
+  "start_date": "2024-10-03",
+  "end_date": "2024-10-03",
+  "synopsis": "Four participants playtest a virtual reality game that is still under development. The game uses AI simulated NPCs and system dynamics to generate a world with features not created by the developers, and perhaps beyond human understanding.",
+  "rank": 20674,
+  "popularity": 27343,
+  "num_list_users": 44,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2024-11-03T02:44:39+00:00",
+  "updated_at": "2024-11-03T10:16:49+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 7740,
+  "studios": []
+}

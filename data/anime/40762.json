@@ -1,29 +1,28 @@
 {
   "id": 40762,
-  "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+  "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana - Ichinen Mae, Nijou Kujaku no Urei",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1417/104653.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1417/104653l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1156/146362.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1156/146362l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Special Crime Investigation Unit - Special 7 OVA",
-      "Special Crime Investigation Unit - Special 7 Episode 0.5"
+      "Special Crime Investigation Unit - Special 7 OVA"
     ],
-    "en": "",
+    "en": "Special 7: Special Crime Investigation Unit Episode 0.5",
     "ja": "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5「一年前、二条クジャクの憂い」"
   },
   "start_date": "2020-01-24",
   "end_date": "2020-01-24",
   "synopsis": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
   "mean": 6.09,
-  "rank": 9339,
-  "popularity": 9030,
-  "num_list_users": 4626,
-  "num_scoring_users": 1631,
+  "rank": 9326,
+  "popularity": 9033,
+  "num_list_users": 4628,
+  "num_scoring_users": 1630,
   "nsfw": "white",
   "created_at": "2019-11-24T07:21:30+00:00",
-  "updated_at": "2021-12-18T08:35:01+00:00",
+  "updated_at": "2024-11-02T13:18:30+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +37,14 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     },
     {
       "id": 32,

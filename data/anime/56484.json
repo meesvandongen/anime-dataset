@@ -12,8 +12,8 @@
   },
   "start_date": "2023-09-02",
   "synopsis": "",
-  "rank": 16675,
-  "popularity": 20760,
+  "rank": 19325,
+  "popularity": 20769,
   "num_list_users": 216,
   "num_scoring_users": 11,
   "nsfw": "white",
@@ -39,6 +39,10 @@
   "start_season": {
     "year": 2023,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "14:45"
   },
   "source": "original",
   "average_episode_duration": 840,

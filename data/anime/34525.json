@@ -16,13 +16,13 @@
   "end_date": "2017-09-24",
   "synopsis": "Himeno is a sweet, shy little centaur girl. In her world, everyone seems to be a supernatural creature, and all her classmates have some kind of horns, wings, tails, halos, or other visible supernatural body part. Despite their supernatural elements, Himeno and her best friends, Nozomi and Kyouko, have a fun and mostly normal daily school life!\n\n(Source: MangaHelpers)",
   "mean": 6.42,
-  "rank": 7463,
+  "rank": 7458,
   "popularity": 2237,
-  "num_list_users": 95985,
-  "num_scoring_users": 40498,
+  "num_list_users": 96036,
+  "num_scoring_users": 40516,
   "nsfw": "white",
   "created_at": "2016-12-12T19:43:54+00:00",
-  "updated_at": "2023-04-29T09:55:28+00:00",
+  "updated_at": "2024-11-04T05:36:33+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -41,6 +41,10 @@
     {
       "id": 36,
       "name": "Slice of Life"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 12,

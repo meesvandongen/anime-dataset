@@ -1,0 +1,55 @@
+{
+  "id": 60235,
+  "title": "Wu Ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1664/146359.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1664/146359l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "武逆"
+  },
+  "start_date": "2024-11-07",
+  "synopsis": "",
+  "rank": 15026,
+  "popularity": 27192,
+  "num_list_users": 60,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2024-11-02T12:06:01+00:00",
+  "updated_at": "2024-11-07T10:07:35+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 30,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}
