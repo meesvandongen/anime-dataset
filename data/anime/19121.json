@@ -13,14 +13,14 @@
   "start_date": "1988-04-03",
   "end_date": "1988-07-31",
   "synopsis": "Based on the manga by Tanaka Keiichi.\n\nDr. Chichibuyama is the perverse head of a hospital way out in the mountains and terrorises patients with the help of his lover and a sexy young nurse.\n\n(Source: AniDB)",
-  "mean": 5.51,
-  "rank": 11912,
-  "popularity": 14208,
-  "num_list_users": 942,
-  "num_scoring_users": 231,
+  "mean": 5.47,
+  "rank": 12039,
+  "popularity": 14192,
+  "num_list_users": 948,
+  "num_scoring_users": 234,
   "nsfw": "white",
   "created_at": "2013-06-17T23:37:18+00:00",
-  "updated_at": "2022-07-15T17:41:32+00:00",
+  "updated_at": "2024-11-08T02:11:57+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 9,
       "name": "Ecchi"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
     },
     {
       "id": 20,

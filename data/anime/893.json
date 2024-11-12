@@ -2,8 +2,8 @@
   "id": 893,
   "title": "Dragon Ball Movie 4: Saikyou e no Michi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1497/93677.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1497/93677l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1497/93677.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1497/93677l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "1996-03-02",
   "synopsis": "A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them. \n\n(Source: ANN)",
   "mean": 7.13,
-  "rank": 3678,
-  "popularity": 2836,
-  "num_list_users": 64480,
-  "num_scoring_users": 34332,
+  "rank": 3706,
+  "popularity": 2844,
+  "num_list_users": 64541,
+  "num_scoring_users": 34358,
   "nsfw": "white",
   "created_at": "2006-04-15T05:13:57+00:00",
-  "updated_at": "2023-01-25T09:26:37+00:00",
+  "updated_at": "2024-11-11T22:04:12+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -47,10 +47,6 @@
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 31,
-      "name": "Super Power"
     }
   ],
   "num_episodes": 1,

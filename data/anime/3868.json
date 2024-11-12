@@ -18,16 +18,20 @@
   "end_date": "1990-05-19",
   "synopsis": "A theatrical re-edit/summary of the TV series. Some of the voice actors were changed (eg. Oscar is played by Keiko Toda instead of re-using the original audio by Reiko Tajima).",
   "mean": 6.86,
-  "rank": 4957,
-  "popularity": 9620,
-  "num_list_users": 3818,
-  "num_scoring_users": 866,
+  "rank": 4994,
+  "popularity": 9622,
+  "num_list_users": 3823,
+  "num_scoring_users": 867,
   "nsfw": "white",
   "created_at": "2008-02-04T16:02:52+00:00",
-  "updated_at": "2022-03-30T06:52:02+00:00",
+  "updated_at": "2024-11-08T02:17:04+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 81,
+      "name": "Crossdressing"
+    },
     {
       "id": 8,
       "name": "Drama"
@@ -35,6 +39,10 @@
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
     },
     {
       "id": 22,
