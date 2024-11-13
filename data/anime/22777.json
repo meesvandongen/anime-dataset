@@ -19,13 +19,13 @@
   "end_date": "2015-06-28",
   "synopsis": "Remastered version of the Majin Buu saga that adheres more to the manga's story.",
   "mean": 7.7,
-  "rank": 1270,
+  "rank": 1280,
   "popularity": 1256,
-  "num_list_users": 199678,
-  "num_scoring_users": 114888,
+  "num_list_users": 199901,
+  "num_scoring_users": 115006,
   "nsfw": "white",
   "created_at": "2014-02-19T23:14:22+00:00",
-  "updated_at": "2022-04-17T13:53:18+00:00",
+  "updated_at": "2024-11-11T22:01:33+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -52,10 +52,6 @@
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 31,
-      "name": "Super Power"
     }
   ],
   "num_episodes": 61,

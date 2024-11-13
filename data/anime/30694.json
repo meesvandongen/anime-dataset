@@ -2,8 +2,8 @@
   "id": 30694,
   "title": "Dragon Ball Super",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/74606.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/7/74606l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -20,11 +20,11 @@
   "mean": 7.45,
   "rank": 2127,
   "popularity": 217,
-  "num_list_users": 855789,
-  "num_scoring_users": 550197,
+  "num_list_users": 856479,
+  "num_scoring_users": 550660,
   "nsfw": "white",
   "created_at": "2015-04-28T23:15:24+00:00",
-  "updated_at": "2023-12-20T22:31:18+00:00",
+  "updated_at": "2024-11-11T22:04:35+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -51,10 +51,6 @@
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 31,
-      "name": "Super Power"
     }
   ],
   "num_episodes": 131,
