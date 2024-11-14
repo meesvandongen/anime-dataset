@@ -1,0 +1,43 @@
+{
+  "id": 60261,
+  "title": "Itsudemo Futari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1684/146418.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1684/146418l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "いつでもふたり"
+  },
+  "start_date": "2024-10-30",
+  "end_date": "2024-10-30",
+  "synopsis": "Music video for the song Itsudemo Futari by Aya Shimazu.",
+  "popularity": 27448,
+  "num_list_users": 38,
+  "num_scoring_users": 23,
+  "nsfw": "white",
+  "created_at": "2024-11-08T06:26:23+00:00",
+  "updated_at": "2024-11-08T06:26:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 310,
+  "rating": "g",
+  "studios": []
+}

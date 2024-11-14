@@ -18,21 +18,17 @@
   "mean": 8.14,
   "rank": 465,
   "popularity": 82,
-  "num_list_users": 1511506,
-  "num_scoring_users": 915088,
+  "num_list_users": 1512982,
+  "num_scoring_users": 916057,
   "nsfw": "white",
   "created_at": "2018-03-07T06:14:23+00:00",
-  "updated_at": "2023-11-13T09:11:37+00:00",
+  "updated_at": "2024-11-11T21:28:25+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 2,
-      "name": "Adventure"
     },
     {
       "id": 4,

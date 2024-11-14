@@ -1,0 +1,57 @@
+{
+  "id": 59189,
+  "title": "Sentai Daishikkaku 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1235/146419.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1235/146419l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Ranger Reject Season 2"
+    ],
+    "en": "Go! Go! Loser Ranger! Season 2",
+    "ja": "戦隊大失格 2nd Season"
+  },
+  "start_date": "2025-04",
+  "synopsis": "Second season of Sentai Daishikkaku.",
+  "popularity": 5303,
+  "num_list_users": 17626,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-06-30T09:19:44+00:00",
+  "updated_at": "2024-11-08T09:20:29+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2009,
+      "name": "Yostar Pictures"
+    }
+  ]
+}
