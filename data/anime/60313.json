@@ -1,0 +1,61 @@
+{
+  "id": 60313,
+  "title": "Naruheso-kun Pilot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1901/146537.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1901/146537l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "なるへそくん"
+  },
+  "start_date": "1999-11-21",
+  "end_date": "1999-11-21",
+  "synopsis": "A pilot film for the manga Naruheso-kun by Aooni Yamane. It was included with the Eiken TV Anime Shudaika Taizenshuu LD and DVD.",
+  "rank": 20167,
+  "popularity": 27527,
+  "num_list_users": 14,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-11-17T22:24:09+00:00",
+  "updated_at": "2024-11-17T22:24:09+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1999,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 150,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 489,
+      "name": "TCJ"
+    }
+  ]
+}

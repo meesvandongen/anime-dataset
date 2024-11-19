@@ -6,21 +6,25 @@
     "large": "https://cdn.myanimelist.net/images/anime/6/89762l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Komaneko Short Movie 2021",
+      "Komaneko's Season's Greetings 2021",
+      "dwarf Greeting Movie 2022: Mogu & Perol"
+    ],
     "en": "",
     "ja": "Season's Greetings from dwarf"
   },
   "start_date": "2016-12-20",
-  "end_date": "2019-12-24",
-  "synopsis": "Shorts celebrating the new 2017 and 2019 year and holidays, released by the animation studio dwarf.",
-  "mean": 5.62,
-  "rank": 11575,
-  "popularity": 19305,
-  "num_list_users": 299,
-  "num_scoring_users": 119,
+  "end_date": "2022-12-24",
+  "synopsis": "Shorts celebrating the new 2017, 2019, 2021, and 2022 year and holidays, released by the animation studio dwarf.",
+  "mean": 5.63,
+  "rank": 11523,
+  "popularity": 17707,
+  "num_list_users": 414,
+  "num_scoring_users": 162,
   "nsfw": "white",
   "created_at": "2017-12-28T22:10:14+00:00",
-  "updated_at": "2020-03-25T06:03:53+00:00",
+  "updated_at": "2024-11-14T10:57:06+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -29,7 +33,7 @@
       "name": "Kids"
     }
   ],
-  "num_episodes": 2,
+  "num_episodes": 4,
   "start_season": {
     "year": 2016,
     "season": "fall"
