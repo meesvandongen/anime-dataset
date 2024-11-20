@@ -13,8 +13,8 @@
   "start_date": "2023-11-10",
   "end_date": "2023-12-29",
   "synopsis": "",
-  "rank": 16077,
-  "popularity": 23457,
+  "rank": 18586,
+  "popularity": 23526,
   "num_list_users": 108,
   "num_scoring_users": 14,
   "nsfw": "white",
@@ -51,5 +51,10 @@
   "source": "original",
   "average_episode_duration": 760,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 406,
+      "name": "Asahi Production"
+    }
+  ]
 }

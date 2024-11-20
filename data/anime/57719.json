@@ -2,8 +2,8 @@
   "id": 57719,
   "title": "Akuyaku Reijou Tensei Ojisan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1021/144577.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1021/144577l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1255/146484.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1255/146484l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,14 +13,14 @@
     "en": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
     "ja": "悪役令嬢転生おじさん"
   },
-  "start_date": "2025-01",
+  "start_date": "2025-01-10",
   "synopsis": "In his previous life in modern-day Japan, he was Kenzaburou Tondabayashi, a 52-year-old civil servant—and now he's the villainess! Reborn as Grace Auvergne, the drill-haired villainess of an otome game his daughter used to play, Kenzaburou is quite confused.\n\nFrom the little information he possesses, Kenzaburou knows he should be a haughty noble girl, but the disciplined older man is simply unable to act in such a manner. His calm and kind aura leads him to befriend the heroine and further endear him to the student body as the pinnacle of elegance. As he tries to keep the story on track, Kenzaburou will have to draw on his years of experience in the workforce, his perfect Japanese manners, and his family-oriented morals to fit in with the fellow kids.\n\n[Written by MAL Rewrite]",
-  "popularity": 7007,
-  "num_list_users": 8811,
+  "popularity": 6836,
+  "num_list_users": 9361,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-01-03T20:19:16+00:00",
-  "updated_at": "2024-11-13T00:43:14+00:00",
+  "updated_at": "2024-11-14T09:04:30+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -53,6 +53,10 @@
   "start_season": {
     "year": 2025,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:26"
   },
   "source": "manga",
   "average_episode_duration": 0,

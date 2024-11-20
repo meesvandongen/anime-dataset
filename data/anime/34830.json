@@ -2,8 +2,8 @@
   "id": 34830,
   "title": "Dance with Devils: Fortuna",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/86240.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/2/86240l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/86240.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/2/86240l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,20 +14,16 @@
   "end_date": "2017-11-04",
   "synopsis": "Ritsuka Tachibana. She lives a calm and unchanging life. Ritsuka's older brother Lindo returns from studying abroad in the United Kingdom. Shikou Academy student council president Rem Kaginuki calls on the girl, and she begins having mysterious encounters with the student council members. Her life changed a little from that day, but Ritsuka expected nothing more. \n\nHowever, she comes home to find her mother collapsed with suspicious hooded men nearby. They were not human but devils, vampires, and exorcists seeking the Forbidden Grimoire. Ritsuka's former daily life crumbles around her, and she finds herself slowly becoming attracted to Rem, who helps her in her predicament. On the other hand, confusion deepens with regard to her brother who carries a secret. Ritsuka is unsure what path to choose as she finds herself at the center of a love story.\n\n(Source: ANN)",
   "mean": 6.27,
-  "rank": 8353,
-  "popularity": 5075,
-  "num_list_users": 19812,
-  "num_scoring_users": 3035,
+  "rank": 8370,
+  "popularity": 5078,
+  "num_list_users": 19814,
+  "num_scoring_users": 3036,
   "nsfw": "white",
   "created_at": "2017-01-29T08:24:15+00:00",
-  "updated_at": "2022-10-31T10:15:27+00:00",
+  "updated_at": "2024-11-16T08:35:53+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 10,
-      "name": "Fantasy"
-    },
     {
       "id": 6,
       "name": "Mythology"
@@ -43,6 +39,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     },
     {
       "id": 32,

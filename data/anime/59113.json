@@ -1,0 +1,50 @@
+{
+  "id": 59113,
+  "title": "Farmagia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1806/146496.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1806/146496l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "FARMAGIA（ファーマギア）"
+  },
+  "start_date": "2025-01-10",
+  "synopsis": "Anime Project based on the game of the same name.\n\nAfter the death of Felicidad's ruler, the despotic overlord Glaza seizes power and imposes an oppressive regime on the world's inhabitants. As Ten and his fellow Farmagia friends, command an army of monsters as you explore and battle across the treacherous lands of the Underworld, collecting resources to take back to your farm. There you'll upgrade your skills as a Farmagia, growing more monsters to nurture, and developing their new traits to aid your battle against Glaza and the Oración Seis.\n\n(Source: Marvelous USA)",
+  "popularity": 14206,
+  "num_list_users": 950,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-06-20T15:12:16+00:00",
+  "updated_at": "2024-11-14T18:13:04+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "22:30"
+  },
+  "source": "game",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 397,
+      "name": "Bridge"
+    }
+  ]
+}

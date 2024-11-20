@@ -2,8 +2,8 @@
   "id": 37719,
   "title": "High School DxD Hero: Taiikukan-ura no Holy",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1960/91884.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1960/91884l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1960/91884.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1960/91884l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2018-04-10",
   "synopsis": "Alternative version of final four episodes of High School DxD BorN.\n",
   "mean": 6.95,
-  "rank": 4545,
-  "popularity": 2136,
-  "num_list_users": 102927,
-  "num_scoring_users": 52881,
+  "rank": 4559,
+  "popularity": 2135,
+  "num_list_users": 103041,
+  "num_scoring_users": 52934,
   "nsfw": "gray",
   "created_at": "2018-04-10T23:32:54+00:00",
-  "updated_at": "2024-05-02T12:18:36+00:00",
+  "updated_at": "2024-11-16T03:07:32+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -37,10 +37,6 @@
       "name": "Ecchi"
     },
     {
-      "id": 10,
-      "name": "Fantasy"
-    },
-    {
       "id": 35,
       "name": "Harem"
     },
@@ -55,6 +51,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

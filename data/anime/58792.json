@@ -1,0 +1,46 @@
+{
+  "id": 58792,
+  "title": "Jantama 5-shuunen Kinen PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1557/142855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1557/142855l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kawaranai Mono"
+    ],
+    "en": "Mahjong Soul 5th Anniversary PV",
+    "ja": "「雀魂」５周年記念ムービー"
+  },
+  "start_date": "2024-04-25",
+  "end_date": "2024-04-25",
+  "synopsis": "A special animation made to celebrate Mahjong Soul's 5th anniversary.",
+  "popularity": 27314,
+  "num_list_users": 53,
+  "num_scoring_users": 31,
+  "nsfw": "white",
+  "created_at": "2024-05-03T17:23:12+00:00",
+  "updated_at": "2024-11-19T09:21:38+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 208,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2898,
+      "name": "Manaa Animation"
+    }
+  ]
+}
