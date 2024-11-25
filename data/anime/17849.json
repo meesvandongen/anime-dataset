@@ -2,8 +2,8 @@
   "id": 17849,
   "title": "Sparrow's Hotel",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1185/112171.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1185/112171l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1185/112171.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1185/112171l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2013-06-25",
   "synopsis": "The comedy revolves around Sayuri Satou, the new front desk worker at the Sparrow's Hotel—\"the closest hotel to Heaven\". Her special features are her large breasts and her skills of assassination. She takes down people who cause trouble in the business hotel with those skills, but she is in fact very unskilled when talking to the male hotel manager, and often bites her tongue.\n\n(Source: ANN)",
   "mean": 5.43,
-  "rank": 12149,
-  "popularity": 6492,
-  "num_list_users": 10553,
+  "rank": 12165,
+  "popularity": 6496,
+  "num_list_users": 10555,
   "num_scoring_users": 5358,
   "nsfw": "white",
   "created_at": "2013-03-16T10:46:04+00:00",
-  "updated_at": "2022-05-14T05:58:05+00:00",
+  "updated_at": "2024-11-23T02:56:59+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
     }
   ],
   "num_episodes": 12,

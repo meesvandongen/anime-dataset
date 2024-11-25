@@ -2,8 +2,8 @@
   "id": 7858,
   "title": "Sora no Otoshimono: Project Pink",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/19135.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/2/19135l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/19135.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/19135l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -19,13 +19,13 @@
   "end_date": "2010-09-09",
   "synopsis": "The gang goes to an indoor swimming pool for some fun in the sun.  As expected, all hell breaks loose when Tomoki goes on one of his perverted missions.\n\nMeanwhile, Nymph is having some issues with the loss of her master and considers asking Tomoki to be her replacement master.\n\nThis episode was not aired on TV because it was deemed too dangerous...",
   "mean": 7.35,
-  "rank": 2516,
-  "popularity": 2039,
-  "num_list_users": 110926,
-  "num_scoring_users": 60664,
+  "rank": 2517,
+  "popularity": 2041,
+  "num_list_users": 110959,
+  "num_scoring_users": 60681,
   "nsfw": "gray",
   "created_at": "2010-01-12T12:14:02+00:00",
-  "updated_at": "2023-05-13T09:14:07+00:00",
+  "updated_at": "2024-11-22T09:00:02+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
       "name": "Ecchi"
     },
     {
-      "id": 10,
-      "name": "Fantasy"
-    },
-    {
       "id": 35,
       "name": "Harem"
     },
@@ -52,6 +48,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

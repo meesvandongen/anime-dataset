@@ -19,13 +19,13 @@
   "end_date": "2011-06-25",
   "synopsis": "Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc.",
   "mean": 7.53,
-  "rank": 1793,
-  "popularity": 1749,
-  "num_list_users": 135409,
-  "num_scoring_users": 72315,
+  "rank": 1797,
+  "popularity": 1751,
+  "num_list_users": 135445,
+  "num_scoring_users": 72336,
   "nsfw": "gray",
   "created_at": "2010-11-07T14:21:14+00:00",
-  "updated_at": "2023-05-13T09:15:51+00:00",
+  "updated_at": "2024-11-22T09:00:17+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -36,10 +36,6 @@
     {
       "id": 9,
       "name": "Ecchi"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 35,
@@ -56,6 +52,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,
