@@ -12,14 +12,14 @@
     "en": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
     "ja": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います"
   },
-  "start_date": "2025-01",
+  "start_date": "2025-01-11",
   "synopsis": "Alina Clover signed up to be a receptionist for the Adventurers Guild thinking it would be her ticket to the good life. Unfortunately, her dream gig turns into an overtime nightmare whenever adventurers get stuck clearing a dungeon. To save herself from paperwork, Alina takes to beating down monsters herself to solve the problem! Now she just needs to keep her activities a secret...\n\n(Source: Yen Press)",
-  "popularity": 5413,
-  "num_list_users": 16739,
+  "popularity": 5313,
+  "num_list_users": 17531,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-07-15T13:56:24+00:00",
-  "updated_at": "2024-08-02T12:02:06+00:00",
+  "updated_at": "2024-11-23T16:55:38+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -44,6 +44,10 @@
   "start_season": {
     "year": 2025,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

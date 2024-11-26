@@ -1,0 +1,50 @@
+{
+  "id": 59490,
+  "title": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1855/146605.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1855/146605l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kaiju No. 8: Hoshina's Day Off"
+    ],
+    "en": "Hoshina's Day Off",
+    "ja": "怪獣8号 保科の休日"
+  },
+  "start_date": "2025-03-28",
+  "end_date": "2025-03-28",
+  "synopsis": "A day off… After spending so long training, Reno has forgotten what he’s supposed to do with free time. But when he sees that Hoshina is up to something, he goes on a mission to tail him with Iharu!\n\n(Source: Official site)",
+  "popularity": 4713,
+  "num_list_users": 23669,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2024-08-05T19:35:28+00:00",
+  "updated_at": "2024-11-22T03:22:24+00:00",
+  "media_type": "special",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 10,
+      "name": "Production I.G"
+    }
+  ]
+}

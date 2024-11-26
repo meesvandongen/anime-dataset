@@ -12,17 +12,17 @@
     "en": "The Untold Story of Pecharunt",
     "ja": "知られざる「モモワロウ物語」"
   },
-  "start_date": "2024-01-15",
+  "start_date": "2024-01-11",
   "end_date": "2024-01-15",
   "synopsis": "Signboards depicting one of Kitakami's oldest folktales are scattered throughout the land—yet none of them make mention of Pecharunt. What could be the true tale of this Mythical Pokémon?​\n\n(Source: YouTube)",
-  "mean": 6.35,
-  "rank": 7877,
-  "popularity": 18201,
-  "num_list_users": 377,
-  "num_scoring_users": 161,
+  "mean": 6.34,
+  "rank": 7942,
+  "popularity": 18168,
+  "num_list_users": 381,
+  "num_scoring_users": 162,
   "nsfw": "white",
   "created_at": "2024-01-17T13:06:44+00:00",
-  "updated_at": "2024-01-30T09:02:35+00:00",
+  "updated_at": "2024-11-25T11:03:50+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -35,13 +35,13 @@
       "name": "Kids"
     }
   ],
-  "num_episodes": 1,
+  "num_episodes": 2,
   "start_season": {
     "year": 2024,
     "season": "winter"
   },
   "source": "game",
-  "average_episode_duration": 300,
+  "average_episode_duration": 156,
   "rating": "g",
   "studios": [
     {

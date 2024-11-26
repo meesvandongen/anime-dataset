@@ -1,0 +1,56 @@
+{
+  "id": 60357,
+  "title": "Maarui Kanojo to Zannen na Kareshi 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1050/146614.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1050/146614l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "まぁるい彼女と残念な彼氏 第2期"
+  },
+  "start_date": "2024-11-16",
+  "end_date": "2024-12-21",
+  "synopsis": "Second season of Maarui Kanojo to Zannen na Kareshi.",
+  "rank": 17052,
+  "popularity": 22801,
+  "num_list_users": 127,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2024-11-22T21:38:25+00:00",
+  "updated_at": "2024-11-23T11:02:17+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 690,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2983,
+      "name": "Imageworks Studio"
+    }
+  ]
+}
