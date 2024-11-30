@@ -2,8 +2,8 @@
   "id": 3989,
   "title": "Suna no Bara: Yuki no Mokushiroku",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1310/112862.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1310/112862l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1310/112862.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1310/112862l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,19 +17,23 @@
   "end_date": "1993-04-25",
   "synopsis": "Mariko Rosebank leads a team of all-female anti-terrorist mercenaries, named C.A.T. This all-woman team is sent to guard a meeting of world leaders against a terrorist attack. \n\n(Source: AniDB) ",
   "mean": 6.26,
-  "rank": 8421,
-  "popularity": 8187,
-  "num_list_users": 5994,
-  "num_scoring_users": 1539,
+  "rank": 8409,
+  "popularity": 8179,
+  "num_list_users": 6016,
+  "num_scoring_users": 1545,
   "nsfw": "white",
   "created_at": "2008-02-23T02:22:09+00:00",
-  "updated_at": "2022-04-03T06:18:09+00:00",
+  "updated_at": "2024-11-25T14:54:25+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 1,
