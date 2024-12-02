@@ -14,15 +14,19 @@
   "end_date": "2017-07-02",
   "synopsis": "A special animated commercial to celebrate the release of the manga's fifth volume. The full length version of the commercial was released on Kodansha's official YouTube channel the day after the short version was released on TV.\n\nIt features the anthropomorphized cells of a human body, with the protagonist being a red blood cell named AE-3803. ",
   "mean": 6.82,
-  "popularity": 4909,
-  "num_list_users": 21592,
+  "popularity": 4912,
+  "num_list_users": 21593,
   "num_scoring_users": 8072,
   "nsfw": "white",
   "created_at": "2017-07-02T22:32:42+00:00",
-  "updated_at": "2023-12-26T18:06:47+00:00",
+  "updated_at": "2024-12-01T06:36:23+00:00",
   "media_type": "cm",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
     {
       "id": 56,
       "name": "Educational"
@@ -34,6 +38,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,

@@ -11,16 +11,17 @@
     "ja": "Duel Masters LOST ～追憶の水晶～"
   },
   "start_date": "2024-10-04",
+  "end_date": "2024-11-29",
   "synopsis": "",
-  "rank": 20118,
-  "popularity": 11181,
-  "num_list_users": 2362,
-  "num_scoring_users": 93,
+  "rank": 20143,
+  "popularity": 11012,
+  "num_list_users": 2492,
+  "num_scoring_users": 110,
   "nsfw": "gray",
   "created_at": "2024-03-01T13:45:17+00:00",
-  "updated_at": "2024-08-02T12:10:07+00:00",
+  "updated_at": "2024-11-29T22:43:13+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -35,14 +36,14 @@
       "name": "Supernatural"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 4,
   "start_season": {
     "year": 2024,
     "season": "fall"
   },
   "source": "manga",
   "average_episode_duration": 1380,
-  "rating": "g",
+  "rating": "r",
   "studios": [
     {
       "id": 7,

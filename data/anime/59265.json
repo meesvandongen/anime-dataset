@@ -2,8 +2,8 @@
   "id": 59265,
   "title": "Magic Maker: Isekai Mahou no Tsukurikata",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1402/146132.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1402/146132l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1802/146725.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1802/146725l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "",
     "ja": "マジック・メイカー －異世界魔法の作り方－"
   },
-  "start_date": "2025-01",
+  "start_date": "2025-01-09",
   "synopsis": "A man who was thirty years old and wanted to use magic died unexpectedly, and when he woke up, he was reborn in another world. Named Theon, he had high hopes that there would be magic in another world, but there was no magic in that world.\n\nTheon became depressed and lethargic, but an event led him to discover the existence of magic.\n\n\"That's right. If there is no magic, then I will make it myself.\"\n\nWith this in mind, Theon began researching magic from that day onwards. Eventually, through the spread of a disease that can only be cured by magic, and a chance encounter with an enemy that can only be defeated by magic, Theon becomes a hero who saves the world. This is the story of a simple magic fool who, while tossed about by fate, overcomes it with the power of magic and an indomitable fighting spirit, ultimately propagating magic to the people.\n\n(Source: Shousetsuka ni Narou, translated)",
-  "popularity": 9486,
-  "num_list_users": 4002,
+  "popularity": 9260,
+  "num_list_users": 4317,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-07-10T09:30:55+00:00",
-  "updated_at": "2024-10-18T13:07:42+00:00",
+  "updated_at": "2024-11-29T10:11:51+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2025,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

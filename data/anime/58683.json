@@ -1,0 +1,43 @@
+{
+  "id": 58683,
+  "title": "Bubbles",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1152/146694.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1152/146694l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "선재 곡"
+  },
+  "start_date": "2024-04-04",
+  "end_date": "2024-04-04",
+  "synopsis": "Official music video for the song Bubbles by snzae.",
+  "popularity": 27583,
+  "num_list_users": 25,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2024-04-17T04:39:19+00:00",
+  "updated_at": "2024-11-28T09:53:01+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}
