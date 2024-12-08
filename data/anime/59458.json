@@ -12,8 +12,8 @@
   },
   "start_date": "2024-12-21",
   "synopsis": "Sequel to Duel Masters LOST: Tsuioku no Suishou.",
-  "popularity": 19871,
-  "num_list_users": 272,
+  "popularity": 19415,
+  "num_list_users": 298,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-08-02T12:23:35+00:00",
@@ -41,6 +41,7 @@
   },
   "source": "manga",
   "average_episode_duration": 0,
+  "rating": "r",
   "studios": [
     {
       "id": 7,

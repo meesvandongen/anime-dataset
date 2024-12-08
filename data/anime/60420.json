@@ -2,24 +2,27 @@
   "id": 60420,
   "title": "Cang Yuan Tu 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1376/146753.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1376/146753l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1530/146755.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1530/146755l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Azure Legacy"
+    ],
     "en": "The Demon Hunter 2nd Season",
     "ja": "沧元图 第二季"
   },
   "start_date": "2024-12-06",
   "synopsis": "The second season of Cang Yuan Tu.",
-  "popularity": 23500,
-  "num_list_users": 111,
-  "num_scoring_users": 3,
+  "rank": 19467,
+  "popularity": 19228,
+  "num_list_users": 309,
+  "num_scoring_users": 29,
   "nsfw": "white",
   "created_at": "2024-11-30T17:19:44+00:00",
   "updated_at": "2024-12-01T14:23:59+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -50,5 +53,14 @@
   "source": "web_novel",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2526,
+      "name": "Shenman Entertainment"
+    },
+    {
+      "id": 2617,
+      "name": "Tianshi Wenhua"
+    }
+  ]
 }

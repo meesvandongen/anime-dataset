@@ -1,0 +1,43 @@
+{
+  "id": 60468,
+  "title": "Gaming Party Xmas",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1483/146848.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1483/146848l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Gaming Party Xmas"
+  },
+  "start_date": "2020-11-27",
+  "end_date": "2020-11-27",
+  "synopsis": "Music video for the song Gaming Party Xmas by Zettakun.",
+  "popularity": 27591,
+  "num_list_users": 30,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2024-12-06T06:39:55+00:00",
+  "updated_at": "2024-12-06T06:39:55+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 222,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": 60441,
+  "title": "Hana yori mo Hana wo Sakaseru Tsuchi ni Nare",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1478/146800.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1478/146800l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "花よりも花を咲かせる土になれ"
+  },
+  "start_date": "2024-12-01",
+  "end_date": "2024-12-01",
+  "synopsis": "Music video for the song Hana yori mo Hana wo Sakaseru Tsuchi ni Nare by Berry Goodman, that was featured on NHK's Minna no Uta program.",
+  "popularity": 27580,
+  "num_list_users": 33,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2024-12-03T05:00:39+00:00",
+  "updated_at": "2024-12-03T05:00:39+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

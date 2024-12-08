@@ -1,26 +1,28 @@
 {
   "id": 53907,
-  "title": "Tom to Jerry (ONA)",
+  "title": "Tom to Jerry Gokko",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1688/135721.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1688/135721l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1653/146834.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1653/146834l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Tom and Jerry (ONA)",
-    "ja": "とむとじぇりー"
+    "synonyms": [
+      "Tom and Jerry Play"
+    ],
+    "en": "Tom and Jerry",
+    "ja": "とむとじぇりーごっこ"
   },
   "start_date": "2022-11-11",
   "synopsis": "To celebrate \"Cheese Day,\" (November 11 in Japan), Cartoon Network Japan aired an anime spin on Tom and Jerry that combines the fast-paced humor of the original with a cute, \"pop\" worldview. The pair are joined by the diaper-wearing Tuffy Mouse, another recurring character from the classic cartoon.\n\n(Source: Crunchyroll)",
   "mean": 6.34,
-  "rank": 7948,
-  "popularity": 13098,
-  "num_list_users": 1298,
+  "rank": 7954,
+  "popularity": 13100,
+  "num_list_users": 1299,
   "num_scoring_users": 515,
   "nsfw": "white",
   "created_at": "2022-12-20T19:54:23+00:00",
-  "updated_at": "2024-06-16T19:05:05+00:00",
-  "media_type": "ona",
+  "updated_at": "2024-12-06T18:32:05+00:00",
+  "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {

@@ -1,0 +1,53 @@
+{
+  "id": 60440,
+  "title": "Youkan March",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1433/146799.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1433/146799l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ようかんマーチ"
+  },
+  "start_date": "2024-12-01",
+  "end_date": "2024-12-01",
+  "synopsis": "Music video for the song Youkan March by Kaori Mizumori, that was featured on NHK's Minna no Uta program.",
+  "popularity": 27582,
+  "num_list_users": 32,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2024-12-03T04:55:39+00:00",
+  "updated_at": "2024-12-03T04:55:39+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}
