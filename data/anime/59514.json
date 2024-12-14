@@ -2,22 +2,22 @@
   "id": 59514,
   "title": "Sentai Red Isekai de Boukensha ni Naru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1964/144703.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1964/144703l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1390/146918.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1390/146918l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "The Red Ranger Becomes an Adventurer in Another World",
     "ja": "戦隊レッド 異世界で冒険者になる"
   },
-  "start_date": "2025-01",
+  "start_date": "2025-01-12",
   "synopsis": "In the final battle against the evil Exterminators, Tougo Asagaki, a power ranger, traded his life for the enemy's. It seemed like everything was over, but suddenly he found himself in another world! He becomes an adventurer, transforming into Kizuna Red, and continues fighting to save people in trouble! Here he meets a young Wizard named Idola and his journey in this new world begins!\n\n(Source: MU)",
-  "popularity": 8030,
-  "num_list_users": 6326,
-  "num_scoring_users": 1,
+  "popularity": 7667,
+  "num_list_users": 7096,
+  "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2024-08-08T15:14:03+00:00",
-  "updated_at": "2024-12-02T03:25:10+00:00",
+  "updated_at": "2024-12-11T15:41:00+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -50,6 +50,10 @@
   "start_season": {
     "year": 2025,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
   },
   "source": "manga",
   "average_episode_duration": 0,

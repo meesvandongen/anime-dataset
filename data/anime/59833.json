@@ -1,0 +1,55 @@
+{
+  "id": 59833,
+  "title": "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1482/146928.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1482/146928l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "KonoSuba: God's Blessing on This Wonderful World! 3 OVA",
+    "ja": "この素晴らしい世界に祝福を！３ーBONUS STAGEー"
+  },
+  "start_date": "2025-04-25",
+  "end_date": "2025-04-25",
+  "synopsis": "Original video anime episodes of Kono Subarashii Sekai ni Shukufuku wo!.",
+  "popularity": 4476,
+  "num_list_users": 26799,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-09-15T08:35:25+00:00",
+  "updated_at": "2024-12-12T23:13:37+00:00",
+  "media_type": "ova",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

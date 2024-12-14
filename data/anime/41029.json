@@ -13,11 +13,11 @@
   "start_date": "2023-05-26",
   "end_date": "2023-05-26",
   "synopsis": "On their way home from high school, Tamahi and some classmates are shocked as they witness someone fall from the rooftop of nearby apartment. Panicked and confused, they rush to the building only to find it deserted. As Tamahi wonders about this, she has the uneasy feeling they are being watched. What is the strange presence around her...\n\n(Source: HIDIVE)",
-  "mean": 5.4,
-  "rank": 12273,
-  "popularity": 7506,
-  "num_list_users": 7451,
-  "num_scoring_users": 994,
+  "mean": 5.39,
+  "rank": 12315,
+  "popularity": 7500,
+  "num_list_users": 7465,
+  "num_scoring_users": 1005,
   "nsfw": "white",
   "created_at": "2020-01-10T04:16:33+00:00",
   "updated_at": "2023-05-24T03:30:55+00:00",
@@ -45,5 +45,10 @@
   "source": "original",
   "average_episode_duration": 2872,
   "rating": "r",
-  "studios": []
+  "studios": [
+    {
+      "id": 1930,
+      "name": "Zelico Film"
+    }
+  ]
 }
