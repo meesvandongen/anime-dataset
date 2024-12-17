@@ -16,10 +16,10 @@
   "end_date": "1979-03-28",
   "synopsis": "Each episode of this series tells the story of a famous fairy tale from all around the world. Some of them are adapted from famous books such as \"The Iliad\".\n\n(Source: ANN)",
   "mean": 6.99,
-  "rank": 4385,
+  "rank": 4386,
   "popularity": 11158,
-  "num_list_users": 2397,
-  "num_scoring_users": 826,
+  "num_list_users": 2403,
+  "num_scoring_users": 827,
   "nsfw": "white",
   "created_at": "2009-03-25T04:32:11+00:00",
   "updated_at": "2021-11-25T10:12:42+00:00",
@@ -47,6 +47,10 @@
   "start_season": {
     "year": 1976,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "19:00"
   },
   "average_episode_duration": 1500,
   "rating": "g",
