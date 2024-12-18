@@ -2,8 +2,8 @@
   "id": 532,
   "title": "Bishoujo Senshi Sailor Moon S",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1077/92346.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1077/92346l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1077/92346.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1077/92346l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,10 +16,10 @@
   "end_date": "1995-02-25",
   "synopsis": "The Sailor Guardians and their leader, Sailor Moon, continue their duty of protecting Earth from any who would dare cause it harm. However, Sailor Mars' apocalyptic visions and the appearance of two new guardians—Sailor Neptune and Sailor Uranus—signal that a new battle will soon begin.\n \nThese newcomers seek three Talismans that are inside the Pure Heart Crystals within human beings. Once brought together, these objects form The Holy Grail, a magical relic with extraordinary abilities. They want to use the Grail to save the world, but an evil organization known as the Death Busters seeks its power for their own desires.\n\nThe removal of a Talisman from a person's Heart Crystal will cause their death, something that Uranus and Neptune see as a necessary sacrifice to form the Grail, while Sailor Moon and her group deem it unforgivable. But can any sacrifice be worth the cost if it saves the lives of the entire human race?\n\n[Written by MAL Rewrite]\n",
   "mean": 7.9,
-  "rank": 816,
-  "popularity": 1609,
-  "num_list_users": 151657,
-  "num_scoring_users": 80403,
+  "rank": 809,
+  "popularity": 1611,
+  "num_list_users": 151723,
+  "num_scoring_users": 80437,
   "nsfw": "white",
   "created_at": "2006-01-05T17:04:19+00:00",
   "updated_at": "2024-10-05T16:33:54+00:00",
@@ -43,6 +43,10 @@
   "start_season": {
     "year": 1994,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "19:00"
   },
   "source": "manga",
   "average_episode_duration": 1440,

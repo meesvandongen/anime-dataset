@@ -16,8 +16,8 @@
   "end_date": "1991-09-28",
   "synopsis": "The adventure of Hepoi, a hero of heporis, Ryuuto, the prince of Dragonia, Miiya Miiya a fairy looks like a cat, and Bunzaemon, a merchant, to defeat Dracunes, the King of dark side castles.",
   "mean": 6.42,
-  "rank": 7526,
-  "popularity": 12907,
+  "rank": 7525,
+  "popularity": 12914,
   "num_list_users": 1381,
   "num_scoring_users": 583,
   "nsfw": "white",
@@ -39,6 +39,10 @@
   "start_season": {
     "year": 1990,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:00"
   },
   "average_episode_duration": 1500,
   "studios": [
