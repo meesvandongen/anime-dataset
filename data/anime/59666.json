@@ -11,17 +11,18 @@
     "ja": "ばなにゃ あらうんど ざ わーるど"
   },
   "start_date": "2024-10-21",
+  "end_date": "2024-12-16",
   "synopsis": "Third season of Bananya.",
-  "mean": 6.55,
-  "rank": 6725,
-  "popularity": 11706,
-  "num_list_users": 2037,
-  "num_scoring_users": 267,
+  "mean": 6.57,
+  "rank": 6597,
+  "popularity": 11621,
+  "num_list_users": 2102,
+  "num_scoring_users": 441,
   "nsfw": "white",
   "created_at": "2024-08-27T08:50:17+00:00",
-  "updated_at": "2024-10-14T21:06:08+00:00",
+  "updated_at": "2024-12-17T23:33:25+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 51,
@@ -36,7 +37,7 @@
       "name": "Slice of Life"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 13,
   "start_season": {
     "year": 2024,
     "season": "fall"

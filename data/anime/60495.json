@@ -14,8 +14,8 @@
   },
   "start_date": "2025-03-21",
   "synopsis": "",
-  "popularity": 27180,
-  "num_list_users": 63,
+  "popularity": 22204,
+  "num_list_users": 151,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2024-12-10T13:26:37+00:00",
@@ -33,8 +33,13 @@
     "year": 2025,
     "season": "winter"
   },
-  "source": "game",
+  "source": "visual_novel",
   "average_episode_duration": 0,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 1463,
+      "name": "Anime Antenna Iinkai"
+    }
+  ]
 }

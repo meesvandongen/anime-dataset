@@ -1,0 +1,55 @@
+{
+  "id": 60546,
+  "title": "Momose Akira no Hatsukoi Hatanchuu. PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1700/147005.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1700/147005l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "百瀬アキラの初恋破綻中。PV"
+  },
+  "start_date": "2024-12-18",
+  "end_date": "2024-12-18",
+  "synopsis": "Promotional video commemorating the release of the first volume of the Momose Akira no Hatsukoi Hatanchuu. manga.",
+  "popularity": 27683,
+  "num_list_users": 27,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2024-12-19T22:57:30+00:00",
+  "updated_at": "2024-12-19T23:06:21+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Love Status Quo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 52,
+  "rating": "pg_13",
+  "studios": []
+}

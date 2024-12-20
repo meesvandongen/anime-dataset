@@ -1,0 +1,57 @@
+{
+  "id": 60285,
+  "title": "Sakamoto Days Part 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1031/146460.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1031/146460l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "SAKAMOTO DAYS 第２クール"
+  },
+  "start_date": "2025-07",
+  "synopsis": "Second part of Sakamoto Days.",
+  "popularity": 6370,
+  "num_list_users": 11185,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-11-13T03:59:01+00:00",
+  "updated_at": "2024-11-13T04:00:55+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": []
+}
