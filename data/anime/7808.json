@@ -17,8 +17,8 @@
   "end_date": "1980-09-23",
   "synopsis": "Don Quixote, that infinitely popular character, travels the countryside battling windmills and attempting to win the love of his Dulcinea.",
   "mean": 5.7,
-  "rank": 11272,
-  "popularity": 13455,
+  "rank": 11306,
+  "popularity": 13469,
   "num_list_users": 1189,
   "num_scoring_users": 337,
   "nsfw": "white",
@@ -49,6 +49,7 @@
     "year": 1980,
     "season": "spring"
   },
+  "source": "novel",
   "average_episode_duration": 1800,
   "rating": "g",
   "studios": []
