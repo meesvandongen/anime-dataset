@@ -2,8 +2,8 @@
   "id": 22359,
   "title": "Sanzoku no Musume Ronja",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/68125.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/11/68125l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/68125.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/68125l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,10 +17,10 @@
   "end_date": "2015-03-28",
   "synopsis": "The story is about a girl named Ronja who is the daughter of a chief from a tribe of bandits, she lives in a huge castle inside the forest with the bandits. The story follows Ronja as she encounters mystical creatures, making friends with another young child such as herself and experiencing what it is like to live in the forest.",
   "mean": 7.06,
-  "rank": 4050,
-  "popularity": 4134,
-  "num_list_users": 31790,
-  "num_scoring_users": 7382,
+  "rank": 4051,
+  "popularity": 4137,
+  "num_list_users": 31805,
+  "num_scoring_users": 7383,
   "nsfw": "white",
   "created_at": "2014-01-31T07:25:11+00:00",
   "updated_at": "2022-04-10T18:03:39+00:00",
@@ -41,6 +41,10 @@
   "average_episode_duration": 1500,
   "rating": "pg",
   "studios": [
+    {
+      "id": 21,
+      "name": "Studio Ghibli"
+    },
     {
       "id": 1023,
       "name": "Polygon Pictures"
