@@ -1,0 +1,43 @@
+{
+  "id": 60594,
+  "title": "Gaming Party Xmas (maeshima soshi Remix)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1212/147098.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1212/147098l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Gaming Party Xmas (maeshima soshi Remix)"
+  },
+  "start_date": "2021-11-22",
+  "end_date": "2021-11-22",
+  "synopsis": "Music video for the maeshima soshi remix of Gaming Party Xmas by Zettakun.",
+  "popularity": 27666,
+  "num_list_users": 38,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2024-12-22T02:43:15+00:00",
+  "updated_at": "2024-12-22T02:43:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 218,
+  "rating": "g",
+  "studios": []
+}

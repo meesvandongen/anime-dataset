@@ -1,0 +1,53 @@
+{
+  "id": 59354,
+  "title": "Shi Dao Zhe",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1252/144358.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1252/144358l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Arknights' Original Animation: The Daggers' Inheritors",
+    "ja": "拾刀者"
+  },
+  "start_date": "2024-04-27",
+  "end_date": "2024-04-27",
+  "synopsis": "Theresa was assassinated and the Tower of Babel fell. After the nameless soldiers involved in the core assassination mission were eliminated, W's anger was not extinguished yet. Next on the revenge list is a team of Sarkaz mercenaries who provided assistance outside the assassination operation. They were escorting \"something\" and fleeing to the border...\n\nThis is a memory that W has never mentioned.\n\nIt is the epitome of the Sakazi's struggle to survive the long war - the victim will pick up the dagger of the victimizer, and the cycle of destiny will continue.\n\n(Source: Bilibili, translated)",
+  "rank": 13935,
+  "popularity": 27734,
+  "num_list_users": 28,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2024-07-21T22:56:02+00:00",
+  "updated_at": "2024-12-22T17:53:24+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 901,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2652,
+      "name": "Gravity Well"
+    }
+  ]
+}

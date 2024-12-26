@@ -1,0 +1,50 @@
+{
+  "id": 60401,
+  "title": "Uchuujin Muumuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1396/146695.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1396/146695l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "宇宙人ムームー"
+  },
+  "start_date": "2025-04",
+  "synopsis": "A cat-like alien from a distant galaxy, MuuMuu, arrives on Earth. His goal is to learn about home appliance technology on Earth to recover the technology his species has lost. The protagonist, Sakurako, has a typical university life, but everything changes with MuuMuu's arrival! What begins as an unexpected cohabitation quickly turns into a whirlwind of chaotic events. The chemistry between Sakurako and MuuMuu leads to a super-spectacular, appliance-filled, and cat comedy adventure. \n\n(Source: Pony Canyon)",
+  "popularity": 16130,
+  "num_list_users": 579,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-11-28T10:07:16+00:00",
+  "updated_at": "2024-12-25T17:32:05+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

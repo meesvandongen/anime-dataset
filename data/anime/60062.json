@@ -11,15 +11,16 @@
     "ja": "リエラのうた3"
   },
   "start_date": "2024-10-06",
+  "end_date": "2024-12-22",
   "synopsis": "Continuation of Liella no Uta, a weekly animated music segment shown with each Love Live! Superstar!! 3rd Season episode exclusively on the NHK Educational TV (NHK E) broadcast of the TV anime.",
-  "popularity": 16189,
-  "num_list_users": 568,
-  "num_scoring_users": 46,
+  "popularity": 15972,
+  "num_list_users": 601,
+  "num_scoring_users": 105,
   "nsfw": "white",
   "created_at": "2024-10-07T06:34:46+00:00",
-  "updated_at": "2024-10-09T20:04:47+00:00",
+  "updated_at": "2024-12-23T20:03:21+00:00",
   "media_type": "music",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 60,
@@ -30,7 +31,7 @@
       "name": "Music"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2024,
     "season": "fall"
