@@ -18,10 +18,10 @@
   "end_date": "1990-09-08",
   "synopsis": "",
   "mean": 6.47,
-  "rank": 7237,
-  "popularity": 14716,
-  "num_list_users": 843,
-  "num_scoring_users": 181,
+  "rank": 7238,
+  "popularity": 14719,
+  "num_list_users": 847,
+  "num_scoring_users": 182,
   "nsfw": "white",
   "created_at": "2009-08-27T20:55:01+00:00",
   "updated_at": "2022-11-06T09:16:46+00:00",
@@ -57,5 +57,10 @@
   "source": "original",
   "average_episode_duration": 1694,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 14,
+      "name": "Sunrise"
+    }
+  ]
 }
