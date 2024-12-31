@@ -16,13 +16,13 @@
   "end_date": "2016-11-12",
   "synopsis": "The episode is set during a school festival where Shinobu is assigned to write a script and make outfits for her class play. Youko and Alice notice that Shinobu is sleepy every morning and are worried that she might be getting tired of all the work. Will Shinobu be able to successfully complete all her tasks in time?\n\n(Source: MAL News)",
   "mean": 7.51,
-  "rank": 1877,
-  "popularity": 4524,
-  "num_list_users": 26310,
-  "num_scoring_users": 11307,
+  "rank": 1879,
+  "popularity": 4529,
+  "num_list_users": 26321,
+  "num_scoring_users": 11313,
   "nsfw": "white",
   "created_at": "2016-03-26T06:46:52+00:00",
-  "updated_at": "2023-09-09T08:55:37+00:00",
+  "updated_at": "2024-12-27T09:33:33+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     },
     {
       "id": 36,
