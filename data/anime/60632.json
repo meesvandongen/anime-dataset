@@ -1,0 +1,56 @@
+{
+  "id": 60632,
+  "title": "Ganbare! Chrome",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1972/147207.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1972/147207l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "がんばれ！くろーむ"
+  },
+  "start_date": "2024-11-28",
+  "end_date": "2024-12-24",
+  "synopsis": "A series of short videos from Google Japan to promote the Chrome web browser. It features the Chrome mascot explaining various features of the browser that are based upon the winning artwork submissions from a competition they held earlier in the year.",
+  "popularity": 27608,
+  "num_list_users": 46,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2024-12-27T19:16:03+00:00",
+  "updated_at": "2024-12-27T19:16:03+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 133,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1133,
+      "name": "dwarf"
+    },
+    {
+      "id": 2406,
+      "name": "Eallin"
+    }
+  ]
+}

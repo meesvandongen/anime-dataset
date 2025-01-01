@@ -13,12 +13,12 @@
   "start_date": "2024-12-18",
   "end_date": "2024-12-18",
   "synopsis": "Music video for the song Hajimemashite, wo Atsumeyou. It is the theme song for monpoké.",
-  "popularity": 27646,
-  "num_list_users": 40,
-  "num_scoring_users": 19,
+  "popularity": 26845,
+  "num_list_users": 67,
+  "num_scoring_users": 29,
   "nsfw": "white",
   "created_at": "2024-12-22T19:14:24+00:00",
-  "updated_at": "2024-12-23T13:40:23+00:00",
+  "updated_at": "2024-12-26T21:44:44+00:00",
   "media_type": "music",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 15,
       "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
     }
   ],
   "num_episodes": 1,

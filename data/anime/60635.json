@@ -1,0 +1,39 @@
+{
+  "id": 60635,
+  "title": "Room501",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1032/147215.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1032/147215l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Room501"
+  },
+  "start_date": "2024-05-17",
+  "end_date": "2024-05-17",
+  "synopsis": "Music video for the song Room501 by Anshelly",
+  "popularity": 27755,
+  "num_list_users": 30,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2024-12-28T16:23:30+00:00",
+  "updated_at": "2024-12-29T19:53:07+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 199,
+  "rating": "pg_13",
+  "studios": []
+}
