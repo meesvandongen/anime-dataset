@@ -1,0 +1,39 @@
+{
+  "id": 60670,
+  "title": "Stargazer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1568/147282.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1568/147282l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2025-01-02",
+  "end_date": "2025-01-02",
+  "synopsis": "Music video for the song Stargazer by tayori.",
+  "popularity": 27545,
+  "num_list_users": 55,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2025-01-02T06:34:14+00:00",
+  "updated_at": "2025-01-02T06:34:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": []
+}

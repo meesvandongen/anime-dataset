@@ -1,25 +1,29 @@
 {
   "id": 56335,
-  "title": "Qiaohu Qihuan Wutai Lixian Ji",
+  "title": "Shimajirou no Wow! Movie 11: Shimajirou to Yuuki no Uta",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1086/137843.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1086/137843l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1358/147319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1358/147319l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Qiaohu and the Fantastic Magic Circus",
-    "ja": "巧虎奇幻舞台历险记"
+    "synonyms": [
+      "Qiaohu Qihuan Wutai Lixian Ji",
+      "Qiaohu and the Fantastic Magic Circus",
+      "巧虎奇幻舞台历险记"
+    ],
+    "en": "",
+    "ja": "映画しまじろう しまじろうとゆうきのうた"
   },
   "start_date": "2023-06-01",
   "end_date": "2023-06-01",
   "synopsis": "",
-  "rank": 18471,
-  "popularity": 23268,
-  "num_list_users": 119,
+  "rank": 14043,
+  "popularity": 23286,
+  "num_list_users": 120,
   "num_scoring_users": 16,
   "nsfw": "white",
   "created_at": "2023-08-16T11:48:13+00:00",
-  "updated_at": "2023-08-16T14:10:16+00:00",
+  "updated_at": "2025-01-03T20:41:59+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -44,5 +48,14 @@
   "source": "other",
   "average_episode_duration": 4500,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 471,
+      "name": "Shanghai Animation Film Studio"
+    },
+    {
+      "id": 1324,
+      "name": "Shimogumi"
+    }
+  ]
 }

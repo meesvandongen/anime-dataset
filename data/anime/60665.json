@@ -1,0 +1,52 @@
+{
+  "id": 60665,
+  "title": "Futari Solo Camp",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1449/147268.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1449/147268l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Futari Solo Camp"
+    ],
+    "en": "Solo Camping for Two",
+    "ja": "ふたりソロキャンプ"
+  },
+  "start_date": "2025-07",
+  "synopsis": "The story centers on Gen Kinokura, a devoted solo camper who treasures his solitude. During one of his usual camping trips, he unexpectedly crosses paths with Shizuku Kusano, a total camping novice. What starts as an accidental encounter evolves into an unusual partnership, as the two embark on what can only be described as \"solo camping for two.\"\n\n(Source: Pony Canyon)",
+  "popularity": 13236,
+  "num_list_users": 1281,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-01-01T14:58:34+00:00",
+  "updated_at": "2025-01-02T00:31:15+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

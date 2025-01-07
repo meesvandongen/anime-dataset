@@ -12,14 +12,16 @@
   },
   "start_date": "2025-01-05",
   "synopsis": "Becoming an ice dancer was not what Tsukasa Akeuraji had aimed for when he decided to take on the figure skating world. However, it is where he ended up as he \"started too late\" to follow his true solo-skating dreams.\n\nFor years, he was content with being a shell of his former ambitions—that is, until he met a little girl in whom he saw himself. Inori Yuitsuka, a fifth-grader so desperate to skate that she practiced in secret, had visited Tsukasa's rink with her mother to ask for lessons. She was branded as useless by everyone around her, told it was \"too late\" for her to begin, and that catching up to other skaters was impossible.\n\nWith a newfound conviction and unwillingness to let another passionate skater go down the same road as him, Tsukasa takes on the responsibility of coaching her and promises to make Inori a medalist.\n\n[Written by MAL Rewrite]",
-  "popularity": 5760,
-  "num_list_users": 14540,
-  "num_scoring_users": 19,
+  "mean": 7.69,
+  "rank": 1301,
+  "popularity": 5088,
+  "num_list_users": 20092,
+  "num_scoring_users": 1395,
   "nsfw": "white",
   "created_at": "2023-05-17T11:33:01+00:00",
-  "updated_at": "2024-12-27T03:19:35+00:00",
+  "updated_at": "2025-01-04T21:10:57+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -48,7 +50,8 @@
     "start_time": "01:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1384,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1974,

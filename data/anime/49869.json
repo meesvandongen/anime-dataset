@@ -17,13 +17,13 @@
   "end_date": "2021-12-24",
   "synopsis": "Unaired episode 13 included with the Blu-ray release of Ganbare Douki-chan.",
   "mean": 6.42,
-  "rank": 7517,
-  "popularity": 5352,
-  "num_list_users": 17503,
-  "num_scoring_users": 5813,
+  "rank": 7538,
+  "popularity": 5360,
+  "num_list_users": 17526,
+  "num_scoring_users": 5818,
   "nsfw": "gray",
   "created_at": "2021-09-20T07:42:33+00:00",
-  "updated_at": "2023-02-05T11:11:23+00:00",
+  "updated_at": "2025-01-07T02:07:10+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -42,6 +42,10 @@
     {
       "id": 74,
       "name": "Love Status Quo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     },
     {
       "id": 48,

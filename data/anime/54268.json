@@ -2,8 +2,8 @@
   "id": 54268,
   "title": "Shimajirou no Wow! Movie 9: Shimajirou to Miracle-jima no Nanairo Carnation",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1103/132821.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1103/132821l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1162/147318.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1162/147318l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "start_date": "2021-07-24",
   "end_date": "2021-07-24",
   "synopsis": "",
-  "rank": 14021,
-  "popularity": 23093,
-  "num_list_users": 123,
+  "rank": 14052,
+  "popularity": 23060,
+  "num_list_users": 126,
   "num_scoring_users": 19,
   "nsfw": "white",
   "created_at": "2023-01-18T05:42:48+00:00",
-  "updated_at": "2023-01-18T21:59:19+00:00",
+  "updated_at": "2025-01-03T20:39:20+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -47,6 +47,10 @@
     {
       "id": 471,
       "name": "Shanghai Animation Film Studio"
+    },
+    {
+      "id": 1324,
+      "name": "Shimogumi"
     }
   ]
 }

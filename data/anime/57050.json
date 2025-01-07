@@ -16,14 +16,16 @@
   },
   "start_date": "2025-01-05",
   "synopsis": "Duchess Leticia Dorman has been betrothed to Crown Prince Clarke since age seven. She was once a rambunctious and free-spirited child, but the strict education she’s receiving to make her a fit future princess has really put a cramp in her lifestyle. Her only hope is that the prince might someday take an interest in someone else—so when Clarke shows up to a royal ball with an unknown woman at his side, Lettie is overcome with delight, presuming her dream has come true and her engagement has been broken off! She wastes no time retreating to an easygoing countryside life, but her newfound peace is cut short when the prince shows up and claims she’s still his fiancée! Clarke is determined to win Lettie over and marry her, while Lettie is determined to resist his charms and escape! Who will emerge victorious in this heart-pounding battle of wills?\n\n(Source: J-Novel Club)",
-  "popularity": 6543,
-  "num_list_users": 10561,
-  "num_scoring_users": 3,
+  "mean": 6.56,
+  "rank": 6713,
+  "popularity": 5598,
+  "num_list_users": 15726,
+  "num_scoring_users": 980,
   "nsfw": "white",
   "created_at": "2023-11-01T19:58:07+00:00",
-  "updated_at": "2024-12-27T03:02:13+00:00",
+  "updated_at": "2025-01-05T18:14:48+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -34,7 +36,7 @@
       "name": "Romance"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "winter"
@@ -44,7 +46,8 @@
     "start_time": "22:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1264,

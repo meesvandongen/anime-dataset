@@ -2,26 +2,29 @@
   "id": 59135,
   "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1171/146679.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1171/146679l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1775/147330.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1775/147330l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Kurakon"
+      "Kurakon",
+      "I Got Married to the Girl I Hate Most in Class"
     ],
     "en": "I'm Getting Married to a Girl I Hate in My Class",
     "ja": "クラスの大嫌いな女子と結婚することになった。"
   },
   "start_date": "2025-01-03",
   "synopsis": "High school student Saito Houjo has married his classmate, Akane Sakuramori, the girl who is his biggest rival at school. The two can't seem to get along with each other, but their heart-pounding newlywed life is about to begin!\n\n(Source: Kadokawa, translated)",
-  "popularity": 3911,
-  "num_list_users": 35559,
-  "num_scoring_users": 4,
+  "mean": 7.15,
+  "rank": 3653,
+  "popularity": 3150,
+  "num_list_users": 54181,
+  "num_scoring_users": 4443,
   "nsfw": "white",
   "created_at": "2024-06-24T10:11:51+00:00",
-  "updated_at": "2024-12-22T10:52:43+00:00",
+  "updated_at": "2025-01-04T05:47:56+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -42,7 +45,8 @@
     "start_time": "23:30"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 418,

@@ -15,14 +15,16 @@
   },
   "start_date": "2025-01-04",
   "synopsis": "Nobody asked to be a cat!\n\nAfter dying in a fight against the forces of evil, a knight is shocked to discover that instead of being reborn as a hero of humanity, he starts his new life as a behemoth-one of the most powerful monsters in the world! The only problem is that a baby behemoth looks an awful lot like...an adorable house cat?! Things grow even more confusing when a beautiful elf adventurer rescues him from the brink of death rather than finishing him off. This house-cat-slash-knight's baffling journey is just getting started...\n\n(Source: Yen Press)",
-  "popularity": 4690,
-  "num_list_users": 24222,
-  "num_scoring_users": 1059,
+  "mean": 6.35,
+  "rank": 7965,
+  "popularity": 4061,
+  "num_list_users": 33392,
+  "num_scoring_users": 2980,
   "nsfw": "gray",
   "created_at": "2024-03-18T16:49:24+00:00",
-  "updated_at": "2024-12-27T03:28:45+00:00",
+  "updated_at": "2025-01-04T22:07:07+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -53,7 +55,7 @@
       "name": "Seinen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "winter"
