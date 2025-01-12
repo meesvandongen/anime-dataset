@@ -2,8 +2,8 @@
   "id": 33201,
   "title": "Ojisan to Marshmallow: Hige-san to Yume Mashmallow",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/79780.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/6/79780l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/79780.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/79780l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2016-04-16",
   "synopsis": "Habahiro Hige awakens at his desk at work, but much to his surprise, he has become a baby! To make things stranger, Iori Wakabayashi walks in wearing a school uniform but doesn't recognize him as the baby. Upon being picked up and held by her, Hige discovers that he doesn't just have the body of a baby but the mind of one as well.\n\n[Written by MAL Rewrite]",
   "mean": 6.04,
-  "rank": 9664,
-  "popularity": 5690,
-  "num_list_users": 15042,
-  "num_scoring_users": 9375,
+  "rank": 9690,
+  "popularity": 5699,
+  "num_list_users": 15052,
+  "num_scoring_users": 9380,
   "nsfw": "white",
   "created_at": "2016-04-17T04:01:53+00:00",
-  "updated_at": "2023-09-06T23:40:21+00:00",
+  "updated_at": "2025-01-11T15:57:59+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 74,
       "name": "Love Status Quo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     },
     {
       "id": 48,

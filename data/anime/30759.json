@@ -13,9 +13,9 @@
   "start_date": "2003-01-07",
   "end_date": "2003-01-07",
   "synopsis": "An educational film about compassion. The story follows a class trying to break a jump rope record and one student is terrible at the task. The issue causes a divide in the classroom.",
-  "rank": 17563,
-  "popularity": 21459,
-  "num_list_users": 192,
+  "rank": 17614,
+  "popularity": 21469,
+  "num_list_users": 193,
   "num_scoring_users": 34,
   "nsfw": "white",
   "created_at": "2015-05-13T05:54:51+00:00",
@@ -44,6 +44,10 @@
     {
       "id": 1936,
       "name": "Liberty Animation Studio"
+    },
+    {
+      "id": 3055,
+      "name": "Animation Studio Wagumi"
     }
   ]
 }
