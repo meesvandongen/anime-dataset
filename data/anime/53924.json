@@ -12,14 +12,16 @@
   },
   "start_date": "2025-01-12",
   "synopsis": "Second season of Jibaku Shounen Hanako-kun.",
-  "popularity": 3440,
-  "num_list_users": 46044,
-  "num_scoring_users": 109,
+  "mean": 7.69,
+  "rank": 1191,
+  "popularity": 3302,
+  "num_list_users": 49711,
+  "num_scoring_users": 894,
   "nsfw": "white",
   "created_at": "2022-12-22T08:02:49+00:00",
-  "updated_at": "2025-01-07T00:11:57+00:00",
+  "updated_at": "2025-01-12T08:38:33+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 23,
@@ -34,7 +36,7 @@
       "name": "Supernatural"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "winter"
@@ -44,7 +46,7 @@
     "start_time": "16:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1425,
   "rating": "pg_13",
   "studios": [
     {

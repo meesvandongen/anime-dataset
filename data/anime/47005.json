@@ -14,7 +14,7 @@
   "end_date": "2019-07-25",
   "synopsis": "Music video for the song Natsu no Uta by Uchikubi Gokumon Doukoukai. This clip is about a penguin that deals with the heat of summer.",
   "mean": 6.23,
-  "popularity": 19094,
+  "popularity": 19120,
   "num_list_users": 327,
   "num_scoring_users": 175,
   "nsfw": "white",
@@ -43,5 +43,10 @@
   },
   "average_episode_duration": 247,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1357,
+      "name": "Craftar Studios"
+    }
+  ]
 }

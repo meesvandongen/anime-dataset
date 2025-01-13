@@ -1,0 +1,47 @@
+{
+  "id": 60713,
+  "title": "Xi Yangyang Yu Hui Tailang: Yangyang Qu Maoxian 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1371/147393.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1371/147393l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pleasant Goat and Big Big Wolf: Mighty Goat Squad 2",
+    "ja": "喜羊羊与灰太狼之羊羊趣冒险2"
+  },
+  "start_date": "2022-11-26",
+  "synopsis": "",
+  "rank": 15290,
+  "popularity": 27806,
+  "num_list_users": 33,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-01-06T14:17:25+00:00",
+  "updated_at": "2025-01-07T12:50:37+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 800,
+  "rating": "pg",
+  "studios": []
+}

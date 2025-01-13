@@ -1,0 +1,40 @@
+{
+  "id": 60356,
+  "title": "Teenage Blue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1761/147444.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1761/147444l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ティーンエイジブルー"
+  },
+  "start_date": "2024-11-22",
+  "end_date": "2024-11-22",
+  "synopsis": "Music video for the song Teenage Blue by Eve. The song was used as the ending theme of the anime Ao no Hako.",
+  "mean": 7.22,
+  "popularity": 13255,
+  "num_list_users": 1281,
+  "num_scoring_users": 556,
+  "nsfw": "white",
+  "created_at": "2024-11-22T10:30:46+00:00",
+  "updated_at": "2025-01-10T03:40:19+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 225,
+  "rating": "pg_13",
+  "studios": []
+}

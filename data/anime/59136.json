@@ -12,14 +12,16 @@
   },
   "start_date": "2025-01-08",
   "synopsis": "Tasokare Hotel is a hotel that is engulfed in twilight all day long, with no distinction between day and night. It exists as a place between life and death, where souls unable to decide whether to move on to the afterlife or return to the present world can rest their wings. The protagonist, Neko Tsukahara, wanders into Tasokare Hotel without remembering who she is or why she's there. Guided by the hotel staff, she is led to her room. \"There should be items related to the customer's memories in the room. These might serve as clues to help the customer regain their memories.\" While searching for a way to return to the present world and remembering who she is, she encounters a certain incident...\n\n(Source: Official YouTube, edited)",
-  "popularity": 6058,
-  "num_list_users": 12796,
-  "num_scoring_users": 586,
+  "mean": 6.84,
+  "rank": 5150,
+  "popularity": 5619,
+  "num_list_users": 15560,
+  "num_scoring_users": 1317,
   "nsfw": "white",
   "created_at": "2024-06-24T12:16:16+00:00",
-  "updated_at": "2025-01-04T02:36:34+00:00",
+  "updated_at": "2025-01-08T15:59:09+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 10,
@@ -30,7 +32,7 @@
       "name": "Mystery"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "winter"

@@ -1,0 +1,48 @@
+{
+  "id": 58436,
+  "title": "Tamagotchi Short Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1857/147445.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1857/147445l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tamagotchi Short Animation",
+    "ja": "たまごっちショートアニメ"
+  },
+  "start_date": "2024-03-01",
+  "end_date": "2024-03-01",
+  "synopsis": "A short series focusing on the lives of Tamagotchi and their caretakers.",
+  "rank": 14564,
+  "popularity": 27822,
+  "num_list_users": 27,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2024-03-14T10:14:28+00:00",
+  "updated_at": "2025-01-10T06:06:33+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 120,
+  "rating": "g",
+  "studios": []
+}

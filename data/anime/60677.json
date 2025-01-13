@@ -1,0 +1,52 @@
+{
+  "id": 60677,
+  "title": "Minimini Minini",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1295/147299.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1295/147299l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ミニミニ minini"
+  },
+  "start_date": "2025-01-04",
+  "synopsis": "The anime centers on the LINE FRIENDS \"minini\" non-verbal palm-sized characters surviving in the human world.\n\n(Source: ANN)",
+  "rank": 17617,
+  "popularity": 27289,
+  "num_list_users": 64,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2025-01-03T00:07:31+00:00",
+  "updated_at": "2025-01-10T06:11:52+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "07:00"
+  },
+  "source": "other",
+  "average_episode_duration": 270,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2997,
+      "name": "Million Volt"
+    }
+  ]
+}

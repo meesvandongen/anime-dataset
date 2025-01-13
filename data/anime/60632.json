@@ -13,9 +13,9 @@
   "start_date": "2024-11-28",
   "end_date": "2024-12-24",
   "synopsis": "A series of short videos from Google Japan to promote the Chrome web browser. It features the Chrome mascot explaining various features of the browser that are based upon the winning artwork submissions from a competition they held earlier in the year.",
-  "popularity": 23190,
-  "num_list_users": 122,
-  "num_scoring_users": 44,
+  "popularity": 22512,
+  "num_list_users": 145,
+  "num_scoring_users": 57,
   "nsfw": "white",
   "created_at": "2024-12-27T19:16:03+00:00",
   "updated_at": "2024-12-27T19:16:03+00:00",
@@ -51,6 +51,10 @@
     {
       "id": 2406,
       "name": "Eallin"
+    },
+    {
+      "id": 3061,
+      "name": "AOI Pro."
     }
   ]
 }

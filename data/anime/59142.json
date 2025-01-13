@@ -14,14 +14,16 @@
   },
   "start_date": "2025-01-07",
   "synopsis": "Second season of Unnamed Memory.",
-  "popularity": 4223,
-  "num_list_users": 30501,
-  "num_scoring_users": 10,
+  "mean": 7.44,
+  "rank": 2195,
+  "popularity": 3957,
+  "num_list_users": 35160,
+  "num_scoring_users": 1962,
   "nsfw": "white",
   "created_at": "2024-06-25T16:53:47+00:00",
-  "updated_at": "2025-01-07T02:01:10+00:00",
+  "updated_at": "2025-01-07T18:57:24+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 2,
@@ -46,7 +48,7 @@
     "start_time": "23:30"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
   "rating": "pg_13",
   "studios": [
     {

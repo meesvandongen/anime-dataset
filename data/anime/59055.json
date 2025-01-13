@@ -14,14 +14,16 @@
   },
   "start_date": "2025-01-08",
   "synopsis": "Hana lives on the small island of Tonakijima, with a population of 600, and loves reading to the island's children. Mizuki, the president of the school's broadcasting club, notices Hana's talent for engaging others through her storytelling and invites her to join the club. As Hana embarks on this new journey, she experiences many \"firsts\" with the broadcasting club members, deepening her love for reading even more.\n\n(Source: MAL News)",
-  "popularity": 5692,
-  "num_list_users": 15065,
-  "num_scoring_users": 39,
+  "mean": 7.42,
+  "rank": 2224,
+  "popularity": 4993,
+  "num_list_users": 21178,
+  "num_scoring_users": 1696,
   "nsfw": "white",
   "created_at": "2024-06-12T10:03:46+00:00",
-  "updated_at": "2025-01-07T00:11:34+00:00",
+  "updated_at": "2025-01-07T21:30:49+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -46,7 +48,8 @@
     "start_time": "01:29"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1380,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1993,

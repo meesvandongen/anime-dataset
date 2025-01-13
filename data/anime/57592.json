@@ -14,14 +14,16 @@
   },
   "start_date": "2025-01-09",
   "synopsis": "Fourth season of Dr. Stone.",
-  "popularity": 1960,
-  "num_list_users": 117837,
-  "num_scoring_users": 218,
+  "mean": 8.16,
+  "rank": 448,
+  "popularity": 1764,
+  "num_list_users": 135482,
+  "num_scoring_users": 6102,
   "nsfw": "white",
   "created_at": "2023-12-21T14:18:40+00:00",
-  "updated_at": "2024-12-27T01:39:35+00:00",
+  "updated_at": "2025-01-09T15:34:59+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 2,
@@ -50,7 +52,7 @@
     "start_time": "22:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1440,
   "rating": "pg_13",
   "studios": [
     {
