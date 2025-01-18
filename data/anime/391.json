@@ -2,8 +2,8 @@
   "id": 391,
   "title": "Tales of Phantasia The Animation",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/78319.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/11/78319l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/78319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/78319l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2006-02-24",
   "synopsis": "Tragedy strikes the lives of Cless Alvein, a young swordsman, and Chester Barklight, a young archer, as they return to their village of Totus to find it razed to the ground by the mysterious Black Knight. To take over the world, the Black Knight seeks to claim the power of the Demon King, Dhaos—sealed away by the ancestors of Cless and a young cleric named Mint Adnade. Dhaos' reawakening signals not only the end of the Black Knight, but potentially the world. Cless and Mint must now journey a century into the past to rally allies capable of vanquishing the Demon King once and for all.\n\nTales of Phantasia The Animation follows Cless and Mint's journey through time to long ago, where they forge an alliance with the half-elf sorceress Arche Klaine and the summoner Klarth F. Lester. Together, they strive to defeat Dhaos and his army in saving the past as well as the years to come.",
   "mean": 6.76,
-  "rank": 5529,
-  "popularity": 4725,
-  "num_list_users": 24013,
-  "num_scoring_users": 11011,
+  "rank": 5537,
+  "popularity": 4731,
+  "num_list_users": 24025,
+  "num_scoring_users": 11009,
   "nsfw": "white",
   "created_at": "2005-12-22T23:53:20+00:00",
-  "updated_at": "2022-12-13T12:46:05+00:00",
+  "updated_at": "2025-01-17T12:46:47+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
     }
   ],
   "num_episodes": 4,

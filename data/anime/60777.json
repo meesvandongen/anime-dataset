@@ -1,0 +1,46 @@
+{
+  "id": 60777,
+  "title": "Francois CMs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1258/147545.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1258/147545l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pan Suki na Kyoudai no Monogatari"
+    ],
+    "en": "",
+    "ja": "フランソア CMs"
+  },
+  "start_date": "2005-01-22",
+  "end_date": "2008",
+  "synopsis": "Animated commercials for the Japanese bread and confectionary business Francois.",
+  "popularity": 27856,
+  "num_list_users": 16,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2025-01-16T21:45:35+00:00",
+  "updated_at": "2025-01-16T21:45:35+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2050,
+      "name": "Trash Studio"
+    }
+  ]
+}
