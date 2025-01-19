@@ -12,9 +12,9 @@
   },
   "start_date": "2025-07",
   "synopsis": "Second part of Sakamoto Days.",
-  "popularity": 5332,
-  "num_list_users": 17907,
-  "num_scoring_users": 8,
+  "popularity": 5111,
+  "num_list_users": 20025,
+  "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": "2024-11-13T03:59:01+00:00",
   "updated_at": "2024-11-13T04:00:55+00:00",
@@ -53,5 +53,6 @@
   },
   "source": "manga",
   "average_episode_duration": 0,
+  "rating": "r",
   "studios": []
 }

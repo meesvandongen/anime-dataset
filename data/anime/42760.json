@@ -16,8 +16,8 @@
   },
   "start_date": "2017-03-03",
   "synopsis": "Second season of Baolie Feiche.",
-  "rank": 19348,
-  "popularity": 20800,
+  "rank": 19363,
+  "popularity": 20831,
   "num_list_users": 230,
   "num_scoring_users": 46,
   "nsfw": "white",
@@ -47,5 +47,10 @@
   "source": "original",
   "average_episode_duration": 1380,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 1939,
+      "name": "Alpha Animation"
+    }
+  ]
 }
