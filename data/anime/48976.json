@@ -16,19 +16,23 @@
   "end_date": "2021-07-02",
   "synopsis": "Recap of the first season of 100-man no Inochi no Ue ni Ore wa Tatteiru airing before second season.",
   "mean": 6.3,
-  "rank": 8241,
-  "popularity": 10175,
-  "num_list_users": 3288,
-  "num_scoring_users": 1150,
+  "rank": 8286,
+  "popularity": 10177,
+  "num_list_users": 3295,
+  "num_scoring_users": 1152,
   "nsfw": "white",
   "created_at": "2021-05-14T05:09:10+00:00",
-  "updated_at": "2024-02-06T17:05:43+00:00",
+  "updated_at": "2025-01-23T20:37:16+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
     },
     {
       "id": 8,
@@ -45,14 +49,6 @@
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 76,
-      "name": "Survival"
-    },
-    {
-      "id": 41,
-      "name": "Suspense"
     }
   ],
   "num_episodes": 1,

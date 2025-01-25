@@ -2,8 +2,8 @@
   "id": 40416,
   "title": "Date A Bullet: Dead or Bullet",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1984/108425.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1984/108425l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1984/108425.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1984/108425l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,19 +16,23 @@
   "end_date": "2020-08-14",
   "synopsis": "Soon after falling into another world, Kurumi Tokisaki takes interest in a particular white cat. Much to Kurumi's disappointment, the two part ways.\n\nKurumi later meets Hibiki Higoromo, a white haired quasi-spirit. Hibiki explains that they are at the center of a killing game between quasi-spirits. Within the Neighboring World, the spirits compete for a single wish to be granted to the lone survivor of the death-match.\n\nUnderstanding the rules of the game, Kurumi and Hibiki reach a compromise—a temporary alliance.\n\n[Written by MAL Rewrite]",
   "mean": 7.59,
-  "rank": 1594,
-  "popularity": 2045,
-  "num_list_users": 112172,
-  "num_scoring_users": 48589,
+  "rank": 1612,
+  "popularity": 2046,
+  "num_list_users": 112242,
+  "num_scoring_users": 48641,
   "nsfw": "white",
   "created_at": "2019-09-17T18:20:28+00:00",
-  "updated_at": "2022-04-17T18:24:31+00:00",
+  "updated_at": "2025-01-23T13:44:11+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
     },
     {
       "id": 62,

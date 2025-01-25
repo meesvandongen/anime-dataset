@@ -14,18 +14,22 @@
   },
   "start_date": "2025-04",
   "synopsis": "Second season of Aharen-san wa Hakarenai.",
-  "popularity": 4356,
-  "num_list_users": 28991,
+  "popularity": 4302,
+  "num_list_users": 29655,
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2024-08-03T15:04:15+00:00",
-  "updated_at": "2024-12-22T03:12:17+00:00",
+  "updated_at": "2025-01-21T04:33:16+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 74,
+      "name": "Love Status Quo"
     },
     {
       "id": 22,
