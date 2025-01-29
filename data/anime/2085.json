@@ -16,13 +16,13 @@
   "end_date": "1991-11-21",
   "synopsis": "Lamune has returned to Earth with no memory of his adventures on Hara-Hara world and Doki-Doki space. The remains of Gobuhriki find their way to Earth, and awaken the spirit of Don Harumage. While Cocoa builds a fighting vehicle with stuff she finds around Tokyo, Milk and Leska set off to find Lamune and Da Cider to save the day before the new Gobuhriki is revived and destroys the Earth. \n\n(Source: ANN)",
   "mean": 6.39,
-  "rank": 7741,
+  "rank": 7740,
   "popularity": 12279,
-  "num_list_users": 1735,
+  "num_list_users": 1736,
   "num_scoring_users": 631,
   "nsfw": "white",
   "created_at": "2007-03-10T01:03:05+00:00",
-  "updated_at": "2022-11-06T09:24:16+00:00",
+  "updated_at": "2025-01-25T08:33:35+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
     },
     {
       "id": 18,
