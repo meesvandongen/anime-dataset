@@ -14,20 +14,16 @@
   "end_date": "2016-06-28",
   "synopsis": "Features the characters from the games in chibi form with a completely new story with the theme: \"A normal everyday that might have existed.\"",
   "mean": 6.59,
-  "rank": 6524,
-  "popularity": 7933,
-  "num_list_users": 6661,
-  "num_scoring_users": 2182,
+  "rank": 6540,
+  "popularity": 7937,
+  "num_list_users": 6664,
+  "num_scoring_users": 2183,
   "nsfw": "white",
   "created_at": "2015-11-06T07:45:32+00:00",
-  "updated_at": "2022-04-06T09:18:24+00:00",
+  "updated_at": "2025-01-25T22:26:39+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 10,
-      "name": "Fantasy"
-    },
     {
       "id": 13,
       "name": "Historical"
@@ -39,6 +35,10 @@
     {
       "id": 21,
       "name": "Samurai"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 12,

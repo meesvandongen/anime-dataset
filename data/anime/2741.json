@@ -14,9 +14,9 @@
   "end_date": "2004-12-19",
   "synopsis": "Sequel to Monkey Turn.",
   "mean": 6.48,
-  "rank": 7201,
-  "popularity": 13154,
-  "num_list_users": 1324,
+  "rank": 7206,
+  "popularity": 13170,
+  "num_list_users": 1323,
   "num_scoring_users": 482,
   "nsfw": "white",
   "created_at": "2007-06-26T07:33:37+00:00",
@@ -57,6 +57,10 @@
     {
       "id": 28,
       "name": "OLM"
+    },
+    {
+      "id": 48,
+      "name": "AIC"
     }
   ]
 }

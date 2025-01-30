@@ -17,23 +17,19 @@
   "end_date": "2008-12-24",
   "synopsis": "In the nineteenth century, we find Lydia Carlton living in Scotland, making a living as a fairy doctor. She is one of those rare humans who can see and communicate with fairies. But no one believes her. However, Edgar is in need of someone with a vast knowledge of fairy lore, and Lydia is just that person. After rescuing her, he becomes her employer, but there are many secrets and emotions that seem to follow Edgar, who claims to be the Blue Knight's Earl.",
   "mean": 7.19,
-  "rank": 3402,
-  "popularity": 1824,
-  "num_list_users": 129398,
-  "num_scoring_users": 57067,
+  "rank": 3420,
+  "popularity": 1826,
+  "num_list_users": 129479,
+  "num_scoring_users": 57093,
   "nsfw": "white",
   "created_at": "2008-05-23T10:48:39+00:00",
-  "updated_at": "2024-09-06T00:55:17+00:00",
+  "updated_at": "2025-01-25T22:37:31+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 2,
       "name": "Adventure"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 13,
@@ -50,6 +46,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 12,

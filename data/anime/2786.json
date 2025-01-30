@@ -2,8 +2,8 @@
   "id": 2786,
   "title": "Bakegyamon",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/21146.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/10/21146l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/21146.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/21146l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2007-03-26",
   "synopsis": "Sanshirou's chances of having an adventure are slim to none in his tiny island hometown, until the day a mysterious stranger invites him to play a game... Without warning, Sanshirou is taken to a backwards universe to play BakéGyamon—a game pitting monsters against monsters. Along the way he meets other players who have a particular reason for being there—to obtain the wish that is granted to the winner. But how far can Sanshirou get when the monsters he's been paired with are a bunch of little mud balls?!\n\n(Source: VIZ Media)",
   "mean": 6.62,
-  "rank": 6353,
-  "popularity": 9539,
-  "num_list_users": 4024,
+  "rank": 6374,
+  "popularity": 9545,
+  "num_list_users": 4026,
   "num_scoring_users": 1020,
   "nsfw": "white",
   "created_at": "2007-07-09T15:45:06+00:00",
-  "updated_at": "2021-10-04T05:58:06+00:00",
+  "updated_at": "2025-01-28T05:45:36+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -32,16 +32,16 @@
       "name": "Action"
     },
     {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
       "id": 10,
       "name": "Fantasy"
     },
     {
       "id": 62,
       "name": "Isekai"
-    },
-    {
-      "id": 6,
-      "name": "Mythology"
     },
     {
       "id": 27,
