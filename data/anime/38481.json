@@ -2,8 +2,8 @@
   "id": 38481,
   "title": "Toaru Kagaku no Railgun T",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1819/103287.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1819/103287l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1819/103287l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,13 +18,13 @@
   "end_date": "2020-09-25",
   "synopsis": "The Daihasei Festival has begun, and that of course means that Tokiwadai Middle School—a prestigious all-girls' middle school—is competing too. Despite the participation of the \"Ace of Tokiwadai,\" Mikoto Misaka, the other students who are participating are still putting their utmost effort into winning, no matter how impossible the feat may seem against her overwhelming might.\n\nHowever, not all is fun and games. Due to the festival, Academy City opens to the outside world, and various factions have begun plotting ways to infiltrate the city. Misaka appears to be on their radar, and as the festival proceeds, people lurking from the shadows begin to emerge...\n\nToaru Kagaku no Railgun T brings back the Tokiwadai Ace and her friends as they dive deeper into the dark side of Academy City. From terrorist attacks to ruthless underground projects, anything is possible in this city.\n\n[Written by MAL Rewrite]",
   "mean": 8.15,
-  "rank": 463,
+  "rank": 459,
   "popularity": 1063,
-  "num_list_users": 241641,
-  "num_scoring_users": 97663,
+  "num_list_users": 241844,
+  "num_scoring_users": 97738,
   "nsfw": "white",
   "created_at": "2018-10-07T08:38:45+00:00",
-  "updated_at": "2023-04-29T10:07:00+00:00",
+  "updated_at": "2025-01-30T22:22:47+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 31,
       "name": "Super Power"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 25,

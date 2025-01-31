@@ -1,0 +1,51 @@
+{
+  "id": 60827,
+  "title": "Nai Long: Qimiao Maoxian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1960/147680.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1960/147680l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "奶龙之奇妙冒险"
+  },
+  "start_date": "2025-01-22",
+  "synopsis": "",
+  "rank": 17913,
+  "popularity": 27879,
+  "num_list_users": 32,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-01-25T13:20:42+00:00",
+  "updated_at": "2025-01-30T13:36:37+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 540,
+  "rating": "pg",
+  "studios": []
+}

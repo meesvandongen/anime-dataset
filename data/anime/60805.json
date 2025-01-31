@@ -1,0 +1,52 @@
+{
+  "id": 60805,
+  "title": "Amedama",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1957/147647.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1957/147647l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Magic Candies",
+    "ja": "あめだま"
+  },
+  "start_date": "2024-03-02",
+  "synopsis": "The other kids at the park never ask Dong-Dong to play. That's ok. He's fine just playing marbles on his own. One day, he buys a bag of colorful candies instead of new marbles. The first time he pops one of them into his mouth, his old sofa starts talking to him! The two share an unexpected conversation before the sweet melts away. As it happens, the people, animals, and objects in Dong-Dong's life have a lot to say.\n\n(Source: Official Site)",
+  "rank": 19099,
+  "popularity": 27886,
+  "num_list_users": 25,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2025-01-23T15:26:45+00:00",
+  "updated_at": "2025-01-26T19:11:51+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 1260,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    },
+    {
+      "id": 1111,
+      "name": "DandeLion Animation Studio"
+    }
+  ]
+}
