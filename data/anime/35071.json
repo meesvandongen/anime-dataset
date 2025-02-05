@@ -7,7 +7,10 @@
   },
   "alternative_titles": {
     "synonyms": [
-      "Wei xiang-nuo ya dongwu zhensuo donghua xiao juchang"
+      "Wei xiang-nuo ya dongwu zhensuo donghua xiao juchang",
+      "Noah Dongwu Zhensuo Bingli Jilu Bu",
+      "Noah Animal Clinic",
+      "诺亚动物诊所病历记录簿"
     ],
     "en": "",
     "ja": "諾亞動物診所動畫小劇場"
@@ -15,13 +18,13 @@
   "start_date": "2012-03-21",
   "end_date": "2013-03-06",
   "synopsis": "",
-  "rank": 18077,
-  "popularity": 19528,
-  "num_list_users": 303,
-  "num_scoring_users": 54,
+  "rank": 18117,
+  "popularity": 19537,
+  "num_list_users": 304,
+  "num_scoring_users": 55,
   "nsfw": "white",
   "created_at": "2017-03-10T19:35:49+00:00",
-  "updated_at": "2020-01-13T14:27:29+00:00",
+  "updated_at": "2025-01-31T09:51:07+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -32,10 +35,6 @@
     {
       "id": 15,
       "name": "Kids"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 10,
@@ -43,7 +42,7 @@
     "year": 2012,
     "season": "winter"
   },
-  "average_episode_duration": 180,
+  "average_episode_duration": 157,
   "rating": "g",
   "studios": []
 }
