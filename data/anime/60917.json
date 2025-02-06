@@ -1,0 +1,47 @@
+{
+  "id": 60917,
+  "title": "Ahobsan Sup: Gisaenghon",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1322/147849.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1322/147849l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Nine Mountain: Paraghost",
+    "ja": "아홉산 숲: 기생혼"
+  },
+  "start_date": "2025-08",
+  "end_date": "2025-08",
+  "synopsis": "",
+  "popularity": 27949,
+  "num_list_users": 17,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-02-03T20:31:18+00:00",
+  "updated_at": "2025-02-05T12:51:14+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

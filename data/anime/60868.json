@@ -1,0 +1,39 @@
+{
+  "id": 60868,
+  "title": "Worlders (Blue Back Ver.)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1606/147793.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1606/147793l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Worlders (BLUE BACK Ver.)"
+  },
+  "start_date": "2025-01-29",
+  "end_date": "2025-01-29",
+  "synopsis": "Music video for the song Worlders (Blue Back Ver.) by Jin featuring Hatsune Miku. The song is the fully Vocaloid cover of the ending theme of the anime Project Sekai Movie: Kowareta Sekai to Utaenai Miku.",
+  "popularity": 27880,
+  "num_list_users": 37,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2025-02-01T19:48:11+00:00",
+  "updated_at": "2025-02-03T11:25:08+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 287,
+  "rating": "g",
+  "studios": []
+}

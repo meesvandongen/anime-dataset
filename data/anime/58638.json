@@ -12,13 +12,13 @@
   },
   "start_date": "2024-07-19",
   "synopsis": "",
-  "mean": 5.59,
-  "popularity": 12031,
-  "num_list_users": 1900,
-  "num_scoring_users": 596,
+  "mean": 5.6,
+  "popularity": 12001,
+  "num_list_users": 1920,
+  "num_scoring_users": 601,
   "nsfw": "gray",
   "created_at": "2024-04-10T07:22:08+00:00",
-  "updated_at": "2024-05-22T08:32:03+00:00",
+  "updated_at": "2025-02-01T10:09:15+00:00",
   "media_type": "ova",
   "status": "currently_airing",
   "genres": [
@@ -33,7 +33,7 @@
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1200,
   "rating": "rx",
   "studios": [
     {

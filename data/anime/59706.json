@@ -13,12 +13,12 @@
   "start_date": "2024-11-29",
   "synopsis": "",
   "mean": 6.27,
-  "popularity": 13131,
-  "num_list_users": 1335,
-  "num_scoring_users": 293,
+  "popularity": 13062,
+  "num_list_users": 1364,
+  "num_scoring_users": 306,
   "nsfw": "gray",
   "created_at": "2024-08-31T12:28:24+00:00",
-  "updated_at": "2024-09-02T10:15:37+00:00",
+  "updated_at": "2025-02-01T10:08:32+00:00",
   "media_type": "ova",
   "status": "currently_airing",
   "genres": [
@@ -33,7 +33,7 @@
     "season": "fall"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1230,
   "rating": "rx",
   "studios": [
     {
