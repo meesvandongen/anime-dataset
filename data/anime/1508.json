@@ -16,13 +16,13 @@
   "end_date": "2001-03-23",
   "synopsis": "Harry is definitely not your average American teenager. Instead, he is the epitome of an \"alienated youth\"—friendless at school, extremely weird, and nervous to the point of paranoia. But a chance occurrence causes Harry to start to demonstrate what appear to be psychic powers—yet he neither believes in them nor consciously controls them.\n\nHowever, there are other ominous forces at work who do believe in Harry and attempt to make use of him in ways that are threatening and frightful.\n\n(Source: AniDB, edited)",
   "mean": 6.16,
-  "rank": 9034,
-  "popularity": 6735,
-  "num_list_users": 10043,
-  "num_scoring_users": 2803,
+  "rank": 9012,
+  "popularity": 6738,
+  "num_list_users": 10048,
+  "num_scoring_users": 2804,
   "nsfw": "white",
   "created_at": "2006-09-22T16:41:01+00:00",
-  "updated_at": "2024-11-14T13:49:48+00:00",
+  "updated_at": "2025-02-06T01:01:29+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -35,12 +35,20 @@
       "name": "Horror"
     },
     {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
       "id": 24,
       "name": "Sci-Fi"
     },
     {
       "id": 31,
       "name": "Super Power"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
     }
   ],
   "num_episodes": 20,

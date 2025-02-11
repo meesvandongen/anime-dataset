@@ -15,8 +15,8 @@
   "start_date": "2007-10-07",
   "end_date": "2008-01-06",
   "synopsis": "Neighborhood children help a group of retirees solve local mysteries in contemporary Japan.",
-  "rank": 15894,
-  "popularity": 16921,
+  "rank": 15925,
+  "popularity": 16938,
   "num_list_users": 505,
   "num_scoring_users": 96,
   "nsfw": "white",
@@ -45,5 +45,10 @@
   },
   "average_episode_duration": 1220,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3076,
+      "name": "No Side"
+    }
+  ]
 }

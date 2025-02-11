@@ -18,9 +18,9 @@
   "end_date": "2008-12-27",
   "synopsis": "Comedy show based on Greek myths about how perverted the gods are.\n",
   "mean": 5.87,
-  "rank": 10571,
-  "popularity": 14777,
-  "num_list_users": 853,
+  "rank": 10598,
+  "popularity": 14778,
+  "num_list_users": 855,
   "num_scoring_users": 161,
   "nsfw": "white",
   "created_at": "2008-09-10T23:50:14+00:00",
@@ -49,6 +49,10 @@
     {
       "id": 56,
       "name": "A-1 Pictures"
+    },
+    {
+      "id": 3076,
+      "name": "No Side"
     }
   ]
 }
