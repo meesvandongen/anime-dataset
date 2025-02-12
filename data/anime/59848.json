@@ -1,0 +1,48 @@
+{
+  "id": 59848,
+  "title": "Virgin Punk",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1041/145514.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1041/145514l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Clockwork Girl"
+    ],
+    "en": "",
+    "ja": "ヴァージン・パンク"
+  },
+  "start_date": "2025-06-27",
+  "synopsis": "The story follows Ubu, a young woman who finds herself living the dangerous life of a bounty hunter. As she grapples with her inner turmoil, she becomes entangled in a world filled with chaos and the desires of the powerful and eccentric individuals around her.\n\n(Source: MAL News)",
+  "popularity": 5927,
+  "num_list_users": 13762,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-09-16T06:52:49+00:00",
+  "updated_at": "2025-02-10T03:31:58+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 44,
+      "name": "Shaft"
+    }
+  ]
+}
