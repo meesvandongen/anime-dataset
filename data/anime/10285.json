@@ -18,9 +18,9 @@
   "end_date": "1982-03-13",
   "synopsis": "",
   "mean": 5.96,
-  "rank": 10121,
-  "popularity": 16408,
-  "num_list_users": 563,
+  "rank": 10083,
+  "popularity": 16421,
+  "num_list_users": 564,
   "num_scoring_users": 141,
   "nsfw": "white",
   "created_at": "2011-01-29T17:45:51+00:00",
@@ -38,7 +38,7 @@
     "year": 1982,
     "season": "winter"
   },
-  "average_episode_duration": 720,
+  "average_episode_duration": 1440,
   "rating": "g",
   "studios": []
 }
