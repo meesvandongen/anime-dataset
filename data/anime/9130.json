@@ -14,13 +14,13 @@
   "end_date": "2011-07-20",
   "synopsis": "The sequel to Saint Seiya: The Lost Canvas - Meiou Shinwa.",
   "mean": 8.1,
-  "rank": 524,
-  "popularity": 2586,
-  "num_list_users": 77935,
-  "num_scoring_users": 46284,
+  "rank": 530,
+  "popularity": 2587,
+  "num_list_users": 77965,
+  "num_scoring_users": 46302,
   "nsfw": "white",
   "created_at": "2010-07-04T00:54:16+00:00",
-  "updated_at": "2022-04-15T11:40:21+00:00",
+  "updated_at": "2025-02-12T19:43:13+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -33,20 +33,20 @@
       "name": "Adventure"
     },
     {
-      "id": 17,
-      "name": "Martial Arts"
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
     },
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 31,
-      "name": "Super Power"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 13,
