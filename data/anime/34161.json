@@ -2,8 +2,8 @@
   "id": 34161,
   "title": "Overlord Movie 1: Fushisha no Ou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/87759.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/12/87759l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/87759.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/87759l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,20 +15,24 @@
   "start_date": "2017-02-25",
   "end_date": "2017-02-25",
   "synopsis": "First Overlord recap film.",
-  "mean": 7.63,
-  "rank": 1468,
+  "mean": 7.62,
+  "rank": 1513,
   "popularity": 2327,
-  "num_list_users": 92292,
-  "num_scoring_users": 31038,
+  "num_list_users": 92382,
+  "num_scoring_users": 31074,
   "nsfw": "white",
   "created_at": "2016-09-29T07:18:14+00:00",
-  "updated_at": "2024-12-25T02:13:51+00:00",
+  "updated_at": "2025-02-16T22:24:25+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
     },
     {
       "id": 10,

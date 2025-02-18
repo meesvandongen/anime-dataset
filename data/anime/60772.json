@@ -7,20 +7,21 @@
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "Rising in the Fire",
     "ja": "向火而生"
   },
   "start_date": "2025-01-17",
+  "end_date": "2025-02-14",
   "synopsis": "",
-  "rank": 15403,
-  "popularity": 22384,
-  "num_list_users": 155,
-  "num_scoring_users": 7,
+  "rank": 15428,
+  "popularity": 21897,
+  "num_list_users": 178,
+  "num_scoring_users": 11,
   "nsfw": "white",
   "created_at": "2025-01-16T10:30:15+00:00",
-  "updated_at": "2025-01-25T10:41:54+00:00",
+  "updated_at": "2025-02-17T15:54:52+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -31,7 +32,7 @@
       "name": "Drama"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 6,
   "start_season": {
     "year": 2025,
     "season": "winter"

@@ -2,8 +2,8 @@
   "id": 55727,
   "title": "Miru: Watashi no Mirai",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1088/144312.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1088/144312l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1472/148029.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1472/148029l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,12 +12,12 @@
   },
   "start_date": "2025-04",
   "synopsis": "In the distant future, humans create a robot named MIRU capable of traveling through time, visiting various eras, places, and even parallel worlds. Unlike some robots, MIRU isn't equipped with weapons. Instead, it helps people overcome immense obstacles peacefully, encouraging new beginnings without violence.\n\nMIRU continuously evolves by interacting with people, learning and growing to assist those struggling to survive. It listens to their problems and offers support. By helping others, MIRU sets off a \"Butterfly Effect,\" of dramatic change guiding society toward a brighter future.\n\nWhy was MIRU created? What is its purpose? Can it save the Earth and humanity from a dystopian future?\n\n(Source: MAL News)",
-  "popularity": 12469,
-  "num_list_users": 1644,
+  "popularity": 12307,
+  "num_list_users": 1738,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-06-20T18:29:04+00:00",
-  "updated_at": "2025-01-31T19:57:25+00:00",
+  "updated_at": "2025-02-14T02:42:06+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -33,5 +33,34 @@
   },
   "source": "original",
   "average_episode_duration": 0,
-  "studios": []
+  "studios": [
+    {
+      "id": 101,
+      "name": "Studio Hibari"
+    },
+    {
+      "id": 235,
+      "name": "Shirogumi"
+    },
+    {
+      "id": 896,
+      "name": "Larx Entertainment"
+    },
+    {
+      "id": 1843,
+      "name": "TriF Studio"
+    },
+    {
+      "id": 2379,
+      "name": "Scooter Films"
+    },
+    {
+      "id": 2916,
+      "name": "Reirs"
+    },
+    {
+      "id": 3079,
+      "name": "LinQ"
+    }
+  ]
 }

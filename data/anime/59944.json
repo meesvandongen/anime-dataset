@@ -7,22 +7,22 @@
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "Pokétoon",
     "ja": "POKÉTOON"
   },
   "start_date": "2024-09-18",
   "end_date": "2025-02-14",
   "synopsis": "The second installation of the POKÉTOON series. ",
-  "mean": 7.1,
-  "rank": 3931,
-  "popularity": 12305,
-  "num_list_users": 1734,
-  "num_scoring_users": 444,
+  "mean": 7.07,
+  "rank": 4075,
+  "popularity": 12253,
+  "num_list_users": 1770,
+  "num_scoring_users": 461,
   "nsfw": "white",
   "created_at": "2024-09-25T11:17:31+00:00",
   "updated_at": "2025-02-07T10:24:07+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 2,
@@ -43,7 +43,7 @@
     "season": "summer"
   },
   "source": "game",
-  "average_episode_duration": 440,
+  "average_episode_duration": 498,
   "rating": "g",
   "studios": [
     {
