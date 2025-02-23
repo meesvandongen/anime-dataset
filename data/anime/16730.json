@@ -13,11 +13,11 @@
   "start_date": "1981-03-14",
   "end_date": "1981-03-14",
   "synopsis": "",
-  "mean": 6.07,
-  "rank": 9560,
-  "popularity": 16409,
-  "num_list_users": 566,
-  "num_scoring_users": 147,
+  "mean": 6.05,
+  "rank": 9663,
+  "popularity": 16330,
+  "num_list_users": 575,
+  "num_scoring_users": 152,
   "nsfw": "white",
   "created_at": "2012-12-18T14:41:50+00:00",
   "updated_at": "2021-10-08T08:26:55+00:00",
@@ -38,6 +38,6 @@
     "year": 1981,
     "season": "winter"
   },
-  "average_episode_duration": 1620,
+  "average_episode_duration": 1530,
   "studios": []
 }
