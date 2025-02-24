@@ -14,23 +14,19 @@
   "end_date": "2016-06-17",
   "synopsis": "Titans from outer space, life forms from a mystical world, phantoms and goblins from ancient times, cyborgs created by scientists, relics that rose out of the ruins of ancient civilizations. In another Japan, it's not just a question of \"what if\"—it's a reality. Some of the superhumans choose to keep their identities a secret, while others bask in their superhuman fame. Jiro Hitoyoshi, member of the Superhuman Bureau, keeps track of their doings.\n\n(Source: ANN)",
   "mean": 6.98,
-  "rank": 4465,
-  "popularity": 3875,
-  "num_list_users": 37480,
+  "rank": 4473,
+  "popularity": 3877,
+  "num_list_users": 37497,
   "num_scoring_users": 14232,
   "nsfw": "white",
   "created_at": "2015-12-11T19:46:10+00:00",
-  "updated_at": "2023-04-17T06:43:20+00:00",
+  "updated_at": "2025-02-18T11:51:33+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 8,
-      "name": "Drama"
     },
     {
       "id": 10,
@@ -51,6 +47,10 @@
     {
       "id": 31,
       "name": "Super Power"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 11,

@@ -1,0 +1,48 @@
+{
+  "id": 61037,
+  "title": "Asayake wa Ame no Kizashi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1241/148062.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1241/148062l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "朝焼けは雨のきざし"
+  },
+  "start_date": "2008-02-20",
+  "end_date": "2008-02-20",
+  "synopsis": "Music video for the song Asayake wa Ame no Kizashi by Kirinji.",
+  "popularity": 27990,
+  "num_list_users": 35,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2025-02-20T05:41:24+00:00",
+  "updated_at": "2025-02-20T05:41:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 312,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 3082,
+      "name": "teevee graphics"
+    }
+  ]
+}
