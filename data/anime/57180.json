@@ -16,11 +16,11 @@
   "start_date": "2024-01-15",
   "end_date": "2024-04-08",
   "synopsis": "Twelfth season of Yami Shibai.",
-  "mean": 5.84,
-  "rank": 10711,
-  "popularity": 8301,
-  "num_list_users": 5984,
-  "num_scoring_users": 2006,
+  "mean": 5.85,
+  "rank": 10689,
+  "popularity": 8298,
+  "num_list_users": 6006,
+  "num_scoring_users": 2012,
   "nsfw": "white",
   "created_at": "2023-11-16T12:38:54+00:00",
   "updated_at": "2024-07-04T01:11:50+00:00",
@@ -56,6 +56,10 @@
     {
       "id": 1169,
       "name": "ILCA"
+    },
+    {
+      "id": 3086,
+      "name": "ILCASHIPS"
     }
   ]
 }

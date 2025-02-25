@@ -20,19 +20,31 @@
   "end_date": "2023-10-08",
   "synopsis": "Bartolomeo and a few mysterious guests recap the adventures of the Straw Hat Crew in the Land of Wano. From Monkey D. Luffy's first encounter with Otama to even the worst generation pirates' final confrontation with Big Mom and Kaido on the roof of Onigashima. The retelling of this exciting tale is just as riveting as the first.\n\n[Written by MAL Rewrite]\n",
   "mean": 6.23,
-  "rank": 8697,
-  "popularity": 5834,
-  "num_list_users": 14328,
-  "num_scoring_users": 6828,
+  "rank": 8665,
+  "popularity": 5833,
+  "num_list_users": 14344,
+  "num_scoring_users": 6833,
   "nsfw": "white",
   "created_at": "2021-12-30T16:31:21+00:00",
-  "updated_at": "2023-12-29T02:19:05+00:00",
+  "updated_at": "2025-02-23T02:31:45+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 4,
-      "name": "Comedy"
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 4,

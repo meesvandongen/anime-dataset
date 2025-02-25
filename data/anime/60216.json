@@ -11,16 +11,17 @@
     "ja": "彼女フェイス THE ANIMATION"
   },
   "start_date": "2025-01-31",
+  "end_date": "2025-01-31",
   "synopsis": "Konishi, a high school student, and his girlfriend Sanae regularly attend drama club. The boy has long fallen for the beauty for her sincerity, hard work, and other feminine advantages, and they began dating. Weeks and months passed, and the relationship did not move a step. One day, while doing another rehearsal for a drama club, Sanae finds condoms in the guy's room. Konishi thought there might be trouble. However, the girl's face was already frozen in anticipation.",
-  "mean": 6.65,
-  "popularity": 13417,
-  "num_list_users": 1245,
-  "num_scoring_users": 215,
+  "mean": 6.62,
+  "popularity": 13142,
+  "num_list_users": 1348,
+  "num_scoring_users": 264,
   "nsfw": "gray",
   "created_at": "2024-10-30T12:47:16+00:00",
-  "updated_at": "2024-10-30T21:58:29+00:00",
+  "updated_at": "2025-02-18T11:53:06+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
@@ -33,7 +34,7 @@
     "season": "winter"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 955,
   "rating": "rx",
   "studios": [
     {

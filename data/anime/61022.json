@@ -12,10 +12,10 @@
   },
   "start_date": "2023-08-10",
   "end_date": "2023-08-10",
-  "synopsis": "",
-  "popularity": 28021,
-  "num_list_users": 14,
-  "num_scoring_users": 7,
+  "synopsis": "Music video for the song Boku wa Jinrou by Roi.",
+  "popularity": 27851,
+  "num_list_users": 50,
+  "num_scoring_users": 24,
   "nsfw": "white",
   "created_at": "2025-02-17T11:18:26+00:00",
   "updated_at": "2025-02-17T16:29:22+00:00",
@@ -49,7 +49,7 @@
     "season": "summer"
   },
   "source": "original",
-  "average_episode_duration": 10200,
+  "average_episode_duration": 172,
   "rating": "r",
   "studios": []
 }

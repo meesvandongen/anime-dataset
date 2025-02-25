@@ -16,10 +16,10 @@
   "end_date": "2023-10-02",
   "synopsis": "Eleventh season of Yami Shibai.",
   "mean": 5.83,
-  "rank": 10776,
-  "popularity": 7521,
-  "num_list_users": 7603,
-  "num_scoring_users": 2691,
+  "rank": 10765,
+  "popularity": 7518,
+  "num_list_users": 7620,
+  "num_scoring_users": 2699,
   "nsfw": "white",
   "created_at": "2023-04-29T14:35:48+00:00",
   "updated_at": "2023-11-20T06:54:05+00:00",
@@ -55,6 +55,10 @@
     {
       "id": 1169,
       "name": "ILCA"
+    },
+    {
+      "id": 2438,
+      "name": "yell"
     }
   ]
 }

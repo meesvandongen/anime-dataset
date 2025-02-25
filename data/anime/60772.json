@@ -13,10 +13,10 @@
   "start_date": "2025-01-17",
   "end_date": "2025-02-14",
   "synopsis": "",
-  "rank": 15428,
-  "popularity": 21897,
-  "num_list_users": 178,
-  "num_scoring_users": 11,
+  "rank": 15461,
+  "popularity": 21164,
+  "num_list_users": 217,
+  "num_scoring_users": 19,
   "nsfw": "white",
   "created_at": "2025-01-16T10:30:15+00:00",
   "updated_at": "2025-02-17T15:54:52+00:00",
@@ -38,7 +38,12 @@
     "season": "winter"
   },
   "source": "original",
-  "average_episode_duration": 1200,
+  "average_episode_duration": 1053,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2469,
+      "name": "HM Heros"
+    }
+  ]
 }

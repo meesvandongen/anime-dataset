@@ -2,22 +2,22 @@
   "id": 59636,
   "title": "Uma Musume: Cinderella Gray",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1621/145033.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1621/145033l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1626/148097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1626/148097l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "ウマ娘 シンデレラグレイ"
   },
-  "start_date": "2025-04",
+  "start_date": "2025-04-06",
   "synopsis": "A spin-off title of the Uma Musume project by Cygames. It follows Oguri Cap through her time at Kasamatsu Training Center Academy and on her journey of becoming a legendary horse girl.\n\n(Source: MU)",
-  "popularity": 7773,
-  "num_list_users": 7011,
-  "num_scoring_users": 2,
+  "popularity": 7654,
+  "num_list_users": 7301,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-08-23T13:23:02+00:00",
-  "updated_at": "2024-12-25T15:24:47+00:00",
+  "updated_at": "2025-02-22T14:01:09+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -46,6 +46,10 @@
   "start_season": {
     "year": 2025,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "16:30"
   },
   "source": "manga",
   "average_episode_duration": 0,
