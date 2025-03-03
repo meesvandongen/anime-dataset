@@ -2,8 +2,8 @@
   "id": 364,
   "title": "Gallery Fake",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/30129.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/10/30129l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/30129.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/10/30129l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -16,8 +16,8 @@
   "mean": 7.41,
   "rank": 2303,
   "popularity": 5567,
-  "num_list_users": 16204,
-  "num_scoring_users": 4025,
+  "num_list_users": 16214,
+  "num_scoring_users": 4028,
   "nsfw": "white",
   "created_at": "2005-11-21T22:39:00+00:00",
   "updated_at": "2022-05-17T06:57:34+00:00",
