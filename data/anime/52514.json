@@ -2,8 +2,8 @@
   "id": 52514,
   "title": "Air Folktale",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1874/126330.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1874/126330l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1874/126330.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1874/126330l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,8 @@
   "start_date": "2020-08-01",
   "end_date": "2020-08-01",
   "synopsis": "Music video for the song Air Folktale, performed by Gero.",
-  "popularity": 21385,
+  "mean": 5.94,
+  "popularity": 21436,
   "num_list_users": 206,
   "num_scoring_users": 104,
   "nsfw": "white",

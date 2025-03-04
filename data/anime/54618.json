@@ -2,8 +2,8 @@
   "id": 54618,
   "title": "Awakening (2020)",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1535/133770.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1535/133770l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1535/133770.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1535/133770l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,8 @@
   "start_date": "2020-05-11",
   "end_date": "2020-05-11",
   "synopsis": "Music video for the song Awakening by Kizuna AI.",
-  "popularity": 21643,
+  "mean": 5.94,
+  "popularity": 21684,
   "num_list_users": 192,
   "num_scoring_users": 102,
   "nsfw": "white",

@@ -14,13 +14,13 @@
   "end_date": "2019-03-17",
   "synopsis": "Do the girls' daily lives include fighting and not fighting? All characters from the TV animated series Toji no Miko and smartphone game Toji no Miko: Kizamishi Issen no Tomoshibi are gathered together in smaller form!\n\n(Source: Crunchyroll, edited)",
   "mean": 6.12,
-  "rank": 9297,
-  "popularity": 7964,
-  "num_list_users": 6658,
-  "num_scoring_users": 2555,
+  "rank": 9299,
+  "popularity": 7970,
+  "num_list_users": 6662,
+  "num_scoring_users": 2557,
   "nsfw": "white",
   "created_at": "2018-11-10T12:06:10+00:00",
-  "updated_at": "2022-11-16T11:53:16+00:00",
+  "updated_at": "2025-03-01T07:21:59+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 10,

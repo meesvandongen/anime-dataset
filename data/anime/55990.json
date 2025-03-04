@@ -13,7 +13,7 @@
   "start_date": "2017-09-01",
   "end_date": "2017-09-01",
   "synopsis": "Music video for the song Fine by Junho (From 2PM).",
-  "popularity": 23737,
+  "popularity": 23795,
   "num_list_users": 116,
   "num_scoring_users": 61,
   "nsfw": "white",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 242,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3090,
+      "name": "MAINCONCEPT"
+    }
+  ]
 }

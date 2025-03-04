@@ -2,8 +2,8 @@
   "id": 50485,
   "title": "Meiyou Yiwai",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1755/119812.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1755/119812l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1755/119812.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1755/119812l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,8 @@
   "start_date": "2019-02-26",
   "end_date": "2019-02-26",
   "synopsis": "Music video for the song No Exception by KUN (of Nine Percent).",
-  "popularity": 21575,
+  "mean": 6.27,
+  "popularity": 21618,
   "num_list_users": 196,
   "num_scoring_users": 103,
   "nsfw": "gray",

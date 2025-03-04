@@ -14,15 +14,17 @@
   },
   "start_date": "2025-02-27",
   "end_date": "2025-02-27",
-  "synopsis": "",
-  "popularity": 19342,
-  "num_list_users": 322,
-  "num_scoring_users": 0,
+  "synopsis": "Hana, a young girl from the Paldea region who admires the postman Dragonite and aspires to become an ace mail carrier, one day receives a letter with no address. Determined to find the sender, she embarks on a frantic search alongside her partner, Hogeta. After running around town, she finally tracks down the sender—a boy named Rio. Upon hearing his story, Hana learns that Rio wrote the letter to celebrate his father's birthday, who is stationed alone in the Kanto region. However, the day of his father's birthday has already arrived...\n\n(Source: Official YouTube, translated)",
+  "mean": 7.51,
+  "rank": 1919,
+  "popularity": 14329,
+  "num_list_users": 983,
+  "num_scoring_users": 351,
   "nsfw": "white",
   "created_at": "2025-02-06T05:43:55+00:00",
-  "updated_at": "2025-02-12T10:24:37+00:00",
+  "updated_at": "2025-02-26T15:39:54+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 2,
@@ -43,16 +45,12 @@
     "season": "winter"
   },
   "source": "game",
-  "average_episode_duration": 0,
+  "average_episode_duration": 845,
   "rating": "pg",
   "studios": [
     {
       "id": 291,
       "name": "CoMix Wave Films"
-    },
-    {
-      "id": 2787,
-      "name": "Studio Lemon"
     }
   ]
 }

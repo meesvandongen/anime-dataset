@@ -13,8 +13,8 @@
   "start_date": "2023-07-06",
   "end_date": "2023-07-06",
   "synopsis": "Music video for the song Youtiful by Stray Kids.\n",
-  "mean": 6.24,
-  "popularity": 21165,
+  "mean": 6.23,
+  "popularity": 21195,
   "num_list_users": 217,
   "num_scoring_users": 123,
   "nsfw": "white",
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 209,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3090,
+      "name": "MAINCONCEPT"
+    }
+  ]
 }

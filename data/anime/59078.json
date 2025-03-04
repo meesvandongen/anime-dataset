@@ -2,8 +2,8 @@
   "id": 59078,
   "title": "Princession Orchestra",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1735/146986.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1735/146986l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1735/146986.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1735/146986l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "",
     "ja": "プリンセッション・オーケストラ"
   },
-  "start_date": "2025-04",
+  "start_date": "2025-04-06",
   "synopsis": "Alicepia, a land of wonder that has existed somewhere in the world since ancient times, was once home to loving inhabitants known as the Alicepians. Their peaceful lives were disrupted when a mysterious monster, Jamaock, began to appear, threatening the sparkling brilliance of their homeland. If nothing is done, Alyspia will lose its radiance forever.\n\nThis is the story of the \"Princesses,\" whose unwavering songs of courage and hope shine even in the darkest times. A pop-song fantasia filled with energy and bravery -- Princession Orchestra!\n\n(Source: Official YouTube, translated)",
-  "popularity": 11557,
-  "num_list_users": 2215,
+  "popularity": 11423,
+  "num_list_users": 2318,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-06-14T10:14:31+00:00",
-  "updated_at": "2024-12-19T03:22:27+00:00",
+  "updated_at": "2025-02-28T11:43:01+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2025,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "09:00"
   },
   "source": "original",
   "average_episode_duration": 0,
