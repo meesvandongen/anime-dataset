@@ -2,8 +2,8 @@
   "id": 43433,
   "title": "Alice no Kisetsu",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1662/109763.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1662/109763l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1662/109763.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1662/109763l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,9 +15,10 @@
   "start_date": "1988-04-05",
   "end_date": "1988-04-05",
   "synopsis": "Music video for the song Alice no Kisetsu by Chikaco Sawada that was featured on NHK's Minna no Uta program. The song and video animated by Tsutomu Shibayama were inspired by Alice in Wonderland.",
-  "popularity": 20094,
-  "num_list_users": 278,
-  "num_scoring_users": 110,
+  "mean": 5.72,
+  "popularity": 20058,
+  "num_list_users": 282,
+  "num_scoring_users": 113,
   "nsfw": "white",
   "created_at": "2020-10-15T05:15:32+00:00",
   "updated_at": "2021-11-14T09:54:37+00:00",
