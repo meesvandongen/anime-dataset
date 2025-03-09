@@ -2,8 +2,8 @@
   "id": 34204,
   "title": "Hibike! Euphonium 2 Specials",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/83486.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/13/83486l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/83486.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/13/83486l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2017-06-21",
   "synopsis": "Short specials included in the Blu-ray/DVD releases.",
   "mean": 6.8,
-  "rank": 5358,
+  "rank": 5341,
   "popularity": 4714,
-  "num_list_users": 24570,
-  "num_scoring_users": 9923,
+  "num_list_users": 24585,
+  "num_scoring_users": 9931,
   "nsfw": "white",
   "created_at": "2016-10-08T07:57:50+00:00",
-  "updated_at": "2022-04-03T14:44:38+00:00",
+  "updated_at": "2025-03-09T01:36:27+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -31,10 +31,6 @@
     {
       "id": 19,
       "name": "Music"
-    },
-    {
-      "id": 70,
-      "name": "Performing Arts"
     },
     {
       "id": 23,

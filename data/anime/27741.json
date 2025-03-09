@@ -15,17 +15,21 @@
   "start_date": "2015-01-10",
   "end_date": "2015-04-04",
   "synopsis": "Second Season of Shounen Hollywood: Holly Stage for 49.",
-  "mean": 6.48,
-  "rank": 7206,
-  "popularity": 7694,
+  "mean": 6.47,
+  "rank": 7237,
+  "popularity": 7705,
   "num_list_users": 7229,
   "num_scoring_users": 2461,
   "nsfw": "white",
   "created_at": "2014-09-27T12:20:01+00:00",
-  "updated_at": "2023-07-31T10:15:59+00:00",
+  "updated_at": "2025-03-08T15:18:27+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
     {
       "id": 61,
       "name": "Idols (Male)"
@@ -33,10 +37,6 @@
     {
       "id": 19,
       "name": "Music"
-    },
-    {
-      "id": 70,
-      "name": "Performing Arts"
     }
   ],
   "num_episodes": 13,

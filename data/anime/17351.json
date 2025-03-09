@@ -2,8 +2,8 @@
   "id": 17351,
   "title": "Mangirl!: Asobu Henshuu Girl",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/46513.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/46513l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/46513.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/46513l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,14 +16,14 @@
   "start_date": "2013-05-24",
   "end_date": "2013-05-24",
   "synopsis": "Unaired 14th Episode of Mangirl! that was released with the BD/DVD.",
-  "mean": 5.87,
-  "rank": 10568,
-  "popularity": 7569,
-  "num_list_users": 7515,
-  "num_scoring_users": 4089,
+  "mean": 5.88,
+  "rank": 10538,
+  "popularity": 7582,
+  "num_list_users": 7517,
+  "num_scoring_users": 4091,
   "nsfw": "white",
   "created_at": "2013-02-01T11:19:13+00:00",
-  "updated_at": "2022-02-12T19:53:17+00:00",
+  "updated_at": "2025-03-07T07:30:27+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -34,10 +34,6 @@
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,
