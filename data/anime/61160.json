@@ -1,0 +1,40 @@
+{
+  "id": 61160,
+  "title": "Imprisoned XII",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1833/148362.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1833/148362l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Imprisoned XII"
+  },
+  "start_date": "2025-03-07",
+  "end_date": "2025-03-07",
+  "synopsis": "Music video for the song Imprisoned XII by Ave Mujica.",
+  "mean": 7.21,
+  "popularity": 17028,
+  "num_list_users": 506,
+  "num_scoring_users": 233,
+  "nsfw": "white",
+  "created_at": "2025-03-07T11:32:27+00:00",
+  "updated_at": "2025-03-07T13:30:02+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 192,
+  "rating": "pg_13",
+  "studios": []
+}

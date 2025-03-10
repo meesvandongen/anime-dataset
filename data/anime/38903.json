@@ -1,0 +1,46 @@
+{
+  "id": 38903,
+  "title": "Moonrise",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1136/124521.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1136/124521l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ムーンライズ"
+  },
+  "start_date": "2025-04-10",
+  "synopsis": "In a not-too-distant future, humanity has established a loosely organized world government with everything managed by an international AI network called Sapientia. People live peaceful lives by loyally obeying its rational decisions. However, Sapientia's lunar development project, which sends criminals and pollutants to the Moon to maintain Earth's peace, creates disparity and poverty on the Moon, sparking a catalyst for war. Jacob \"Jack\" Shadow gets caught up in this conflict after losing his family to a terrorist bombing by the Moon's rebel army. Vowing revenge, Jack joins the Earth army as a scout on the Moon, only to discover an unexpected leader among the resistance forces.\n\n(Source: Netflix)",
+  "popularity": 6898,
+  "num_list_users": 9540,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2018-12-26T02:00:16+00:00",
+  "updated_at": "2025-03-08T00:01:56+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

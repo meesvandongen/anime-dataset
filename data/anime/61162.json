@@ -1,0 +1,43 @@
+{
+  "id": 61162,
+  "title": "Chinpui: Eri-sama no Good Luck",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1171/148365.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1171/148365l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "チンプイ エリさまのグッドラック"
+  },
+  "start_date": "2025-05-21",
+  "end_date": "2025-05-21",
+  "synopsis": "Movie shown at the Fujiko F. Museum in Kawasaki, Kanagawa to celebrate the 40th anniversary of the franchise.",
+  "popularity": 27107,
+  "num_list_users": 70,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-03-07T14:07:12+00:00",
+  "updated_at": "2025-03-07T14:07:12+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

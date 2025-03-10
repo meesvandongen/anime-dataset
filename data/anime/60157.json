@@ -2,8 +2,8 @@
   "id": 60157,
   "title": "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1728/147578.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1728/147578l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1263/148318.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1263/148318l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "",
     "ja": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる"
   },
-  "start_date": "2025-04",
+  "start_date": "2025-04-10",
   "synopsis": "Philia hails from a family renowned for producing generations of saints, and she is no exception. In fact, she is known as the most powerful saint of all time, so extraordinarily gifted that many people find her insufferable. When even her fiancé decides he can't stand her, he suddenly calls off their engagement. He's so eager to never see her again that he sells her off to a neighboring country in dire need of a saint of their own. Now, Philia readies herself to face the unknown, fully expecting more miserable treatment. After all, she'd be a fool to expect anyone to welcome her with open arms...right?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 7659,
-  "num_list_users": 7309,
-  "num_scoring_users": 9,
+  "popularity": 7400,
+  "num_list_users": 7976,
+  "num_scoring_users": 11,
   "nsfw": "white",
   "created_at": "2024-10-20T12:20:55+00:00",
-  "updated_at": "2025-01-17T09:20:08+00:00",
+  "updated_at": "2025-03-06T11:50:34+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -36,6 +36,10 @@
   "start_season": {
     "year": 2025,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

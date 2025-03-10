@@ -2,8 +2,8 @@
   "id": 59466,
   "title": "Aharen-san wa Hakarenai Season 2",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1467/144625.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1467/144625l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1501/148355.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1501/148355l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "Aharen-san wa Hakarenai Season 2",
     "ja": "阿波連さんははかれない season2"
   },
-  "start_date": "2025-04",
+  "start_date": "2025-04-07",
   "synopsis": "Second season of Aharen-san wa Hakarenai.",
-  "popularity": 4083,
-  "num_list_users": 33740,
-  "num_scoring_users": 0,
+  "popularity": 4015,
+  "num_list_users": 34774,
+  "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2024-08-03T15:04:15+00:00",
-  "updated_at": "2025-01-21T04:33:16+00:00",
+  "updated_at": "2025-03-07T09:52:50+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -48,6 +48,10 @@
   "start_season": {
     "year": 2025,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "22:00"
   },
   "source": "manga",
   "average_episode_duration": 0,

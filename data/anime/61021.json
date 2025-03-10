@@ -14,8 +14,8 @@
   "end_date": "2019-11-12",
   "synopsis": "Music video for the song Anata dake by Hakushi Hasegawa.",
   "popularity": 27961,
-  "num_list_users": 47,
-  "num_scoring_users": 26,
+  "num_list_users": 49,
+  "num_scoring_users": 27,
   "nsfw": "white",
   "created_at": "2025-02-17T03:20:18+00:00",
   "updated_at": "2025-02-17T03:20:18+00:00",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 255,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2748,
+      "name": "Sankaku"
+    }
+  ]
 }

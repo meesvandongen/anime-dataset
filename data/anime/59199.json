@@ -2,22 +2,22 @@
   "id": 59199,
   "title": "Classic★Stars",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1490/143926.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1490/143926l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1564/148380.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1564/148380l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "クラシック★スターズ"
   },
-  "start_date": "2025-04",
+  "start_date": "2025-04-06",
   "synopsis": "Gloria Private Academy is a school where promising young people gather in all fields of entertainment, including music, art, and sports. In the music department, those who match the \"talent\" of great musicians are transplanted with a \"gift\" into their bodies and are called by the name of that musician. Beethoven, a young man who was discovered to be compatible after an injury, is one of them. After transferring to the school, Beethoven meets classmates with different gifts and discovers the charm of music, while aiming to win the competition.\n\n(Source: Official Site, translated)",
-  "popularity": 13736,
-  "num_list_users": 1157,
+  "popularity": 13427,
+  "num_list_users": 1253,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-07-01T11:16:54+00:00",
-  "updated_at": "2025-01-17T14:19:24+00:00",
+  "updated_at": "2025-03-09T06:43:38+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -34,6 +34,10 @@
   "start_season": {
     "year": 2025,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:00"
   },
   "source": "original",
   "average_episode_duration": 0,

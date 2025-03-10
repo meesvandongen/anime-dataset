@@ -14,16 +14,20 @@
   "end_date": "2017-06-23",
   "synopsis": "Kurogu had a love of kabuki theater instilled in him from a very young age thanks to his grandfather. Now, as a high school student, he desires to create his own kabuki club in order to bring an appreciation of kabuki to a wider audience. He'll find, though, that with the weight of hundreds of years of strict tradition, it's not so easy to get high schoolers interested. A rough start is not enough to deter Kurogu, and he'll work hard to inspire in others the same burning passion he feels, until the day he can put on his own performance!\n\n(Source: Honey's Anime)",
   "mean": 6.61,
-  "rank": 6438,
-  "popularity": 5061,
-  "num_list_users": 20798,
-  "num_scoring_users": 6301,
+  "rank": 6419,
+  "popularity": 5069,
+  "num_list_users": 20800,
+  "num_scoring_users": 6308,
   "nsfw": "white",
   "created_at": "2016-08-12T11:56:38+00:00",
-  "updated_at": "2022-03-25T05:11:45+00:00",
+  "updated_at": "2025-03-08T15:24:39+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
     {
       "id": 70,
       "name": "Performing Arts"
