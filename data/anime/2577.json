@@ -2,8 +2,8 @@
   "id": 2577,
   "title": "Tom Sawyer no Bouken",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/73344.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/10/73344l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/73344.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/73344l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "1980-12-28",
   "synopsis": "Tom Sawyer is a young boy growing up along the Mississippi River in the mid 1800s. Along with his best friend Huckleberry Finn, he spends his days ditching school, fishing, climbing trees and having adventures.\n\n(Source: ANN)",
   "mean": 7.32,
-  "rank": 2755,
-  "popularity": 6681,
-  "num_list_users": 10255,
-  "num_scoring_users": 4458,
+  "rank": 2710,
+  "popularity": 6683,
+  "num_list_users": 10269,
+  "num_scoring_users": 4462,
   "nsfw": "white",
   "created_at": "2007-05-31T21:50:30+00:00",
-  "updated_at": "2022-03-26T21:54:55+00:00",
+  "updated_at": "2025-03-10T09:33:42+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -37,10 +37,6 @@
     {
       "id": 13,
       "name": "Historical"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 49,
