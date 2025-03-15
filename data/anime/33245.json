@@ -2,8 +2,8 @@
   "id": 33245,
   "title": "Ame-iro Cocoa in Hawaii",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1727/111715.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1727/111715l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1727/111715.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1727/111715l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "end_date": "2016-12-18",
   "synopsis": "Ame-iro Cocoa: Rainy Cocoa Goes to Hawaii!! Nozomu Tokura, who is Aoi's older brother, is appointed as the manager of the Hawaii store.  With more new characters, will he be able to open up the store there successfully?",
   "mean": 4.77,
-  "rank": 13452,
-  "popularity": 7726,
-  "num_list_users": 7181,
-  "num_scoring_users": 2352,
+  "rank": 13463,
+  "popularity": 7731,
+  "num_list_users": 7189,
+  "num_scoring_users": 2354,
   "nsfw": "white",
   "created_at": "2016-04-28T12:58:24+00:00",
-  "updated_at": "2021-05-28T08:27:52+00:00",
+  "updated_at": "2025-03-10T10:06:40+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 4,
-      "name": "Comedy"
-    },
     {
       "id": 36,
       "name": "Slice of Life"

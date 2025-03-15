@@ -18,19 +18,31 @@
   "end_date": "2014-09-23",
   "synopsis": "Second season of Ai Mai Mii.",
   "mean": 5.95,
-  "rank": 10173,
-  "popularity": 5999,
-  "num_list_users": 13397,
-  "num_scoring_users": 6717,
+  "rank": 10156,
+  "popularity": 6002,
+  "num_list_users": 13411,
+  "num_scoring_users": 6722,
   "nsfw": "white",
   "created_at": "2014-04-03T15:01:36+00:00",
-  "updated_at": "2024-05-07T07:25:10+00:00",
+  "updated_at": "2025-03-12T02:16:07+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 12,

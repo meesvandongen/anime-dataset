@@ -16,13 +16,13 @@
   "end_date": "2006-10-21",
   "synopsis": "Gyagu Manga Biyori is hyperactive, random, and nonsensical, revolving around various plots and characters throughout the series. It makes absolutely no sense. The 1st episode is about stickers included in snacks\n\n(Source: ANN)",
   "mean": 7.11,
-  "rank": 3860,
-  "popularity": 9979,
-  "num_list_users": 3568,
-  "num_scoring_users": 1496,
+  "rank": 3850,
+  "popularity": 9988,
+  "num_list_users": 3573,
+  "num_scoring_users": 1497,
   "nsfw": "white",
   "created_at": "2007-05-25T16:41:00+00:00",
-  "updated_at": "2024-12-04T05:54:41+00:00",
+  "updated_at": "2025-03-11T12:51:23+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 57,
       "name": "Gag Humor"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 12,

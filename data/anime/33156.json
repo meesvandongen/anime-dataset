@@ -17,13 +17,13 @@
   "end_date": "2014-03-26",
   "synopsis": "A picture drama special included with the Blu-Ray release of the main series. Lelouch and friends attend Milly's graduation party.\n\n(Source: Wikipedia)",
   "mean": 6.29,
-  "rank": 8334,
-  "popularity": 6392,
-  "num_list_users": 11382,
-  "num_scoring_users": 2975,
+  "rank": 8314,
+  "popularity": 6398,
+  "num_list_users": 11393,
+  "num_scoring_users": 2976,
   "nsfw": "white",
   "created_at": "2016-04-08T16:24:16+00:00",
-  "updated_at": "2022-03-12T09:15:53+00:00",
+  "updated_at": "2025-03-10T10:31:59+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -34,10 +34,6 @@
     {
       "id": 23,
       "name": "School"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

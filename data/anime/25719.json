@@ -1,6 +1,6 @@
 {
   "id": 25719,
-  "title": "Futsuu no Joshikousei ga [Locodol] Yattemita.: Nagarekawa, Annai Shitemita.",
+  "title": "Futsuu no Joshikousei ga \"Locodol\" Yattemita.: Nagarekawa, Annai Shitemita.",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/11/67619.webp",
     "large": "https://cdn.myanimelist.net/images/anime/11/67619l.webp"
@@ -11,23 +11,27 @@
       "Futsuu no Joshikousei ga [Locodol] Yattemita. Special",
       "Futsuu no Joshikousei ga [Locodol] Yattemita. Episode 13"
     ],
-    "en": "",
-    "ja": "普通の女子校生が【ろこどる】やってみた。流川、案内してみた。"
+    "en": "Locodol: We Tried Giving a Tour of Nagarekawa",
+    "ja": "普通の女子校生が【ろこどる】やってみた。「流川、案内してみた。」"
   },
   "start_date": "2014-09-24",
   "end_date": "2014-09-24",
-  "synopsis": "Unaired episode titled \"Nagarekawa, Annai Shite Mita.\" bundled with the Volume 1 Blu-ray/DVD.",
+  "synopsis": "The Awa Awa Girls visit the Locodols hoping for a guided tour of Nagarekawa.\n\n(Source: Crunchyroll)",
   "mean": 6.88,
-  "rank": 4956,
-  "popularity": 6600,
-  "num_list_users": 10572,
-  "num_scoring_users": 5677,
+  "rank": 4939,
+  "popularity": 6608,
+  "num_list_users": 10576,
+  "num_scoring_users": 5678,
   "nsfw": "white",
   "created_at": "2014-08-02T21:57:07+00:00",
-  "updated_at": "2023-08-29T06:37:33+00:00",
+  "updated_at": "2025-03-12T01:40:27+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
     {
       "id": 4,
       "name": "Comedy"
@@ -35,10 +39,6 @@
     {
       "id": 60,
       "name": "Idols (Female)"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

@@ -19,13 +19,13 @@
   "end_date": "2012-07-17",
   "synopsis": "Unaired episodes bundled with the special edition of volume 4 of the original manga. ",
   "mean": 6.71,
-  "rank": 5864,
-  "popularity": 5912,
-  "num_list_users": 13925,
+  "rank": 5856,
+  "popularity": 5915,
+  "num_list_users": 13932,
   "num_scoring_users": 7514,
   "nsfw": "white",
   "created_at": "2012-06-27T05:32:12+00:00",
-  "updated_at": "2021-05-14T14:19:04+00:00",
+  "updated_at": "2025-03-10T09:48:29+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -40,10 +40,6 @@
     {
       "id": 42,
       "name": "Seinen"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 2,

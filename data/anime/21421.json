@@ -14,15 +14,25 @@
   "end_date": "2014-09-30",
   "synopsis": "\"Mahou Shoujo Taisen\" is a project created from a variety show for the Otaku \"2.5 Chigen TV\" (2.5 Dimension TV). The characters are the mahou shoujo that represent each local town in Japan. The characters that won from the second illustration competitions that were held on pixiv will appear in the anime.\n\n(Source: MAL News)",
   "mean": 5.73,
-  "rank": 11236,
-  "popularity": 5473,
-  "num_list_users": 16999,
-  "num_scoring_users": 5914,
+  "rank": 11230,
+  "popularity": 5476,
+  "num_list_users": 17007,
+  "num_scoring_users": 5915,
   "nsfw": "white",
   "created_at": "2013-11-29T17:08:22+00:00",
-  "updated_at": "2021-09-29T17:30:43+00:00",
+  "updated_at": "2025-03-12T02:36:28+00:00",
   "media_type": "tv",
   "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
   "num_episodes": 26,
   "start_season": {
     "year": 2014,

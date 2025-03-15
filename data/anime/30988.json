@@ -1,31 +1,36 @@
 {
   "id": 30988,
-  "title": "Futsuu no Joshikousei ga [Locodol] Yattemita. OVA",
+  "title": "Futsuu no Joshikousei ga \"Locodol\" Yattemita. OVA",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/78297.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/4/78297l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1809/148421.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1809/148421l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Locodol OVA"
+      "We Tried Celebrating Together",
+      "We Tried Making a PV"
     ],
-    "en": "",
+    "en": "Locodol OVA",
     "ja": "普通の女子校生が【ろこどる】やってみた流。OVA"
   },
   "start_date": "2016-03-23",
   "end_date": "2016-06-22",
-  "synopsis": "A new OVA for the idol girls series Futsuu no Joshikousei ga [Locodol] Yatte Mita. has been announced on the anime’s official Twitter. The news was first given at the 2nd Early Summer Nagarekawa Festival which took place at the Differ Ariake Arena in Tokyo today, and consisted of live events including the main cast of the anime.\n\n(Source: MAL News)",
-  "mean": 7.05,
-  "rank": 4137,
-  "popularity": 7270,
-  "num_list_users": 8393,
-  "num_scoring_users": 3808,
+  "synopsis": "Episodes 14 and 15 of Futsuu no Joshikousei ga [Locodol] Yatte Mita.",
+  "mean": 7.04,
+  "rank": 4182,
+  "popularity": 7276,
+  "num_list_users": 8398,
+  "num_scoring_users": 3810,
   "nsfw": "white",
   "created_at": "2015-06-13T17:59:53+00:00",
-  "updated_at": "2025-01-24T19:07:58+00:00",
+  "updated_at": "2025-03-12T01:41:07+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
     {
       "id": 4,
       "name": "Comedy"
@@ -33,10 +38,6 @@
     {
       "id": 60,
       "name": "Idols (Female)"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 2,

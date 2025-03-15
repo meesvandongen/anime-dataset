@@ -2,8 +2,8 @@
   "id": 4056,
   "title": "Masuda Kousuke Gekijou: Gag Manga Biyori 3",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/74001.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/2/74001l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74001.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74001l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2008-06-02",
   "synopsis": "Based on Masuda Kosuke's popular gag manga. Famous for its cynicism and sarcasm. Features omnibus styled 5-minute episodes starring various characters; including historical figures.",
   "mean": 7.01,
-  "rank": 4366,
-  "popularity": 10336,
-  "num_list_users": 3185,
+  "rank": 4360,
+  "popularity": 10346,
+  "num_list_users": 3188,
   "num_scoring_users": 1391,
   "nsfw": "white",
   "created_at": "2008-03-05T02:02:09+00:00",
-  "updated_at": "2024-12-04T05:53:42+00:00",
+  "updated_at": "2025-03-11T12:51:07+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 57,
       "name": "Gag Humor"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 12,
