@@ -1,0 +1,43 @@
+{
+  "id": 60727,
+  "title": "Arknights 5th Anniversary Special Video",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1656/147429.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1656/147429l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "5周年スペシャル動画"
+  },
+  "start_date": "2025-01-09",
+  "end_date": "2025-01-09",
+  "synopsis": "This is a special video celebrating the 5th anniversary of the popular app game \"Arknights\" from Yostar. \"Don't get the date wrong like Eureka!!\"\n\n(Source: YouTube, translated)",
+  "popularity": 28153,
+  "num_list_users": 26,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2025-01-09T12:14:17+00:00",
+  "updated_at": "2025-03-12T12:55:10+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 470,
+  "rating": "pg_13",
+  "studios": []
+}

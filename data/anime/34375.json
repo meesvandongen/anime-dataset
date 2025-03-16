@@ -15,14 +15,14 @@
   "start_date": "2017-04-15",
   "end_date": "2017-04-15",
   "synopsis": "The second movie in the Washio Sumi no Shou trilogy.\n\n",
-  "mean": 7.78,
-  "rank": 1100,
-  "popularity": 5692,
-  "num_list_users": 15332,
-  "num_scoring_users": 5895,
+  "mean": 7.77,
+  "rank": 1105,
+  "popularity": 5695,
+  "num_list_users": 15346,
+  "num_scoring_users": 5902,
   "nsfw": "white",
   "created_at": "2016-11-13T08:18:51+00:00",
-  "updated_at": "2024-10-05T17:30:12+00:00",
+  "updated_at": "2025-03-10T07:37:04+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -33,10 +33,6 @@
     {
       "id": 66,
       "name": "Mahou Shoujo"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

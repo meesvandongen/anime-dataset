@@ -14,17 +14,16 @@
     "ja": "非人哉 第2季"
   },
   "start_date": "2022-08-10",
-  "end_date": "2022-10-12",
   "synopsis": "",
-  "rank": 17938,
-  "popularity": 16781,
-  "num_list_users": 529,
+  "rank": 20582,
+  "popularity": 15611,
+  "num_list_users": 692,
   "num_scoring_users": 104,
   "nsfw": "white",
   "created_at": "2022-07-28T04:19:37+00:00",
-  "updated_at": "2023-01-02T10:27:18+00:00",
+  "updated_at": "2025-03-13T14:24:05+00:00",
   "media_type": "ona",
-  "status": "finished_airing",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -39,7 +38,7 @@
       "name": "Supernatural"
     }
   ],
-  "num_episodes": 12,
+  "num_episodes": 0,
   "start_season": {
     "year": 2022,
     "season": "summer"

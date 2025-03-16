@@ -2,8 +2,8 @@
   "id": 36537,
   "title": "Starmyu in Halloween",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1621/93659.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1621/93659l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1621/93659.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1621/93659l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -19,13 +19,13 @@
   "end_date": "2018-10-24",
   "synopsis": "Halloween has arrived at Ayanagi Academy, bringing copious amounts of pumpkins, decorations, and delicious seasonal foods with it. Yuuta Hoshitani and his classmates enjoy preparing for the festivities until Kouki Nanjou tells a creepy ghost story, putting all of them on edge. As night draws closer, the lights in their dormitory go out and ghosts begin to appear, making the group believe that Nanjou's eerie tale is actually rooted in truth! While Hoshitani and a few others cower in fear, the rest of them investigate the supernatural occurrence to find the truth behind what is really going on.\n\n[Written by MAL Rewrite]",
   "mean": 6.92,
-  "rank": 4720,
-  "popularity": 9789,
-  "num_list_users": 3805,
+  "rank": 4722,
+  "popularity": 9800,
+  "num_list_users": 3809,
   "num_scoring_users": 856,
   "nsfw": "white",
   "created_at": "2017-10-08T06:34:11+00:00",
-  "updated_at": "2023-07-31T04:52:41+00:00",
+  "updated_at": "2025-03-13T09:21:07+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -44,6 +44,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

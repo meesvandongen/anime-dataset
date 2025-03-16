@@ -2,8 +2,8 @@
   "id": 47410,
   "title": "Initial D Battle Stage 3",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1236/113306.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1236/113306l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1236/113306.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1236/113306l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2021-03-05",
   "synopsis": "Initial D: Battle Stage 3 is the eleventh and final installment of the Initial D series. It features every race from Fifth Stage and Final Stage. Unlike the previous two battle stages, it does not feature any new battles, and doesn't feature any character dialogue.\n\n(Source: Initial D Wiki)",
   "mean": 7.53,
-  "rank": 1868,
-  "popularity": 7244,
-  "num_list_users": 8488,
-  "num_scoring_users": 3275,
+  "rank": 1870,
+  "popularity": 7247,
+  "num_list_users": 8502,
+  "num_scoring_users": 3282,
   "nsfw": "white",
   "created_at": "2021-02-06T13:02:30+00:00",
-  "updated_at": "2022-04-14T22:46:01+00:00",
+  "updated_at": "2025-03-12T11:20:52+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 3,
       "name": "Racing"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 1,

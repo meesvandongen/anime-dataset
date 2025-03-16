@@ -2,8 +2,8 @@
   "id": 47777,
   "title": "Toku: Touken Ranbu - Hanamaru - Setsugetsuka",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1233/121779.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1233/121779l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1233/121779.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1233/121779l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2022-09-01",
   "synopsis": "Touken Ranbu: Hanamaru anime movie trilogy.",
   "mean": 6.95,
-  "rank": 4591,
-  "popularity": 8789,
-  "num_list_users": 5238,
-  "num_scoring_users": 394,
+  "rank": 4590,
+  "popularity": 8799,
+  "num_list_users": 5241,
+  "num_scoring_users": 397,
   "nsfw": "white",
   "created_at": "2021-02-14T12:26:35+00:00",
-  "updated_at": "2022-04-15T19:43:27+00:00",
+  "updated_at": "2025-03-10T10:41:59+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -33,20 +33,12 @@
       "name": "Comedy"
     },
     {
-      "id": 8,
-      "name": "Drama"
-    },
-    {
       "id": 10,
       "name": "Fantasy"
     },
     {
       "id": 13,
       "name": "Historical"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 3,

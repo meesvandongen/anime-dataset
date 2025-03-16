@@ -2,8 +2,8 @@
   "id": 35347,
   "title": "Kemono Friends: Bus-teki",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/86031.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/2/86031l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/86031.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/2/86031l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,13 +18,13 @@
   "end_date": "2017-04-04",
   "synopsis": "Special episode 12.1 of Kemono Friends, streamed online.",
   "mean": 6.55,
-  "rank": 6741,
-  "popularity": 8373,
-  "num_list_users": 5909,
-  "num_scoring_users": 2218,
+  "rank": 6735,
+  "popularity": 8377,
+  "num_list_users": 5916,
+  "num_scoring_users": 2221,
   "nsfw": "white",
   "created_at": "2017-04-04T18:54:51+00:00",
-  "updated_at": "2025-02-09T08:44:20+00:00",
+  "updated_at": "2025-03-10T07:07:25+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -39,10 +39,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 63,
-      "name": "Iyashikei"
     }
   ],
   "num_episodes": 1,

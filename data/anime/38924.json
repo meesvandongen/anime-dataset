@@ -2,8 +2,8 @@
   "id": 38924,
   "title": "Nekopara",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1716/104880.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1716/104880l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1716/104880.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1716/104880l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,22 +17,18 @@
   "synopsis": "The siblings Kashou and Shigure Minazuki enjoy the company of six catgirls. Chocola and Vanilla assist Kashou in his job as a baker at the patisserie La Soleil, while the others—Coconut, Azuki, Cinnamon, and Maple—accompany Shigure in her daily life back at their home.\n\nOne afternoon, when Chocola goes out for an errand, she notices a green-haired kitten alone by herself at a park and decides to bring her back to the patisserie. Soon after, the Minazuki household adopts her and gives her a name: Cacao. With a new member in their family, the members of the Minazuki household continue their everyday lives—bound to become livelier than ever.\n\n[Written by MAL Rewrite]",
   "mean": 6.72,
   "rank": 5777,
-  "popularity": 1402,
-  "num_list_users": 181223,
-  "num_scoring_users": 68708,
+  "popularity": 1403,
+  "num_list_users": 181326,
+  "num_scoring_users": 68743,
   "nsfw": "white",
   "created_at": "2018-12-28T11:39:55+00:00",
-  "updated_at": "2023-10-17T18:27:04+00:00",
+  "updated_at": "2025-03-11T00:00:57+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 51,
       "name": "Anthropomorphic"
-    },
-    {
-      "id": 4,
-      "name": "Comedy"
     },
     {
       "id": 36,

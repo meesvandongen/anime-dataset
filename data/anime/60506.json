@@ -2,22 +2,22 @@
   "id": 60506,
   "title": "Araiguma Calcal-dan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1662/147894.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1662/147894l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1662/147894.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1662/147894l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "あらいぐま カルカル団"
   },
-  "start_date": "2025-04",
+  "start_date": "2025-04-04",
   "synopsis": "",
-  "popularity": 18720,
-  "num_list_users": 366,
+  "popularity": 17978,
+  "num_list_users": 425,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-12-12T11:27:33+00:00",
-  "updated_at": "2025-02-07T12:35:44+00:00",
+  "updated_at": "2025-03-14T03:20:44+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -35,8 +35,12 @@
     "year": 2025,
     "season": "spring"
   },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:54"
+  },
   "source": "book",
-  "average_episode_duration": 0,
+  "average_episode_duration": 120,
   "studios": [
     {
       "id": 22,
