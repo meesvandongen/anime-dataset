@@ -1,0 +1,51 @@
+{
+  "id": 61252,
+  "title": "Skill Up",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1565/148546.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1565/148546l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スキルアップ"
+  },
+  "start_date": "2014-02-18",
+  "end_date": "2014-02-18",
+  "synopsis": "Music video for the song Skill Up by Triple Fire.",
+  "popularity": 28183,
+  "num_list_users": 28,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2025-03-18T03:59:33+00:00",
+  "updated_at": "2025-03-18T03:59:33+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2014,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 238,
+  "rating": "r",
+  "studios": []
+}

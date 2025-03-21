@@ -2,8 +2,8 @@
   "id": 17909,
   "title": "Uchouten Kazoku",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/85433.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/85433l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/85433.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/85433l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2013-09-29",
   "synopsis": "Kyoto has been populated by groups of tanuki and tengu for years, living alongside humans who are oblivious to the existence of these creatures. Yasaburou Shimogamo is the third son of an influential tanuki family who spends his carefree days taking care of an old tengu, observing humans through his ability to shapeshift, and dealing with the mysterious woman named Benten.\n\nBehind the peace and tranquility, however, is a painful memory from long ago as Yasaburou's father, head of the tanuki community, was killed and eaten by a group of humans known as the Friday Fellows. Uchouten Kazoku follows the trials and tribulations of the Shimogamo brothers as they struggle to avoid their own grisly demise while coming ever closer to unraveling the truth behind their father's death.\n\n[Written by MAL Rewrite]",
   "mean": 7.82,
-  "rank": 999,
-  "popularity": 1465,
-  "num_list_users": 172275,
-  "num_scoring_users": 55314,
+  "rank": 1001,
+  "popularity": 1466,
+  "num_list_users": 172342,
+  "num_scoring_users": 55321,
   "nsfw": "white",
   "created_at": "2013-03-21T02:44:08+00:00",
-  "updated_at": "2024-10-20T11:09:43+00:00",
+  "updated_at": "2025-03-17T21:18:51+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -35,24 +35,16 @@
       "name": "Award Winning"
     },
     {
-      "id": 4,
-      "name": "Comedy"
-    },
-    {
       "id": 8,
       "name": "Drama"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 6,
       "name": "Mythology"
     },
     {
-      "id": 82,
-      "name": "Urban Fantasy"
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 13,
