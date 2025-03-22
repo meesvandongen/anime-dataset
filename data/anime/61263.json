@@ -1,0 +1,52 @@
+{
+  "id": 61263,
+  "title": "Riku wa Yowakunai Manner Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1067/148586.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1067/148586l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "『リクはよわくない』マナームービー"
+  },
+  "start_date": "2021-08-13",
+  "end_date": "2021-08-13",
+  "synopsis": "A manner movie for Riku wa Yowakunai.",
+  "popularity": 28193,
+  "num_list_users": 28,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2025-03-19T00:15:14+00:00",
+  "updated_at": "2025-03-19T00:15:14+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 43,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
+}

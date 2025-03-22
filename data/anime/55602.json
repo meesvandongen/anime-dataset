@@ -13,8 +13,8 @@
   "start_date": "2022-07-22",
   "end_date": "2022-07-22",
   "synopsis": "",
-  "rank": 18347,
-  "popularity": 23809,
+  "rank": 20815,
+  "popularity": 23884,
   "num_list_users": 117,
   "num_scoring_users": 18,
   "nsfw": "white",
@@ -36,5 +36,10 @@
   "source": "other",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
 }

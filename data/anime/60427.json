@@ -1,0 +1,50 @@
+{
+  "id": 60427,
+  "title": "Gnosia",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1347/148507.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1347/148507l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "グノーシア"
+  },
+  "start_date": "2025-10",
+  "synopsis": "Let's walk and talk. Can you get up?\n\nThe Gnosia lie. Pretending to be human, they'll get in close, trick and deceive, and then eradicate each person in the vicinity from the universe, one victim at a time.\n\nThe crew of a drifting spaceship, facing off against a mysterious and deadly threat known as the \"Gnosia\" and having no idea who among them is really the enemy, formulate a desperate plan for survival. The most suspicious among them will be put into \"cold sleep\" one by one, in an effort to completely rid the ship of Gnosia.\n\nHowever, it is almost impossible to tell whether each person put into cold sleep was really Gnosia—or simply a poor, unfortunate scapegoat, sacrificed by the Gnosia for their own survival. Can the humans emerge victorious? Or is mankind doomed...?\n\n(Source: Playism)",
+  "popularity": 11300,
+  "num_list_users": 2432,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-12-01T09:11:58+00:00",
+  "updated_at": "2025-03-16T10:06:11+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1380,
+      "name": "domerica"
+    }
+  ]
+}

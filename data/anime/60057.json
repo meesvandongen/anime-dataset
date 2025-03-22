@@ -1,6 +1,6 @@
 {
   "id": 60057,
-  "title": "Chao Neng Lifang",
+  "title": "Chao Neng Lifang: Chaofan Pian",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1759/145944.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1759/145944l.jpg"
@@ -8,18 +8,19 @@
   "alternative_titles": {
     "synonyms": [],
     "en": "The Super Cube",
-    "ja": "超能立方"
+    "ja": "超能立方 超凡篇"
   },
   "start_date": "2025-03-21",
-  "synopsis": "In an accident, Wang Xiaoxiu, an ordinary teenager, obtains a space system \"Super Cube\" from a high-latitude cosmic civilization, thus possessing extraordinary abilities. After being confessed to by Shen Yao, the schoolgirl whom he has long been in love with, Wang Xiaoxiu annoys Sun Jun, an undesirable young man who is also Shen Yao's suitor. Wang Xiaoxiu relies on his resourcefulness and extraordinary ability to defuse the crisis, but it also leads to more trouble. Shen Yao is taken by a mysterious man to the world of extraordinary people, and Wang Xiaoxiu embarks on a journey to save Shen Yao. Together with Xiao Xiu, he fights in the world of light and strange, interpreting fairness and justice on his way to becoming a supremely powerful man!",
-  "popularity": 12669,
-  "num_list_users": 1580,
-  "num_scoring_users": 0,
+  "synopsis": "In an accident, an ordinary boy, Wang Xiaoxiu, obtains a space system called \"Superpower Cube\" from a high-latitude cosmic civilization and gains extraordinary powers. When the school belle, Shen Yao, Wang Xiaoxiu’s longtime crush, confesses her love to him, the delinquent Sun Jun, who also has a crush on her, is provoked. \n\nWang Xiaoxiu resolves the crisis with his wit and extraordinary powers, but it also brings more disasters as a result. Shen Yao is taken to the world of extraordinary beings by a mysterious person, and Wang Xiaoxiu embarks on a journey to rescue her. Fighting in the bizarre universe, he finds the meaning of fairness and justice on the path to becoming a peerless powerhouse.\n\n(Source: iQIYI International)",
+  "rank": 17220,
+  "popularity": 10539,
+  "num_list_users": 3086,
+  "num_scoring_users": 57,
   "nsfw": "white",
   "created_at": "2024-10-06T10:39:41+00:00",
-  "updated_at": "2025-03-08T16:27:00+00:00",
+  "updated_at": "2025-03-19T06:02:46+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -30,17 +31,17 @@
       "name": "Adventure"
     },
     {
-      "id": 24,
-      "name": "Sci-Fi"
+      "id": 10,
+      "name": "Fantasy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "winter"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 900,
   "rating": "pg_13",
   "studios": [
     {

@@ -13,15 +13,16 @@
     "ja": "キン肉マン 完璧超人始祖編 Season2"
   },
   "start_date": "2025-01-12",
+  "end_date": "2025-03-30",
   "synopsis": "Second season of Kinnikuman: Kanpeki Chоujin Shiso-hen.",
-  "mean": 6.94,
-  "rank": 4613,
-  "popularity": 11098,
-  "num_list_users": 2558,
-  "num_scoring_users": 266,
+  "mean": 6.97,
+  "rank": 4495,
+  "popularity": 11066,
+  "num_list_users": 2597,
+  "num_scoring_users": 278,
   "nsfw": "white",
   "created_at": "2024-09-22T15:03:38+00:00",
-  "updated_at": "2025-01-12T16:57:45+00:00",
+  "updated_at": "2025-03-21T11:04:47+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -42,7 +43,7 @@
       "name": "Sports"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 11,
   "start_season": {
     "year": 2025,
     "season": "winter"
