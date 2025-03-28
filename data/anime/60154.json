@@ -15,12 +15,12 @@
   },
   "start_date": "2025-04-06",
   "synopsis": "In his last life, Liam lived as a moral, responsible person...but died deep in debt and betrayed by his wife. Reborn into the ruling family of a vast interstellar empire, Liam knows that life is divided between the downtrodden and the ones who do the stomping, so this time he's going to take what he wants and live for himself. But somehow, things refuse to work out that way. Despite doing his best to become a tyrant, Liam's decisions lead to nothing but peace and prosperity for the empire under his rule, and he just gets more and more popular!\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 6113,
-  "num_list_users": 12793,
-  "num_scoring_users": 4,
+  "popularity": 5182,
+  "num_list_users": 19789,
+  "num_scoring_users": 921,
   "nsfw": "white",
   "created_at": "2024-10-20T11:39:16+00:00",
-  "updated_at": "2025-03-19T20:15:03+00:00",
+  "updated_at": "2025-03-26T00:58:50+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -29,8 +29,16 @@
       "name": "Action"
     },
     {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
       "id": 35,
       "name": "Harem"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
     },
     {
       "id": 18,
@@ -39,6 +47,10 @@
     {
       "id": 38,
       "name": "Military"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
     },
     {
       "id": 24,

@@ -13,24 +13,25 @@
     "ja": "Re:ゼロから始める休憩時間（ブレイクタイム）3rd season"
   },
   "start_date": "2024-10-03",
+  "end_date": "2025-03-26",
   "synopsis": "The third season of Re:Zero kara Hajimeru Kyuukei Jikan Break Time.\n\n",
-  "mean": 7.36,
-  "rank": 2527,
-  "popularity": 7468,
-  "num_list_users": 7836,
-  "num_scoring_users": 927,
+  "mean": 7.19,
+  "rank": 3449,
+  "popularity": 7433,
+  "num_list_users": 7969,
+  "num_scoring_users": 1123,
   "nsfw": "white",
   "created_at": "2024-10-01T21:06:29+00:00",
-  "updated_at": "2024-10-02T13:43:27+00:00",
+  "updated_at": "2025-03-27T00:26:12+00:00",
   "media_type": "special",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 16,
   "start_season": {
     "year": 2024,
     "season": "fall"

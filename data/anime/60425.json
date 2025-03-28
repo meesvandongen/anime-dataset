@@ -13,17 +13,18 @@
     "ja": "0歳児スタートダッシュ物語 シーズン2"
   },
   "start_date": "2025-01-05",
+  "end_date": "2025-03-23",
   "synopsis": "After reincarnating from her previous life as an office worker and avid gamer, Lilia Carol grew and gained friends in her new world. During her fifth birthday, she met the handsome Elk von Luxel, who left her entranced. She normally has no issue maintaining her composure, but his presence manages to distract Lilia from her usual magic practice. As their paths continue to cross, a friendship blooms between them.\n\n[Written by MAL Rewrite]",
-  "mean": 5.7,
-  "rank": 11359,
-  "popularity": 10609,
-  "num_list_users": 2971,
-  "num_scoring_users": 199,
+  "mean": 5.64,
+  "rank": 11648,
+  "popularity": 10502,
+  "num_list_users": 3091,
+  "num_scoring_users": 401,
   "nsfw": "white",
   "created_at": "2024-12-01T06:22:28+00:00",
-  "updated_at": "2025-02-27T18:21:15+00:00",
+  "updated_at": "2025-03-23T12:42:10+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 2,
@@ -42,7 +43,7 @@
       "name": "Reincarnation"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "winter"

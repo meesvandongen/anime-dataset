@@ -13,19 +13,23 @@
   "start_date": "2025-01-05",
   "end_date": "2025-03-10",
   "synopsis": "After moving into a new share house, Ryota Ochi meets two beautiful housemates…who order him to do housework day in and day out! He's soon had enough, and is just about to move out when the two girls offer him a deal—for every minute of housework he does, they allow him to \"have fun\" with them for one minute!\n\n(Source: Suiseisha)",
-  "mean": 5.74,
-  "popularity": 13063,
-  "num_list_users": 1403,
-  "num_scoring_users": 285,
+  "mean": 5.69,
+  "popularity": 12865,
+  "num_list_users": 1499,
+  "num_scoring_users": 331,
   "nsfw": "gray",
   "created_at": "2024-12-27T11:07:14+00:00",
-  "updated_at": "2025-03-17T17:35:59+00:00",
+  "updated_at": "2025-03-28T00:43:02+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
     }
   ],
   "num_episodes": 8,

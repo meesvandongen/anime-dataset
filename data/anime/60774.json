@@ -1,0 +1,51 @@
+{
+  "id": 60774,
+  "title": "ChaO",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1288/148819.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1288/148819l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "ChaO",
+    "ja": "ChaO"
+  },
+  "start_date": "2025-08-15",
+  "end_date": "2025-08-15",
+  "synopsis": "A future society where humans and mermaids coexist. Stephen, an office worker, is suddenly asked to be married by Chao, a princess of the mermaid kingdom! A 100% pure love story!\n\n(Source: Official Twitter, edited)",
+  "popularity": 16414,
+  "num_list_users": 582,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-01-16T11:39:42+00:00",
+  "updated_at": "2025-03-26T00:17:08+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    }
+  ]
+}

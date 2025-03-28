@@ -17,14 +17,14 @@
   "end_date": "2019-01-06",
   "synopsis": "Episode 0 of Mini Toji. Kanami and Mihono are self-aware that they are in an anime and introduce/recap the Toji no Miko story so that viewers can enjoy Mini Toji the following week even if they haven't watched the original. ",
   "mean": 5.53,
-  "rank": 12018,
-  "popularity": 11775,
-  "num_list_users": 2104,
-  "num_scoring_users": 876,
+  "rank": 12035,
+  "popularity": 11786,
+  "num_list_users": 2106,
+  "num_scoring_users": 877,
   "nsfw": "white",
   "created_at": "2019-01-06T19:31:31+00:00",
-  "updated_at": "2021-01-24T12:08:57+00:00",
-  "media_type": "special",
+  "updated_at": "2025-03-26T11:41:10+00:00",
+  "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
     {
@@ -34,6 +34,10 @@
     {
       "id": 52,
       "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
     },
     {
       "id": 20,

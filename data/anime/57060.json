@@ -15,13 +15,13 @@
   "start_date": "2023-11-03",
   "end_date": "2023-11-22",
   "synopsis": "",
-  "rank": 15840,
-  "popularity": 22502,
+  "rank": 15855,
+  "popularity": 22535,
   "num_list_users": 159,
   "num_scoring_users": 16,
   "nsfw": "white",
   "created_at": "2023-11-03T18:52:59+00:00",
-  "updated_at": "2025-02-02T15:48:42+00:00",
+  "updated_at": "2025-03-27T00:15:04+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -32,10 +32,6 @@
     {
       "id": 66,
       "name": "Mahou Shoujo"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 40,
