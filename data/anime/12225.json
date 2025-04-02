@@ -2,8 +2,8 @@
   "id": 12225,
   "title": "Galaxy Angel S",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/34441.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/34441l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/34441.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/34441l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,10 +14,10 @@
   "end_date": "2004-04-23",
   "synopsis": "Galaxy Angel 3 TV special that contains 2 stories.",
   "mean": 6.86,
-  "rank": 5041,
-  "popularity": 10839,
-  "num_list_users": 2787,
-  "num_scoring_users": 1024,
+  "rank": 5049,
+  "popularity": 10851,
+  "num_list_users": 2788,
+  "num_scoring_users": 1025,
   "nsfw": "white",
   "created_at": "2011-11-30T13:10:17+00:00",
   "updated_at": "2019-07-05T12:52:33+00:00",
@@ -38,6 +38,7 @@
     "year": 2004,
     "season": "spring"
   },
+  "source": "original",
   "average_episode_duration": 1440,
   "rating": "pg_13",
   "studios": [

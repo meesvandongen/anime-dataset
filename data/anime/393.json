@@ -2,8 +2,8 @@
   "id": 393,
   "title": "Escaflowne",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1539/94517.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1539/94517l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1539/94517.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1539/94517l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,23 +16,23 @@
   "end_date": "2000-06-24",
   "synopsis": "Hitomi Kanzaki is in a very depressed mood. She only wants to sleep and fade away. Her misery summons Lord Folken who sends her to Gaea. The people of Gaea think she is the Wing Goddess, who can call upon the legendary Dragon Armor called Escaflowne. On Gaea, King Van, the sole survior of the White Dragon Clan, is also in a depressed state. Swearing an oath to get his revenge on the Black Dragon Clan that obliterated Van's kingdom, he lives by the sword. Now that the Wing Goddess has finally appeared, she posseses Gaea's world fate in her heart. Escaflowne will either lead Gaea to peace or total ruin.\n\n(Source: ANN)",
   "mean": 7.05,
-  "rank": 4146,
-  "popularity": 2654,
-  "num_list_users": 75452,
-  "num_scoring_users": 33051,
+  "rank": 4147,
+  "popularity": 2657,
+  "num_list_users": 75502,
+  "num_scoring_users": 33065,
   "nsfw": "white",
   "created_at": "2005-12-23T06:16:06+00:00",
-  "updated_at": "2022-10-31T10:09:45+00:00",
+  "updated_at": "2025-03-31T20:58:14+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 2,
-      "name": "Adventure"
+      "id": 1,
+      "name": "Action"
     },
     {
-      "id": 8,
-      "name": "Drama"
+      "id": 2,
+      "name": "Adventure"
     },
     {
       "id": 10,
@@ -43,16 +43,16 @@
       "name": "Isekai"
     },
     {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
       "id": 18,
       "name": "Mecha"
     },
     {
       "id": 22,
       "name": "Romance"
-    },
-    {
-      "id": 24,
-      "name": "Sci-Fi"
     }
   ],
   "num_episodes": 1,

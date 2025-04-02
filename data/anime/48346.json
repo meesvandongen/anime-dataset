@@ -15,8 +15,8 @@
   "start_date": "2006-07-25",
   "end_date": "2006-11-28",
   "synopsis": "",
-  "rank": 15022,
-  "popularity": 22043,
+  "rank": 15043,
+  "popularity": 22085,
   "num_list_users": 179,
   "num_scoring_users": 26,
   "nsfw": "white",
@@ -46,5 +46,10 @@
   "source": "manga",
   "average_episode_duration": 1490,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2158,
+      "name": "Durufix"
+    }
+  ]
 }
