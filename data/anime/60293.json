@@ -13,15 +13,17 @@
     "ja": "ボールパークでつかまえて！"
   },
   "start_date": "2025-04-02",
-  "synopsis": "An office drone finds relief from his job by attending the ballpark close to his daily commute. He asks a vendor girl for a beer, but for some reason, after the transaction she sticks around him...\n\n(Source: MU)",
-  "popularity": 8778,
-  "num_list_users": 5322,
-  "num_scoring_users": 0,
+  "synopsis": "To escape his tiring job, weary Murata finds escape at a nearby baseball stadium. While the games are thrilling, it’s Ruriko, the gyaru as cold as the beer she serves but secretly a sweetheart, who keeps him coming back. As her first regular, Murata discovers the warmth behind her frosty demeanor, and their hilarious, heartwarming encounters light up the ballpark and maybe even their hearts.\n\n(Source: Crunchyroll)",
+  "mean": 6.85,
+  "rank": 5118,
+  "popularity": 6653,
+  "num_list_users": 10528,
+  "num_scoring_users": 961,
   "nsfw": "white",
   "created_at": "2024-11-14T13:32:12+00:00",
-  "updated_at": "2025-03-21T12:47:32+00:00",
+  "updated_at": "2025-04-01T19:27:17+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
@@ -44,7 +46,7 @@
       "name": "Team Sports"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "spring"
@@ -54,7 +56,8 @@
     "start_time": "00:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1264,

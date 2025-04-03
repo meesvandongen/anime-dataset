@@ -1,0 +1,45 @@
+{
+  "id": 61332,
+  "title": "Aka no Kioku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1703/148880.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1703/148880l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Red Memory",
+    "ja": "赤のキヲク"
+  },
+  "start_date": "2025-03-27",
+  "end_date": "2025-03-27",
+  "synopsis": "Short directed by Kiyotaka Oshiyama in collaboration with Fukushima Prefecture's general information magazine Fukushima Map's Supporter Association to promote the appeal of the prefecture to more people.\n\n(Source: YouTube description, translated)",
+  "rank": 16572,
+  "popularity": 24660,
+  "num_list_users": 104,
+  "num_scoring_users": 45,
+  "nsfw": "white",
+  "created_at": "2025-03-29T05:06:15+00:00",
+  "updated_at": "2025-03-29T12:22:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 218,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2196,
+      "name": "Studio DURIAN"
+    }
+  ]
+}

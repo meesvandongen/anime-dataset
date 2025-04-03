@@ -1,0 +1,57 @@
+{
+  "id": 61326,
+  "title": "Dokodemo Makibao",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1543/148859.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1543/148859l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "どこでもマキバオー"
+  },
+  "start_date": "2024-12-16",
+  "end_date": "2025-03-13",
+  "synopsis": "A spin-off of Midori no Makibao to celebrate the 30th anniversary of the series. It depicts \"everyday races\" such as \"who can pick up the most trash at the beach\" and \"who can get to the basement of the department store first to get the food that is limited to just one person.\"\n\n(Source: ANN)",
+  "rank": 17739,
+  "popularity": 27865,
+  "num_list_users": 64,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2025-03-27T17:15:46+00:00",
+  "updated_at": "2025-03-28T16:59:22+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 24,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 61353,
+  "title": "Hametsu no Yuuwaku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1662/148916.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1662/148916l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ハメツの誘惑"
+  },
+  "start_date": "2025-03-28",
+  "synopsis": "",
+  "popularity": 26634,
+  "num_list_users": 79,
+  "num_scoring_users": 14,
+  "nsfw": "gray",
+  "created_at": "2025-04-01T13:14:22+00:00",
+  "updated_at": "2025-04-01T17:53:31+00:00",
+  "media_type": "ova",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 12,
+      "name": "Hentai"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "rx",
+  "studios": [
+    {
+      "id": 2014,
+      "name": "Nur"
+    }
+  ]
+}

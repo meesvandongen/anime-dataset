@@ -6,16 +6,18 @@
     "large": "https://cdn.myanimelist.net/images/anime/1848/147681l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Hua Jianghu: Bu Liang Ren 7th Season"
+    ],
     "en": "",
     "ja": "画江湖之不良人柒：九幽玄天"
   },
   "start_date": "2025-03-27",
   "synopsis": "",
-  "rank": 18740,
-  "popularity": 22325,
-  "num_list_users": 168,
-  "num_scoring_users": 1,
+  "rank": 18758,
+  "popularity": 21948,
+  "num_list_users": 185,
+  "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": "2025-01-25T13:24:22+00:00",
   "updated_at": "2025-03-27T09:43:00+00:00",
@@ -53,7 +55,7 @@
     "season": "winter"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1500,
   "rating": "pg_13",
   "studios": [
     {

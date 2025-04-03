@@ -14,12 +14,12 @@
   },
   "start_date": "2025-04-13",
   "synopsis": "Second season of Sentai Daishikkaku.",
-  "popularity": 4040,
-  "num_list_users": 34563,
-  "num_scoring_users": 2,
+  "popularity": 3903,
+  "num_list_users": 37510,
+  "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": "2024-06-30T09:19:44+00:00",
-  "updated_at": "2025-03-11T02:33:55+00:00",
+  "updated_at": "2025-03-31T21:03:37+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -30,10 +30,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 24,
-      "name": "Sci-Fi"
     },
     {
       "id": 27,

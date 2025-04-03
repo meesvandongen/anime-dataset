@@ -1,0 +1,42 @@
+{
+  "id": 61345,
+  "title": "Overlord: Sei Oukoku-hen - Manner Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1971/148897.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1971/148897l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Overlord: The Sacred Kingdom - Manner Movie"
+    ],
+    "en": "",
+    "ja": "劇場版 OVERLORD 聖王国編 - 上映の注意"
+  },
+  "start_date": "2024-09-20",
+  "end_date": "2024-09-20",
+  "synopsis": "A theater manners short bundled with movie.",
+  "rank": 20984,
+  "popularity": 21780,
+  "num_list_users": 195,
+  "num_scoring_users": 45,
+  "nsfw": "white",
+  "created_at": "2025-03-31T04:32:08+00:00",
+  "updated_at": "2025-03-31T11:05:26+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}

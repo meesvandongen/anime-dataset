@@ -2,24 +2,26 @@
   "id": 55779,
   "title": "Cocoon: Aru Natsu no Shoujo-tachi yori",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1228/136698.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1228/136698l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1228/136698.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1228/136698l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "cocoon ～ある夏の少女たちより～"
   },
-  "start_date": "2025-08",
+  "start_date": "2025-03-30",
+  "end_date": "2025-03-30",
   "synopsis": "San and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield.",
-  "popularity": 11086,
-  "num_list_users": 2596,
-  "num_scoring_users": 0,
+  "rank": 17455,
+  "popularity": 10110,
+  "num_list_users": 3484,
+  "num_scoring_users": 45,
   "nsfw": "gray",
   "created_at": "2023-06-27T10:38:45+00:00",
-  "updated_at": "2025-03-28T01:10:09+00:00",
+  "updated_at": "2025-03-28T08:26:21+00:00",
   "media_type": "tv_special",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 8,
@@ -37,10 +39,10 @@
   "num_episodes": 1,
   "start_season": {
     "year": 2025,
-    "season": "summer"
+    "season": "winter"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 3600,
   "studios": [
     {
       "id": 2778,

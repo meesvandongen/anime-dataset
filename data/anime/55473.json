@@ -1,0 +1,43 @@
+{
+  "id": 55473,
+  "title": "Candy Alien",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1010/136125.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1010/136125l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "きゃんでいえいりあん"
+  },
+  "start_date": "2020-07-11",
+  "end_date": "2020-07-11",
+  "synopsis": "Music video for the song Candy Alien by tin, featuring Hatsune Miku.",
+  "popularity": 28228,
+  "num_list_users": 20,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2023-05-25T16:56:07+00:00",
+  "updated_at": "2025-03-30T08:03:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 220,
+  "rating": "pg_13",
+  "studios": []
+}
