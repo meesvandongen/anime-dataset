@@ -1,0 +1,40 @@
+{
+  "id": 61395,
+  "title": "Suitsuita!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1642/149057.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1642/149057l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "suitsuita!"
+  },
+  "start_date": "2010-10-26",
+  "end_date": "2010-10-26",
+  "synopsis": "A story about a girl and a hippopotamus that happened at the zoo.\n\n(Source: YouTube)",
+  "rank": 14722,
+  "popularity": 28250,
+  "num_list_users": 22,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2025-04-06T05:01:38+00:00",
+  "updated_at": "2025-04-06T05:01:38+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2010,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 110,
+  "rating": "g",
+  "studios": []
+}

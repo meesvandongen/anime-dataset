@@ -14,8 +14,8 @@
   "end_date": "2014-03-29",
   "synopsis": "47 Todoufuken R\" is based on the anime \"47 Todoufuken,\" which aired in 2011, but with new characters in 3D. The \"ken\" in \"Todoufuken\" is a play on the words \"prefecture\" and \"dog\" since it can mean both words.",
   "mean": 5.58,
-  "rank": 11895,
-  "popularity": 16076,
+  "rank": 11947,
+  "popularity": 16092,
   "num_list_users": 629,
   "num_scoring_users": 167,
   "nsfw": "white",
@@ -43,5 +43,10 @@
   },
   "average_episode_duration": 320,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1111,
+      "name": "DandeLion Animation Studio"
+    }
+  ]
 }
