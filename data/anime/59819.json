@@ -2,8 +2,8 @@
   "id": 59819,
   "title": "Bye Bye, Earth 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1538/147930.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1538/147930l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1538/147930.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1538/147930l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,16 @@
   },
   "start_date": "2025-04-04",
   "synopsis": "Second season of Bye Bye, Earth.",
-  "popularity": 6472,
-  "num_list_users": 11233,
-  "num_scoring_users": 2,
+  "mean": 6.55,
+  "rank": 6841,
+  "popularity": 6059,
+  "num_list_users": 13298,
+  "num_scoring_users": 568,
   "nsfw": "white",
   "created_at": "2024-09-13T15:27:36+00:00",
-  "updated_at": "2025-03-18T14:09:47+00:00",
+  "updated_at": "2025-04-04T15:28:05+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -48,7 +50,7 @@
     "start_time": "23:30"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
   "rating": "pg_13",
   "studios": [
     {

@@ -14,9 +14,9 @@
   "end_date": "2024-05-14",
   "synopsis": "Music video for the song Hazard Symbol by Yuyu. The song was featured as the opening for Kaii to Otome to Kamikakushi.\n",
   "mean": 6.4,
-  "popularity": 20677,
-  "num_list_users": 255,
-  "num_scoring_users": 127,
+  "popularity": 20693,
+  "num_list_users": 256,
+  "num_scoring_users": 128,
   "nsfw": "white",
   "created_at": "2024-05-22T10:16:25+00:00",
   "updated_at": "2024-08-12T18:52:29+00:00",
@@ -40,5 +40,10 @@
   "source": "original",
   "average_episode_duration": 237,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3107,
+      "name": "Hifumi, Inc."
+    }
+  ]
 }

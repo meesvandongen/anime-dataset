@@ -12,14 +12,15 @@
   },
   "start_date": "2025-04-05",
   "synopsis": "Following the chaotic and heartwarming daily lives of Kaijuu who have come to Earth to conquer the world and live with their human masters.",
-  "popularity": 17213,
-  "num_list_users": 496,
-  "num_scoring_users": 0,
+  "rank": 16860,
+  "popularity": 16016,
+  "num_list_users": 642,
+  "num_scoring_users": 21,
   "nsfw": "white",
   "created_at": "2024-10-08T19:30:33+00:00",
   "updated_at": "2025-03-07T06:09:31+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 71,
@@ -40,7 +41,7 @@
     "start_time": "07:00"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 120,
   "rating": "g",
   "studios": [
     {

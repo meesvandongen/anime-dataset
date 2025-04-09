@@ -12,14 +12,14 @@
   },
   "start_date": "2025-04-04",
   "synopsis": "",
-  "popularity": 18772,
-  "num_list_users": 371,
-  "num_scoring_users": 0,
+  "popularity": 17704,
+  "num_list_users": 455,
+  "num_scoring_users": 9,
   "nsfw": "gray",
   "created_at": "2025-03-07T23:09:17+00:00",
   "updated_at": "2025-03-09T11:26:08+00:00",
   "media_type": "ova",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 12,
@@ -34,5 +34,10 @@
   "source": "light_novel",
   "average_episode_duration": 0,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 2269,
+      "name": "New Generation"
+    }
+  ]
 }
