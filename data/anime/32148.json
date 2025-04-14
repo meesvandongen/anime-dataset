@@ -1,14 +1,12 @@
 {
   "id": 32148,
-  "title": "PS3® no Tsukai Kata: feat.Peeping Life",
+  "title": "PS3 no Tsukai Kata: feat. Peeping Life",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1002/147453.webp",
     "large": "https://cdn.myanimelist.net/images/anime/1002/147453l.webp"
   },
   "alternative_titles": {
-    "synonyms": [
-      "PS3 no Tsukai Kata feat. Peeping Life"
-    ],
+    "synonyms": [],
     "en": "",
     "ja": "PS3®のつかいかた -feat.Peeping Life-"
   },
@@ -16,23 +14,19 @@
   "end_date": "2010-09-26",
   "synopsis": "Collaboration of Peeping Life and PS3. A DVD containing 6 PS3 related Peeping Life episodes was given out at the 2010 Tokyo Game show.",
   "mean": 5.64,
-  "rank": 11752,
-  "popularity": 16629,
-  "num_list_users": 561,
-  "num_scoring_users": 151,
+  "rank": 11779,
+  "popularity": 16641,
+  "num_list_users": 564,
+  "num_scoring_users": 153,
   "nsfw": "white",
   "created_at": "2015-11-25T11:37:14+00:00",
-  "updated_at": "2015-12-13T10:42:51+00:00",
+  "updated_at": "2025-04-09T20:49:10+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 6,
@@ -43,5 +37,10 @@
   "source": "original",
   "average_episode_duration": 252,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
 }

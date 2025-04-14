@@ -13,9 +13,9 @@
   "start_date": "2014-11-15",
   "end_date": "2014-11-15",
   "synopsis": "Movie of Peeping Life.",
-  "rank": 18651,
-  "popularity": 17653,
-  "num_list_users": 458,
+  "rank": 18678,
+  "popularity": 17673,
+  "num_list_users": 462,
   "num_scoring_users": 80,
   "nsfw": "white",
   "created_at": "2014-09-05T14:20:50+00:00",
@@ -35,5 +35,10 @@
   },
   "average_episode_duration": 3550,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 291,
+      "name": "CoMix Wave Films"
+    }
+  ]
 }
