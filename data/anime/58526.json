@@ -1,0 +1,39 @@
+{
+  "id": 58526,
+  "title": "Pipapo☆Pipipu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1762/142283.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1762/142283l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ピパポ☆ピピプ"
+  },
+  "start_date": "2024-03-20",
+  "end_date": "2024-03-20",
+  "synopsis": "Music video for the song Pipapo☆Pipipu by BABACORN.",
+  "popularity": 28285,
+  "num_list_users": 25,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2024-03-25T16:33:51+00:00",
+  "updated_at": "2025-04-12T17:43:32+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 188,
+  "rating": "pg_13",
+  "studios": []
+}

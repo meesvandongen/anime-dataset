@@ -12,9 +12,9 @@
   },
   "start_date": "2025-05-23",
   "synopsis": "Second season of Ling Long.",
-  "popularity": 19011,
-  "num_list_users": 354,
-  "num_scoring_users": 1,
+  "popularity": 18574,
+  "num_list_users": 392,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-12-21T18:11:03+00:00",
   "updated_at": "2025-04-01T17:46:34+00:00",
@@ -37,5 +37,10 @@
   },
   "source": "original",
   "average_episode_duration": 1500,
-  "studios": []
+  "studios": [
+    {
+      "id": 1958,
+      "name": "YHKT Entertainment"
+    }
+  ]
 }

@@ -1,0 +1,43 @@
+{
+  "id": 61430,
+  "title": "Twilight (2025)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1625/149131.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1625/149131l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "トワイライト"
+  },
+  "start_date": "2025-04-08",
+  "end_date": "2025-04-08",
+  "synopsis": "Music video for the song Twilight by shallm. The song was used as an ending theme of the anime Aharen-san wa Hakarenai Season 2.",
+  "popularity": 23756,
+  "num_list_users": 126,
+  "num_scoring_users": 57,
+  "nsfw": "white",
+  "created_at": "2025-04-08T14:20:03+00:00",
+  "updated_at": "2025-04-09T08:49:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 231,
+  "rating": "pg_13",
+  "studios": []
+}

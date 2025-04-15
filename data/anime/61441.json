@@ -1,0 +1,47 @@
+{
+  "id": 61441,
+  "title": "Zettai Korosu Man",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1750/149177.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1750/149177l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "絶対殺すマン"
+  },
+  "start_date": "2021-12-09",
+  "end_date": "2021-12-09",
+  "synopsis": "Music video for the song Zettai Korosu Man by Hysteric Panic.",
+  "popularity": 28255,
+  "num_list_users": 37,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2025-04-10T05:42:03+00:00",
+  "updated_at": "2025-04-10T05:42:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2021,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 222,
+  "rating": "pg_13",
+  "studios": []
+}

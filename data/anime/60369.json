@@ -15,9 +15,9 @@
   "start_date": "2021-04",
   "end_date": "2021-10",
   "synopsis": "",
-  "rank": 17456,
-  "popularity": 20950,
-  "num_list_users": 242,
+  "rank": 17482,
+  "popularity": 20976,
+  "num_list_users": 243,
   "num_scoring_users": 31,
   "nsfw": "white",
   "created_at": "2024-11-24T11:56:42+00:00",
@@ -39,6 +39,7 @@
     "year": 2021,
     "season": "spring"
   },
+  "source": "web_manga",
   "average_episode_duration": 50,
   "rating": "pg_13",
   "studios": []

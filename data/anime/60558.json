@@ -7,18 +7,18 @@
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "The Ravages of Time",
+    "en": "The Ravages of Time 2nd Season",
     "ja": "火凤燎原 第二季"
   },
   "start_date": "2025-01-16",
-  "synopsis": "",
-  "rank": 21533,
-  "popularity": 18487,
-  "num_list_users": 396,
-  "num_scoring_users": 32,
+  "synopsis": "Second season of Huo Feng Liao Yuan.",
+  "rank": 21553,
+  "popularity": 18413,
+  "num_list_users": 406,
+  "num_scoring_users": 34,
   "nsfw": "white",
   "created_at": "2024-12-21T11:57:41+00:00",
-  "updated_at": "2024-12-21T14:24:19+00:00",
+  "updated_at": "2025-04-11T00:49:50+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -47,5 +47,10 @@
   "source": "manga",
   "average_episode_duration": 1200,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2143,
+      "name": "LX Animation Studio"
+    }
+  ]
 }

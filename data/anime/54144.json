@@ -11,15 +11,16 @@
     "ja": "カードファイト!! ヴァンガード Divinez デラックス編"
   },
   "start_date": "2025-01-11",
+  "end_date": "2025-04-19",
   "synopsis": "A tournament to decide the strongest Vanguard cardfighter \"Deluxe,\" Akina and the other fighters have received an invitation to the tournament. This time, many legendary fighters will also be participating!",
-  "mean": 6.93,
-  "rank": 4698,
-  "popularity": 12181,
-  "num_list_users": 1891,
-  "num_scoring_users": 210,
+  "mean": 6.85,
+  "rank": 5155,
+  "popularity": 12090,
+  "num_list_users": 1958,
+  "num_scoring_users": 241,
   "nsfw": "white",
   "created_at": "2023-01-09T12:45:25+00:00",
-  "updated_at": "2025-01-07T00:11:11+00:00",
+  "updated_at": "2025-04-12T14:14:23+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -32,7 +33,7 @@
       "name": "Strategy Game"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 13,
   "start_season": {
     "year": 2025,
     "season": "winter"

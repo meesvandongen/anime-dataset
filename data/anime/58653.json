@@ -1,0 +1,48 @@
+{
+  "id": 58653,
+  "title": "Feel Free!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1372/142596.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1372/142596l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "フィールフリー"
+  },
+  "start_date": "2020-12-27",
+  "end_date": "2020-12-27",
+  "synopsis": "Official music video animated by the company Polygon Magic for the song Feel Free!, performed by Strawberry Prince.",
+  "popularity": 28292,
+  "num_list_users": 20,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2024-04-13T03:07:13+00:00",
+  "updated_at": "2025-04-12T15:55:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 61,
+      "name": "Idols (Male)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1938,
+      "name": "Polygon Magic"
+    }
+  ]
+}
