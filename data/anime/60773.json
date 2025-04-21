@@ -1,0 +1,43 @@
+{
+  "id": 60773,
+  "title": "Kimi to Idol Precure♪ Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1159/149351.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1159/149351l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "You and Idol Precure♪ Movie",
+    "ja": "映画キミとアイドルプリキュア♪（仮）"
+  },
+  "start_date": "2025-09-12",
+  "end_date": "2025-09-12",
+  "synopsis": "Kimi to Idol Precure♪ Movie to be released in fall 2025.\n",
+  "popularity": 15310,
+  "num_list_users": 774,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-01-16T11:33:13+00:00",
+  "updated_at": "2025-04-20T03:08:09+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 61491,
+  "title": "Chibizenji-sensei Inokori Kougiroku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1005/149251.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1005/149251l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ちびぜんじ先生　居残り講義録"
+  },
+  "start_date": "2025-04-07",
+  "synopsis": "Mini anime for Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara. released on YouTube.",
+  "rank": 20067,
+  "popularity": 28189,
+  "num_list_users": 48,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2025-04-14T18:40:23+00:00",
+  "updated_at": "2025-04-16T11:12:34+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 107,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2696,
+      "name": "100studio"
+    }
+  ]
+}

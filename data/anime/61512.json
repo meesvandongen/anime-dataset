@@ -1,0 +1,44 @@
+{
+  "id": 61512,
+  "title": "365-nichi no Ashita",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1149/149279.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1149/149279l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "365日の明日"
+  },
+  "start_date": "2023-11-08",
+  "end_date": "2023-11-08",
+  "synopsis": "Original animated music video that serves as a promo for Hokkaido Electric Power Company (hepco).\n\nA story about a girl who takes a step towards tomorrow.",
+  "popularity": 28177,
+  "num_list_users": 50,
+  "num_scoring_users": 27,
+  "nsfw": "gray",
+  "created_at": "2025-04-16T15:30:10+00:00",
+  "updated_at": "2025-04-16T16:42:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 156,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2844,
+      "name": "Imagica Infos"
+    }
+  ]
+}

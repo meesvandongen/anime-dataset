@@ -2,8 +2,8 @@
   "id": 42004,
   "title": "Super Secret",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1550/107929.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1550/107929l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1550/107929.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1550/107929l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,9 +16,9 @@
   "end_date": "2021-02-21",
   "synopsis": "Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)",
   "mean": 6.7,
-  "rank": 5943,
-  "popularity": 13593,
-  "num_list_users": 1243,
+  "rank": 5970,
+  "popularity": 13607,
+  "num_list_users": 1244,
   "num_scoring_users": 278,
   "nsfw": "white",
   "created_at": "2020-05-15T17:35:08+00:00",
@@ -45,7 +45,7 @@
     "season": "spring"
   },
   "source": "web_manga",
-  "average_episode_duration": 480,
+  "average_episode_duration": 583,
   "rating": "pg_13",
   "studios": [
     {

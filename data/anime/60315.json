@@ -2,8 +2,8 @@
   "id": 60315,
   "title": "Dekin no Mogura",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1117/146539.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1117/146539l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1154/149311.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1154/149311l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "",
     "ja": "出禁のモグラ"
   },
-  "start_date": "2025-07",
+  "start_date": "2025-07-07",
   "synopsis": "Mogura, a mysterious \"self-proclaimed sage\" also known as Hyakuan Momoyumi, has been banned from the afterlife. To return, he roams the world, collecting the \"lamps\" of ghosts in his lantern.\n\nHowever, crossing paths with him brings an unusual consequence: the ability to see strange phenomena...\n\n(Source: MAL News)",
-  "popularity": 8669,
-  "num_list_users": 5560,
-  "num_scoring_users": 0,
+  "popularity": 8513,
+  "num_list_users": 5831,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2024-11-18T09:10:40+00:00",
-  "updated_at": "2025-04-14T21:32:57+00:00",
+  "updated_at": "2025-04-18T12:13:43+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -44,6 +44,10 @@
   "start_season": {
     "year": 2025,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "22:00"
   },
   "source": "manga",
   "average_episode_duration": 0,
