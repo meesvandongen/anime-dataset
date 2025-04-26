@@ -2,8 +2,8 @@
   "id": 20391,
   "title": "Hidamari Sketch: Chou Hidamatsuri Special",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/54151.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/13/54151l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/54151.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/54151l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2007-11-18",
   "synopsis": "A mini-episode/promo for Hidamari Sketch X 365 screened at the 2007 \"Chou Hidamatsuri in Nippon Budokan\" event, where the second season of Hidamari Sketch was announced.",
   "mean": 6.54,
-  "rank": 6895,
-  "popularity": 9825,
-  "num_list_users": 3883,
-  "num_scoring_users": 1442,
+  "rank": 6899,
+  "popularity": 9834,
+  "num_list_users": 3884,
+  "num_scoring_users": 1443,
   "nsfw": "white",
   "created_at": "2013-08-30T13:34:25+00:00",
-  "updated_at": "2024-11-11T10:11:36+00:00",
+  "updated_at": "2025-04-20T22:51:05+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -34,6 +34,10 @@
     {
       "id": 63,
       "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     },
     {
       "id": 80,
