@@ -1,0 +1,61 @@
+{
+  "id": 56700,
+  "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1209/149408.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1209/149408l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "I Was Reborn as a Vending Machine, Wandering in the Dungeon, I Reincarnated Into a Vending Machine"
+    ],
+    "en": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+    "ja": "自動販売機に生まれ変わった俺は迷宮を彷徨う2nd season"
+  },
+  "start_date": "2025-07",
+  "synopsis": "The second season of Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou. ",
+  "popularity": 5121,
+  "num_list_users": 20866,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2023-09-20T14:00:27+00:00",
+  "updated_at": "2025-04-23T09:08:34+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 418,
+      "name": "Studio Gokumi"
+    },
+    {
+      "id": 1299,
+      "name": "AXsiZ"
+    }
+  ]
+}

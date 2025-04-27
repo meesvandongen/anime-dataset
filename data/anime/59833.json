@@ -13,14 +13,16 @@
   "start_date": "2025-04-25",
   "end_date": "2025-04-25",
   "synopsis": "Original video anime episodes of Kono Subarashii Sekai ni Shukufuku wo!.",
-  "popularity": 3675,
-  "num_list_users": 42944,
-  "num_scoring_users": 311,
+  "mean": 8.19,
+  "rank": 411,
+  "popularity": 3434,
+  "num_list_users": 48328,
+  "num_scoring_users": 6426,
   "nsfw": "white",
   "created_at": "2024-09-15T08:35:25+00:00",
   "updated_at": "2024-12-12T23:13:37+00:00",
   "media_type": "ova",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 2,
@@ -49,7 +51,7 @@
     "season": "spring"
   },
   "source": "light_novel",
-  "average_episode_duration": 1440,
+  "average_episode_duration": 1537,
   "rating": "pg_13",
   "studios": [
     {

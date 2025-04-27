@@ -2,8 +2,8 @@
   "id": 57907,
   "title": "Tate no Yuusha no Nariagari Season 4",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1638/148142.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1638/148142l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1638/148142.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1638/148142l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,9 +15,9 @@
   },
   "start_date": "2025-07",
   "synopsis": "Fourth season of Tate no Yuusha no Nariagari.",
-  "popularity": 2769,
-  "num_list_users": 71575,
-  "num_scoring_users": 4,
+  "popularity": 2753,
+  "num_list_users": 72687,
+  "num_scoring_users": 6,
   "nsfw": "white",
   "created_at": "2024-01-22T12:39:22+00:00",
   "updated_at": "2025-02-25T13:09:59+00:00",
@@ -53,5 +53,10 @@
   "source": "light_novel",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
 }
