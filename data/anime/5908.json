@@ -2,8 +2,8 @@
   "id": 5908,
   "title": "Chinpui",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/74871.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/11/74871l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/74871.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/11/74871l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,9 +16,9 @@
   "end_date": "1991-04-18",
   "synopsis": "TV anime show based on the manga by F. Fujio Fujiko.",
   "mean": 6.4,
-  "rank": 7752,
-  "popularity": 11581,
-  "num_list_users": 2284,
+  "rank": 7789,
+  "popularity": 11600,
+  "num_list_users": 2285,
   "num_scoring_users": 1185,
   "nsfw": "white",
   "created_at": "2009-01-16T12:48:04+00:00",
@@ -37,7 +37,7 @@
     "season": "winter"
   },
   "source": "manga",
-  "average_episode_duration": 1500,
+  "average_episode_duration": 1478,
   "rating": "g",
   "studios": [
     {
