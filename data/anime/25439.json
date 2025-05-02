@@ -2,8 +2,8 @@
   "id": 25439,
   "title": "Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe - Shojo Kuriya",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/64843.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/11/64843l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/64843.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/11/64843l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,27 +16,27 @@
   "end_date": "2014-10-10",
   "synopsis": "Unaired episode included with the Blu-ray/DVD release.",
   "mean": 5.59,
-  "rank": 11981,
-  "popularity": 9712,
-  "num_list_users": 4009,
+  "rank": 11982,
+  "popularity": 9723,
+  "num_list_users": 4011,
   "num_scoring_users": 1760,
   "nsfw": "white",
   "created_at": "2014-07-22T08:33:43+00:00",
-  "updated_at": "2025-03-12T02:17:01+00:00",
+  "updated_at": "2025-04-28T20:51:41+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 52,
-      "name": "CGDCT"
-    },
     {
       "id": 4,
       "name": "Comedy"
     },
     {
-      "id": 69,
-      "name": "Otaku Culture"
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 1,

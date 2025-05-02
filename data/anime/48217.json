@@ -1,0 +1,54 @@
+{
+  "id": 48217,
+  "title": "Byeonsinjadongcha Tobot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1222/126942.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1222/126942l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Byeonsinjadongcha Ttobos"
+    ],
+    "en": "Tobot",
+    "ja": "변신자동차 또봇"
+  },
+  "start_date": "2010-04-12",
+  "end_date": "2010-07-26",
+  "synopsis": "The first start of Tobot. Twin sons, Ryan and Kory's father, Dr. Franklin Char, was kidnapped. Will Ryan and Kory be able to save Dr. Char with Tobots, X and Y?\n\n(Source: Wikipedia)",
+  "rank": 17261,
+  "popularity": 23370,
+  "num_list_users": 139,
+  "num_scoring_users": 35,
+  "nsfw": "white",
+  "created_at": "2021-02-21T17:16:47+00:00",
+  "updated_at": "2022-08-12T15:43:24+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 16,
+  "start_season": {
+    "year": 2010,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg",
+  "studios": []
+}

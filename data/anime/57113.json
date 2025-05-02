@@ -1,25 +1,27 @@
 {
   "id": 57113,
-  "title": "Geomjeong-gomusin",
+  "title": "Geomjeong Gomusin",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1588/139576.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1588/139576l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1588/139576.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1588/139576l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "",
+    "synonyms": [
+      "Geomjeong-gomusin"
+    ],
+    "en": "Black Rubber Shoes",
     "ja": "검정고무신"
   },
   "start_date": "2000-12-15",
   "end_date": "2001-02-02",
   "synopsis": "",
-  "rank": 18322,
-  "popularity": 24523,
-  "num_list_users": 110,
-  "num_scoring_users": 16,
+  "rank": 18332,
+  "popularity": 22841,
+  "num_list_users": 157,
+  "num_scoring_users": 31,
   "nsfw": "white",
   "created_at": "2023-11-10T11:01:50+00:00",
-  "updated_at": "2023-11-10T12:02:31+00:00",
+  "updated_at": "2025-04-27T09:31:21+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [

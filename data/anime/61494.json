@@ -13,10 +13,10 @@
   "start_date": "2002-10-12",
   "end_date": "2003-03-01",
   "synopsis": "A story about a mad scientist named Dr. Carlo Gorgon, who created athletes fused with animal DNA to compete through different sports, and it's up to the human athletes, who were the heroes, to challenge and stop Gorgon's plan.",
-  "rank": 18370,
-  "popularity": 28311,
-  "num_list_users": 21,
-  "num_scoring_users": 2,
+  "rank": 18380,
+  "popularity": 28329,
+  "num_list_users": 30,
+  "num_scoring_users": 5,
   "nsfw": "white",
   "created_at": "2025-04-15T01:15:07+00:00",
   "updated_at": "2025-04-16T11:02:29+00:00",
@@ -40,5 +40,10 @@
   "source": "original",
   "average_episode_duration": 300,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 318,
+      "name": "WAO World"
+    }
+  ]
 }
