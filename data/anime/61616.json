@@ -1,0 +1,59 @@
+{
+  "id": 61616,
+  "title": "Lupin the IIIrd: Zenigata to 2-nin no Lupin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1094/149586.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1094/149586l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "LUPIN THE IIIRD 銭形と2人のルパン"
+  },
+  "start_date": "2025-06-20",
+  "end_date": "2025-06-20",
+  "synopsis": "Prequel to Lupin the IIIrd the Movie: Fujimi no Ketsuzoku.",
+  "popularity": 14494,
+  "num_list_users": 990,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-05-01T03:25:58+00:00",
+  "updated_at": "2025-05-01T03:26:12+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 94,
+      "name": "Telecom Animation Film"
+    }
+  ]
+}

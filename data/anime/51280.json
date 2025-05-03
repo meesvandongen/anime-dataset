@@ -2,8 +2,8 @@
   "id": 51280,
   "title": "Cang Lan Jue",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1927/125119.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1927/125119l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1927/125119.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1927/125119l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,11 +13,11 @@
   "start_date": "2022-07-15",
   "end_date": "2022-09-23",
   "synopsis": "A donghua based on the novel of the same name written by Jiu Lu Fei Xiang. The story revolves around the relationship between Xiao Lanhua, a low-ranking flower fairy, and the powerful \"Moon Supreme\" Dongfang Qingcang. After being locked away for thousands of years, Xiao Lanhua mistakenly revives Dongfang Qingcang. The two of them become connected as a result, with the powerful and stoic Moon Supreme forced to experience everything she does, both physical and emotional.",
-  "mean": 7.26,
-  "rank": 3056,
-  "popularity": 8245,
-  "num_list_users": 6288,
-  "num_scoring_users": 1471,
+  "mean": 7.27,
+  "rank": 3025,
+  "popularity": 8220,
+  "num_list_users": 6355,
+  "num_scoring_users": 1480,
   "nsfw": "white",
   "created_at": "2022-03-16T04:09:00+00:00",
   "updated_at": "2022-12-21T12:31:13+00:00",
@@ -45,6 +45,10 @@
     {
       "id": 2175,
       "name": "GARDEN Culture"
+    },
+    {
+      "id": 3120,
+      "name": "Stellar Pictures"
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "id": 61555,
+  "title": "Holoearth Anime PV: \"Saa, Anata no Mou Hitotsu no Sekai e\"",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1073/149414.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1073/149414l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Holoearth Anime PV: \"Now, Discover Your Other World\"",
+    "ja": "【#ホロアース】アニメPV「さあ、あなたのもうひとつのセカイへ」"
+  },
+  "start_date": "2025-04-23",
+  "end_date": "2025-04-23",
+  "synopsis": "Have you ever wanted to visit a place that's a world apart? This is the teaser PV for the world envisioned by \"Holoearth.\"\n\nThe Holoearth project aims to utilize virtual platform technology to offer new virtual opportunities to those from all cultures around the world, in the form of various content and experiences set in another realm - an isekai - known as \"Holoearth.\"\n\n(Source: YouTube)",
+  "popularity": 28123,
+  "num_list_users": 57,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2025-04-23T15:58:53+00:00",
+  "updated_at": "2025-04-29T08:09:38+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 113,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 61591,
+  "title": "Kaixin Chaoren: Ni Shi Yingjiu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1950/149559.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1950/149559l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Happy Heroes: Rebel Rescue",
+    "ja": "开心超人之逆世营救"
+  },
+  "start_date": "2025-05-01",
+  "end_date": "2025-05-01",
+  "synopsis": "",
+  "rank": 16950,
+  "popularity": 28329,
+  "num_list_users": 32,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-04-28T18:24:37+00:00",
+  "updated_at": "2025-04-30T04:59:55+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 5940,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 3121,
+      "name": "Happy Toon"
+    }
+  ]
+}

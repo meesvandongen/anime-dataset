@@ -2,8 +2,8 @@
   "id": 59095,
   "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1672/147767.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1672/147767l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1154/149614.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1154/149614l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,14 +13,14 @@
     "en": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
     "ja": "転生したら第七王子だったので、気ままに魔術を極めます 第2期"
   },
-  "start_date": "2025-07",
+  "start_date": "2025-07-10",
   "synopsis": "Second season of Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu.",
-  "popularity": 4047,
-  "num_list_users": 35291,
-  "num_scoring_users": 2,
+  "popularity": 4016,
+  "num_list_users": 35920,
+  "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": "2024-06-17T15:49:49+00:00",
-  "updated_at": "2024-06-17T15:54:27+00:00",
+  "updated_at": "2025-05-02T15:14:49+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -41,6 +41,10 @@
   "start_season": {
     "year": 2025,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "00:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

@@ -13,11 +13,11 @@
   "start_date": "2022-12-23",
   "end_date": "2023-03-10",
   "synopsis": "",
-  "mean": 7.41,
-  "rank": 2337,
-  "popularity": 11706,
-  "num_list_users": 2209,
-  "num_scoring_users": 827,
+  "mean": 7.42,
+  "rank": 2305,
+  "popularity": 11685,
+  "num_list_users": 2233,
+  "num_scoring_users": 834,
   "nsfw": "white",
   "created_at": "2022-12-20T17:05:46+00:00",
   "updated_at": "2023-03-10T16:39:27+00:00",
@@ -53,6 +53,10 @@
     {
       "id": 2175,
       "name": "GARDEN Culture"
+    },
+    {
+      "id": 3120,
+      "name": "Stellar Pictures"
     }
   ]
 }
