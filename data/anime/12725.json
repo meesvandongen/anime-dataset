@@ -2,8 +2,8 @@
   "id": 12725,
   "title": "Initial D: Project D to the Next Stage - Project D e Mukete",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/35739.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/35739l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/35739.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/35739l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,10 +16,10 @@
   "end_date": "2003-03-22",
   "synopsis": "A special that comes with the Fourth Stage DVD-BOX. It is comprised of a recap from First Stage to Third Stage, along with staff commentary and sneak preview of the making of the Fourth Stage.",
   "mean": 7.59,
-  "rank": 1632,
-  "popularity": 6148,
-  "num_list_users": 12923,
-  "num_scoring_users": 4504,
+  "rank": 1646,
+  "popularity": 6149,
+  "num_list_users": 12933,
+  "num_scoring_users": 4508,
   "nsfw": "white",
   "created_at": "2012-01-18T15:56:13+00:00",
   "updated_at": "2022-04-15T18:25:55+00:00",
@@ -51,5 +51,10 @@
   "source": "manga",
   "average_episode_duration": 4200,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 179,
+      "name": "A.C.G.T."
+    }
+  ]
 }
