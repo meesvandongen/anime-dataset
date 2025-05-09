@@ -14,14 +14,14 @@
   },
   "start_date": "2024-12-06",
   "synopsis": "The second season of Cang Yuan Tu.",
-  "mean": 7.84,
-  "rank": 961,
-  "popularity": 13795,
-  "num_list_users": 1192,
-  "num_scoring_users": 295,
+  "mean": 7.85,
+  "rank": 930,
+  "popularity": 13679,
+  "num_list_users": 1234,
+  "num_scoring_users": 307,
   "nsfw": "white",
   "created_at": "2024-11-30T17:19:44+00:00",
-  "updated_at": "2024-12-23T11:09:49+00:00",
+  "updated_at": "2025-05-03T11:55:15+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -46,7 +46,7 @@
       "name": "Martial Arts"
     }
   ],
-  "num_episodes": 27,
+  "num_episodes": 36,
   "start_season": {
     "year": 2024,
     "season": "fall"

@@ -2,8 +2,8 @@
   "id": 59070,
   "title": "Guilty Gear Strive: Dual Rulers",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1199/147623.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1199/147623l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1199/147623.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1199/147623l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,15 +11,16 @@
     "ja": "GUILTY GEAR STRIVE: DUAL RULERS"
   },
   "start_date": "2025-04-05",
+  "end_date": "2025-05-24",
   "synopsis": "After the decline of the once robust fields of science and technology, a new energy source known as magic fuels the modern era. Humanity creates forbidden biological weapons: Gears. Those Gears eventually stand against humanity in a rebellion. Although they manage to overcome in the struggle for survival known as the Crusades, humanity's losses are so great that even after several decades pass, their emotional wounds remain unable to fully heal.\n\nSin Kiske, the child of a human and a Gear, heads to his father Ky and mother Dizzy's wedding ceremony. Their wedding breaks the ultimate taboo: a union between a human and a Gear. Even with the world at peace, it took many years for such a ceremony to come to fruition. Despite the complex array of emotions surrounding it, the wedding ceremony is met with blessings. When suddenly, a mysterious girl appears... The fated child inheriting Gear blood–and the mysterious girl who despises Gears. Their meeting would shake the world.\n\n(Source: Official site)",
-  "mean": 5.8,
-  "rank": 11077,
-  "popularity": 5567,
-  "num_list_users": 16816,
-  "num_scoring_users": 1756,
+  "mean": 5.78,
+  "rank": 11164,
+  "popularity": 5538,
+  "num_list_users": 17146,
+  "num_scoring_users": 1864,
   "nsfw": "white",
   "created_at": "2024-06-14T03:32:44+00:00",
-  "updated_at": "2025-03-19T16:44:49+00:00",
+  "updated_at": "2025-05-05T11:59:31+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -28,7 +29,7 @@
       "name": "Action"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 8,
   "start_season": {
     "year": 2025,
     "season": "spring"

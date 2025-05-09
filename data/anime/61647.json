@@ -1,0 +1,47 @@
+{
+  "id": 61647,
+  "title": "Tsuki no Utsuwa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1909/149673.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1909/149673l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "月の器"
+  },
+  "start_date": "2020-12-23",
+  "end_date": "2020-12-23",
+  "synopsis": "Music video for the song Tsuki no Utsuwa by Skirt.",
+  "popularity": 28351,
+  "num_list_users": 34,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2025-05-06T05:34:57+00:00",
+  "updated_at": "2025-05-06T05:34:57+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 232,
+  "rating": "g",
+  "studios": []
+}

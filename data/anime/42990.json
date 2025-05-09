@@ -2,8 +2,8 @@
   "id": 42990,
   "title": "Dogeza de Tanondemita: Isekai-hen",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1973/109541.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1973/109541l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1973/109541.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1973/109541l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2021-01-12",
   "synopsis": "Unaired episode 13 of Dogeza de Tanondemita.",
   "mean": 5.64,
-  "rank": 11800,
+  "rank": 11810,
   "popularity": 5208,
-  "num_list_users": 19992,
-  "num_scoring_users": 8784,
+  "num_list_users": 20006,
+  "num_scoring_users": 8790,
   "nsfw": "gray",
   "created_at": "2020-09-30T08:13:47+00:00",
-  "updated_at": "2022-04-08T00:15:11+00:00",
+  "updated_at": "2025-05-06T18:27:21+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +38,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
     }
   ],
   "num_episodes": 1,
