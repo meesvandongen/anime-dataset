@@ -2,8 +2,8 @@
   "id": 23593,
   "title": "Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/60985.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/2/60985l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/60985.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/2/60985l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,23 +13,27 @@
   "start_date": "1994-12-01",
   "end_date": "1994-12-01",
   "synopsis": "Based on the manga Flag! by Hotta Akio, which was serialized in Young King from 1992 to 1995. The OVA depicts the tumultuous daily lives of three boys, including Noboru, Akira and Haruo, who inherit the flag of the locally famous fugitive tribe \"Moonlight\".",
-  "rank": 14038,
-  "popularity": 18003,
-  "num_list_users": 442,
-  "num_scoring_users": 98,
+  "rank": 14055,
+  "popularity": 17999,
+  "num_list_users": 444,
+  "num_scoring_users": 99,
   "nsfw": "white",
   "created_at": "2014-04-05T16:08:54+00:00",
-  "updated_at": "2018-08-09T02:29:53+00:00",
+  "updated_at": "2025-05-10T01:50:41+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
     {
       "id": 8,
       "name": "Drama"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 1,
