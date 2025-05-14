@@ -2,8 +2,8 @@
   "id": 36091,
   "title": "Ghana",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/87217.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/12/87217l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/87217.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/87217l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,8 +16,8 @@
   "end_date": "2015-07-06",
   "synopsis": "Official music video for D.A.N.'s song Ghana also released on their EP album.",
   "mean": 5.39,
-  "popularity": 19479,
-  "num_list_users": 338,
+  "popularity": 19493,
+  "num_list_users": 337,
   "num_scoring_users": 173,
   "nsfw": "white",
   "created_at": "2017-08-06T10:15:22+00:00",
@@ -38,5 +38,10 @@
   "source": "original",
   "average_episode_duration": 298,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3127,
+      "name": "INS Studio"
+    }
+  ]
 }
