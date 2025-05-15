@@ -2,8 +2,8 @@
   "id": 51818,
   "title": "Enen no Shouboutai: San no Shou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1527/146836.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1527/146836l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1527/146836.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1527/146836l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,15 +13,16 @@
     "ja": "炎炎ノ消防隊 参ノ章"
   },
   "start_date": "2025-04-05",
+  "end_date": "2025-06-21",
   "synopsis": "Third season of Enen no Shouboutai.",
-  "mean": 7.99,
-  "rank": 690,
-  "popularity": 1245,
-  "num_list_users": 209966,
-  "num_scoring_users": 14097,
+  "mean": 7.96,
+  "rank": 728,
+  "popularity": 1231,
+  "num_list_users": 213036,
+  "num_scoring_users": 15348,
   "nsfw": "white",
   "created_at": "2022-05-14T12:45:13+00:00",
-  "updated_at": "2025-04-04T19:52:27+00:00",
+  "updated_at": "2025-05-12T10:21:39+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [

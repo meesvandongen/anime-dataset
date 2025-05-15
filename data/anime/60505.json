@@ -2,8 +2,8 @@
   "id": 60505,
   "title": "Necronomico no Cosmic Horror Show",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1773/146934.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1773/146934l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1957/148738.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1957/148738l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,20 @@
   },
   "start_date": "2025-07",
   "synopsis": "We all need a chance to change our lives!\n\nThe story follows Miko Kurono, who began her dream career as a livestreamer under the name \"Necronomico\" after graduating middle school.\n\nAmidst spending her days with childhood friend Mayu Mayusaka and rival Kanna Kagurazaka, she's introduced to a new VR game project!?\n\nUpon encountering the game, the girls start pursuing the 'irreplacable now'.\n\n(Source: Official site, translated)",
-  "popularity": 13014,
-  "num_list_users": 1479,
+  "popularity": 12859,
+  "num_list_users": 1551,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2024-12-12T10:37:30+00:00",
-  "updated_at": "2025-03-23T04:05:31+00:00",
+  "updated_at": "2025-05-15T01:39:15+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
   "num_episodes": 0,
   "start_season": {
     "year": 2025,

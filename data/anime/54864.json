@@ -16,10 +16,10 @@
   "end_date": "2023-03-11",
   "synopsis": "Final episode of Keisatsu Gakkou-hen Wild Police Story that aired between episodes 1076 and 1077 of Detective Conan as a special.",
   "mean": 7.1,
-  "rank": 3970,
-  "popularity": 12815,
-  "num_list_users": 1574,
-  "num_scoring_users": 576,
+  "rank": 3948,
+  "popularity": 12808,
+  "num_list_users": 1586,
+  "num_scoring_users": 583,
   "nsfw": "white",
   "created_at": "2023-03-25T16:47:56+00:00",
   "updated_at": "2025-05-08T01:25:50+00:00",
@@ -55,5 +55,10 @@
   "source": "manga",
   "average_episode_duration": 1500,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
 }

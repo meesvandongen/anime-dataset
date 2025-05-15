@@ -13,8 +13,8 @@
   "start_date": "2019-04-10",
   "end_date": "2019-06-26",
   "synopsis": "Special previews of the anime Choukadou Girl ⅙ posted on the official Twitter.",
-  "rank": 20143,
-  "popularity": 21635,
+  "rank": 20150,
+  "popularity": 21680,
   "num_list_users": 213,
   "num_scoring_users": 64,
   "nsfw": "white",
@@ -36,5 +36,10 @@
   "source": "manga",
   "average_episode_duration": 35,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1209,
+      "name": "Studio A-CAT"
+    }
+  ]
 }
