@@ -2,22 +2,22 @@
   "id": 5421,
   "title": "Ark",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1350/134901.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1350/134901l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1350/134901.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1350/134901l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "ARK"
   },
-  "start_date": "2005-06-02",
-  "end_date": "2005-06-02",
+  "start_date": "2003-09-09",
+  "end_date": "2003-09-09",
   "synopsis": "Ark takes place on a dying alien world in which a global war between two technologically advanced human civilizations has reduced the planet to a wasteland. The only way to escape the world is by activating the Ark, an ancient giant robot capable of supporting a human city as well as traveling through space.\n\n(Source: Wikipedia)",
-  "mean": 5.84,
-  "rank": 10853,
-  "popularity": 13319,
-  "num_list_users": 1362,
-  "num_scoring_users": 478,
+  "mean": 5.83,
+  "rank": 10929,
+  "popularity": 13328,
+  "num_list_users": 1363,
+  "num_scoring_users": 479,
   "nsfw": "white",
   "created_at": "2008-10-22T21:07:58+00:00",
   "updated_at": "2018-02-08T18:52:06+00:00",
@@ -51,8 +51,8 @@
   ],
   "num_episodes": 1,
   "start_season": {
-    "year": 2005,
-    "season": "spring"
+    "year": 2003,
+    "season": "summer"
   },
   "source": "original",
   "average_episode_duration": 5370,
