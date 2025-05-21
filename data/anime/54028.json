@@ -2,25 +2,29 @@
   "id": 54028,
   "title": "Turkey!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1213/148653.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1213/148653l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1213/148653.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1213/148653l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "Turkey!"
   },
-  "start_date": "2025-07",
-  "synopsis": "Turkey...In bowling terms, it means getting three consecutive strikes.\n\nMai, a second-year high school student and captain of the Ikkokukan High School bowling club, is a genius who can't win a match. Whenever she gets a Turkey, for some reason she always ends up hitting the impregnable split, Snake Eyes.\n\nRina, the only first-year club member, said to Mai, \"You're doing that on purpose, aren't you? The captain is running away from winning. I want to win. If you're not going to win, I'm quitting the club.\"\n\nThis is the story of the end of summer, as the five members of the Ikkokan High School bowling club - Mai, Rina, Sayuri, Nozomi, and Nanase - lose and fight, lose and fight, and finally win.\n\n(Source: Official site, translated and edited)",
-  "popularity": 9057,
-  "num_list_users": 5001,
+  "start_date": "2025-07-09",
+  "synopsis": "Turkey...In bowling terms, it means getting three consecutive strikes.\n\nMai, a second-year high school student and captain of the Ikkokukan High School bowling club, is a genius who can't win a match. Whenever she gets a Turkey, for some reason she always ends up hitting the impregnable split, Snake Eyes.\n\nRina, the only first-year club member, said to Mai, \"You're doing that on purpose, aren't you? The captain is running away from winning. I want to win. If you're not going to win, I'm quitting the club.\"\n\nThis is the story of the end of summer, as the five members of the Ikkokukan High School bowling club - Mai, Rina, Sayuri, Nozomi, and Nanase - lose and fight, lose and fight, and finally win.\n\n(Source: Official site, translated)",
+  "popularity": 8925,
+  "num_list_users": 5201,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2022-12-29T11:39:33+00:00",
-  "updated_at": "2025-05-13T11:34:46+00:00",
+  "updated_at": "2025-05-20T20:56:22+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
     {
       "id": 30,
       "name": "Sports"
@@ -30,6 +34,10 @@
   "start_season": {
     "year": 2025,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:29"
   },
   "source": "original",
   "average_episode_duration": 0,
