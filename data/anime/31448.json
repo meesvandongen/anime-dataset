@@ -2,8 +2,8 @@
   "id": 31448,
   "title": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/75785.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/4/75785l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/75785.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/75785l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,10 +18,10 @@
   "end_date": "2015-02-25",
   "synopsis": "Extra episode of Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! included in the BD/DVD.",
   "mean": 6.37,
-  "rank": 7951,
-  "popularity": 6201,
-  "num_list_users": 12677,
-  "num_scoring_users": 4730,
+  "rank": 7981,
+  "popularity": 6204,
+  "num_list_users": 12681,
+  "num_scoring_users": 4733,
   "nsfw": "white",
   "created_at": "2015-08-15T07:37:47+00:00",
   "updated_at": "2021-09-11T03:45:51+00:00",
@@ -41,5 +41,10 @@
   "source": "light_novel",
   "average_episode_duration": 205,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 11,
+      "name": "Madhouse"
+    }
+  ]
 }

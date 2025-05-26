@@ -2,8 +2,8 @@
   "id": 5678,
   "title": "Kobato.",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/79838.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/8/79838l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/79838.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/79838l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,27 +14,27 @@
   "end_date": "2010-03-23",
   "synopsis": "The friendly and sincere Kobato Hanato has a wish to go to a particular place no matter what. To fulfill this desire, she is tasked with helping people in their times of distress. For each mended broken heart, a small candy-like fragment is produced and fills a special bottle. Once the bottle is full, her wish will be granted.\n\nAs Kobato carries out her mission alongside her stuffed toy companion, Ioryogi, she encounters various people troubled by their different situations. From a child struggling with his parents, a high school girl troubled about romance, and everything in between, Kobato's naturally sweet smile and outgoing personality are ready to brighten their day!\n\n[Written by MAL Rewrite]",
   "mean": 7.94,
-  "rank": 758,
-  "popularity": 1483,
-  "num_list_users": 173290,
-  "num_scoring_users": 63380,
+  "rank": 750,
+  "popularity": 1484,
+  "num_list_users": 173325,
+  "num_scoring_users": 63396,
   "nsfw": "white",
   "created_at": "2008-12-06T16:55:54+00:00",
-  "updated_at": "2024-10-26T03:13:16+00:00",
+  "updated_at": "2025-05-22T06:57:16+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 2,
-      "name": "Adventure"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
+      "id": 8,
+      "name": "Drama"
     },
     {
       "id": 22,
       "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 24,
