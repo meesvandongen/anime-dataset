@@ -1,0 +1,57 @@
+{
+  "id": 60279,
+  "title": "Xian Ni: Shenlin Zhi Zhan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1177/146446.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1177/146446l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Xian Ni Juchang Ban: Shenlin Zhi Zhan, Renegade Immortal Movie"
+    ],
+    "en": "Renegade Immortal: Battle of Gods",
+    "ja": "仙逆剧场版 神临之战"
+  },
+  "start_date": "2025-05-30",
+  "synopsis": "",
+  "popularity": 15745,
+  "num_list_users": 713,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-11-11T10:42:07+00:00",
+  "updated_at": "2025-05-22T09:50:50+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2191,
+      "name": "BUILD DREAM"
+    }
+  ]
+}
