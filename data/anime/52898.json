@@ -2,8 +2,8 @@
   "id": 52898,
   "title": "Flopnik",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1518/127725.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1518/127725l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1518/127725.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1518/127725l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,8 @@
   "start_date": "2020-05-03",
   "end_date": "2020-05-03",
   "synopsis": "An animated music video for the song Flopnik by PEOPLE 1.",
-  "popularity": 22004,
+  "mean": 5.99,
+  "popularity": 22040,
   "num_list_users": 197,
   "num_scoring_users": 105,
   "nsfw": "white",

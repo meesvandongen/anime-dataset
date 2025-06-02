@@ -13,11 +13,11 @@
   "start_date": "2024-08-09",
   "end_date": "2024-08-09",
   "synopsis": "",
-  "mean": 7.11,
-  "rank": 4020,
-  "popularity": 13516,
-  "num_list_users": 1299,
-  "num_scoring_users": 233,
+  "mean": 7.12,
+  "rank": 3866,
+  "popularity": 13491,
+  "num_list_users": 1311,
+  "num_scoring_users": 240,
   "nsfw": "white",
   "created_at": "2023-12-09T18:00:23+00:00",
   "updated_at": "2025-02-01T10:03:05+00:00",
@@ -43,7 +43,7 @@
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 6000,
+  "average_episode_duration": 6293,
   "rating": "g",
   "studios": [
     {

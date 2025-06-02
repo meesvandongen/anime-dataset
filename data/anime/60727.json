@@ -13,9 +13,9 @@
   "start_date": "2025-01-09",
   "end_date": "2025-01-09",
   "synopsis": "This is a special video celebrating the 5th anniversary of the popular app game \"Arknights\" from Yostar. \"Don't get the date wrong like Eureka!!\"\n\n(Source: YouTube, translated)",
-  "popularity": 24551,
+  "popularity": 24562,
   "num_list_users": 115,
-  "num_scoring_users": 46,
+  "num_scoring_users": 47,
   "nsfw": "white",
   "created_at": "2025-01-09T12:14:17+00:00",
   "updated_at": "2025-03-12T12:55:10+00:00",
@@ -39,5 +39,10 @@
   "source": "game",
   "average_episode_duration": 470,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2009,
+      "name": "Yostar Pictures"
+    }
+  ]
 }

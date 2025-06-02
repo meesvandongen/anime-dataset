@@ -1,0 +1,56 @@
+{
+  "id": 61072,
+  "title": "Shuumatsu Touring",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1484/150257.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1484/150257l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Touring After the Apocalypse"
+    ],
+    "en": "",
+    "ja": "終末ツーリング"
+  },
+  "start_date": "2025-10",
+  "synopsis": "All alone after the end of days, two girls bike through the empty ruins of Japan—and they're not about to let the collapse of civilization get in the way of sightseeing! Even when the world ends, their journey goes on.\n\n(Source: Yen Press)",
+  "popularity": 11695,
+  "num_list_users": 2251,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-02-24T09:15:31+00:00",
+  "updated_at": "2025-05-27T22:41:20+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 852,
+      "name": "Nexus"
+    }
+  ]
+}

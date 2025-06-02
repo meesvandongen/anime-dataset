@@ -1,0 +1,61 @@
+{
+  "id": 61564,
+  "title": "Shenguo Zhi Shang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1842/150276.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1842/150276l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Above the Kingdom of God"
+    ],
+    "en": "",
+    "ja": "神国之上"
+  },
+  "start_date": "2025-06-14",
+  "synopsis": "Six days and nights, a strange case, and the boy returning to twelve years ago, can he break the shackles of the Kingdom of God this time?\n\n(Source: iQIYI, Google translated)",
+  "popularity": 28252,
+  "num_list_users": 58,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-04-24T14:14:12+00:00",
+  "updated_at": "2025-05-30T08:46:48+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1808,
+      "name": "CG Year"
+    }
+  ]
+}
