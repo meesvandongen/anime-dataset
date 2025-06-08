@@ -1,0 +1,42 @@
+{
+  "id": 61764,
+  "title": "Wiheomhan Pyeonuijeom",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1730/150355.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1730/150355l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Dangerous Convenience Store",
+    "ja": "위험한 편의점"
+  },
+  "start_date": "2025-05-30",
+  "synopsis": "",
+  "popularity": 21177,
+  "num_list_users": 245,
+  "num_scoring_users": 29,
+  "nsfw": "gray",
+  "created_at": "2025-05-31T10:37:12+00:00",
+  "updated_at": "2025-06-02T10:40:06+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "rating": "r+",
+  "studios": []
+}

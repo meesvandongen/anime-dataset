@@ -1,0 +1,41 @@
+{
+  "id": 61796,
+  "title": "Damashi Ai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1050/150444.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1050/150444l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Damashiai"
+    ],
+    "en": "",
+    "ja": "騙シ愛"
+  },
+  "start_date": "2025-06-06",
+  "end_date": "2025-06-06",
+  "synopsis": "Music video for the song Damashi Ai by tuki.",
+  "popularity": 28449,
+  "num_list_users": 31,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2025-06-06T13:05:18+00:00",
+  "updated_at": "2025-06-06T17:05:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 243,
+  "rating": "pg_13",
+  "studios": []
+}

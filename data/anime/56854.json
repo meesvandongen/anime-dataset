@@ -1,0 +1,57 @@
+{
+  "id": 56854,
+  "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1082/148406.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1082/148406l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Hero Who Has No Class. No Need Any Skills, It's Okay.",
+      "The Classless Hero: I Didn't Need Skills Anyway"
+    ],
+    "en": "",
+    "ja": "無職の英雄 別にスキルなんか要らなかったんだが"
+  },
+  "start_date": "2025-10",
+  "synopsis": "\"Classes\" are given at the age of 10, and the presence or absence of \"skills\" greatly affects life. Arel, the son of \"Sword Princess\" Fara and \"Magic King\" Leon, has been branded as \"Classless\"... But even without a job or skills, Arel believes he can persevere through effort. \n\n(Source: Earth Star Entertainment, translated)",
+  "popularity": 9360,
+  "num_list_users": 4550,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2023-10-06T04:32:45+00:00",
+  "updated_at": "2025-06-06T12:45:26+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1209,
+      "name": "Studio A-CAT"
+    }
+  ]
+}

@@ -2,22 +2,22 @@
   "id": 59130,
   "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1013/148555.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1013/148555l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1782/150383.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1782/150383l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "Apocalypse Bringer Mynoghra",
     "ja": "異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～"
   },
-  "start_date": "2025-07",
+  "start_date": "2025-07-06",
   "synopsis": "Takuto Ira succumbed to illness at a young age and ended up reincarnating in a world that resembles the fantasy turn-based strategy game Eternal Nations. Not only did he reincarnate into his favorite game, but as the god who commands the evil civilization Mynoghra. With Mynoghra's beautiful hero unit, Sludge Witch Atou by his side, not even legendarily difficult race traits will stand in the way of restarting their civilization!\n\n(Source: Cross Infinite World)",
-  "popularity": 5633,
-  "num_list_users": 16489,
-  "num_scoring_users": 3,
+  "popularity": 5489,
+  "num_list_users": 17627,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2024-06-23T16:10:06+00:00",
-  "updated_at": "2025-03-18T09:50:39+00:00",
+  "updated_at": "2025-06-04T12:11:12+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2025,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:30"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

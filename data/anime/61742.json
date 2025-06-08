@@ -10,15 +10,15 @@
     "en": "",
     "ja": "デキちゃうまで婚"
   },
-  "start_date": "2025-07",
+  "start_date": "2025-07-07",
   "synopsis": "",
-  "popularity": 21956,
-  "num_list_users": 201,
+  "popularity": 19349,
+  "num_list_users": 350,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2025-05-28T03:27:00+00:00",
-  "updated_at": "2025-05-28T03:27:00+00:00",
-  "media_type": "tv",
+  "updated_at": "2025-06-03T06:24:12+00:00",
+  "media_type": "ona",
   "status": "not_yet_aired",
   "genres": [
     {
@@ -33,6 +33,7 @@
   },
   "source": "manga",
   "average_episode_duration": 0,
+  "rating": "rx",
   "studios": [
     {
       "id": 3078,

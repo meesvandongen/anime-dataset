@@ -1,25 +1,25 @@
 {
   "id": 56643,
-  "title": "Season of Change",
+  "title": "Neulin Jangma",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1213/138460.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1213/138460l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "Season of Change",
     "ja": "느린 장마"
   },
   "start_date": "2022-11-26",
   "end_date": "2022-11-26",
   "synopsis": "Trying new things is never easy.\nOhran Lim is an ex-boxer who never managed to go pro. Now, she spends her days working at the local convenience store, wondering where it all went wrong. But after she meets young couple Woon and Baram, she slowly begins to change her outlook on life. \"I need to find what makes me happy.\"\n\n(Source: Manta)",
-  "rank": 14219,
-  "popularity": 22000,
-  "num_list_users": 198,
-  "num_scoring_users": 15,
+  "rank": 18439,
+  "popularity": 21989,
+  "num_list_users": 200,
+  "num_scoring_users": 16,
   "nsfw": "white",
   "created_at": "2023-09-12T17:52:30+00:00",
-  "updated_at": "2023-09-13T07:24:13+00:00",
+  "updated_at": "2025-06-04T09:18:05+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -40,10 +40,5 @@
   "source": "web_manga",
   "average_episode_duration": 240,
   "rating": "pg_13",
-  "studios": [
-    {
-      "id": 2726,
-      "name": "Laftel"
-    }
-  ]
+  "studios": []
 }
