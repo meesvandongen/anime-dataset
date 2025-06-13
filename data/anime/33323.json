@@ -14,23 +14,19 @@
   "end_date": "2016-12-20",
   "synopsis": "Nanami Momozono, current land god of Mikage Shrine, and her fox familiar Tomoe have faced many obstacles during their time together, but none so challenging as the one posed by the wealth god Ookuninushi—if Tomoe's wish to be human is granted, he must learn to live as one, and Nanami will have to return to being a human.\n\nAs the couple look to the future and reflect on their former adventures, Nanami tries to figure out their new living situation as her high school graduation approaches. But no matter the path they choose to walk, Tomoe and Nanami's love will endure.\n\n[Written by MAL Rewrite]",
   "mean": 8.17,
-  "rank": 439,
-  "popularity": 2813,
-  "num_list_users": 70407,
-  "num_scoring_users": 35325,
+  "rank": 446,
+  "popularity": 2815,
+  "num_list_users": 70456,
+  "num_scoring_users": 35356,
   "nsfw": "white",
   "created_at": "2016-05-20T14:14:42+00:00",
-  "updated_at": "2022-10-31T01:00:41+00:00",
+  "updated_at": "2025-06-12T00:07:07+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 6,
@@ -43,6 +39,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,
