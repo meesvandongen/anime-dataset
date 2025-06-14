@@ -14,13 +14,13 @@
   "end_date": "2017-08-26",
   "synopsis": "The older boys are graduating school and recount their memories together. The next day everyone defends the graduation ceremony against Zundar and Dadacha's Second Button Monster but Yumoto struggles using his love power.",
   "mean": 6.82,
-  "rank": 5316,
-  "popularity": 6903,
-  "num_list_users": 9928,
-  "num_scoring_users": 3314,
+  "rank": 5317,
+  "popularity": 6905,
+  "num_list_users": 9942,
+  "num_scoring_users": 3319,
   "nsfw": "white",
   "created_at": "2017-03-18T19:00:54+00:00",
-  "updated_at": "2024-11-28T13:36:29+00:00",
+  "updated_at": "2025-06-09T17:23:33+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -29,12 +29,20 @@
       "name": "Comedy"
     },
     {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
       "id": 20,
       "name": "Parody"
     },
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
     }
   ],
   "num_episodes": 1,

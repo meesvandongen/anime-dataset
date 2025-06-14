@@ -12,14 +12,14 @@
   },
   "start_date": "2025-04-06",
   "synopsis": "Nico Wakatsuki has finished her six years of witch training and is moving back to town by herself. As a new witch, she must choose a familiar to accompany her. However, unlike the other witches, she wishes to pick a non-animal familiar. There's no better companion than Morihito \"Moi\" Otogi—her childhood friend who happens to be an ogre. Morihito is vehemently opposed to being her servant, but he reluctantly accepts his fate after learning that a curse would revert him into a strange cow-tiger hybrid were he to disobey a witch's order.\n\nDue to Morihito's father leaving for a business trip and Nico's mother remaining behind in the Witches' Holy Land, the two teens find themselves living together under the same roof. While Nico is ecstatic to be living with her crush, Morihito finds that her magical antics and overall clumsiness create more problems than solutions. With a prophesied disaster to befall Nico within the year, Morihito must do everything he can to protect her as her bodyguard while also upholding his duties as her familiar.\n\n[Written by MAL Rewrite]",
-  "mean": 7.48,
-  "rank": 2050,
-  "popularity": 1941,
-  "num_list_users": 123723,
-  "num_scoring_users": 17661,
+  "mean": 7.47,
+  "rank": 2112,
+  "popularity": 1896,
+  "num_list_users": 127518,
+  "num_scoring_users": 18642,
   "nsfw": "white",
   "created_at": "2024-08-18T15:47:40+00:00",
-  "updated_at": "2025-04-06T15:32:14+00:00",
+  "updated_at": "2025-06-12T22:24:49+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -28,12 +28,16 @@
       "name": "Comedy"
     },
     {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
       "id": 27,
       "name": "Shounen"
     },
     {
-      "id": 37,
-      "name": "Supernatural"
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 26,

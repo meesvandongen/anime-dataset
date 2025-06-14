@@ -1,0 +1,68 @@
+{
+  "id": 61846,
+  "title": "Shuukan Ranobe Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1222/150559.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1222/150559l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Shuukan Light Novel Anime"
+    ],
+    "en": "",
+    "ja": "週刊ラノベアニメ"
+  },
+  "start_date": "2025-07-13",
+  "synopsis": "A collection of original short episodes based on stories created by light novel authors and illustrators. ",
+  "popularity": 23603,
+  "num_list_users": 139,
+  "num_scoring_users": 0,
+  "nsfw": "gray",
+  "created_at": "2025-06-13T00:16:18+00:00",
+  "updated_at": "2025-06-14T00:14:04+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "02:00"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 3150,
+      "name": "Ziine Studio"
+    }
+  ]
+}

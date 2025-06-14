@@ -2,8 +2,8 @@
   "id": 60045,
   "title": "The iDOLM@STER Shiny Colors 2nd Season: SHHis",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1680/145924.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1680/145924l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1680/145924.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1680/145924l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,14 +13,14 @@
   "start_date": "2025-03-28",
   "end_date": "2025-03-28",
   "synopsis": "A special episode included as a bonus in the ASOBI STORE special edition Blu-ray box released on March 28, 2025.",
-  "rank": 15093,
-  "popularity": 14413,
-  "num_list_users": 1031,
-  "num_scoring_users": 101,
+  "rank": 15105,
+  "popularity": 14421,
+  "num_list_users": 1033,
+  "num_scoring_users": 104,
   "nsfw": "white",
   "created_at": "2024-10-05T05:52:01+00:00",
-  "updated_at": "2024-10-06T01:35:55+00:00",
-  "media_type": "ova",
+  "updated_at": "2025-06-12T07:59:25+00:00",
+  "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
@@ -38,7 +38,7 @@
     "season": "winter"
   },
   "source": "game",
-  "average_episode_duration": 1200,
+  "average_episode_duration": 1280,
   "rating": "pg_13",
   "studios": [
     {
