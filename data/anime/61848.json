@@ -1,0 +1,41 @@
+{
+  "id": 61848,
+  "title": "Neko no Komoriuta",
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ねこの子もりうた"
+  },
+  "start_date": "1966-12-07",
+  "end_date": "1966-12-07",
+  "synopsis": "Music video for the song Neko no Komoriuta by Aiko Itou and the Hibari Jidou Gasshoudan that was featured on NHK's Minna no Uta program. It is considered to be lost media.",
+  "popularity": 28494,
+  "num_list_users": 21,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-06-13T01:33:16+00:00",
+  "updated_at": "2025-06-13T01:33:16+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1966,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": []
+}
