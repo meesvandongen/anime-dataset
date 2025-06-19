@@ -14,10 +14,10 @@
   "end_date": "2006-03-26",
   "synopsis": "My Melody arrives on Earth much to the surprise of her rival Kuromi. Together with one of the junior high school students, Yumeno Uta, they decide to protect the dreams of the people with the help of magic. \n",
   "mean": 7.35,
-  "rank": 2642,
-  "popularity": 5313,
-  "num_list_users": 19238,
-  "num_scoring_users": 5572,
+  "rank": 2643,
+  "popularity": 5317,
+  "num_list_users": 19256,
+  "num_scoring_users": 5576,
   "nsfw": "white",
   "created_at": "2007-05-17T22:49:07+00:00",
   "updated_at": "2022-04-17T22:05:40+00:00",
@@ -42,6 +42,7 @@
     "day_of_the_week": "sunday",
     "start_time": "09:30"
   },
+  "source": "other",
   "average_episode_duration": 1460,
   "rating": "pg",
   "studios": [

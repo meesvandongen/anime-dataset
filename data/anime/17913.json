@@ -2,8 +2,8 @@
   "id": 17913,
   "title": "Redial",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/47733.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/10/47733l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/47733.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/47733l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,8 +14,8 @@
   "end_date": "2013-03-20",
   "synopsis": "\"Redial\" is the title track of livetune's 2013 compilation album Re:Dial featuring Hatsune Miku. An animated music video of the song was included in a limited edition DVD sold with the album.",
   "mean": 6.54,
-  "popularity": 10252,
-  "num_list_users": 3454,
+  "popularity": 10258,
+  "num_list_users": 3456,
   "num_scoring_users": 2066,
   "nsfw": "white",
   "created_at": "2013-03-21T15:10:48+00:00",
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 311,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 931,
+      "name": "Poncotan"
+    }
+  ]
 }
