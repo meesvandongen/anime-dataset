@@ -1,0 +1,53 @@
+{
+  "id": 61333,
+  "title": "Ao no Miburo: Serizawa Ansatsu-hen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1906/148878.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1906/148878l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Blue Miburo Season 2",
+      "Blue Miburo: Serizawa Assassination Arc"
+    ],
+    "en": "",
+    "ja": "青のミブロ 芹沢暗殺編"
+  },
+  "start_date": "2026-01",
+  "synopsis": "Second season of Ao no Miburo.",
+  "popularity": 11127,
+  "num_list_users": 2676,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-03-29T09:26:31+00:00",
+  "updated_at": "2025-03-29T09:26:31+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

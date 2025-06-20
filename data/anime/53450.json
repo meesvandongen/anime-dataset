@@ -2,8 +2,8 @@
   "id": 53450,
   "title": "Xian Wang de Richang Shenghuo 4",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1443/138753.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1443/138753l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1443/138753.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1443/138753l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,13 +18,13 @@
   "end_date": "2024-02-25",
   "synopsis": "Fourth season of Xian Wang de Richang Shenghuo.",
   "mean": 7.49,
-  "rank": 2043,
-  "popularity": 3371,
-  "num_list_users": 50487,
-  "num_scoring_users": 15559,
+  "rank": 2033,
+  "popularity": 3370,
+  "num_list_users": 50742,
+  "num_scoring_users": 15673,
   "nsfw": "white",
   "created_at": "2022-10-29T14:34:40+00:00",
-  "updated_at": "2025-02-10T22:00:52+00:00",
+  "updated_at": "2025-06-19T05:50:47+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -43,10 +43,6 @@
     {
       "id": 23,
       "name": "School"
-    },
-    {
-      "id": 82,
-      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 12,

@@ -1,0 +1,39 @@
+{
+  "id": 56231,
+  "title": "Kamen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1745/137685.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1745/137685l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mask",
+    "ja": "仮面"
+  },
+  "start_date": "2023-05-20",
+  "end_date": "2023-05-20",
+  "synopsis": "Music video for the song Kamen, performed by Meychan.",
+  "popularity": 28513,
+  "num_list_users": 11,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2023-08-09T16:44:42+00:00",
+  "updated_at": "2025-06-19T06:57:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 239,
+  "rating": "pg_13",
+  "studios": []
+}

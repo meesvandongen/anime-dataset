@@ -2,8 +2,8 @@
   "id": 59804,
   "title": "Oni Chichi Harem",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1237/145434.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1237/145434l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1237/145434.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1237/145434l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,23 +11,24 @@
     "ja": "おにちちハーレム"
   },
   "start_date": "2024-12-13",
+  "end_date": "2025-06-13",
   "synopsis": "Disillusioned with life and lost in thought, Noboru walks through a deep forest. Suddenly a woman of indescribable beauty appears before his eyes. She was so beautiful and sexy that the stunned guy could not keep his balance and fell off the cliff. But don't worry. Coming to his senses, Noboru discovers that he has found himself in a real man's paradise. And the local inhabitants, under the leadership of Daka, have already begun to rid the guy of despondency.\n",
-  "mean": 5.72,
-  "popularity": 12330,
-  "num_list_users": 1875,
-  "num_scoring_users": 423,
+  "mean": 5.68,
+  "popularity": 12309,
+  "num_list_users": 1895,
+  "num_scoring_users": 430,
   "nsfw": "gray",
   "created_at": "2024-09-12T02:09:30+00:00",
-  "updated_at": "2024-09-13T10:46:39+00:00",
+  "updated_at": "2025-06-19T06:09:44+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 4,
   "start_season": {
     "year": 2024,
     "season": "fall"

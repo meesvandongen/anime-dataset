@@ -1,0 +1,48 @@
+{
+  "id": 61866,
+  "title": "Pet Ceremony Prayer CM",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1823/150611.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1823/150611l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ペットセレモニープレアCM"
+  },
+  "start_date": "2020-03-01",
+  "end_date": "2020-03-01",
+  "synopsis": "Pets are important members of the family. If something happens to them, we want them to be able to go peacefully. At Pet Ceremony Prayer, we offer cremation, burial, and even welcoming pets to your home.\n\n(Source: YouTube, translated)",
+  "popularity": 28493,
+  "num_list_users": 30,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2025-06-17T05:36:53+00:00",
+  "updated_at": "2025-06-17T05:36:53+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1872,
+      "name": "P.I.C.S."
+    }
+  ]
+}
