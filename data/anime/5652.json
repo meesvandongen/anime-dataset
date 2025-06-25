@@ -19,11 +19,11 @@
   "start_date": "2007-01-24",
   "end_date": "2007-03-28",
   "synopsis": "Episodes 16.5 and 20.5.\n\nGlass no Kantai Special episodes focus on the history behind the Imperial Royal Family, recounting the events that happened before the TV Series.",
-  "mean": 6.12,
-  "rank": 9401,
-  "popularity": 12384,
-  "num_list_users": 1842,
-  "num_scoring_users": 587,
+  "mean": 6.13,
+  "rank": 9341,
+  "popularity": 12390,
+  "num_list_users": 1843,
+  "num_scoring_users": 588,
   "nsfw": "white",
   "created_at": "2008-12-01T03:00:11+00:00",
   "updated_at": "2022-11-24T22:33:15+00:00",
@@ -47,5 +47,14 @@
   "source": "original",
   "average_episode_duration": 1440,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3,
+      "name": "Gonzo"
+    },
+    {
+      "id": 41,
+      "name": "Satelight"
+    }
+  ]
 }

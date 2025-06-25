@@ -16,8 +16,8 @@
   "end_date": "2016-01-01",
   "synopsis": "New Year Special.",
   "mean": 6.36,
-  "rank": 8023,
-  "popularity": 17177,
+  "rank": 8024,
+  "popularity": 17186,
   "num_list_users": 527,
   "num_scoring_users": 137,
   "nsfw": "white",
@@ -42,5 +42,10 @@
   },
   "average_episode_duration": 2940,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 866,
+      "name": "Fanworks"
+    }
+  ]
 }
