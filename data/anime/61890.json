@@ -1,0 +1,52 @@
+{
+  "id": 61890,
+  "title": "Pac-Maniac 45",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1334/150661.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1334/150661l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pac-Man 45th Anniversary: Insert Coin for Amazing",
+      "Pac-Man 45-shuunen",
+      "パックマン45周年MV"
+    ],
+    "en": "",
+    "ja": "PAC-MANIAC 45"
+  },
+  "start_date": "2025-05-22",
+  "end_date": "2025-05-22",
+  "synopsis": "Music video for the song PAC-MANIAC 45 by Sasuke Haraguchi. It was made to celebrate the 45th anniversary of Pac-Man.",
+  "popularity": 28371,
+  "num_list_users": 57,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2025-06-21T00:53:38+00:00",
+  "updated_at": "2025-06-21T00:53:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 128,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1837,
+      "name": "G-angle"
+    }
+  ]
+}

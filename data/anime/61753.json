@@ -14,10 +14,10 @@
   },
   "start_date": "2025-06-05",
   "synopsis": "",
-  "rank": 14577,
-  "popularity": 21233,
-  "num_list_users": 243,
-  "num_scoring_users": 19,
+  "rank": 14591,
+  "popularity": 20973,
+  "num_list_users": 257,
+  "num_scoring_users": 21,
   "nsfw": "white",
   "created_at": "2025-05-29T13:27:50+00:00",
   "updated_at": "2025-05-30T09:12:50+00:00",
@@ -51,7 +51,7 @@
     "season": "spring"
   },
   "source": "web_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1200,
   "rating": "pg_13",
   "studios": []
 }

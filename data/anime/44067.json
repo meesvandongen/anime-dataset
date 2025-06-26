@@ -2,8 +2,8 @@
   "id": 44067,
   "title": "Bai Yao Pu 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1898/115957.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1898/115957l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1898/115957.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1898/115957l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2021-09-26",
   "synopsis": "Second season of Bai Yao Pu.",
   "mean": 7.53,
-  "rank": 1871,
-  "popularity": 8978,
-  "num_list_users": 5156,
-  "num_scoring_users": 1460,
+  "rank": 1875,
+  "popularity": 8977,
+  "num_list_users": 5178,
+  "num_scoring_users": 1472,
   "nsfw": "white",
   "created_at": "2020-11-21T13:59:23+00:00",
-  "updated_at": "2025-04-03T20:40:35+00:00",
+  "updated_at": "2025-06-20T07:35:38+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -51,5 +51,10 @@
   "source": "novel",
   "average_episode_duration": 1281,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2701,
+      "name": "CMC Media"
+    }
+  ]
 }

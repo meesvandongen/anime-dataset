@@ -13,9 +13,9 @@
   "start_date": "2019-07-04",
   "end_date": "2019-07-04",
   "synopsis": "",
-  "popularity": 28512,
-  "num_list_users": 12,
-  "num_scoring_users": 8,
+  "popularity": 28519,
+  "num_list_users": 28,
+  "num_scoring_users": 14,
   "nsfw": "white",
   "created_at": "2025-03-30T17:20:12+00:00",
   "updated_at": "2025-06-19T07:04:18+00:00",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 25,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
 }

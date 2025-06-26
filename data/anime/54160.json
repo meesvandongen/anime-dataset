@@ -1,0 +1,42 @@
+{
+  "id": 54160,
+  "title": "Future Kid Takara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1424/148808.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1424/148808l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2025-09-25",
+  "synopsis": "Future Kid Takara will be an action-packed, family-oriented film set in a dystopian future. The adventure story will feature a girl named Sara who is time warped into the year 2100, where she and the protagonist Takara try to navigate a world ravaged by the effects of global warming. Title and story subject to change\n\n(Source: Kickstarter)",
+  "popularity": 16115,
+  "num_list_users": 662,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2023-01-10T11:37:29+00:00",
+  "updated_at": "2025-04-14T21:56:22+00:00",
+  "media_type": "unknown",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 11,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    }
+  ]
+}

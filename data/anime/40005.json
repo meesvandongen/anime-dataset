@@ -2,8 +2,8 @@
   "id": 40005,
   "title": "Quanzhi Fashi IV",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1925/105375.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1925/105375l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1925/105375.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1925/105375l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -20,11 +20,11 @@
   "mean": 7.31,
   "rank": 2815,
   "popularity": 3659,
-  "num_list_users": 43862,
-  "num_scoring_users": 19489,
+  "num_list_users": 43922,
+  "num_scoring_users": 19512,
   "nsfw": "white",
   "created_at": "2019-06-27T17:33:04+00:00",
-  "updated_at": "2022-09-30T06:48:57+00:00",
+  "updated_at": "2025-06-25T22:30:35+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -46,7 +46,7 @@
     "year": 2020,
     "season": "spring"
   },
-  "source": "web_manga",
+  "source": "web_novel",
   "average_episode_duration": 1270,
   "rating": "pg_13",
   "studios": [

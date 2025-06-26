@@ -1,9 +1,9 @@
 {
   "id": 61616,
-  "title": "Lupin the IIIrd: Zenigata to 2-nin no Lupin",
+  "title": "Lupin the IIIrd: Zenigata to Futari no Lupin",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1094/149586.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1094/149586l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1283/150650.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1283/150650l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,13 +13,13 @@
   "start_date": "2025-06-20",
   "end_date": "2025-06-20",
   "synopsis": "Prequel to Lupin the IIIrd the Movie: Fujimi no Ketsuzoku.",
-  "rank": 17733,
-  "popularity": 12446,
-  "num_list_users": 1802,
-  "num_scoring_users": 4,
+  "rank": 17750,
+  "popularity": 12291,
+  "num_list_users": 1912,
+  "num_scoring_users": 63,
   "nsfw": "white",
   "created_at": "2025-05-01T03:25:58+00:00",
-  "updated_at": "2025-05-01T03:26:12+00:00",
+  "updated_at": "2025-06-21T10:30:12+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -50,7 +50,8 @@
     "season": "spring"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 3235,
+  "rating": "r",
   "studios": [
     {
       "id": 94,

@@ -1,0 +1,55 @@
+{
+  "id": 61899,
+  "title": "Sazan Gakyuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1860/150684.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1860/150684l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Lonely Ramen",
+      "ロンリーラーメン",
+      "Waku Moiselle",
+      "惑モアゼル",
+      "Blood Monsters",
+      "ぶらっどもんすた〜ず"
+    ],
+    "en": "",
+    "ja": "サザンガキュー"
+  },
+  "start_date": "2025-06-09",
+  "end_date": "2025-06-13",
+  "synopsis": "A collection of original short series with 15-second long episodes.\n\nLonely Ramen\nIn the vast ocean of soup, the ramen fairy wanders back and forth on her bamboo shoot raft. What kind of ingredient (friend) will she meet today?\n\nWaku Moiselle\nA giant object appears in the clear sky, and in the midst of an abnormal situation that shakes up everyday life, a powerful and tempting moiselle, unaware of her own wisdom, shines a light on Japan.\n\nBlood Monsters\nThe Blood Monsters are monsters based on blood types. They compete with each other every day to scare each other, by hiding in the shadows, yelling, or using various other methods. Take a look at the daily lives of these mischievous kids.\n\n(Source: X, translated)",
+  "rank": 14245,
+  "popularity": 28193,
+  "num_list_users": 67,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2025-06-22T02:52:06+00:00",
+  "updated_at": "2025-06-22T02:52:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "pg_13",
+  "studios": []
+}
