@@ -17,9 +17,9 @@
   "start_date": "1992-12-23",
   "end_date": "1992-12-23",
   "synopsis": "As he nears the New World, Christopher Columbus tells cabin boy Paco about his youthful hardships, the difficulties of convincing others of his vision, and the final victory when King Ferdinand and Queen Isabella agreed to sponsor his trip. The sailors are doubtful, though Columbus is vindicated when they arrive on land, but it's not as the planned destination of Japan.\n\n(Source: The Anime Encyclopedia)",
-  "rank": 20284,
-  "popularity": 19128,
-  "num_list_users": 368,
+  "rank": 20298,
+  "popularity": 19129,
+  "num_list_users": 369,
   "num_scoring_users": 67,
   "nsfw": "white",
   "created_at": "2016-01-31T02:29:55+00:00",
@@ -48,5 +48,10 @@
   "source": "original",
   "average_episode_duration": 4200,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 358,
+      "name": "Telescreen"
+    }
+  ]
 }
