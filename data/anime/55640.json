@@ -1,26 +1,28 @@
 {
   "id": 55640,
-  "title": "Wasure Hoshi no Volicia",
+  "title": "Bousei no Volicia",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1098/136439.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1098/136439l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1098/136439.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1098/136439l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Wasure Hoshi no Volicia"
+    ],
     "en": "Volicia of Pluto: Vapor Trail Another Age 2006",
     "ja": "忘星のヴァリシア"
   },
   "start_date": "2023-07-03",
   "end_date": "2023-07-03",
   "synopsis": "",
-  "mean": 6.12,
-  "rank": 9399,
-  "popularity": 10311,
-  "num_list_users": 3416,
+  "mean": 6.11,
+  "rank": 9482,
+  "popularity": 10303,
+  "num_list_users": 3433,
   "num_scoring_users": 368,
   "nsfw": "gray",
   "created_at": "2023-06-13T14:03:39+00:00",
-  "updated_at": "2023-06-16T15:52:09+00:00",
+  "updated_at": "2025-06-27T07:27:21+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [

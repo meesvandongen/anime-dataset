@@ -1,0 +1,59 @@
+{
+  "id": 60562,
+  "title": "Bai Yao Pu 5th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1015/149994.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1015/149994l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Manual of Hundred Demons",
+      "Bai Yao Pu: Luoyang Pian",
+      "百妖谱 洛阳篇"
+    ],
+    "en": "Fairies Albums 5",
+    "ja": "百妖谱 第五季"
+  },
+  "start_date": "2025-08-08",
+  "synopsis": "Fifth season of Bai Yao Pu.",
+  "popularity": 15254,
+  "num_list_users": 828,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-12-21T15:47:24+00:00",
+  "updated_at": "2025-04-03T20:41:23+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2701,
+      "name": "CMC Media"
+    }
+  ]
+}
