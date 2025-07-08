@@ -2,8 +2,8 @@
   "id": 55689,
   "title": "Utagoe wa Mille-Feuille",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1977/145685.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1977/145685l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1866/150935.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1866/150935l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "Harmony of Mille-Feuille",
     "ja": "うたごえはミルフィーユ"
   },
-  "start_date": "2025-07",
+  "start_date": "2025-07-17",
   "synopsis": "You don't have to shine to have youth.\n\nFirst-year high school student Uta Komaki loves to sing, but she's extremely shy, timid, and a bit of a coward. She wants to join the light music club for her high school debut, but she's too intimidated by the dazzling presence of the members to submit her application. In her moment of despair, she receives an invitation to join the a cappella club from the president, Airi Kojou...\n\nThe a cappella club is filled with unique individuals—some might say they're a bit odd. Even if they're not flashy or popular, there's a special kind of youth that connects through their voices, creating something truly unique.\n\n(Source: Pony Canyon)",
-  "popularity": 9910,
-  "num_list_users": 3912,
-  "num_scoring_users": 0,
+  "popularity": 9530,
+  "num_list_users": 4388,
+  "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": "2023-06-17T11:07:57+00:00",
-  "updated_at": "2025-06-29T00:47:36+00:00",
+  "updated_at": "2025-07-07T11:30:14+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -36,6 +36,10 @@
   "start_season": {
     "year": 2025,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "21:25"
   },
   "source": "music",
   "average_episode_duration": 0,

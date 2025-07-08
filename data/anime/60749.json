@@ -11,17 +11,18 @@
     "ja": "猫猫のひとりごと 第2期"
   },
   "start_date": "2025-01-13",
+  "end_date": "2025-07-07",
   "synopsis": "Mini anime for Kusuriya no Hitorigoto 2nd Season released on YouTube.",
-  "mean": 6.56,
-  "rank": 6802,
-  "popularity": 13371,
-  "num_list_users": 1373,
-  "num_scoring_users": 205,
+  "mean": 6.69,
+  "rank": 6132,
+  "popularity": 13150,
+  "num_list_users": 1471,
+  "num_scoring_users": 302,
   "nsfw": "white",
   "created_at": "2025-01-13T09:01:51+00:00",
-  "updated_at": "2025-01-13T10:23:10+00:00",
+  "updated_at": "2025-07-06T07:07:55+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -40,7 +41,7 @@
       "name": "Mystery"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 24,
   "start_season": {
     "year": 2025,
     "season": "winter"

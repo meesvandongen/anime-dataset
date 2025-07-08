@@ -14,14 +14,15 @@
   },
   "start_date": "2025-07-03",
   "synopsis": "Follows Nekotarou, a cat from Kagoshima who aims to unify the country.\n\n(Source: ANN)",
-  "popularity": 28318,
-  "num_list_users": 62,
-  "num_scoring_users": 1,
+  "rank": 20966,
+  "popularity": 24586,
+  "num_list_users": 118,
+  "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": "2025-06-26T07:28:31+00:00",
   "updated_at": "2025-06-26T11:15:08+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 51,
@@ -42,7 +43,7 @@
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 60,
   "rating": "g",
   "studios": []
 }

@@ -1,0 +1,50 @@
+{
+  "id": 61963,
+  "title": "Bao Ke Meng Shengtai Yi Riji",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1375/150894.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1375/150894l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Pokécology Diary"
+    ],
+    "en": "Pokémon Ecology Diary",
+    "ja": "宝可梦生态一日记"
+  },
+  "start_date": "2025-04-22",
+  "end_date": "2025-04-22",
+  "synopsis": "Our planet is vast and colorful, and the world of Pokémon is equally vivid and magnificent.\n\nWill the flame on the little Chimchar ever go out? Will Casform change with the weather? Can the Tepig's snout breathe fire?\n\nTrainers, you are invited to come and discover the ecology here!\n\n(Source: Bilibili, translated)",
+  "rank": 17207,
+  "popularity": 28557,
+  "num_list_users": 39,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2025-07-02T10:44:09+00:00",
+  "updated_at": "2025-07-05T05:18:44+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 540,
+  "rating": "g",
+  "studios": []
+}

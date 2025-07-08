@@ -12,14 +12,16 @@
   },
   "start_date": "2025-07-06",
   "synopsis": "Takuto Ira succumbed to illness at a young age and ended up reincarnating in a world that resembles the fantasy turn-based strategy game Eternal Nations. Not only did he reincarnate into his favorite game, but as the god who commands the evil civilization Mynoghra. With Mynoghra's beautiful hero unit, Sludge Witch Atou by his side, not even legendarily difficult race traits will stand in the way of restarting their civilization!\n\n(Source: Cross Infinite World)",
-  "popularity": 4651,
-  "num_list_users": 26921,
-  "num_scoring_users": 3,
+  "mean": 7.15,
+  "rank": 3695,
+  "popularity": 3984,
+  "num_list_users": 37469,
+  "num_scoring_users": 2099,
   "nsfw": "white",
   "created_at": "2024-06-23T16:10:06+00:00",
-  "updated_at": "2025-06-20T03:06:49+00:00",
+  "updated_at": "2025-07-06T17:51:07+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 2,
@@ -38,7 +40,7 @@
       "name": "Reincarnation"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -48,7 +50,7 @@
     "start_time": "22:30"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
   "studios": [
     {
       "id": 1978,

@@ -1,0 +1,47 @@
+{
+  "id": 61994,
+  "title": "Azarashi no Eru Aru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1413/150896.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1413/150896l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "あざらしのえるあーる"
+  },
+  "start_date": "2025-07-01",
+  "synopsis": "Two seals, Eru and Aru, spend their days together in a gentle and warm atmosphere. They play at home, relax watching TV, and sometimes get tired from playing and fall asleep.\n\n(Source: U-NEXT, translated)",
+  "rank": 17079,
+  "popularity": 28569,
+  "num_list_users": 35,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-07-05T06:32:17+00:00",
+  "updated_at": "2025-07-05T06:32:17+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 63,
+      "name": "Iyashikei"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 60,
+  "rating": "g",
+  "studios": []
+}

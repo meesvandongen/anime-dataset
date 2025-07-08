@@ -11,15 +11,17 @@
     "ja": "よふかしのうた Season2"
   },
   "start_date": "2025-07-04",
-  "synopsis": "Second season of Yofukashi no Uta",
-  "popularity": 2144,
-  "num_list_users": 108893,
-  "num_scoring_users": 199,
+  "synopsis": "Second season of Yofukashi no Uta.",
+  "mean": 8.21,
+  "rank": 390,
+  "popularity": 1892,
+  "num_list_users": 129243,
+  "num_scoring_users": 5785,
   "nsfw": "white",
   "created_at": "2024-03-11T11:34:26+00:00",
-  "updated_at": "2025-06-11T02:08:55+00:00",
+  "updated_at": "2025-07-04T16:54:14+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 22,
@@ -38,7 +40,7 @@
       "name": "Vampire"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -48,7 +50,7 @@
     "start_time": "23:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1377,
   "rating": "pg_13",
   "studios": [
     {

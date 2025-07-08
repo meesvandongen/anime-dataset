@@ -1,0 +1,67 @@
+{
+  "id": 61200,
+  "title": "Shuumatsu no Walküre III",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1169/148460.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1169/148460l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Record of Ragnarok III",
+    "ja": "終末のワルキューレIII"
+  },
+  "start_date": "2025-12",
+  "synopsis": "Third season of Shuumatsu no Walküre.",
+  "popularity": 6166,
+  "num_list_users": 13116,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-03-14T01:00:52+00:00",
+  "updated_at": "2025-03-14T01:11:27+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    },
+    {
+      "id": 3097,
+      "name": "Maru Animation"
+    }
+  ]
+}

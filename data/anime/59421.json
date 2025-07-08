@@ -14,14 +14,16 @@
   },
   "start_date": "2025-07-05",
   "synopsis": "A poor baron daughter has lived under her sister's shadow, where she always had nothing. Her hair is full or hairballs, she doesn't have a single dress, and all she has are tattered clothes for work. Her sister receives the attention of a high rich noble, but she dies on the way to her marriage.\n\nMarie is sent as a substitute bride for her sister because the baron cannot repay the already sold dowry to the earl. But... that's impossible? In the first place, the proposal was a misunderstanding? A beautiful and happy story of love about a fallen baron's daughter and an eloquent earl.\n\n(Source: Shousetsuka ni Narou, translated)\n\n",
-  "popularity": 5705,
-  "num_list_users": 16005,
-  "num_scoring_users": 2,
+  "mean": 7.12,
+  "rank": 3865,
+  "popularity": 4975,
+  "num_list_users": 22977,
+  "num_scoring_users": 1541,
   "nsfw": "white",
   "created_at": "2024-07-29T16:23:17+00:00",
-  "updated_at": "2025-06-11T02:15:02+00:00",
+  "updated_at": "2025-07-04T17:45:15+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -36,7 +38,7 @@
       "name": "Romance"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -46,7 +48,8 @@
     "start_time": "01:53"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1467,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 563,

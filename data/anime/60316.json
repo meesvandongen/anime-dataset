@@ -12,14 +12,16 @@
   },
   "start_date": "2025-07-06",
   "synopsis": "Wrongly convicted of a crime, 34-year-old Shigeru Yoshioka loses everything, including his trust in women, and withdraws from society as an unemployed recluse.\n\nOne day, he stumbles upon a way to travel to another world. When a mysterious status screen appears on his computer, Shigeru sacrifices his looks to gain an overwhelming 100 trillion and 5,100 parameters. Now reborn as an \"Absolute God,\" he begins his second life in another world.\n\n(Source: MAL News)",
-  "popularity": 7401,
-  "num_list_users": 8439,
-  "num_scoring_users": 2,
+  "mean": 6.67,
+  "rank": 6224,
+  "popularity": 5981,
+  "num_list_users": 14246,
+  "num_scoring_users": 1198,
   "nsfw": "white",
   "created_at": "2024-11-18T09:22:35+00:00",
-  "updated_at": "2025-07-01T20:52:22+00:00",
+  "updated_at": "2025-07-06T17:52:04+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -42,7 +44,7 @@
       "name": "Seinen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -52,7 +54,8 @@
     "start_time": "23:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1430,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 314,

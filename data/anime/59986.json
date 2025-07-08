@@ -12,14 +12,16 @@
   },
   "start_date": "2025-07-08",
   "synopsis": "Second season of Grand Blue.",
-  "popularity": 2601,
-  "num_list_users": 81169,
-  "num_scoring_users": 178,
+  "mean": 8.69,
+  "rank": 64,
+  "popularity": 2415,
+  "num_list_users": 91203,
+  "num_scoring_users": 2326,
   "nsfw": "white",
   "created_at": "2024-09-29T11:27:43+00:00",
-  "updated_at": "2025-06-14T22:33:53+00:00",
+  "updated_at": "2025-07-07T19:43:05+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
@@ -38,7 +40,7 @@
       "name": "Seinen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -48,7 +50,8 @@
     "start_time": "00:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1379,

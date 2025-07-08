@@ -2,8 +2,8 @@
   "id": 59490,
   "title": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1262/146724.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1262/146724l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1262/146724.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1262/146724l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,14 @@
   "start_date": "2025-03-28",
   "end_date": "2025-03-28",
   "synopsis": "A day off... After spending so long training, Reno has forgotten what he's supposed to do with free time. But when he sees that Hoshina is up to something, he goes on a mission to tail him with Iharu!\n\n(Source: Official site)",
-  "mean": 6.95,
-  "rank": 4652,
-  "popularity": 4313,
-  "num_list_users": 31418,
-  "num_scoring_users": 763,
+  "mean": 6.8,
+  "rank": 5433,
+  "popularity": 3990,
+  "num_list_users": 37287,
+  "num_scoring_users": 6511,
   "nsfw": "white",
   "created_at": "2024-08-05T19:35:28+00:00",
-  "updated_at": "2025-01-03T01:57:31+00:00",
+  "updated_at": "2025-07-05T15:44:44+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,
@@ -41,7 +45,7 @@
     "season": "winter"
   },
   "source": "manga",
-  "average_episode_duration": 1200,
+  "average_episode_duration": 1420,
   "rating": "pg_13",
   "studios": [
     {

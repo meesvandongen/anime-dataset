@@ -12,14 +12,16 @@
   },
   "start_date": "2025-07-03",
   "synopsis": "Backstabbed by those he considered friends, Dennis has been exiled from one of the strongest guilds around: the Silver Wings Battalion. He doesn't think much of it, though, as he was dying to use his level 99 cooking skills anyway. That's why he decides to leave the city behind and open up a diner in the countryside.\n\nWhile pursuing his dream, Dennis meets Atrielle, a girl exiled from her noble household and relegated to slavery until he saves her.\n\nThe pair open the diner together, and their first client is... an exiled knight from a different guild? How peculiar. But she is not the only customer; a cocky mage and a drastically overworked yet underpaid sage become regulars as well.\n\nThe knight brings trouble to the diner at times, but Dennis's cooking skills and beloved butcher knives cut through trouble and hunger alike!\n\nThus begins the legend of Dennis and his diner, the talk of the town!\n\n(Source: Tentai Books)",
-  "popularity": 7119,
-  "num_list_users": 9267,
-  "num_scoring_users": 2,
+  "mean": 7.26,
+  "rank": 3109,
+  "popularity": 5257,
+  "num_list_users": 20090,
+  "num_scoring_users": 1987,
   "nsfw": "white",
   "created_at": "2024-12-15T11:31:20+00:00",
-  "updated_at": "2025-06-11T02:36:08+00:00",
+  "updated_at": "2025-07-03T19:46:01+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 10,
@@ -30,7 +32,7 @@
       "name": "Gourmet"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -41,6 +43,7 @@
   },
   "source": "light_novel",
   "average_episode_duration": 0,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 28,

@@ -1,0 +1,43 @@
+{
+  "id": 61947,
+  "title": "Zhu Zhu Xia: Yi Zhi Lao Zhu De Ni Xi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1112/150839.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1112/150839l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "猪猪侠·一只老猪的逆袭"
+  },
+  "start_date": "2025-10-01",
+  "end_date": "2025-10-01",
+  "synopsis": "",
+  "popularity": 28595,
+  "num_list_users": 27,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-07-01T18:43:09+00:00",
+  "updated_at": "2025-07-02T06:28:59+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg",
+  "studios": []
+}

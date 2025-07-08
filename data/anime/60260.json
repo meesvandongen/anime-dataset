@@ -12,14 +12,16 @@
   },
   "start_date": "2025-07-06",
   "synopsis": "At this hotel, \"Our esteemed guests are assassins.\" A premier hotel offers more than luxury; it meets unique requirements: \"Exquisite dining,\" \"Ultimate relaxation,\" \"Enthralling entertainment\"...and even \"The latest in weapon procurement,\" \"Guaranteed identity concealment,\" and \"Seamless corpse disposal\"?!\n\nOn the line between life and death, two concierges, Namuro and Sara, who never say \"no,\" are ready to grant every assassin's wish. Get ready for the striking drama of the Killing Hotel!\n\n(Source: MAL News)",
-  "popularity": 7751,
-  "num_list_users": 7460,
-  "num_scoring_users": 1,
+  "mean": 6.75,
+  "rank": 5708,
+  "popularity": 6744,
+  "num_list_users": 10604,
+  "num_scoring_users": 619,
   "nsfw": "white",
   "created_at": "2024-11-08T03:01:31+00:00",
-  "updated_at": "2025-06-20T03:06:25+00:00",
+  "updated_at": "2025-07-07T23:39:14+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -28,9 +30,13 @@
     {
       "id": 8,
       "name": "Drama"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 13,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -40,7 +46,8 @@
     "start_time": "23:45"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1414,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 397,

@@ -2,8 +2,8 @@
   "id": 38080,
   "title": "Kono Oto Tomare!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1464/99881.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1464/99881l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1464/99881.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1464/99881l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,14 @@
   "start_date": "2019-04-07",
   "end_date": "2019-06-30",
   "synopsis": "Gen Kudou, a koto maker, believes that his delinquent grandson Chika would never understand the profoundness of the traditional musical instrument. In an attempt to make up for his naivety and understand the words of his late grandfather, Chika tries to join the Tokise High School Koto Club. \n\nEven though the club is in dire need of members, new club president Takezou Kurata is unwilling to easily accept Chika's application due to his bad reputation. Nonetheless, after seeing Chika's seriousness and enthusiasm, Takezou allows the problem child to join, along with koto prodigy Satowa Houzuki and three of Chika's energetic friends. Kono Oto Tomare! follows the merry band of musicians as they aspire to play at the national competition.\n\n[Written by MAL Rewrite]",
-  "mean": 7.93,
-  "rank": 777,
+  "mean": 7.94,
+  "rank": 763,
   "popularity": 785,
-  "num_list_users": 334840,
-  "num_scoring_users": 131224,
+  "num_list_users": 335201,
+  "num_scoring_users": 131386,
   "nsfw": "white",
   "created_at": "2018-07-26T09:18:47+00:00",
-  "updated_at": "2024-02-06T22:54:38+00:00",
+  "updated_at": "2025-07-03T08:48:08+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 19,
       "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
     },
     {
       "id": 23,

@@ -13,13 +13,13 @@
   "start_date": "2025-06-13",
   "end_date": "2025-06-13",
   "synopsis": "A sequel film to Junk Head.",
-  "rank": 17014,
-  "popularity": 16658,
-  "num_list_users": 590,
-  "num_scoring_users": 8,
+  "rank": 19514,
+  "popularity": 16619,
+  "num_list_users": 597,
+  "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": "2023-09-12T06:17:05+00:00",
-  "updated_at": "2023-09-12T08:26:41+00:00",
+  "updated_at": "2025-07-05T07:53:14+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -44,13 +44,14 @@
       "name": "Suspense"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 1,
   "start_season": {
     "year": 2025,
     "season": "spring"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 6300,
+  "rating": "r",
   "studios": [
     {
       "id": 2564,
