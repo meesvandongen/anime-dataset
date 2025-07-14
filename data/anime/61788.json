@@ -12,8 +12,8 @@
   },
   "start_date": "2025-09-12",
   "synopsis": "",
-  "popularity": 19930,
-  "num_list_users": 322,
+  "popularity": 19257,
+  "num_list_users": 365,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2025-06-05T23:07:36+00:00",
@@ -34,5 +34,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 977,
+      "name": "Queen Bee"
+    }
+  ]
 }

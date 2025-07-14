@@ -15,9 +15,9 @@
   "start_date": "2017-10-25",
   "end_date": "2017-10-25",
   "synopsis": "Music video for the song Takaramono by Yoshida Yamada.",
-  "popularity": 28598,
-  "num_list_users": 23,
-  "num_scoring_users": 14,
+  "popularity": 28587,
+  "num_list_users": 36,
+  "num_scoring_users": 16,
   "nsfw": "white",
   "created_at": "2025-07-06T05:00:52+00:00",
   "updated_at": "2025-07-06T05:00:52+00:00",
@@ -37,5 +37,10 @@
   "source": "original",
   "average_episode_duration": 230,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1849,
+      "name": "MASTER LIGHTS"
+    }
+  ]
 }

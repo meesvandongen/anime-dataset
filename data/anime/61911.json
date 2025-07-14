@@ -12,8 +12,8 @@
   },
   "start_date": "2025-07-25",
   "synopsis": "",
-  "popularity": 22040,
-  "num_list_users": 205,
+  "popularity": 21413,
+  "num_list_users": 238,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2025-06-25T17:39:31+00:00",
@@ -34,5 +34,10 @@
   "source": "original",
   "average_episode_duration": 0,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 2014,
+      "name": "Nur"
+    }
+  ]
 }

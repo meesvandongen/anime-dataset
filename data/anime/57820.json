@@ -12,14 +12,16 @@
   },
   "start_date": "2025-07-10",
   "synopsis": "Seven years after humanity was devastated by a major disaster, a beacon of science and prosperity rises in Kamitsubaki City. But lurking in its shadows are Tesseractor, monsters born from human darkness. Only the Witchling, five girls with voices that wield magic, stand against them. With every note, they fight, not just to protect the peace of the city, but to heal a broken world.\n\n(Source: Crunchyroll)",
-  "popularity": 7706,
-  "num_list_users": 7602,
-  "num_scoring_users": 34,
+  "mean": 5.6,
+  "rank": 12058,
+  "popularity": 7477,
+  "num_list_users": 8254,
+  "num_scoring_users": 417,
   "nsfw": "gray",
   "created_at": "2024-01-13T14:00:49+00:00",
   "updated_at": "2025-07-06T08:49:14+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "num_episodes": 12,
   "start_season": {
     "year": 2025,
@@ -31,6 +33,7 @@
   },
   "source": "other",
   "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 474,

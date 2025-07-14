@@ -15,14 +15,16 @@
   },
   "start_date": "2025-07-10",
   "synopsis": "Second season of Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu.",
-  "popularity": 3304,
-  "num_list_users": 52861,
-  "num_scoring_users": 18,
+  "mean": 7.59,
+  "rank": 1662,
+  "popularity": 3043,
+  "num_list_users": 62029,
+  "num_scoring_users": 3053,
   "nsfw": "white",
   "created_at": "2024-06-17T15:49:49+00:00",
-  "updated_at": "2025-06-11T02:12:04+00:00",
+  "updated_at": "2025-07-09T18:12:00+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 2,
@@ -47,7 +49,7 @@
     "start_time": "00:00"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1430,
   "rating": "pg_13",
   "studios": [
     {

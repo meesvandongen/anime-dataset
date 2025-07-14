@@ -1,0 +1,47 @@
+{
+  "id": 61997,
+  "title": "Sugar Sugar Rune: Les deux sorcières",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1182/150986.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1182/150986l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sugar Sugar Rune 20th Anniversary Short"
+    ],
+    "en": "Sugar Sugar Rune: Les deux sorcières",
+    "ja": "シュガシュガルーン レ・ドゥー・ソルシエール"
+  },
+  "start_date": "2025-07-05",
+  "end_date": "2025-07-05",
+  "synopsis": "A 20th anniversary commemorative short for Sugar Sugar Rune.",
+  "mean": 6.78,
+  "rank": 5563,
+  "popularity": 16003,
+  "num_list_users": 693,
+  "num_scoring_users": 173,
+  "nsfw": "white",
+  "created_at": "2025-07-05T11:52:54+00:00",
+  "updated_at": "2025-07-11T05:59:18+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 394,
+  "rating": "pg",
+  "studios": []
+}

@@ -2,8 +2,8 @@
   "id": 59207,
   "title": "Mikadono Sanshimai wa Angai, Choroi.",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1359/150664.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1359/150664l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1949/150965.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1949/150965l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,16 @@
   },
   "start_date": "2025-07-10",
   "synopsis": "As the son of the late legendary actress Subaru Ayase, Yuu has had many expectations placed upon him after he transferred to Saika Academy, a highly prestigious school where students can hone their personal talents. However, in contrast to his mother, Yuu is completely talentless. Being seen as completely mediocre, he would have no chance of standing side by side with the three emperors of Saika Academy: the Mikadono sisters, Miwa, Nico, and Kazuki, who are each prodigies in shogi, martial arts, and performing arts, respectively.\n\nWith Subaru's friend agreeing to take her son in, Yuu aims to fulfill his mother's last wish to him, which is to build a happy family, after never being able to form a proper mother-son relationship due to their difference in talent. As it turns out, his mother's friend is actually the father of the Mikadono sisters! Keeping his mother's wish in mind, Yuu aims to build familial bonds with the siblings. However, due to their extreme focus on their respective specializations, they show little interest in opening themselves up not only to him, but to each other as well. Nonetheless, Yuu strives to continuously support the three prodigies, as his kindness and care restores the bond between the sisters.\n\n[Written by MAL Rewrite]",
-  "popularity": 5243,
-  "num_list_users": 20136,
-  "num_scoring_users": 6,
+  "mean": 7.5,
+  "rank": 2033,
+  "popularity": 4379,
+  "num_list_users": 30789,
+  "num_scoring_users": 2445,
   "nsfw": "white",
   "created_at": "2024-07-03T03:03:03+00:00",
-  "updated_at": "2025-06-21T03:20:23+00:00",
+  "updated_at": "2025-07-09T18:15:23+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -34,7 +36,7 @@
       "name": "Shounen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "summer"
@@ -44,7 +46,8 @@
     "start_time": "00:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 132,

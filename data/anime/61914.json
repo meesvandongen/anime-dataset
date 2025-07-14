@@ -14,10 +14,10 @@
   },
   "start_date": "2025-07-03",
   "synopsis": "Follows Nekotarou, a cat from Kagoshima who aims to unify the country.\n\n(Source: ANN)",
-  "rank": 20966,
-  "popularity": 24586,
-  "num_list_users": 118,
-  "num_scoring_users": 3,
+  "rank": 20995,
+  "popularity": 23626,
+  "num_list_users": 141,
+  "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": "2025-06-26T07:28:31+00:00",
   "updated_at": "2025-06-26T11:15:08+00:00",
@@ -45,5 +45,10 @@
   "source": "manga",
   "average_episode_duration": 60,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 432,
+      "name": "Kachidoki Studio"
+    }
+  ]
 }
