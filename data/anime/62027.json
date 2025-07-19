@@ -13,9 +13,9 @@
   "start_date": "2006-12-22",
   "end_date": "2006-12-22",
   "synopsis": "A special video for the Tori no Uta OP from Air which was included in the Blu-ray release of the series. It contains original animation covering scenes from the visual novel that were not shown in the series.",
-  "popularity": 28611,
-  "num_list_users": 28,
-  "num_scoring_users": 12,
+  "popularity": 28375,
+  "num_list_users": 61,
+  "num_scoring_users": 29,
   "nsfw": "white",
   "created_at": "2025-07-11T05:21:35+00:00",
   "updated_at": "2025-07-12T08:33:23+00:00",
@@ -47,5 +47,10 @@
   "source": "visual_novel",
   "average_episode_duration": 202,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2,
+      "name": "Kyoto Animation"
+    }
+  ]
 }

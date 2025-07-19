@@ -17,13 +17,13 @@
   "end_date": "2000-01-29",
   "synopsis": "A normal looking high school girl on the outside, Kusakabe Maron is actually the reincarnation of Jeanne d' Arc. With the help of the angel, Fin Fish, Maron works as the thief Jeanne at night to seal the demons that reside in pieces of artwork, preying upon the weak hearts of the owners. She is branded as a thief due to the fact that the artworks disappear after she seals the demons. One day, a new neighbor and classmate appears, as well as a rival in her night job, the thief Sinbad. With her own best friend being the detective's daughter, out to capture her and the appearance of her new rival, Maron's work is anything but easy.",
   "mean": 7.47,
-  "rank": 2138,
-  "popularity": 3104,
-  "num_list_users": 59827,
-  "num_scoring_users": 29621,
+  "rank": 2121,
+  "popularity": 3109,
+  "num_list_users": 59850,
+  "num_scoring_users": 29625,
   "nsfw": "white",
   "created_at": "2005-11-11T14:55:39+00:00",
-  "updated_at": "2025-03-27T00:13:08+00:00",
+  "updated_at": "2025-07-17T10:41:52+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -40,14 +40,6 @@
       "name": "Mahou Shoujo"
     },
     {
-      "id": 7,
-      "name": "Mystery"
-    },
-    {
-      "id": 6,
-      "name": "Mythology"
-    },
-    {
       "id": 72,
       "name": "Reincarnation"
     },
@@ -56,8 +48,16 @@
       "name": "Romance"
     },
     {
+      "id": 23,
+      "name": "School"
+    },
+    {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 44,

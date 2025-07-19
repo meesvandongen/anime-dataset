@@ -16,16 +16,20 @@
   "end_date": "2014-06-28",
   "synopsis": "Third movie of Ghost in the Shell: Arise.\n\nMotoko and Batou work to try to stop a terrorist organization whose symbol is the Scylla. Meanwhile, Togusa investigates a murder of a man who possessed a prosthetic leg manufactured by the Mermaid's Leg corporation.\n\n(Source: Wikipedia)",
   "mean": 7.33,
-  "rank": 2732,
-  "popularity": 3491,
-  "num_list_users": 47927,
-  "num_scoring_users": 21819,
+  "rank": 2726,
+  "popularity": 3494,
+  "num_list_users": 47948,
+  "num_scoring_users": 21827,
   "nsfw": "white",
   "created_at": "2013-06-23T09:28:47+00:00",
-  "updated_at": "2022-03-26T21:34:32+00:00",
+  "updated_at": "2025-07-17T10:26:32+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 50,
       "name": "Adult Cast"
@@ -37,6 +41,10 @@
     {
       "id": 18,
       "name": "Mecha"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
     },
     {
       "id": 40,
