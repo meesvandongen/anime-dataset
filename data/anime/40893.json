@@ -2,8 +2,8 @@
   "id": 40893,
   "title": "Komatta Jiisan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1801/116872.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1801/116872l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1801/116872.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1801/116872l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,9 +16,9 @@
   "end_date": "2020-07-01",
   "synopsis": "A story about a handsome, but slightly troubled old man who pretends to be a fool to make the grandma's heart flutter. A tale of a couple celebrating their 50th wedding anniversary, still nurturing a new love. This is a story of a couple's daily life with nothing but happiness that you will want to watch forever.\n\n(Source: BS NTV, translated)",
   "mean": 6.42,
-  "rank": 7762,
-  "popularity": 8953,
-  "num_list_users": 5270,
+  "rank": 7738,
+  "popularity": 8960,
+  "num_list_users": 5271,
   "num_scoring_users": 2159,
   "nsfw": "white",
   "created_at": "2019-12-17T07:39:52+00:00",
@@ -50,6 +50,7 @@
   },
   "source": "manga",
   "average_episode_duration": 60,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 432,

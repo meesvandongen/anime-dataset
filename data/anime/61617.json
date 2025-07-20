@@ -2,8 +2,8 @@
   "id": 61617,
   "title": "Lang Lang Shan Xiao Yaoguai",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1540/149587.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1540/149587l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1540/149587.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1540/149587l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,8 +13,8 @@
   "start_date": "2025-08-02",
   "end_date": "2025-08-02",
   "synopsis": "",
-  "popularity": 19884,
-  "num_list_users": 324,
+  "popularity": 19729,
+  "num_list_users": 335,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-05-01T09:07:36+00:00",
@@ -33,7 +33,7 @@
     "season": "summer"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 7080,
   "rating": "pg_13",
   "studios": []
 }

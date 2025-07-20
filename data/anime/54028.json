@@ -12,17 +12,21 @@
   },
   "start_date": "2025-07-09",
   "synopsis": "At the bowling club of Ikkokukan High School in Nagano Prefecture, Mai, the club captain, prioritizes everyone's enjoyment over winning. However, her passionate junior, Rina, declares, \"I want to win.\" When Rina threatens to quit the club, Mai tries to convince her to stay, but Rina challenges her to a match and says she'll only remain if Mai wins. As the game begins, the bowling ball suddenly starts to glow, and all five club members are engulfed in a mysterious light. When they awaken... they find themselves transported to none other than the Warring States period!\n\n(Source: Official site, translated)",
-  "mean": 6.61,
-  "rank": 6574,
-  "popularity": 6405,
-  "num_list_users": 12038,
-  "num_scoring_users": 864,
+  "mean": 6.5,
+  "rank": 7242,
+  "popularity": 6133,
+  "num_list_users": 13423,
+  "num_scoring_users": 1153,
   "nsfw": "white",
   "created_at": "2022-12-29T11:39:33+00:00",
-  "updated_at": "2025-07-08T20:33:38+00:00",
+  "updated_at": "2025-07-14T20:13:19+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
     {
       "id": 30,
       "name": "Sports"

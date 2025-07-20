@@ -2,8 +2,8 @@
   "id": 43426,
   "title": "Taimanin Asagi: Toraware no Niku Ningyou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1447/132980.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1447/132980l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1447/132980.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1447/132980l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,26 +14,26 @@
   "end_date": "2020-10-30",
   "synopsis": "",
   "mean": 6.17,
-  "popularity": 9771,
-  "num_list_users": 4098,
-  "num_scoring_users": 1648,
+  "popularity": 9782,
+  "num_list_users": 4100,
+  "num_scoring_users": 1651,
   "nsfw": "gray",
   "created_at": "2020-10-14T14:16:35+00:00",
-  "updated_at": "2023-01-24T21:17:26+00:00",
+  "updated_at": "2025-07-17T10:16:32+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
     {
       "id": 12,
       "name": "Hentai"
     },
     {
-      "id": 6,
-      "name": "Mythology"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 1,

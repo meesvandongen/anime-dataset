@@ -1,0 +1,45 @@
+{
+  "id": 62066,
+  "title": "Monster Strike: Deadverse Reloaded",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1424/151070.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1424/151070l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "モンスターストライク デッドバースリローデッド"
+  },
+  "start_date": "2025-10",
+  "synopsis": "",
+  "popularity": 21235,
+  "num_list_users": 249,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-07-17T04:36:17+00:00",
+  "updated_at": "2025-07-17T04:37:08+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 0,
+  "studios": []
+}

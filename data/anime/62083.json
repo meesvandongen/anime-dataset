@@ -1,0 +1,58 @@
+{
+  "id": 62083,
+  "title": "Tomica to Tom (TV)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1521/151096.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1521/151096l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tomica and Tom (TV)"
+    ],
+    "en": "Tomica & Tom (TV)",
+    "ja": "トミカとトム"
+  },
+  "start_date": "2025-07-20",
+  "synopsis": "After you fall asleep or while you're out, what are Tomica and Tom doing? Are they sleeping peacefully in the toy box? Are they just sitting there on the floor? Or maybe... No one knows the story of Tomica and Tom, but today we'll let you in on a special secret.\n\n(Source: Official site, translated)",
+  "rank": 15375,
+  "popularity": 28647,
+  "num_list_users": 18,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-07-19T05:36:14+00:00",
+  "updated_at": "2025-07-19T05:36:14+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "08:30"
+  },
+  "source": "other",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 3046,
+      "name": "Tsumupapa"
+    }
+  ]
+}

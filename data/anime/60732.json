@@ -2,8 +2,8 @@
   "id": 60732,
   "title": "Mizu Zokusei no Mahoutsukai",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1224/147443.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1224/147443l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1383/151072.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1383/151072l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,20 +15,24 @@
   },
   "start_date": "2025-07-04",
   "synopsis": "Ryou is delighted to be reincarnated into the fantastical world of Phi, where he thinks he'll get to live a quiet life learning to use his newfound water magic. Going with the flow here, however, means something very different. Ryou is immediately pitted against the wild lands he winds up in and the slew of deadly monsters that call the remote subcontinent home. You'd think he'd forget about taking it easy when he's stuck fighting for his life, but lucky for Ryou, he's naturally optimistic, clever, and blessed with the hidden \"Eternal Youth\" trait. Twenty years pass in the blink of an eye, and each encounter along the way pushes him one step closer to the pinnacle of human magic. Little does he realize that's only the opening chapter of his tale. A fateful meeting soon thrusts Ryou to the forefront of history, forever changing the course of his life... Thus begins the adventures of the strongest water magician the world has ever seen—who also likes to do things at his own pace!\n\n(Source: J-Novel Club)",
-  "mean": 7.16,
-  "rank": 3650,
-  "popularity": 3220,
-  "num_list_users": 55483,
-  "num_scoring_users": 6019,
+  "mean": 7.2,
+  "rank": 3447,
+  "popularity": 3008,
+  "num_list_users": 63466,
+  "num_scoring_users": 7649,
   "nsfw": "white",
   "created_at": "2025-01-10T03:05:51+00:00",
-  "updated_at": "2025-07-04T06:33:22+00:00",
+  "updated_at": "2025-07-19T20:33:47+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {
-      "id": 1,
-      "name": "Action"
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
     },
     {
       "id": 10,
@@ -53,7 +57,7 @@
     "start_time": "01:28"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1454,
   "rating": "pg_13",
   "studios": [
     {
