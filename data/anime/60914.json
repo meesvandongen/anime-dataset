@@ -11,16 +11,17 @@
     "ja": "브레드이발소4: 베이커리 빵스타즈"
   },
   "start_date": "2024-11-30",
+  "end_date": "2025-06-07",
   "synopsis": "",
-  "rank": 17360,
-  "popularity": 24721,
-  "num_list_users": 116,
-  "num_scoring_users": 10,
+  "rank": 19939,
+  "popularity": 24714,
+  "num_list_users": 118,
+  "num_scoring_users": 11,
   "nsfw": "white",
   "created_at": "2025-02-03T20:02:41+00:00",
-  "updated_at": "2025-02-05T12:28:17+00:00",
+  "updated_at": "2025-07-24T05:54:07+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 51,
@@ -39,7 +40,7 @@
       "name": "Kids"
     }
   ],
-  "num_episodes": 26,
+  "num_episodes": 22,
   "start_season": {
     "year": 2024,
     "season": "fall"

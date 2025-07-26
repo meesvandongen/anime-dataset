@@ -15,13 +15,13 @@
   "start_date": "2022-07-31",
   "synopsis": "Fifth season of Doupo Cangqiong.",
   "mean": 8.45,
-  "rank": 175,
-  "popularity": 6690,
-  "num_list_users": 10843,
-  "num_scoring_users": 3664,
+  "rank": 174,
+  "popularity": 6683,
+  "num_list_users": 10883,
+  "num_scoring_users": 3678,
   "nsfw": "white",
   "created_at": "2022-02-15T17:07:53+00:00",
-  "updated_at": "2024-07-20T13:27:23+00:00",
+  "updated_at": "2025-07-22T07:29:29+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -42,7 +42,7 @@
       "name": "Martial Arts"
     }
   ],
-  "num_episodes": 157,
+  "num_episodes": 208,
   "start_season": {
     "year": 2022,
     "season": "summer"

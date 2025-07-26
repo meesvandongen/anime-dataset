@@ -11,16 +11,17 @@
     "ja": "喜羊羊与灰太狼之狂野新宇宙"
   },
   "start_date": "2025-07-04",
+  "end_date": "2025-07-18",
   "synopsis": "",
-  "rank": 15871,
-  "popularity": 27057,
-  "num_list_users": 82,
-  "num_scoring_users": 1,
+  "rank": 15895,
+  "popularity": 26640,
+  "num_list_users": 88,
+  "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2025-07-01T19:16:46+00:00",
-  "updated_at": "2025-07-05T04:55:49+00:00",
+  "updated_at": "2025-07-22T07:58:11+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -41,7 +42,7 @@
     "season": "summer"
   },
   "source": "original",
-  "average_episode_duration": 840,
+  "average_episode_duration": 900,
   "rating": "pg",
   "studios": []
 }

@@ -2,8 +2,8 @@
   "id": 39117,
   "title": "Girls Jockey",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1240/99905.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1240/99905l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1240/99905.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1240/99905l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,19 +13,23 @@
   "start_date": "2019-03-10",
   "end_date": "2019-03-10",
   "synopsis": "",
-  "rank": 18621,
-  "popularity": 17751,
-  "num_list_users": 482,
+  "rank": 21197,
+  "popularity": 17763,
+  "num_list_users": 484,
   "num_scoring_users": 91,
   "nsfw": "white",
   "created_at": "2019-02-01T02:30:02+00:00",
-  "updated_at": "2019-04-11T07:52:29+00:00",
+  "updated_at": "2025-07-25T06:41:00+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 3,
       "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
     }
   ],
   "num_episodes": 1,

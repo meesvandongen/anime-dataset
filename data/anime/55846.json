@@ -1,6 +1,6 @@
 {
   "id": 55846,
-  "title": "Synapusyu The Movie: Push Hoppe New World",
+  "title": "Synapusyu The Movie: Pushu Hoppe New World",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1666/136895.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1666/136895l.jpg"
@@ -13,13 +13,13 @@
   "start_date": "2023-05-19",
   "end_date": "2023-05-19",
   "synopsis": "",
-  "rank": 15077,
-  "popularity": 22156,
-  "num_list_users": 199,
+  "rank": 15100,
+  "popularity": 22159,
+  "num_list_users": 201,
   "num_scoring_users": 34,
   "nsfw": "gray",
   "created_at": "2023-07-03T13:06:01+00:00",
-  "updated_at": "2023-07-19T16:59:45+00:00",
+  "updated_at": "2025-07-24T06:24:04+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -30,6 +30,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
     }
   ],
   "num_episodes": 1,
@@ -37,7 +41,8 @@
     "year": 2023,
     "season": "spring"
   },
+  "source": "other",
   "average_episode_duration": 2630,
-  "rating": "pg",
+  "rating": "g",
   "studios": []
 }

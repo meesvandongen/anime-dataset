@@ -15,16 +15,20 @@
   "start_date": "2017-10-07",
   "end_date": "2017-12-23",
   "synopsis": "The story takes place in a village called Sylvania, and centers on Chocolate Usagi-chan, Kurumi Risu-kun, and their friends and families. \n\n(Source: ANN)",
-  "rank": 15073,
-  "popularity": 17564,
-  "num_list_users": 498,
+  "rank": 15095,
+  "popularity": 17574,
+  "num_list_users": 500,
   "num_scoring_users": 106,
   "nsfw": "white",
   "created_at": "2017-09-06T06:26:44+00:00",
-  "updated_at": "2023-02-18T23:37:38+00:00",
+  "updated_at": "2025-07-25T06:37:23+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
     {
       "id": 15,
       "name": "Kids"

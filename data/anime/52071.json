@@ -13,13 +13,13 @@
   "start_date": "2022-07-27",
   "end_date": "2022-07-27",
   "synopsis": "An adaptation of the final episode of the Midori no Makibao manga released with the Blu-ray box in 2022.",
-  "rank": 20651,
-  "popularity": 20206,
+  "rank": 18245,
+  "popularity": 20250,
   "num_list_users": 306,
   "num_scoring_users": 39,
   "nsfw": "white",
   "created_at": "2022-06-13T21:29:35+00:00",
-  "updated_at": "2025-06-06T23:07:37+00:00",
+  "updated_at": "2025-07-25T06:41:30+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -30,6 +30,10 @@
     {
       "id": 3,
       "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
     }
   ],
   "num_episodes": 1,

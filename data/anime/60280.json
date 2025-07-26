@@ -11,16 +11,17 @@
     "ja": "全力ウサギ (2023)"
   },
   "start_date": "2025-04-09",
+  "end_date": "2025-06-25",
   "synopsis": "Second season of Zenryoku Usagi (2023).",
-  "rank": 16669,
-  "popularity": 21810,
-  "num_list_users": 218,
-  "num_scoring_users": 20,
+  "rank": 16693,
+  "popularity": 21769,
+  "num_list_users": 221,
+  "num_scoring_users": 21,
   "nsfw": "white",
   "created_at": "2024-11-11T11:09:09+00:00",
-  "updated_at": "2025-02-28T03:26:54+00:00",
+  "updated_at": "2025-07-24T05:54:56+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -31,7 +32,7 @@
       "name": "Kids"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "spring"

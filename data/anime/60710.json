@@ -1,0 +1,48 @@
+{
+  "id": 60710,
+  "title": "Xi Yangyang Yu Hui Tailang: Xin Shijie Qiyu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1933/147390.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1933/147390l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Pleasant Goat and Big Big Wolf: Explore Wolffy's Mind",
+    "ja": "喜羊羊与灰太狼之心世界奇遇"
+  },
+  "start_date": "2024-01-19",
+  "end_date": "2024-02-02",
+  "synopsis": "",
+  "rank": 15906,
+  "popularity": 28357,
+  "num_list_users": 66,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2025-01-06T13:19:04+00:00",
+  "updated_at": "2025-01-07T12:47:19+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 60,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 920,
+  "rating": "pg",
+  "studios": []
+}

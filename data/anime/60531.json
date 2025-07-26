@@ -1,0 +1,61 @@
+{
+  "id": 60531,
+  "title": "Bukiyou na Senpai.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1351/151125.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1351/151125l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Awkward Senpai",
+      "My Awkward Senpai"
+    ],
+    "en": "",
+    "ja": "不器用な先輩。"
+  },
+  "start_date": "2025-10",
+  "synopsis": "Kannawa-senpai is considered many things, but smooth is definitely not one of them. Then she meets Kamegawa, her new Kouhai. He's cute, a little nerdy, and easy to talk to. How will this awkward Senpai be able to handle these new feelings?!\n\n(Source: Comikey Media)",
+  "popularity": 7017,
+  "num_list_users": 9726,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-12-16T10:13:19+00:00",
+  "updated_at": "2025-07-21T09:27:08+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1521,
+      "name": "Studio Elle"
+    }
+  ]
+}
