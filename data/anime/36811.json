@@ -16,13 +16,13 @@
   "start_date": "1971-06-03",
   "end_date": "1971-06-03",
   "synopsis": "A Minna no Uta version of the classic English song \"Camptown Races.\"",
-  "mean": 5.09,
-  "popularity": 19151,
-  "num_list_users": 374,
-  "num_scoring_users": 166,
+  "mean": 5.08,
+  "popularity": 19171,
+  "num_list_users": 375,
+  "num_scoring_users": 167,
   "nsfw": "white",
   "created_at": "2017-11-15T11:57:44+00:00",
-  "updated_at": "2017-12-29T16:21:15+00:00",
+  "updated_at": "2025-07-25T06:41:16+00:00",
   "media_type": "music",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 3,
       "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
     }
   ],
   "num_episodes": 1,
