@@ -13,13 +13,13 @@
   "start_date": "2014-05-07",
   "end_date": "2015-06-20",
   "synopsis": "Advertisements for JRA-VAN's racehorse software.",
-  "mean": 5.33,
-  "popularity": 19333,
-  "num_list_users": 363,
-  "num_scoring_users": 163,
+  "mean": 5.34,
+  "popularity": 19308,
+  "num_list_users": 366,
+  "num_scoring_users": 165,
   "nsfw": "white",
   "created_at": "2018-12-08T05:53:03+00:00",
-  "updated_at": "2024-01-16T02:53:16+00:00",
+  "updated_at": "2025-07-25T06:41:39+00:00",
   "media_type": "cm",
   "status": "finished_airing",
   "genres": [
@@ -30,6 +30,10 @@
     {
       "id": 3,
       "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
     }
   ],
   "num_episodes": 2,

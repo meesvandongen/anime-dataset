@@ -2,8 +2,8 @@
   "id": 55315,
   "title": "Gensou Mangekyou: The Memories of Phantasm",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1729/135900.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1729/135900l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1729/135900.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1729/135900l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,10 +14,10 @@
   "end_date": "2023-05-07",
   "synopsis": "Marisa, an ordinary magician, suspects a youkai is behind the winterly weather in the middle of spring. She goes off to investigate and soon arrives in the netherworld, facing the youkai behind the strange incident. Will her friend, the shrine maiden Reimu, arrive in time to save the day or will all be lost?\n\n(Source: AniDB)",
   "mean": 7.58,
-  "rank": 1688,
-  "popularity": 7131,
-  "num_list_users": 9319,
-  "num_scoring_users": 3365,
+  "rank": 1690,
+  "popularity": 7127,
+  "num_list_users": 9350,
+  "num_scoring_users": 3377,
   "nsfw": "white",
   "created_at": "2023-05-17T04:59:48+00:00",
   "updated_at": "2023-05-17T18:56:07+00:00",
@@ -37,5 +37,10 @@
   "source": "game",
   "average_episode_duration": 960,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3068,
+      "name": "Manpuku Jinja"
+    }
+  ]
 }

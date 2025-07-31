@@ -16,22 +16,26 @@
   "end_date": "2012-10-21",
   "synopsis": "A collaboration series between Evangelion: 3.0 You Can (Not) Redo and the Japan Racing Association (JRA). \n\nThe first two ads, \"Unknown Horse\" and \"Birth of Eva-Impact,\" begin with the Evangelion anime's Spear of Longinus falling from the heavens. Real-life jockey Yutaka Take, not being able to synchronize with an EVA unit weapon, tells Shinji, Rei and Asuka of the secret decision that has been made. \"Eva-Impact\" is an humanoid thoroughbred developed by JRA and Nerv as the \"Final Battle Weapon Type Horse.\" Eva-Impact was born from the combination of Nerv technology and DNA extracted from legendary horses with a 150-year lineage. The fall of the Spear of Longinus triggered the development of this weapon.\n\n(Source: ANN)",
   "mean": 4.7,
-  "popularity": 9951,
-  "num_list_users": 3910,
-  "num_scoring_users": 1409,
+  "popularity": 9957,
+  "num_list_users": 3908,
+  "num_scoring_users": 1411,
   "nsfw": "white",
   "created_at": "2016-02-18T04:37:53+00:00",
-  "updated_at": "2023-12-26T21:58:49+00:00",
+  "updated_at": "2025-07-25T06:43:35+00:00",
   "media_type": "cm",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 1,
-      "name": "Action"
-    },
-    {
       "id": 18,
       "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
     }
   ],
   "num_episodes": 3,

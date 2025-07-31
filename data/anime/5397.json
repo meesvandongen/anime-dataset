@@ -17,18 +17,26 @@
   "synopsis": "The adventures of Putin and Kirenenko continue after they escaped from jail.",
   "mean": 7.05,
   "rank": 4243,
-  "popularity": 9274,
-  "num_list_users": 4802,
+  "popularity": 9278,
+  "num_list_users": 4804,
   "num_scoring_users": 2895,
   "nsfw": "white",
   "created_at": "2008-10-16T20:36:38+00:00",
-  "updated_at": "2022-02-20T13:16:55+00:00",
+  "updated_at": "2025-07-25T06:39:58+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
     }
   ],
   "num_episodes": 13,
