@@ -1,0 +1,43 @@
+{
+  "id": 62123,
+  "title": "Aizome Summer Time!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1763/151173.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1763/151173l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Aizome Summer Time!!",
+    "ja": "藍染サマータイム!!"
+  },
+  "start_date": "2025-07-26",
+  "end_date": "2025-07-26",
+  "synopsis": "Music video for the holonatsu Paradise theme song Aizome Summer Time!! performed by Usada Pekora, Tsunomaki Watame, Momosuzu Nene, Ayunda Risu, Kobo Kanaeru, Fuwawa Abyssgard and Mococo Abyssgard.",
+  "popularity": 28297,
+  "num_list_users": 70,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2025-07-26T14:11:18+00:00",
+  "updated_at": "2025-07-27T08:09:50+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 172,
+  "rating": "pg_13",
+  "studios": []
+}

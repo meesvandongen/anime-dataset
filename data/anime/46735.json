@@ -16,16 +16,20 @@
   "end_date": "2021-02-15",
   "synopsis": "Original specials aired exclusively on pay-per-view dTV channel.",
   "mean": 5.97,
-  "rank": 10302,
-  "popularity": 12686,
-  "num_list_users": 1708,
+  "rank": 10309,
+  "popularity": 12689,
+  "num_list_users": 1711,
   "num_scoring_users": 354,
   "nsfw": "white",
   "created_at": "2021-01-25T09:05:08+00:00",
-  "updated_at": "2022-02-10T04:30:44+00:00",
+  "updated_at": "2025-07-26T23:59:43+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
     {
       "id": 4,
       "name": "Comedy"

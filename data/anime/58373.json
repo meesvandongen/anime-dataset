@@ -1,0 +1,50 @@
+{
+  "id": 58373,
+  "title": "Battle Spirits: 15-shuunen Kinen Short Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1159/141907.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1159/141907l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Batosupi 15-shuunen Kinen Short Anime"
+    ],
+    "en": "Battle Spirits: 15th Anniversary Short Anime",
+    "ja": "バトスピ15周年記念ショートアニメ"
+  },
+  "start_date": "2023-09-15",
+  "end_date": "2023-09-15",
+  "synopsis": "Bashin and Aibou from \"Shounen Toppa Bashin\" (1st series) meet Rei and Mugen from \"Saikyou Ginga Ultimate Zero\" (6th series). They challenge each other to a card battle, using the new keiyaku (contract) cards.",
+  "rank": 17354,
+  "popularity": 28504,
+  "num_list_users": 59,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2024-03-10T11:09:41+00:00",
+  "updated_at": "2025-07-30T05:54:51+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "card_game",
+  "average_episode_duration": 300,
+  "rating": "pg",
+  "studios": []
+}

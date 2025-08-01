@@ -1,0 +1,43 @@
+{
+  "id": 62111,
+  "title": "Oogiri New Saga",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1372/151149.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1372/151149l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "大喜利ニューサーガ"
+  },
+  "start_date": "2025-07-02",
+  "synopsis": "",
+  "rank": 21304,
+  "popularity": 28642,
+  "num_list_users": 41,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2025-07-24T09:37:19+00:00",
+  "updated_at": "2025-07-30T06:05:42+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 113,
+  "rating": "pg_13",
+  "studios": []
+}

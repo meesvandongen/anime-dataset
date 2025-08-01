@@ -12,24 +12,20 @@
   },
   "start_date": "2022-04-04",
   "synopsis": "What's a Chiikawa? No one really knows, but everyone can see they're small, they're cute, and they're always having a fun time! Join them as they explore their surreal world with the sharp humor and clever antics that make the Chiikawa irresistible.\n\n(Source: HIDIVE, edited)",
-  "mean": 8.28,
-  "rank": 318,
-  "popularity": 6740,
-  "num_list_users": 10683,
-  "num_scoring_users": 2936,
+  "mean": 8.3,
+  "rank": 290,
+  "popularity": 6697,
+  "num_list_users": 10837,
+  "num_scoring_users": 2993,
   "nsfw": "gray",
   "created_at": "2021-10-28T11:37:30+00:00",
-  "updated_at": "2023-02-13T18:20:42+00:00",
+  "updated_at": "2025-07-31T02:17:21+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {
-      "id": 4,
-      "name": "Comedy"
-    },
-    {
-      "id": 42,
-      "name": "Seinen"
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 0,

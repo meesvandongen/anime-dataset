@@ -1,0 +1,51 @@
+{
+  "id": 62121,
+  "title": "Yoshida Katsuko no Saritote Kurashi SDGs",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1410/151170.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1410/151170l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "吉田勝子のさりとて暮らしのSDGs"
+  },
+  "start_date": "2022-09-12",
+  "end_date": "2022-09-22",
+  "synopsis": "Follows Katsuko Yoshida, a woman rumored to be the cousin of Yoshida-kun, the combat chief of the Secret Society Eagle Talon. The story focuses on gender issues in the home and climate change.\n\n(Source: TV Asahi, translated)",
+  "rank": 16572,
+  "popularity": 28397,
+  "num_list_users": 65,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2025-07-26T05:46:42+00:00",
+  "updated_at": "2025-07-27T08:05:41+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "other"
+  },
+  "source": "original",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": []
+}
