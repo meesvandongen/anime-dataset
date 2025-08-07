@@ -14,8 +14,8 @@
   "end_date": "2017-12-30",
   "synopsis": "The second season of Chuldong! Super Wings. One major change in the story is that uncle Jimbo has retired to travel the world and his niece, Sky, takes over being the main traffic controller for the airport.",
   "mean": 5.78,
-  "rank": 11283,
-  "popularity": 18650,
+  "rank": 11290,
+  "popularity": 18657,
   "num_list_users": 417,
   "num_scoring_users": 148,
   "nsfw": "white",
@@ -45,5 +45,10 @@
   "source": "original",
   "average_episode_duration": 721,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 3167,
+      "name": "Funny Flux"
+    }
+  ]
 }

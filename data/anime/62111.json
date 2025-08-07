@@ -11,16 +11,17 @@
     "ja": "大喜利ニューサーガ"
   },
   "start_date": "2025-07-02",
+  "end_date": "2025-07-31",
   "synopsis": "",
-  "rank": 21304,
-  "popularity": 28642,
-  "num_list_users": 41,
-  "num_scoring_users": 6,
+  "rank": 21317,
+  "popularity": 26945,
+  "num_list_users": 85,
+  "num_scoring_users": 13,
   "nsfw": "white",
   "created_at": "2025-07-24T09:37:19+00:00",
-  "updated_at": "2025-07-30T06:05:42+00:00",
+  "updated_at": "2025-08-03T10:43:01+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -31,7 +32,7 @@
       "name": "Fantasy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 5,
   "start_season": {
     "year": 2025,
     "season": "summer"

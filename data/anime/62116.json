@@ -14,13 +14,13 @@
   },
   "start_date": "2025-07-25",
   "end_date": "2025-07-25",
-  "synopsis": "Special episode for Google Play de Chou Musou!? Tensei shitara Android User Datta.\nContains additional scenes and longer version of the song Insomnia by Eve.",
-  "popularity": 28622,
-  "num_list_users": 45,
-  "num_scoring_users": 22,
+  "synopsis": "Special episode for Google Play de Chou Musou!? Tensei shitara Android User Datta. Contains additional scenes and longer version of the song Insomnia by Eve.",
+  "popularity": 28265,
+  "num_list_users": 72,
+  "num_scoring_users": 33,
   "nsfw": "white",
   "created_at": "2025-07-25T09:46:53+00:00",
-  "updated_at": "2025-07-28T06:36:52+00:00",
+  "updated_at": "2025-08-05T06:29:09+00:00",
   "media_type": "cm",
   "status": "finished_airing",
   "genres": [
@@ -42,7 +42,13 @@
     "year": 2025,
     "season": "summer"
   },
+  "source": "original",
   "average_episode_duration": 105,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
 }

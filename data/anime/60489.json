@@ -13,16 +13,16 @@
   "start_date": "2025-06-28",
   "end_date": "2025-08-02",
   "synopsis": "A squid-like creature, known as a Happian, leaves his home planet with the desire to spread happiness across the universe. He lands on Earth, but quickly finds himself in danger of captivity by its inhabitants. Fortunately, he is found by an unsmiling little girl named Shizuka Kuze, who feeds him and names him Takopii. Feeling indebted, Takopii decides to do everything in his power to bring a smile to her face.\n\nThe task is easier said than done, however. Shizuka is bullied by her classmates, she does not have a father, and her mother is never home—though the gravity of these issues flies over the naive Takopii's head. Even so, Shizuka does have one source of happiness: her dog Chappy. The connection Shizuka and Chappy share only increases Takopii's desire to make the girl smile.\n\nWhile Takopii's attempts to lift Shizuka's spirits lead to unintended consequences, he is determined to take things into his own tentacles, test his understanding of human beings, and achieve his goal of spreading happiness.\n\n[Written by MAL Rewrite]",
-  "mean": 8.98,
-  "rank": 14,
-  "popularity": 1905,
-  "num_list_users": 129254,
-  "num_scoring_users": 27086,
+  "mean": 8.94,
+  "rank": 16,
+  "popularity": 1619,
+  "num_list_users": 159052,
+  "num_scoring_users": 67553,
   "nsfw": "white",
   "created_at": "2024-12-09T15:15:32+00:00",
-  "updated_at": "2025-07-18T19:54:12+00:00",
+  "updated_at": "2025-08-01T16:34:39+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 8,
@@ -39,6 +39,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
     }
   ],
   "num_episodes": 6,

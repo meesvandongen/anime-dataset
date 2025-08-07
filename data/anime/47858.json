@@ -1,0 +1,40 @@
+{
+  "id": 47858,
+  "title": "Long Tu Zhandui",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1391/130394.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1391/130394l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "龙图战队"
+  },
+  "start_date": "2019-06-21",
+  "end_date": "2019",
+  "synopsis": "",
+  "rank": 20329,
+  "popularity": 27908,
+  "num_list_users": 76,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2021-02-17T14:00:24+00:00",
+  "updated_at": "2022-11-02T20:22:48+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2019,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 920,
+  "rating": "pg",
+  "studios": []
+}

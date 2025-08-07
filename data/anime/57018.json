@@ -13,8 +13,8 @@
   "start_date": "2022-09-08",
   "end_date": "2022-09-08",
   "synopsis": "",
-  "rank": 18359,
-  "popularity": 26005,
+  "rank": 18373,
+  "popularity": 26039,
   "num_list_users": 97,
   "num_scoring_users": 10,
   "nsfw": "white",
@@ -48,5 +48,10 @@
   "source": "book",
   "average_episode_duration": 4560,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 3167,
+      "name": "Funny Flux"
+    }
+  ]
 }
