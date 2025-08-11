@@ -13,11 +13,11 @@
   "start_date": "1987-03-28",
   "end_date": "1987-03-28",
   "synopsis": "An OVA supercut of Eien no Once More, Long Goodbye, and Curtain Call. One new animated feature is a fake Creamy Mami commercial for Creamy Soap. The feature then goes on to promote the Majokko Club Yoningumi: A Kuukan kara no Alien X release for later that year. This entry will only reflect the new footage.",
-  "mean": 5.6,
-  "rank": 12109,
-  "popularity": 15055,
-  "num_list_users": 893,
-  "num_scoring_users": 242,
+  "mean": 5.63,
+  "rank": 12003,
+  "popularity": 15065,
+  "num_list_users": 894,
+  "num_scoring_users": 243,
   "nsfw": "white",
   "created_at": "2015-12-08T06:57:51+00:00",
   "updated_at": "2023-09-18T04:04:34+00:00",
@@ -44,7 +44,7 @@
   "studios": [
     {
       "id": 1,
-      "name": "Pierrot"
+      "name": "Studio Pierrot"
     }
   ]
 }

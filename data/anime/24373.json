@@ -2,8 +2,8 @@
   "id": 24373,
   "title": "Bakabon Osomatsu no Karee wo Tazunete Sansenri",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/62947.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/62947l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/62947.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/62947l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,8 +14,8 @@
   "end_date": "1991-10-19",
   "synopsis": "",
   "mean": 5.93,
-  "rank": 10487,
-  "popularity": 15511,
+  "rank": 10494,
+  "popularity": 15519,
   "num_list_users": 787,
   "num_scoring_users": 179,
   "nsfw": "white",
@@ -40,7 +40,7 @@
   "studios": [
     {
       "id": 1,
-      "name": "Pierrot"
+      "name": "Studio Pierrot"
     }
   ]
 }

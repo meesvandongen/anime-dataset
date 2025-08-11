@@ -2,8 +2,8 @@
   "id": 12769,
   "title": "Yumemakura Baku Twilight Gekijou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/35855.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/35855l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/35855.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/35855l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,9 +17,9 @@
   "end_date": "1991-11-21",
   "synopsis": "Originally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (アニメ・V・コミック レンタマン) along with Abashiri Ikka, Eguchi Hisashi no Kotobuki Gorou Show and Akai Hayate. \n\n(Source: AniDB) ",
   "mean": 5.71,
-  "rank": 11636,
-  "popularity": 11891,
-  "num_list_users": 2201,
+  "rank": 11642,
+  "popularity": 11896,
+  "num_list_users": 2204,
   "num_scoring_users": 678,
   "nsfw": "white",
   "created_at": "2012-01-22T01:36:51+00:00",
@@ -47,7 +47,7 @@
   "studios": [
     {
       "id": 1,
-      "name": "Pierrot"
+      "name": "Studio Pierrot"
     },
     {
       "id": 567,

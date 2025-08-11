@@ -2,8 +2,8 @@
   "id": 16586,
   "title": "Michitekuru Toki no Mukou ni",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/44688.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/44688l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/44688.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/44688l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,8 +18,8 @@
   "synopsis": "Based on Suzuki Kouji's novel Paradise, which won the Japan Fantasy Novel Award in 1991.\n\n(Source: AniDB)",
   "mean": 5.98,
   "rank": 10230,
-  "popularity": 15133,
-  "num_list_users": 874,
+  "popularity": 15129,
+  "num_list_users": 877,
   "num_scoring_users": 173,
   "nsfw": "white",
   "created_at": "2012-12-09T18:46:45+00:00",
@@ -51,7 +51,7 @@
   "studios": [
     {
       "id": 1,
-      "name": "Pierrot"
+      "name": "Studio Pierrot"
     }
   ]
 }
