@@ -15,11 +15,11 @@
   "start_date": "2025-07-05",
   "end_date": "2025-07-05",
   "synopsis": "A 20th anniversary commemorative short for Sugar Sugar Rune.",
-  "mean": 6.79,
-  "rank": 5542,
-  "popularity": 14136,
-  "num_list_users": 1140,
-  "num_scoring_users": 297,
+  "mean": 6.77,
+  "rank": 5625,
+  "popularity": 14006,
+  "num_list_users": 1181,
+  "num_scoring_users": 310,
   "nsfw": "white",
   "created_at": "2025-07-05T11:52:54+00:00",
   "updated_at": "2025-07-11T05:59:18+00:00",
@@ -43,5 +43,10 @@
   "source": "manga",
   "average_episode_duration": 394,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 47,
+      "name": "Khara"
+    }
+  ]
 }

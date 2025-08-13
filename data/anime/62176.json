@@ -13,13 +13,13 @@
   "start_date": "2021-11-29",
   "end_date": "2022-02-22",
   "synopsis": "Fourth season of Eomma Katuri (TV).",
-  "rank": 18371,
-  "popularity": 28693,
-  "num_list_users": 1,
-  "num_scoring_users": 0,
+  "rank": 18399,
+  "popularity": 28713,
+  "num_list_users": 29,
+  "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": "2025-08-06T05:45:12+00:00",
-  "updated_at": "2025-08-06T17:35:55+00:00",
+  "updated_at": "2025-08-08T16:07:28+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,11 @@
   },
   "source": "original",
   "average_episode_duration": 420,
-  "rating": "g",
-  "studios": []
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 3167,
+      "name": "Funny Flux"
+    }
+  ]
 }

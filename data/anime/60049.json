@@ -1,0 +1,50 @@
+{
+  "id": 60049,
+  "title": "Reaper",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1140/145932.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1140/145932l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Reaper × Bleach: Sennen Kessen-hen ANIMATION MV"
+    ],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2024-03-23",
+  "end_date": "2024-03-23",
+  "synopsis": "Music video featuring \"Reaper\" by SennaRin.",
+  "popularity": 28729,
+  "num_list_users": 0,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-10-05T15:42:28+00:00",
+  "updated_at": "2025-08-12T20:14:29+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 214,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2951,
+      "name": "Pierrot Films"
+    }
+  ]
+}

@@ -13,10 +13,10 @@
   "start_date": "2025-07-02",
   "end_date": "2025-07-31",
   "synopsis": "",
-  "rank": 21317,
-  "popularity": 26945,
-  "num_list_users": 85,
-  "num_scoring_users": 13,
+  "rank": 21341,
+  "popularity": 25198,
+  "num_list_users": 111,
+  "num_scoring_users": 21,
   "nsfw": "white",
   "created_at": "2025-07-24T09:37:19+00:00",
   "updated_at": "2025-08-03T10:43:01+00:00",
@@ -38,7 +38,12 @@
     "season": "summer"
   },
   "source": "light_novel",
-  "average_episode_duration": 113,
+  "average_episode_duration": 130,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    }
+  ]
 }

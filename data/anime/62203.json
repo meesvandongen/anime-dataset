@@ -1,0 +1,41 @@
+{
+  "id": 62203,
+  "title": "Chewy Chewy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1020/151369.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1020/151369l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ChewyChewy"
+    ],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2025-08-08",
+  "end_date": "2025-08-08",
+  "synopsis": "Music video for the song Chewy Chewy by Tokoyami Towa.",
+  "popularity": 28290,
+  "num_list_users": 72,
+  "num_scoring_users": 35,
+  "nsfw": "white",
+  "created_at": "2025-08-08T12:18:06+00:00",
+  "updated_at": "2025-08-08T16:17:57+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 201,
+  "rating": "pg_13",
+  "studios": []
+}

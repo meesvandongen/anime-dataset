@@ -13,8 +13,8 @@
   "start_date": "2020-12-14",
   "end_date": "2020-12-14",
   "synopsis": "Music video for the character song of Robomi from Granblue Fantasy.",
-  "mean": 5.91,
-  "popularity": 17431,
+  "mean": 5.9,
+  "popularity": 17456,
   "num_list_users": 516,
   "num_scoring_users": 185,
   "nsfw": "white",
@@ -48,5 +48,10 @@
   "source": "game",
   "average_episode_duration": 134,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1893,
+      "name": "CygamesPictures"
+    }
+  ]
 }

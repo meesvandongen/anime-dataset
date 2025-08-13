@@ -15,8 +15,8 @@
   "start_date": "2022-04-08",
   "end_date": "2022-06-24",
   "synopsis": "The story of the heroes' strange and interesting happenings on the continent of Isomia. The heroes here are wacky and out of place! The adventures here are quirky and new, not marginal, and life here is not boring! Follow the brave and courageous heroes as they embark on a journey through the land of Isomia.",
-  "rank": 19426,
-  "popularity": 19078,
+  "rank": 19453,
+  "popularity": 19095,
   "num_list_users": 384,
   "num_scoring_users": 62,
   "nsfw": "white",
@@ -46,5 +46,10 @@
   "source": "game",
   "average_episode_duration": 420,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2509,
+      "name": "Colored Pencil Animation"
+    }
+  ]
 }

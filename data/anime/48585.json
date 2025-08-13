@@ -18,8 +18,8 @@
   "mean": 7.99,
   "rank": 701,
   "popularity": 1054,
-  "num_list_users": 252939,
-  "num_scoring_users": 111686,
+  "num_list_users": 253294,
+  "num_scoring_users": 111913,
   "nsfw": "white",
   "created_at": "2021-03-28T17:43:00+00:00",
   "updated_at": "2023-09-19T14:47:21+00:00",
@@ -54,7 +54,7 @@
   "studios": [
     {
       "id": 1,
-      "name": "Pierrot"
+      "name": "Studio Pierrot"
     }
   ]
 }

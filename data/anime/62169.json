@@ -13,9 +13,9 @@
   "start_date": "2025-07-28",
   "end_date": "2025-07-28",
   "synopsis": "",
-  "popularity": 28208,
-  "num_list_users": 72,
-  "num_scoring_users": 28,
+  "popularity": 24101,
+  "num_list_users": 133,
+  "num_scoring_users": 59,
   "nsfw": "white",
   "created_at": "2025-08-04T13:42:40+00:00",
   "updated_at": "2025-08-04T15:21:33+00:00",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 259,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1882,
+      "name": "UWAN Pictures"
+    }
+  ]
 }

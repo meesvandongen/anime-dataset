@@ -15,9 +15,9 @@
   "start_date": "2023-10-30",
   "end_date": "2023-10-30",
   "synopsis": "",
-  "popularity": 28696,
-  "num_list_users": 0,
-  "num_scoring_users": 0,
+  "popularity": 28665,
+  "num_list_users": 46,
+  "num_scoring_users": 22,
   "nsfw": "white",
   "created_at": "2025-08-06T17:54:13+00:00",
   "updated_at": "2025-08-07T00:35:00+00:00",
@@ -37,5 +37,10 @@
   "source": "original",
   "average_episode_duration": 18,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1997,
+      "name": "Studio Kai"
+    }
+  ]
 }

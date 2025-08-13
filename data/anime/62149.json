@@ -14,13 +14,13 @@
   },
   "start_date": "2025-08-02",
   "synopsis": "Third season of Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai.",
-  "rank": 18405,
-  "popularity": 15791,
-  "num_list_users": 733,
-  "num_scoring_users": 30,
+  "rank": 18434,
+  "popularity": 15169,
+  "num_list_users": 868,
+  "num_scoring_users": 42,
   "nsfw": "white",
   "created_at": "2025-08-02T03:58:34+00:00",
-  "updated_at": "2025-08-02T15:45:10+00:00",
+  "updated_at": "2025-08-12T12:40:20+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -36,5 +36,11 @@
   },
   "source": "manga",
   "average_episode_duration": 120,
-  "studios": []
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
 }

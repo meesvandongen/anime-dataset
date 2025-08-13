@@ -13,9 +13,9 @@
   "start_date": "2025-01-10",
   "end_date": "2025-03-07",
   "synopsis": "Have you ever wondered where uneaten food goes? Wasted food actually goes to a world that belongs only to food, which is simply called the \"Food City.\" Food is cleaned, disinfected and repaired here, and then returns to the human world to \"go to work\" and reappear in human bowls! Red Bean is just a red bean that is not eaten day after day... But one day, an accident happened! While Red Bean was working diligently, a human diner suddenly got food poisoning, and Red Bean became the object of suspicion by the Food Inspection Bureau...\n\n(Source: Bilibili, translated)",
-  "rank": 21741,
-  "popularity": 21825,
-  "num_list_users": 220,
+  "rank": 21764,
+  "popularity": 21834,
+  "num_list_users": 221,
   "num_scoring_users": 19,
   "nsfw": "white",
   "created_at": "2024-12-21T19:07:41+00:00",
@@ -39,5 +39,10 @@
   },
   "source": "original",
   "average_episode_duration": 480,
-  "studios": []
+  "studios": [
+    {
+      "id": 2069,
+      "name": "Making Animation"
+    }
+  ]
 }

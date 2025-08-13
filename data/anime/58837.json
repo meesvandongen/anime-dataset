@@ -2,8 +2,8 @@
   "id": 58837,
   "title": "Odekake Kozame Movie: Tokai no Otomodachi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1258/148356.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1258/148356l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1592/151477.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1592/151477l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,12 +17,12 @@
   "start_date": "2025-08-22",
   "end_date": "2025-08-22",
   "synopsis": "Movie of Odekake Kozame.",
-  "popularity": 14934,
-  "num_list_users": 926,
+  "popularity": 14901,
+  "num_list_users": 936,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-05-10T15:38:46+00:00",
-  "updated_at": "2025-06-20T10:50:58+00:00",
+  "updated_at": "2025-08-13T00:05:28+00:00",
   "media_type": "movie",
   "status": "not_yet_aired",
   "genres": [
@@ -41,7 +41,7 @@
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 4440,
   "studios": [
     {
       "id": 1974,

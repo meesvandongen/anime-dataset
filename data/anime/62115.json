@@ -12,9 +12,9 @@
   },
   "start_date": "2024-03-29",
   "synopsis": "A collaboration between the Japanese Urban Renaissance Agency (UR) and Taeko no Nichijou to provide living tips to new renters.",
-  "popularity": 28684,
-  "num_list_users": 27,
-  "num_scoring_users": 5,
+  "popularity": 28706,
+  "num_list_users": 32,
+  "num_scoring_users": 7,
   "nsfw": "white",
   "created_at": "2025-07-25T05:48:34+00:00",
   "updated_at": "2025-07-25T05:48:34+00:00",
@@ -34,5 +34,10 @@
   "source": "other",
   "average_episode_duration": 90,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
 }

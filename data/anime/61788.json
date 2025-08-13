@@ -12,9 +12,9 @@
   },
   "start_date": "2025-09-12",
   "synopsis": "",
-  "popularity": 17930,
-  "num_list_users": 471,
-  "num_scoring_users": 0,
+  "popularity": 17628,
+  "num_list_users": 499,
+  "num_scoring_users": 1,
   "nsfw": "gray",
   "created_at": "2025-06-05T23:07:36+00:00",
   "updated_at": "2025-06-15T06:40:00+00:00",
@@ -34,5 +34,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 2530,
+      "name": "Blue bread"
+    }
+  ]
 }

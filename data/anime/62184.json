@@ -10,13 +10,13 @@
     "en": "",
     "ja": "劇場版 鬼滅の刃 無限城編 マナー映像"
   },
-  "start_date": "2025-07-19",
-  "end_date": "2025-07-19",
+  "start_date": "2025-07-18",
+  "end_date": "2025-07-18",
   "synopsis": "A short animation about manners screened before the movie, featuring Uzui Tengen and his wives Hinatsuru, Makio, and Suma.",
-  "rank": 19888,
-  "popularity": 28690,
-  "num_list_users": 21,
-  "num_scoring_users": 3,
+  "rank": 19916,
+  "popularity": 21484,
+  "num_list_users": 240,
+  "num_scoring_users": 34,
   "nsfw": "white",
   "created_at": "2025-08-06T18:51:00+00:00",
   "updated_at": "2025-08-07T00:33:42+00:00",
@@ -40,5 +40,10 @@
   "source": "manga",
   "average_episode_duration": 30,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
 }
