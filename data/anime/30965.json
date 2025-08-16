@@ -2,8 +2,8 @@
   "id": 30965,
   "title": "Ninpuu Kamui Gaiden: Tsukihigai no Maki",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1407/141808.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1407/141808l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1407/141808.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1407/141808l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,9 +16,9 @@
   "end_date": "1971-03-20",
   "synopsis": "A theatrical edited release of episode 21-26.",
   "mean": 6.28,
-  "rank": 8578,
-  "popularity": 16357,
-  "num_list_users": 646,
+  "rank": 8585,
+  "popularity": 16346,
+  "num_list_users": 649,
   "num_scoring_users": 113,
   "nsfw": "white",
   "created_at": "2015-06-13T04:13:33+00:00",
@@ -56,8 +56,8 @@
   "rating": "r",
   "studios": [
     {
-      "id": 191,
-      "name": "Eiken"
+      "id": 489,
+      "name": "TCJ"
     }
   ]
 }
