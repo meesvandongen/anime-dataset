@@ -13,13 +13,13 @@
   "start_date": "1998-05-16",
   "end_date": "1998-09-04",
   "synopsis": "The sequel to the trilogy Otokogi which follows the steps of Kyosuke Murata's only son, and the gang that he have made which gets into conflict with the local Yakuza which Kyosuke is at the head of. Eventually his son lands in prison, and things take a different turn. \n\n(Source: marowak51)",
-  "rank": 14746,
-  "popularity": 18643,
-  "num_list_users": 420,
+  "rank": 14766,
+  "popularity": 18634,
+  "num_list_users": 422,
   "num_scoring_users": 90,
   "nsfw": "white",
   "created_at": "2010-10-28T21:35:46+00:00",
-  "updated_at": "2022-01-11T19:47:22+00:00",
+  "updated_at": "2025-08-12T12:38:27+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -38,7 +38,12 @@
     "season": "spring"
   },
   "source": "manga",
-  "average_episode_duration": 2400,
+  "average_episode_duration": 2497,
   "rating": "r+",
-  "studios": []
+  "studios": [
+    {
+      "id": 1,
+      "name": "Studio Pierrot"
+    }
+  ]
 }

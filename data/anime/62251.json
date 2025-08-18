@@ -1,0 +1,51 @@
+{
+  "id": 62251,
+  "title": "Sky Kids BooBy",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1535/151462.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1535/151462l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ブービィ"
+    ],
+    "en": "",
+    "ja": "Sky Kids BooBy"
+  },
+  "start_date": "2004-11",
+  "end_date": "2009-03",
+  "synopsis": "A heartwarming story of an acrobatic jet plane named BooBy and his friends as they climb up the heights of stardom.\n\n(Source: Tatsunoko Production, translated)",
+  "rank": 14954,
+  "popularity": 28745,
+  "num_list_users": 19,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-08-12T05:10:29+00:00",
+  "updated_at": "2025-08-12T05:10:29+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 1200,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

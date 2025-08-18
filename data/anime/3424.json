@@ -18,9 +18,9 @@
   "end_date": "2008-12-28",
   "synopsis": "Porfy, his younger sister Mina, and their parents live a humble but happy life in the Grecian countryside. They've just started running a gas station, much to Porphy's joy, and it seems like only good things are in store for their future. However, a huge earthquake changes all that, leaving Porfy without a home or a family -- sans Mina, who seems to have disappeared in the commotion. Now, Porfy is determined to find his sister and be able to live together happily again.",
   "mean": 6.9,
-  "rank": 4952,
-  "popularity": 10138,
-  "num_list_users": 3678,
+  "rank": 4955,
+  "popularity": 10144,
+  "num_list_users": 3679,
   "num_scoring_users": 646,
   "nsfw": "white",
   "created_at": "2007-11-16T16:50:47+00:00",
@@ -41,6 +41,10 @@
   "start_season": {
     "year": 2008,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "19:30"
   },
   "source": "novel",
   "average_episode_duration": 1470,
