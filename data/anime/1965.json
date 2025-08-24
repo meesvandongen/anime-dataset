@@ -16,13 +16,13 @@
   "end_date": "2007-06-30",
   "synopsis": "Yorito Morimiya is obsessed with the sky. He especially loves taking pictures of its array of different faces—sunrises, sunsets, clouds. On one of his early-morning excursions to photograph the sunrise, Yorito meets a strange girl engaged in an argument with a vending machine. By the time that Yorito forces the girl's tomato juice out of the machine, she's vanished without a trace.\n\nSola follows the story of Yorito, his sister Aono, and their childhood friends Mana and Koyori Ishizuki, as well as that of a mysterious girl who appears and disappears, and who seems to harbor a dark secret. In a world where magic and the supernatural are never far below the surface and no one is who they seem to be, love and loneliness vie for supremacy beneath Yorito's sky. \n",
   "mean": 7.16,
-  "rank": 3679,
-  "popularity": 2247,
-  "num_list_users": 103601,
-  "num_scoring_users": 46646,
+  "rank": 3657,
+  "popularity": 2248,
+  "num_list_users": 103628,
+  "num_scoring_users": 46653,
   "nsfw": "white",
   "created_at": "2007-02-19T21:29:23+00:00",
-  "updated_at": "2022-12-20T07:41:45+00:00",
+  "updated_at": "2025-08-21T21:58:13+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
   "start_season": {
     "year": 2007,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:28"
   },
   "source": "manga",
   "average_episode_duration": 1426,

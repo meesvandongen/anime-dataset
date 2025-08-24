@@ -16,13 +16,13 @@
   "end_date": "2014-03-28",
   "synopsis": "Kou comes to a slum neighborhood in search of his elder brother Takumi and finds him to have become the head of a private detective firm. Kou is drafted by Takumi to do errands and chores in the detective firm, and they come to meet various interesting people...\n\n(Source: MAL News)",
   "mean": 5.95,
-  "rank": 10446,
-  "popularity": 4235,
-  "num_list_users": 33618,
-  "num_scoring_users": 13677,
+  "rank": 10420,
+  "popularity": 4238,
+  "num_list_users": 33628,
+  "num_scoring_users": 13682,
   "nsfw": "white",
   "created_at": "2013-10-29T21:04:51+00:00",
-  "updated_at": "2023-09-19T08:05:14+00:00",
+  "updated_at": "2025-08-23T00:34:24+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -39,10 +39,6 @@
       "name": "Crossdressing"
     },
     {
-      "id": 39,
-      "name": "Detective"
-    },
-    {
       "id": 43,
       "name": "Josei"
     },
@@ -55,6 +51,10 @@
   "start_season": {
     "year": 2014,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:00"
   },
   "source": "manga",
   "average_episode_duration": 210,

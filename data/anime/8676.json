@@ -14,13 +14,13 @@
   "end_date": "2010-12-24",
   "synopsis": "Two years ago, Junichi Tachibana had a date on Christmas Eve but was stood up instead. Since then, he has had a hard time showing others his true feelings in fear of being rejected again. However, as luck would have it, Junichi may have a second chance at love when he meets several girls whom he becomes romantically interested in: Haruka Morishima, the energetic and popular upperclassman with a love for cute things; Kaoru Tanamachi, his childhood friend who harbors secret feelings for him; Sae Nakata, the timid transfer student who is shy around men; Ai Nanasaki, a girl on the swim team who has a bad first impression of Junichi; Rihoko Sakurai, a childhood friend with a love for sweets; and Tsukasa Ayatsuji, a seemingly perfect class representative who has a hidden dark side. As Christmas Eve approaches, Junichi can only hope that this will be the year he will finally spend the holidays with the one he truly loves.\n \n[Written by MAL Rewrite]",
   "mean": 7.27,
-  "rank": 3053,
+  "rank": 3068,
   "popularity": 647,
-  "num_list_users": 400563,
-  "num_scoring_users": 165427,
+  "num_list_users": 400735,
+  "num_scoring_users": 165485,
   "nsfw": "white",
   "created_at": "2010-04-24T09:07:19+00:00",
-  "updated_at": "2025-05-13T16:02:17+00:00",
+  "updated_at": "2025-08-21T20:32:51+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
   "start_season": {
     "year": 2010,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:25"
   },
   "source": "visual_novel",
   "average_episode_duration": 1469,

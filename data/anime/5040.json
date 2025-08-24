@@ -2,8 +2,8 @@
   "id": 5040,
   "title": "One Outs",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/21065.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/7/21065l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/21065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/21065l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,8 +18,8 @@
   "mean": 8.32,
   "rank": 273,
   "popularity": 1063,
-  "num_list_users": 251267,
-  "num_scoring_users": 120814,
+  "num_list_users": 251380,
+  "num_scoring_users": 120861,
   "nsfw": "white",
   "created_at": "2008-08-07T21:53:26+00:00",
   "updated_at": "2024-03-06T12:20:12+00:00",
@@ -55,6 +55,10 @@
   "start_season": {
     "year": 2008,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:59"
   },
   "source": "manga",
   "average_episode_duration": 1380,

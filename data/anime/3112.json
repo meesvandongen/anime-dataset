@@ -2,8 +2,8 @@
   "id": 3112,
   "title": "Papillon Rose",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/21126.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/7/21126l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/21126.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/21126l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,17 +12,17 @@
     "en": "Papillon Rose",
     "ja": "パピヨンローゼ"
   },
-  "start_date": "2006-02-09",
+  "start_date": "2006-02-10",
   "end_date": "2006-03-17",
   "synopsis": "The story takes place one year after the OVA.\n\nBecause of the previous war, Kabucki-cho was devastated, and the owner abandoned his lingerie pub, \"Pallion,\" and opened \"New Papillion\" in Akihabara. During the war, Tsubomi, and her colleagues Anne and Shizuku lost their memories, and they began new lives in Akihabara.\n\nOn the other hand, the Susano, aliens who were invading the Earth, appeared. They turned a UMA (Unidentified Mysterious Animal) into a monster and make it raid on Akihabara. Rama the cat made Tsubomi and her buddies retrieve their memories, and let them fight against the monster as Lingerie Soldiers.\n\n(Source: AnimeNfo)",
   "mean": 4.5,
-  "rank": 14039,
-  "popularity": 8859,
-  "num_list_users": 5517,
+  "rank": 14046,
+  "popularity": 8857,
+  "num_list_users": 5529,
   "num_scoring_users": 1694,
   "nsfw": "gray",
   "created_at": "2007-09-13T21:33:02+00:00",
-  "updated_at": "2020-08-26T16:09:56+00:00",
+  "updated_at": "2025-08-23T00:46:33+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -47,6 +47,10 @@
   "start_season": {
     "year": 2006,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "03:23"
   },
   "source": "other",
   "average_episode_duration": 1477,
