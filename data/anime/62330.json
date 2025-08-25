@@ -1,0 +1,48 @@
+{
+  "id": 62330,
+  "title": "Yankee Hamster Dokkaan!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1761/151651.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1761/151651l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ヤンキーハムスター どっかーん！"
+  },
+  "start_date": "2019-02-22",
+  "end_date": "2019-03-22",
+  "synopsis": "Special episodes of Yankee Hamster to commemorate the release of Season 2.",
+  "rank": 16520,
+  "popularity": 28769,
+  "num_list_users": 19,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2025-08-22T05:46:44+00:00",
+  "updated_at": "2025-08-23T15:22:02+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 55,
+      "name": "Delinquents"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 132,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -12,14 +12,14 @@
     "en": "Yano-kun's Ordinary Days",
     "ja": "矢野くんの普通の日々"
   },
-  "start_date": "2025-10",
+  "start_date": "2025-10-01",
   "synopsis": "Always reliable and kind-hearted, Kiyoko Yoshida is named the president of Class 2-1. On the first day of school, a boy named Yano Tsuyoshi arrives late, covered in injuries. Due to her caring nature, in addition to Yano being seated right next to her, Kiyoko cannot help but worry about him and how he got those injuries to begin with. After cautiously following him home one day, she learns the truth—he is just extremely clumsy.\n\nKiyoko soon finds herself constantly worrying about Yano, both at school and at home, not realizing that she is falling in love with him. Armed with a first aid kit, Kiyoko makes it her mission to care for Yano's mishap-related injuries as a romance between the two begins to blossom.\n\n[Written by MAL Rewrite]",
-  "popularity": 7660,
-  "num_list_users": 7825,
+  "popularity": 7517,
+  "num_list_users": 8270,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-11-06T09:11:15+00:00",
-  "updated_at": "2025-07-29T11:52:29+00:00",
+  "updated_at": "2025-08-20T11:06:41+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2025,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:29"
   },
   "source": "web_manga",
   "average_episode_duration": 0,

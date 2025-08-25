@@ -1,0 +1,49 @@
+{
+  "id": 62323,
+  "title": "Wakuwaku, Tanoshii Bouken!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1059/151629.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1059/151629l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Odekake Kozame x Pinkfong"
+    ],
+    "en": "New City, New Friends!",
+    "ja": "ワクワク、たのしい ぼうけん！"
+  },
+  "start_date": "2025-08-14",
+  "end_date": "2025-08-14",
+  "synopsis": "A collaboration between Odekake Kozame and Pinkfong to commemorate the release of Odekake Kozame Movie: Tokai no Otomodachi.",
+  "popularity": 28743,
+  "num_list_users": 39,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2025-08-21T05:34:51+00:00",
+  "updated_at": "2025-08-21T05:34:51+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 139,
+  "rating": "g",
+  "studios": []
+}

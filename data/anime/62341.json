@@ -1,0 +1,40 @@
+{
+  "id": 62341,
+  "title": "Super Ninja Neko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1320/151687.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1320/151687l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "SUPER NINJA NEKO"
+  },
+  "start_date": "2025-08-13",
+  "end_date": "2025-08-13",
+  "synopsis": "A claymation short film by Takena Nagao.",
+  "rank": 0,
+  "popularity": 0,
+  "num_list_users": 0,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-08-24T23:09:15+00:00",
+  "updated_at": "2025-08-24T23:09:15+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    }
+  ],
+  "num_episodes": 1,
+  "source": "original",
+  "average_episode_duration": 67,
+  "rating": "pg_13",
+  "studios": []
+}
