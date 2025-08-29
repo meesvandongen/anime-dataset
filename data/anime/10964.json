@@ -13,14 +13,14 @@
   "start_date": "1990-04-14",
   "end_date": "1990-04-14",
   "synopsis": "Gai, a karate expert in the New York slum, is trained to be a boxing champion by a cancer-strucken doctor and a transvestite suffering from AIDS. Based on the manga by Motoka Murakami.",
-  "mean": 5.7,
-  "rank": 11674,
-  "popularity": 13178,
-  "num_list_users": 1488,
-  "num_scoring_users": 484,
+  "mean": 5.69,
+  "rank": 11740,
+  "popularity": 13186,
+  "num_list_users": 1491,
+  "num_scoring_users": 486,
   "nsfw": "white",
   "created_at": "2011-07-15T22:16:18+00:00",
-  "updated_at": "2024-03-06T11:01:45+00:00",
+  "updated_at": "2025-08-26T19:23:56+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 8,
       "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     },
     {
       "id": 30,
