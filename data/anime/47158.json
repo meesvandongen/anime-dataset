@@ -2,8 +2,8 @@
   "id": 47158,
   "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1869/150605.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1869/150605l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1699/151694.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1699/151694l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,14 +14,14 @@
     "en": "",
     "ja": "友達の妹が俺にだけウザい"
   },
-  "start_date": "2025-10",
+  "start_date": "2025-10-05",
   "synopsis": "If a girl teases you, that means she likes you!\n\nUnfortunately, Akiteru knows from experience that isn't the case. Because every girl he interacts with shows him nothing but scorn, and he's not scored a single date from it! Luckily, he's more concerned with securing a spot for him and his game-development buddies at his uncle's business.\n\nBut when his uncle throws him a condition that involves playing the part of his daughter's boyfriend, Akiteru has no choice but to take it. What will his best friend's sister Iroha, who bullies him relentlessly, think of the news? \n\n(Source: J-Novel Club)",
-  "popularity": 3437,
-  "num_list_users": 50002,
+  "popularity": 3415,
+  "num_list_users": 50688,
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2021-01-31T10:05:52+00:00",
-  "updated_at": "2025-08-18T14:05:03+00:00",
+  "updated_at": "2025-08-25T10:35:11+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2025,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

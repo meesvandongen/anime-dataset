@@ -1,0 +1,51 @@
+{
+  "id": 62348,
+  "title": "Shinkalion: Change the World - L0 Tokubetsu PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1820/151712.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1820/151712l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シンカリオン チェンジ ザ ワールド Ｌ０ 特別PV"
+  },
+  "start_date": "2025-08-22",
+  "end_date": "2025-08-22",
+  "synopsis": "Special PV to promote the new Shinkalion L0.",
+  "popularity": 28772,
+  "num_list_users": 35,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2025-08-26T14:19:03+00:00",
+  "updated_at": "2025-08-27T05:53:48+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 220,
+  "rating": "g",
+  "studios": []
+}

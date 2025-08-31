@@ -1,0 +1,50 @@
+{
+  "id": 62378,
+  "title": "Ganglion",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1333/151768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1333/151768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ガングリオン"
+  },
+  "start_date": "2025-10-04",
+  "synopsis": "Early 2000s Tokyo. Isobe, a combatant for the evil corporation Ganglion, spends his days on the battlefield. Whether it's the \"Tokyo Cedar Pollen Operation\" or the \"Mount Fuji Demolition Plan,\" he faces off in nothing but a bodysuit, only to be crushed by the hero Hopeman time and again. As he struggles under unreasonable bosses during the dawn of compliance, his story unfolds—a workplace drama dedicated to all who work, following the bittersweet life of a salaryman soldier.\n\n(Source: MAL News)",
+  "popularity": 20047,
+  "num_list_users": 328,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-08-29T09:35:33+00:00",
+  "updated_at": "2025-08-30T02:36:48+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:53"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 3186,
+      "name": "studio maf"
+    }
+  ]
+}

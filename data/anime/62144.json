@@ -10,14 +10,14 @@
     "en": "",
     "ja": "ポーション、わが身を助ける"
   },
-  "start_date": "2025-10",
+  "start_date": "2025-10-03",
   "synopsis": "Kaede, an ordinary high school girl, suddenly wakes up in an unfamiliar alleyway—only to realize she's been transported to a mysterious world inhabited by beastmen, elves, and dragons. Among her belongings, she discovers a strange book that wasn't there before. To her surprise, it allows her to create potions simply by chanting the word \"create.\" Relying on these potions to survive, Kaede navigates the challenges of this fantastical world while clinging to the hope of one day returning to Japan. Her journey of struggle and discovery in this otherworldly realm is just beginning...\n\n(Source: Official site, translated)",
-  "popularity": 14208,
-  "num_list_users": 1132,
+  "popularity": 13460,
+  "num_list_users": 1383,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-07-31T04:21:42+00:00",
-  "updated_at": "2025-08-08T20:12:51+00:00",
+  "updated_at": "2025-08-29T10:02:49+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -34,6 +34,10 @@
   "start_season": {
     "year": 2025,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "01:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

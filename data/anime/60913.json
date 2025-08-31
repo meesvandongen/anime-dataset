@@ -11,16 +11,17 @@
     "ja": "최강공룡 미니특공대"
   },
   "start_date": "2025-02-25",
+  "end_date": "2025-08-19",
   "synopsis": "",
-  "rank": 20381,
-  "popularity": 22882,
-  "num_list_users": 174,
-  "num_scoring_users": 9,
+  "rank": 20395,
+  "popularity": 22830,
+  "num_list_users": 177,
+  "num_scoring_users": 10,
   "nsfw": "white",
   "created_at": "2025-02-03T19:52:25+00:00",
-  "updated_at": "2025-04-27T09:21:58+00:00",
+  "updated_at": "2025-08-25T08:52:09+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,

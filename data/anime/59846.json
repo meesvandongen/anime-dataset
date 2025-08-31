@@ -2,22 +2,22 @@
   "id": 59846,
   "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1725/148741.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1725/148741l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1190/151754.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1190/151754l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "May I Ask for One Final Thing?",
     "ja": "最後にひとつだけお願いしてもよろしいでしょうか"
   },
-  "start_date": "2025-10",
+  "start_date": "2025-10-04",
   "synopsis": "In the middle of a ball, Scarlet's fiancé, Kyle, suddenly calls off their engagement. She's falsely accused of being a bully and people unfairly call her a \"Villainess.\" The aristocrats and noble families all denounce her. For years, she had to put up with his abuse and idiocy, but she can't take anymore of it! At her wit's end, she asks for one last favor; to give him a good fist in the face. So begins Scarlet's story of revenge against Kyle and his cronies! A fantasy about an elegant yet rebellious fighter, who doesn't let anyone take advantage of her!!\n\n(Source: Alpha Manga)",
-  "popularity": 4460,
-  "num_list_users": 30029,
-  "num_scoring_users": 32,
+  "popularity": 4381,
+  "num_list_users": 31181,
+  "num_scoring_users": 39,
   "nsfw": "white",
   "created_at": "2024-09-16T06:47:07+00:00",
-  "updated_at": "2025-06-03T17:07:22+00:00",
+  "updated_at": "2025-08-28T13:11:38+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2025,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "00:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,
