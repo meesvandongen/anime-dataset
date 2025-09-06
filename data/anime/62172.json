@@ -1,0 +1,43 @@
+{
+  "id": 62172,
+  "title": "Kamitanomi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1400/151304.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1400/151304l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "神頼み"
+  },
+  "start_date": "2025-07-21",
+  "end_date": "2025-07-21",
+  "synopsis": "Music video for the song Kamitanomi by syudou. The song was used as the opening theme of the anime Dekin no Mogura.\n",
+  "popularity": 28825,
+  "num_list_users": 34,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2025-08-05T13:38:23+00:00",
+  "updated_at": "2025-09-01T23:11:46+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 232,
+  "rating": "pg_13",
+  "studios": []
+}

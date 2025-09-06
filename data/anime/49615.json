@@ -2,8 +2,8 @@
   "id": 49615,
   "title": "Kaijuu Step SDGs Daisakusen",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1561/117204.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1561/117204l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1561/117204.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1561/117204l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,16 +13,20 @@
   "start_date": "2021-04-22",
   "end_date": "2021-06-10",
   "synopsis": "A project to introduce the Sustainable Development Goals (SDGs) to preschoolers and elementary school children.\n\n(Source: AniDB)",
-  "rank": 17314,
-  "popularity": 22387,
-  "num_list_users": 195,
+  "rank": 17357,
+  "popularity": 22415,
+  "num_list_users": 196,
   "num_scoring_users": 42,
   "nsfw": "white",
   "created_at": "2021-08-15T23:16:54+00:00",
-  "updated_at": "2025-01-15T16:04:00+00:00",
+  "updated_at": "2025-08-31T06:31:05+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
     {
       "id": 15,
       "name": "Kids"

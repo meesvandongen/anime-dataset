@@ -1,0 +1,43 @@
+{
+  "id": 62389,
+  "title": "Pipopapo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1175/151797.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1175/151797l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ピポパポ"
+  },
+  "start_date": "2025-08-31",
+  "end_date": "2025-08-31",
+  "synopsis": "Music video for the song Pipopapo by FRUITS ZIPPER.",
+  "popularity": 28799,
+  "num_list_users": 41,
+  "num_scoring_users": 24,
+  "nsfw": "white",
+  "created_at": "2025-08-31T11:36:00+00:00",
+  "updated_at": "2025-09-01T09:00:56+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 251,
+  "rating": "pg_13",
+  "studios": []
+}

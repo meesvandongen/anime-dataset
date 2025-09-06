@@ -1,0 +1,66 @@
+{
+  "id": 62061,
+  "title": "Meitantei Conan: Senkou no Payload",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1164/151063.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1164/151063l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Detective Conan: The Shining Payload"
+    ],
+    "en": "",
+    "ja": "名探偵コナン 閃光の宇宙船"
+  },
+  "start_date": "2025-03-08",
+  "end_date": "2025-03-08",
+  "synopsis": "Senkou no Payload is a special movie of Detective Conan, which started screening at several planetariums in Japan starting on March 8, 2025.",
+  "rank": 18273,
+  "popularity": 28858,
+  "num_list_users": 25,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2025-07-16T08:59:58+00:00",
+  "updated_at": "2025-09-01T17:38:18+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1500,
+  "rating": "pg_13",
+  "studios": []
+}

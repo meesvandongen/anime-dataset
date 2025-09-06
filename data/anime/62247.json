@@ -1,0 +1,48 @@
+{
+  "id": 62247,
+  "title": "Eyelid",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1089/151454.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1089/151454l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アイリッド"
+  },
+  "start_date": "2025-08-09",
+  "end_date": "2025-08-09",
+  "synopsis": "Music video for the song Eyelid by Lanndo featuring flower.",
+  "popularity": 28830,
+  "num_list_users": 34,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2025-08-11T20:35:43+00:00",
+  "updated_at": "2025-09-01T12:59:21+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 187,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2549,
+      "name": "StudioXD"
+    }
+  ]
+}

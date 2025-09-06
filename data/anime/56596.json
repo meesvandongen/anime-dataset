@@ -13,8 +13,8 @@
   "start_date": "2018-06-12",
   "end_date": "2018-06-12",
   "synopsis": "In a restaurant in China, waiters try to swat flies while a number of diners eat their food.\n\n(Source: Vimeo)",
-  "rank": 21486,
-  "popularity": 24943,
+  "rank": 21522,
+  "popularity": 25001,
   "num_list_users": 117,
   "num_scoring_users": 30,
   "nsfw": "white",
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 360,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2755,
+      "name": "Congrong Film"
+    }
+  ]
 }

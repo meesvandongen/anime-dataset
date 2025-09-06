@@ -6,7 +6,10 @@
     "large": "https://cdn.myanimelist.net/images/anime/1982/140236l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Project Kabigon",
+      "Project Snorlax"
+    ],
     "en": "The Adventures of Snorlax & Cubone",
     "ja": "カビゴンとカラカラ"
   },
@@ -14,13 +17,13 @@
   "end_date": "2023-12-29",
   "synopsis": "The friendship between Cubone and Snorlax blossoms over the course of all four seasons!\n\n(Source: YouTube)",
   "mean": 6.37,
-  "rank": 8013,
-  "popularity": 16384,
-  "num_list_users": 649,
+  "rank": 8016,
+  "popularity": 16368,
+  "num_list_users": 653,
   "num_scoring_users": 285,
   "nsfw": "white",
   "created_at": "2023-12-08T09:18:59+00:00",
-  "updated_at": "2023-12-30T15:52:37+00:00",
+  "updated_at": "2025-09-01T08:36:13+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

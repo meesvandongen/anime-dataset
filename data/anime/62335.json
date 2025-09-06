@@ -15,10 +15,10 @@
   "start_date": "2025-08-23",
   "end_date": "2025-08-23",
   "synopsis": "A special program, delivered from Sophitia's perspective, retracing the journey so far—featuring newly recorded music and fresh announcements—crafted to be enjoyed both by first-time viewers and longtime fans alike.\n\n(Source: Official site)",
-  "rank": 19546,
-  "popularity": 28572,
-  "num_list_users": 63,
-  "num_scoring_users": 15,
+  "rank": 19576,
+  "popularity": 25871,
+  "num_list_users": 103,
+  "num_scoring_users": 24,
   "nsfw": "white",
   "created_at": "2025-08-23T15:31:44+00:00",
   "updated_at": "2025-08-27T06:13:21+00:00",
@@ -54,5 +54,10 @@
   "source": "visual_novel",
   "average_episode_duration": 1420,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 753,
+      "name": "PRA"
+    }
+  ]
 }

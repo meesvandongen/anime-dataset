@@ -1,0 +1,40 @@
+{
+  "id": 60499,
+  "title": "Fangjian Li de Ni",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1223/146907.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1223/146907l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Father Figure",
+    "ja": "房間裡的你"
+  },
+  "start_date": "2024-11-17",
+  "end_date": "2024-11-17",
+  "synopsis": "Four rooms, four memories. The son steps into a tunnel of recollection during a visit to his long-absent father in prison. Pushing open door after door, he attempts to rediscover the visage of his father within these rooms of memory.\n\n(Source: Golden Horse)",
+  "rank": 21030,
+  "popularity": 28873,
+  "num_list_users": 17,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-12-10T18:42:00+00:00",
+  "updated_at": "2025-08-31T16:25:28+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 420,
+  "rating": "pg_13",
+  "studios": []
+}

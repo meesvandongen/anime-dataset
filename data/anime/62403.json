@@ -1,0 +1,43 @@
+{
+  "id": 62403,
+  "title": "Ojamajo Doremi: Watashi no Tsubasa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1800/151831.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1800/151831l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "おジャ魔女どれみ: わたしのつばさ"
+  },
+  "start_date": "2024-07-30",
+  "end_date": "2024-07-30",
+  "synopsis": "Second music video released to commemorate the franchise's 25th anniversary.",
+  "popularity": 28785,
+  "num_list_users": 43,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2025-09-02T06:06:40+00:00",
+  "updated_at": "2025-09-02T09:22:06+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 95,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 62394,
+  "title": "One Piece: Dr. Chopper no Bouken Karte - Hokoritakaki Gigant Dream",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1000/151805.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1000/151805l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Recap",
+      "One Piece Special"
+    ],
+    "en": "One Piece: Dr. Chopper's Adventure Checkup - The Proud Dream of the Giants",
+    "ja": "Dr.チョッパーの冒険カルテ ~誇り高き巨人の夢[ギガントドリーム]~"
+  },
+  "start_date": "2025-08-31",
+  "end_date": "2025-08-31",
+  "synopsis": "The eighth recap special of the Egghead arc.",
+  "mean": 6.16,
+  "rank": 9266,
+  "popularity": 19051,
+  "num_list_users": 394,
+  "num_scoring_users": 191,
+  "nsfw": "white",
+  "created_at": "2025-08-31T17:23:06+00:00",
+  "updated_at": "2025-09-01T08:53:48+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

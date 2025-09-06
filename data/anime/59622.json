@@ -6,21 +6,24 @@
     "large": "https://cdn.myanimelist.net/images/anime/1111/144971l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Project Kabigon",
+      "Project Snorlax"
+    ],
     "en": "",
     "ja": "カビゴンと何してくつろぐ？"
   },
   "start_date": "2023-09-28",
   "end_date": "2024-03-19",
   "synopsis": "A series of vignettes depicting the everyday scenes of people and Snorlax spending happy times together!\n\n(Source: YouTube, translated)",
-  "mean": 6.17,
-  "rank": 9236,
-  "popularity": 19624,
-  "num_list_users": 351,
-  "num_scoring_users": 140,
+  "mean": 6.16,
+  "rank": 9255,
+  "popularity": 19563,
+  "num_list_users": 356,
+  "num_scoring_users": 141,
   "nsfw": "white",
   "created_at": "2024-08-21T04:35:56+00:00",
-  "updated_at": "2024-08-21T04:35:56+00:00",
+  "updated_at": "2025-09-01T08:36:46+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

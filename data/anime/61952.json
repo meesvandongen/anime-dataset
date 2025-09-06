@@ -2,24 +2,27 @@
   "id": 61952,
   "title": "Luo Xiao Hei Zhan Ji 2",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1505/150847.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1505/150847l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1288/151853.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "The Legend of Hei II",
+      "羅小黒戦記２ ぼくらが望む未来"
+    ],
     "en": "The Legend of Hei 2",
     "ja": "罗小黑战记2"
   },
   "start_date": "2025-07-18",
   "end_date": "2025-07-18",
-  "synopsis": "",
-  "rank": 18011,
-  "popularity": 11871,
-  "num_list_users": 2238,
-  "num_scoring_users": 43,
+  "synopsis": "When an attack shatters the fragile peace between the spirit world and humanity, Hei teams up with Luye, the last disciple of his Shifu Wuxian, to expose a conspiracy that threatens both realms—and the bond they’ve sworn to protect.\n\n(Source: GKIDS)",
+  "rank": 18053,
+  "popularity": 11762,
+  "num_list_users": 2312,
+  "num_scoring_users": 60,
   "nsfw": "white",
   "created_at": "2025-07-01T19:09:00+00:00",
-  "updated_at": "2025-07-02T06:30:56+00:00",
+  "updated_at": "2025-09-02T22:01:32+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -44,5 +47,10 @@
   "source": "original",
   "average_episode_duration": 7140,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2513,
+      "name": "HMCH"
+    }
+  ]
 }

@@ -1,0 +1,44 @@
+{
+  "id": 62298,
+  "title": "Dr. Ratio no Keiji Jougaku-teki Nyuuyoku Riron",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1514/151575.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1514/151575l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dr. Ratio's Metaphysical Bathing Theory",
+    "ja": "Dr.レイシオの形而上学的入浴理論"
+  },
+  "start_date": "2024-01-04",
+  "end_date": "2024-01-04",
+  "synopsis": "A music video for Dr. Ratio no Keiji Jougaku-teki Nyuuyoku Riron by Karasuya Sabou, made for the HoYoFair 2024 event.",
+  "popularity": 28843,
+  "num_list_users": 30,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2025-08-18T19:38:31+00:00",
+  "updated_at": "2025-09-01T11:52:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 259,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3189,
+      "name": "mico.animation"
+    }
+  ]
+}

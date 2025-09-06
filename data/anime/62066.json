@@ -2,22 +2,22 @@
   "id": 62066,
   "title": "Monster Strike: Deadverse Reloaded",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1424/151070.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1424/151070l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1090/151875.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1090/151875l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "モンスターストライク デッドバースリローデッド"
   },
-  "start_date": "2025-10",
+  "start_date": "2025-10-21",
   "synopsis": "",
-  "popularity": 18179,
-  "num_list_users": 457,
+  "popularity": 17486,
+  "num_list_users": 521,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-07-17T04:36:17+00:00",
-  "updated_at": "2025-07-17T04:37:08+00:00",
+  "updated_at": "2025-09-04T11:34:03+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -39,7 +39,16 @@
     "year": 2025,
     "season": "fall"
   },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
   "source": "game",
   "average_episode_duration": 0,
-  "studios": []
+  "studios": [
+    {
+      "id": 96,
+      "name": "Yumeta Company"
+    }
+  ]
 }
