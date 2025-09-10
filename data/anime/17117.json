@@ -14,10 +14,10 @@
   "end_date": "1993-12-18",
   "synopsis": "A class of Japanese youths volunteer for the war effort during WWII, but then get stranded in Manchuria.",
   "mean": 6.19,
-  "rank": 9106,
-  "popularity": 15521,
-  "num_list_users": 800,
-  "num_scoring_users": 160,
+  "rank": 9112,
+  "popularity": 15509,
+  "num_list_users": 805,
+  "num_scoring_users": 161,
   "nsfw": "white",
   "created_at": "2013-01-10T08:57:55+00:00",
   "updated_at": "2020-02-17T01:51:08+00:00",
@@ -44,7 +44,7 @@
   },
   "source": "manga",
   "average_episode_duration": 5400,
-  "rating": "pg_13",
+  "rating": "r+",
   "studios": [
     {
       "id": 207,
