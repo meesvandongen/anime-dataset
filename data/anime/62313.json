@@ -15,9 +15,9 @@
   "start_date": "2023-03-22",
   "end_date": "2023-03-22",
   "synopsis": "",
-  "popularity": 24562,
-  "num_list_users": 126,
-  "num_scoring_users": 54,
+  "popularity": 24451,
+  "num_list_users": 129,
+  "num_scoring_users": 56,
   "nsfw": "white",
   "created_at": "2025-08-19T22:15:35+00:00",
   "updated_at": "2025-08-19T22:15:35+00:00",
@@ -41,5 +41,10 @@
   "source": "original",
   "average_episode_duration": 69,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1936,
+      "name": "Liberty Animation Studio"
+    }
+  ]
 }

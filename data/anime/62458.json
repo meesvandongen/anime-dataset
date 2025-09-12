@@ -1,0 +1,56 @@
+{
+  "id": 62458,
+  "title": "Sigantamheomdae Dinoman 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1915/151978.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1915/151978l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "공룡탐험대 다이노맨2"
+  },
+  "start_date": "2023-07-20",
+  "end_date": "2024-01-04",
+  "synopsis": "",
+  "rank": 15003,
+  "popularity": 28914,
+  "num_list_users": 17,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-09-10T10:45:47+00:00",
+  "updated_at": "2025-09-10T16:25:25+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 620,
+  "rating": "pg",
+  "studios": []
+}

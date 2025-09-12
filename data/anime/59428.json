@@ -13,10 +13,10 @@
   "start_date": "2024-07-30",
   "end_date": "2024-07-30",
   "synopsis": "Music video for the song Yuureisensen by Houshou Marine.",
-  "mean": 7.38,
-  "popularity": 15310,
-  "num_list_users": 850,
-  "num_scoring_users": 512,
+  "mean": 7.48,
+  "popularity": 15298,
+  "num_list_users": 856,
+  "num_scoring_users": 514,
   "nsfw": "white",
   "created_at": "2024-07-30T12:07:10+00:00",
   "updated_at": "2024-08-07T23:49:50+00:00",
@@ -47,7 +47,7 @@
   "studios": [
     {
       "id": 1997,
-      "name": "Studio Kai"
+      "name": "Studio KAI"
     }
   ]
 }

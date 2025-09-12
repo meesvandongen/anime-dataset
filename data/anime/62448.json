@@ -1,0 +1,47 @@
+{
+  "id": 62448,
+  "title": "Hello Carbot Season 16",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1289/151967.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1289/151967l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "헬로 카봇 시즌16"
+  },
+  "start_date": "2025-06-22",
+  "synopsis": "",
+  "rank": 21642,
+  "popularity": 28882,
+  "num_list_users": 28,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-09-10T10:04:24+00:00",
+  "updated_at": "2025-09-10T16:18:46+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 3,
+      "name": "Racing"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 680,
+  "rating": "pg",
+  "studios": []
+}

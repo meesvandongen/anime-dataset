@@ -12,9 +12,9 @@
   },
   "start_date": "2025-08-29",
   "synopsis": "",
-  "popularity": 17993,
-  "num_list_users": 475,
-  "num_scoring_users": 29,
+  "popularity": 17181,
+  "num_list_users": 552,
+  "num_scoring_users": 65,
   "nsfw": "gray",
   "created_at": "2025-06-25T17:33:14+00:00",
   "updated_at": "2025-06-26T11:14:30+00:00",
@@ -34,5 +34,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 405,
+      "name": "T-Rex"
+    }
+  ]
 }

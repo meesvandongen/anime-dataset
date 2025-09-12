@@ -1,0 +1,56 @@
+{
+  "id": 62457,
+  "title": "Sigantamheomdae Dinoman",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1208/151977.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1208/151977l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "시간탐험대 다이노맨"
+  },
+  "start_date": "2022-10-04",
+  "end_date": "2023-03-02",
+  "synopsis": "",
+  "rank": 15002,
+  "popularity": 28918,
+  "num_list_users": 16,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-09-10T10:42:19+00:00",
+  "updated_at": "2025-09-10T16:27:22+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 620,
+  "rating": "pg",
+  "studios": []
+}

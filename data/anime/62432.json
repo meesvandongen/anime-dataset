@@ -1,0 +1,56 @@
+{
+  "id": 62432,
+  "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1210/151933.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1210/151933l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A Misanthrope Teaches a Class for Demi-Humans"
+    ],
+    "en": "Misanthropic Teacher in Demi-Human Classroom.",
+    "ja": "人外教室の人間嫌い教師"
+  },
+  "start_date": "2026-01",
+  "synopsis": "I'm Rei Hitoma, a self-professed misanthrope thanks to some past trauma. Just when I thought my new teaching job in the mountains would provide a chill, rejuvenating environment, it turns out that this school is actually for demi-humans who want to become full-fledged human beings! There's a mermaid, a werewolf, a rabbit, and a bird...all of whom are now my charges. It's my duty to teach them about humankind—and maybe in the process, I'll learn a few things myself. This isn't an alternate world or a case of reincarnation. It's just the story of a teacher at a somewhat peculiar school, and his students who are striving to become human.\n\n(Source: Yen Press)",
+  "popularity": 16672,
+  "num_list_users": 612,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-09-07T14:13:38+00:00",
+  "updated_at": "2025-09-08T06:56:46+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 163,
+      "name": "asread."
+    }
+  ]
+}

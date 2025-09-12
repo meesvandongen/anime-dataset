@@ -17,13 +17,13 @@
   "end_date": "2025-09-27",
   "synopsis": "Kitada Gaku, a young man who once aspired to uncover the world's truths through mathematics, finds himself at a crossroads after failing to achieve his dream of competing in the Math Olympiad. With his scholarship revoked, he spends his days working at a school cafeteria, struggling with a sense of aimlessness.\n\nEverything changes when he meets a brilliant chef who introduces him to the fascinating intersection of mathematics and cooking. As Gaku embarks on this unexpected journey, he is drawn into a culinary world that's as complex and precise as mathematics itself.\n\nA unique and inspiring story where numbers and flavors blend to reveal the beauty of discovery, Mathematics Meets Cuisine opens the door to a new world of gourmet adventure.\n\n(Source: MAL News)",
   "mean": 6.64,
-  "rank": 6419,
-  "popularity": 6045,
-  "num_list_users": 14069,
-  "num_scoring_users": 1903,
+  "rank": 6424,
+  "popularity": 6005,
+  "num_list_users": 14341,
+  "num_scoring_users": 1978,
   "nsfw": "white",
   "created_at": "2025-01-05T15:16:31+00:00",
-  "updated_at": "2025-08-06T17:30:43+00:00",
+  "updated_at": "2025-09-10T07:35:06+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -38,6 +38,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
     }
   ],
   "num_episodes": 12,
