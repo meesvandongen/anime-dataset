@@ -1,0 +1,49 @@
+{
+  "id": 62467,
+  "title": "Shiodome Cable TV: Koyaku Shokunin",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1333/151993.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1333/151993l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "汐留ケーブルテレビ 子役職人"
+  },
+  "start_date": "2011-08-03",
+  "end_date": "2011-08-03",
+  "synopsis": "An episode of Shiodome Cable TV which aired exclusively on Yomiuri TV. Episode 13, \"Kanryuu Star\", was cut from the broadcast on Yomiuri TV, instead airing episode 14. Yomiuri TV remained ahead of other stations until week 17 when they aired \"Koyaku Shokunin\".",
+  "rank": 14868,
+  "popularity": 28937,
+  "num_list_users": 19,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-09-11T05:28:14+00:00",
+  "updated_at": "2025-09-11T05:28:14+00:00",
+  "media_type": "tv_special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 345,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 276,
+      "name": "DLE"
+    }
+  ]
+}

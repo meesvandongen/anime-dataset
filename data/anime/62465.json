@@ -1,0 +1,42 @@
+{
+  "id": 62465,
+  "title": "Baboo Factory",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1202/151986.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1202/151986l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "バブーファクトリー"
+  },
+  "start_date": "2001-10-06",
+  "end_date": "2002-09-29",
+  "synopsis": "Baboo Factory is a very short anime, which is aired in the middle of a cooking program called Wagamanma Kitchen. The characters in Baboo Factory are cute alien creatures, called Baboos, based on the PlayStation game Astronoka. The Baboo in Astronoka were 3D polygon characters, but the Baboo Factory Baboo are normal 2D anime characters. The Baboo don't speak a human language. They just say \"baboo baboo\", and there are Japanese subtitles at the bottom of the screen.\n\n(Source: ANN)",
+  "rank": 19856,
+  "popularity": 28940,
+  "num_list_users": 18,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-09-10T16:15:08+00:00",
+  "updated_at": "2025-09-11T15:43:09+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 46,
+  "start_season": {
+    "year": 2001,
+    "season": "fall"
+  },
+  "average_episode_duration": 60,
+  "studios": []
+}
