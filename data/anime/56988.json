@@ -2,8 +2,8 @@
   "id": 56988,
   "title": "Larva Pendant",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1097/139299.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1097/139299l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1097/139299.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1097/139299l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,8 +13,8 @@
   "start_date": "2022-05-25",
   "end_date": "2022-05-25",
   "synopsis": "Bug friends Red and Yellow leave the island behind and go to the big city.\n\n(Source: IMDb)",
-  "rank": 17947,
-  "popularity": 22251,
+  "rank": 17953,
+  "popularity": 22276,
   "num_list_users": 204,
   "num_scoring_users": 70,
   "nsfw": "white",
@@ -41,6 +41,7 @@
     "year": 2022,
     "season": "spring"
   },
+  "source": "original",
   "average_episode_duration": 1980,
   "rating": "g",
   "studios": [

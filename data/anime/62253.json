@@ -13,9 +13,9 @@
   "start_date": "2025-08-11",
   "end_date": "2025-08-11",
   "synopsis": "",
-  "popularity": 24132,
-  "num_list_users": 136,
-  "num_scoring_users": 59,
+  "popularity": 23670,
+  "num_list_users": 150,
+  "num_scoring_users": 66,
   "nsfw": "white",
   "created_at": "2025-08-12T15:06:48+00:00",
   "updated_at": "2025-08-13T09:04:46+00:00",
@@ -32,7 +32,7 @@
     "year": 2025,
     "season": "summer"
   },
-  "source": "original",
+  "source": "light_novel",
   "average_episode_duration": 311,
   "rating": "pg_13",
   "studios": []

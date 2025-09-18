@@ -1,0 +1,54 @@
+{
+  "id": 61217,
+  "title": "Yuusha no Kuzu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1893/148487.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1893/148487l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Scum of the Brave",
+    "ja": "勇者のクズ"
+  },
+  "start_date": "2026-01",
+  "synopsis": "By the mid-21st century, Tokyo's criminal underworld is ruled by Demon Lords—crime bosses who have undergone ether enhancement surgery, granting them terrifying superpowers. The only ones who can take them down are Heroes, bounty hunters who boost their own ether powers using the drug E3 (E-Three). With legalized killing as part of the job, being a Hero is less about justice and more about survival.\n\nYashiro, known as the Reaper, is one such Hero—an independent enforcer who works alone. That is, until Jougamine, a high school girl and self-proclaimed \"apprentice,\" forces her way into his life. Reluctantly taking her under his wing, Yashiro soon finds himself caught in a whirlwind of deadly conflicts.\n\n(Source: MAL News)",
+  "popularity": 13893,
+  "num_list_users": 1249,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-03-15T09:11:54+00:00",
+  "updated_at": "2025-09-13T09:45:14+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 68,
+      "name": "Organized Crime"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "id": 60326,
   "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1887/150496.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1887/150496l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1887/150496.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1887/150496l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,14 @@
   "start_date": "2025-07-08",
   "end_date": "2025-09-23",
   "synopsis": "Seeing everyone else enjoying their youth, socially anxious Renako Amaori is dead set on becoming an extroverted girl. Despite her reclusive past, she changes her appearance, practices conversation, and enrolls in a high school free of anyone that would know her. While she is quickly able to befriend the famous model Mai Ouzuka, after Renako joins her friend group, she realizes pretending to be a completely different person is no easy feat.\n\nSoon, Renako and Mai have a heart-to-heart and share their troubles with each other. After the sincere discussion, Renako truly believes they could become best friends. The very next day, however, the unthinkable happens—Mai confesses her love to Renako! Although Renako is not interested in dating, Mai insists the two begin hanging out alternately as friends and a couple, while figuring out which type of relationship suits them better.\n\nDetermined to create a blissful friendship, Renako tries her best to convince the stubborn Mai. However, Renako herself might have a change of heart as Mai's advances continue to get bolder.\n\n[Written by MAL Rewrite]",
-  "mean": 7.52,
-  "rank": 1936,
-  "popularity": 3012,
-  "num_list_users": 63828,
-  "num_scoring_users": 8681,
+  "mean": 7.53,
+  "rank": 1927,
+  "popularity": 2984,
+  "num_list_users": 65173,
+  "num_scoring_users": 9133,
   "nsfw": "gray",
   "created_at": "2024-11-19T09:22:15+00:00",
-  "updated_at": "2025-09-01T02:33:16+00:00",
+  "updated_at": "2025-09-16T00:46:38+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 26,
       "name": "Girls Love"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
     },
     {
       "id": 23,

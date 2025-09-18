@@ -2,8 +2,8 @@
   "id": 61558,
   "title": "Aikatsu! x PriPara the Movie: Deai no Kiseki!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1723/149417.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1723/149417l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1723/149417.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1723/149417l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,8 +13,8 @@
   "start_date": "2025-10-10",
   "end_date": "2025-10-10",
   "synopsis": "Collaboration movie between Aikatsu! and PriPara.",
-  "popularity": 15076,
-  "num_list_users": 910,
+  "popularity": 15014,
+  "num_list_users": 931,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-04-23T21:21:47+00:00",
@@ -44,6 +44,7 @@
     "year": 2025,
     "season": "fall"
   },
+  "source": "original",
   "average_episode_duration": 0,
   "studios": [
     {

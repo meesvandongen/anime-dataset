@@ -11,17 +11,17 @@
       "Ci Ke Wu Liu Qi: Fan Wai",
       "Assassin Seven: Extra Story"
     ],
-    "en": "Killer Seven",
+    "en": "Scissor Seven: Extra Episodes",
     "ja": "刺客伍六七 番外"
   },
   "start_date": "2018-08-01",
   "end_date": "2018-08-22",
   "synopsis": "Extra episodes of Killer Seven.",
   "mean": 7.53,
-  "rank": 1895,
-  "popularity": 4532,
-  "num_list_users": 28981,
-  "num_scoring_users": 16623,
+  "rank": 1893,
+  "popularity": 4530,
+  "num_list_users": 29026,
+  "num_scoring_users": 16655,
   "nsfw": "white",
   "created_at": "2018-09-27T08:12:07+00:00",
   "updated_at": "2022-04-18T04:51:54+00:00",
@@ -65,5 +65,10 @@
   "source": "original",
   "average_episode_duration": 725,
   "rating": "r",
-  "studios": []
+  "studios": [
+    {
+      "id": 2258,
+      "name": "Sharefun Studio"
+    }
+  ]
 }

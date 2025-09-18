@@ -1,6 +1,6 @@
 {
   "id": 62184,
-  "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen Manner Eizou",
+  "title": "Kimetsu no Yaiba Movie: Mugenjou-hen Manner Eizou",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1858/151344.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1858/151344l.jpg"
@@ -13,13 +13,14 @@
   "start_date": "2025-07-18",
   "end_date": "2025-07-18",
   "synopsis": "A short animation about manners screened before the movie, featuring Uzui Tengen and his wives Hinatsuru, Makio, and Suma.",
-  "rank": 17608,
-  "popularity": 15680,
-  "num_list_users": 767,
-  "num_scoring_users": 111,
+  "mean": 6.52,
+  "rank": 7091,
+  "popularity": 14666,
+  "num_list_users": 1023,
+  "num_scoring_users": 215,
   "nsfw": "white",
   "created_at": "2025-08-06T18:51:00+00:00",
-  "updated_at": "2025-08-07T00:33:42+00:00",
+  "updated_at": "2025-09-15T09:51:11+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -38,7 +39,7 @@
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 30,
+  "average_episode_duration": 15,
   "rating": "pg_13",
   "studios": [
     {

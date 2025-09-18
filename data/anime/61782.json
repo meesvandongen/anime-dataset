@@ -1,0 +1,49 @@
+{
+  "id": 61782,
+  "title": "Kirei ni Shitemoraemasu ka.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1380/150401.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1380/150401l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Will You Clean This For Me?",
+      "Wash It All Away"
+    ],
+    "en": "",
+    "ja": "綺麗にしてもらえますか。"
+  },
+  "start_date": "2026-01",
+  "synopsis": "With an endearing protagonist and luscious art, this seaside slice-of-life story offers tranquility in the chaos of the modern world. For two years, Wakana Kinme has run a laundry service in the seaside resort town of Atami, where she's built a fulfilling life making friends with the locals and visiting hot springs. Although Wakana has no knowledge of her own past, her cleaning services safeguard memories imbued in customers' precious items.\n\n(Source: Square Enix)",
+  "popularity": 12159,
+  "num_list_users": 2081,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-06-05T09:22:18+00:00",
+  "updated_at": "2025-09-17T09:26:50+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2037,
+      "name": "Okuruto Noboru"
+    }
+  ]
+}
