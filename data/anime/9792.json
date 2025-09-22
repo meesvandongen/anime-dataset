@@ -2,8 +2,8 @@
   "id": 9792,
   "title": "Licca-chan Fushigi na Fushigi na Yunia Monogatari",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/27103.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/8/27103l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/27103.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/8/27103l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,19 +16,23 @@
   "end_date": "1990-11-23",
   "synopsis": "When Licca Kayama's father returns from a trip to Paris, she is thrilled to see that he has brought back her favorite piano. However, she is disappointed about the stuffed dodo bird he gave her as a gift. One day, when Licca accidentally falls into the piano, she is transported to the magical world of Yunia. Within Yunia, the dodo gains the ability to speak and helps Licca find a way home.\n\n[Written by MAL Rewrite]",
   "mean": 6.04,
-  "rank": 9954,
-  "popularity": 12384,
-  "num_list_users": 1939,
-  "num_scoring_users": 786,
+  "rank": 9960,
+  "popularity": 12390,
+  "num_list_users": 1943,
+  "num_scoring_users": 787,
   "nsfw": "white",
   "created_at": "2010-11-07T15:57:23+00:00",
-  "updated_at": "2025-07-31T18:23:04+00:00",
+  "updated_at": "2025-09-17T01:37:11+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 2,
       "name": "Adventure"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
     },
     {
       "id": 15,
