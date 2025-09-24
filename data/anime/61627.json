@@ -2,8 +2,8 @@
   "id": 61627,
   "title": "Tonari no Kanojo",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1844/149627.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1844/149627l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1844/149627.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1844/149627l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,23 +11,24 @@
     "ja": "トナリノカノジョ"
   },
   "start_date": "2025-06-27",
+  "end_date": "2025-06-27",
   "synopsis": "",
-  "mean": 6.47,
-  "popularity": 12911,
-  "num_list_users": 1632,
-  "num_scoring_users": 405,
+  "mean": 6.38,
+  "popularity": 12850,
+  "num_list_users": 1676,
+  "num_scoring_users": 435,
   "nsfw": "gray",
   "created_at": "2025-05-02T21:29:44+00:00",
-  "updated_at": "2025-06-26T07:28:30+00:00",
+  "updated_at": "2025-09-18T07:17:48+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 1,
   "start_season": {
     "year": 2025,
     "season": "spring"
