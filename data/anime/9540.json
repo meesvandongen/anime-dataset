@@ -16,13 +16,13 @@
   "start_date": "1996-01-08",
   "end_date": "1996-06-24",
   "synopsis": "The animals at Uenohara Zoo love their jobs, and their jobs involve acting like animals when human beings are watching and getting on with very human lives when they're not. Paramount among them is Ginpei the penguin, who is eternally getting into trouble with the giraffes, lions, and pandas.\n\n(Source: Anime Encyclopedia)",
-  "rank": 20215,
-  "popularity": 16918,
-  "num_list_users": 585,
+  "rank": 20228,
+  "popularity": 16927,
+  "num_list_users": 587,
   "num_scoring_users": 112,
   "nsfw": "white",
   "created_at": "2010-09-14T22:03:34+00:00",
-  "updated_at": "2021-10-13T02:45:19+00:00",
+  "updated_at": "2025-09-25T11:15:20+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 20,
@@ -44,6 +48,7 @@
     "day_of_the_week": "monday",
     "start_time": "19:00"
   },
+  "source": "manga",
   "average_episode_duration": 1500,
   "rating": "pg_13",
   "studios": []

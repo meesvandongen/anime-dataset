@@ -2,8 +2,8 @@
   "id": 2749,
   "title": "Heisei Inu Monogatari Bow",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/28736.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/8/28736l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/28736.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/28736l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,23 +16,31 @@
   "end_date": "1994-09-22",
   "synopsis": "Bow is a homeless dog, who enjoys his carefree life. This dog is no super-hero. He drools when he's hungry, he wags his tail when he's happy, and he barks when he's excited, just like an ordinary dog but even uglier and stupider! His dumb innocence often leads to disaster. But somehow people are charmed by him. School children, a lonesome cartoonist, and a gangster family all play an important role in Bow's life.\n\n(Source: ANN)",
   "mean": 6.88,
-  "rank": 5077,
-  "popularity": 12634,
-  "num_list_users": 1790,
+  "rank": 5050,
+  "popularity": 12652,
+  "num_list_users": 1791,
   "num_scoring_users": 837,
   "nsfw": "white",
   "created_at": "2007-06-29T13:10:41+00:00",
-  "updated_at": "2021-04-10T03:30:49+00:00",
+  "updated_at": "2025-09-25T04:04:09+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 2,
-      "name": "Adventure"
-    },
-    {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 40,
@@ -40,7 +48,7 @@
     "year": 1993,
     "season": "fall"
   },
-  "source": "original",
+  "source": "manga",
   "average_episode_duration": 1386,
   "rating": "g",
   "studios": [
