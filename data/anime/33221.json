@@ -14,13 +14,13 @@
   "end_date": "2016-06-25",
   "synopsis": "Federation troops and Zeon forces carry out a fierce battle in the Thunderbolt Sector in what was once Side 4 \"Moore.\" The Thunderbolt Sector is a shoal zone composed of the debris of destroyed space colonies, named for the electrical discharges from the metal debris. MS pilot Io Flemming is among the Federation soldiers who are dispatched to the area, where Zeon sniper Daryl Lorenz awaits them on the battlefield.\n\n(Source: Gundam Wikia)",
   "mean": 7.94,
-  "rank": 776,
-  "popularity": 4633,
-  "num_list_users": 27790,
-  "num_scoring_users": 15069,
+  "rank": 777,
+  "popularity": 4640,
+  "num_list_users": 27821,
+  "num_scoring_users": 15088,
   "nsfw": "white",
   "created_at": "2016-04-21T15:54:28+00:00",
-  "updated_at": "2022-11-07T16:42:14+00:00",
+  "updated_at": "2025-09-25T04:00:12+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     },
     {
       "id": 29,
