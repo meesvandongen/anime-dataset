@@ -1,6 +1,6 @@
 {
   "id": 62359,
-  "title": "Towa no Yuugure Episode 0",
+  "title": "Towa no Yuugure: Asa wo Kokoro ni, Ichi, Ni to Kazoe yo",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1711/151735.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1711/151735l.jpg"
@@ -8,22 +8,24 @@
   "alternative_titles": {
     "synonyms": [
       "Towa no Yugure",
-      "Dusk Beyond the End of the World"
+      "Towa no Yuugure Episode 0"
     ],
-    "en": "",
-    "ja": "永久のユウグレ"
+    "en": "Dusk Beyond the End of the World: Think Morning, Count Two",
+    "ja": "永久のユウグレ「朝をこころに、一、二と数えよ」"
   },
   "start_date": "2025-09-26",
   "end_date": "2025-09-26",
   "synopsis": "Episode 0 of Towa no Yuugure.",
-  "popularity": 12232,
-  "num_list_users": 2055,
-  "num_scoring_users": 0,
+  "mean": 7.14,
+  "rank": 3831,
+  "popularity": 8933,
+  "num_list_users": 5492,
+  "num_scoring_users": 2229,
   "nsfw": "white",
   "created_at": "2025-08-28T09:49:16+00:00",
-  "updated_at": "2025-08-28T09:49:16+00:00",
+  "updated_at": "2025-09-28T07:33:26+00:00",
   "media_type": "tv_special",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 22,
@@ -40,7 +42,8 @@
     "season": "summer"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1457,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 132,

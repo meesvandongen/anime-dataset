@@ -1,0 +1,49 @@
+{
+  "id": 62466,
+  "title": "5-toubun no Hanayome 5-shuunen Kinen PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1354/151992.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1354/151992l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "5-toubun no Hanayome 5th Anniversary PV"
+    ],
+    "en": "",
+    "ja": "「五等分の花嫁」5周年記念P V"
+  },
+  "start_date": "2024-01-01",
+  "end_date": "2024-01-01",
+  "synopsis": "A promotional video for the fifth anniversary of the 5-toubun no Hanayome anime.",
+  "popularity": 28855,
+  "num_list_users": 53,
+  "num_scoring_users": 22,
+  "nsfw": "white",
+  "created_at": "2025-09-11T04:40:42+00:00",
+  "updated_at": "2025-09-11T04:40:42+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 50,
+  "rating": "g",
+  "studios": []
+}

@@ -2,8 +2,8 @@
   "id": 37126,
   "title": "Nobunaga no Shinobi: Anegawa Ishiyama-hen",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1651/91110.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1651/91110l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1651/91110.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1651/91110l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2018-09-29",
   "synopsis": "Third season of the Nobunaga no Shinobi series.",
   "mean": 7.1,
-  "rank": 4021,
-  "popularity": 7043,
-  "num_list_users": 9866,
+  "rank": 4024,
+  "popularity": 7052,
+  "num_list_users": 9872,
   "num_scoring_users": 3959,
   "nsfw": "white",
   "created_at": "2018-01-17T08:54:41+00:00",
-  "updated_at": "2021-12-05T10:34:28+00:00",
+  "updated_at": "2025-09-29T20:22:59+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 26,

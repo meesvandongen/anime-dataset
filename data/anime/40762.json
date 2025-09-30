@@ -2,8 +2,8 @@
   "id": 40762,
   "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana - Ichinen Mae, Nijou Kujaku no Urei",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1156/146362.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1156/146362l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1156/146362.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1156/146362l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,10 +16,10 @@
   "end_date": "2020-01-24",
   "synopsis": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.",
   "mean": 6.09,
-  "rank": 9669,
-  "popularity": 9352,
-  "num_list_users": 4798,
-  "num_scoring_users": 1681,
+  "rank": 9676,
+  "popularity": 9371,
+  "num_list_users": 4802,
+  "num_scoring_users": 1682,
   "nsfw": "white",
   "created_at": "2019-11-24T07:21:30+00:00",
   "updated_at": "2025-09-22T22:59:38+00:00",
@@ -57,7 +57,8 @@
     "season": "winter"
   },
   "source": "original",
-  "average_episode_duration": 1380,
+  "average_episode_duration": 1376,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1983,

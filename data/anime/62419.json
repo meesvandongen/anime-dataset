@@ -13,13 +13,14 @@
   "start_date": "2025-09-02",
   "end_date": "2025-09-02",
   "synopsis": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not this kind of drama. What he doesn’t expect is to be tormented by the thunderous noise coming from the apartment next door.\n\nDetermined to put an end to it, he confronts his neighbor—only to make things infinitely worse when he accidentally punches him in the face.\n\nYi-hyuk tries everything—from childish pranks to petty power plays—but his neighbor just won’t budge. He even pleads on his knees to make the noise stop. Just when it seems the feud will never end, they finally manage to call an uneasy truce.\n\nAnd somewhere along the way, Yi-hyuk realizes he might be falling for the very person who once drove him up the wall.\n\n(Source: Laftel)",
-  "mean": 7.29,
-  "popularity": 15431,
-  "num_list_users": 833,
-  "num_scoring_users": 277,
+  "mean": 7.38,
+  "rank": 2507,
+  "popularity": 14566,
+  "num_list_users": 1057,
+  "num_scoring_users": 360,
   "nsfw": "gray",
   "created_at": "2025-09-05T10:49:07+00:00",
-  "updated_at": "2025-09-07T12:08:34+00:00",
+  "updated_at": "2025-09-27T07:51:15+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -30,10 +31,6 @@
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 49,
-      "name": "Erotica"
     }
   ],
   "num_episodes": 5,
@@ -43,6 +40,6 @@
   },
   "source": "original",
   "average_episode_duration": 360,
-  "rating": "r+",
+  "rating": "pg_13",
   "studios": []
 }

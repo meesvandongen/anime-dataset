@@ -1,0 +1,54 @@
+{
+  "id": 60852,
+  "title": "Koori no Jouheki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1158/152301.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1158/152301l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Ramparts of Ice",
+    "ja": "氷の城壁"
+  },
+  "start_date": "2026-04",
+  "synopsis": "Inept at dealing with people, Koyuki Higawa maintains a wall between herself and others. She spends her time in high school away from others, all alone. At least until she encounters Minato Amamiya who keeps closing the distance between them for some reason. The aloof Koyuki, the popular Miki, the boundary-less Minato, and the easygoing and kind basketball team member Youta. This is the story of these somewhat complicated four and their tantalizing, bumbling youth.\n\n(Source: LINE Digital Frontier, translated)",
+  "popularity": 13789,
+  "num_list_users": 1293,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-01-31T12:52:16+00:00",
+  "updated_at": "2025-09-29T03:24:51+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 64,
+      "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1997,
+      "name": "Studio KAI"
+    }
+  ]
+}

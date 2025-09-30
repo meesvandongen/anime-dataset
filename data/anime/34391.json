@@ -2,8 +2,8 @@
   "id": 34391,
   "title": "Kidou Senshi Gundam Thunderbolt 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/5/86531.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/5/86531l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/5/86531.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/5/86531l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,12 +17,12 @@
   "synopsis": "The second season of Mobile Suit Gundam Thunderbolt.",
   "mean": 7.22,
   "rank": 3338,
-  "popularity": 4825,
-  "num_list_users": 25228,
-  "num_scoring_users": 12990,
+  "popularity": 4829,
+  "num_list_users": 25252,
+  "num_scoring_users": 13006,
   "nsfw": "white",
   "created_at": "2016-11-18T07:43:45+00:00",
-  "updated_at": "2022-11-07T16:42:56+00:00",
+  "updated_at": "2025-09-25T03:59:40+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -45,6 +45,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     },
     {
       "id": 29,

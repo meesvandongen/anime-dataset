@@ -13,16 +13,17 @@
     "ja": "おブスに花束を"
   },
   "start_date": "2025-07-10",
+  "end_date": "2025-09-04",
   "synopsis": "",
-  "rank": 21396,
-  "popularity": 21933,
-  "num_list_users": 224,
-  "num_scoring_users": 27,
+  "rank": 21418,
+  "popularity": 21277,
+  "num_list_users": 260,
+  "num_scoring_users": 49,
   "nsfw": "white",
   "created_at": "2025-07-11T22:48:55+00:00",
-  "updated_at": "2025-07-12T09:04:51+00:00",
+  "updated_at": "2025-09-28T11:26:30+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -37,7 +38,7 @@
       "name": "School"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 8,
   "start_season": {
     "year": 2025,
     "season": "summer"

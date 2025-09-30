@@ -1,0 +1,48 @@
+{
+  "id": 62575,
+  "title": "Tanglang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1126/152253.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1126/152253l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Praying Mantis",
+    "ja": "螳螂"
+  },
+  "start_date": "2025-08-28",
+  "end_date": "2025-08-28",
+  "synopsis": "A woman makes her nocturnal rounds seducing and harvesting men in Yonfan and Joe Hsieh’s dive into motherhood’s most primal realms, delivering an elegant and menacing animated thrill ride made of stylish gore and a touch of vintage erotic.\n\n(Source: Toronto International Film Festival)",
+  "rank": 15369,
+  "popularity": 29005,
+  "num_list_users": 18,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2025-09-26T14:14:43+00:00",
+  "updated_at": "2025-09-29T15:01:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 1080,
+  "rating": "r",
+  "studios": []
+}
