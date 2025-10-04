@@ -1,0 +1,41 @@
+{
+  "id": 62602,
+  "title": "7-nin no Santa Claus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1510/152333.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1510/152333l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The 7 Santa Claus"
+    ],
+    "en": "7 Santa Clauses",
+    "ja": "7人のサンタクロース"
+  },
+  "start_date": "1989-11-05",
+  "end_date": "1989-11-05",
+  "synopsis": "",
+  "rank": 17155,
+  "popularity": 29042,
+  "num_list_users": 23,
+  "num_scoring_users": 2,
+  "nsfw": "gray",
+  "created_at": "2025-09-30T23:22:50+00:00",
+  "updated_at": "2025-10-01T12:21:12+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1989,
+    "season": "fall"
+  },
+  "average_episode_duration": 1200,
+  "rating": "pg",
+  "studios": []
+}
