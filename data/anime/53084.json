@@ -2,8 +2,8 @@
   "id": 53084,
   "title": "Momoiro Sisters: Idol Densetsu Momoko!?",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1635/128097.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1635/128097l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1635/128097.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1635/128097l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "1999-07-22",
   "synopsis": "",
   "mean": 5.93,
-  "rank": 10573,
-  "popularity": 19796,
-  "num_list_users": 347,
+  "rank": 10600,
+  "popularity": 19810,
+  "num_list_users": 348,
   "num_scoring_users": 127,
   "nsfw": "white",
   "created_at": "2022-09-18T22:38:43+00:00",
-  "updated_at": "2022-09-19T06:37:19+00:00",
+  "updated_at": "2025-09-29T20:24:13+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 60,
       "name": "Idols (Female)"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 1,

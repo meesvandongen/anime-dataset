@@ -2,8 +2,8 @@
   "id": 4903,
   "title": "Kyou no 5 no 2 (TV)",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/5/21096.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/5/21096l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/5/21096.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/5/21096l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,16 +12,16 @@
       "Kyo no Gononi"
     ],
     "en": "Today in Class 5-2 (TV)",
-    "ja": "今日の５の２"
+    "ja": "今日の5の2"
   },
   "start_date": "2008-10-06",
   "end_date": "2008-12-29",
   "synopsis": "Following the line of the precedent OVAs (of the same name) This anime goes around the normal lives of some elementary school (5th grade, 2nd class room) kids and their adventures, while turning to teens. Their games, stupid jokes, and the misunderstandings around their premature attraction to the opposite sex. Ryota Satou is the main character here, but his friends are almost as important as him since the school wouldn't be the same without them, especially the girls who the majority of time appear to be mature by their ages but in the ends they are as childish and even more \"dangerous\" than the boys.\n\n(Source: ANN, edited)",
   "mean": 7.18,
-  "rank": 3590,
-  "popularity": 4038,
-  "num_list_users": 37498,
-  "num_scoring_users": 14638,
+  "rank": 3604,
+  "popularity": 4043,
+  "num_list_users": 37506,
+  "num_scoring_users": 14639,
   "nsfw": "white",
   "created_at": "2008-07-13T05:59:30+00:00",
   "updated_at": "2022-04-13T16:47:55+00:00",
@@ -49,6 +49,10 @@
   "start_season": {
     "year": 2008,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:30"
   },
   "source": "manga",
   "average_episode_duration": 1410,

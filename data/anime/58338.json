@@ -1,0 +1,47 @@
+{
+  "id": 58338,
+  "title": "Cinnamon no Halloween March",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1604/152319.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1604/152319l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "シナモンのハロウィーンマーチ"
+  },
+  "start_date": "2011-01-27",
+  "end_date": "2011-01-27",
+  "synopsis": "",
+  "popularity": 29024,
+  "num_list_users": 28,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2024-03-07T18:42:09+00:00",
+  "updated_at": "2025-09-30T12:53:05+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2011,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 38,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": 62622,
+  "title": "Shigure Mae / Kuro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1727/152365.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1727/152365l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "時雨前 / 黒"
+  },
+  "start_date": "2013-11-25",
+  "end_date": "2013-11-25",
+  "synopsis": "Official double music video for the songs Shigure Mae and Kuro by the band downy, from their 2013 album \"Untitled\".",
+  "popularity": 29061,
+  "num_list_users": 16,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2025-10-02T07:13:28+00:00",
+  "updated_at": "2025-10-03T11:57:18+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2013,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 287,
+  "rating": "pg_13",
+  "studios": []
+}
