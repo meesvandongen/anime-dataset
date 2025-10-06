@@ -12,14 +12,16 @@
   },
   "start_date": "2025-10-04",
   "synopsis": "The story starts with Sanda, a second year middle school student, getting attacked with a kitchen knife by his classmate Fuyumura. While Sanda couldn't make sense of the situation at first, he gradually came to believe that Fuyumura's actions were just mean acts stemming off from the latter having a peculiar puberty phase.\n\nBut that was all actually a misunderstanding. Fuyumura is seriously questioning if Sanda is actually the descendant of a certain family...\n\n(Source: MU)",
-  "popularity": 4757,
-  "num_list_users": 26124,
-  "num_scoring_users": 39,
+  "mean": 7.45,
+  "rank": 2261,
+  "popularity": 4097,
+  "num_list_users": 36560,
+  "num_scoring_users": 2199,
   "nsfw": "white",
   "created_at": "2024-07-10T15:04:09+00:00",
-  "updated_at": "2025-09-20T10:39:01+00:00",
+  "updated_at": "2025-10-03T19:06:14+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -48,7 +50,8 @@
     "start_time": "01:53"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1445,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1591,

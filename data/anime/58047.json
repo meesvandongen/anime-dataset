@@ -1,0 +1,49 @@
+{
+  "id": 58047,
+  "title": "The King of Fighters: Awaken PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1727/152315.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1727/152315l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Quanhuang Juexing"
+    ],
+    "en": "",
+    "ja": "拳皇·觉醒"
+  },
+  "start_date": "2020-07-30",
+  "end_date": "2020-07-30",
+  "synopsis": "A trailer for an unreleased film, intended to be a sequel to The King of Fighters: Destiny. Announced in 2020 with a 2022 release date, but with no further news since then, only the trailer is available.",
+  "popularity": 29057,
+  "num_list_users": 22,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2024-02-06T18:47:06+00:00",
+  "updated_at": "2025-09-30T11:52:03+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 31,
+      "name": "Super Power"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2020,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 172,
+  "rating": "pg_13",
+  "studios": []
+}

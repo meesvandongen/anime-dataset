@@ -12,14 +12,16 @@
   },
   "start_date": "2025-10-05",
   "synopsis": "Second part of Uma Musume: Cinderella Gray.",
-  "popularity": 5794,
-  "num_list_users": 15963,
-  "num_scoring_users": 1,
+  "mean": 8.36,
+  "rank": 252,
+  "popularity": 5374,
+  "num_list_users": 19658,
+  "num_scoring_users": 899,
   "nsfw": "white",
   "created_at": "2025-06-29T08:03:59+00:00",
-  "updated_at": "2025-08-22T14:19:28+00:00",
+  "updated_at": "2025-10-05T11:51:16+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 51,
@@ -42,7 +44,7 @@
       "name": "Sports"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 10,
   "start_season": {
     "year": 2025,
     "season": "fall"
@@ -52,7 +54,7 @@
     "start_time": "16:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1428,
   "rating": "pg_13",
   "studios": [
     {

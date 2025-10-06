@@ -15,14 +15,15 @@
   },
   "start_date": "2025-10-05",
   "synopsis": "Second season of Ao no Orchestra.",
-  "popularity": 6740,
-  "num_list_users": 10938,
-  "num_scoring_users": 0,
+  "rank": 17328,
+  "popularity": 6631,
+  "num_list_users": 11484,
+  "num_scoring_users": 92,
   "nsfw": "white",
   "created_at": "2023-10-08T10:23:08+00:00",
-  "updated_at": "2025-09-02T11:11:32+00:00",
+  "updated_at": "2025-10-05T18:03:51+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -51,7 +52,7 @@
     "start_time": "17:00"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1500,
   "rating": "pg_13",
   "studios": [
     {

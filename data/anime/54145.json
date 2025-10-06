@@ -13,16 +13,16 @@
   "start_date": "2025-07-05",
   "end_date": "2025-10-04",
   "synopsis": "Ninth season of Cardfight!! Vanguard: D Series.",
-  "mean": 6.57,
-  "rank": 6836,
-  "popularity": 12761,
-  "num_list_users": 1731,
-  "num_scoring_users": 164,
+  "mean": 6.68,
+  "rank": 6230,
+  "popularity": 12642,
+  "num_list_users": 1802,
+  "num_scoring_users": 327,
   "nsfw": "white",
   "created_at": "2023-01-09T12:47:18+00:00",
   "updated_at": "2025-09-25T22:17:55+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -52,7 +52,7 @@
     },
     {
       "id": 2299,
-      "name": "GIFTanimation"
+      "name": "Gift-o’-Animation"
     },
     {
       "id": 2300,

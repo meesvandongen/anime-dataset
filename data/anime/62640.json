@@ -1,0 +1,44 @@
+{
+  "id": 62640,
+  "title": "Jantama x Gintama Collab Kettei Promotion Anime",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1045/152401.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1045/152401l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mahjong Soul x Gintama Collab",
+    "ja": "雀魂×銀魂コラボ決定プロモーションアニメ"
+  },
+  "start_date": "2025-10-03",
+  "end_date": "2025-10-03",
+  "synopsis": "An animated PV to commemorate the collaboration between Mahjong Soul and the TV anime Gintama.",
+  "popularity": 25194,
+  "num_list_users": 117,
+  "num_scoring_users": 60,
+  "nsfw": "white",
+  "created_at": "2025-10-03T16:40:43+00:00",
+  "updated_at": "2025-10-05T19:46:49+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 720,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
+}

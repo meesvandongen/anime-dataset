@@ -1,0 +1,39 @@
+{
+  "id": 58539,
+  "title": "Kyunkyun Miko Kyunkyun♡",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1405/142305.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1405/142305l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "きゅんきゅんみこきゅんきゅん♡"
+  },
+  "start_date": "2024-03-05",
+  "end_date": "2024-03-05",
+  "synopsis": "Music video for the song Kyun Kyun Miko Kyun Kyun♡ by Sakura Miko.",
+  "popularity": 29008,
+  "num_list_users": 33,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2024-03-27T16:56:58+00:00",
+  "updated_at": "2025-10-03T08:03:57+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 224,
+  "rating": "pg_13",
+  "studios": []
+}

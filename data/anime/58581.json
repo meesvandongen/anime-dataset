@@ -1,0 +1,55 @@
+{
+  "id": 58581,
+  "title": "Fanblue Grantasy Rises: Versing Final Trailer",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1416/142402.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1416/142402l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Fanblue Grantasy Rises: Versing Final Trailer",
+    "ja": "『グラブルバーサス 雷・神・具』ファイナルトレーラー"
+  },
+  "start_date": "2024-04-01",
+  "end_date": "2024-04-01",
+  "synopsis": "A 2024 April Fools' Day commercial for Granblue Fantasy Versus: Rising.",
+  "popularity": 29038,
+  "num_list_users": 26,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2024-03-31T15:58:44+00:00",
+  "updated_at": "2025-09-30T16:03:26+00:00",
+  "media_type": "cm",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 112,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -12,10 +12,10 @@
   },
   "start_date": "2025-04-03",
   "synopsis": "Short anime spinoff about the mascots of the franchise.",
-  "rank": 21665,
-  "popularity": 15005,
-  "num_list_users": 941,
-  "num_scoring_users": 98,
+  "rank": 21747,
+  "popularity": 14977,
+  "num_list_users": 950,
+  "num_scoring_users": 105,
   "nsfw": "white",
   "created_at": "2025-03-20T21:01:11+00:00",
   "updated_at": "2025-03-22T23:59:46+00:00",
@@ -43,5 +43,10 @@
   "source": "original",
   "average_episode_duration": 94,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3209,
+      "name": "IKIF+"
+    }
+  ]
 }

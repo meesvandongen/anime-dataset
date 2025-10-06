@@ -1,0 +1,47 @@
+{
+  "id": 58430,
+  "title": "Granblue Fantasy 10th Anniversary Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1141/142889.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1141/142889l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "グランブルーファンタジー 10th Anniversary Movie"
+  },
+  "start_date": "2024-03-10",
+  "end_date": "2024-03-10",
+  "synopsis": "A promotional movie uploaded to the Granblue Fantasy YouTube channel to celebrate 10 years of Granblue Fantasy mobile game.",
+  "popularity": 29050,
+  "num_list_users": 24,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2024-03-14T06:13:57+00:00",
+  "updated_at": "2025-09-30T13:02:07+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 122,
+  "rating": "pg_13",
+  "studios": []
+}

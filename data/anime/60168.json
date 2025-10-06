@@ -2,8 +2,8 @@
   "id": 60168,
   "title": "Watashi wo Tabetai, Hitodenashi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1113/151406.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1113/151406l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1191/152368.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1191/152368l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,16 @@
   },
   "start_date": "2025-10-02",
   "synopsis": "\"I've come to eat you,\" so softly utters the mermaid Shiori as she emerges from the sea and takes high school girl Hinako by the hand. Hinako lives alone in a town by the sea and possesses an unusually delicious body that is irresistible to nearby monsters. To ensure that she matures to the best condition, Shiori seeks to protect Hinako—all so that someday, she can devour every piece of her. What will become of Hinako's feelings as this looming unjust death closes in on her...?\n\n(Source: Yen Press)",
-  "popularity": 4524,
-  "num_list_users": 29426,
-  "num_scoring_users": 55,
+  "mean": 7.5,
+  "rank": 2029,
+  "popularity": 3956,
+  "num_list_users": 39263,
+  "num_scoring_users": 2445,
   "nsfw": "gray",
   "created_at": "2024-10-21T11:10:25+00:00",
-  "updated_at": "2025-09-28T21:07:05+00:00",
+  "updated_at": "2025-10-02T16:23:19+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -51,7 +53,8 @@
     "start_time": "22:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1415,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1813,

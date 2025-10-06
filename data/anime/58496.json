@@ -1,0 +1,41 @@
+{
+  "id": 58496,
+  "title": "Unmei no Makimodoshi: Chou High Quality Anime PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1644/152325.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1644/152325l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Unmei no Makimodoshi: All Great Achievements Require Time PV"
+    ],
+    "en": "",
+    "ja": "『運命の巻戻士』超ハイクオリティアニメPV"
+  },
+  "start_date": "2022-11-12",
+  "end_date": "2022-11-12",
+  "synopsis": "Short preview to promote the Unmei no Makimodoshi manga.",
+  "popularity": 29041,
+  "num_list_users": 26,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2024-03-21T20:24:59+00:00",
+  "updated_at": "2025-09-30T15:04:52+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 45,
+  "rating": "pg_13",
+  "studios": []
+}

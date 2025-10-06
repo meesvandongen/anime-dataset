@@ -12,14 +12,16 @@
   },
   "start_date": "2025-10-03",
   "synopsis": "Like any proper noble lady, one must have certain acquired tastes. For Melphiera Marchalrayd, she just happens to crave a rather exotic protein—monsters! But do not judge! Despite its bad reputation, monster meat can be used in exquisite cuisine and Melphiera is determined to change the kingdom's opinion of it! Unfortunately, since debuting in society, Melphiera has been struggling to find her perfect match...until she meets the fearless \"Blood-Mad Duke\" of Galbraith!\n\n(Source: Kodansha USA)",
-  "popularity": 5661,
-  "num_list_users": 16987,
-  "num_scoring_users": 2,
+  "mean": 7.3,
+  "rank": 2908,
+  "popularity": 4803,
+  "num_list_users": 25778,
+  "num_scoring_users": 1918,
   "nsfw": "white",
   "created_at": "2024-10-20T15:53:41+00:00",
-  "updated_at": "2025-09-26T10:12:28+00:00",
+  "updated_at": "2025-10-02T17:15:26+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 10,
@@ -34,7 +36,7 @@
       "name": "Romance"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2025,
     "season": "fall"
@@ -44,7 +46,8 @@
     "start_time": "01:28"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1455,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 406,
