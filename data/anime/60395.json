@@ -2,22 +2,22 @@
   "id": 60395,
   "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1754/146673.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1754/146673l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1033/152494.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1033/152494l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "The Invisible Man and His Soon-to-Be Wife",
     "ja": "透明男と人間女～そのうち夫婦になるふたり～"
   },
-  "start_date": "2026-01",
+  "start_date": "2026-01-08",
   "synopsis": "Yakou, a gentle human woman, works at a detective agency. Tounome is a smart and gentle invisible man. The invisible man's ability is perfect for detective work. However, the blind Yakou can still figure out where Tounome is, even if he disappears. Before they know it, the two become attracted to each other...?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 7881,
-  "num_list_users": 7487,
-  "num_scoring_users": 0,
+  "popularity": 7708,
+  "num_list_users": 7940,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2024-11-27T10:11:07+00:00",
-  "updated_at": "2025-09-10T10:03:03+00:00",
+  "updated_at": "2025-10-10T11:34:18+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -46,6 +46,10 @@
   "start_season": {
     "year": 2026,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "23:30"
   },
   "source": "web_manga",
   "average_episode_duration": 0,

@@ -2,8 +2,8 @@
   "id": 60554,
   "title": "Bao Ke Meng Donghua Tujian: Qian Ling Bai Li",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1641/147022.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1641/147022l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1641/147022.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1641/147022l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,10 +17,10 @@
   "end_date": "2024-12-16",
   "synopsis": "Second season of Bao Ke Meng Donghua Tujian.",
   "mean": 6.07,
-  "rank": 9836,
-  "popularity": 19614,
-  "num_list_users": 360,
-  "num_scoring_users": 131,
+  "rank": 9852,
+  "popularity": 19556,
+  "num_list_users": 364,
+  "num_scoring_users": 132,
   "nsfw": "white",
   "created_at": "2024-12-20T18:06:21+00:00",
   "updated_at": "2025-09-01T08:35:57+00:00",
@@ -44,5 +44,10 @@
   "source": "game",
   "average_episode_duration": 90,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3213,
+      "name": "Shanghai Zhijian Network"
+    }
+  ]
 }

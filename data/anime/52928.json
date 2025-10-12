@@ -14,7 +14,7 @@
   "end_date": "2022-08-22",
   "synopsis": "The Animator Supporters non-profit organization has produced a crowdfunded music video, which aims to set a new standard for industry conditions by transparently paying its animation talent higher than average wages.\n\n(Source: ANN)",
   "mean": 6.31,
-  "popularity": 18822,
+  "popularity": 18844,
   "num_list_users": 419,
   "num_scoring_users": 222,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 295,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3214,
+      "name": "Studio BETTA"
+    }
+  ]
 }

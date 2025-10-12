@@ -15,10 +15,10 @@
   "start_date": "2025-04-22",
   "end_date": "2025-04-22",
   "synopsis": "Our planet is vast and colorful, and the world of Pokémon is equally vivid and magnificent.\n\nWill the flame on the little Chimchar ever go out? Will Castform shape and type change with the weather? Can the Tepig's snout breathe fire?\n\nTrainers, you are invited to come and discover the ecology here!\n\n(Source: Bilibili, translated)",
-  "rank": 17547,
-  "popularity": 22321,
-  "num_list_users": 207,
-  "num_scoring_users": 69,
+  "rank": 20074,
+  "popularity": 22003,
+  "num_list_users": 224,
+  "num_scoring_users": 78,
   "nsfw": "white",
   "created_at": "2025-07-02T10:44:09+00:00",
   "updated_at": "2025-07-05T05:18:44+00:00",
@@ -46,5 +46,10 @@
   "source": "game",
   "average_episode_duration": 540,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2701,
+      "name": "CMC Media"
+    }
+  ]
 }

@@ -6,16 +6,22 @@
     "large": "https://cdn.myanimelist.net/images/anime/1124/152132l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "The Supreme Dantian",
+      "Reborn With The Supreme Dantian",
+      "Reborn to be a Supreme Emperor",
+      "Starting with the Supreme Dantian",
+      "Sign-in at the Start: Supreme Dantian"
+    ],
     "en": "",
     "ja": "启运丹田：开局签到至尊丹田"
   },
   "start_date": "2025-10-04",
   "synopsis": "Qin Shu, son of the Divine King, was born with a mortal body and destiny. He was spurned by the celestial realm and threatened with being stripped of his status as a Divine Son and banished to the mortal realm. Until he met the protagonist and became one with her, unlocking the Myriad Realms sign-in system and opening his perpetual elixir field at Chaos Heaven's Absolute Cloud Peak. He then rose from the lowest echelons of the Shinto realm, battling Asuras, ghosts, and the Martial Emperor. Single-handedly, he slew all the gods and Buddhas, ascending to the summit of the Nine-Nine Eighty-One Heavens. Even the gods could not stand in his way, and with his mortal body, he ascended to the pinnacle of Shinto. Finally, he emerged victorious from the life-and-death duels among the Sons of God, single-handedly confronting the nine sons of the Emperors, foiling Hunyuan Tianzun's terrifying plot to seize the Shinto realm and becoming the new Great Emperor.\n\n(Source: Iqiyi, Google translated)",
-  "rank": 22036,
-  "popularity": 25115,
-  "num_list_users": 120,
-  "num_scoring_users": 5,
+  "rank": 19623,
+  "popularity": 23000,
+  "num_list_users": 179,
+  "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": "2025-09-19T16:28:10+00:00",
   "updated_at": "2025-10-04T07:38:38+00:00",
@@ -44,6 +50,7 @@
     "year": 2025,
     "season": "fall"
   },
+  "source": "web_manga",
   "average_episode_duration": 0,
   "rating": "pg_13",
   "studios": []

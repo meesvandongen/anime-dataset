@@ -15,9 +15,9 @@
   "start_date": "2020-07-30",
   "end_date": "2020-07-30",
   "synopsis": "A trailer for an unreleased film, intended to be a sequel to The King of Fighters: Destiny. Announced in 2020 with a 2022 release date, but with no further news since then, only the trailer is available.",
-  "popularity": 29057,
-  "num_list_users": 22,
-  "num_scoring_users": 8,
+  "popularity": 29067,
+  "num_list_users": 28,
+  "num_scoring_users": 10,
   "nsfw": "white",
   "created_at": "2024-02-06T18:47:06+00:00",
   "updated_at": "2025-09-30T11:52:03+00:00",
@@ -45,5 +45,10 @@
   "source": "game",
   "average_episode_duration": 172,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1767,
+      "name": "iDRAGONS Creative Studio"
+    }
+  ]
 }

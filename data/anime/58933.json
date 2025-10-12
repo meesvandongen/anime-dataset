@@ -13,23 +13,23 @@
   "start_date": "2024-02-26",
   "end_date": "2024-05-21",
   "synopsis": "Second season of Dinoster: Gonglyongsuhodae.",
-  "rank": 18379,
+  "rank": 20907,
   "popularity": 21978,
-  "num_list_users": 224,
+  "num_list_users": 225,
   "num_scoring_users": 22,
   "nsfw": "white",
   "created_at": "2024-05-26T09:02:34+00:00",
-  "updated_at": "2024-05-27T05:55:04+00:00",
+  "updated_at": "2025-10-11T09:05:38+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 1,
-      "name": "Action"
-    },
-    {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
     },
     {
       "id": 18,
@@ -47,7 +47,7 @@
   },
   "source": "original",
   "average_episode_duration": 720,
-  "rating": "g",
+  "rating": "pg",
   "studios": [
     {
       "id": 3167,

@@ -11,16 +11,18 @@
     "ja": "ぷちきゅあ～Precure Fairies～"
   },
   "start_date": "2025-04-03",
+  "end_date": "2025-09-25",
   "synopsis": "Short anime spinoff about the mascots of the franchise.",
-  "rank": 21747,
-  "popularity": 14977,
-  "num_list_users": 950,
-  "num_scoring_users": 105,
+  "mean": 6.02,
+  "rank": 10141,
+  "popularity": 14953,
+  "num_list_users": 959,
+  "num_scoring_users": 143,
   "nsfw": "white",
   "created_at": "2025-03-20T21:01:11+00:00",
-  "updated_at": "2025-03-22T23:59:46+00:00",
+  "updated_at": "2025-10-11T00:48:54+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 66,
@@ -35,7 +37,7 @@
       "name": "Slice of Life"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 27,
   "start_season": {
     "year": 2025,
     "season": "spring"

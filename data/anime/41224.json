@@ -2,8 +2,8 @@
   "id": 41224,
   "title": "Bai Yao Pu",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1403/108297.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1403/108297l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1403/108297.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1403/108297l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,10 +17,10 @@
   "end_date": "2020-07-04",
   "synopsis": "There is a powerful spirit doctor, renown in the world of yaoguai (sentient spirits/demons/animals/forces of nature), who wears a silent bell, though few know what she looks like. She travels the world helping yaoguai who are suffering from various spiritual ailments, sometimes helping humans along the way. She is accompanied by a young monk and a serpent demon in the form of a man. We look into the stories of various yaoguai and the sources of their suffering.",
   "mean": 7.3,
-  "rank": 2912,
-  "popularity": 5505,
-  "num_list_users": 18378,
-  "num_scoring_users": 3025,
+  "rank": 2918,
+  "popularity": 5511,
+  "num_list_users": 18414,
+  "num_scoring_users": 3029,
   "nsfw": "white",
   "created_at": "2020-02-02T20:07:29+00:00",
   "updated_at": "2025-04-03T20:40:24+00:00",
@@ -56,6 +56,10 @@
     {
       "id": 1325,
       "name": "Haoliners Animation League"
+    },
+    {
+      "id": 2701,
+      "name": "CMC Media"
     }
   ]
 }
