@@ -2,8 +2,8 @@
   "id": 16564,
   "title": "84 Taekwon V",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1576/116113.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1576/116113l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1576/116113.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1576/116113l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,8 +14,8 @@
   "end_date": "1984-08-03",
   "synopsis": "The seventh movie in the popular Korean movie series Robot Taekwon V.",
   "mean": 4.9,
-  "rank": 13814,
-  "popularity": 15830,
+  "rank": 13827,
+  "popularity": 15839,
   "num_list_users": 751,
   "num_scoring_users": 221,
   "nsfw": "white",
@@ -42,6 +42,7 @@
     "year": 1984,
     "season": "summer"
   },
+  "source": "original",
   "average_episode_duration": 4687,
   "rating": "pg",
   "studios": []

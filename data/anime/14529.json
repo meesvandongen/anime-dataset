@@ -17,8 +17,8 @@
   "end_date": "1982-12-18",
   "synopsis": "A group of young space cadets use a technologically advanced mecha to combat an evil extraterrestrial race that is trying to take over the galaxy.\n\n(Source: Internet Movie Database)",
   "mean": 4.69,
-  "rank": 14036,
-  "popularity": 16119,
+  "rank": 14051,
+  "popularity": 16127,
   "num_list_users": 708,
   "num_scoring_users": 209,
   "nsfw": "white",
@@ -49,6 +49,7 @@
     "year": 1982,
     "season": "fall"
   },
+  "source": "original",
   "average_episode_duration": 4148,
   "rating": "pg",
   "studios": []
