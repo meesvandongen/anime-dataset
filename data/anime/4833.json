@@ -14,9 +14,9 @@
   "end_date": "2001-07-27",
   "synopsis": "Manami will prove that she is the best ESP fighter by using her sexual psychic abilities to satisfy and punish evil. While she herself has the best time of her life. ",
   "mean": 4.19,
-  "popularity": 12476,
-  "num_list_users": 1917,
-  "num_scoring_users": 669,
+  "popularity": 12482,
+  "num_list_users": 1918,
+  "num_scoring_users": 670,
   "nsfw": "gray",
   "created_at": "2008-07-01T19:08:54+00:00",
   "updated_at": "2021-12-02T22:00:00+00:00",
@@ -35,5 +35,10 @@
   },
   "average_episode_duration": 1320,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 571,
+      "name": "Obtain Future"
+    }
+  ]
 }

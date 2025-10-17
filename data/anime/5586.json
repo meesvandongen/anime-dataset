@@ -2,8 +2,8 @@
   "id": 5586,
   "title": "Aoi Yousei",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/5/11543.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/5/11543l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/5/11543.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/11543l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,7 +14,7 @@
   "end_date": "2001-12-21",
   "synopsis": "",
   "mean": 4.99,
-  "popularity": 13538,
+  "popularity": 13549,
   "num_list_users": 1391,
   "num_scoring_users": 367,
   "nsfw": "gray",
@@ -35,5 +35,10 @@
   },
   "average_episode_duration": 1380,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 571,
+      "name": "Obtain Future"
+    }
+  ]
 }

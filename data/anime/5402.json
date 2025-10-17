@@ -16,7 +16,7 @@
   "end_date": "2001-12-01",
   "synopsis": "Mahya, a new timer in the delivery maid service, is sent to Professor Takahata's residence from the company to do maid service. However, what she doesn't know is that she is going to be tricked and tormented by the male student, calling himself, \"Professor Takahata\"! (anidb) ",
   "mean": 4.52,
-  "popularity": 12984,
+  "popularity": 12995,
   "num_list_users": 1625,
   "num_scoring_users": 577,
   "nsfw": "gray",
@@ -37,5 +37,10 @@
   },
   "average_episode_duration": 1685,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 571,
+      "name": "Obtain Future"
+    }
+  ]
 }

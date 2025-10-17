@@ -14,7 +14,7 @@
   "end_date": "2001-12-21",
   "synopsis": "How the students and teachers become intimate and end up having physical relationships. ",
   "mean": 4.9,
-  "popularity": 11633,
+  "popularity": 11641,
   "num_list_users": 2453,
   "num_scoring_users": 562,
   "nsfw": "gray",
@@ -35,5 +35,10 @@
   },
   "average_episode_duration": 1253,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 571,
+      "name": "Obtain Future"
+    }
+  ]
 }
