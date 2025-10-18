@@ -2,8 +2,8 @@
   "id": 48569,
   "title": "86 Part 2",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1321/117508.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1321/117508l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1321/117508.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -16,18 +16,14 @@
   "mean": 8.72,
   "rank": 57,
   "popularity": 401,
-  "num_list_users": 604384,
-  "num_scoring_users": 350117,
+  "num_list_users": 605434,
+  "num_scoring_users": 350798,
   "nsfw": "white",
   "created_at": "2021-03-27T07:57:31+00:00",
-  "updated_at": "2023-12-28T08:55:42+00:00",
+  "updated_at": "2025-10-17T21:28:31+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 8,
       "name": "Drama"

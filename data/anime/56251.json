@@ -1,0 +1,44 @@
+{
+  "id": 56251,
+  "title": "Megumi no Hito (Houshou Marine Cover)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1744/152638.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1744/152638l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "め組のひと"
+  },
+  "start_date": "2023-08-11",
+  "end_date": "2023-08-11",
+  "synopsis": "Music video for Houshou Marine's cover of the song Megumi no Hito.",
+  "popularity": 29157,
+  "num_list_users": 18,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2023-08-11T16:54:07+00:00",
+  "updated_at": "2025-10-16T15:58:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "summer"
+  },
+  "source": "music",
+  "average_episode_duration": 207,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2824,
+      "name": "Production HASU"
+    }
+  ]
+}

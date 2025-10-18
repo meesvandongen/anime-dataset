@@ -2,8 +2,8 @@
   "id": 56301,
   "title": "Hello Carbot Kung Specials: Alkabosgwa Dongmul Chingudeul",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1490/137810.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1490/137810l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1490/137810.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1490/137810l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,20 +13,16 @@
   "start_date": "2019-02-24",
   "end_date": "2019-03-31",
   "synopsis": "",
-  "rank": 21759,
-  "popularity": 24984,
-  "num_list_users": 122,
+  "rank": 21815,
+  "popularity": 25008,
+  "num_list_users": 123,
   "num_scoring_users": 19,
   "nsfw": "white",
   "created_at": "2023-08-15T10:57:12+00:00",
-  "updated_at": "2023-08-16T13:43:52+00:00",
+  "updated_at": "2025-10-17T20:57:46+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"
@@ -34,10 +30,6 @@
     {
       "id": 18,
       "name": "Mecha"
-    },
-    {
-      "id": 3,
-      "name": "Racing"
     }
   ],
   "num_episodes": 6,

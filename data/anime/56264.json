@@ -2,8 +2,8 @@
   "id": 56264,
   "title": "Chuldong! Super Wings 5",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1833/137795.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1833/137795l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1833/137795.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1833/137795l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,13 +13,13 @@
   "start_date": "2021-03-29",
   "end_date": "2021-08-04",
   "synopsis": "",
-  "rank": 20621,
-  "popularity": 23638,
-  "num_list_users": 155,
-  "num_scoring_users": 36,
+  "rank": 20673,
+  "popularity": 23612,
+  "num_list_users": 157,
+  "num_scoring_users": 37,
   "nsfw": "white",
   "created_at": "2023-08-13T08:56:22+00:00",
-  "updated_at": "2023-08-15T07:22:29+00:00",
+  "updated_at": "2025-10-17T20:57:56+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -30,10 +30,6 @@
     {
       "id": 15,
       "name": "Kids"
-    },
-    {
-      "id": 3,
-      "name": "Racing"
     }
   ],
   "num_episodes": 40,

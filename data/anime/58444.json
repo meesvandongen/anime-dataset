@@ -1,0 +1,48 @@
+{
+  "id": 58444,
+  "title": "Opanchu Usagi Song",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1684/152677.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1684/152677l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Panties Rabbit Song",
+    "ja": "おぱんちゅうさぎソング"
+  },
+  "start_date": "2022-08-23",
+  "end_date": "2022-08-23",
+  "synopsis": "This was played at the Opanchu Usagi Cafe!!\n\n(Source: Kawisouni Official YouTube Channel)",
+  "rank": 19227,
+  "popularity": 29184,
+  "num_list_users": 7,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-03-14T23:25:51+00:00",
+  "updated_at": "2025-10-17T08:00:05+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 83,
+  "rating": "pg_13",
+  "studios": []
+}

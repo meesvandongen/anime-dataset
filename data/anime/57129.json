@@ -2,8 +2,8 @@
   "id": 57129,
   "title": "Miniforce Animaltron",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1275/139591.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1275/139591l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1275/139591.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1275/139591l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,20 +13,16 @@
   "start_date": "2021-09-03",
   "end_date": "2022-02-25",
   "synopsis": "",
-  "rank": 18589,
-  "popularity": 24091,
-  "num_list_users": 142,
+  "rank": 18634,
+  "popularity": 24099,
+  "num_list_users": 143,
   "num_scoring_users": 25,
   "nsfw": "white",
   "created_at": "2023-11-10T14:50:16+00:00",
-  "updated_at": "2023-11-11T10:17:20+00:00",
+  "updated_at": "2025-10-17T21:53:38+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 51,
       "name": "Anthropomorphic"

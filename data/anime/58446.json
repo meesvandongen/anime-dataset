@@ -1,0 +1,44 @@
+{
+  "id": 58446,
+  "title": "2023 Paper Fortune Report",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1612/152672.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1612/152672l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "2023 Paper-fortune Report"
+  },
+  "start_date": "2023-01-10",
+  "end_date": "2023-01-10",
+  "synopsis": "",
+  "rank": 19730,
+  "popularity": 29188,
+  "num_list_users": 6,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-03-15T04:38:10+00:00",
+  "updated_at": "2025-10-17T07:44:02+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 64,
+  "rating": "pg_13",
+  "studios": []
+}

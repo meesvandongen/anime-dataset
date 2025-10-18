@@ -1,0 +1,51 @@
+{
+  "id": 61192,
+  "title": "All You Need Is Kill",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1834/152566.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1834/152566l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ALL YOU NEED IS KILL"
+  },
+  "start_date": "2026-01-09",
+  "end_date": "2026-01-09",
+  "synopsis": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. \"I've been repeating this day too,\" he says. Two lost souls, trapped in an endless war. Could their meeting change fate?\n\n(Source: Warner Bros. Japan)",
+  "popularity": 8315,
+  "num_list_users": 6587,
+  "num_scoring_users": 59,
+  "nsfw": "white",
+  "created_at": "2025-03-13T03:06:29+00:00",
+  "updated_at": "2025-10-14T23:48:31+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 4920,
+  "studios": [
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    }
+  ]
+}

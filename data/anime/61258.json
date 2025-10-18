@@ -12,20 +12,16 @@
   },
   "start_date": "2025-03-26",
   "synopsis": "",
-  "rank": 15727,
-  "popularity": 21908,
-  "num_list_users": 228,
+  "rank": 15754,
+  "popularity": 21910,
+  "num_list_users": 229,
   "num_scoring_users": 31,
   "nsfw": "white",
   "created_at": "2025-03-18T10:39:23+00:00",
-  "updated_at": "2025-03-18T13:32:14+00:00",
+  "updated_at": "2025-10-17T22:04:19+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 18,
       "name": "Mecha"

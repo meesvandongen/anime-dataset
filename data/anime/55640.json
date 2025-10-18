@@ -16,20 +16,16 @@
   "end_date": "2023-07-03",
   "synopsis": "",
   "mean": 6.09,
-  "rank": 9757,
-  "popularity": 10244,
-  "num_list_users": 3655,
-  "num_scoring_users": 406,
+  "rank": 9736,
+  "popularity": 10250,
+  "num_list_users": 3665,
+  "num_scoring_users": 409,
   "nsfw": "gray",
   "created_at": "2023-06-13T14:03:39+00:00",
-  "updated_at": "2025-06-27T07:27:21+00:00",
+  "updated_at": "2025-10-17T22:20:05+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 26,
       "name": "Girls Love"

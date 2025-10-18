@@ -12,20 +12,16 @@
   },
   "start_date": "2023-10-13",
   "synopsis": "",
-  "rank": 20188,
-  "popularity": 28505,
-  "num_list_users": 75,
+  "rank": 20220,
+  "popularity": 28516,
+  "num_list_users": 76,
   "num_scoring_users": 6,
   "nsfw": "white",
   "created_at": "2025-02-03T12:27:26+00:00",
-  "updated_at": "2025-02-05T12:04:11+00:00",
+  "updated_at": "2025-10-17T22:18:39+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 2,
       "name": "Adventure"

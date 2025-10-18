@@ -2,8 +2,8 @@
   "id": 38631,
   "title": "Kkoma Bus Tayo 5",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1174/96018.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1174/96018l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1174/96018.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1174/96018l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,23 +14,19 @@
   "end_date": "2019-02-20",
   "synopsis": "The fifth season of Kkoma Bus Tayo.",
   "mean": 5.86,
-  "rank": 10994,
-  "popularity": 19144,
-  "num_list_users": 395,
+  "rank": 10975,
+  "popularity": 19155,
+  "num_list_users": 396,
   "num_scoring_users": 135,
   "nsfw": "white",
   "created_at": "2018-11-03T06:10:11+00:00",
-  "updated_at": "2023-01-05T19:08:08+00:00",
+  "updated_at": "2025-10-17T21:09:20+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 15,
       "name": "Kids"
-    },
-    {
-      "id": 3,
-      "name": "Racing"
     }
   ],
   "num_episodes": 26,

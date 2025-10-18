@@ -1,0 +1,40 @@
+{
+  "id": 62777,
+  "title": "Rakugaki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1025/152637.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1025/152637l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Graffiti",
+    "ja": "落書"
+  },
+  "start_date": "2025-06-10",
+  "end_date": "2025-06-10",
+  "synopsis": "The moment the first gleam of sunlight trickled in gently stirring the folds of a shallow sleep—that was when the graffiti appeared...\n\n(Source: Official Site)",
+  "rank": 19690,
+  "popularity": 29179,
+  "num_list_users": 16,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-10-16T05:21:34+00:00",
+  "updated_at": "2025-10-16T05:21:34+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 753,
+  "rating": "pg_13",
+  "studios": []
+}

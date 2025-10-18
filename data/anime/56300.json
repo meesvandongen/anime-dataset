@@ -13,20 +13,16 @@
   "start_date": "2018-08-03",
   "end_date": "2019-01-25",
   "synopsis": "",
-  "rank": 21758,
-  "popularity": 24456,
-  "num_list_users": 133,
+  "rank": 21814,
+  "popularity": 24462,
+  "num_list_users": 134,
   "num_scoring_users": 22,
   "nsfw": "white",
   "created_at": "2023-08-15T10:52:25+00:00",
-  "updated_at": "2023-08-16T13:43:45+00:00",
+  "updated_at": "2025-10-17T20:57:08+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"
@@ -34,10 +30,6 @@
     {
       "id": 18,
       "name": "Mecha"
-    },
-    {
-      "id": 3,
-      "name": "Racing"
     }
   ],
   "num_episodes": 26,

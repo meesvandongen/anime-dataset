@@ -13,20 +13,16 @@
   "start_date": "2024-07-31",
   "end_date": "2024-07-31",
   "synopsis": "",
-  "rank": 21757,
-  "popularity": 26283,
-  "num_list_users": 100,
+  "rank": 21813,
+  "popularity": 26300,
+  "num_list_users": 101,
   "num_scoring_users": 7,
   "nsfw": "white",
   "created_at": "2024-09-18T18:27:03+00:00",
-  "updated_at": "2024-09-20T12:13:12+00:00",
+  "updated_at": "2025-10-17T21:43:17+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"

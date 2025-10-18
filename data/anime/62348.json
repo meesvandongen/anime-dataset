@@ -13,19 +13,15 @@
   "start_date": "2025-08-22",
   "end_date": "2025-08-22",
   "synopsis": "Special PV to promote the new Shinkalion L0.",
-  "popularity": 28798,
-  "num_list_users": 63,
+  "popularity": 28833,
+  "num_list_users": 64,
   "num_scoring_users": 19,
   "nsfw": "white",
   "created_at": "2025-08-26T14:19:03+00:00",
-  "updated_at": "2025-08-27T05:53:48+00:00",
+  "updated_at": "2025-10-17T22:55:11+00:00",
   "media_type": "pv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"

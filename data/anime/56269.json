@@ -13,20 +13,16 @@
   "start_date": "2018-09-08",
   "end_date": "2019-03-02",
   "synopsis": "",
-  "rank": 16810,
-  "popularity": 21963,
-  "num_list_users": 226,
+  "rank": 16838,
+  "popularity": 21982,
+  "num_list_users": 227,
   "num_scoring_users": 48,
   "nsfw": "white",
   "created_at": "2023-08-13T10:03:06+00:00",
-  "updated_at": "2023-08-13T14:41:03+00:00",
+  "updated_at": "2025-10-17T22:50:23+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"

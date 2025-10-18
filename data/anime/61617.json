@@ -13,9 +13,9 @@
   "start_date": "2025-08-02",
   "end_date": "2025-08-02",
   "synopsis": "",
-  "rank": 18048,
-  "popularity": 17890,
-  "num_list_users": 493,
+  "rank": 18093,
+  "popularity": 17857,
+  "num_list_users": 497,
   "num_scoring_users": 17,
   "nsfw": "white",
   "created_at": "2025-05-01T09:07:36+00:00",
@@ -40,6 +40,10 @@
     {
       "id": 471,
       "name": "Shanghai Animation Film Studio"
+    },
+    {
+      "id": 2076,
+      "name": "Fenz"
     }
   ]
 }

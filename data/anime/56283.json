@@ -2,8 +2,8 @@
   "id": 56283,
   "title": "Hello Carbot Season 5",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1423/137774.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1423/137774l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1423/137774.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1423/137774l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,20 +13,16 @@
   "start_date": "2017-02-18",
   "end_date": "2018-03-31",
   "synopsis": "",
-  "rank": 21771,
-  "popularity": 23965,
-  "num_list_users": 146,
+  "rank": 21827,
+  "popularity": 23919,
+  "num_list_users": 148,
   "num_scoring_users": 24,
   "nsfw": "white",
   "created_at": "2023-08-13T11:51:06+00:00",
-  "updated_at": "2023-08-13T15:57:11+00:00",
+  "updated_at": "2025-10-17T20:58:11+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"
@@ -34,10 +30,6 @@
     {
       "id": 18,
       "name": "Mecha"
-    },
-    {
-      "id": 3,
-      "name": "Racing"
     }
   ],
   "num_episodes": 52,

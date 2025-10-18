@@ -2,8 +2,8 @@
   "id": 56270,
   "title": "Yogoe Mecard Wangma",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1372/137761.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1372/137761l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1372/137761.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1372/137761l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,20 +13,16 @@
   "start_date": "2019-08-26",
   "end_date": "2019-10-21",
   "synopsis": "",
-  "rank": 16812,
-  "popularity": 22371,
-  "num_list_users": 205,
+  "rank": 16840,
+  "popularity": 22392,
+  "num_list_users": 206,
   "num_scoring_users": 38,
   "nsfw": "white",
   "created_at": "2023-08-13T10:14:23+00:00",
-  "updated_at": "2023-10-24T18:51:36+00:00",
+  "updated_at": "2025-10-17T22:50:33+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"

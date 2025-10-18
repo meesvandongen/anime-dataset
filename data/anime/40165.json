@@ -2,8 +2,8 @@
   "id": 40165,
   "title": "Listeners",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1589/106391l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1589/106391.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1589/106391l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -15,19 +15,15 @@
   "synopsis": "Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.\n\n(Source: MAL News)",
   "mean": 5.4,
   "rank": 12895,
-  "popularity": 2957,
-  "num_list_users": 66708,
-  "num_scoring_users": 22650,
+  "popularity": 2961,
+  "num_list_users": 66725,
+  "num_scoring_users": 22656,
   "nsfw": "white",
   "created_at": "2019-07-26T15:28:52+00:00",
-  "updated_at": "2024-03-06T11:55:42+00:00",
+  "updated_at": "2025-10-17T22:57:25+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 18,
       "name": "Mecha"

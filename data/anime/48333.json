@@ -2,8 +2,8 @@
   "id": 48333,
   "title": "Steel Fire Brigade Fire Robo",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1018/114496.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1018/114496l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1018/114496.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1018/114496l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "start_date": "2016-08-29",
   "end_date": "2017-02-20",
   "synopsis": "",
-  "rank": 15326,
-  "popularity": 22780,
+  "rank": 15327,
+  "popularity": 22791,
   "num_list_users": 187,
   "num_scoring_users": 37,
   "nsfw": "white",
   "created_at": "2021-02-23T15:06:30+00:00",
-  "updated_at": "2022-10-15T16:07:12+00:00",
+  "updated_at": "2025-10-17T22:02:12+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"

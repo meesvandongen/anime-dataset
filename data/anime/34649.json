@@ -16,20 +16,16 @@
   "end_date": "2019-05-17",
   "synopsis": "",
   "mean": 7.24,
-  "rank": 3279,
-  "popularity": 7578,
-  "num_list_users": 8293,
+  "rank": 3261,
+  "popularity": 7588,
+  "num_list_users": 8292,
   "num_scoring_users": 1437,
   "nsfw": "white",
   "created_at": "2016-12-29T17:25:56+00:00",
-  "updated_at": "2022-02-23T01:52:17+00:00",
+  "updated_at": "2025-10-17T22:00:55+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 8,
       "name": "Drama"
