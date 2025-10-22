@@ -13,20 +13,16 @@
   "start_date": "1982-12",
   "end_date": "1982-12",
   "synopsis": "",
-  "rank": 15189,
-  "popularity": 17586,
+  "rank": 15209,
+  "popularity": 17605,
   "num_list_users": 522,
   "num_scoring_users": 109,
   "nsfw": "white",
   "created_at": "2012-12-23T18:23:55+00:00",
-  "updated_at": "2022-10-23T14:37:14+00:00",
+  "updated_at": "2025-10-17T21:59:14+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 18,
       "name": "Mecha"

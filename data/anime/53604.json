@@ -17,9 +17,9 @@
   "start_date": "1983-12-28",
   "end_date": "1983-12-28",
   "synopsis": "Recap TV special of Uchuu Senkan Yamato III.",
-  "rank": 15858,
-  "popularity": 19849,
-  "num_list_users": 348,
+  "rank": 15882,
+  "popularity": 19822,
+  "num_list_users": 351,
   "num_scoring_users": 55,
   "nsfw": "white",
   "created_at": "2022-11-13T14:18:50+00:00",
@@ -60,5 +60,10 @@
   "source": "original",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 589,
+      "name": "Academy Productions"
+    }
+  ]
 }

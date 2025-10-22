@@ -2,8 +2,8 @@
   "id": 9098,
   "title": "Kidou Senshi SD Gundam Matsuri",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1122/142332.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1122/142332l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1122/142332.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1122/142332l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,20 +14,16 @@
   "end_date": "1993-03-13",
   "synopsis": "The movie is divided into 3 different parts:\n1) The Tale of the SD Warring States: World Peace Chapter\n2) SD Gundam Sidestory: The Legend of the Holy Machine Soldiers\n3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza",
   "mean": 5.85,
-  "rank": 11065,
-  "popularity": 11503,
-  "num_list_users": 2550,
+  "rank": 11048,
+  "popularity": 11509,
+  "num_list_users": 2548,
   "num_scoring_users": 617,
   "nsfw": "white",
   "created_at": "2010-06-30T21:29:20+00:00",
-  "updated_at": "2022-11-07T23:47:54+00:00",
+  "updated_at": "2025-10-17T22:28:30+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 4,
       "name": "Comedy"

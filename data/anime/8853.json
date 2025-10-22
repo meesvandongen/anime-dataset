@@ -2,8 +2,8 @@
   "id": 8853,
   "title": "Chouriki Robo Galatt",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/62965.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/13/62965l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/62965.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/13/62965l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "end_date": "1985-04-05",
   "synopsis": "In a peaceful, disarmed world where small robots are utilized as housekeepers, villains act with huge robots instead of weapons. Dr. Keewee converts Michael’s robot into a transformable one in order to teach them a lesson. This is the birth of Galatt, the town hero.\n\n(Source: ANN)",
   "mean": 6.13,
-  "rank": 9517,
-  "popularity": 13221,
-  "num_list_users": 1518,
-  "num_scoring_users": 507,
+  "rank": 9561,
+  "popularity": 13227,
+  "num_list_users": 1521,
+  "num_scoring_users": 508,
   "nsfw": "white",
   "created_at": "2010-05-21T11:49:38+00:00",
-  "updated_at": "2024-07-20T00:50:53+00:00",
+  "updated_at": "2025-10-17T21:35:44+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 2,
       "name": "Adventure"

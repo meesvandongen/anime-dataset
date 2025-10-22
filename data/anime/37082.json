@@ -18,9 +18,9 @@
   "end_date": "1990-07-27",
   "synopsis": "The pilot film to Uchuu Senkan Yamato. It was created in August 1974 for Yomiuri Television executives but released to the public 16 years later on the Uchuu Senkan Yamato LD Box Set. The pilot was included on later releases for DVD/BD but they lack certain sounds/audio due to a copyright issue that came about in the time between the LD and DVD/BD releases.",
   "mean": 5.72,
-  "rank": 11699,
-  "popularity": 13240,
-  "num_list_users": 1512,
+  "rank": 11689,
+  "popularity": 13243,
+  "num_list_users": 1515,
   "num_scoring_users": 438,
   "nsfw": "white",
   "created_at": "2018-01-09T02:48:55+00:00",
@@ -53,5 +53,10 @@
   "source": "original",
   "average_episode_duration": 596,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3223,
+      "name": "Office Academy"
+    }
+  ]
 }

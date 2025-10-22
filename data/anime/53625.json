@@ -16,9 +16,9 @@
   "start_date": "1979-10-06",
   "end_date": "1979-10-06",
   "synopsis": "Recap TV special of Uchuu Senkan Yamato 2.",
-  "rank": 15857,
-  "popularity": 19706,
-  "num_list_users": 357,
+  "rank": 15881,
+  "popularity": 19626,
+  "num_list_users": 362,
   "num_scoring_users": 62,
   "nsfw": "white",
   "created_at": "2022-11-16T16:05:01+00:00",
@@ -59,5 +59,10 @@
   "source": "original",
   "average_episode_duration": 5794,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 589,
+      "name": "Academy Productions"
+    }
+  ]
 }
