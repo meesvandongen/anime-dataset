@@ -2,8 +2,8 @@
   "id": 4540,
   "title": "Gundam: Mission to the Rise",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/8685.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/8685l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/8685.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/8685l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "end_date": "1998-08-01",
   "synopsis": "In the late Universal Century, the Earth Federation enacts an attempt to propel a craft at faster-than-light speeds. Zeon forces attack the launch facility in space and destroy it, but not before the craft can be successfully deployed. ",
   "mean": 5.48,
-  "rank": 12643,
-  "popularity": 8623,
-  "num_list_users": 6016,
-  "num_scoring_users": 2204,
+  "rank": 12633,
+  "popularity": 8632,
+  "num_list_users": 6019,
+  "num_scoring_users": 2205,
   "nsfw": "white",
   "created_at": "2008-05-20T17:39:55+00:00",
-  "updated_at": "2025-01-03T20:35:26+00:00",
+  "updated_at": "2025-10-17T21:42:12+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 18,
       "name": "Mecha"

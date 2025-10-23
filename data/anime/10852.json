@@ -13,21 +13,17 @@
   "start_date": "1997-06-06",
   "end_date": "1997-06-06",
   "synopsis": "Game Tengoku OVA which came with the limited edition version of the Sega Saturn video game.",
-  "mean": 5.56,
-  "rank": 12358,
-  "popularity": 14514,
-  "num_list_users": 1083,
-  "num_scoring_users": 505,
+  "mean": 5.54,
+  "rank": 12433,
+  "popularity": 14521,
+  "num_list_users": 1085,
+  "num_scoring_users": 506,
   "nsfw": "white",
   "created_at": "2011-06-22T14:30:08+00:00",
-  "updated_at": "2021-02-01T00:19:33+00:00",
+  "updated_at": "2025-10-17T22:22:06+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 2,
       "name": "Adventure"

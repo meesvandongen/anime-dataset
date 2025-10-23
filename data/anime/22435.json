@@ -2,8 +2,8 @@
   "id": 22435,
   "title": "Shin Kidou Senki Gundam Wing: Frozen Teardrop Picture Drama - Aratanaru Tatakai",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/58637.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/58637l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/58637.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/58637l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,20 +17,16 @@
   "end_date": "2014-01-29",
   "synopsis": "Special included in the second of two remastered Gundam Wing Blu-ray boxes based on the novel series Gundam Wing Frozen Teardrop\n\n(Source: ANN)",
   "mean": 6.05,
-  "rank": 9962,
-  "popularity": 9741,
-  "num_list_users": 4305,
+  "rank": 9961,
+  "popularity": 9749,
+  "num_list_users": 4306,
   "num_scoring_users": 1492,
   "nsfw": "white",
   "created_at": "2014-02-02T16:46:56+00:00",
-  "updated_at": "2022-11-07T22:05:10+00:00",
+  "updated_at": "2025-10-17T22:54:27+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 18,
       "name": "Mecha"

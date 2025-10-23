@@ -2,8 +2,8 @@
   "id": 19193,
   "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/56607.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/9/56607l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/56607.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/9/56607l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "end_date": "2014-06-28",
   "synopsis": "Third movie of Ghost in the Shell: Arise.\n\nMotoko and Batou work to try to stop a terrorist organization whose symbol is the Scylla. Meanwhile, Togusa investigates a murder of a man who possessed a prosthetic leg manufactured by the Mermaid's Leg corporation.\n\n(Source: Wikipedia)",
   "mean": 7.33,
-  "rank": 2790,
-  "popularity": 3525,
-  "num_list_users": 48271,
-  "num_scoring_users": 21951,
+  "rank": 2766,
+  "popularity": 3528,
+  "num_list_users": 48290,
+  "num_scoring_users": 21959,
   "nsfw": "white",
   "created_at": "2013-06-23T09:28:47+00:00",
-  "updated_at": "2025-07-17T10:26:32+00:00",
+  "updated_at": "2025-10-17T21:49:14+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 50,
       "name": "Adult Cast"

@@ -15,21 +15,17 @@
   "start_date": "2011-01-08",
   "end_date": "2011-01-08",
   "synopsis": "Chirico visits an oasis town and meets Gotho and his friends for the first time in 32 years.",
-  "mean": 6.84,
-  "rank": 5331,
-  "popularity": 10074,
-  "num_list_users": 3903,
-  "num_scoring_users": 1761,
+  "mean": 6.85,
+  "rank": 5254,
+  "popularity": 10080,
+  "num_list_users": 3906,
+  "num_scoring_users": 1762,
   "nsfw": "white",
   "created_at": "2010-02-22T21:33:58+00:00",
-  "updated_at": "2021-10-20T11:12:06+00:00",
+  "updated_at": "2025-10-17T22:00:07+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 8,
       "name": "Drama"

@@ -13,20 +13,16 @@
   "start_date": "2015-03-02",
   "end_date": "2015-05-25",
   "synopsis": "",
-  "rank": 18627,
-  "popularity": 23527,
+  "rank": 18663,
+  "popularity": 23572,
   "num_list_users": 159,
   "num_scoring_users": 44,
   "nsfw": "white",
   "created_at": "2023-11-10T13:39:49+00:00",
-  "updated_at": "2023-11-11T10:06:03+00:00",
+  "updated_at": "2025-10-17T21:53:43+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 51,
       "name": "Anthropomorphic"

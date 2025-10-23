@@ -2,8 +2,8 @@
   "id": 19191,
   "title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/52135.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/8/52135l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/52135.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/8/52135l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "end_date": "2013-11-30",
   "synopsis": "Second movie of Ghost in the Shell: Arise.\n\nFreed of her responsibilities with the 501 Organization, Motoko Kusanagi must now learn how to take orders from Aramaki. Someone hacks the Logicomas, and Batou enlists the help of former army intelligence officer Ishikawa and former air artillery expert Borma. Kusanagi also seeks to enlist ace sniper Saito and undercover cop Paz into the new Public Security Section 9. The two groups rival each other in a case involving a man who receives false memories of a refugee transport operation.\n\n(Source: Wikipedia)",
   "mean": 7.46,
-  "rank": 2194,
-  "popularity": 3290,
-  "num_list_users": 54806,
-  "num_scoring_users": 26124,
+  "rank": 2207,
+  "popularity": 3292,
+  "num_list_users": 54828,
+  "num_scoring_users": 26130,
   "nsfw": "white",
   "created_at": "2013-06-23T09:27:26+00:00",
-  "updated_at": "2024-03-06T11:56:28+00:00",
+  "updated_at": "2025-10-17T21:49:10+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 50,
       "name": "Adult Cast"

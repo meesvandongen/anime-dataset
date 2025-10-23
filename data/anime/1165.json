@@ -2,8 +2,8 @@
   "id": 1165,
   "title": "Sakura Taisen: Ouka Kenran",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/15969.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/7/15969l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/15969.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/7/15969l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,20 +18,16 @@
   "end_date": "1998-07-24",
   "synopsis": "The year is around the 1920's and the darkness of the demons have arrived. Now, only the people with large amounts of spirit energy can save the Earth. The Flower Division is now going to be sent out destroy the demons for they're our only hope for survival with their new steam-powered machines and unique fighting techniques. \n\n(Source: ANN)",
   "mean": 6.55,
-  "rank": 6992,
-  "popularity": 7957,
-  "num_list_users": 7357,
-  "num_scoring_users": 2924,
+  "rank": 7006,
+  "popularity": 7960,
+  "num_list_users": 7362,
+  "num_scoring_users": 2928,
   "nsfw": "white",
   "created_at": "2006-07-06T05:03:29+00:00",
-  "updated_at": "2023-01-26T23:28:19+00:00",
+  "updated_at": "2025-10-17T21:58:30+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 2,
       "name": "Adventure"

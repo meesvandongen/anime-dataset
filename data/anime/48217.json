@@ -2,8 +2,8 @@
   "id": 48217,
   "title": "Byeonsinjadongcha Tobot",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1222/126942.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1222/126942l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1222/126942.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1222/126942l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,20 +15,16 @@
   "start_date": "2010-04-12",
   "end_date": "2010-07-26",
   "synopsis": "The first start of Tobot. Twin sons, Ryan and Kory's father, Dr. Franklin Char, was kidnapped. Will Ryan and Kory be able to save Dr. Char with Tobots, X and Y?\n\n(Source: Wikipedia)",
-  "rank": 20369,
-  "popularity": 23137,
-  "num_list_users": 174,
-  "num_scoring_users": 47,
+  "rank": 20403,
+  "popularity": 23065,
+  "num_list_users": 177,
+  "num_scoring_users": 46,
   "nsfw": "white",
   "created_at": "2021-02-21T17:16:47+00:00",
-  "updated_at": "2022-08-12T15:43:24+00:00",
+  "updated_at": "2025-10-17T21:32:46+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 15,
       "name": "Kids"

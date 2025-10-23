@@ -15,20 +15,16 @@
   "start_date": "1999-04-08",
   "end_date": "1999-04-08",
   "synopsis": "Special episodes released with the PlayStation game. They were later included in the Blu-ray Box of Yuusha-Ou GaoGaiGar.",
-  "rank": 16975,
-  "popularity": 20961,
-  "num_list_users": 282,
+  "rank": 16998,
+  "popularity": 20960,
+  "num_list_users": 283,
   "num_scoring_users": 56,
   "nsfw": "white",
   "created_at": "2022-07-13T17:26:39+00:00",
-  "updated_at": "2022-11-30T15:58:02+00:00",
+  "updated_at": "2025-10-17T22:51:19+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 2,
       "name": "Adventure"

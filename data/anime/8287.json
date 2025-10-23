@@ -2,8 +2,8 @@
   "id": 8287,
   "title": "SD Gundam Sangokuden Brave Battle Warriors",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/21471.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/6/21471l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/21471.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/6/21471l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "end_date": "2011-03-19",
   "synopsis": "A Romance of the Three Kingdoms retelling using SD Gundams.",
   "mean": 6.26,
-  "rank": 8754,
-  "popularity": 8800,
-  "num_list_users": 5777,
-  "num_scoring_users": 2013,
+  "rank": 8759,
+  "popularity": 8808,
+  "num_list_users": 5780,
+  "num_scoring_users": 2014,
   "nsfw": "white",
   "created_at": "2010-02-26T23:17:46+00:00",
-  "updated_at": "2022-03-01T18:55:51+00:00",
+  "updated_at": "2025-10-17T21:58:53+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 13,
       "name": "Historical"

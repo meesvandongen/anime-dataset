@@ -13,21 +13,17 @@
   "start_date": "2014-07-22",
   "end_date": "2014-07-22",
   "synopsis": "Recap of episodes 1-13.",
-  "mean": 6.04,
-  "rank": 10066,
-  "popularity": 12175,
+  "mean": 6.05,
+  "rank": 10016,
+  "popularity": 12182,
   "num_list_users": 2107,
-  "num_scoring_users": 591,
+  "num_scoring_users": 592,
   "nsfw": "white",
   "created_at": "2014-07-27T15:00:16+00:00",
-  "updated_at": "2021-03-27T23:10:14+00:00",
+  "updated_at": "2025-10-17T22:57:33+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 1,
-      "name": "Action"
-    },
     {
       "id": 18,
       "name": "Mecha"
