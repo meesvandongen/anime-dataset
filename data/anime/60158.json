@@ -1,0 +1,47 @@
+{
+  "id": 60158,
+  "title": "Hai to Inari",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1692/152760.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1692/152760l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "灰ト祈リ"
+  },
+  "start_date": "2024-06-05",
+  "end_date": "2024-06-05",
+  "synopsis": "The official music video for the second ending theme of the anime Nier Automata ver1.1a.",
+  "popularity": 29205,
+  "num_list_users": 23,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2024-10-20T12:52:42+00:00",
+  "updated_at": "2025-10-21T09:10:07+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 320,
+  "rating": "pg_13",
+  "studios": []
+}

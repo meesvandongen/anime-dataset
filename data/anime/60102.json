@@ -1,0 +1,48 @@
+{
+  "id": 60102,
+  "title": "The Birth of Nævis",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1991/146053.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1991/146053l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Birth of Nævis",
+    "ja": "The Birth of nævis"
+  },
+  "start_date": "2024-08-23",
+  "end_date": "2024-08-23",
+  "synopsis": "Emerging from the Digital World (KWANGYA), nævis, the AEI (Artificial Emotional Intelligence) artist, steps into the Real World in search of freedom.\n\nNævis's name, meaning \"Cyber Navigator,\" reflects her extraordinary ability to traverse seamlessly between the realms of reality and the digital expanse.\n\nWith the power to navigate through screens and embody a multitude of forms, nævis is poised to enchant as a dynamic and ever-evolving presence, bridging two worlds.\n\n(Source: Naevis' Official Site)",
+  "rank": 15584,
+  "popularity": 29217,
+  "num_list_users": 22,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2024-10-12T22:38:01+00:00",
+  "updated_at": "2025-10-21T08:53:20+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 234,
+  "rating": "pg_13",
+  "studios": []
+}

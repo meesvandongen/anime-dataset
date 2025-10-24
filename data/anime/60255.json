@@ -2,22 +2,22 @@
   "id": 60255,
   "title": "Arne no Jikenbo",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1289/146396.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1289/146396l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1112/152731.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1112/152731l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "The Case Book of Arne",
     "ja": "アルネの事件簿"
   },
-  "start_date": "2026-01",
+  "start_date": "2026-01-07",
   "synopsis": "Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman's daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery. In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of \"Lügenberg,\" where non-humans live.\n\nLynn's world changes drastically when she encounters \"Arne,\" a vampire who is called \"the worst\" in the city. And tonight, a new \"murder case\" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect?\n\n\"Come on, human. You may dance merrily under the crimson moon.\" \n\n(Source: Steam, edited)",
-  "popularity": 10978,
-  "num_list_users": 2968,
+  "popularity": 10622,
+  "num_list_users": 3285,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-11-06T10:06:34+00:00",
-  "updated_at": "2025-09-26T22:06:58+00:00",
+  "updated_at": "2025-10-19T13:31:00+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -38,6 +38,10 @@
   "start_season": {
     "year": 2026,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:29"
   },
   "source": "game",
   "average_episode_duration": 0,

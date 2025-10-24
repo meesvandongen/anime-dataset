@@ -14,10 +14,10 @@
   },
   "start_date": "2025-06-05",
   "synopsis": "",
-  "rank": 15026,
-  "popularity": 18753,
-  "num_list_users": 428,
-  "num_scoring_users": 68,
+  "rank": 15044,
+  "popularity": 18678,
+  "num_list_users": 434,
+  "num_scoring_users": 71,
   "nsfw": "white",
   "created_at": "2025-05-29T13:27:50+00:00",
   "updated_at": "2025-05-30T09:12:50+00:00",
@@ -53,5 +53,10 @@
   "source": "web_novel",
   "average_episode_duration": 1200,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1768,
+      "name": "Sparkly Key Animation Studio"
+    }
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "id": 58758,
+  "title": "Prima Rabbit",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1264/152750.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1264/152750l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Prima Rabbit",
+    "ja": "プリマ・らびっと"
+  },
+  "start_date": "2024-04-29",
+  "end_date": "2024-04-29",
+  "synopsis": "Rabbit is an apprentice ballet dancer who dreams of becoming a beautiful prima. She practices hard but keeps failing. She repeatedly slips and falls, but even though she is frustrated, she will not give up. Will Usagi be able to dance beautifully?\nPlease watch the cute mistakes of the chewy bunny.\n\n(Source: Youtube)",
+  "rank": 19553,
+  "popularity": 29226,
+  "num_list_users": 21,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2024-04-29T17:03:56+00:00",
+  "updated_at": "2025-10-20T11:38:36+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 92,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1763,
+      "name": "Studio Nanahoshi"
+    }
+  ]
+}

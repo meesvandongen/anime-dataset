@@ -12,14 +12,15 @@
   },
   "start_date": "2025-10-21",
   "synopsis": "",
-  "popularity": 11314,
-  "num_list_users": 2687,
-  "num_scoring_users": 1,
+  "rank": 18798,
+  "popularity": 11172,
+  "num_list_users": 2816,
+  "num_scoring_users": 17,
   "nsfw": "white",
   "created_at": "2025-07-17T04:36:17+00:00",
   "updated_at": "2025-09-04T11:34:03+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -44,7 +45,8 @@
     "start_time": "23:00"
   },
   "source": "game",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1440,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 96,

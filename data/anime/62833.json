@@ -1,0 +1,43 @@
+{
+  "id": 62833,
+  "title": "Sora to Yakusoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1683/152768.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1683/152768l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "A Tiny Brave Promise",
+    "ja": "空と約束"
+  },
+  "start_date": "2025-10-21",
+  "end_date": "2025-10-21",
+  "synopsis": "Music video for the song Sora to Yakusoku by China Kuramoto (CV: Mao Itou).",
+  "popularity": 29142,
+  "num_list_users": 33,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2025-10-21T13:14:16+00:00",
+  "updated_at": "2025-10-22T09:07:37+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 290,
+  "rating": "g",
+  "studios": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": 62634,
+  "title": "Given: 10th Mix",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1780/152389.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1780/152389l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Given: 10th Mix",
+    "ja": "ギヴン 10th mix"
+  },
+  "start_date": "2025-10-01",
+  "end_date": "2025-10-01",
+  "synopsis": "A brilliant epilogue depicting the dazzling \"present\" of those who have grown since \"those days\" and the important people surrounding them!\n\n(Source: Twitter @given_INFO)",
+  "rank": 21533,
+  "popularity": 23331,
+  "num_list_users": 169,
+  "num_scoring_users": 16,
+  "nsfw": "gray",
+  "created_at": "2025-10-03T09:46:28+00:00",
+  "updated_at": "2025-10-19T18:08:20+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 28,
+      "name": "Boys Love"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1069,
+  "rating": "pg_13",
+  "studios": []
+}

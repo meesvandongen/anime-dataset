@@ -1,0 +1,68 @@
+{
+  "id": 61211,
+  "title": "Mayonaka Heart Tune",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1769/152823.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1769/152823l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tune In to the Midnight Heart"
+    ],
+    "en": "",
+    "ja": "真夜中ハートチューン"
+  },
+  "start_date": "2026-01-06",
+  "synopsis": "When Arisu Yamabuki was all alone in bed at night, he was able to find solace in the voice of a radio host who went by \"Apollo.\" However, one day, she simply stopped broadcasting without any explanation. Years then passed, and Arisu is now a second-year high-schooler. He makes it his mission to search for Apollo, as there is something he wants to tell her. He doesn't know what she looks like, or even what her real name is, but he manages to get some leads on her in his school's broadcasting club. That's where he meets four girls who all dream to get a job where they can make full use of their voices! Just who is Apollo, and how will those four's dreams pan out?\n\n(Source: Kodansha USA)",
+  "popularity": 6984,
+  "num_list_users": 10271,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2025-03-14T11:16:21+00:00",
+  "updated_at": "2025-10-23T11:52:07+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 35,
+      "name": "Harem"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 75,
+      "name": "Showbiz"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "23:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2554,
+      "name": "Gekkou"
+    }
+  ]
+}
