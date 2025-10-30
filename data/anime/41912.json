@@ -1,0 +1,51 @@
+{
+  "id": 41912,
+  "title": "Gu Xiong",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1654/127212.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1654/127212l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Lonely Hero",
+    "ja": "孤雄"
+  },
+  "start_date": "2025-11-02",
+  "synopsis": "",
+  "popularity": 15919,
+  "num_list_users": 747,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2020-05-09T06:26:10+00:00",
+  "updated_at": "2025-10-28T11:26:58+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1804,
+      "name": "Niceboat Animation"
+    },
+    {
+      "id": 2068,
+      "name": "Ai Si Animation Studio"
+    }
+  ]
+}

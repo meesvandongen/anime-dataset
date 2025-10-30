@@ -1,0 +1,48 @@
+{
+  "id": 49984,
+  "title": "Wu Tian Yu Shang 2035",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1574/118427.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1574/118427l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "无天于上2035"
+  },
+  "start_date": "2022-11-11",
+  "end_date": "2022-11-11",
+  "synopsis": "In the year 2035, the terrible aftermath caused by the alien invasion five years ago is still lingering. The active genes of the alien creature \"X\" were spread around the world due to the explosion, and the breeding alien creatures are lurking everywhere on Earth.\n\n(Source: bilibili, translated)",
+  "popularity": 18780,
+  "num_list_users": 429,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2021-10-01T18:32:07+00:00",
+  "updated_at": "2025-10-26T08:37:03+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 121,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2048,
+      "name": "ASK Animation Studio"
+    }
+  ]
+}

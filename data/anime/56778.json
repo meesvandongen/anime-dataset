@@ -2,8 +2,8 @@
   "id": 56778,
   "title": "No Waifu No Life!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1911/149974.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1911/149974l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1911/149974.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1911/149974l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,29 +11,30 @@
     "ja": "NO 猥婦 NO LIFE！"
   },
   "start_date": "2024-02-23",
+  "end_date": "2024-06-28",
   "synopsis": "",
-  "mean": 6.39,
-  "popularity": 9561,
-  "num_list_users": 4540,
-  "num_scoring_users": 1249,
+  "mean": 6.27,
+  "popularity": 9559,
+  "num_list_users": 4558,
+  "num_scoring_users": 1265,
   "nsfw": "gray",
   "created_at": "2023-09-28T23:22:32+00:00",
-  "updated_at": "2024-07-08T08:21:29+00:00",
+  "updated_at": "2025-10-25T08:08:29+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 2,
   "start_season": {
     "year": 2024,
     "season": "winter"
   },
   "source": "manga",
-  "average_episode_duration": 1330,
+  "average_episode_duration": 1285,
   "rating": "rx",
   "studios": [
     {

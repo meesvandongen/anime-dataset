@@ -1,0 +1,39 @@
+{
+  "id": 62850,
+  "title": "Orpheus",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1440/152826.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1440/152826l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Orpheus"
+  },
+  "start_date": "2025-09-13",
+  "end_date": "2025-09-13",
+  "synopsis": "Music video for the song Orpheus by Mori Calliope.",
+  "popularity": 28967,
+  "num_list_users": 58,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2025-10-24T05:28:43+00:00",
+  "updated_at": "2025-10-24T10:20:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 184,
+  "rating": "g",
+  "studios": []
+}
