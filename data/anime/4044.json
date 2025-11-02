@@ -2,28 +2,28 @@
   "id": 4044,
   "title": "Youkai Ningen Bem",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/64521.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/10/64521l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/64521.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/10/64521l.webp"
   },
   "alternative_titles": {
     "synonyms": [
       "Yokai Ningen Bem",
       "Demon-man Bem"
     ],
-    "en": "",
+    "en": "Humanoid Monster Bem",
     "ja": "妖怪人間ベム"
   },
   "start_date": "1968-10-07",
   "end_date": "1969-03-31",
-  "synopsis": "Three monsters, Bem, who looks like a gangster, Bero, who looks like a boy, and Bera, a witch, act as agents of justice, hoping that they will be allowed to become human. Several episodes involve them protecting a young boy. The style of animation is fairly distinctive, and the storylines not without interest. \n\n(Source: AniDB) ",
-  "mean": 6.19,
-  "rank": 9184,
-  "popularity": 11165,
-  "num_list_users": 2826,
-  "num_scoring_users": 923,
+  "synopsis": "In the dark corners of a mysterious laboratory, an out-of-control slurry of cellular material gives birth to the horrifying Humanoid Monsters - Bem, Bela, and Belo! Contrary to their grotesque exteriors, the blood of justice somehow runs thick through their veins. Be it simple human avarice or the supernatural, this monstrous trio fights back using their extraordinary inhuman abilities! But just why do these three go out of their way to protect those who fear them? Some say that they do it in hopes of becoming human themselves one day…\n\n(Source: Discotek Media)",
+  "mean": 6.2,
+  "rank": 9104,
+  "popularity": 11168,
+  "num_list_users": 2829,
+  "num_scoring_users": 924,
   "nsfw": "white",
   "created_at": "2008-03-02T22:34:37+00:00",
-  "updated_at": "2021-12-18T08:02:59+00:00",
+  "updated_at": "2025-10-31T00:58:21+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -34,6 +34,10 @@
     {
       "id": 6,
       "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 26,
