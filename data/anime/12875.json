@@ -14,13 +14,13 @@
   "end_date": "2013-02-26",
   "synopsis": "The story follows a boy who was in a soccer team, but it was disbanded due to not enough players. However, after the boy meets a female professional soccer player, he aims to bring his soccer team back.\n\n(Source: AniDB)",
   "mean": 7.2,
-  "rank": 3483,
-  "popularity": 4567,
-  "num_list_users": 29136,
-  "num_scoring_users": 13163,
+  "rank": 3491,
+  "popularity": 4571,
+  "num_list_users": 29149,
+  "num_scoring_users": 13167,
   "nsfw": "white",
   "created_at": "2012-02-01T18:46:57+00:00",
-  "updated_at": "2022-12-13T12:45:07+00:00",
+  "updated_at": "2025-11-02T21:28:59+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
   "start_season": {
     "year": 2012,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "19:00"
   },
   "source": "novel",
   "average_episode_duration": 1500,

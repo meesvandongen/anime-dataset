@@ -16,13 +16,13 @@
   "end_date": "2008-02-22",
   "synopsis": "An OVA summarizing all 25 episodes of season 1 from Lelouch's viewpoint.",
   "mean": 7.57,
-  "rank": 1771,
-  "popularity": 3741,
-  "num_list_users": 43994,
+  "rank": 1745,
+  "popularity": 3744,
+  "num_list_users": 44010,
   "num_scoring_users": 15971,
   "nsfw": "white",
   "created_at": "2008-05-28T15:13:31+00:00",
-  "updated_at": "2025-10-17T23:38:44+00:00",
+  "updated_at": "2025-10-31T08:22:38+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
     },
     {
       "id": 31,

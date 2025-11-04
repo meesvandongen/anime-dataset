@@ -17,13 +17,13 @@
   "end_date": "2007-02-16",
   "synopsis": "Recap episodes of Code Geass. Also known as episodes 8.5 and 17.5.",
   "mean": 7.02,
-  "rank": 4430,
-  "popularity": 3996,
-  "num_list_users": 38705,
-  "num_scoring_users": 16628,
+  "rank": 4449,
+  "popularity": 3998,
+  "num_list_users": 38716,
+  "num_scoring_users": 16627,
   "nsfw": "white",
   "created_at": "2007-03-13T22:38:59+00:00",
-  "updated_at": "2025-10-17T23:38:39+00:00",
+  "updated_at": "2025-10-31T08:25:55+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +38,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
     },
     {
       "id": 31,
