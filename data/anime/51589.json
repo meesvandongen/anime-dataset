@@ -13,8 +13,8 @@
   "start_date": "2021-11-03",
   "end_date": "2021-11-03",
   "synopsis": "In ancient legend, \"NOMINO SUKUNE\" was the creator of Japanese Sumo wrestling. He also aborted the live human sacrifices in the tombs of the emperor and made terra-cotta clay sculptures instead.",
-  "rank": 19107,
-  "popularity": 21121,
+  "rank": 19116,
+  "popularity": 21160,
   "num_list_users": 275,
   "num_scoring_users": 96,
   "nsfw": "white",
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 105,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3221,
+      "name": "Miyajima Film"
+    }
+  ]
 }

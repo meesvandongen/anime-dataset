@@ -13,11 +13,11 @@
   "start_date": "2025-10-29",
   "end_date": "2025-10-29",
   "synopsis": "Third volume of Star Wars: Visions.",
-  "mean": 7,
-  "rank": 4586,
-  "popularity": 7636,
-  "num_list_users": 8148,
-  "num_scoring_users": 148,
+  "mean": 7.02,
+  "rank": 4467,
+  "popularity": 7431,
+  "num_list_users": 8791,
+  "num_scoring_users": 766,
   "nsfw": "white",
   "created_at": "2024-11-20T06:09:33+00:00",
   "updated_at": "2025-10-29T21:47:46+00:00",
@@ -51,7 +51,7 @@
     "season": "fall"
   },
   "source": "other",
-  "average_episode_duration": 1290,
+  "average_episode_duration": 1134,
   "rating": "pg_13",
   "studios": [
     {

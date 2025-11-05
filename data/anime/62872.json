@@ -1,0 +1,51 @@
+{
+  "id": 62872,
+  "title": "Resonance: Lieche Zhang de Yitian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1609/153154.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1609/153154l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Resonance: Mugen go Ressha",
+      "レゾナンス：無限号列車"
+    ],
+    "en": "Resonance Solstice: A Day in the Life of the Conductor",
+    "ja": "【雷索纳斯】「列车长的一天」"
+  },
+  "start_date": "2024-02-23",
+  "end_date": "2024-10-25",
+  "synopsis": "An ordinary day, an extraordinary encounter!\nOn the very first day of duty, what awaits is… GAME OVER?!\n\n(Source: YouTube)",
+  "rank": 14441,
+  "popularity": 29260,
+  "num_list_users": 26,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2025-10-30T03:49:01+00:00",
+  "updated_at": "2025-10-30T08:01:34+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 3,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 330,
+  "rating": "pg_13",
+  "studios": []
+}

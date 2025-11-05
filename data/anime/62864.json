@@ -1,0 +1,53 @@
+{
+  "id": 62864,
+  "title": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1156/153079.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1156/153079l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "You Don't Know Gunma Yet"
+    ],
+    "en": "",
+    "ja": "お前はまだグンマを知らない～令和版～"
+  },
+  "start_date": "2026-01",
+  "synopsis": "Light anime for Omae wa Mada Gunma wo Shiranai.",
+  "popularity": 20005,
+  "num_list_users": 342,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-10-28T09:11:25+00:00",
+  "updated_at": "2025-11-01T18:02:28+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2844,
+      "name": "Imagica Infos"
+    },
+    {
+      "id": 2983,
+      "name": "Imageworks Studio"
+    }
+  ]
+}

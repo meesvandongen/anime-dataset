@@ -16,13 +16,13 @@
   "end_date": "2018-07-18",
   "synopsis": "The boisterous student Kaname Chidori and soldier Sousuke Sagara are enjoying a blissful high school life. However, their peaceful days are disrupted by the threatening terrorist organization Amalgam. Leonard Testarossa, a member of the organization who possesses \"Whispered,\" seeks to procure Kaname and her knowledge. \n\nKaname and Sousuke's battle against Amalgam starts right in their own neighborhood, which eventually takes them on a hunt around the world. From the exotic lands of Laos to the barren Mexican coast, Sousuke must gather intelligence to bring down Amalgam. Meanwhile, Kaname's abilities grow, but so does her frustration as her resolve withers. Caught up in an intense game of hide and seek, as well as strategic plots, the pair try to connect and push beyond their own limits. \n\n[Written by MAL Rewrite]",
   "mean": 7.57,
-  "rank": 1776,
+  "rank": 1778,
   "popularity": 2239,
-  "num_list_users": 105348,
-  "num_scoring_users": 40875,
+  "num_list_users": 105393,
+  "num_scoring_users": 40894,
   "nsfw": "white",
   "created_at": "2015-10-24T04:47:55+00:00",
-  "updated_at": "2025-10-17T21:39:15+00:00",
+  "updated_at": "2025-10-31T08:19:28+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 38,
       "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
     }
   ],
   "num_episodes": 12,
