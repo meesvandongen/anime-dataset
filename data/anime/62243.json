@@ -14,14 +14,14 @@
   },
   "start_date": "2025-08-23",
   "end_date": "2025-09-13",
-  "synopsis": "",
-  "rank": 21653,
-  "popularity": 23180,
-  "num_list_users": 175,
+  "synopsis": "Hu Bayi and his companions, commissioned by Professor Chen, travel to Coral Temple Island in the South China Sea and hire Ruan Hei and his apprentice to embark on the Trident to search for the Qin Emperor's Bone Mirror. After their adventure, they crash into Guixu, where they discover the ancient mirror within the shipwreck and learn that Ruan Hei is Duoling's enemy. While resting after their escape, a mysterious figure suddenly appears, wielding a club, approaching Uncle Ming, who is on night watch.\n\n(Source: Tencent, Google translated)",
+  "rank": 21662,
+  "popularity": 23165,
+  "num_list_users": 178,
   "num_scoring_users": 17,
   "nsfw": "white",
   "created_at": "2025-08-11T09:14:27+00:00",
-  "updated_at": "2025-08-25T08:52:57+00:00",
+  "updated_at": "2025-11-10T19:56:18+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -46,5 +46,14 @@
   "source": "novel",
   "average_episode_duration": 1135,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2065,
+      "name": "Original Force"
+    },
+    {
+      "id": 2471,
+      "name": "Wonder Cat Animation"
+    }
+  ]
 }

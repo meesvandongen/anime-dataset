@@ -1,0 +1,62 @@
+{
+  "id": 60444,
+  "title": "Yowayowa Sensei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1521/153402.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1521/153402l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Yowayowa Teacher",
+    "ja": "よわよわ先生"
+  },
+  "start_date": "2026-04",
+  "synopsis": "When the new term starts, second-year student Abikura discovers that his homeroom teacher is none other than Hiyori Hiwamura, infamously known as \"Scary-Scary Sensei,\" a woman rumored to curse anyone who crosses her.\n\nBut one day, Abikura accidentally witnesses a completely unexpected side of his fearsome teacher after school. The striking contrast between her fearsome image and her hidden personality is utterly irresistible!\n\nBrace yourself for Gap Moe overload in this tender romantic comedy that's sure to ignite your protective instincts!\n\n(Source: MAL News)",
+  "popularity": 9409,
+  "num_list_users": 4814,
+  "num_scoring_users": 0,
+  "nsfw": "gray",
+  "created_at": "2024-12-03T15:23:07+00:00",
+  "updated_at": "2025-11-08T03:14:11+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
+    },
+    {
+      "id": 74,
+      "name": "Love Status Quo"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 112,
+      "name": "Brain's Base"
+    }
+  ]
+}

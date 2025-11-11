@@ -1,0 +1,50 @@
+{
+  "id": 61492,
+  "title": "Entotsu Machi no Poupelle: Yakusoku no Tokei-dai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1868/153370.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1868/153370l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Poupelle of Chimney Town: Clock Tower of Promise"
+    ],
+    "en": "",
+    "ja": "映画 えんとつ町のプペル ～約束の時計台～"
+  },
+  "start_date": "2026-03-27",
+  "end_date": "2026-03-27",
+  "synopsis": "Sequel to Entotsu Machi no Poupelle.",
+  "popularity": 17637,
+  "num_list_users": 527,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-04-14T22:47:56+00:00",
+  "updated_at": "2025-11-07T00:31:56+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 13,
+      "name": "Studio 4°C"
+    }
+  ]
+}

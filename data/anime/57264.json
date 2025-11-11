@@ -1,26 +1,26 @@
 {
   "id": 57264,
-  "title": "Bai Lian Cheng Shen 2nd Season",
+  "title": "Bai Lian Cheng Shen 2",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1393/139861.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1393/139861l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "Apotheosis 2nd Season",
-    "ja": "百炼成神 第二季"
+    "en": "Apotheosis 2",
+    "ja": "百炼成神2"
   },
   "start_date": "2023-12-08",
   "end_date": "2024-11-28",
   "synopsis": "Second season of Bai Lian Cheng Shen.",
   "mean": 7.62,
-  "rank": 1573,
-  "popularity": 12829,
-  "num_list_users": 1730,
-  "num_scoring_users": 577,
+  "rank": 1575,
+  "popularity": 12832,
+  "num_list_users": 1732,
+  "num_scoring_users": 579,
   "nsfw": "white",
   "created_at": "2023-11-24T04:14:52+00:00",
-  "updated_at": "2025-10-14T08:34:45+00:00",
+  "updated_at": "2025-11-10T16:28:25+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,

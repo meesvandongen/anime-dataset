@@ -13,23 +13,24 @@
     "ja": "僕にハーレムセフレが出来た理由"
   },
   "start_date": "2024-06-28",
+  "end_date": "2024-07-26",
   "synopsis": "",
-  "mean": 7.29,
-  "popularity": 10344,
-  "num_list_users": 3591,
-  "num_scoring_users": 1103,
+  "mean": 7.24,
+  "popularity": 10333,
+  "num_list_users": 3607,
+  "num_scoring_users": 1109,
   "nsfw": "gray",
   "created_at": "2024-04-24T13:14:41+00:00",
-  "updated_at": "2024-07-08T08:24:20+00:00",
+  "updated_at": "2025-11-10T22:02:04+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 4,
   "start_season": {
     "year": 2024,
     "season": "spring"

@@ -2,24 +2,22 @@
   "id": 60460,
   "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1151/152479.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1151/152479l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1151/152479.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1151/152479l.webp"
   },
   "alternative_titles": {
-    "synonyms": [
-      "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing"
-    ],
-    "en": "",
+    "synonyms": [],
+    "en": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
     "ja": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士"
   },
   "start_date": "2026-01",
   "synopsis": "\"Level up even while offline?! That's not a game on 'easy mode'—that's just an AFK game!\" The online game Kenichi Yamada had been playing religiously is shutting down its servers, leaving him with a void in his heart. He looks for a new game to fill it, but everything he finds is way too easy. The kind of game he likes—the kind punishing enough to make players want to spend thousands of hours on it—just isn't around anymore.\n\n\"What's this? 'You are invited to a game that will never end.'\" Kenichi stumbles upon an untitled game, one promising incomparable challenge with unprecedented potential. Without hesitation, he selects the \"Hell Mode\" difficulty. Lo and behold, he finds himself reincarnated in another world as a serf! Now called Allen, he sets out to unlock the secrets of his mystery-laden Summoner class; without the convenience of walkthroughs, game guides, or online forums, he must grope his way to the top of his new world!\n\n(Source: J-Novel Club)",
-  "popularity": 8381,
-  "num_list_users": 6498,
-  "num_scoring_users": 0,
+  "popularity": 8222,
+  "num_list_users": 6812,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2024-12-05T10:37:56+00:00",
-  "updated_at": "2025-10-10T03:13:37+00:00",
+  "updated_at": "2025-11-07T22:34:29+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -54,7 +52,7 @@
   "studios": [
     {
       "id": 1687,
-      "name": "Yokohama Animation Laboratory"
+      "name": "Yokohama Animation Lab"
     }
   ]
 }

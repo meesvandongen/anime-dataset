@@ -13,14 +13,14 @@
     "ja": "紫川 第2季"
   },
   "start_date": "2025-07-30",
-  "synopsis": "Second season of Zi Chuan.",
-  "rank": 17204,
-  "popularity": 18986,
-  "num_list_users": 416,
+  "synopsis": "To clear suspicion, words are the weakest defense. True power speaks for itself! General Zichuan Xiu, who once single-handedly executed a traitor of the Zichuan clan within the Demon Clan's stronghold, has risen to command hundreds of thousands of allied troops in the Far East. Supported by the Guardian Elders of the Sacred Temple, this warrior now ascends as the new sovereign of the Eastern lands: The Bright King is crowned!\n\n(Source: WeTV)",
+  "rank": 17214,
+  "popularity": 18897,
+  "num_list_users": 424,
   "num_scoring_users": 53,
   "nsfw": "white",
   "created_at": "2025-07-25T19:40:01+00:00",
-  "updated_at": "2025-07-30T05:41:23+00:00",
+  "updated_at": "2025-11-09T20:17:18+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -49,5 +49,10 @@
   "source": "novel",
   "average_episode_duration": 1200,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2191,
+      "name": "BUILD DREAM"
+    }
+  ]
 }

@@ -2,8 +2,8 @@
   "id": 59433,
   "title": "Nian Wushuang",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1253/144554.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1253/144554l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1253/144554.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1253/144554l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,15 +12,15 @@
   },
   "start_date": "2024-08-07",
   "end_date": "2024-10-23",
-  "synopsis": "The Goddess of the Machine God descended to earth to retrieve the hand of God, broke the rules and changed her fate against the will of heaven, and experienced an unparalleled love affair, achieving a double harvest in career and love. Let's see how the heroine who got the script of the hot-blooded boy comic uses the machine skills to counterattack all the way, which is exciting and full of laughter.\n\n(Source: Iqiyi, Google translated)",
+  "synopsis": "The Goddess of the Machine God descended to earth to retrieve the hand of God, broke the rules and changed her fate against the will of heaven, and experienced an unparalleled love affair, achieving a double harvest in career and love. Let's see how the heroine who got the script of the hot-blooded boy comic uses the machine skills to counterattack all the way, which is exciting and full of laughter.\n\n(Source: iQIYI, Google translated)",
   "mean": 6.83,
-  "rank": 5396,
-  "popularity": 16088,
-  "num_list_users": 721,
-  "num_scoring_users": 218,
+  "rank": 5397,
+  "popularity": 16083,
+  "num_list_users": 725,
+  "num_scoring_users": 219,
   "nsfw": "white",
   "created_at": "2024-07-31T12:45:39+00:00",
-  "updated_at": "2024-10-27T16:11:34+00:00",
+  "updated_at": "2025-11-10T18:03:41+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -49,5 +49,10 @@
   "source": "web_novel",
   "average_episode_duration": 1200,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2478,
+      "name": "Oriental Creative Color"
+    }
+  ]
 }
