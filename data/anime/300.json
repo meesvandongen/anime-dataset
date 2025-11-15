@@ -2,8 +2,8 @@
   "id": 300,
   "title": "3x3 Eyes",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/26940.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/4/26940l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/26940.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/26940l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,23 +17,19 @@
   "end_date": "1992-03-19",
   "synopsis": "3X3 Eyes is the story of a young man named Yakumo Fuuji, who through a strange series of events becomes the immortal slave of the last of a race of 3 Eyed demons. The demon absorbs his soul to save his life, making him immortal in the process. Now, he begins a journey with the female demon in an attempt to find a way of becoming human. Of course, there are many complications along the way, not the least of which being that the demon is a female with a split personality, one achingly cute and the other being no-nonsense destructive power, and the romances that develop between.",
   "mean": 6.7,
-  "rank": 6108,
-  "popularity": 4453,
-  "num_list_users": 30872,
-  "num_scoring_users": 13132,
+  "rank": 6106,
+  "popularity": 4456,
+  "num_list_users": 30888,
+  "num_scoring_users": 13135,
   "nsfw": "white",
   "created_at": "2005-11-17T14:10:52+00:00",
-  "updated_at": "2023-04-24T08:52:29+00:00",
+  "updated_at": "2025-11-14T08:07:16+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 58,
@@ -54,6 +50,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 4,

@@ -17,13 +17,13 @@
   "end_date": "1996-06-25",
   "synopsis": "Yakumo has trained and searched for 4 years, following Pai's mysterious disappearance. However, when he finally finds her, not all is well as her memory seems to be gone. They attempt to return her memory by going to the Holy Land, birthplace of the immortal race of Sanjiyans.",
   "mean": 6.9,
-  "rank": 4977,
-  "popularity": 5774,
-  "num_list_users": 16419,
-  "num_scoring_users": 8007,
+  "rank": 4975,
+  "popularity": 5775,
+  "num_list_users": 16430,
+  "num_scoring_users": 8011,
   "nsfw": "white",
   "created_at": "2006-07-28T05:59:41+00:00",
-  "updated_at": "2023-04-24T08:53:03+00:00",
+  "updated_at": "2025-11-14T08:07:35+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -34,10 +34,6 @@
     {
       "id": 2,
       "name": "Adventure"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 58,
@@ -58,6 +54,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 3,
