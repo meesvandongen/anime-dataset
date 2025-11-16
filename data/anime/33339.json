@@ -2,8 +2,8 @@
   "id": 33339,
   "title": "Zhongguo Jingqi Xiansheng",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/80096.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/80096l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1637/153577.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1637/153577l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,12 +17,12 @@
   "synopsis": "A lost form of magic is revived from the Eastern Han dynasty, meanwhile, dangerous man eating monsters lurk the streets. What will stop these beasts from their mindless terror? \n\n(Source: Happy Potato Translations)",
   "mean": 6.05,
   "rank": 9985,
-  "popularity": 10757,
-  "num_list_users": 3191,
+  "popularity": 10761,
+  "num_list_users": 3193,
   "num_scoring_users": 534,
   "nsfw": "white",
   "created_at": "2016-05-23T11:21:18+00:00",
-  "updated_at": "2022-05-28T06:19:12+00:00",
+  "updated_at": "2025-11-14T18:57:58+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -51,6 +51,10 @@
     {
       "id": 1325,
       "name": "Haoliners Animation League"
+    },
+    {
+      "id": 2509,
+      "name": "Colored Pencil Animation"
     }
   ]
 }

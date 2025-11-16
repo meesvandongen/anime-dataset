@@ -2,12 +2,14 @@
   "id": 34300,
   "title": "Quanzhi Fashi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/83819.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/9/83819l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/83819.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/9/83819l.webp"
   },
   "alternative_titles": {
     "synonyms": [
-      "Quan Zhi Fa Shi"
+      "Quan Zhi Fa Shi",
+      "Versatile Mage",
+      "Almighty Mage"
     ],
     "en": "Full-Time Magister",
     "ja": "全职法师"
@@ -18,11 +20,11 @@
   "mean": 7.17,
   "rank": 3674,
   "popularity": 1706,
-  "num_list_users": 151213,
-  "num_scoring_users": 64259,
+  "num_list_users": 151285,
+  "num_scoring_users": 64283,
   "nsfw": "white",
   "created_at": "2016-10-28T21:06:45+00:00",
-  "updated_at": "2025-06-25T22:30:00+00:00",
+  "updated_at": "2025-11-14T02:34:43+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

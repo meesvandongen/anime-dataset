@@ -7,23 +7,22 @@
   },
   "alternative_titles": {
     "synonyms": [
-      "Way of Choices",
       "Fighter of the Destiny"
     ],
-    "en": "",
+    "en": "Way of Choices",
     "ja": "择天记"
   },
   "start_date": "2015-07-15",
   "end_date": "2015-12-23",
   "synopsis": "At the beginning of time, a mystical meteor came crashing down from outer space and scattered all over the world. A piece of it landed in the Eastern Continent. \n\nThere were mysterious totems carved upon the meteor, and people gathered around it wanting to discover its usage. They discovered the Way, and established The Tradition.\n\nSeveral thousand years later, the fourteen years old orphan Chen Chang Shang left his master to cure his illness and change his fate. He brought a piece of marriage vow with him to the capital, thus began the journey of a rising hero.\n\n(Source: Binggo&Corp)",
   "mean": 6.82,
-  "rank": 5433,
-  "popularity": 7362,
-  "num_list_users": 8986,
-  "num_scoring_users": 2495,
+  "rank": 5429,
+  "popularity": 7364,
+  "num_list_users": 8987,
+  "num_scoring_users": 2496,
   "nsfw": "white",
   "created_at": "2015-10-13T09:50:41+00:00",
-  "updated_at": "2022-04-17T22:50:39+00:00",
+  "updated_at": "2025-11-14T14:19:52+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +37,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     }
   ],
   "num_episodes": 13,
@@ -45,7 +48,7 @@
     "year": 2015,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1084,
   "rating": "pg_13",
   "studios": [

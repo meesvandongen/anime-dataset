@@ -14,23 +14,19 @@
   "end_date": "2013-09-29",
   "synopsis": "The journey to find all eight sacred gems continues, as Sousuke and Shino travel in search of the remaining gem holders. From the shadows the Imperial Church continues to scheme, and a mysterious woman seeks to fulfill a sinister plot with the gem holders at its heart. As the origin of the gems comes to light, so does the truth behind Sousuke's doppelganger, Ao, as he resurfaces with his own goal—one involving Sousuke and his gem!\n\n(Source: Sentai Filmworks)",
   "mean": 7.6,
-  "rank": 1676,
-  "popularity": 2982,
-  "num_list_users": 66467,
-  "num_scoring_users": 30323,
+  "rank": 1673,
+  "popularity": 2984,
+  "num_list_users": 66474,
+  "num_scoring_users": 30329,
   "nsfw": "white",
   "created_at": "2013-03-28T09:01:59+00:00",
-  "updated_at": "2023-04-17T05:59:58+00:00",
+  "updated_at": "2025-11-13T14:30:46+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 7,
@@ -43,6 +39,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 13,

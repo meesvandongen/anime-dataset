@@ -2,8 +2,8 @@
   "id": 15613,
   "title": "Hakkenden: Touhou Hakken Ibun",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/43007.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/13/43007l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/43007.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/43007l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,23 +16,19 @@
   "end_date": "2013-03-31",
   "synopsis": "The village of Ootsuka—home to Shino Inuzuka, Sousuke Inukawa, and Hamaji—was lit on fire under the preconception that a virus had seen all of its life eradicated. Now surrounded by flames and on the verge of death, the three were approached by a strange man holding a sword. He tells them that they must reach a decision if they want to live. That night changed everything for these children.\n\nFive years later, the family of three now lives under the watchful eye of the small Imperial Church in a nearby village. All is fine and dandy until the Church attempts to reclaim the demonic sword of Murasame. To accomplish this, they kidnap Hamaji to lure Shino, now a bearer of Murasame's soul, and Sousuke, who possesses the ability to transform into a dog. The brothers must put their differences aside to rescue their beloved sister from the Church in the Imperial Capital, signalling the beginning of a very difficult journey. ",
   "mean": 7.38,
-  "rank": 2538,
+  "rank": 2537,
   "popularity": 2059,
-  "num_list_users": 119525,
-  "num_scoring_users": 44623,
+  "num_list_users": 119544,
+  "num_scoring_users": 44632,
   "nsfw": "white",
   "created_at": "2012-09-20T22:08:24+00:00",
-  "updated_at": "2023-04-17T05:59:36+00:00",
+  "updated_at": "2025-11-13T14:30:30+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 7,
@@ -45,6 +41,10 @@
     {
       "id": 25,
       "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 13,
