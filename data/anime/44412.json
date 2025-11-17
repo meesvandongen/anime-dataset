@@ -10,19 +10,19 @@
       "Battle Through the Heavens 4th Season"
     ],
     "en": "Fights Break Sphere 4th Season",
-    "ja": "斗破苍穹 第四季"
+    "ja": "斗破苍穹 第4季"
   },
   "start_date": "2021-03-28",
   "end_date": "2021-08-29",
   "synopsis": "To awaken his teacher Yao Cheng, Xiao Yan travels to the capital for a meeting of the pill masters. His power was immediately noticed, people who wanted to use it, but at the decisive moment Xiao Yan still becomes a champion and defends the honor of the empire. But Xiao Yan is waiting for a meeting, for which he has been preparing for three whole years...",
   "mean": 8.26,
-  "rank": 336,
-  "popularity": 7071,
-  "num_list_users": 9965,
-  "num_scoring_users": 4769,
+  "rank": 335,
+  "popularity": 7069,
+  "num_list_users": 9983,
+  "num_scoring_users": 4774,
   "nsfw": "white",
   "created_at": "2020-12-07T16:02:36+00:00",
-  "updated_at": "2022-04-13T06:23:20+00:00",
+  "updated_at": "2025-11-15T11:34:01+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -39,20 +39,16 @@
       "name": "Fantasy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     },
     {
-      "id": 6,
-      "name": "Mythology"
-    },
-    {
       "id": 22,
       "name": "Romance"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 24,
@@ -60,7 +56,7 @@
     "year": 2021,
     "season": "winter"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1440,
   "rating": "pg_13",
   "studios": [

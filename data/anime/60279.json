@@ -1,28 +1,30 @@
 {
   "id": 60279,
-  "title": "Xian Ni: Shenlin Zhi Zhan",
+  "title": "Xian Ni Movie: Shenlin Zhi Zhan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1177/146446.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1177/146446l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1177/146446.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1177/146446l.webp"
   },
   "alternative_titles": {
     "synonyms": [
-      "Xian Ni Juchang Ban: Shenlin Zhi Zhan, Renegade Immortal Movie"
+      "Xian Ni Juchang Ban: Shenlin Zhi Zhan",
+      "Renegade Immortal Movie",
+      "Renegade Immortal: Divine Descent"
     ],
     "en": "Renegade Immortal: Battle of Gods",
     "ja": "仙逆剧场版 神临之战"
   },
   "start_date": "2025-05-30",
   "end_date": "2025-05-30",
-  "synopsis": "After Wang Lin's arrival in the Ancient God Land, the Eternal Night Demon City in the Demon Cultivation Sea rose overnight, continuously attacking the surrounding sects. During the battle to defend the gate, Li Muwan was poisoned, her life hanging in the balance. Upon learning of this, Wang Lin took her back to the Demon Cultivation Sea, revealing a thousand-year conspiracy...\n\n(Source: Tencent, Google translated)",
-  "mean": 7.56,
-  "rank": 1816,
-  "popularity": 13795,
+  "synopsis": "After Wang Lin's arrival in the Ancient God Land, the Eternal Night Demon City in the Demon Cultivation Sea rose overnight, continuously attacking the surrounding sects. During the battle to defend the gate, Li Muwan was poisoned, her life hanging in the balance. Upon learning of this, Wang Lin took her back to the Demon Cultivation Sea, revealing a thousand-year conspiracy...\n\n(Source: Tencent, translated)",
+  "mean": 7.57,
+  "rank": 1764,
+  "popularity": 13808,
   "num_list_users": 1312,
-  "num_scoring_users": 399,
+  "num_scoring_users": 402,
   "nsfw": "white",
   "created_at": "2024-11-11T10:42:07+00:00",
-  "updated_at": "2025-11-09T15:13:50+00:00",
+  "updated_at": "2025-11-14T00:11:08+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -41,6 +43,10 @@
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
     }
   ],
   "num_episodes": 1,
@@ -48,7 +54,7 @@
     "year": 2025,
     "season": "spring"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 5636,
   "rating": "pg_13",
   "studios": [

@@ -1,6 +1,6 @@
 {
   "id": 62530,
-  "title": "Blue Gale Xabungle Side-L",
+  "title": "Blue Gale Xabungle Side L",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1084/152151.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1084/152151l.jpg"
@@ -9,18 +9,18 @@
     "synonyms": [
       "Sentou Mecha Xabungle Side-L"
     ],
-    "en": "Blue Gale Xabungle Side-L",
+    "en": "Blue Gale Xabungle Side L",
     "ja": "BLUE GALE XABUNGLE SIDE L"
   },
   "start_date": "2025-05-14",
   "end_date": "2025-05-14",
   "synopsis": "Based on the Xabungle TV series, this experimental video features a mix of old footage combined with new digital animation. Part of the Sunrise Robot Laboratory series.",
-  "popularity": 28945,
-  "num_list_users": 63,
-  "num_scoring_users": 21,
+  "popularity": 28600,
+  "num_list_users": 78,
+  "num_scoring_users": 27,
   "nsfw": "white",
   "created_at": "2025-09-20T23:08:08+00:00",
-  "updated_at": "2025-09-21T08:28:19+00:00",
+  "updated_at": "2025-11-16T14:00:33+00:00",
   "media_type": "pv",
   "status": "finished_airing",
   "genres": [
@@ -45,6 +45,10 @@
     {
       "id": 14,
       "name": "Sunrise"
+    },
+    {
+      "id": 437,
+      "name": "Kamikaze Douga"
     }
   ]
 }

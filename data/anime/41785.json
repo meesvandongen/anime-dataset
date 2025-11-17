@@ -2,28 +2,27 @@
   "id": 41785,
   "title": "Ze Tian Ji 5th Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1705/107205.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1705/107205l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1705/107205.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1705/107205l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Way of Choices 5th Season",
-      "Fighter of the Destiny 5th Season"
+      "Fighter of the Destiny"
     ],
-    "en": "",
+    "en": "Way of Choices",
     "ja": "择天记 第五季"
   },
   "start_date": "2020-03-16",
   "end_date": "2020-05-25",
   "synopsis": "The fifth season of Ze Tian Ji.",
   "mean": 7.14,
-  "rank": 3864,
-  "popularity": 11433,
-  "num_list_users": 2629,
+  "rank": 3862,
+  "popularity": 11439,
+  "num_list_users": 2630,
   "num_scoring_users": 905,
   "nsfw": "white",
   "created_at": "2020-04-24T15:03:53+00:00",
-  "updated_at": "2021-07-15T16:18:27+00:00",
+  "updated_at": "2025-11-14T14:28:44+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +37,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     }
   ],
   "num_episodes": 12,
@@ -45,7 +48,7 @@
     "year": 2020,
     "season": "winter"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1274,
   "rating": "pg_13",
   "studios": [

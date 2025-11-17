@@ -1,0 +1,66 @@
+{
+  "id": 61316,
+  "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1040/153636.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1040/153636l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Re: Life in a different world from zero",
+      "ReZero"
+    ],
+    "en": "Re:ZERO -Starting Life in Another World- Season 4",
+    "ja": "Re:ゼロから始める異世界生活 4th season"
+  },
+  "start_date": "2026-04",
+  "synopsis": "In the deadly battle at the Watergate City of Priestella, Subaru and his allies barely emerged victorious—but their triumph came at a great cost. Through the \"Authority of Gluttony,\" Rem was put into suspended animation, while Crusch's memories and even Julius’s name were devoured. As he searches for a way to save them, Subaru learns of the \"wise man\" Shaula—an all-seeing being said to possess every form of knowledge. His next destination is the Pleiades Watchtower, home to a wise man, the farthest tower standing in the vast, uncharted desert known as the Auguria Dunes—a place so perilous that even the mightiest \"Sword Saint,\" Reinhard, failed to conquer it. The fury of nature, unknown magical beasts, and unimaginable dangers lie ahead. Together with his friends, Subaru embarks on a life-risking journey to reclaim what was lost.\n\n(Source: Kadokawa)",
+  "popularity": 2510,
+  "num_list_users": 88454,
+  "num_scoring_users": 69,
+  "nsfw": "white",
+  "created_at": "2025-03-26T15:47:32+00:00",
+  "updated_at": "2025-11-16T10:01:12+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 314,
+      "name": "White Fox"
+    }
+  ]
+}

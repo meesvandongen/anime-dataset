@@ -15,13 +15,13 @@
   "start_date": "2022-07-31",
   "synopsis": "Fifth season of Doupo Cangqiong.",
   "mean": 8.44,
-  "rank": 186,
+  "rank": 187,
   "popularity": 6670,
-  "num_list_users": 11452,
-  "num_scoring_users": 3894,
+  "num_list_users": 11480,
+  "num_scoring_users": 3899,
   "nsfw": "white",
   "created_at": "2022-02-15T17:07:53+00:00",
-  "updated_at": "2025-07-28T06:24:44+00:00",
+  "updated_at": "2025-11-14T18:37:00+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -38,6 +38,10 @@
       "name": "Fantasy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     }
@@ -47,7 +51,7 @@
     "year": 2022,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1440,
   "rating": "pg_13",
   "studios": [

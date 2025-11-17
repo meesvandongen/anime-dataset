@@ -1,0 +1,44 @@
+{
+  "id": 62906,
+  "title": "Memi Memi♡Myun Myun",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1572/153383.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1572/153383l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "メミメミ♡ミュンミュン"
+  },
+  "start_date": "2025-11-07",
+  "end_date": "2025-11-07",
+  "synopsis": "Music video for the song Memi Memi♡Myun Myun by Mitchie M featuring Hatsune Miku.",
+  "popularity": 29176,
+  "num_list_users": 46,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2025-11-07T15:03:31+00:00",
+  "updated_at": "2025-11-11T08:42:56+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 164,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1045,
+      "name": "Space Neko Company"
+    }
+  ]
+}

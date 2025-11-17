@@ -2,15 +2,14 @@
   "id": 37185,
   "title": "Ze Tian Ji 3rd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1724/90239.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1724/90239l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1724/90239.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1724/90239l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Way of Choices 3rd Season",
-      "Fighter of the Destiny 3rd Season"
+      "Fighter of the Destiny"
     ],
-    "en": "",
+    "en": "Way of Choices",
     "ja": "择天记 第三季"
   },
   "start_date": "2017-07-26",
@@ -18,12 +17,12 @@
   "synopsis": "The third season of Ze Tian Ji.",
   "mean": 6.96,
   "rank": 4732,
-  "popularity": 10329,
-  "num_list_users": 3610,
-  "num_scoring_users": 1284,
+  "popularity": 10333,
+  "num_list_users": 3611,
+  "num_scoring_users": 1285,
   "nsfw": "white",
   "created_at": "2018-01-24T03:53:56+00:00",
-  "updated_at": "2022-04-11T22:05:44+00:00",
+  "updated_at": "2025-11-14T14:24:44+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +37,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     }
   ],
   "num_episodes": 12,
@@ -45,7 +48,7 @@
     "year": 2017,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1200,
   "rating": "pg_13",
   "studios": [

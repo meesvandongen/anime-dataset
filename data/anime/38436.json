@@ -10,19 +10,19 @@
       "Battle Through the Heavens 3rd Season"
     ],
     "en": "Fights Break Sphere 3rd Season",
-    "ja": "斗破苍穹 第三季"
+    "ja": "斗破苍穹 第3季"
   },
   "start_date": "2019-07-21",
   "end_date": "2019-09-29",
   "synopsis": "To obtain the Magic Flame, Xiao Yan and his teacher went to a desert full of snakes, which angered the Master of the Snake Tribe, Yue Mei. When Xiao Yan was on the very edge of death, he was rescued by the Master of Fight, whose face was hidden by a mask. As it turned out, he was also looking for the Magic Flame. The Snake Tribe refused to hand over the Magic Flame to the Master of Fight, but when he attacked the Queen of the tribe, it turned out that it was just a shell, and the real queen is preparing to absorb the Magic Flame in order to become the God of Fight. The Snake Tribe attacked those who dared to raise their hand against their queen, while Xiao Yan was able to find traces of the Magic Flame in the midst of the battle and hunt down the Queen...",
-  "mean": 7.89,
-  "rank": 883,
-  "popularity": 6727,
-  "num_list_users": 11220,
-  "num_scoring_users": 5344,
+  "mean": 7.88,
+  "rank": 910,
+  "popularity": 6723,
+  "num_list_users": 11233,
+  "num_scoring_users": 5348,
   "nsfw": "white",
   "created_at": "2018-10-01T04:34:09+00:00",
-  "updated_at": "2022-04-13T06:24:52+00:00",
+  "updated_at": "2025-11-15T11:33:49+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -43,16 +43,8 @@
       "name": "Martial Arts"
     },
     {
-      "id": 6,
-      "name": "Mythology"
-    },
-    {
       "id": 22,
       "name": "Romance"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 12,
@@ -60,7 +52,7 @@
     "year": 2019,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1380,
   "rating": "pg_13",
   "studios": [

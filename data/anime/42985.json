@@ -17,13 +17,13 @@
   "end_date": "2019-11-17",
   "synopsis": "",
   "mean": 7.48,
-  "rank": 2107,
-  "popularity": 11782,
-  "num_list_users": 2383,
-  "num_scoring_users": 1072,
+  "rank": 2106,
+  "popularity": 11766,
+  "num_list_users": 2399,
+  "num_scoring_users": 1080,
   "nsfw": "white",
   "created_at": "2020-09-29T17:44:54+00:00",
-  "updated_at": "2022-03-30T20:38:00+00:00",
+  "updated_at": "2025-11-15T19:23:03+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 14,
       "name": "Horror"
-    },
-    {
-      "id": 6,
-      "name": "Mythology"
     },
     {
       "id": 24,

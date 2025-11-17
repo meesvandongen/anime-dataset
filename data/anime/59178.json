@@ -2,25 +2,28 @@
   "id": 59178,
   "title": "Zhui Xu 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1296/143811.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1296/143811l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1798/153548.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1798/153548l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "赘婿 龙蛇篇",
+      "Zhui Xu: Long She Pian"
+    ],
     "en": "My Heroic Husband",
     "ja": "赘婿 第二季"
   },
   "start_date": "2024-07-28",
   "end_date": "2024-11-03",
   "synopsis": "The second season of Zhui Xu.",
-  "mean": 7.29,
-  "rank": 3003,
-  "popularity": 15941,
-  "num_list_users": 749,
+  "mean": 7.28,
+  "rank": 3023,
+  "popularity": 15926,
+  "num_list_users": 751,
   "num_scoring_users": 208,
   "nsfw": "white",
   "created_at": "2024-06-29T15:27:20+00:00",
-  "updated_at": "2024-11-04T19:57:32+00:00",
+  "updated_at": "2025-11-13T22:58:43+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,7 +41,7 @@
     "year": 2024,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1403,
   "rating": "pg_13",
   "studios": [

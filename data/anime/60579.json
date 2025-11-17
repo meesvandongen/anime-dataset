@@ -12,15 +12,15 @@
     "en": "The Man From Dao Xiang Cun",
     "ja": "剑网3·沈剑心的365天"
   },
-  "start_date": "2025-10-18",
-  "synopsis": "After Shen Jianxin returns to Daoxiang Village again, strange tales, unsolved cases, and outrageous inventions constantly appear... He and his partners embark on a new adventure.\n\n(Source: Bilibili, translated)",
-  "rank": 17313,
-  "popularity": 21371,
-  "num_list_users": 258,
-  "num_scoring_users": 0,
+  "start_date": "2025-11-08",
+  "synopsis": "After Shen Jianxin returns to Daoxiang Village again, strange tales, unsolved cases, and outrageous inventions constantly appear... He and his partners embark on a new adventure.\n\n(Source: Bilibili)",
+  "rank": 17374,
+  "popularity": 21264,
+  "num_list_users": 271,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2024-12-21T19:31:11+00:00",
-  "updated_at": "2025-10-01T07:07:58+00:00",
+  "updated_at": "2025-11-13T23:38:06+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -52,5 +52,10 @@
   },
   "source": "game",
   "average_episode_duration": 300,
-  "studios": []
+  "studios": [
+    {
+      "id": 2462,
+      "name": "Seasun Pictures"
+    }
+  ]
 }

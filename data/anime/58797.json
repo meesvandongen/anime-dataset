@@ -2,28 +2,27 @@
   "id": 58797,
   "title": "Wanmei Shijie Movie: Huo Zhi Huijin",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1730/145386.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1730/145386l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1730/145386.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1730/145386l.webp"
   },
   "alternative_titles": {
     "synonyms": [
-      "Perfect World Theater Edition",
-      "Perfect World: Ashes of the Fire"
+      "Perfect World Theater Edition"
     ],
-    "en": "Perfect World Movie",
-    "ja": "完美世界 剧场版"
+    "en": "Perfect World The Movie: Ashes of Fire",
+    "ja": "完美世界剧场版 火之灰烬"
   },
   "start_date": "2024-09-14",
   "end_date": "2024-09-14",
-  "synopsis": "The reunion of Huo Sang plays the tragic song of sin and blood, and the stone spirit is reborn from the desperate situation when the ashes fall.\n\n(Source: v.qq, translated)",
+  "synopsis": "The reunion of Huo Sang plays the tragic song of sin and blood, and the stone spirit is reborn from the desperate situation when the ashes fall.\n\n(Source: Tencent, translated)",
   "mean": 7.46,
-  "rank": 2197,
-  "popularity": 14685,
-  "num_list_users": 1049,
-  "num_scoring_users": 326,
+  "rank": 2196,
+  "popularity": 14689,
+  "num_list_users": 1052,
+  "num_scoring_users": 328,
   "nsfw": "white",
   "created_at": "2024-05-04T20:27:32+00:00",
-  "updated_at": "2024-09-23T21:07:55+00:00",
+  "updated_at": "2025-11-16T04:17:43+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +37,14 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
     }
   ],
   "num_episodes": 3,
@@ -45,7 +52,7 @@
     "year": 2024,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 2206,
   "rating": "pg_13",
   "studios": [

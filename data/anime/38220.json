@@ -7,23 +7,22 @@
   },
   "alternative_titles": {
     "synonyms": [
-      "Way of Choices 4th Season",
-      "Fighter of the Destiny 4th Season"
+      "Fighter of the Destiny"
     ],
-    "en": "",
+    "en": "Way of Choices",
     "ja": "择天记 第四季"
   },
   "start_date": "2018-08-22",
   "end_date": "2018-10-31",
   "synopsis": "The fourth season of Ze Tian Ji.",
   "mean": 7.16,
-  "rank": 3712,
-  "popularity": 10918,
-  "num_list_users": 3043,
-  "num_scoring_users": 1091,
+  "rank": 3711,
+  "popularity": 10921,
+  "num_list_users": 3044,
+  "num_scoring_users": 1092,
   "nsfw": "white",
   "created_at": "2018-08-24T10:57:48+00:00",
-  "updated_at": "2022-03-13T11:39:54+00:00",
+  "updated_at": "2025-11-14T14:26:49+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +37,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     }
   ],
   "num_episodes": 12,
@@ -45,7 +48,7 @@
     "year": 2018,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1200,
   "rating": "pg_13",
   "studios": [

@@ -2,8 +2,8 @@
   "id": 62066,
   "title": "Monster Strike: Deadverse Reloaded",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1090/151875.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1090/151875l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1090/151875.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1090/151875l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,14 +11,15 @@
     "ja": "モンスターストライク デッドバースリローデッド"
   },
   "start_date": "2025-10-21",
+  "end_date": "2025-12-23",
   "synopsis": "Rinne is a girl who cannot see other people's faces. Born into a family whose job it is to exorcise supernatural beings, she sets out on her first mission, but encounters an enemy far more bizarre than she expected. She finds herself in danger.\n\nAfter being rescued by a mysterious man named Jugemu, Rinne learns that all worlds, including the one she lives in, known as \"Strike Worlds,\" are under threat. As she travels with Jugemu through a number of worlds that are coming to an end, she forms bonds with him...\n\n(Source: Official Site)",
-  "rank": 18823,
-  "popularity": 10712,
-  "num_list_users": 3226,
-  "num_scoring_users": 43,
+  "rank": 18836,
+  "popularity": 10615,
+  "num_list_users": 3327,
+  "num_scoring_users": 51,
   "nsfw": "white",
   "created_at": "2025-07-17T04:36:17+00:00",
-  "updated_at": "2025-10-24T03:45:47+00:00",
+  "updated_at": "2025-11-14T03:36:28+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -35,7 +36,7 @@
       "name": "Isekai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 10,
   "start_season": {
     "year": 2025,
     "season": "fall"

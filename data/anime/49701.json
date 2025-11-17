@@ -2,8 +2,8 @@
   "id": 49701,
   "title": "Doupo Cangqiong: San Nian Zhi Yue",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1029/118861.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1029/118861l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1029/118861.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1029/118861l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2022-01-16",
   "synopsis": "Three years ago, Na lan Yan Ran dropped her engagement, which made the Xiao family a laughing stock in the eyes of the Empire. Xiao Yan trained for three whole years through mountains and deserts to regain his honor. He will prove by himself that everything in this world can be changed, so do not underestimate the young. Today he will put an end to the history of his past, because the future awaits him!",
   "mean": 8.56,
-  "rank": 119,
-  "popularity": 6753,
-  "num_list_users": 11086,
-  "num_scoring_users": 4923,
+  "rank": 122,
+  "popularity": 6755,
+  "num_list_users": 11106,
+  "num_scoring_users": 4930,
   "nsfw": "white",
   "created_at": "2021-08-29T02:46:48+00:00",
-  "updated_at": "2023-01-26T09:47:40+00:00",
+  "updated_at": "2025-11-15T11:34:16+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -31,8 +31,16 @@
       "name": "Action"
     },
     {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,
@@ -44,7 +52,7 @@
     "year": 2021,
     "season": "fall"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1440,
   "rating": "pg_13",
   "studios": [

@@ -1,30 +1,29 @@
 {
   "id": 48694,
-  "title": "Huyao Xiao Hongniang: Liang Shenghua",
+  "title": "Huyao Xiao Hongniang 10: Liang Shenghua Pian",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1479/114296.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1479/114296l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1479/114296.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1479/114296l.webp"
   },
   "alternative_titles": {
     "synonyms": [
-      "Fox Spirit Matchmaker 11th Season",
-      "Little Foxspirit Matchmaker Season 11",
+      "Little Foxspirit Matchmaker Season 10",
       "Enmusubi no Youko-chan"
     ],
-    "en": "",
-    "ja": "狐妖小红娘 两生花"
+    "en": "Fox Spirit Matchmaker 10th Season",
+    "ja": "狐妖小红娘10 两生花篇"
   },
   "start_date": "2021-03-26",
   "end_date": "2021-06-04",
-  "synopsis": "The eleventh season of Huyao Xiao Hongniang.",
+  "synopsis": "The 10th season of Huyao Xiao Hongniang.",
   "mean": 6.67,
-  "rank": 6326,
-  "popularity": 11986,
-  "num_list_users": 2248,
+  "rank": 6320,
+  "popularity": 11994,
+  "num_list_users": 2247,
   "num_scoring_users": 432,
   "nsfw": "white",
   "created_at": "2021-04-08T18:14:52+00:00",
-  "updated_at": "2023-01-11T15:47:47+00:00",
+  "updated_at": "2025-11-16T00:39:44+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -58,10 +57,6 @@
   "average_episode_duration": 1124,
   "rating": "pg_13",
   "studios": [
-    {
-      "id": 1325,
-      "name": "Haoliners Animation League"
-    },
     {
       "id": 2175,
       "name": "GARDEN Culture"

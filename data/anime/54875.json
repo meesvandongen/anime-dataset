@@ -2,8 +2,8 @@
   "id": 54875,
   "title": "Zhui Xu",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1574/134825.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1574/134825l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1657/153549.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1657/153549l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,15 +12,15 @@
   },
   "start_date": "2023-04-23",
   "end_date": "2023-07-02",
-  "synopsis": "The business elite—Yi Ning traveled to the Wu Dynasty in an alternate history, and became a son-in-law with a low status—surnamed Ning, named Yi, and a courtesy name Liheng. Because Yi Ning dreamed of martial arts since childhood, he simply hid his already familiar business skills in the second life, and aspired to become a generation of heroes. Unexpectedly, the morals of the world are not as simple as he thought. After becoming Ning Yi, not only was he involved in important court cases, but the Su family that he had joined was also threatened by powerful enemies... \n\n(Source: Bilibili, Google translated & edited)",
+  "synopsis": "The business elite—Yi Ning traveled to the Wu Dynasty in an alternate history, and became a son-in-law with a low status—surnamed Ning, named Yi, and a courtesy name Liheng. Because Yi Ning dreamed of martial arts since childhood, he simply hid his already familiar business skills in the second life, and aspired to become a generation of heroes. Unexpectedly, the morals of the world are not as simple as he thought. After becoming Ning Yi, not only was he involved in important court cases, but the Su family that he had joined was also threatened by powerful enemies... \n\n(Source: Bilibili, translated)",
   "mean": 7.37,
-  "rank": 2580,
-  "popularity": 12911,
-  "num_list_users": 1688,
-  "num_scoring_users": 557,
+  "rank": 2579,
+  "popularity": 12910,
+  "num_list_users": 1694,
+  "num_scoring_users": 559,
   "nsfw": "white",
   "created_at": "2023-03-26T16:26:54+00:00",
-  "updated_at": "2023-07-03T05:31:47+00:00",
+  "updated_at": "2025-11-13T22:57:28+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
       "name": "Comedy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     }
@@ -42,7 +46,7 @@
     "year": 2023,
     "season": "spring"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1614,
   "rating": "pg_13",
   "studios": [

@@ -14,13 +14,13 @@
   "end_date": "2021-10-02",
   "synopsis": "Second season of Yuan Long.",
   "mean": 7.03,
-  "rank": 4410,
-  "popularity": 10904,
-  "num_list_users": 3058,
+  "rank": 4412,
+  "popularity": 10908,
+  "num_list_users": 3059,
   "num_scoring_users": 1174,
   "nsfw": "white",
   "created_at": "2020-11-21T14:33:32+00:00",
-  "updated_at": "2022-01-16T18:34:37+00:00",
+  "updated_at": "2025-11-14T01:31:37+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     }
   ],
   "num_episodes": 16,
@@ -42,7 +46,7 @@
     "year": 2021,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1142,
   "rating": "pg_13",
   "studios": [

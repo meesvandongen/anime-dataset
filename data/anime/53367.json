@@ -1,34 +1,41 @@
 {
   "id": 53367,
-  "title": "Shen Lan Qi Yu Wushuang Zhu: Tianmo Pian",
+  "title": "Shen Lan Qi Yu Wushuang Zhu: Hong Bao Pian",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1349/132466.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1349/132466l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
+      "神澜奇域无双珠II",
+      "Shen Lan Qi Yu Wushuang Zhu II",
+      "神澜奇域无双珠 第二季",
       "Shen Lan Qi Yu Wushuang Zhu 2nd Season"
     ],
     "en": "The Land of Miracles 2nd Season",
-    "ja": "神澜奇域无双珠 天魔篇"
+    "ja": "神澜奇域无双珠 红宝篇"
   },
   "start_date": "2023-01-14",
   "end_date": "2023-04-15",
   "synopsis": "The second season of Shen Lan Qi Yu Wushuang Zhu.",
   "mean": 7.59,
   "rank": 1702,
-  "popularity": 14246,
-  "num_list_users": 1169,
-  "num_scoring_users": 482,
+  "popularity": 14243,
+  "num_list_users": 1171,
+  "num_scoring_users": 483,
   "nsfw": "white",
   "created_at": "2022-10-15T18:41:25+00:00",
-  "updated_at": "2023-06-22T10:25:38+00:00",
+  "updated_at": "2025-11-16T15:04:16+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
     },
     {
       "id": 10,
