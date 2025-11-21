@@ -14,13 +14,13 @@
   "end_date": "1988-12-25",
   "synopsis": "The story of a young girl and a young dragon. Naturally, they are the best of friends, and naturally the rest of the world is against them both. However, when demons decide to trash their world, they side with those who have always been against them.\n\n(Source: AniDB)",
   "mean": 5.6,
-  "rank": 12232,
-  "popularity": 10790,
-  "num_list_users": 3170,
-  "num_scoring_users": 1378,
+  "rank": 12236,
+  "popularity": 10786,
+  "num_list_users": 3177,
+  "num_scoring_users": 1383,
   "nsfw": "white",
   "created_at": "2008-04-13T22:05:13+00:00",
-  "updated_at": "2021-08-28T01:11:24+00:00",
+  "updated_at": "2025-11-15T19:34:15+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 2,

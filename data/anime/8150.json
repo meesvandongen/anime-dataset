@@ -2,8 +2,8 @@
   "id": 8150,
   "title": "Gegege no Kitarou: Chisougan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/5/84231.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/5/84231l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/5/84231.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/5/84231l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "1980-07-12",
   "synopsis": "An abbreviated 12 minute version of episode 37 from the 1971 TV anime. This was shown as part of the summer 1980 Toei Manga Matsuri and uses entirely recycled footage.\n\n(Source: TSHS)",
   "mean": 5.84,
-  "rank": 11123,
-  "popularity": 13927,
-  "num_list_users": 1275,
+  "rank": 11128,
+  "popularity": 13938,
+  "num_list_users": 1274,
   "num_scoring_users": 386,
   "nsfw": "white",
   "created_at": "2010-02-12T15:58:20+00:00",
-  "updated_at": "2017-05-14T19:05:53+00:00",
+  "updated_at": "2025-11-17T12:31:47+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -33,10 +33,6 @@
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 14,

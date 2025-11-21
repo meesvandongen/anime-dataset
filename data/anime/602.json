@@ -2,8 +2,8 @@
   "id": 602,
   "title": "KO Seiki Beast Sanjuushi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/20394.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/12/20394l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/20394.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/12/20394l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "1993-11-21",
   "synopsis": "The series is set in the distant future in which the Earth is split in two. The southern hemisphere is placed in another dimension while the inhabitants of the northern hemisphere are able to morph into beast-like humanoids. Eventually the humans of the southern hemisphere, led by Uranus, attack the Beasts.\n\nThe Three Beasts, Wan Derbard (Wan Dabadadatta) of the Tiger Tribe, Bud Mint (Baado Mint) of the Bird Tribe, and Mei Mer (Mei Mah) of the Mermaid Tribe, are taken prisoner along with Mei Mer's companion Tuttle Millen (Mekka Mannen, also of the Mermaid tribe), but manage to escape thanks to a little girl named Yuuni Charm Password. Together they seek Gaia, which they believe to be a fabulous treasure, but they are pursued by Uranus's minions : V-Darn the vicious mage-knight, V-Sion the warrior woman and Akumako, V-Darn's sadistic imp-like partner.\n\n(Source: Wikipedia)",
   "mean": 6.48,
-  "rank": 7440,
-  "popularity": 10089,
-  "num_list_users": 3927,
+  "rank": 7439,
+  "popularity": 10090,
+  "num_list_users": 3933,
   "num_scoring_users": 1369,
   "nsfw": "white",
   "created_at": "2006-01-29T16:56:09+00:00",
-  "updated_at": "2025-10-17T21:48:41+00:00",
+  "updated_at": "2025-11-18T12:44:41+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -41,10 +41,6 @@
     {
       "id": 18,
       "name": "Mecha"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 7,
