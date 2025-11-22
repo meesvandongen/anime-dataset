@@ -17,12 +17,12 @@
   "synopsis": "A recap of the whole Digimon Savers TV series in one episode, with original commentary by Agumon, Gaomon, and Lalamon, included in the final volume of the DVD releases.\n\n",
   "mean": 6.54,
   "rank": 7055,
-  "popularity": 7699,
-  "num_list_users": 8031,
-  "num_scoring_users": 2893,
+  "popularity": 7700,
+  "num_list_users": 8035,
+  "num_scoring_users": 2894,
   "nsfw": "white",
   "created_at": "2008-06-18T07:55:08+00:00",
-  "updated_at": "2021-07-03T08:50:21+00:00",
+  "updated_at": "2025-11-17T12:28:20+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -45,10 +45,6 @@
     {
       "id": 24,
       "name": "Sci-Fi"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

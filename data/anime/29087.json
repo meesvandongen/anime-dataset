@@ -2,8 +2,8 @@
   "id": 29087,
   "title": "Wangpai Yushi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/13/82852.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/13/82852l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/82852.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/13/82852l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2016-01-20",
   "synopsis": "In a world where yin and yang has lost its balance and day merged with night, humans and monsters learn to coexist. Our hardworking censorates do their best to fight the ‘untamed’ monsters in this joyful story.\n\n(Source: EIH Scans)",
   "mean": 6.51,
-  "rank": 7283,
-  "popularity": 10193,
-  "num_list_users": 3793,
+  "rank": 7287,
+  "popularity": 10199,
+  "num_list_users": 3794,
   "num_scoring_users": 715,
   "nsfw": "white",
   "created_at": "2014-12-27T03:00:46+00:00",
-  "updated_at": "2022-11-23T20:54:56+00:00",
+  "updated_at": "2025-11-18T12:39:27+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -37,10 +37,6 @@
     {
       "id": 23,
       "name": "School"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 39,
@@ -48,7 +44,7 @@
     "year": 2014,
     "season": "spring"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 590,
   "rating": "pg_13",
   "studios": [

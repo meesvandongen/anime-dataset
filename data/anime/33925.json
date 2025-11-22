@@ -8,25 +8,30 @@
   "alternative_titles": {
     "synonyms": [
       "Painting Rivers and Lakes 2",
-      "Hua Jiang Hu: Bu Liang Ren 2nd Season"
+      "Hua Jiang Hu: Bu Liang Ren 2nd Season",
+      "画江湖之不良人 第二季"
     ],
-    "en": "",
+    "en": "The Degenerate-Drawing Jianghu 2",
     "ja": "画江湖之不良人II"
   },
   "start_date": "2016-07-21",
   "end_date": "2017-04-20",
-  "synopsis": "The continuation of Hua Jianghu: Bu Liang Ren.",
+  "synopsis": "The Longquan Treasure has reappeared, attracting numerous powerful figures in the martial arts world, including Bu Liang Ren, the Xuanming Sect, the Tongwen Hall, the Huanyin Pavilion, and the Celestial Master's Mansion! Who among the kings can raise their swords and command the world? Li Xingyun, a key figure in the Longquan Treasure and a descendant of the Tang Dynasty, will he rebuild the Tang Dynasty's golden age or retire from the martial arts world? Will Linxuan and Zifan be able to resolve their misunderstandings and rekindle their romance? The secrets of heaven are unpredictable, and the world is but a game of chess.\n\n(Source: Tencent, translated)",
   "mean": 6.47,
-  "rank": 7515,
-  "popularity": 13720,
-  "num_list_users": 1342,
-  "num_scoring_users": 337,
+  "rank": 7513,
+  "popularity": 13725,
+  "num_list_users": 1344,
+  "num_scoring_users": 338,
   "nsfw": "white",
   "created_at": "2016-08-21T14:14:24+00:00",
-  "updated_at": "2022-03-10T19:22:50+00:00",
+  "updated_at": "2025-11-20T23:21:00+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 2,
       "name": "Adventure"
