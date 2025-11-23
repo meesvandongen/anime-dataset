@@ -13,13 +13,13 @@
   "start_date": "2018-11-24",
   "end_date": "2019-03-30",
   "synopsis": "",
-  "rank": 17063,
-  "popularity": 16678,
+  "rank": 17075,
+  "popularity": 16684,
   "num_list_users": 635,
   "num_scoring_users": 48,
   "nsfw": "white",
   "created_at": "2018-10-19T08:26:50+00:00",
-  "updated_at": "2022-12-12T11:57:11+00:00",
+  "updated_at": "2025-11-19T13:13:41+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 6,
       "name": "Mythology"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 9,

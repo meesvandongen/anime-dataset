@@ -1,0 +1,44 @@
+{
+  "id": 62986,
+  "title": "Re:Möbius",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1353/153714.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1353/153714l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Re:メビウス"
+  },
+  "start_date": "2025-11-21",
+  "end_date": "2025-11-21",
+  "synopsis": "\"In a world that has been shattered somewhere, I continue to search for something.\"\n\n(Source: Official Youtube, translated)",
+  "popularity": 29342,
+  "num_list_users": 21,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2025-11-21T08:31:37+00:00",
+  "updated_at": "2025-11-22T12:56:04+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 254,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3240,
+      "name": "Soul Creative"
+    }
+  ]
+}

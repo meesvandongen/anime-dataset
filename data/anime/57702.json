@@ -2,8 +2,8 @@
   "id": 57702,
   "title": "Zaiyuki Pilot",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1167/140701.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1167/140701l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1167/140701.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1167/140701l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,14 +13,14 @@
   "start_date": "2023-12-30",
   "end_date": "2023-12-30",
   "synopsis": "Pilot version of the upcoming Zaiyuki series released on Twitter.",
-  "mean": 6.77,
-  "rank": 5674,
-  "popularity": 15635,
-  "num_list_users": 813,
-  "num_scoring_users": 179,
+  "mean": 6.79,
+  "rank": 5589,
+  "popularity": 15629,
+  "num_list_users": 817,
+  "num_scoring_users": 182,
   "nsfw": "white",
   "created_at": "2024-01-01T18:17:49+00:00",
-  "updated_at": "2024-01-10T17:55:22+00:00",
+  "updated_at": "2025-11-19T13:15:14+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -31,10 +31,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

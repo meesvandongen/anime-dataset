@@ -17,10 +17,10 @@
   "end_date": "2022-04-04",
   "synopsis": "Tenth season of Yami Shibai",
   "mean": 6.18,
-  "rank": 9273,
-  "popularity": 6544,
-  "num_list_users": 11957,
-  "num_scoring_users": 4507,
+  "rank": 9274,
+  "popularity": 6546,
+  "num_list_users": 11968,
+  "num_scoring_users": 4512,
   "nsfw": "white",
   "created_at": "2021-12-17T12:16:18+00:00",
   "updated_at": "2022-12-29T07:58:37+00:00",
@@ -56,14 +56,6 @@
     {
       "id": 1169,
       "name": "ILCA"
-    },
-    {
-      "id": 2056,
-      "name": "DRAWIZ"
-    },
-    {
-      "id": 2438,
-      "name": "yell"
     }
   ]
 }

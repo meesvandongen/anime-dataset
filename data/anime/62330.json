@@ -13,8 +13,8 @@
   "start_date": "2019-02-22",
   "end_date": "2019-03-22",
   "synopsis": "Special episodes of Yankee Hamster to commemorate the release of Season 2.",
-  "rank": 16803,
-  "popularity": 29048,
+  "rank": 16815,
+  "popularity": 29078,
   "num_list_users": 59,
   "num_scoring_users": 9,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 132,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1762,
+      "name": "Piso Studio"
+    }
+  ]
 }

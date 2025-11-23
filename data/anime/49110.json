@@ -18,9 +18,9 @@
   "synopsis": "Ninth season of Yami Shibai.",
   "mean": 5.92,
   "rank": 10708,
-  "popularity": 6135,
-  "num_list_users": 13993,
-  "num_scoring_users": 5515,
+  "popularity": 6137,
+  "num_list_users": 14003,
+  "num_scoring_users": 5518,
   "nsfw": "white",
   "created_at": "2021-06-04T13:47:29+00:00",
   "updated_at": "2025-08-23T00:52:33+00:00",
@@ -56,14 +56,6 @@
     {
       "id": 1169,
       "name": "ILCA"
-    },
-    {
-      "id": 2056,
-      "name": "DRAWIZ"
-    },
-    {
-      "id": 2438,
-      "name": "yell"
     }
   ]
 }

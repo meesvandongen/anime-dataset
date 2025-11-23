@@ -17,13 +17,13 @@
   "end_date": "2023-06-10",
   "synopsis": "Second season of Douluo Dalu.",
   "mean": 8.35,
-  "rank": 252,
-  "popularity": 5017,
-  "num_list_users": 23523,
-  "num_scoring_users": 10293,
+  "rank": 253,
+  "popularity": 5019,
+  "num_list_users": 23538,
+  "num_scoring_users": 10300,
   "nsfw": "white",
   "created_at": "2018-05-03T22:05:37+00:00",
-  "updated_at": "2025-11-12T20:00:38+00:00",
+  "updated_at": "2025-11-18T16:41:04+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -46,10 +46,6 @@
     {
       "id": 17,
       "name": "Martial Arts"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 237,

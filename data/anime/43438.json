@@ -14,12 +14,12 @@
   "end_date": "2020-10-09",
   "synopsis": "Music video of Majo no Tabitabi ending song.\n\nThe story of a girl who wants to break free.",
   "mean": 6.36,
-  "popularity": 12909,
+  "popularity": 12915,
   "num_list_users": 1694,
   "num_scoring_users": 812,
   "nsfw": "white",
   "created_at": "2020-10-15T16:09:01+00:00",
-  "updated_at": "2023-12-28T08:59:05+00:00",
+  "updated_at": "2025-11-17T12:59:46+00:00",
   "media_type": "music",
   "status": "finished_airing",
   "genres": [
@@ -30,10 +30,6 @@
     {
       "id": 19,
       "name": "Music"
-    },
-    {
-      "id": 37,
-      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

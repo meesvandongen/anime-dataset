@@ -13,9 +13,9 @@
   "start_date": "2025-03",
   "end_date": "2025-03",
   "synopsis": "When immersed in the contours swelling and waning in the forest of needles, the mundane world drifts away, and we only live to breathe.\n\n(Source: Yamamura Animation)",
-  "rank": 14467,
-  "popularity": 29199,
-  "num_list_users": 42,
+  "rank": 14478,
+  "popularity": 29219,
+  "num_list_users": 45,
   "num_scoring_users": 5,
   "nsfw": "white",
   "created_at": "2025-10-19T17:09:16+00:00",
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 304,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3221,
+      "name": "Miyajima Film"
+    }
+  ]
 }
