@@ -2,8 +2,8 @@
   "id": 25601,
   "title": "Pink Lady Monogatari: Eikou no Tenshi-tachi Recaps",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/65121.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/65121l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/65121.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/65121l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -21,13 +21,13 @@
   "start_date": "1979-06-19",
   "end_date": "1979-06-26",
   "synopsis": "Omnibus/compilation episodes of the main series that aired on TV right after the main series finished broadcasting sometimes known as episode 34 & 35.",
-  "rank": 19485,
-  "popularity": 19408,
-  "num_list_users": 385,
+  "rank": 19496,
+  "popularity": 19430,
+  "num_list_users": 386,
   "num_scoring_users": 56,
   "nsfw": "white",
   "created_at": "2014-07-29T05:36:55+00:00",
-  "updated_at": "2024-02-07T15:00:00+00:00",
+  "updated_at": "2025-11-26T08:09:34+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 19,
       "name": "Music"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 2,

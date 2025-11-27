@@ -18,12 +18,12 @@
   "synopsis": "Sequel of Shin Obake no Q-tarou.",
   "mean": 6.24,
   "rank": 8907,
-  "popularity": 14353,
-  "num_list_users": 1145,
+  "popularity": 14361,
+  "num_list_users": 1147,
   "num_scoring_users": 499,
   "nsfw": "white",
   "created_at": "2010-01-24T12:31:15+00:00",
-  "updated_at": "2021-11-01T15:44:24+00:00",
+  "updated_at": "2025-11-26T11:45:33+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 23,
       "name": "School"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     },
     {
       "id": 37,
