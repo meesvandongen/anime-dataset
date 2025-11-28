@@ -17,27 +17,19 @@
   "end_date": "2012-07-21",
   "synopsis": "The anime's original story features Mutta and Hibito during one summer when they were children. During the summer when Mutta and Hibito made their promise to go to space, they met a young girl who also had a wish.\n\n(Source: ANN)",
   "mean": 6.5,
-  "rank": 7301,
-  "popularity": 8793,
-  "num_list_users": 5848,
-  "num_scoring_users": 1855,
+  "rank": 7298,
+  "popularity": 8797,
+  "num_list_users": 5851,
+  "num_scoring_users": 1859,
   "nsfw": "white",
   "created_at": "2013-02-24T23:53:09+00:00",
-  "updated_at": "2022-11-14T09:10:37+00:00",
+  "updated_at": "2025-11-26T11:18:25+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 24,
-      "name": "Sci-Fi"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

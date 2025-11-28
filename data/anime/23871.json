@@ -2,8 +2,8 @@
   "id": 23871,
   "title": "Puchimas!!: Petit Petit iDOLM@STER - Fuyu→Kotatsu←Haru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1493/149924.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1493/149924l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1493/149924.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1493/149924l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2014-03-27",
   "synopsis": "Extra episode bundled with the limited edition of the 6th manga volume.\n",
   "mean": 6.53,
-  "rank": 7159,
-  "popularity": 10988,
-  "num_list_users": 2996,
-  "num_scoring_users": 885,
+  "rank": 7156,
+  "popularity": 10993,
+  "num_list_users": 3000,
+  "num_scoring_users": 886,
   "nsfw": "white",
   "created_at": "2014-04-17T04:24:28+00:00",
-  "updated_at": "2020-06-16T20:55:17+00:00",
+  "updated_at": "2025-11-26T11:40:39+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 19,
       "name": "Music"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

@@ -16,23 +16,19 @@
   "end_date": "2011-01-27",
   "synopsis": "3 bonus episodes centering around TV Asahi's female announcers.",
   "mean": 5.34,
-  "rank": 13095,
-  "popularity": 16107,
-  "num_list_users": 725,
+  "rank": 13102,
+  "popularity": 16122,
+  "num_list_users": 726,
   "num_scoring_users": 222,
   "nsfw": "white",
   "created_at": "2013-01-13T02:58:54+00:00",
-  "updated_at": "2016-01-13T19:59:33+00:00",
+  "updated_at": "2025-11-26T11:34:06+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 3,

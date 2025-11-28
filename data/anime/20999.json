@@ -2,8 +2,8 @@
   "id": 20999,
   "title": "Mini Van Special",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/55439.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/55439l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/55439.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/55439l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,14 @@
   "start_date": "2013-06-18",
   "end_date": "2013-06-18",
   "synopsis": "A special episode released with the first DVD volume of Mini Vanguard.",
-  "mean": 6.14,
-  "rank": 9510,
-  "popularity": 14402,
-  "num_list_users": 1134,
-  "num_scoring_users": 403,
+  "mean": 6.12,
+  "rank": 9604,
+  "popularity": 14407,
+  "num_list_users": 1136,
+  "num_scoring_users": 404,
   "nsfw": "white",
   "created_at": "2013-10-22T16:40:40+00:00",
-  "updated_at": "2020-07-23T22:20:59+00:00",
+  "updated_at": "2025-11-26T11:09:02+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -33,10 +33,6 @@
     {
       "id": 20,
       "name": "Parody"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     },
     {
       "id": 11,

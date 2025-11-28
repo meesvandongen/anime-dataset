@@ -2,8 +2,8 @@
   "id": 23741,
   "title": "Wakakusa Monogatari: Nan to Jo-sensei Specials",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/62047.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/8/62047l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/62047.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/8/62047l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2001-06-17",
   "synopsis": "A summary of the Wakakusa Monogatari: Nan to Jo-sensei full series aired as a TV specials.\n\nNan Harding is the new student at Mr. and Mrs. Bhaer's school. Everyone thinks that she is a pain in the head, but not Mrs. Jo. Together with the other kids, they all embark on their personal adventures and misfortunes while learning in school.\n\n(Source: ANN)",
   "mean": 6.14,
-  "rank": 9476,
-  "popularity": 16085,
+  "rank": 9477,
+  "popularity": 16109,
   "num_list_users": 727,
   "num_scoring_users": 178,
   "nsfw": "white",
   "created_at": "2014-04-11T15:31:29+00:00",
-  "updated_at": "2024-02-04T16:53:01+00:00",
+  "updated_at": "2025-11-22T09:08:15+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 23,
       "name": "School"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 2,

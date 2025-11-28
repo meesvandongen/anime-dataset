@@ -15,23 +15,19 @@
   "start_date": "2012-04-21",
   "end_date": "2012-04-21",
   "synopsis": "A short story about a mountain guide dog Heiji.",
-  "rank": 16795,
-  "popularity": 19276,
-  "num_list_users": 397,
+  "rank": 16802,
+  "popularity": 19274,
+  "num_list_users": 399,
   "num_scoring_users": 79,
   "nsfw": "white",
   "created_at": "2013-08-18T17:11:34+00:00",
-  "updated_at": "2013-08-18T17:11:34+00:00",
+  "updated_at": "2025-11-26T08:06:55+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 8,
       "name": "Drama"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,
