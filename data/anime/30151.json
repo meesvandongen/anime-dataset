@@ -15,22 +15,22 @@
   "start_date": "2012-11-16",
   "synopsis": "Fourth season of Kamiusagi Rope, events occur after the feature film. Airs on Mezamashi TV instead of the theaters.",
   "rank": 17728,
-  "popularity": 12314,
-  "num_list_users": 2063,
+  "popularity": 12316,
+  "num_list_users": 2064,
   "num_scoring_users": 115,
   "nsfw": "white",
   "created_at": "2015-02-22T06:39:36+00:00",
-  "updated_at": "2022-02-04T09:00:50+00:00",
+  "updated_at": "2025-11-28T12:56:46+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {
-      "id": 4,
-      "name": "Comedy"
+      "id": 51,
+      "name": "Anthropomorphic"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 4,
+      "name": "Comedy"
     }
   ],
   "num_episodes": 0,

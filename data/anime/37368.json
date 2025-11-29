@@ -2,8 +2,8 @@
   "id": 37368,
   "title": "Shounen Ashibe: Go! Go! Goma-chan 3",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1001/91711.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1001/91711l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1001/91711.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1001/91711l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,20 +16,16 @@
   "end_date": "2019-02-26",
   "synopsis": "Third season of Shounen Ashibe: Go! Go! Goma-chan.",
   "mean": 5.75,
-  "rank": 11552,
-  "popularity": 14954,
-  "num_list_users": 983,
-  "num_scoring_users": 271,
+  "rank": 11554,
+  "popularity": 14959,
+  "num_list_users": 986,
+  "num_scoring_users": 272,
   "nsfw": "white",
   "created_at": "2018-02-22T01:28:13+00:00",
-  "updated_at": "2024-01-28T02:57:59+00:00",
+  "updated_at": "2025-11-26T11:31:58+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 4,
-      "name": "Comedy"
-    },
     {
       "id": 71,
       "name": "Pets"

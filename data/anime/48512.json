@@ -13,24 +13,20 @@
   "start_date": "2021-03-10",
   "end_date": "2021-03-10",
   "synopsis": "A short anime with the theme of earthquake disaster and reconstruction released by Shichigahama, a town in Miyagi Prefecture.\n\n(Source: AniDB)",
-  "mean": 5.66,
-  "rank": 11977,
-  "popularity": 15788,
-  "num_list_users": 780,
-  "num_scoring_users": 223,
+  "mean": 5.65,
+  "rank": 12035,
+  "popularity": 15783,
+  "num_list_users": 785,
+  "num_scoring_users": 225,
   "nsfw": "white",
   "created_at": "2021-03-21T23:07:17+00:00",
-  "updated_at": "2021-12-23T19:01:11+00:00",
+  "updated_at": "2025-11-26T08:08:52+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 8,
       "name": "Drama"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

@@ -2,8 +2,8 @@
   "id": 37630,
   "title": "Washimo 6th Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1328/119068.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1328/119068l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1328/119068.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1328/119068l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,13 +15,13 @@
   "start_date": "2018-04-02",
   "end_date": "2019-01-07",
   "synopsis": "Sixth season of the Washimo series.",
-  "rank": 16086,
-  "popularity": 20622,
-  "num_list_users": 307,
+  "rank": 16092,
+  "popularity": 20643,
+  "num_list_users": 308,
   "num_scoring_users": 54,
   "nsfw": "white",
   "created_at": "2018-03-28T00:14:03+00:00",
-  "updated_at": "2019-07-10T23:10:28+00:00",
+  "updated_at": "2025-11-26T11:22:04+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -40,10 +40,6 @@
     {
       "id": 24,
       "name": "Sci-Fi"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 42,

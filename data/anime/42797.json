@@ -17,23 +17,19 @@
   "end_date": "2020-08-21",
   "synopsis": "Special episode of Rebirth.",
   "mean": 5.59,
-  "rank": 12273,
-  "popularity": 14712,
-  "num_list_users": 1047,
+  "rank": 12280,
+  "popularity": 14717,
+  "num_list_users": 1050,
   "num_scoring_users": 380,
   "nsfw": "white",
   "created_at": "2020-09-03T16:38:09+00:00",
-  "updated_at": "2022-10-11T10:11:39+00:00",
+  "updated_at": "2025-11-26T11:27:30+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     },
     {
       "id": 11,

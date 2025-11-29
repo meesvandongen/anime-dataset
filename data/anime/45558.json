@@ -2,13 +2,14 @@
   "id": 45558,
   "title": "Fanren Xiu Xian Chuan: Yan Jia Bao Dazhan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1323/114855.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1323/114855l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1323/114855.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1323/114855l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
       "Fanren Xiu Xian Chuan Special",
-      "A Record of a Mortal's Journey to Immortality Special"
+      "A Record of a Mortal's Journey to Immortality Special",
+      "A Mortal's Journey Special"
     ],
     "en": "",
     "ja": "凡人修仙传 特别篇 燕家堡大战"
@@ -17,13 +18,13 @@
   "end_date": "2021-02-14",
   "synopsis": "",
   "mean": 7.6,
-  "rank": 1650,
-  "popularity": 10225,
-  "num_list_users": 3754,
-  "num_scoring_users": 1831,
+  "rank": 1666,
+  "popularity": 10224,
+  "num_list_users": 3770,
+  "num_scoring_users": 1837,
   "nsfw": "white",
   "created_at": "2020-12-24T20:33:48+00:00",
-  "updated_at": "2025-11-12T19:29:07+00:00",
+  "updated_at": "2025-11-25T19:51:04+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -53,7 +54,7 @@
     "year": 2021,
     "season": "winter"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1080,
   "rating": "pg_13",
   "studios": [

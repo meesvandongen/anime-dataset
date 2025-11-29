@@ -6,21 +6,23 @@
     "large": "https://cdn.myanimelist.net/images/anime/1980/150040l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Ling Cage Season 2",
+    "synonyms": [
+      "Ling Cage 2nd Season"
+    ],
+    "en": "Ling Cage 2",
     "ja": "灵笼 第二季"
   },
   "start_date": "2025-05-23",
   "end_date": "2025-08-01",
   "synopsis": "Second season of Ling Long.",
-  "mean": 7.83,
-  "rank": 1015,
-  "popularity": 14406,
-  "num_list_users": 1133,
-  "num_scoring_users": 378,
+  "mean": 7.85,
+  "rank": 983,
+  "popularity": 14369,
+  "num_list_users": 1146,
+  "num_scoring_users": 389,
   "nsfw": "white",
   "created_at": "2024-12-21T18:11:03+00:00",
-  "updated_at": "2025-11-12T02:50:13+00:00",
+  "updated_at": "2025-11-25T21:08:54+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

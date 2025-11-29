@@ -6,21 +6,24 @@
     "large": "https://cdn.myanimelist.net/images/anime/1105/150044l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "一念永恒 质子篇",
+      "Yi Nian Yong Heng: Zhizi Pian"
+    ],
     "en": "A Will Eternal 3rd Season",
-    "ja": "一念永恒 第三季"
+    "ja": "一念永恒 第3季"
   },
   "start_date": "2024-07-03",
   "end_date": "2025-07-22",
-  "synopsis": "Third season of Yi Nian Yong Heng.",
-  "mean": 8.24,
-  "rank": 370,
-  "popularity": 10319,
-  "num_list_users": 3632,
-  "num_scoring_users": 1082,
+  "synopsis": "After Bai Xiaochun merged the four downstream sects to form the Reverse River Sect, he successfully challenged the three midstream sects and established a firm foothold. He was then chosen by the Celestial Being of the Starry Sky Dao Sect in the upstream to be a hostage, thus beginning the third season, the Hostage arc.\n\n(Source: Tencent, translated)",
+  "mean": 8.23,
+  "rank": 384,
+  "popularity": 10314,
+  "num_list_users": 3645,
+  "num_scoring_users": 1087,
   "nsfw": "white",
   "created_at": "2023-08-08T12:08:13+00:00",
-  "updated_at": "2025-11-22T02:13:45+00:00",
+  "updated_at": "2025-11-25T18:28:30+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

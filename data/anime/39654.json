@@ -2,8 +2,8 @@
   "id": 39654,
   "title": "Cinderella Girls Gekijou: Kayou Cinderella Theater 4th Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1277/100399.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1277/100399l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1277/100399.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1277/100399l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,23 +16,19 @@
   "end_date": "2019-06-25",
   "synopsis": "Bonus segments of Cinderella Girls Gekijou 4th Season streamed on The iDOLM@STER Cinderella Girls Mobage following the television broadcast.",
   "mean": 6.28,
-  "rank": 8645,
-  "popularity": 10841,
-  "num_list_users": 3125,
-  "num_scoring_users": 1179,
+  "rank": 8684,
+  "popularity": 10847,
+  "num_list_users": 3131,
+  "num_scoring_users": 1182,
   "nsfw": "white",
   "created_at": "2019-04-02T18:49:42+00:00",
-  "updated_at": "2021-01-21T03:26:10+00:00",
+  "updated_at": "2025-11-26T11:01:06+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 7,

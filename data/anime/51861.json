@@ -2,25 +2,28 @@
   "id": 51861,
   "title": "Shen Mu",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1965/138663.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1965/138663l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1965/138663.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1965/138663l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "神墓之辰南觉醒",
+      "Shen Mu: Chen Nan Juexing"
+    ],
     "en": "Tomb of Fallen Gods",
     "ja": "神墓"
   },
   "start_date": "2022-07-21",
   "end_date": "2022-10-27",
-  "synopsis": "A teenager who was resurrected from the cemetery of the gods and demons, in the new continent formed by the collision of the East and the West ten thousand years later, searches for the truth of the fall of the gods and demons ten thousand years ago, as well as the pursuit of his lover Yuxin, the whereabouts of his parents and the reason for his resurrection. The protagonist develops, and finally leads to a story about the six paths and the chess game of heaven and earth.\n\n(Source: Baike Baidu)",
+  "synopsis": "A boy resurrected from the Cemetery of Gods and Demons searches for the truth behind the fall of gods and demons ten thousand years ago in a new continent formed by the collision of East and West. He also seeks the truth about his lover Yu Xin, the whereabouts of his parents, and the reason for his resurrection. All the causes and grievances revolve around the protagonist, ultimately leading to a story of the vast Six Paths and the chessboard of heaven and earth.\n\n(Source: Baidu Baike, translated)",
   "mean": 7.17,
-  "rank": 3678,
-  "popularity": 11182,
-  "num_list_users": 2838,
-  "num_scoring_users": 1038,
+  "rank": 3676,
+  "popularity": 11168,
+  "num_list_users": 2857,
+  "num_scoring_users": 1040,
   "nsfw": "white",
   "created_at": "2022-05-20T02:41:13+00:00",
-  "updated_at": "2022-10-30T07:48:12+00:00",
+  "updated_at": "2025-11-25T23:34:07+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +38,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,

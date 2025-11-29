@@ -1,0 +1,43 @@
+{
+  "id": 63002,
+  "title": "Hajimari no Hane Oto",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1805/153764.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1805/153764l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "はじまりの羽音"
+  },
+  "start_date": "2025-11-23",
+  "end_date": "2025-11-23",
+  "synopsis": "Hajimari no Hane Oto is Hasunosora Girls' High School Idol Club's 8th single.",
+  "popularity": 29258,
+  "num_list_users": 44,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2025-11-23T12:15:11+00:00",
+  "updated_at": "2025-11-24T13:11:42+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 264,
+  "rating": "pg_13",
+  "studios": []
+}
