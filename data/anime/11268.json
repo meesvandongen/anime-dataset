@@ -18,13 +18,13 @@
   "end_date": "1977-09-26",
   "synopsis": "A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.\n\n(Source: AniDB)",
   "mean": 6.28,
-  "rank": 8693,
-  "popularity": 12897,
+  "rank": 8692,
+  "popularity": 12899,
   "num_list_users": 1706,
   "num_scoring_users": 687,
   "nsfw": "white",
   "created_at": "2011-08-16T14:45:17+00:00",
-  "updated_at": "2022-04-02T17:04:00+00:00",
+  "updated_at": "2025-12-01T13:19:10+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -35,10 +35,6 @@
     {
       "id": 57,
       "name": "Gag Humor"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 103,

@@ -2,8 +2,8 @@
   "id": 20239,
   "title": "Hana no Kakarichou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1234/134330.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1234/134330l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1234/134330.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1234/134330l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "start_date": "1976-10-03",
   "end_date": "1977-03-27",
   "synopsis": "A wacky comedy about a man from a noble ancestry of long ago, but who in modern times is just a lowly salary man that is constantly being humiliated by his family and co-workers.\n\n(Source: AniDB)",
-  "rank": 21789,
-  "popularity": 16925,
-  "num_list_users": 606,
+  "rank": 21794,
+  "popularity": 16946,
+  "num_list_users": 605,
   "num_scoring_users": 95,
   "nsfw": "white",
   "created_at": "2013-08-20T15:13:58+00:00",
-  "updated_at": "2017-11-14T23:52:43+00:00",
+  "updated_at": "2025-11-29T13:49:35+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,10 +33,6 @@
     {
       "id": 42,
       "name": "Seinen"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 25,

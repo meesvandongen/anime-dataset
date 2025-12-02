@@ -2,8 +2,8 @@
   "id": 6468,
   "title": "Tensai Bakabon",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/60845.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/3/60845l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/60845.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/60845l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "1972-06-24",
   "synopsis": "Tensai Bakabon is the tale of a child prodigy and his \"philosophical\" father. Bakabon‘s father has his own philosophy and he leaves no stone unturned in his quest for answers. Despite his ability to trouble Trouble, for some reason, Papa Bakabon is regarded as \"The Great Philosopher,\" and is sought after for advice, which of course ends up in disastrous results. Tensai Bakabon joins his father in his philosophical quests which drives the people in their town crazy.\n\n(Source: Animation Xpress)",
   "mean": 6.34,
-  "rank": 8277,
-  "popularity": 12642,
-  "num_list_users": 1853,
+  "rank": 8274,
+  "popularity": 12649,
+  "num_list_users": 1854,
   "num_scoring_users": 750,
   "nsfw": "white",
   "created_at": "2009-05-09T16:15:26+00:00",
-  "updated_at": "2014-12-18T19:39:23+00:00",
+  "updated_at": "2025-11-29T13:57:26+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,10 +33,6 @@
     {
       "id": 57,
       "name": "Gag Humor"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 40,
