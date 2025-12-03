@@ -2,8 +2,8 @@
   "id": 18827,
   "title": "Hello Kitty: Mahou no Mori no Ohimesama",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/50227.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/8/50227l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/50227.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/50227l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,8 +17,8 @@
   "end_date": "1991-07-20",
   "synopsis": "Kitty and Mimmy have to save a kingdom and break a magical spell on a sleeping princess.",
   "mean": 5.88,
-  "rank": 10907,
-  "popularity": 15029,
+  "rank": 10904,
+  "popularity": 15040,
   "num_list_users": 964,
   "num_scoring_users": 296,
   "nsfw": "white",
@@ -43,5 +43,10 @@
   },
   "average_episode_duration": 2159,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 391,
+      "name": "Grouper Productions"
+    }
+  ]
 }

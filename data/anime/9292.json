@@ -15,11 +15,11 @@
   "start_date": "1989-07-22",
   "end_date": "1989-07-22",
   "synopsis": "Adventures of Kiki and Lala in search of happiness.",
-  "mean": 5.94,
-  "rank": 10579,
-  "popularity": 16448,
+  "mean": 5.93,
+  "rank": 10654,
+  "popularity": 16459,
   "num_list_users": 673,
-  "num_scoring_users": 156,
+  "num_scoring_users": 158,
   "nsfw": "white",
   "created_at": "2010-08-02T13:34:06+00:00",
   "updated_at": "2022-01-30T16:40:20+00:00",
@@ -38,5 +38,14 @@
   },
   "average_episode_duration": 3489,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 150,
+      "name": "Sanrio"
+    },
+    {
+      "id": 391,
+      "name": "Grouper Productions"
+    }
+  ]
 }

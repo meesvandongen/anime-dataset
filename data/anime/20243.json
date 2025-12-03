@@ -17,23 +17,19 @@
   "end_date": "1991-03-29",
   "synopsis": "Based on the comedy yonkoma manga by Sonoyama Shunji.",
   "mean": 6.12,
-  "rank": 9590,
-  "popularity": 17276,
-  "num_list_users": 568,
+  "rank": 9591,
+  "popularity": 17293,
+  "num_list_users": 567,
   "num_scoring_users": 140,
   "nsfw": "white",
   "created_at": "2013-08-20T15:46:53+00:00",
-  "updated_at": "2021-08-13T15:11:54+00:00",
+  "updated_at": "2025-11-29T13:50:47+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 199,

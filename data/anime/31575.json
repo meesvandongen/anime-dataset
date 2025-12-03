@@ -14,10 +14,10 @@
   "end_date": "1993-01-22",
   "synopsis": "",
   "mean": 5.72,
-  "rank": 11732,
-  "popularity": 16406,
+  "rank": 11743,
+  "popularity": 16420,
   "num_list_users": 678,
-  "num_scoring_users": 157,
+  "num_scoring_users": 158,
   "nsfw": "white",
   "created_at": "2015-09-09T12:31:30+00:00",
   "updated_at": "2024-03-06T11:05:28+00:00",
@@ -45,5 +45,10 @@
   "source": "manga",
   "average_episode_duration": 3059,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 593,
+      "name": "Egg"
+    }
+  ]
 }

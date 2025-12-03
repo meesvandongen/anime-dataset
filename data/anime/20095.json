@@ -13,13 +13,13 @@
   "start_date": "1990-06-21",
   "end_date": "1990-07-21",
   "synopsis": "Continuation of the everyday life adventures of the avid mahjong player Furiten-kun.",
-  "rank": 21421,
-  "popularity": 18019,
-  "num_list_users": 496,
+  "rank": 21428,
+  "popularity": 18043,
+  "num_list_users": 495,
   "num_scoring_users": 111,
   "nsfw": "white",
   "created_at": "2013-08-13T10:36:38+00:00",
-  "updated_at": "2022-04-16T03:56:23+00:00",
+  "updated_at": "2025-11-29T13:46:42+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -30,10 +30,6 @@
     {
       "id": 42,
       "name": "Seinen"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 2,
@@ -41,6 +37,7 @@
     "year": 1990,
     "season": "spring"
   },
+  "source": "4_koma_manga",
   "average_episode_duration": 1800,
   "rating": "r+",
   "studios": [

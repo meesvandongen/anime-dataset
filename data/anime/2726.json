@@ -2,8 +2,8 @@
   "id": 2726,
   "title": "Sukeban Deka",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/5/3675.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/5/3675l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/5/3675.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/5/3675l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "1991-07-21",
   "synopsis": "Having spent time at a juvenile corrections facility, teenage delinquent Saki Asamiya is given a chance to redeem herself and delay her mother's possible death sentence by working as an undercover cop. Armed with nothing but a special yo-yo, Saki's assignment is to return to her high school and investigate on the corruption and mysterious deaths among the students. But in order to find the answers to the condition of her school, she must confront the wealthy and powerful Mizuchi sisters, who moved in and have taken control after her previous expulsion. \n\n(Source: ANN)",
   "mean": 6.43,
-  "rank": 7762,
-  "popularity": 7582,
-  "num_list_users": 8389,
-  "num_scoring_users": 2822,
+  "rank": 7758,
+  "popularity": 7587,
+  "num_list_users": 8396,
+  "num_scoring_users": 2826,
   "nsfw": "white",
   "created_at": "2007-06-26T02:36:55+00:00",
-  "updated_at": "2022-02-09T18:47:05+00:00",
+  "updated_at": "2025-11-30T04:27:18+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 8,
       "name": "Drama"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
     },
     {
       "id": 23,
