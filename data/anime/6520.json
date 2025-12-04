@@ -2,8 +2,8 @@
   "id": 6520,
   "title": "Anime TV de Hakken! Tamagotchi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/63717.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/11/63717l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/63717.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/63717l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "1998-03-21",
   "synopsis": "",
   "mean": 6.13,
-  "rank": 9558,
-  "popularity": 15355,
+  "rank": 9563,
+  "popularity": 15362,
   "num_list_users": 883,
   "num_scoring_users": 192,
   "nsfw": "white",
   "created_at": "2009-05-23T22:20:30+00:00",
-  "updated_at": "2020-11-24T07:10:08+00:00",
+  "updated_at": "2025-12-01T13:25:13+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -37,10 +37,6 @@
     {
       "id": 15,
       "name": "Kids"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 27,

@@ -2,8 +2,8 @@
   "id": 3000,
   "title": "Taiho Shichau zo: Full Throttle",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/21616.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/4/21616l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/21616.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/21616l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2008-03-28",
   "synopsis": "Miyuki Kobayakawa, fresh from forensics training in the United States and Natsumi Tsujimoto, from completing Japanese Self-Defense Force (JSDF) ranger training return in the long-awaited 3rd season of the highly popular series. This time, the duo rejoins active duty at Bokuto Police Department, fighting against crime using their wits and brawn, plus having some misadventures along the way. \n\n(Source: ANN)",
   "mean": 7.16,
-  "rank": 3697,
-  "popularity": 6628,
-  "num_list_users": 11659,
-  "num_scoring_users": 3992,
+  "rank": 3694,
+  "popularity": 6631,
+  "num_list_users": 11671,
+  "num_scoring_users": 3996,
   "nsfw": "white",
   "created_at": "2007-08-16T19:29:24+00:00",
-  "updated_at": "2023-02-06T07:19:55+00:00",
+  "updated_at": "2025-11-30T04:01:18+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -38,10 +38,6 @@
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 39,
-      "name": "Detective"
     },
     {
       "id": 42,

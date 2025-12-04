@@ -2,8 +2,8 @@
   "id": 42109,
   "title": "Kabushikigaisha Global Market CMs",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1585/107816.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1585/107816l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1585/107816.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1585/107816l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,22 +14,18 @@
   "end_date": "2019-11-16",
   "synopsis": "Animated commercials for Japanese real estate company Global Market.",
   "mean": 5.02,
-  "popularity": 21290,
+  "popularity": 21284,
   "num_list_users": 273,
   "num_scoring_users": 117,
   "nsfw": "white",
   "created_at": "2020-05-30T18:04:45+00:00",
-  "updated_at": "2023-12-26T20:42:43+00:00",
+  "updated_at": "2025-12-01T13:20:15+00:00",
   "media_type": "cm",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 2,

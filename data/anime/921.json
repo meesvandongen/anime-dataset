@@ -14,23 +14,19 @@
   "end_date": "2005-09-22",
   "synopsis": "Sequel to the first series.",
   "mean": 6.62,
-  "rank": 6626,
-  "popularity": 7901,
-  "num_list_users": 7552,
-  "num_scoring_users": 3239,
+  "rank": 6627,
+  "popularity": 7900,
+  "num_list_users": 7558,
+  "num_scoring_users": 3243,
   "nsfw": "white",
   "created_at": "2006-04-20T20:50:04+00:00",
-  "updated_at": "2024-09-05T20:01:08+00:00",
+  "updated_at": "2025-12-02T13:30:05+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 57,

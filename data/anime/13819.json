@@ -13,23 +13,24 @@
   "start_date": "2010-11",
   "end_date": "2011-12",
   "synopsis": "The sequel to Kamiusagi Rope; it also aired in between commercials at theaters.",
-  "rank": 17719,
-  "popularity": 17711,
-  "num_list_users": 523,
-  "num_scoring_users": 108,
+  "mean": 5.73,
+  "rank": 11670,
+  "popularity": 17729,
+  "num_list_users": 522,
+  "num_scoring_users": 109,
   "nsfw": "white",
   "created_at": "2012-04-15T15:18:56+00:00",
-  "updated_at": "2018-02-10T14:37:13+00:00",
+  "updated_at": "2025-11-28T12:55:06+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 4,
-      "name": "Comedy"
+      "id": 51,
+      "name": "Anthropomorphic"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 4,
+      "name": "Comedy"
     }
   ],
   "num_episodes": 12,

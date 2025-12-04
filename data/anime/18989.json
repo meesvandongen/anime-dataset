@@ -2,8 +2,8 @@
   "id": 18989,
   "title": "Koukaku Kidoutai Arise: Another Mission",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/6/51733.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/6/51733l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/6/51733.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/6/51733l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,13 +16,13 @@
   "end_date": "2013-06-04",
   "synopsis": "The premise of the story: \"Snatch the rebel elements' secret data using the Surface! There is a leak saying that the giant coporation Ishimiya Industry will commit an act of international terrorism, and Motoko Kusanagi and the Armored Riot Police head out to seize the plug data!\"\n\n(Source: ANN)\n\nA short animation for promoting Microsoft's Surface tablet in Japan.",
   "mean": 6.48,
-  "rank": 7443,
-  "popularity": 6557,
-  "num_list_users": 11948,
+  "rank": 7444,
+  "popularity": 6559,
+  "num_list_users": 11954,
   "num_scoring_users": 3904,
   "nsfw": "white",
   "created_at": "2013-06-06T20:01:33+00:00",
-  "updated_at": "2025-10-17T21:49:00+00:00",
+  "updated_at": "2025-11-30T04:03:52+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 18,
       "name": "Mecha"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
     },
     {
       "id": 24,

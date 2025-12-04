@@ -2,8 +2,8 @@
   "id": 13817,
   "title": "Kamiusagi Rope",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/72175.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/3/72175l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/72175.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/3/72175l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,23 +16,23 @@
   "end_date": "2010-12",
   "synopsis": "The first series from the GiftMovie Project, which was aired in between theater commercials at all 57 TOHO Cinemas theaters. It features a rabbit called Rope and his senpai squirrel Akira, and their long, disrupted way to the movie theater.",
   "mean": 5.5,
-  "rank": 12579,
-  "popularity": 16329,
-  "num_list_users": 692,
+  "rank": 12593,
+  "popularity": 16346,
+  "num_list_users": 691,
   "num_scoring_users": 141,
   "nsfw": "white",
   "created_at": "2012-04-15T15:14:36+00:00",
-  "updated_at": "2015-02-22T08:34:30+00:00",
+  "updated_at": "2025-11-28T12:54:14+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 4,
-      "name": "Comedy"
+      "id": 51,
+      "name": "Anthropomorphic"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 4,
+      "name": "Comedy"
     }
   ],
   "num_episodes": 14,

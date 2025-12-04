@@ -18,23 +18,23 @@
   "start_date": "2011-01-28",
   "end_date": "2011-01-28",
   "synopsis": "Chronologically these are 13th and 15th episodes of the 1st series included on the DVD release in 2011. ",
-  "rank": 17722,
-  "popularity": 18460,
+  "rank": 17736,
+  "popularity": 18463,
   "num_list_users": 460,
   "num_scoring_users": 99,
   "nsfw": "white",
   "created_at": "2015-02-22T06:35:03+00:00",
-  "updated_at": "2015-02-22T06:35:03+00:00",
+  "updated_at": "2025-11-28T12:54:53+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 4,
-      "name": "Comedy"
+      "id": 51,
+      "name": "Anthropomorphic"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 4,
+      "name": "Comedy"
     }
   ],
   "num_episodes": 2,

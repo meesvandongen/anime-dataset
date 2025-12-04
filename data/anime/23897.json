@@ -16,19 +16,23 @@
   "end_date": "2013-12-23",
   "synopsis": "The happy daily life of Muco, a not-too-bright Akita dog, and its owner Komatsu-san the glass-blower.\n\n(Source: MU)",
   "mean": 6.4,
-  "rank": 7927,
-  "popularity": 12861,
-  "num_list_users": 1727,
+  "rank": 7934,
+  "popularity": 12870,
+  "num_list_users": 1725,
   "num_scoring_users": 371,
   "nsfw": "white",
   "created_at": "2014-04-19T19:57:34+00:00",
-  "updated_at": "2018-01-13T04:46:16+00:00",
+  "updated_at": "2025-11-28T13:02:02+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 71,
       "name": "Pets"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     },
     {
       "id": 36,

@@ -16,13 +16,13 @@
   "end_date": "2015-07-18",
   "synopsis": "The Konica Minolta \"Tenkuu\" Planetarium in Tokyo Skytree Town will run a Chibi Maruko-chan planetarium show from July 18 to August 31. The show, titled \"Planetarium Chibi Maruko-chan, Hoshi ni Negai wo\" (Planetarium Chibi Maruko-chan, Wish Upon a Star), celebrates the 25th anniversary of the Chibi Maruko-chan anime since it first aired in January 1990.\n\n(Source: ANN)",
   "mean": 6.4,
-  "rank": 7939,
-  "popularity": 16666,
-  "num_list_users": 642,
-  "num_scoring_users": 125,
+  "rank": 7943,
+  "popularity": 16668,
+  "num_list_users": 643,
+  "num_scoring_users": 126,
   "nsfw": "white",
   "created_at": "2015-05-20T07:11:10+00:00",
-  "updated_at": "2018-01-18T05:59:47+00:00",
+  "updated_at": "2025-11-29T13:24:14+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -37,10 +37,6 @@
     {
       "id": 23,
       "name": "School"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

@@ -16,13 +16,13 @@
   "end_date": "2001-11-29",
   "synopsis": "The anime talks about a little boy, Randy, whose dog, Chacha, died in an accident and was reincarnated into a living toy car. Each episode is told like the chapter of a storybook, where Randy learns a valuable thing in life with his cartoonish and goofy friend Chacha. Randy meets several friends in his neighbourhood, such as Catherine, the tall blonde girl in red long socks who rides a bicycle, or Mary, a little hot-tempered brunette girl dressed as a maid and who carries around a mop.\n\n(Source: ANN)",
   "mean": 7.04,
-  "rank": 4350,
-  "popularity": 12133,
-  "num_list_users": 2172,
-  "num_scoring_users": 1049,
+  "rank": 4347,
+  "popularity": 12131,
+  "num_list_users": 2177,
+  "num_scoring_users": 1052,
   "nsfw": "white",
   "created_at": "2008-05-27T05:14:38+00:00",
-  "updated_at": "2022-02-11T04:11:14+00:00",
+  "updated_at": "2025-11-30T13:57:31+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 71,
       "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 26,

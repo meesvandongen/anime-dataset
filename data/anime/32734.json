@@ -16,22 +16,18 @@
   "end_date": "2015-09-30",
   "synopsis": "SAT (Union Forest Company's Security division) and Peeping Life collaboration. ",
   "mean": 5,
-  "popularity": 17782,
-  "num_list_users": 516,
+  "popularity": 17788,
+  "num_list_users": 517,
   "num_scoring_users": 153,
   "nsfw": "white",
   "created_at": "2016-02-17T08:40:22+00:00",
-  "updated_at": "2023-12-26T21:23:10+00:00",
+  "updated_at": "2025-11-29T13:55:04+00:00",
   "media_type": "cm",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 3,

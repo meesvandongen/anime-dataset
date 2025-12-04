@@ -17,13 +17,13 @@
   "end_date": "2013-03-22",
   "synopsis": "Episode 13 that was included on the Blu-ray.",
   "mean": 5.97,
-  "rank": 10438,
-  "popularity": 10525,
+  "rank": 10451,
+  "popularity": 10531,
   "num_list_users": 3431,
-  "num_scoring_users": 1548,
+  "num_scoring_users": 1549,
   "nsfw": "white",
   "created_at": "2012-12-19T16:43:39+00:00",
-  "updated_at": "2021-10-25T06:24:04+00:00",
+  "updated_at": "2025-11-29T13:06:43+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -34,10 +34,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

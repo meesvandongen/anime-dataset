@@ -2,8 +2,8 @@
   "id": 3517,
   "title": "New Hal & Bons",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/5879.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/4/5879l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/5879.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/4/5879l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,23 +16,19 @@
   "end_date": "2006-05-27",
   "synopsis": "A continuation of Hal and Bons.",
   "mean": 5.15,
-  "rank": 13537,
-  "popularity": 17813,
-  "num_list_users": 514,
+  "rank": 13549,
+  "popularity": 17832,
+  "num_list_users": 513,
   "num_scoring_users": 168,
   "nsfw": "white",
   "created_at": "2007-12-04T05:25:19+00:00",
-  "updated_at": "2014-10-10T11:28:38+00:00",
+  "updated_at": "2025-11-30T13:56:04+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 9,
