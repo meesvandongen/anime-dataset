@@ -12,23 +12,23 @@
   },
   "start_date": "2018-01-03",
   "synopsis": "A collaboration between the facial tissue company Elleair and the comedy anime franchise Kamiusagi Rope.",
-  "rank": 21257,
-  "popularity": 18123,
+  "rank": 21266,
+  "popularity": 18124,
   "num_list_users": 488,
   "num_scoring_users": 67,
   "nsfw": "white",
   "created_at": "2018-05-09T08:05:46+00:00",
-  "updated_at": "2019-02-03T10:59:07+00:00",
+  "updated_at": "2025-11-29T13:45:56+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
     {
-      "id": 4,
-      "name": "Comedy"
+      "id": 51,
+      "name": "Anthropomorphic"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 4,
+      "name": "Comedy"
     }
   ],
   "num_episodes": 0,

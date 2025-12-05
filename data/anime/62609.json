@@ -1,0 +1,43 @@
+{
+  "id": 62609,
+  "title": "Majo (Shin) sinka Ver.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1355/152342.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1355/152342l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Witches: True sinka Ver.",
+    "ja": "魔女(真) sinka ver"
+  },
+  "start_date": "2025-10-01",
+  "end_date": "2025-10-01",
+  "synopsis": "Music video for the song Majo (Shin) sinka ver by V.W.P. The song was used as the ending theme for episode 12 of the anime Kamitsubaki-shi Kensetsuchuu..",
+  "popularity": 28892,
+  "num_list_users": 74,
+  "num_scoring_users": 35,
+  "nsfw": "white",
+  "created_at": "2025-10-01T10:10:56+00:00",
+  "updated_at": "2025-11-29T15:59:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 265,
+  "rating": "pg_13",
+  "studios": []
+}

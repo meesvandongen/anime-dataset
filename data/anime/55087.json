@@ -2,8 +2,8 @@
   "id": 55087,
   "title": "Rainbow Ruby 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1596/135482.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1596/135482l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1596/135482.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1596/135482l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,20 +13,16 @@
   "start_date": "2020-04-02",
   "end_date": "2020-06-26",
   "synopsis": "The second season of Rainbow Ruby.",
-  "rank": 19778,
-  "popularity": 23966,
-  "num_list_users": 154,
+  "rank": 19791,
+  "popularity": 24022,
+  "num_list_users": 153,
   "num_scoring_users": 34,
   "nsfw": "white",
   "created_at": "2023-04-22T20:17:16+00:00",
-  "updated_at": "2023-04-23T06:19:50+00:00",
+  "updated_at": "2025-12-02T13:28:44+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 10,
-      "name": "Fantasy"
-    },
     {
       "id": 15,
       "name": "Kids"

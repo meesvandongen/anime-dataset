@@ -13,13 +13,13 @@
   "start_date": "2025-10-06",
   "end_date": "2026-04-05",
   "synopsis": "The \"authentic mystery\" story follows Tomanto and friends as they solve mysteries using vegetable and fruit trivia.\n\n(Source: ANN)",
-  "rank": 15996,
-  "popularity": 22273,
-  "num_list_users": 221,
+  "rank": 16014,
+  "popularity": 22300,
+  "num_list_users": 220,
   "num_scoring_users": 12,
   "nsfw": "white",
   "created_at": "2025-09-19T06:08:18+00:00",
-  "updated_at": "2025-09-19T06:08:18+00:00",
+  "updated_at": "2025-11-30T04:23:11+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -30,6 +30,10 @@
     {
       "id": 39,
       "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
     }
   ],
   "num_episodes": 26,

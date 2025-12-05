@@ -6,19 +6,21 @@
     "large": "https://cdn.myanimelist.net/images/anime/1922/152029l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Chronicles of Grace and Grudges in the Primordial Age"
+    ],
     "en": "",
     "ja": "荒古恩仇录·破风篇"
   },
   "start_date": "2025-09-17",
-  "synopsis": "The young Qin Feng, hailed as a once-in-a-millennium prodigy in the Wuji Nation, was framed and his entire family was wiped out, leaving him alone. After his martial veins were crippled, he was cast into a small, remote sect to fend for himself. Determined to become stronger and seek revenge, he endured constant bullying, often protected by his kind-hearted Second Senior Sister, who shared a common fate. Unbeknownst to everyone, Qin Feng had already secretly embarked on the arduous path of physical cultivation. Upon learning that three members of his sect were eligible to train at the Tiandao Academy, and with the spots already secured, he broke free from his humiliation. Upon being humiliated once again by the sect's prodigy, Yun Tianyu, he revealed his physical cultivation identity and violently assaulted Yun Tianyu, shocking everyone. Afterwards, he took the initiative, repeatedly teaching Yun Tianyu a lesson, openly challenging the protective Great Elder, and vowing to get a spot in Tiandao Academy, because only in this way could he become stronger. To prevent his apprentice from being humiliated, the two sides finally agreed to a duel in seven days. The winner would receive a spot to practice in Tiandao Academy. During this process, Yun Tianyu broke through the realm and unexpectedly became the Son of God. He was sought after and everyone thought he would win easily. Even the Second Senior Sister tried to persuade him to give up and offered to give him her spot, but Qin Feng refused. In a few days, Qin Feng also received the saint's inheritance. While shouldering the responsibility of saving the human race, he began to secretly practice hellishly.\n\n(Source: Tencent, Google translated)",
-  "rank": 22123,
-  "popularity": 22829,
-  "num_list_users": 194,
-  "num_scoring_users": 22,
+  "synopsis": "Qin Feng, a young man hailed as a once-in-a-millennium genius of the Wuji Kingdom, suffered the humiliation of his entire family being framed and wiped out, leaving him the sole survivor. After his martial meridians were destroyed, he was abandoned in a small, marginalized sect to fend for himself. Driven by a desire for power and revenge, he endured much hardship and bullying, with only his kind-hearted second senior sister, sharing his fate, offering him protection. Unbeknownst to everyone, Qin Feng had already secretly embarked on a difficult path of physical cultivation. \n\nUpon learning that three members of his sect could study at the Heavenly Dao Academy, and with the spots already secured, he no longer tolerated his fate. When humiliated again by the sect's genius, Yun Tianyu, he unleashed his physical cultivation identity, brutally beating Yun Tianyu and shocking everyone. He then took the initiative, repeatedly teaching Yun Tianyu a lesson and openly challenging the protective First Elder, vowing to secure a spot at the Heavenly Dao Academy, for only through this could he become stronger. To prevent his disciple from being further humiliated, they agreed to a contest in seven days, the winner of which would receive the spot to study at the Heavenly Dao Academy. During this process, Yun Tianyu broke through his cultivation level and unexpectedly became a Holy Son, becoming the object of everyone's admiration. Everyone thought he would win easily. Even his second senior sister advised him to give up and offered to give him her own spot, but Qin Feng refused. In just a few days, Qin Feng also received the Holy Man's inheritance. While shouldering the responsibility of saving humanity, he began to secretly undergo hellish cultivation.\n\n(Source: Tencent, translated)",
+  "rank": 22130,
+  "popularity": 22781,
+  "num_list_users": 197,
+  "num_scoring_users": 23,
   "nsfw": "white",
   "created_at": "2025-09-13T03:14:51+00:00",
-  "updated_at": "2025-09-18T06:11:11+00:00",
+  "updated_at": "2025-11-30T00:37:50+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -33,6 +35,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,

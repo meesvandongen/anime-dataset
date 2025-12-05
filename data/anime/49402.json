@@ -2,8 +2,8 @@
   "id": 49402,
   "title": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1319/117579.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1319/117579l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1319/117579.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1319/117579l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2021-11-12",
   "synopsis": "Compilation film of Koukaku Kidoutai: SAC_2045 with new scenes.",
   "mean": 6.55,
-  "rank": 6990,
-  "popularity": 8108,
-  "num_list_users": 7046,
-  "num_scoring_users": 1668,
+  "rank": 6991,
+  "popularity": 8111,
+  "num_list_users": 7056,
+  "num_scoring_users": 1670,
   "nsfw": "white",
   "created_at": "2021-07-08T13:53:12+00:00",
-  "updated_at": "2025-10-17T21:49:26+00:00",
+  "updated_at": "2025-11-30T04:03:31+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -42,6 +42,10 @@
     {
       "id": 38,
       "name": "Military"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
     },
     {
       "id": 24,

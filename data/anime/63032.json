@@ -1,0 +1,43 @@
+{
+  "id": 63032,
+  "title": "Underdog (Music)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1126/153907.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1126/153907l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Underdog (Music)",
+    "ja": "Underdog"
+  },
+  "start_date": "2025-11-28",
+  "end_date": "2025-11-28",
+  "synopsis": "Music video for the song Underdog by Eve.",
+  "popularity": 28761,
+  "num_list_users": 79,
+  "num_scoring_users": 40,
+  "nsfw": "white",
+  "created_at": "2025-11-28T20:02:29+00:00",
+  "updated_at": "2025-11-30T18:26:26+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 244,
+  "rating": "pg_13",
+  "studios": []
+}

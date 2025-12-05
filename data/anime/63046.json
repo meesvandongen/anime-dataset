@@ -1,0 +1,47 @@
+{
+  "id": 63046,
+  "title": "Nukitashi the Animation Specials",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1086/153950.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1086/153950l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nukitashi The Animation OVA"
+    ],
+    "en": "Nukitashi The Animation Specials",
+    "ja": "ぬきたし THE ANIMATION OVA"
+  },
+  "start_date": "2025-11-26",
+  "end_date": "2025-12-24",
+  "synopsis": "Short Specials included in the Blu-ray volumes, each volume have two episodes. \n\n1. \"Hinami Becomes a Mommy at Babumi Kindergarten\"\nMufu-mufu footage of Hinami at Babumi Kindergarten.\n\n2. \"Misaki Gets the Massages Everyone Else Is Getting\"\nMufu-mufu footage of Misaki and massages.\n\n3. \"Kaachan: Okan, Kanojo, Nanase\"\nMufu-mufu footage of Nanase at home.\n\n4. \"Master's Pet\"\nMufu-mufu footage of Fumino with a collar.",
+  "mean": 6.39,
+  "popularity": 12313,
+  "num_list_users": 2085,
+  "num_scoring_users": 187,
+  "nsfw": "gray",
+  "created_at": "2025-12-02T05:38:01+00:00",
+  "updated_at": "2025-12-03T18:34:07+00:00",
+  "media_type": "special",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 49,
+      "name": "Erotica"
+    }
+  ],
+  "num_episodes": 4,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 289,
+  "rating": "r+",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}

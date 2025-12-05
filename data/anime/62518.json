@@ -1,0 +1,47 @@
+{
+  "id": 62518,
+  "title": "Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Iki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1867/152110.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1867/152110l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Milky☆Subway: The Galactic Limited Express Movie",
+    "ja": "劇場 銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
+  },
+  "start_date": "2026-02-06",
+  "end_date": "2026-02-06",
+  "synopsis": "Theatrical compilation of Ginga Tokkyuu Milky☆Subway with new scenes added.",
+  "popularity": 14436,
+  "num_list_users": 1131,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-09-18T18:49:45+00:00",
+  "updated_at": "2025-12-03T10:24:42+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

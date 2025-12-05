@@ -2,8 +2,8 @@
   "id": 48988,
   "title": "Ikinuke! Bakusou! Kusohamu-chan! Episode 0",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1645/114950.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1645/114950l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1645/114950.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1645/114950l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,23 +13,19 @@
   "start_date": "2021-03-17",
   "end_date": "2021-03-17",
   "synopsis": "Episode 0 of Ikinuke! Bakusou! Kusohamu-chan!",
-  "rank": 17290,
-  "popularity": 21604,
-  "num_list_users": 257,
+  "rank": 17307,
+  "popularity": 21615,
+  "num_list_users": 256,
   "num_scoring_users": 84,
   "nsfw": "white",
   "created_at": "2021-05-14T23:40:01+00:00",
-  "updated_at": "2021-05-15T07:15:17+00:00",
+  "updated_at": "2025-12-01T13:18:13+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

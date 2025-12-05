@@ -15,13 +15,13 @@
   "start_date": "2022-07-08",
   "end_date": "2022-07-08",
   "synopsis": "Based on a series of illustrated children's books.\n\n(Source: AniDB)",
-  "rank": 17066,
-  "popularity": 20909,
-  "num_list_users": 295,
+  "rank": 17083,
+  "popularity": 20926,
+  "num_list_users": 294,
   "num_scoring_users": 46,
   "nsfw": "white",
   "created_at": "2021-09-17T20:49:33+00:00",
-  "updated_at": "2021-09-23T22:16:06+00:00",
+  "updated_at": "2025-11-29T13:03:57+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -32,10 +32,6 @@
     {
       "id": 15,
       "name": "Kids"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

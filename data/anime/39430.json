@@ -15,13 +15,13 @@
   "start_date": "2019-03-28",
   "end_date": "2019-03-29",
   "synopsis": "Two additional Zannen na Ikimono Jiten episodes that will be televised 7 months after the original TV series. They will focus on manatees and chipmunks.",
-  "rank": 17065,
-  "popularity": 19293,
+  "rank": 17082,
+  "popularity": 19305,
   "num_list_users": 398,
   "num_scoring_users": 67,
   "nsfw": "white",
   "created_at": "2019-03-02T07:37:37+00:00",
-  "updated_at": "2019-03-02T07:37:37+00:00",
+  "updated_at": "2025-11-29T13:03:41+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -30,8 +30,8 @@
       "name": "Comedy"
     },
     {
-      "id": 36,
-      "name": "Slice of Life"
+      "id": 56,
+      "name": "Educational"
     }
   ],
   "num_episodes": 2,

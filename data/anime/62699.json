@@ -1,0 +1,39 @@
+{
+  "id": 62699,
+  "title": "Senkou datta",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1731/152533.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1731/152533l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Insight",
+    "ja": "閃光だった"
+  },
+  "start_date": "2025-07-30",
+  "end_date": "2025-07-30",
+  "synopsis": "Music video for the song Senkou datta by RIM. The song was used as the ending theme for episode 3 of the anime Kamitsubaki-shi Kensetsuchuu..",
+  "popularity": 29320,
+  "num_list_users": 42,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2025-10-12T20:26:13+00:00",
+  "updated_at": "2025-11-29T16:04:13+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 221,
+  "rating": "pg_13",
+  "studios": []
+}
