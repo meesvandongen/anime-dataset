@@ -19,13 +19,13 @@
   "end_date": "2014-01-28",
   "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials. \n\nMakoto is determined to step out of her model sister's shadow and have her own high school debut, but when Makoto's sister shows up at her school unexpectedly, things go awry. \n\n(Source: MU)\n",
   "mean": 5.79,
-  "rank": 11419,
-  "popularity": 6591,
-  "num_list_users": 11827,
-  "num_scoring_users": 5527,
+  "rank": 11445,
+  "popularity": 6594,
+  "num_list_users": 11829,
+  "num_scoring_users": 5528,
   "nsfw": "white",
   "created_at": "2013-12-25T15:41:47+00:00",
-  "updated_at": "2024-05-03T03:44:42+00:00",
+  "updated_at": "2025-12-05T02:37:00+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -36,6 +36,10 @@
     {
       "id": 22,
       "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
     },
     {
       "id": 25,

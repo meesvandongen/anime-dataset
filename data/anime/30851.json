@@ -2,8 +2,8 @@
   "id": 30851,
   "title": "Q Transformers: Saranaru Ninki Mono e no Michi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/2/74246.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/2/74246l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/2/74246.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/2/74246l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,28 +15,24 @@
   "start_date": "2015-07-06",
   "end_date": "2015-10-01",
   "synopsis": "Second season of Q Transformers.",
-  "mean": 5.47,
-  "rank": 12702,
-  "popularity": 14718,
-  "num_list_users": 1054,
-  "num_scoring_users": 249,
+  "mean": 5.48,
+  "rank": 12716,
+  "popularity": 14719,
+  "num_list_users": 1057,
+  "num_scoring_users": 250,
   "nsfw": "white",
   "created_at": "2015-05-29T22:06:40+00:00",
-  "updated_at": "2018-10-31T01:45:07+00:00",
+  "updated_at": "2025-12-07T22:29:29+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
       "id": 18,
       "name": "Mecha"
-    },
-    {
-      "id": 20,
-      "name": "Parody"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 13,

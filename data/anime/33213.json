@@ -2,8 +2,8 @@
   "id": 33213,
   "title": "Onizushi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/79804.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/4/79804l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/79804.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/79804l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2016-05-25",
   "synopsis": "A comedy series that pits the inhabitants of a Japanese sushi restaurant against a gaggle of greedy oni.\n\n(Source: Crunchyroll)",
   "mean": 5.54,
-  "rank": 12484,
-  "popularity": 17509,
+  "rank": 12511,
+  "popularity": 17523,
   "num_list_users": 543,
   "num_scoring_users": 168,
   "nsfw": "white",
   "created_at": "2016-04-20T00:12:27+00:00",
-  "updated_at": "2016-05-29T16:36:16+00:00",
+  "updated_at": "2025-12-09T13:36:20+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 6,
       "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 3,
