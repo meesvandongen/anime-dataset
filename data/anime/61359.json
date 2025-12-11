@@ -9,17 +9,17 @@
     "synonyms": [
       "No More Love With the Girls."
     ],
-    "en": "",
+    "en": "You Can't Be In a Rom-Com with Your Childhood Friends!",
     "ja": "幼馴染とはラブコメにならない"
   },
-  "start_date": "2026-01",
+  "start_date": "2026-01-06",
   "synopsis": "High schooler Eiyuu has a dilemma—his two childhood friends, Shio and Akari, have grown up to be almost too cute! Even though they don't seem to think much of it, he can't help but see them in a different light. If they ever realized how his feelings had changed, the embarrassment would be overwhelming! However, what Eiyuu doesn't know is that Shio and Akari might have feelings of their own.\n\nA slow-burning love triangle where all the heroines are childhood friends—one that's as frustrating as it is irresistible!\n\n(Source: MAL News)",
-  "popularity": 8998,
-  "num_list_users": 5488,
+  "popularity": 8747,
+  "num_list_users": 5940,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-04-03T03:03:20+00:00",
-  "updated_at": "2025-08-19T10:14:59+00:00",
+  "updated_at": "2025-12-09T05:24:51+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -44,6 +44,10 @@
   "start_season": {
     "year": 2026,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "00:00"
   },
   "source": "web_manga",
   "average_episode_duration": 0,

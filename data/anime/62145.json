@@ -2,8 +2,8 @@
   "id": 62145,
   "title": "H na Ane Series The Animation",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1997/151237.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1997/151237l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1997/151237.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1997/151237l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,10 +15,10 @@
   "start_date": "2025-10-31",
   "end_date": "2025-12-19",
   "synopsis": "",
-  "mean": 6.32,
-  "popularity": 14722,
-  "num_list_users": 1053,
-  "num_scoring_users": 213,
+  "mean": 6.33,
+  "popularity": 14607,
+  "num_list_users": 1087,
+  "num_scoring_users": 227,
   "nsfw": "gray",
   "created_at": "2025-07-31T12:49:08+00:00",
   "updated_at": "2025-08-02T19:46:55+00:00",
@@ -38,5 +38,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "rx",
-  "studios": []
+  "studios": [
+    {
+      "id": 541,
+      "name": "Seven"
+    }
+  ]
 }

@@ -6,21 +6,26 @@
     "large": "https://cdn.myanimelist.net/images/anime/1008/131511l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Bai Lian Cheng 1st Season",
+      "百炼成神 第一季",
+      "Apotheosis Season 1",
+      "Apotheosis 1st Season"
+    ],
     "en": "Apotheosis",
     "ja": "百炼成神"
   },
   "start_date": "2022-11-04",
   "end_date": "2023-10-20",
   "synopsis": "Luo Zheng, who is now a menial slave, used to be a young master of a big family. Owing to the decline of his family, his sister is imprisoned by a strong force, and he has no choice but to be at others' service. However, every cloud has a silver lining. The ancient book left by his father actually conceals a magical spell that can change a human into an instrument! What is the mysterious power behind this? This is contest with fate.\n\n(Source: Webcomics, edited)",
-  "mean": 7.3,
-  "rank": 2943,
-  "popularity": 10331,
-  "num_list_users": 3630,
-  "num_scoring_users": 1177,
+  "mean": 7.31,
+  "rank": 2876,
+  "popularity": 10321,
+  "num_list_users": 3652,
+  "num_scoring_users": 1185,
   "nsfw": "white",
   "created_at": "2022-09-03T03:10:51+00:00",
-  "updated_at": "2025-11-25T13:18:21+00:00",
+  "updated_at": "2025-12-10T13:36:03+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +40,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,

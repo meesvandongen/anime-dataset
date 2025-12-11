@@ -2,22 +2,22 @@
   "id": 60310,
   "title": "Mairimashita! Iruma-kun 4th Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1918/146534.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1918/146534l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1434/154048.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1434/154048l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "Welcome to Demon School! Iruma-kun Season 4",
-    "ja": "魔入りました！入間くん"
+    "ja": "魔入りました！入間くん 第4シリーズ"
   },
   "start_date": "2026-04",
   "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
-  "popularity": 4166,
-  "num_list_users": 35864,
-  "num_scoring_users": 1,
+  "popularity": 4149,
+  "num_list_users": 36188,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2024-11-17T12:25:41+00:00",
-  "updated_at": "2025-12-02T01:04:33+00:00",
+  "updated_at": "2025-12-06T23:46:35+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -46,5 +46,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1258,
+      "name": "Bandai Namco Pictures"
+    }
+  ]
 }

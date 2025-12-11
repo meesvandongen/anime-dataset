@@ -2,8 +2,8 @@
   "id": 37265,
   "title": "God Eater Reso Nantoka Gekijou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1633/95138.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1633/95138l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1633/95138.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1633/95138l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,16 +14,20 @@
   "end_date": "2018-08-04",
   "synopsis": "Short anime inspired by the iOS and Android mobile game God Eater Resonant Ops.",
   "mean": 5.62,
-  "rank": 12208,
-  "popularity": 9094,
-  "num_list_users": 5323,
+  "rank": 12237,
+  "popularity": 9103,
+  "num_list_users": 5324,
   "num_scoring_users": 865,
   "nsfw": "white",
   "created_at": "2018-02-05T10:12:07+00:00",
-  "updated_at": "2020-09-28T20:54:07+00:00",
+  "updated_at": "2025-12-09T13:22:33+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
     {
       "id": 10,
       "name": "Fantasy"

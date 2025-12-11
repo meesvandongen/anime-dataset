@@ -2,22 +2,22 @@
   "id": 54863,
   "title": "Trigun Stargaze",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1009/152508.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1009/152508l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1009/152508.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1009/152508l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "Trigun Stargaze",
     "ja": "TRIGUN STARGAZE"
   },
-  "start_date": "2026-01",
+  "start_date": "2026-01-10",
   "synopsis": "Two and a half years have passed since the Lost July incident, a catastrophe that reduced an entire city to ruins and sent shockwaves across the world.\n\nOn the desert planet of No Man's Land, Vash the Stampede, a gunslinger who swore never to take a life, faces his final confrontation with his brother, Millions Knives, who seeks the complete destruction of humanity. As their fates collide, the battle that will determine the future of both mankind and the planet begins.\n\n(Source: MAL News)",
-  "popularity": 4225,
-  "num_list_users": 34945,
+  "popularity": 4168,
+  "num_list_users": 35859,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2023-03-25T14:54:02+00:00",
-  "updated_at": "2025-10-10T21:55:54+00:00",
+  "updated_at": "2025-12-07T06:20:58+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -46,6 +46,10 @@
   "start_season": {
     "year": 2026,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:00"
   },
   "source": "manga",
   "average_episode_duration": 0,

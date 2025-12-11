@@ -2,8 +2,8 @@
   "id": 37511,
   "title": "Kedamono Damono",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1905/91181.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1905/91181l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1905/91181.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1905/91181l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,12 +16,12 @@
   "end_date": "2018-03-15",
   "synopsis": "Music Video of Kitsunetsuki's First Song Kedamonodamono used as the Ending Theme of the Anime Killing Bites.",
   "mean": 6,
-  "popularity": 12175,
+  "popularity": 12187,
   "num_list_users": 2149,
   "num_scoring_users": 883,
   "nsfw": "white",
   "created_at": "2018-03-18T16:37:08+00:00",
-  "updated_at": "2019-05-23T21:45:59+00:00",
+  "updated_at": "2025-12-10T12:14:28+00:00",
   "media_type": "music",
   "status": "finished_airing",
   "genres": [
@@ -32,6 +32,10 @@
     {
       "id": 6,
       "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

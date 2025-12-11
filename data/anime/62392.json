@@ -1,0 +1,62 @@
+{
+  "id": 62392,
+  "title": "Jujutsu Kaisen Movie: Shibuya Jihen Tokubetsu Henshuu-ban x Shimetsu Kaiyuu Senkou Jouei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1438/154138.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1438/154138l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Jujutsu Kaisen: Execution",
+    "ja": "劇場版 呪術廻戦『渋谷事変 特別編集版』×『死滅回游 先行上映』"
+  },
+  "start_date": "2025-11-07",
+  "end_date": "2025-11-07",
+  "synopsis": "Compilation of the Shibuya Incident from the second season and the first two episodes of Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen.",
+  "mean": 7.25,
+  "rank": 3040,
+  "popularity": 14559,
+  "num_list_users": 1383,
+  "num_scoring_users": 569,
+  "nsfw": "white",
+  "created_at": "2025-08-31T15:06:55+00:00",
+  "updated_at": "2025-12-11T00:06:16+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 5280,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 569,
+      "name": "MAPPA"
+    }
+  ]
+}
