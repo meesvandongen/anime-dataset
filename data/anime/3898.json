@@ -2,8 +2,8 @@
   "id": 3898,
   "title": "Mazinger Z tai Devilman",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1446/122745.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1446/122745l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1446/122745.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1446/122745l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "1973-07-18",
   "synopsis": "The heroes of the series Mazinger Z and Devilman fighting against the evil Demon Clan.",
   "mean": 6.11,
-  "rank": 9674,
-  "popularity": 8985,
-  "num_list_users": 5522,
+  "rank": 9690,
+  "popularity": 8989,
+  "num_list_users": 5529,
   "num_scoring_users": 2376,
   "nsfw": "white",
   "created_at": "2008-02-09T17:34:34+00:00",
-  "updated_at": "2025-10-17T21:52:19+00:00",
+  "updated_at": "2025-12-10T12:13:50+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -46,6 +46,10 @@
     {
       "id": 27,
       "name": "Shounen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

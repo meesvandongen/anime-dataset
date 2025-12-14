@@ -2,8 +2,8 @@
   "id": 15873,
   "title": "Pyun Pyun Maru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1812/135785.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1812/135785l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1812/135785.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1812/135785l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,16 +15,20 @@
   "start_date": "1967-07-03",
   "end_date": "1969-03-30",
   "synopsis": "The Ninja Pyun Pyun-Maru and his brother Chibi-Maru are working at an office that accepts anything. They solve unexpected happenings caused by other Ninjas. \n\n(Source: TOEI Animation Europe catalog)",
-  "rank": 19653,
-  "popularity": 16340,
-  "num_list_users": 692,
+  "rank": 19664,
+  "popularity": 16337,
+  "num_list_users": 695,
   "num_scoring_users": 109,
   "nsfw": "white",
   "created_at": "2012-10-09T19:46:11+00:00",
-  "updated_at": "2021-04-15T07:19:36+00:00",
+  "updated_at": "2025-12-11T10:25:53+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 4,
       "name": "Comedy"
