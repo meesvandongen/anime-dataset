@@ -16,13 +16,13 @@
   "end_date": "1987-01-14",
   "synopsis": "Muscat Tyler is the 108th prince of the Galaxy Empire and is known as an eccentric person. He travels around the universe accompanying a Walking Arsenal, K.K, and Lu of the Light Wing Race, the strongest creature in the universe. Wherever they go, there is trouble.\n\n(Source: ANN)",
   "mean": 5.6,
-  "rank": 12276,
-  "popularity": 10194,
-  "num_list_users": 3821,
-  "num_scoring_users": 1872,
+  "rank": 12300,
+  "popularity": 10203,
+  "num_list_users": 3822,
+  "num_scoring_users": 1873,
   "nsfw": "white",
   "created_at": "2010-08-08T19:04:40+00:00",
-  "updated_at": "2021-09-14T19:35:40+00:00",
+  "updated_at": "2025-12-11T10:26:58+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -35,12 +35,12 @@
       "name": "Comedy"
     },
     {
-      "id": 17,
-      "name": "Martial Arts"
-    },
-    {
       "id": 18,
       "name": "Mecha"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,

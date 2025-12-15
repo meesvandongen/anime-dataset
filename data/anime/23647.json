@@ -2,8 +2,8 @@
   "id": 23647,
   "title": "Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1027/96655.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1027/96655l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1027/96655.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1027/96655l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,16 +17,20 @@
   "end_date": "1983-03-12",
   "synopsis": "Screened as a triple feature with Doraemon: Nobita no Kaitei Kiganjou and Paman - Birdman ga Yattekita.\n\n(Source: AniDB)",
   "mean": 6.17,
-  "rank": 9345,
-  "popularity": 15464,
-  "num_list_users": 862,
+  "rank": 9361,
+  "popularity": 15483,
+  "num_list_users": 861,
   "num_scoring_users": 330,
   "nsfw": "white",
   "created_at": "2014-04-07T06:59:36+00:00",
-  "updated_at": "2025-11-29T13:20:27+00:00",
+  "updated_at": "2025-12-11T10:31:28+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 4,
       "name": "Comedy"

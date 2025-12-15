@@ -2,8 +2,8 @@
   "id": 3806,
   "title": "Sasuga no Sarutobi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1318/106142.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1318/106142l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1318/106142.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1318/106142l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,19 +17,19 @@
   "end_date": "1984-03-11",
   "synopsis": "Nikumaru, meaning \"meatball\" in Japanese, is a seventeen-year-old student at Ninja High School, a special school for the training of ninja. He is short and chubby, but he possesses a super technique known as the \"kamikaze\", where he stirs up a whirlwind with his feet. The series introduces his many adventures and pranks as Nikumaru meets with his rivals both in and out of school.\n\n(Source: AnimeNfo)",
   "mean": 6.46,
-  "rank": 7578,
-  "popularity": 11805,
+  "rank": 7587,
+  "popularity": 11813,
   "num_list_users": 2393,
   "num_scoring_users": 889,
   "nsfw": "white",
   "created_at": "2008-01-30T16:01:29+00:00",
-  "updated_at": "2022-08-09T15:40:10+00:00",
+  "updated_at": "2025-12-11T10:24:42+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 2,
-      "name": "Adventure"
+      "id": 1,
+      "name": "Action"
     },
     {
       "id": 4,
@@ -42,10 +42,6 @@
     {
       "id": 22,
       "name": "Romance"
-    },
-    {
-      "id": 30,
-      "name": "Sports"
     }
   ],
   "num_episodes": 69,

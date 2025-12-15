@@ -13,13 +13,13 @@
   "start_date": "1986-12-20",
   "end_date": "1986-12-20",
   "synopsis": "",
-  "rank": 21485,
-  "popularity": 21684,
-  "num_list_users": 253,
+  "rank": 21489,
+  "popularity": 21734,
+  "num_list_users": 252,
   "num_scoring_users": 57,
   "nsfw": "white",
   "created_at": "2022-06-09T09:32:25+00:00",
-  "updated_at": "2022-11-29T06:11:45+00:00",
+  "updated_at": "2025-12-11T10:27:16+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -34,10 +34,6 @@
     {
       "id": 13,
       "name": "Historical"
-    },
-    {
-      "id": 17,
-      "name": "Martial Arts"
     },
     {
       "id": 38,

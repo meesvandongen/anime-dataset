@@ -2,8 +2,8 @@
   "id": 2359,
   "title": "Choujin Densetsu Urotsukidouji Movie",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/15026.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/10/15026l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/15026.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/15026l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,13 +13,13 @@
   "start_date": "1989-03-18",
   "end_date": "1989-03-18",
   "synopsis": "Summary of Choujin Densetsu Urotsukidouji.",
-  "mean": 6.1,
-  "popularity": 8234,
-  "num_list_users": 6843,
+  "mean": 6.11,
+  "popularity": 8241,
+  "num_list_users": 6847,
   "num_scoring_users": 3083,
   "nsfw": "gray",
   "created_at": "2007-04-26T01:15:49+00:00",
-  "updated_at": "2021-12-31T10:36:11+00:00",
+  "updated_at": "2025-12-10T11:55:49+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +38,10 @@
     {
       "id": 6,
       "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

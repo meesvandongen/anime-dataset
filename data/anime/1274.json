@@ -2,8 +2,8 @@
   "id": 1274,
   "title": "Injuu Gakuen EX",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1318/104057.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1318/104057l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1318/104057.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1318/104057l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,12 +16,12 @@
   "end_date": "1996-11-08",
   "synopsis": "Miko Mido has fallen in love for the first time. Too bad for her that she hasn't the time to pursue the man of her dreams. There is a mysterious female ghost which is attacking Miko's schoolmates and stealing their life-force, and someone has to investigate the case. However, it seems that the ominous phantom is willing to pursue Miko's love interest, too...\n\n(Source: ANN)",
   "mean": 6.07,
-  "popularity": 9901,
-  "num_list_users": 4168,
-  "num_scoring_users": 1307,
+  "popularity": 9908,
+  "num_list_users": 4171,
+  "num_scoring_users": 1308,
   "nsfw": "gray",
   "created_at": "2006-08-06T22:42:48+00:00",
-  "updated_at": "2022-01-02T16:14:17+00:00",
+  "updated_at": "2025-12-10T12:04:26+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -32,6 +32,10 @@
     {
       "id": 6,
       "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 4,
