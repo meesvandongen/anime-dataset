@@ -14,13 +14,13 @@
   "end_date": "2002-12-31",
   "synopsis": "Countdown to New Years 2003.",
   "mean": 6.18,
-  "rank": 9269,
-  "popularity": 14382,
-  "num_list_users": 1151,
+  "rank": 9271,
+  "popularity": 14384,
+  "num_list_users": 1153,
   "num_scoring_users": 602,
   "nsfw": "white",
   "created_at": "2019-05-03T21:50:12+00:00",
-  "updated_at": "2021-12-17T21:31:29+00:00",
+  "updated_at": "2025-12-10T12:16:31+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +35,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,

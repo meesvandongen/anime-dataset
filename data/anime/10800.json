@@ -18,11 +18,11 @@
   "mean": 8.17,
   "rank": 466,
   "popularity": 512,
-  "num_list_users": 489628,
-  "num_scoring_users": 192833,
+  "num_list_users": 489883,
+  "num_scoring_users": 192938,
   "nsfw": "white",
   "created_at": "2011-06-09T21:16:49+00:00",
-  "updated_at": "2025-05-20T21:39:33+00:00",
+  "updated_at": "2025-12-10T12:35:48+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 64,
       "name": "Love Polygon"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     },
     {
       "id": 23,

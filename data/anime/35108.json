@@ -15,16 +15,20 @@
   "start_date": "2009-12-26",
   "end_date": "2010-06-26",
   "synopsis": "The third season of Ninja Tamamaru.",
-  "rank": 19154,
-  "popularity": 20807,
-  "num_list_users": 301,
+  "rank": 19164,
+  "popularity": 20784,
+  "num_list_users": 303,
   "num_scoring_users": 44,
   "nsfw": "white",
   "created_at": "2017-03-15T03:46:07+00:00",
-  "updated_at": "2017-03-15T03:46:07+00:00",
+  "updated_at": "2025-12-11T10:35:33+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 15,
       "name": "Kids"

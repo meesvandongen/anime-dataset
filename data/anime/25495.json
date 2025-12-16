@@ -2,8 +2,8 @@
   "id": 25495,
   "title": "fake!fake!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1392/90591.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1392/90591l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1392/90591.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1392/90591l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,7 +14,7 @@
   "end_date": "2014-04-30",
   "synopsis": "Music video for the song \"fake!fake!\" by A Crow Is White.",
   "mean": 6.24,
-  "popularity": 12976,
+  "popularity": 12985,
   "num_list_users": 1672,
   "num_scoring_users": 983,
   "nsfw": "white",
@@ -33,6 +33,7 @@
     "year": 2014,
     "season": "spring"
   },
+  "source": "original",
   "average_episode_duration": 204,
   "rating": "g",
   "studios": []

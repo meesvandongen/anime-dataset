@@ -14,10 +14,10 @@
   "end_date": "2015-01-03",
   "synopsis": "Special episode consisting of two short stories. The first being an expanded version of Detective Conan: The Fugitive Kogorou Mouri, which was never aired on TV till now. The second half being a brand new New Years Day segment.",
   "mean": 7.02,
-  "rank": 4453,
-  "popularity": 9430,
-  "num_list_users": 4829,
-  "num_scoring_users": 1766,
+  "rank": 4455,
+  "popularity": 9435,
+  "num_list_users": 4836,
+  "num_scoring_users": 1769,
   "nsfw": "white",
   "created_at": "2015-01-11T07:57:54+00:00",
   "updated_at": "2023-11-25T20:02:39+00:00",
@@ -50,6 +50,7 @@
     "year": 2015,
     "season": "winter"
   },
+  "source": "manga",
   "average_episode_duration": 1460,
   "rating": "pg_13",
   "studios": [

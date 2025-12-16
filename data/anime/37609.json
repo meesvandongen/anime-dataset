@@ -14,12 +14,12 @@
   "end_date": "2011-04-07",
   "synopsis": "This song deals with the Japanese mythological creature, the Baku. Baku's are known to devour the nightmares/dreams of human beings. In this song the baku is portrayed by Len. Here, he entices an innocent girl who has trouble sleeping by taking away her bad dreams. He also \"seals the spell\" with a pinky promise and then later a kiss. In the end, \"when the full moon rises\" he steals her soul and takes her empty body to his \"monochrome world.\"\n\n(Source: Vocaloid Wikia)",
   "mean": 5.68,
-  "popularity": 18015,
-  "num_list_users": 500,
+  "popularity": 18011,
+  "num_list_users": 501,
   "num_scoring_users": 246,
   "nsfw": "white",
   "created_at": "2018-03-25T10:17:21+00:00",
-  "updated_at": "2018-05-04T17:33:24+00:00",
+  "updated_at": "2025-12-10T12:08:40+00:00",
   "media_type": "music",
   "status": "finished_airing",
   "genres": [
@@ -30,6 +30,10 @@
     {
       "id": 6,
       "name": "Mythology"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 1,
