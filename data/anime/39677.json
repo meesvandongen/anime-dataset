@@ -2,8 +2,8 @@
   "id": 39677,
   "title": "Chuizhi Shijie",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1850/100436.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1850/100436l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1850/100436.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1850/100436l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,8 +16,8 @@
   "start_date": "2019-06-18",
   "end_date": "2019-08-27",
   "synopsis": "",
-  "rank": 20757,
-  "popularity": 17937,
+  "rank": 20761,
+  "popularity": 17944,
   "num_list_users": 507,
   "num_scoring_users": 75,
   "nsfw": "white",
@@ -50,7 +50,7 @@
   "studios": [
     {
       "id": 1325,
-      "name": "Haoliners Animation League"
+      "name": "Haoliners Animation"
     }
   ]
 }

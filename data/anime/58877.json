@@ -1,0 +1,55 @@
+{
+  "id": 58877,
+  "title": "Diamond no Ace: Act II Second Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1594/154245.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1594/154245l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Ace of Diamond Act II Season 2",
+    "ja": "ダイヤのA actⅡ Second Season"
+  },
+  "start_date": "2026-04",
+  "synopsis": "Sequel to Diamond no Ace: Act II.",
+  "popularity": 7316,
+  "num_list_users": 9224,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2024-05-18T16:05:59+00:00",
+  "updated_at": "2025-12-14T12:50:22+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    },
+    {
+      "id": 77,
+      "name": "Team Sports"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
+}

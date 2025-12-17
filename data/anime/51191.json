@@ -1,32 +1,33 @@
 {
   "id": 51191,
-  "title": "Yi Ren Zhi Xia 5th season",
+  "title": "Yi Ren Zhi Xia 5",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1585/125562.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1585/125562l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1585/125562.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1585/125562l.webp"
   },
   "alternative_titles": {
     "synonyms": [
+      "Yi Ren Zhi Xia 5th season",
+      "The Outcast 5th Season",
       "Hitori no Shita: The Outcast 5th Season",
+      "Yi Ren Zhi Xia 5: Juezhan! Bi You Cun",
       "一人之下5 决战！碧游村",
-      "一人之下5",
-      "一人之下 第五季",
-      "Yi Ren Zhi Xia 5"
+      "一人之下 第五季"
     ],
-    "en": "The Outcast 5th Season",
-    "ja": "一人之下 第5季"
+    "en": "The Outcast 5",
+    "ja": "一人之下5"
   },
   "start_date": "2022-12-09",
   "end_date": "2023-02-24",
-  "synopsis": "The fifth season of Yi Ren Zhi Xia.",
+  "synopsis": "Fifth season of Yi Ren Zhi Xia.",
   "mean": 7.06,
-  "rank": 4252,
-  "popularity": 8992,
-  "num_list_users": 5511,
-  "num_scoring_users": 899,
+  "rank": 4255,
+  "popularity": 8995,
+  "num_list_users": 5521,
+  "num_scoring_users": 903,
   "nsfw": "white",
   "created_at": "2022-03-08T17:06:11+00:00",
-  "updated_at": "2025-11-14T19:19:29+00:00",
+  "updated_at": "2025-12-16T14:05:42+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -48,7 +49,7 @@
     "year": 2022,
     "season": "fall"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 1423,
   "rating": "pg_13",
   "studios": [

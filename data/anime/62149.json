@@ -13,24 +13,24 @@
     "ja": "Fate/Grand Order 藤丸立香はわからない Season3"
   },
   "start_date": "2025-08-02",
+  "end_date": "2025-12-17",
   "synopsis": "Third season of Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai.",
-  "mean": 6.57,
-  "rank": 6887,
-  "popularity": 13769,
-  "num_list_users": 1338,
-  "num_scoring_users": 104,
+  "rank": 21331,
+  "popularity": 13759,
+  "num_list_users": 1349,
+  "num_scoring_users": 108,
   "nsfw": "white",
   "created_at": "2025-08-02T03:58:34+00:00",
-  "updated_at": "2025-08-12T12:40:20+00:00",
+  "updated_at": "2025-12-15T11:00:30+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 24,
   "start_season": {
     "year": 2025,
     "season": "summer"

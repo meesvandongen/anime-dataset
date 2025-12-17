@@ -2,22 +2,22 @@
   "id": 60460,
   "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1151/152479.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1151/152479l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1151/152479.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1151/152479l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
     "ja": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士"
   },
-  "start_date": "2026-01",
+  "start_date": "2026-01-10",
   "synopsis": "\"Level up even while offline?! That's not a game on 'easy mode'—that's just an AFK game!\" The online game Kenichi Yamada had been playing religiously is shutting down its servers, leaving him with a void in his heart. He looks for a new game to fill it, but everything he finds is way too easy. The kind of game he likes—the kind punishing enough to make players want to spend thousands of hours on it—just isn't around anymore.\n\n\"What's this? 'You are invited to a game that will never end.'\" Kenichi stumbles upon an untitled game, one promising incomparable challenge with unprecedented potential. Without hesitation, he selects the \"Hell Mode\" difficulty. Lo and behold, he finds himself reincarnated in another world as a serf! Now called Allen, he sets out to unlock the secrets of his mystery-laden Summoner class; without the convenience of walkthroughs, game guides, or online forums, he must grope his way to the top of his new world!\n\n(Source: J-Novel Club)",
-  "popularity": 7525,
-  "num_list_users": 8604,
-  "num_scoring_users": 1,
+  "popularity": 7237,
+  "num_list_users": 9479,
+  "num_scoring_users": 5,
   "nsfw": "white",
   "created_at": "2024-12-05T10:37:56+00:00",
-  "updated_at": "2025-12-04T09:31:25+00:00",
+  "updated_at": "2025-12-11T14:59:27+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -46,6 +46,10 @@
   "start_season": {
     "year": 2026,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:05"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

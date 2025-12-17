@@ -14,16 +14,17 @@
     "ja": "龙魂"
   },
   "start_date": "2025-12-01",
+  "end_date": "2025-12-15",
   "synopsis": "For millennia, the ancient and mysterious Dragon Clan has thrived on the Central Continent. Yet the struggle between the Light and Dark Souls of the Divine Realm drags the dragons into conflict. The clan is torn apart by brutal civil strife, facing the threat of extinction. In this desperate hour, Ao Xue, the long-absent prince of the East Sea, returns with formidable power, determined to save the Dragon Clan from peril.\n\n(Source: WeTV)",
-  "rank": 18334,
-  "popularity": 23645,
-  "num_list_users": 165,
-  "num_scoring_users": 17,
+  "rank": 18342,
+  "popularity": 23073,
+  "num_list_users": 186,
+  "num_scoring_users": 23,
   "nsfw": "white",
   "created_at": "2025-11-24T04:30:58+00:00",
-  "updated_at": "2025-12-03T18:32:18+00:00",
+  "updated_at": "2025-12-16T21:50:15+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -38,11 +39,12 @@
       "name": "Historical"
     }
   ],
-  "num_episodes": 11,
+  "num_episodes": 8,
   "start_season": {
     "year": 2025,
     "season": "fall"
   },
+  "source": "web_manga",
   "average_episode_duration": 1200,
   "rating": "pg_13",
   "studios": [

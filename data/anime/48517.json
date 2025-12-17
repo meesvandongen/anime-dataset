@@ -16,13 +16,13 @@
   "end_date": "2022-03-26",
   "synopsis": "",
   "mean": 5.97,
-  "rank": 10428,
-  "popularity": 16418,
-  "num_list_users": 682,
+  "rank": 10431,
+  "popularity": 16420,
+  "num_list_users": 683,
   "num_scoring_users": 156,
   "nsfw": "white",
   "created_at": "2021-03-22T14:05:14+00:00",
-  "updated_at": "2025-03-14T07:37:17+00:00",
+  "updated_at": "2025-12-11T10:22:10+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -37,10 +37,6 @@
     {
       "id": 15,
       "name": "Kids"
-    },
-    {
-      "id": 17,
-      "name": "Martial Arts"
     },
     {
       "id": 30,
