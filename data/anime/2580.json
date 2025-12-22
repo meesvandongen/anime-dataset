@@ -2,8 +2,8 @@
   "id": 2580,
   "title": "Tsukuyomi: Moon Phase Special",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/3433.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/8/3433l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/3433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/8/3433l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,23 +17,23 @@
   "end_date": "2006-02-22",
   "synopsis": "Omake Special from the final DVD volume. The Special storyline has very little to do with the original series outside of having some of the same characters, and has a completely different storyline which does not fit into anything which came before it.\n\n(Source: AniDB)",
   "mean": 6.6,
-  "rank": 6750,
-  "popularity": 6424,
-  "num_list_users": 12603,
+  "rank": 6714,
+  "popularity": 6437,
+  "num_list_users": 12605,
   "num_scoring_users": 6329,
   "nsfw": "white",
   "created_at": "2007-06-02T23:41:44+00:00",
-  "updated_at": "2025-11-29T13:58:04+00:00",
+  "updated_at": "2025-12-21T05:12:10+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 5,
-      "name": "Avant Garde"
-    },
-    {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
     }
   ],
   "num_episodes": 1,
