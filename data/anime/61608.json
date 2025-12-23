@@ -2,8 +2,8 @@
   "id": 61608,
   "title": "Jigoku Sensei Nube (2025) Part 2",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1361/153968.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1361/153968l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1361/153968.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1361/153968l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,12 +14,12 @@
   },
   "start_date": "2026-01-07",
   "synopsis": "Second part of Jigoku Sensei Nube (2025).",
-  "popularity": 9774,
-  "num_list_users": 4364,
+  "popularity": 9567,
+  "num_list_users": 4662,
   "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2025-04-30T15:06:21+00:00",
-  "updated_at": "2025-12-07T06:26:30+00:00",
+  "updated_at": "2025-12-21T20:38:53+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -60,5 +60,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "r",
-  "studios": []
+  "studios": [
+    {
+      "id": 1997,
+      "name": "Studio KAI"
+    }
+  ]
 }

@@ -2,8 +2,8 @@
   "id": 61621,
   "title": "Yun Shen Buzhi Meng",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1897/150259.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1897/150259l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1897/150259.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1897/150259l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,18 +13,23 @@
     "ja": "云深不知梦"
   },
   "start_date": "2025-07-05",
-  "synopsis": "A beautiful wedding turns into betrayal by a beloved. No longer seeking immortality, a single thought transforms into darkness. The powerful and tragic heroine embarks on a path of vengeance as a killing deity, determined to eradicate all.\n\n(Source: YOUKU English Animation YouTube Channel)",
-  "mean": 7.31,
-  "rank": 2890,
-  "popularity": 14221,
-  "num_list_users": 1195,
-  "num_scoring_users": 244,
+  "end_date": "2025-12-20",
+  "synopsis": "Yun Wangshu's wedding was meant to be the happiest day of her life, but a brutal conspiracy turned it into a nightmare, slaughtering her entire clan. After a narrow escape, she made a desperate deal with the Silent Court. Now, sixty years later, reborn as the merciless Xihe, she's ready to make her enemies bleed for everything they took from her.\n\n(Source: Youku)",
+  "mean": 7.33,
+  "rank": 2808,
+  "popularity": 14118,
+  "num_list_users": 1242,
+  "num_scoring_users": 293,
   "nsfw": "white",
   "created_at": "2025-05-02T02:47:27+00:00",
-  "updated_at": "2025-11-25T14:13:09+00:00",
+  "updated_at": "2025-12-17T05:07:04+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
     {
       "id": 10,
       "name": "Fantasy"
@@ -40,7 +45,7 @@
     "season": "summer"
   },
   "source": "original",
-  "average_episode_duration": 1320,
+  "average_episode_duration": 1391,
   "rating": "pg_13",
   "studios": [
     {

@@ -1,0 +1,62 @@
+{
+  "id": 62728,
+  "title": "Jian Lai 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1379/154453.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1379/154453l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sword of Coming 2nd Season",
+      "The Sword Comes 2nd Season"
+    ],
+    "en": "The Swords 2nd Season",
+    "ja": "剑来 第二季"
+  },
+  "start_date": "2025-12-25",
+  "synopsis": "With the Lizhu Cave Heaven shattered, the young Chen Pingan shoulders a heavy responsibility: to escort Li Baoping and others to the Great Sui Dynasty to pursue their studies. The journey is fraught with peril, pursued by the iron cavalry of the Great Li and lurking amidst demons and monsters. The mysterious swordsman A Liang appears to offer assistance, and later, literary figures like Cui Cheng and others make their appearances. The young man travels thousands of miles, wielding countless fists, his shoulders bearing both the promise of life and the weight of responsibility. This young man, a wanderer of mountains and rivers, embarks on his journey of growth.\n\n(Source: Tencent, translated)",
+  "popularity": 19812,
+  "num_list_users": 365,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-10-14T20:10:58+00:00",
+  "updated_at": "2025-12-20T17:03:37+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2463,
+      "name": "Cloud Art"
+    }
+  ]
+}

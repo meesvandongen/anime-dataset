@@ -7,22 +7,23 @@
   },
   "alternative_titles": {
     "synonyms": [
+      "Sword of Coming",
       "The Sword Comes"
     ],
-    "en": "Sword of Coming",
+    "en": "The Swords",
     "ja": "剑来"
   },
   "start_date": "2024-08-15",
   "end_date": "2024-12-14",
-  "synopsis": "There are all kinds of things in the world. A poor boy in Lizhu Cave Heaven who should have great luck was unable to seize the opportunity because his natal porcelain was broken. Based on this, many bigwigs focused on the boy and made arrangements, so that the boy's friends got great opportunities, but the boy was at the center of the storm... \n\n(Source: Tencent, Google translated)",
+  "synopsis": "The world is vast and full of wonders. In the mystical realm of Lizhu Cave, a destitute youth destined for greatness finds his fate upended when his life-bound porcelain shatters. Though fortune beckons, it remains tantalizingly out of reach. As a result, powerful figures begin weaving intricate schemes around him, turning the boy into the linchpin of their designs. While those around him reap extraordinary opportunities, the youth himself is left standing alone at the eye of the storm...\n\n(Source: WeTV)",
   "mean": 7.76,
-  "rank": 1197,
-  "popularity": 12319,
-  "num_list_users": 2079,
-  "num_scoring_users": 758,
+  "rank": 1180,
+  "popularity": 12301,
+  "num_list_users": 2098,
+  "num_scoring_users": 770,
   "nsfw": "white",
   "created_at": "2024-07-25T14:27:06+00:00",
-  "updated_at": "2025-11-27T02:23:18+00:00",
+  "updated_at": "2025-12-20T17:02:03+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +38,14 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
     }
   ],
   "num_episodes": 26,

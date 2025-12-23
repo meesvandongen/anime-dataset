@@ -1,0 +1,53 @@
+{
+  "id": 63142,
+  "title": "Metal Cardbot W",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1332/154527l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Metal Kadeubos Waildeu"
+    ],
+    "en": "Metal Cardbot W",
+    "ja": "메탈카드봇W"
+  },
+  "start_date": "2025-12-04",
+  "synopsis": "Shining friendship and strong claws! Metal Cardbot W!\n\nAfter the Speranza incident, humans and Metal Cardbots began to coexist on Earth.\nJun, a boy chosen by the Metal Breath, and his partner Blue Cop discovered a way for humans and Metal Cardbots to coexist.\nThen one day, a \"Wild Cardbot\" appears, holding a 60 million year secret.\n\nNow, a new encounter begins to shake the world.\n\n(Source: Metal Cardbot Wiki)",
+  "rank": 21118,
+  "popularity": 29442,
+  "num_list_users": 30,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2025-12-21T03:52:30+00:00",
+  "updated_at": "2025-12-21T11:07:25+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "07:45"
+  },
+  "source": "other",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": []
+}

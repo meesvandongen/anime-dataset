@@ -1,0 +1,53 @@
+{
+  "id": 61443,
+  "title": "Shunkashuutou Daikousha: Haru no Mai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1908/149187.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1908/149187l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Agents of the Four Seasons",
+      "Agents of the Four Seasons: Dance of Spring"
+    ],
+    "en": "",
+    "ja": "春夏秋冬代行者 春の舞"
+  },
+  "start_date": "2026-04",
+  "synopsis": "Winter was once the only season in the world-but such an existence was too lonely to bear, and so it created Spring to love. Before long, the earth wished for more time to rest in the cycle, and Summer and Autumn were born. The ones who carry the cycle are called the Agents of the Four Seasons. Hinagiku, the Agent of Spring, disappeared from this land ten years ago, taking the season of spring with her. Now, after incredible hardship, she has returned to restore the cycle to its proper state-and, as in the myth passed down since the dawn of time, she sends her love to Winter.\n\n(Source: Yen Press)",
+  "popularity": 9309,
+  "num_list_users": 5069,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-04-10T09:40:48+00:00",
+  "updated_at": "2025-12-22T10:25:35+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 858,
+      "name": "Wit Studio"
+    }
+  ]
+}
