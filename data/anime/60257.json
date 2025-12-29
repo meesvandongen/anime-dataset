@@ -2,8 +2,8 @@
   "id": 60257,
   "title": "Biaozhun Guige Zhanshi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1601/146409.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1601/146409l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1042/154585.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1042/154585l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,20 +12,28 @@
   },
   "start_date": "2024-11-03",
   "end_date": "2024-12-15",
-  "synopsis": "",
-  "rank": 17837,
-  "popularity": 21995,
-  "num_list_users": 239,
-  "num_scoring_users": 33,
+  "synopsis": "A nonsensical, hilarious animated film! There's a boy with the magical ability to cure all diseases, but his method of healing is by hitting people. There's also a girl who seems physically weak, but can suddenly develop explosive muscles, creating an adorable contrast. And then there's a monster who dreams of becoming the strongest. This quirky trio embarks on a magical journey full of surprises. It's guaranteed to make you laugh until your abs and V-line are aching!\n\n(Source: Tencent, translated)",
+  "rank": 20356,
+  "popularity": 21956,
+  "num_list_users": 243,
+  "num_scoring_users": 34,
   "nsfw": "gray",
   "created_at": "2024-11-07T13:40:38+00:00",
-  "updated_at": "2024-12-19T16:07:19+00:00",
+  "updated_at": "2025-12-23T17:12:59+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
     },
     {
       "id": 10,
@@ -40,5 +48,10 @@
   "source": "web_manga",
   "average_episode_duration": 1127,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3255,
+      "name": "PAINTFREE"
+    }
+  ]
 }

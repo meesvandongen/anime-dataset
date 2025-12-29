@@ -2,8 +2,8 @@
   "id": 53208,
   "title": "A Walk With the Colors",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1299/128684.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1299/128684l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1299/128684.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1299/128684l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,10 @@
   "start_date": "2022-07-14",
   "end_date": "2022-07-14",
   "synopsis": "Music video for the song A walk with the colors by PHONO TONES.",
-  "popularity": 22113,
+  "mean": 5.32,
+  "popularity": 22160,
   "num_list_users": 232,
-  "num_scoring_users": 101,
+  "num_scoring_users": 102,
   "nsfw": "white",
   "created_at": "2022-09-30T04:58:14+00:00",
   "updated_at": "2022-10-03T20:06:33+00:00",

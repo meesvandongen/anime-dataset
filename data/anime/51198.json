@@ -6,21 +6,24 @@
     "large": "https://cdn.myanimelist.net/images/anime/1523/121307l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "星骸骑士完结篇",
+      "Xing Hai Qishi: Wanjie Pian"
+    ],
     "en": "Knights on Debris: Spark Reignited",
     "ja": "星骸骑士之星火重燃"
   },
   "start_date": "2022-01-01",
   "end_date": "2022-01-01",
-  "synopsis": "The season finale of the second half of Xing Hai Qishi.",
+  "synopsis": "Season finale of the second half of Xing Hai Qishi.",
   "mean": 6.49,
-  "rank": 7434,
-  "popularity": 16704,
-  "num_list_users": 645,
-  "num_scoring_users": 203,
+  "rank": 7456,
+  "popularity": 16715,
+  "num_list_users": 648,
+  "num_scoring_users": 205,
   "nsfw": "white",
   "created_at": "2022-03-08T19:56:01+00:00",
-  "updated_at": "2025-11-13T20:46:58+00:00",
+  "updated_at": "2025-12-27T21:09:50+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -45,5 +48,10 @@
   "source": "original",
   "average_episode_duration": 1920,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2586,
+      "name": "D.ROCK-ART "
+    }
+  ]
 }

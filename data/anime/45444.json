@@ -2,8 +2,8 @@
   "id": 45444,
   "title": "Moshi Juexing: Ruqin",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1683/110869.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1683/110869l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1450/154619.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1450/154619l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,14 +14,14 @@
   },
   "start_date": "2018-05-24",
   "end_date": "2018-08-09",
-  "synopsis": "",
-  "rank": 21344,
-  "popularity": 19614,
-  "num_list_users": 378,
-  "num_scoring_users": 79,
+  "synopsis": "It tells the story of a technologically advanced era where humanity is defeated by AI robots in a world war, leaving Earth a wasteland. To seize Earth's resources, humanity wages a brutal and epic war for survival against AI…\n\n(Source: Tencent, translated)",
+  "rank": 18960,
+  "popularity": 19618,
+  "num_list_users": 380,
+  "num_scoring_users": 80,
   "nsfw": "white",
   "created_at": "2020-12-23T18:37:43+00:00",
-  "updated_at": "2025-10-17T21:54:49+00:00",
+  "updated_at": "2025-12-24T18:45:45+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -46,5 +46,10 @@
   "source": "original",
   "average_episode_duration": 900,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2478,
+      "name": "Oriental Creative Color"
+    }
+  ]
 }

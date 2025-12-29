@@ -1,9 +1,9 @@
 {
   "id": 46639,
-  "title": "Liu Xing Huan Jian",
+  "title": "Liuxing Huan Jian",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1729/111278.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1729/111278l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1919/154680.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1919/154680l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,14 +13,14 @@
   "start_date": "2021-01-28",
   "end_date": "2021-08-12",
   "synopsis": "Twenty years after the war between immortals and demons, the Three Realms have reached a state of delicate balance. It was at this time that the young man Ye Bugui, who was carrying an important secret, broke free from the protection of the Sword Spirit Island and appeared in front of everyone. His appearance broke the balance and the conspiracy that had lain dormant since the end of the war resurfaced. While trying to protect the world, Ye Bugui is aware of his own destiny. His life journey is full of dangers, with people joining and leaving him along the way. The meaning behind his name, \"Bu Gui\" - \"no return\", may just be his fate.\n\n(Source: Anilist)",
-  "mean": 5.68,
-  "rank": 11955,
-  "popularity": 13799,
-  "num_list_users": 1341,
-  "num_scoring_users": 218,
+  "mean": 5.69,
+  "rank": 11945,
+  "popularity": 13811,
+  "num_list_users": 1344,
+  "num_scoring_users": 219,
   "nsfw": "white",
   "created_at": "2021-01-24T01:58:49+00:00",
-  "updated_at": "2022-04-10T14:36:46+00:00",
+  "updated_at": "2025-12-27T23:36:33+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     }
   ],
   "num_episodes": 60,
@@ -38,7 +42,7 @@
     "year": 2021,
     "season": "winter"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 720,
   "rating": "pg_13",
   "studios": [

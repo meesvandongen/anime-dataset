@@ -1,6 +1,6 @@
 {
   "id": 55732,
-  "title": "Bu Xing Si: Yuan Qi",
+  "title": "Bu Xing Si: Yuanqi",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1383/136861.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1383/136861l.jpg"
@@ -12,15 +12,15 @@
   },
   "start_date": "2024-02-29",
   "end_date": "2024-04-25",
-  "synopsis": "",
-  "mean": 6.4,
-  "rank": 7951,
-  "popularity": 14996,
-  "num_list_users": 989,
-  "num_scoring_users": 159,
+  "synopsis": "Qin fell and Han rose, everything in ruins awaited reconstruction. Scholars retreated to seclusion, clans rose in power. Chariots raced for supremacy, what was the point of the weak fighting? With united hearts and strength, ruler and subject acted in tandem. Heaven bestowed an extraordinary gift, originating from the Gan Star, applied to Yin and Yang, different from stillness and movement. Stillness is the way of Heaven, slow and peaceful; movement is the comradeship, swift as thunder. The plan to capture the star, the heart of strategy. The Gan Star entered the world, creating extraordinary individuals. The treacherous bring ruin to the country, the loyal bring ruin to themselves; those who appear virtuous separate from those who are not, no longer can they be subjects. Deviating from the norm, the world was re-divided. Gathering ferns, gathering ferns, the beginning is like Zhou; gathering ferns, gathering ferns, the beginning is like Qin.\n\n(Source: Bilibili, translated)",
+  "mean": 6.41,
+  "rank": 7948,
+  "popularity": 14984,
+  "num_list_users": 995,
+  "num_scoring_users": 163,
   "nsfw": "white",
   "created_at": "2023-06-21T05:42:32+00:00",
-  "updated_at": "2025-11-13T20:54:20+00:00",
+  "updated_at": "2025-12-28T19:22:08+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
       "name": "Fantasy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     }
@@ -49,5 +53,10 @@
   "source": "web_novel",
   "average_episode_duration": 1227,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2528,
+      "name": "Passion Paint Animation"
+    }
+  ]
 }

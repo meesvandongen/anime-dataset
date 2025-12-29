@@ -14,15 +14,15 @@
   },
   "start_date": "2021-05-19",
   "end_date": "2021-06-30",
-  "synopsis": "The second part of the first season of Xing Hai Qishi.",
+  "synopsis": "Second part of the first season of Xing Hai Qishi.",
   "mean": 6.8,
-  "rank": 5535,
-  "popularity": 16372,
-  "num_list_users": 695,
-  "num_scoring_users": 228,
+  "rank": 5552,
+  "popularity": 16385,
+  "num_list_users": 697,
+  "num_scoring_users": 230,
   "nsfw": "white",
   "created_at": "2022-03-08T19:49:35+00:00",
-  "updated_at": "2025-11-13T20:46:20+00:00",
+  "updated_at": "2025-12-27T21:05:59+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -47,5 +47,10 @@
   "source": "original",
   "average_episode_duration": 1363,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2586,
+      "name": "D.ROCK-ART "
+    }
+  ]
 }

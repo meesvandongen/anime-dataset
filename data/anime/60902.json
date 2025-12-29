@@ -1,25 +1,28 @@
 {
   "id": 60902,
-  "title": "Shi Wangzhe A?: Mudan Xiang You Dali Si",
+  "title": "Shi Wangzhe A? 4th Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1134/147833.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1134/147833l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1134/147833.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1134/147833l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "是王者啊？第4季 牡丹香幽大理寺",
+      "Shi Wangzhe A? 4th Season: Mudan Xiang You Dalisi"
+    ],
     "en": "",
-    "ja": "是王者啊？第4季 牡丹香幽大理寺"
+    "ja": "是王者啊？ 第4季"
   },
   "start_date": "2024-12-27",
   "end_date": "2025-02-21",
-  "synopsis": "",
-  "rank": 15054,
-  "popularity": 22801,
-  "num_list_users": 199,
-  "num_scoring_users": 13,
+  "synopsis": "\"Shi Wangzhe A?\" is a series of short animated films depicting everyday life, adapted from the world and characters of the game Honor of Kings. It showcases the lesser-known side of the heroes in Honor of Kings, allowing viewers to experience the \"daily lives\" of these \"heroes\" within the Honor of Kings world. \n\nThis season revolves around Chang'an City in the Honor of Kings continent, starting with the newcomer Yun Ying joining the Dali Temple. She and Li Yuanfang team up to carry out missions, gradually unveiling the mysteries of the Yao Tian organization. Although the members of the Dali Temple and the Yao Tian organization belong to different factions, they are all protecting Chang'an and pursuing their own sense of justice in their own ways.\n\n(Source: Tencent, translated)",
+  "rank": 15102,
+  "popularity": 22795,
+  "num_list_users": 201,
+  "num_scoring_users": 14,
   "nsfw": "white",
   "created_at": "2025-02-03T12:07:43+00:00",
-  "updated_at": "2025-02-21T12:05:06+00:00",
+  "updated_at": "2025-12-24T18:32:56+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -40,5 +43,10 @@
   "source": "game",
   "average_episode_duration": 500,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2211,
+      "name": "Lingsanwu Animation"
+    }
+  ]
 }

@@ -2,8 +2,8 @@
   "id": 58494,
   "title": "Yin Shizong Men Zhang Jiao",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1346/149617.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1346/149617l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1346/149617.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1346/149617l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2024-09-07",
   "synopsis": "Jiang Beichen traveled to a fantasy world and accidentally got the strongest master system, and established the \"Xiandao Sect\". In the early days of the sect, he had to rely on abducting the son of luck to upgrade the sect. Every day, he had to pretend to be a master and bluff a group of talented disciples who admired him. Slowly, Jiang Beichen discovered that his small sect had really become the top hidden sect!\n\n(Source: iQIYI, translated)",
   "mean": 6.66,
-  "rank": 6355,
-  "popularity": 15670,
-  "num_list_users": 823,
-  "num_scoring_users": 180,
+  "rank": 6369,
+  "popularity": 15677,
+  "num_list_users": 826,
+  "num_scoring_users": 182,
   "nsfw": "white",
   "created_at": "2024-03-21T17:41:46+00:00",
-  "updated_at": "2024-09-08T20:27:31+00:00",
+  "updated_at": "2025-12-23T20:52:28+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 2,
       "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
     },
     {
       "id": 10,

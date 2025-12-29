@@ -12,14 +12,14 @@
   },
   "start_date": "2024-12-01",
   "end_date": "2025-01-26",
-  "synopsis": "",
-  "rank": 14535,
-  "popularity": 20544,
-  "num_list_users": 318,
-  "num_scoring_users": 53,
+  "synopsis": "Second season of Renjian Zui Deyi.",
+  "rank": 14585,
+  "popularity": 20565,
+  "num_list_users": 319,
+  "num_scoring_users": 54,
   "nsfw": "white",
   "created_at": "2024-12-02T14:46:03+00:00",
-  "updated_at": "2025-03-14T17:17:00+00:00",
+  "updated_at": "2025-12-28T00:29:39+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -30,6 +30,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,
@@ -45,8 +49,13 @@
     "year": 2024,
     "season": "fall"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 720,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2059,
+      "name": "Suoyi Technology"
+    }
+  ]
 }

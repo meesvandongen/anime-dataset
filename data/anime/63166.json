@@ -1,0 +1,39 @@
+{
+  "id": 63166,
+  "title": "Kujira no Ochiru Machi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1065/154601.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1065/154601l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The City Where Whales Fall",
+    "ja": "鯨の落ちる街"
+  },
+  "start_date": "2025-12-24",
+  "end_date": "2025-12-24",
+  "synopsis": "Music video for the song Kujira no Ochiru Machi by Rokudenashi.",
+  "popularity": 29383,
+  "num_list_users": 48,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2025-12-24T13:41:02+00:00",
+  "updated_at": "2025-12-24T16:39:06+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 222,
+  "rating": "pg_13",
+  "studios": []
+}

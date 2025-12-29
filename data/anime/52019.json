@@ -2,24 +2,26 @@
   "id": 52019,
   "title": "Xiong Bing Lian 3: Leiting Wan Jun",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1952/124297.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1952/124297l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1952/124297.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1952/124297l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "",
-    "ja": "雄兵连Ⅲ雷霆万钧"
+    "synonyms": [
+      "Xiong Bing Lian 3rd Season"
+    ],
+    "en": "The Black Troop 3rd Season",
+    "ja": "雄兵连Ⅲ 雷霆万钧"
   },
   "start_date": "2022-05-29",
   "end_date": "2022-10-30",
-  "synopsis": "",
-  "rank": 16756,
-  "popularity": 18787,
-  "num_list_users": 441,
-  "num_scoring_users": 80,
+  "synopsis": "The plot continues from the previous season, telling the story of the alliance between Earth and the Angel faction to fight against alien evil forces.\n\n(Source: Bangumi, translated)",
+  "rank": 16798,
+  "popularity": 18779,
+  "num_list_users": 445,
+  "num_scoring_users": 82,
   "nsfw": "gray",
   "created_at": "2022-06-07T09:43:12+00:00",
-  "updated_at": "2022-12-11T13:11:03+00:00",
+  "updated_at": "2025-12-27T14:48:03+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -30,6 +32,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
     }
   ],
   "num_episodes": 27,
@@ -37,6 +43,7 @@
     "year": 2022,
     "season": "spring"
   },
+  "source": "original",
   "average_episode_duration": 1200,
   "rating": "r",
   "studios": [

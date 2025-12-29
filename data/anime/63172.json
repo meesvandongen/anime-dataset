@@ -1,0 +1,39 @@
+{
+  "id": 63172,
+  "title": "Allegro (2025)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1157/154617.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1157/154617l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アレグロ"
+  },
+  "start_date": "2025-01-18",
+  "end_date": "2025-01-18",
+  "synopsis": "Music video for the song Allegro by Haruno.",
+  "popularity": 29460,
+  "num_list_users": 37,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2025-12-24T18:08:14+00:00",
+  "updated_at": "2025-12-25T15:43:52+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 131,
+  "rating": "pg_13",
+  "studios": []
+}

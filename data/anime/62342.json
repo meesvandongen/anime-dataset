@@ -1,0 +1,53 @@
+{
+  "id": 62342,
+  "title": "Maid-san wa Taberu dake",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1949/151688.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1949/151688l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Miss Maid Simply Loves to Eat",
+      "Maid Just Simply Love to Eat."
+    ],
+    "en": "The Food Diary of Miss Maid",
+    "ja": "メイドさんは食べるだけ"
+  },
+  "start_date": "2026-04",
+  "synopsis": "What's a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Suzume Tachibana as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though—while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!\n\n(Source: Kodansha USA)",
+  "popularity": 12458,
+  "num_list_users": 2009,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-08-25T03:04:30+00:00",
+  "updated_at": "2025-12-25T09:48:29+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 207,
+      "name": "Magic Bus"
+    },
+    {
+      "id": 1264,
+      "name": "EMT Squared"
+    }
+  ]
+}

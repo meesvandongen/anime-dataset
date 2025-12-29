@@ -1,26 +1,29 @@
 {
   "id": 57801,
-  "title": "Bai She 3: Fusheng",
+  "title": "Bai She: Fusheng",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1448/140857.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1448/140857l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Bai She 3: Fusheng",
+      "白蛇3：浮生"
+    ],
     "en": "White Snake: Afloat",
-    "ja": "白蛇3：浮生"
+    "ja": "白蛇：浮生"
   },
   "start_date": "2024-08-10",
   "end_date": "2024-08-10",
-  "synopsis": "",
-  "mean": 7.15,
-  "rank": 3756,
-  "popularity": 13325,
-  "num_list_users": 1522,
-  "num_scoring_users": 232,
+  "synopsis": "In Hangzhou during the Southern Song Dynasty, Xiaobai and Xiaoqing find Xu Xian, the reincarnation of A Xuan. Xiaobai and Xu Xian eventually become husband and wife. The two open Baoan Hall to heal the sick and save lives, but Fahai discovers Xiaobai and Xiaoqing's true identities as demons and tries to prevent them from being together.\n\n(Source: Bangumi, translated)",
+  "mean": 7.17,
+  "rank": 3666,
+  "popularity": 13327,
+  "num_list_users": 1530,
+  "num_scoring_users": 239,
   "nsfw": "white",
   "created_at": "2024-01-11T16:42:20+00:00",
-  "updated_at": "2024-01-11T18:31:35+00:00",
+  "updated_at": "2025-12-28T20:05:09+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +38,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,

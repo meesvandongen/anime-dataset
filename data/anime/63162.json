@@ -1,0 +1,43 @@
+{
+  "id": 63162,
+  "title": "Kyou wo Shirushite",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1053/154586.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1053/154586l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "To Mark the Day",
+    "ja": "今日をしるして"
+  },
+  "start_date": "2025-12-23",
+  "end_date": "2025-12-23",
+  "synopsis": "Music video for the song Kyou wo Shirushite by Amiya (CV.: Kurosawa Tomoyo).",
+  "popularity": 29234,
+  "num_list_users": 61,
+  "num_scoring_users": 29,
+  "nsfw": "white",
+  "created_at": "2025-12-23T17:45:49+00:00",
+  "updated_at": "2025-12-24T16:34:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 245,
+  "rating": "g",
+  "studios": []
+}

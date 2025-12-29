@@ -1,0 +1,64 @@
+{
+  "id": 62604,
+  "title": "Otaku ni Yasashii Gal wa Inai!?",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1002/154614.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1002/154614l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Gals Can't Be Kind to Otaku!?"
+    ],
+    "en": "",
+    "ja": "オタクに優しいギャルはいない!?"
+  },
+  "start_date": "2026-04",
+  "synopsis": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n\n(Source: Yen Press)",
+  "popularity": 10372,
+  "num_list_users": 3635,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-10-01T03:06:01+00:00",
+  "updated_at": "2025-12-27T11:37:24+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 69,
+      "name": "Otaku Culture"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:45"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}
