@@ -1,0 +1,48 @@
+{
+  "id": 63207,
+  "title": "Hiragana Aan!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1498/154756.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1498/154756l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ひらがなあ～ん!"
+  },
+  "start_date": "1998-03-27",
+  "end_date": "1998-03-27",
+  "synopsis": "",
+  "rank": 22032,
+  "popularity": 29499,
+  "num_list_users": 19,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2025-12-31T03:39:07+00:00",
+  "updated_at": "2025-12-31T03:39:07+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 2554,
+  "rating": "g",
+  "studios": []
+}

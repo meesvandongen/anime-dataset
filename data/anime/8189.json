@@ -13,11 +13,11 @@
   "start_date": "2005-01-07",
   "end_date": "2006-12-09",
   "synopsis": "The citizens of Turkey's Hill model a bizzare American-esque town and engage in non-sequitur behavior.\n\n(Source: ANN)",
-  "mean": 6.42,
-  "rank": 7820,
-  "popularity": 13832,
-  "num_list_users": 1335,
-  "num_scoring_users": 293,
+  "mean": 6.43,
+  "rank": 7865,
+  "popularity": 13849,
+  "num_list_users": 1337,
+  "num_scoring_users": 294,
   "nsfw": "white",
   "created_at": "2010-02-16T19:12:11+00:00",
   "updated_at": "2021-10-05T05:37:14+00:00",
@@ -46,10 +46,6 @@
   "average_episode_duration": 780,
   "rating": "pg_13",
   "studios": [
-    {
-      "id": 374,
-      "name": "Plus Heads"
-    },
     {
       "id": 1927,
       "name": "Studio Crocodile"

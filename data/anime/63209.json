@@ -1,0 +1,48 @@
+{
+  "id": 63209,
+  "title": "Eigo de Perara♪",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1636/154758.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1636/154758l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "えいごでペララ♪"
+  },
+  "start_date": "1998-03-27",
+  "end_date": "1998-03-27",
+  "synopsis": "",
+  "rank": 21313,
+  "popularity": 29498,
+  "num_list_users": 19,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2025-12-31T03:46:53+00:00",
+  "updated_at": "2025-12-31T03:46:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1998,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 2614,
+  "rating": "g",
+  "studios": []
+}
