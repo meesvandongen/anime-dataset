@@ -2,8 +2,8 @@
   "id": 50810,
   "title": "Mao Zhi Ming Episode 5.5",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1560/120492.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1560/120492l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1560/120492.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1560/120492l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,9 @@
   "start_date": "2021-11-22",
   "end_date": "2021-11-22",
   "synopsis": "A special episode listed as 5.5 on bilibili.",
-  "mean": 6.2,
-  "rank": 9144,
-  "popularity": 18750,
+  "mean": 6.22,
+  "rank": 9108,
+  "popularity": 18769,
   "num_list_users": 447,
   "num_scoring_users": 152,
   "nsfw": "white",
@@ -41,5 +41,10 @@
   "source": "manga",
   "average_episode_duration": 487,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3261,
+      "name": "TRCARTOON"
+    }
+  ]
 }

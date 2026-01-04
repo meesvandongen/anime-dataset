@@ -1,0 +1,43 @@
+{
+  "id": 63189,
+  "title": "Daremo Mitenai Yume wo Miro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1836/154688.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1836/154688l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "誰も見てない夢を見ろ"
+  },
+  "start_date": "2025-12-28",
+  "end_date": "2025-12-28",
+  "synopsis": "Music video for the song Daremo Mitenai Yume wo Miro by Kanata Amane.",
+  "popularity": 28494,
+  "num_list_users": 83,
+  "num_scoring_users": 47,
+  "nsfw": "white",
+  "created_at": "2025-12-28T11:07:12+00:00",
+  "updated_at": "2025-12-29T18:34:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 254,
+  "rating": "pg_13",
+  "studios": []
+}

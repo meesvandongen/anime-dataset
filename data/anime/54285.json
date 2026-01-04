@@ -2,25 +2,27 @@
   "id": 54285,
   "title": "Yao Shen Ji 7th Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1814/145610.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1814/145610l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1814/145610.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1814/145610l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Tales of Demons and Gods Season 7",
+    "synonyms": [
+      "Tales of Demons and Gods 7th Season"
+    ],
+    "en": "Tales of Demon and God 7th Season",
     "ja": "妖神记 第7季"
   },
   "start_date": "2023-01-14",
   "end_date": "2023-07-08",
   "synopsis": "Seventh season of Yao Shen Ji.",
   "mean": 7.74,
-  "rank": 1237,
-  "popularity": 11020,
-  "num_list_users": 3019,
-  "num_scoring_users": 1117,
+  "rank": 1257,
+  "popularity": 11028,
+  "num_list_users": 3026,
+  "num_scoring_users": 1118,
   "nsfw": "white",
   "created_at": "2023-01-19T11:52:31+00:00",
-  "updated_at": "2025-11-27T02:04:12+00:00",
+  "updated_at": "2025-12-30T00:58:47+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +39,10 @@
       "name": "Fantasy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     },
@@ -50,7 +56,7 @@
     "year": 2023,
     "season": "winter"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 480,
   "rating": "pg_13",
   "studios": [

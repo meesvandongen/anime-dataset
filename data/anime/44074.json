@@ -2,18 +2,17 @@
   "id": 44074,
   "title": "Shiguang Dailiren",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "时光代理人",
       "時光代理人",
       "Jikou Dairinin",
       "Shi Guang Dai Li Ren"
     ],
     "en": "Link Click",
-    "ja": "時光代理人"
+    "ja": "时光代理人"
   },
   "start_date": "2021-04-30",
   "end_date": "2021-07-09",
@@ -21,11 +20,11 @@
   "mean": 8.72,
   "rank": 56,
   "popularity": 550,
-  "num_list_users": 463625,
-  "num_scoring_users": 182043,
+  "num_list_users": 464501,
+  "num_scoring_users": 182462,
   "nsfw": "white",
   "created_at": "2020-11-21T15:26:51+00:00",
-  "updated_at": "2025-12-07T14:34:43+00:00",
+  "updated_at": "2025-12-29T18:43:45+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

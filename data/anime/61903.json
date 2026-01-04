@@ -7,28 +7,30 @@
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
     "ja": "かぐや様は告らせたい 大人への階段"
   },
   "start_date": "2025-12-31",
   "end_date": "2025-12-31",
   "synopsis": "TV special for Kaguya-sama wa Kokurasetai.",
-  "popularity": 3829,
-  "num_list_users": 42935,
-  "num_scoring_users": 3,
+  "mean": 8.62,
+  "rank": 94,
+  "popularity": 3065,
+  "num_list_users": 64065,
+  "num_scoring_users": 18587,
   "nsfw": "white",
   "created_at": "2025-06-22T14:19:17+00:00",
-  "updated_at": "2025-12-09T12:38:23+00:00",
+  "updated_at": "2026-01-02T22:50:03+00:00",
   "media_type": "tv_special",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
     },
     {
-      "id": 8,
-      "name": "Drama"
+      "id": 22,
+      "name": "Romance"
     },
     {
       "id": 23,
@@ -45,7 +47,7 @@
     "season": "fall"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 3155,
   "rating": "pg_13",
   "studios": [
     {

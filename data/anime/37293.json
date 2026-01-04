@@ -2,28 +2,28 @@
   "id": 37293,
   "title": "Wo Jia Da Shixiong Naozi You Keng",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1700/90509.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1700/90509l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1700/90509.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1700/90509l.webp"
   },
   "alternative_titles": {
     "synonyms": [
       "There's a Pit in My Senior Martial Brother's Brain",
       "Our Big Brother's Mind Has A Problem"
     ],
-    "en": "",
+    "en": "What's Wrong with My Big Brother",
     "ja": "我家大师兄脑子有坑"
   },
   "start_date": "2018-04-04",
   "end_date": "2018-06-23",
   "synopsis": "The hilarious adventures of the eldest apprentice of a sect who has a problem with his brain.\n\nDongfang Xianyun is reincarnated as the eldest disciple of the Care-free sect. But the only thing that goes through his mind is to make sure he doesn't end up dying by the hands of the \"main character\". Read as he makes no sense to his sibling disciples while avoiding flags left and right.\n\n(Source: MoroseTrans)",
   "mean": 6.72,
-  "rank": 5978,
-  "popularity": 9190,
-  "num_list_users": 5271,
+  "rank": 6012,
+  "popularity": 9196,
+  "num_list_users": 5274,
   "num_scoring_users": 1132,
   "nsfw": "white",
   "created_at": "2018-02-10T04:45:09+00:00",
-  "updated_at": "2025-11-12T18:08:47+00:00",
+  "updated_at": "2025-12-30T01:28:30+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -53,8 +53,13 @@
     "year": 2018,
     "season": "spring"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 276,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2171,
+      "name": "Paper Animation"
+    }
+  ]
 }

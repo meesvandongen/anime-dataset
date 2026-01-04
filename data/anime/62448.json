@@ -11,16 +11,17 @@
     "ja": "헬로 카봇 시즌16"
   },
   "start_date": "2025-06-22",
+  "end_date": "2025-12-28",
   "synopsis": "",
-  "rank": 21936,
-  "popularity": 26508,
-  "num_list_users": 106,
-  "num_scoring_users": 2,
+  "rank": 21954,
+  "popularity": 26389,
+  "num_list_users": 108,
+  "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": "2025-09-10T10:04:24+00:00",
-  "updated_at": "2025-10-17T20:59:59+00:00",
+  "updated_at": "2026-01-01T19:27:08+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 15,

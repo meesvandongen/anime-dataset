@@ -6,21 +6,23 @@
     "large": "https://cdn.myanimelist.net/images/anime/1983/150980l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Tales of Demons and Gods Season 9",
+    "synonyms": [
+      "Tales of Demons and Gods 9th Season"
+    ],
+    "en": "Tales of Demon and God 9th Season",
     "ja": "妖神记 第9季"
   },
   "start_date": "2025-07-17",
   "end_date": "2025-10-04",
   "synopsis": "Ninth season of Yao Shen Ji.",
-  "mean": 7.37,
-  "rank": 2592,
-  "popularity": 15083,
-  "num_list_users": 970,
-  "num_scoring_users": 245,
+  "mean": 7.4,
+  "rank": 2509,
+  "popularity": 15009,
+  "num_list_users": 995,
+  "num_scoring_users": 259,
   "nsfw": "white",
   "created_at": "2025-07-10T21:09:53+00:00",
-  "updated_at": "2025-11-27T02:03:31+00:00",
+  "updated_at": "2025-12-30T01:02:57+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -41,6 +43,10 @@
       "name": "Fantasy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     },
@@ -54,7 +60,7 @@
     "year": 2025,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 480,
   "rating": "pg_13",
   "studios": [

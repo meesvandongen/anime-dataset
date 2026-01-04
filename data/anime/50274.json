@@ -7,23 +7,22 @@
   },
   "alternative_titles": {
     "synonyms": [
-      "Yao Shen ji 5th Season",
       "Tales of Demons and Gods 5th Season"
     ],
-    "en": "Tales of Demons and Gods Season 5",
-    "ja": "妖神记第五季"
+    "en": "Tales of Demon and God 5th Season",
+    "ja": "妖神记 第五季"
   },
   "start_date": "2021-10-30",
   "end_date": "2022-04-20",
   "synopsis": "Fifth season of Yao Shen Ji.",
-  "mean": 7.52,
-  "rank": 1979,
-  "popularity": 9329,
-  "num_list_users": 5058,
-  "num_scoring_users": 1758,
+  "mean": 7.53,
+  "rank": 1950,
+  "popularity": 9338,
+  "num_list_users": 5065,
+  "num_scoring_users": 1759,
   "nsfw": "white",
   "created_at": "2021-11-01T07:41:24+00:00",
-  "updated_at": "2025-11-27T02:04:53+00:00",
+  "updated_at": "2025-12-30T00:53:11+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -40,6 +39,10 @@
       "name": "Fantasy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     },
@@ -53,7 +56,7 @@
     "year": 2021,
     "season": "fall"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 456,
   "rating": "pg_13",
   "studios": [

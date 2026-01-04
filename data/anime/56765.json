@@ -2,8 +2,8 @@
   "id": 56765,
   "title": "Zhengjing Shao Zhu de Xingfu Shenghuo",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1189/138796.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1189/138796l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1189/138796.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1189/138796l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,14 +13,14 @@
   "start_date": "2023-10-22",
   "end_date": "2023-12-31",
   "synopsis": "In the wild world, human beings are small, but not humble. Whether it is Shennong and his people in the human domain, or the various clans in Beiye, they are working hard and developing vigorously in their own way. Although he will be bewitched and suppressed by the Star God, he will also launch a tenacious resistance to the Star God in order to protect his tribe, his relatives and bloodline. \n\n(Source: Bilibili, translated)",
-  "mean": 6.96,
-  "rank": 4720,
-  "popularity": 13203,
-  "num_list_users": 1592,
-  "num_scoring_users": 364,
+  "mean": 6.98,
+  "rank": 4680,
+  "popularity": 13204,
+  "num_list_users": 1597,
+  "num_scoring_users": 367,
   "nsfw": "white",
   "created_at": "2023-09-28T02:59:50+00:00",
-  "updated_at": "2025-11-14T00:43:29+00:00",
+  "updated_at": "2025-12-29T17:46:49+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,

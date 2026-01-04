@@ -1,0 +1,39 @@
+{
+  "id": 63230,
+  "title": "Business Bata",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1973/154804.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1973/154804l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ビジネスバタ"
+  },
+  "start_date": "2025-11-21",
+  "end_date": "2025-11-21",
+  "synopsis": "Music video for the song Business Bata by Yuri.",
+  "popularity": 29498,
+  "num_list_users": 26,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2026-01-02T11:11:15+00:00",
+  "updated_at": "2026-01-02T16:26:09+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 138,
+  "rating": "pg_13",
+  "studios": []
+}

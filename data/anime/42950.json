@@ -11,20 +11,20 @@
       "Our Big Brother's Mind Has A Problem 2",
       "Wo Jia Da Shixiong Naozi You Keng 2nd Season"
     ],
-    "en": "What's Wrong with My Big Brother",
+    "en": "What's Wrong with My Big Brother 2nd Season",
     "ja": "我家大师兄是个反派"
   },
   "start_date": "2020-10-29",
   "end_date": "2021-01-14",
-  "synopsis": "Second season of Wo Jia Da Shixiong Naozi You Keng.",
+  "synopsis": "Transmigrating to a cultivation world only to find himself not fitting the protagonist's character description, Dongfang Xianyun mistakenly identifies his second junior brother, Yin Feixing, who has been reborn for revenge, as the \"protagonist.\" Intending to cling to the protagonist's coattails to survive, he is instead kicked off a cliff by his \"cog,\" thus embarking on the path of a demonic cultivator villain. Characters such as the naive and innocent Mahayana-stage demonic cultivator Yi Xiangfeng, the playboy Dongfang Wuqiong, the eldest disciple of the Xuanming Sect, and the Heavenly Dao Messenger Bu Suantian, also a transmigrator, all make their appearance. The Demon Subduing Assembly brings together a storm of events, and the battle between righteous and demonic cultivators is about to erupt. Dongfang Xianyun, the former eldest disciple of the Xiaoyao Sect and now the senior demonic cultivator of the Bai Mei Sect, is caught in a life-or-death crisis…\n\n(Source: Bilibili, translated)",
   "mean": 6.92,
-  "rank": 4926,
-  "popularity": 10954,
-  "num_list_users": 3081,
+  "rank": 4948,
+  "popularity": 10967,
+  "num_list_users": 3084,
   "num_scoring_users": 607,
   "nsfw": "white",
   "created_at": "2020-09-22T21:40:13+00:00",
-  "updated_at": "2025-11-13T23:47:57+00:00",
+  "updated_at": "2025-12-30T01:48:55+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -54,8 +54,13 @@
     "year": 2020,
     "season": "fall"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 1209,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2171,
+      "name": "Paper Animation"
+    }
+  ]
 }

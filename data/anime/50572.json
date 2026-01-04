@@ -1,9 +1,9 @@
 {
   "id": 50572,
-  "title": "Hua Kaizhang Meili",
+  "title": "Hua Kai Zhang Meili",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1947/120012.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1947/120012l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1947/120012.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1947/120012l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,14 +14,14 @@
   },
   "start_date": "2022-01-10",
   "end_date": "2022-03-21",
-  "synopsis": "Pure-hearted Zhang Meili was accidentally transferred to the Huaxia Global Universal Extravagant High School. There, she met many rich and handsome boys, gentle boys, bossy men, princes charming, and had a taste of betrayal. How would the kind Zhang Meili deal with these? At the same time, the secret of her mysterious past slowly unfolded.\n\n(Source: Bilibili)",
-  "rank": 22135,
-  "popularity": 18436,
+  "synopsis": "The innocent young girl Zhang Meili, through a series of unexpected events, transfers to Huaxia Global Universe Grand High School. Here, she encounters all sorts of wealthy, handsome, gentle, warm-hearted, domineering CEOs, and her destined prince, but also experiences betrayal. How will the kind-hearted Zhang Meili cope? Meanwhile, her mysterious past is slowly being revealed.\n\n(Source: Bilibili, translated)",
+  "rank": 22154,
+  "popularity": 18449,
   "num_list_users": 470,
   "num_scoring_users": 54,
   "nsfw": "white",
   "created_at": "2021-12-10T14:36:54+00:00",
-  "updated_at": "2022-03-24T07:22:53+00:00",
+  "updated_at": "2025-12-31T20:58:56+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -39,8 +39,13 @@
     "year": 2022,
     "season": "winter"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 423,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3260,
+      "name": "Hui Guang Gongzuoshi"
+    }
+  ]
 }

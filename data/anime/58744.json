@@ -6,21 +6,23 @@
     "large": "https://cdn.myanimelist.net/images/anime/1939/142733l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Tales of Demons and Gods Season 8",
+    "synonyms": [
+      "Tales of Demons and Gods 8th Season"
+    ],
+    "en": "Tales of Demon and God 8th Season",
     "ja": "妖神记 第8季"
   },
   "start_date": "2024-04-30",
   "end_date": "2024-07-20",
-  "synopsis": "Eight season of Yao Shen Ji.",
-  "mean": 7.7,
-  "rank": 1363,
-  "popularity": 12455,
-  "num_list_users": 2011,
-  "num_scoring_users": 690,
+  "synopsis": "Eighth season of Yao Shen Ji.",
+  "mean": 7.71,
+  "rank": 1338,
+  "popularity": 12451,
+  "num_list_users": 2025,
+  "num_scoring_users": 698,
   "nsfw": "white",
   "created_at": "2024-04-26T17:08:39+00:00",
-  "updated_at": "2025-11-27T02:03:55+00:00",
+  "updated_at": "2025-12-30T01:01:11+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -41,6 +43,10 @@
       "name": "Fantasy"
     },
     {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
       "id": 17,
       "name": "Martial Arts"
     },
@@ -54,7 +60,7 @@
     "year": 2024,
     "season": "spring"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 480,
   "rating": "pg_13",
   "studios": [
