@@ -1,25 +1,27 @@
 {
   "id": 45169,
-  "title": "Jiu Ye Shen Chuan",
+  "title": "Jiu Ye Shen Zhuan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1441/110837.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1441/110837l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1441/110837.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1441/110837l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Jiu Ye Shen Chuan"
+    ],
     "en": "Legend of Nine Nights",
     "ja": "九夜神传"
   },
   "start_date": "2020-12-21",
   "end_date": "2021-03-08",
-  "synopsis": "",
-  "rank": 17658,
-  "popularity": 16609,
-  "num_list_users": 667,
+  "synopsis": "In the beginning of the Spirit Realm, Yin and Yang were undifferentiated, a primordial chaos. Later, the Great Dao sprouted, and spirits were born within it. The spirits created all things in the Spirit Realm and transformed their power into the Nine Sacred Artifacts in the Valley of the Origin God, maintaining the stability of the Spirit Realm and ensuring its perpetual existence. \n\nThe human race of the Spirit Realm—the Torch Emperor—unwittingly discovered the method of cultivating fragments of the Great Dao—Spiritual Qi—and thus became the first ruler of humanity. He discovered the immense power of the Valley of the Origin God and ventured deep within, attempting to wield divine power with a mortal body. However, the Sacred Artifacts were exceptionally powerful and beyond the reach of ordinary humans. The Torch Emperor was ultimately consumed by the powerful spiritual energy. Before his death, the Torch Emperor declared: \"He who inherits the Nine Sacred Artifacts will gain eternal life, living as long as heaven and earth.\" \n\nCurrently, ordinary people can only live in cities protected by sacred artifacts. The Spirit Realm is divided between the Xuan Yang Clan, the Moon Clan, and the Mountain and Sea Alliance, forming a three-way balance of power that barely maintains a facade of peace… Yingyue Liuli, the daughter of the Shadow Moon Clan chief and the heir to the clan, possesses extraordinary talent, and her clan hopes she can lead the Shadow Moon Clan to rise again. However, Liuli only wants to live a simple and easy life, to be a carefree slacker.\n\n(Source: Tencent, translated)",
+  "rank": 17700,
+  "popularity": 16601,
+  "num_list_users": 670,
   "num_scoring_users": 112,
   "nsfw": "white",
   "created_at": "2020-12-21T14:42:27+00:00",
-  "updated_at": "2022-01-27T03:26:03+00:00",
+  "updated_at": "2026-01-04T15:45:49+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -51,6 +53,7 @@
   },
   "source": "original",
   "average_episode_duration": 1260,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 2194,

@@ -10,16 +10,18 @@
     "en": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
     "ja": "貴族転生 ～恵まれた生まれから最強の力を得る～"
   },
-  "start_date": "2026-01-08",
+  "start_date": "2026-01-05",
   "synopsis": "Noah, the world's strongest six-year-old, holds the fortunate position of being the Thirteenth Prince of the emperor. Born with an infinite level cap and a cheat skill that allows him to add the abilities of those he commands to his own, he is unmatched. Reincarnated into a noble family, Noah thrives in an environment enriched with exceptional education and abundant resources, allowing his talents to blossom. However, behind the glamorous facade of aristocratic society lurks a world of conspiracies and power struggles.\n\n(Source: Pony Canyon)",
-  "popularity": 5942,
-  "num_list_users": 15585,
-  "num_scoring_users": 2,
+  "mean": 6.57,
+  "rank": 6959,
+  "popularity": 4639,
+  "num_list_users": 28932,
+  "num_scoring_users": 2716,
   "nsfw": "white",
   "created_at": "2025-01-04T12:24:48+00:00",
-  "updated_at": "2025-12-21T20:30:09+00:00",
+  "updated_at": "2026-01-08T03:38:41+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -32,6 +34,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
     }
   ],
   "num_episodes": 0,
@@ -44,7 +50,8 @@
     "start_time": "00:00"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1422,
+  "rating": "r",
   "studios": [
     {
       "id": 2725,

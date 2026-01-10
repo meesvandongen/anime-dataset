@@ -1,6 +1,6 @@
 {
   "id": 54444,
-  "title": "Fanren Xiu Xian Chuan: Chongzhi Ban",
+  "title": "Fanren Xiu Xian Zhuan: Chongzhi Ban",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1287/133320.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1287/133320l.jpg"
@@ -8,22 +8,23 @@
   "alternative_titles": {
     "synonyms": [
       "A Record of a Mortal's Journey to Immortality Remastered Edition",
-      "Fanren Xiu Xian Chuan: Fanren Feng Qi Tian Nan Chongzhi Ban"
+      "Fanren Xiu Xian Zhuan: Fanren Feng Qi Tian Nan Chongzhi Ban",
+      "Fanren Xiu Xian Chuan"
     ],
     "en": "",
     "ja": "凡人修仙传 重制版"
   },
   "start_date": "2023-02-05",
   "end_date": "2023-06-18",
-  "synopsis": "Remaster of the first season of Fanren Xiu Xian Chuan.",
-  "mean": 7.73,
-  "rank": 1281,
-  "popularity": 13461,
-  "num_list_users": 1483,
-  "num_scoring_users": 529,
+  "synopsis": "Remaster of the first season of Fanren Xiu Xian Zhuan.",
+  "mean": 7.71,
+  "rank": 1338,
+  "popularity": 13466,
+  "num_list_users": 1489,
+  "num_scoring_users": 532,
   "nsfw": "white",
   "created_at": "2023-02-12T01:30:01+00:00",
-  "updated_at": "2025-12-07T15:35:26+00:00",
+  "updated_at": "2026-01-04T13:45:57+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -53,7 +54,7 @@
     "year": 2023,
     "season": "winter"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1080,
   "rating": "pg_13",
   "studios": [

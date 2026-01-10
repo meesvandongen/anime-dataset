@@ -2,28 +2,30 @@
   "id": 61556,
   "title": "Da Zhu Zai (2023): Nian Fan 2",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1392/154640.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1392/154640l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1110/154910.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1110/154910l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
       "Da Zhu Zai (2023) 2nd Season",
       "大主宰 第二季",
-      "Da Zhu Zai 3D 2nd Season"
+      "Da Zhu Zai 3D 2nd Season",
+      "TGR"
     ],
     "en": "The Great Ruler 2nd Season",
     "ja": "大主宰 年番2"
   },
   "start_date": "2026-01-09",
   "synopsis": "Second season of Da Zhu Zai (2023).",
-  "popularity": 16582,
-  "num_list_users": 671,
-  "num_scoring_users": 0,
+  "rank": 20987,
+  "popularity": 16107,
+  "num_list_users": 748,
+  "num_scoring_users": 22,
   "nsfw": "white",
   "created_at": "2025-04-23T15:59:16+00:00",
-  "updated_at": "2025-12-26T02:54:52+00:00",
+  "updated_at": "2026-01-09T09:42:50+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -50,7 +52,7 @@
       "name": "Romance"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 52,
   "start_season": {
     "year": 2026,
     "season": "winter"

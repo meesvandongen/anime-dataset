@@ -1,6 +1,6 @@
 {
   "id": 60820,
-  "title": "Fanren Xiu Xian Chuan: Xu Tian Zhan Ji",
+  "title": "Fanren Xiu Xian Zhuan: Xu Tian Zhan Ji",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1031/147673.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1031/147673l.jpg"
@@ -12,14 +12,14 @@
   },
   "start_date": "2025-01-04",
   "end_date": "2025-01-11",
-  "synopsis": "Director's cut of Fanren Xiu Xian Chuan 3rd Season.",
-  "rank": 21374,
-  "popularity": 18517,
-  "num_list_users": 466,
-  "num_scoring_users": 91,
+  "synopsis": "Director's cut of Fanren Xiu Xian Zhuan 3rd Season.",
+  "rank": 21411,
+  "popularity": 18470,
+  "num_list_users": 471,
+  "num_scoring_users": 94,
   "nsfw": "white",
   "created_at": "2025-01-25T12:44:10+00:00",
-  "updated_at": "2025-01-26T12:13:19+00:00",
+  "updated_at": "2026-01-04T13:49:04+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -52,5 +52,14 @@
   "source": "web_novel",
   "average_episode_duration": 6930,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2065,
+      "name": "Original Force"
+    },
+    {
+      "id": 2471,
+      "name": "Wonder Cat Animation"
+    }
+  ]
 }

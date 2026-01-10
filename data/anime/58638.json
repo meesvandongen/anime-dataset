@@ -2,8 +2,8 @@
   "id": 58638,
   "title": "Ito wo Yoru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1231/150113.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1231/150113l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1231/150113.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1231/150113l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,29 +11,30 @@
     "ja": "糸を撚る"
   },
   "start_date": "2024-07-19",
+  "end_date": "2024-09-27",
   "synopsis": "A schoolgirl track and field athlete takes shelter from the rain at a lonely and secluded bus stop. Shortly after, a student otaku arrives at the same stop to seek shelter from the rain as well. As they talk, their dark desires show themselves and they both satisfy each other sexually.\n\n(Source: TMDB)",
-  "mean": 5.59,
-  "popularity": 11748,
-  "num_list_users": 2477,
-  "num_scoring_users": 784,
+  "mean": 5.6,
+  "popularity": 11739,
+  "num_list_users": 2490,
+  "num_scoring_users": 798,
   "nsfw": "gray",
   "created_at": "2024-04-10T07:22:08+00:00",
-  "updated_at": "2025-02-01T10:09:15+00:00",
+  "updated_at": "2026-01-05T13:04:53+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 2,
   "start_season": {
     "year": 2024,
     "season": "summer"
   },
   "source": "manga",
-  "average_episode_duration": 1200,
+  "average_episode_duration": 1176,
   "rating": "rx",
   "studios": [
     {

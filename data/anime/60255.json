@@ -2,8 +2,8 @@
   "id": 60255,
   "title": "Arne no Jikenbo",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1112/152731.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1112/152731l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1440/154894.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1440/154894l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,16 @@
   },
   "start_date": "2026-01-07",
   "synopsis": "Arne Neuntöte is a vampire detective who manipulates supernatural powers. Lynn Reinweiß is a nobleman's daughter who loves vampires. Their worlds should never have crossed, but they join hands to solve a bloody mystery. In the darkest of nights, Lynn finds herself in desperate need of help. Then she wanders into the mysterious city of \"Lügenberg,\" where non-humans live.\n\nLynn's world changes drastically when she encounters \"Arne,\" a vampire who is called \"the worst\" in the city. And tonight, a new \"murder case\" has occurred. What is the truth behind the bizarre incidents that take place in a world where humanity and the bizarre intersect?\n\n\"Come on, human. You may dance merrily under the crimson moon.\" \n\n(Source: Steam, edited)",
-  "popularity": 7726,
-  "num_list_users": 8135,
-  "num_scoring_users": 1,
+  "mean": 6.55,
+  "rank": 7086,
+  "popularity": 6517,
+  "num_list_users": 12438,
+  "num_scoring_users": 949,
   "nsfw": "white",
   "created_at": "2024-11-06T10:06:34+00:00",
-  "updated_at": "2025-12-21T20:37:04+00:00",
+  "updated_at": "2026-01-07T19:20:01+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 10,
@@ -44,7 +46,7 @@
     "start_time": "01:29"
   },
   "source": "game",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1370,
   "studios": [
     {
       "id": 300,

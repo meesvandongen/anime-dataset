@@ -1,0 +1,47 @@
+{
+  "id": 63270,
+  "title": "Tsuki ni Mukatte Ute",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1072/154896.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1072/154896l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Moonshot",
+    "ja": "月に向かって撃て"
+  },
+  "start_date": "2025-01-07",
+  "end_date": "2025-01-07",
+  "synopsis": "Music video for the song Tsuki ni Mukatte Ute by Hoshimachi Suisei. The song was used as the opening theme of the anime Mayonaka Heart Tune.",
+  "popularity": 29514,
+  "num_list_users": 21,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2026-01-07T11:06:10+00:00",
+  "updated_at": "2026-01-09T09:35:20+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 208,
+  "rating": "pg_13",
+  "studios": []
+}

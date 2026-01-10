@@ -15,14 +15,16 @@
   },
   "start_date": "2026-01-07",
   "synopsis": "This story is about Shinonome Hajime, an adventurer of Silver Range. He's dedicated to fulfilling missions from the guild. One day when completing a quest for monster meat, he finds a strange girl named Lily in a dungeon who's far more trouble than she's worth. Saving the girl from certain death, her story reminds him of his similar past and he takes her under his care...\n\n(Source: MU)",
-  "popularity": 7556,
-  "num_list_users": 8647,
-  "num_scoring_users": 0,
+  "mean": 6.47,
+  "rank": 7648,
+  "popularity": 6012,
+  "num_list_users": 15161,
+  "num_scoring_users": 1344,
   "nsfw": "white",
   "created_at": "2025-05-05T08:17:52+00:00",
-  "updated_at": "2025-12-21T20:37:13+00:00",
+  "updated_at": "2026-01-07T13:50:55+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 2,
@@ -37,7 +39,7 @@
       "name": "Shounen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2026,
     "season": "winter"
@@ -47,7 +49,7 @@
     "start_time": "21:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
   "studios": [
     {
       "id": 2097,
