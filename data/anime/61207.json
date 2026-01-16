@@ -12,14 +12,16 @@
   },
   "start_date": "2026-01-10",
   "synopsis": "Our hero wakes up one day in a brand new world…but his new life doesn’t come with fighting skills or magic powers, or even arms and legs! He’s reborn as a helpless egg, stuck in an unfamiliar forest surrounded by terrifying, hungry beasts. But eggs hatch, hatchlings grow up, and humble beginnings can lead to something great. He’ll do his best to become the strongest dragon ever, and no measly shell will get in his way!\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 7477,
-  "num_list_users": 8890,
-  "num_scoring_users": 37,
+  "mean": 6.65,
+  "rank": 6487,
+  "popularity": 5993,
+  "num_list_users": 15370,
+  "num_scoring_users": 1370,
   "nsfw": "white",
   "created_at": "2025-03-14T10:19:12+00:00",
-  "updated_at": "2025-12-21T20:37:33+00:00",
+  "updated_at": "2026-01-10T16:05:10+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -52,7 +54,8 @@
     "start_time": "21:30"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1440,

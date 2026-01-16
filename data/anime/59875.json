@@ -18,10 +18,10 @@
   "end_date": "2024-09-14",
   "synopsis": "On a full moon day, Pikachu meets many Pokemon. The Pokemon who gather and dance also make an appearance!\n\n(Source: Official YouTube Channel)",
   "mean": 6.39,
-  "rank": 8129,
-  "popularity": 18335,
-  "num_list_users": 482,
-  "num_scoring_users": 196,
+  "rank": 8147,
+  "popularity": 18344,
+  "num_list_users": 484,
+  "num_scoring_users": 195,
   "nsfw": "white",
   "created_at": "2024-09-18T17:37:54+00:00",
   "updated_at": "2025-09-01T08:32:24+00:00",
@@ -45,5 +45,10 @@
   "source": "game",
   "average_episode_duration": 196,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 471,
+      "name": "Shanghai Animation Film Studio"
+    }
+  ]
 }

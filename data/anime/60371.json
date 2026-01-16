@@ -12,14 +12,16 @@
   },
   "start_date": "2026-01-11",
   "synopsis": "Next to Miyu Suzuki, a trendy and bubbly high school girl, sits Yuusuke Tani, a quiet and frank boy. Their interactions are brief, limited to Suzuki's unprompted random questions and Tani's succinct answers. Yet, beneath these simple exchanges, feelings of love are quietly blossoming.\n\nSuzuki sees Tani for who he is: a straightforward boy who respects everyone equally, completely unconcerned about fitting in. Unlike Tani, she is too hung up on what everyone else thinks, desperate to keep her crush a secret. However, a slight misunderstanding leads to Suzuki confessing her feelings—and to her delight, Tani feels the same. Jittery with excitement, the young couple starts dating, embarking on a wonderful journey of friendship and love.\n\n[Written by MAL Rewrite]",
-  "popularity": 4173,
-  "num_list_users": 36258,
-  "num_scoring_users": 68,
+  "mean": 8.05,
+  "rank": 634,
+  "popularity": 3231,
+  "num_list_users": 58303,
+  "num_scoring_users": 5358,
   "nsfw": "white",
   "created_at": "2024-11-24T15:31:46+00:00",
-  "updated_at": "2025-12-21T20:20:23+00:00",
+  "updated_at": "2026-01-11T14:01:07+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -38,7 +40,7 @@
       "name": "Shounen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2026,
     "season": "winter"
@@ -48,7 +50,7 @@
     "start_time": "17:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1447,
   "rating": "pg_13",
   "studios": [
     {

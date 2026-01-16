@@ -1,0 +1,49 @@
+{
+  "id": 63296,
+  "title": "Susume! Penguin Walk",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1054/154978.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1054/154978l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "すすめ！ペンギンウォーク"
+  },
+  "start_date": "2026-01-06",
+  "end_date": "2026-01-06",
+  "synopsis": "Music video for the song Susume! Penguin Walk by Midories, that was featured on NHK's Minna no Uta and Ao Kiiro programs. It was produced to promote winter weather safety.",
+  "popularity": 29535,
+  "num_list_users": 22,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2026-01-13T04:30:25+00:00",
+  "updated_at": "2026-01-13T04:30:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

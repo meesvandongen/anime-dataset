@@ -1,0 +1,45 @@
+{
+  "id": 63241,
+  "title": "Hajimemashite Urashima desu.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1684/154820.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1684/154820l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "はじめまして、浦島です。"
+  },
+  "start_date": "2025-12-01",
+  "end_date": "2025-12-01",
+  "synopsis": "Music video for the song Hajimemashite Urashima desu. by Daisuke Mori that was featured on NHK's Minna no Uta program.",
+  "popularity": 29534,
+  "num_list_users": 23,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2026-01-03T05:54:27+00:00",
+  "updated_at": "2026-01-11T12:21:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "other",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

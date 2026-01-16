@@ -15,9 +15,9 @@
   "start_date": "2017-08-30",
   "end_date": "2017-08-30",
   "synopsis": "A new episode of Higanjima X that was included in Blu-ray.",
-  "rank": 22049,
-  "popularity": 17711,
-  "num_list_users": 537,
+  "rank": 22074,
+  "popularity": 17743,
+  "num_list_users": 538,
   "num_scoring_users": 96,
   "nsfw": "white",
   "created_at": "2017-03-26T01:27:55+00:00",
@@ -50,5 +50,10 @@
   "source": "manga",
   "average_episode_duration": 180,
   "rating": "r",
-  "studios": []
+  "studios": [
+    {
+      "id": 2540,
+      "name": "Fever Creations"
+    }
+  ]
 }

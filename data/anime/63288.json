@@ -1,0 +1,48 @@
+{
+  "id": 63288,
+  "title": "Baby (Music)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1193/154950.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1193/154950l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "BABY"
+  },
+  "start_date": "2026-01-11",
+  "end_date": "2026-01-11",
+  "synopsis": "Music video for the song Baby by YOASOBI. The song was used as the ending theme of the anime Hanazakari no Kimitachi e.",
+  "popularity": 29314,
+  "num_list_users": 62,
+  "num_scoring_users": 33,
+  "nsfw": "white",
+  "created_at": "2026-01-11T13:13:29+00:00",
+  "updated_at": "2026-01-13T11:46:40+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1045,
+      "name": "Space Neko Company"
+    }
+  ]
+}

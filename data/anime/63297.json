@@ -1,0 +1,44 @@
+{
+  "id": 63297,
+  "title": "Michiru Tsukikage no Kanata",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1381/154979.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1381/154979l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Beyond The Full Moon",
+    "ja": "満ちる月影の彼方"
+  },
+  "start_date": "2026-01-13",
+  "end_date": "2026-01-13",
+  "synopsis": "Music video for the song Michiru Tsukikage no Kanata by Columbina (CV: Lynn).",
+  "mean": 6.88,
+  "popularity": 21693,
+  "num_list_users": 262,
+  "num_scoring_users": 113,
+  "nsfw": "white",
+  "created_at": "2026-01-13T06:47:30+00:00",
+  "updated_at": "2026-01-13T12:00:15+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 160,
+  "rating": "pg_13",
+  "studios": []
+}

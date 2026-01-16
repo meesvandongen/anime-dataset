@@ -1,0 +1,43 @@
+{
+  "id": 63291,
+  "title": "Mahoutsukai no Nikki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1907/154955.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1907/154955l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Wizard's Diary",
+    "ja": "魔法使いの日記"
+  },
+  "start_date": "2026-01-09",
+  "end_date": "2026-01-09",
+  "synopsis": "Music video for the song Mahoutsukai no Nikki by Rosu. The song was used as the opening theme of the anime Champignon no Majo.",
+  "popularity": 29393,
+  "num_list_users": 55,
+  "num_scoring_users": 26,
+  "nsfw": "white",
+  "created_at": "2026-01-11T18:37:41+00:00",
+  "updated_at": "2026-01-13T11:55:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 221,
+  "rating": "pg",
+  "studios": []
+}

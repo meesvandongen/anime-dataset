@@ -2,8 +2,8 @@
   "id": 58598,
   "title": "Guruguru@Mawaru@Mawaluna",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1294/142435.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1294/142435l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1294/142435.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1294/142435l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,7 @@
   "start_date": "2024-03-29",
   "end_date": "2024-03-29",
   "synopsis": "Music video for the song Guruguru@Mawaru@Mawaluna by Himemori Luna.\n\n",
-  "popularity": 23960,
+  "popularity": 23994,
   "num_list_users": 160,
   "num_scoring_users": 92,
   "nsfw": "white",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 175,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2549,
+      "name": "StudioXD"
+    }
+  ]
 }

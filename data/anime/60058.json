@@ -14,14 +14,16 @@
   },
   "start_date": "2026-01-14",
   "synopsis": "The story moves on to a new stage──half a year has passed since the release of \"POP IN 2.\" Thanks to Mem-cho's hard work, B-Komachi are on the verge of their big break. Aqua continues to grow as a personality, while Akane advances on her path to becoming a skilled actress. Meanwhile, Kana has lost her usual cheerfulness.\n\nFinally, in her quest to uncover the truth behind Ai and Gorou's deaths, Ruby rises through the entertainment industry—using lies as her weapon.\n\n(Source: Press Release, edited)",
-  "popularity": 1653,
-  "num_list_users": 159516,
-  "num_scoring_users": 239,
+  "mean": 8.41,
+  "rank": 218,
+  "popularity": 1566,
+  "num_list_users": 172428,
+  "num_scoring_users": 5154,
   "nsfw": "white",
   "created_at": "2024-10-06T12:48:09+00:00",
-  "updated_at": "2025-12-28T09:51:45+00:00",
+  "updated_at": "2026-01-14T18:03:35+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -40,7 +42,7 @@
       "name": "Showbiz"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 11,
   "start_season": {
     "year": 2026,
     "season": "winter"
@@ -50,7 +52,7 @@
     "start_time": "23:00"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1430,
   "rating": "pg_13",
   "studios": [
     {
