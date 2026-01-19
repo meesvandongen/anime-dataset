@@ -14,10 +14,10 @@
   "end_date": "1966-11-11",
   "synopsis": "A series of short animated segments, without dialog, explore major characters of modern society, such as the plastic surgeon, the fashion-obsessed woman, the rumor-monger, and others, leading to a concluding comment on the progress of civilization. \n\n(Source: ANN) ",
   "mean": 6.1,
-  "rank": 9874,
-  "popularity": 11337,
-  "num_list_users": 2788,
-  "num_scoring_users": 1227,
+  "rank": 9923,
+  "popularity": 11345,
+  "num_list_users": 2791,
+  "num_scoring_users": 1230,
   "nsfw": "white",
   "created_at": "2007-11-26T10:18:44+00:00",
   "updated_at": "2022-10-12T08:25:47+00:00",
@@ -41,5 +41,10 @@
   "source": "original",
   "average_episode_duration": 1978,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 68,
+      "name": "Mushi Production"
+    }
+  ]
 }
