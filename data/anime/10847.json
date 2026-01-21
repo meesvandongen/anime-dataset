@@ -2,8 +2,8 @@
   "id": 10847,
   "title": "Inumarudashi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/12/36871.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/12/36871l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/12/36871.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/12/36871l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,10 +14,10 @@
   "end_date": "2011-07-22",
   "synopsis": "Comedy at a kindergarten. Inumaru-kun is a four-year old boy, who runs about the kindergarten naked below the waist. Yamada Tamako is a new nursery teacher and she is struggling with Inumaru's weird behaviour.",
   "mean": 4.94,
-  "rank": 14051,
-  "popularity": 14819,
-  "num_list_users": 1057,
-  "num_scoring_users": 241,
+  "rank": 14054,
+  "popularity": 14829,
+  "num_list_users": 1058,
+  "num_scoring_users": 242,
   "nsfw": "white",
   "created_at": "2011-06-18T11:56:41+00:00",
   "updated_at": "2016-05-30T04:21:52+00:00",
@@ -44,7 +44,7 @@
   },
   "source": "manga",
   "average_episode_duration": 183,
-  "rating": "pg_13",
+  "rating": "g",
   "studios": [
     {
       "id": 400,
