@@ -8,21 +8,26 @@
   "alternative_titles": {
     "synonyms": [],
     "en": "Love Through a Prism",
-    "ja": "プリズム輪舞曲"
+    "ja": "プリズム輪舞曲〈ロンド〉"
   },
   "start_date": "2026-01-15",
   "end_date": "2026-01-15",
   "synopsis": "In early-1900s London, Lili Ichijouin, a Japanese exchange student travels to England to enroll in the prestigious Saint Thomas Art Academy. Determined to become a painter, she arrives under pressure: her parents expect her to rise to the top of her class within six months or return home.\n\nLili's drive intensifies when she encounters Kit Church, a gifted aristocratic student known for his talent and detachment. While Kit has devoted himself entirely to painting, Lili's sincerity and resilience begin to shift something in him. The two share little beyond their love for art, yet their relationship quickly becomes central to life at the academy.\n\n(Source: Netflix, edited)",
-  "rank": 19793,
-  "popularity": 7375,
-  "num_list_users": 9254,
-  "num_scoring_users": 212,
+  "mean": 8.44,
+  "rank": 190,
+  "popularity": 5688,
+  "num_list_users": 17723,
+  "num_scoring_users": 2643,
   "nsfw": "white",
   "created_at": "2025-11-27T00:27:11+00:00",
-  "updated_at": "2026-01-15T15:14:56+00:00",
+  "updated_at": "2026-01-20T03:29:23+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
     {
       "id": 8,
       "name": "Drama"
@@ -30,6 +35,10 @@
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     },
     {
       "id": 80,
@@ -42,7 +51,8 @@
     "season": "winter"
   },
   "source": "original",
-  "average_episode_duration": 1478,
+  "average_episode_duration": 1638,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 858,

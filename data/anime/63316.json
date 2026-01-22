@@ -1,0 +1,58 @@
+{
+  "id": 63316,
+  "title": "Dogulwang",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1850/155030.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1850/155030l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tokutsu Ou",
+      "盗掘王"
+    ],
+    "en": "Tomb Raider King",
+    "ja": "도굴왕"
+  },
+  "start_date": "2026-07",
+  "synopsis": "Undercover behind enemy lines, Jooheon's newest plan to torment TKBM will involve taking them down from the inside! Stealing their relics and causing infighting is just the tip of the iceberg on what he'll do to make the group pay for their sins. But with the appearance of the Tower of Pride, Jooheon's skills in rage-baiting will truly be tested as he must pit the most fearsome warlords against each other! Will Jooheon Suh come out on top in the battle of the greatest conquerors of history?\n\n(Source: Yen Press)",
+  "popularity": 12174,
+  "num_list_users": 2224,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-01-16T10:41:25+00:00",
+  "updated_at": "2026-01-22T01:40:23+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3278,
+      "name": "Studio Eek"
+    }
+  ]
+}

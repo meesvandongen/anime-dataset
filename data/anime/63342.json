@@ -1,0 +1,45 @@
+{
+  "id": 63342,
+  "title": "Path of Progress",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1600/155065.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1600/155065l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Path of Progress"
+  },
+  "start_date": "2025-11-24",
+  "end_date": "2025-11-24",
+  "synopsis": "In this animated video, three real-life medical innovations currently in use—each helping save countless lives—are portrayed, showing how advancements in healthcare are enabling safe childbirth and healthy development for children. The animation was produced by A-1 Pictures, one of Japan’s leading studios, and directed by Yuki Morishita.\n\n(Source: Youtube)",
+  "rank": 19635,
+  "popularity": 29550,
+  "num_list_users": 33,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2026-01-20T10:32:52+00:00",
+  "updated_at": "2026-01-21T11:53:03+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 115,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 56,
+      "name": "A-1 Pictures"
+    }
+  ]
+}

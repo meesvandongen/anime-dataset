@@ -1,26 +1,29 @@
 {
   "id": 49794,
-  "title": "Yan Wang: Guai Hualang",
+  "title": "Yan Wang",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1545/117655.webp",
     "large": "https://cdn.myanimelist.net/images/anime/1545/117655l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "",
-    "ja": "颜王 -怪画廊-"
+    "synonyms": [
+      "颜王 怪画廊",
+      "Yan Wang: Guai Hualang"
+    ],
+    "en": "Face King",
+    "ja": "颜王"
   },
   "start_date": "2021-09-19",
   "end_date": "2021-11-21",
-  "synopsis": "An ordinary man, An Xiao Gu, who became a five-star beauty because of a strange encounter in a world where face value determines everything. So he begins the story of saving his sister and changing the world",
+  "synopsis": "It tells the story of An Xiaogu, an ordinary person who becomes a five-star beauty after a miraculous encounter in a world where appearance determines everything. He then embarks on a journey to save his sister and change the world.\n\n(Source: Tencent, translated)",
   "mean": 6.18,
-  "rank": 9442,
-  "popularity": 13091,
-  "num_list_users": 1660,
+  "rank": 9416,
+  "popularity": 13097,
+  "num_list_users": 1664,
   "num_scoring_users": 312,
   "nsfw": "white",
   "created_at": "2021-09-12T18:25:43+00:00",
-  "updated_at": "2022-03-28T18:31:57+00:00",
+  "updated_at": "2026-01-18T15:16:57+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -40,7 +43,7 @@
   "studios": [
     {
       "id": 1804,
-      "name": "Niceboat Animation"
+      "name": "Nice Boat Animation"
     }
   ]
 }

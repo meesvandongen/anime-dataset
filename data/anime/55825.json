@@ -14,14 +14,14 @@
   },
   "start_date": "2026-01-11",
   "synopsis": "Second season of Jigokuraku.",
-  "mean": 8.13,
-  "rank": 506,
-  "popularity": 1089,
-  "num_list_users": 252379,
-  "num_scoring_users": 8460,
+  "mean": 8.16,
+  "rank": 482,
+  "popularity": 1037,
+  "num_list_users": 266190,
+  "num_scoring_users": 13224,
   "nsfw": "white",
   "created_at": "2023-07-01T14:53:28+00:00",
-  "updated_at": "2026-01-11T15:25:28+00:00",
+  "updated_at": "2026-01-16T15:38:25+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -54,7 +54,7 @@
       "name": "Supernatural"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2026,
     "season": "winter"
