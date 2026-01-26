@@ -2,8 +2,8 @@
   "id": 7625,
   "title": "Yousei Dick",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/4/59719.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/4/59719l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/4/59719.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/4/59719l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,10 +16,10 @@
   "start_date": "1992-06-07",
   "end_date": "1992-12-06",
   "synopsis": "Based on Hobberdy Dick (1955) by Katharine Mary Briggs (1898-1980, English). \n\nTells the story of a 300-year-old hobgoblin who lives in Widford Manor in the Cotswolds. \n\n(Source: AniDB)",
-  "mean": 5.7,
-  "rank": 12034,
-  "popularity": 14355,
-  "num_list_users": 1187,
+  "mean": 5.69,
+  "rank": 12118,
+  "popularity": 14349,
+  "num_list_users": 1192,
   "num_scoring_users": 204,
   "nsfw": "white",
   "created_at": "2009-11-29T22:24:35+00:00",
@@ -44,5 +44,10 @@
   "source": "book",
   "average_episode_duration": 1421,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 391,
+      "name": "Grouper Productions"
+    }
+  ]
 }
