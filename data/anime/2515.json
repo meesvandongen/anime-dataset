@@ -1,0 +1,64 @@
+{
+  "id": 2515,
+  "title": "Meitantei Conan OVA 05: Target wa Kogorou!! Shounen Tanteidan Maruhi Report",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/10/31143.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/10/31143l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Meitantei Conan OVA 05: Hyouteki wa Kogorou!! Shounen Tanteidan Maruhi Chousa"
+    ],
+    "en": "Detective Conan OVA 05: The Target is Kogoro! The Detective Boys' Secret Investigation",
+    "ja": "名探偵コナン 標的は小五郎!! 少年探偵団マル秘調査"
+  },
+  "start_date": "2005-03-09",
+  "end_date": "2005-03-09",
+  "synopsis": "Conan Edogawa and his classmates are assigned to do a class report about a small business of their choice. After discarding other possible topics, the Detective Boys concludes that it is a perfect opportunity to find out more about Detective Kogorou Mouri's job.\n\nConan's friends refuse to settle for a simple interview, though, as they want to experience first-hand all the details of his work. Thus, they, along with a reluctant Conan and Ai Haibara, decide to tail the renowned detective for a day. However, the kids soon get involved in a grim situation when Kogorou's current case takes an unexpected and dangerous turn.\n\n[Written by MAL Rewrite]",
+  "mean": 7.23,
+  "rank": 3357,
+  "popularity": 6044,
+  "num_list_users": 15094,
+  "num_scoring_users": 7510,
+  "nsfw": "white",
+  "created_at": "2007-05-24T08:20:18+00:00",
+  "updated_at": "2025-11-23T23:26:53+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2005,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 1403,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
+}
