@@ -1,0 +1,45 @@
+{
+  "id": 57051,
+  "title": "G vs. G",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1358/139439.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1358/139439l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "G vs. G"
+  },
+  "start_date": "2019-03-20",
+  "end_date": "2019-03-20",
+  "synopsis": "Gigan crashes near Mount Fuji and goes on a rampage, easily destroying the JSDF fighter jets sent to stop him. Godzilla appears to challenge him, equally unfazed by the military's attacks, and they battle in a city. As four more Gigans arrive, Godzilla unleashes his atomic breath.\n\n(Source: Wikizilla)",
+  "mean": 5.95,
+  "rank": 10727,
+  "popularity": 21615,
+  "num_list_users": 270,
+  "num_scoring_users": 128,
+  "nsfw": "white",
+  "created_at": "2023-11-02T01:05:56+00:00",
+  "updated_at": "2023-11-20T15:30:19+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2019,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 61,
+  "rating": "pg_13",
+  "studios": []
+}

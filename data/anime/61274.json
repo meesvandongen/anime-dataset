@@ -2,8 +2,8 @@
   "id": 61274,
   "title": "Ginga Tokkyuu Milky☆Subway",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1464/150712.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1464/150712l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1464/150712.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1464/150712l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,11 +13,11 @@
   "start_date": "2025-07-03",
   "end_date": "2025-09-18",
   "synopsis": "Arrested for reckless space driving, super human Chiharu and cyborg Makina are sentenced to clean the Milky☆Subway—an old interplanetary train.\n\nEasy enough, right? Wrong. When the train suddenly takes off, they are thrown into a high-speed space-train spectacle packed with chaos, no plans, and zero strategy.\n\nJust pure momentum!\n\n(Source: Official website, translated)",
-  "mean": 7.88,
-  "rank": 923,
-  "popularity": 5866,
-  "num_list_users": 16299,
-  "num_scoring_users": 6676,
+  "mean": 7.89,
+  "rank": 918,
+  "popularity": 5828,
+  "num_list_users": 16599,
+  "num_scoring_users": 6837,
   "nsfw": "white",
   "created_at": "2025-03-20T21:29:06+00:00",
   "updated_at": "2025-09-18T18:50:00+00:00",
@@ -49,5 +49,10 @@
   "source": "original",
   "average_episode_duration": 210,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
 }

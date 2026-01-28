@@ -1,0 +1,46 @@
+{
+  "id": 56013,
+  "title": "Tata's ASMR",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1382/155141.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1382/155141l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Tata & Cooky's Makeup Shop"
+    ],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2022-01-06",
+  "end_date": "2022-01-07",
+  "synopsis": "",
+  "rank": 15832,
+  "popularity": 29573,
+  "num_list_users": 33,
+  "num_scoring_users": 11,
+  "nsfw": "white",
+  "created_at": "2023-07-17T02:51:35+00:00",
+  "updated_at": "2026-01-26T17:24:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 2,
+  "start_season": {
+    "year": 2022,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 229,
+  "rating": "g",
+  "studios": []
+}

@@ -2,26 +2,27 @@
   "id": 60191,
   "title": "Cheng He Titong 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1470/149664.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1470/149664l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1214/155106.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1214/155106l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
       "How Dare You!? 2nd Season"
     ],
-    "en": "",
+    "en": "How Dare You!? Season 2",
     "ja": "成何体统 第2季"
   },
   "start_date": "2026-01-25",
   "synopsis": "Second season of Cheng He Titong.",
-  "popularity": 14531,
-  "num_list_users": 1139,
-  "num_scoring_users": 1,
+  "rank": 20786,
+  "popularity": 14349,
+  "num_list_users": 1194,
+  "num_scoring_users": 15,
   "nsfw": "white",
   "created_at": "2024-10-25T10:37:45+00:00",
-  "updated_at": "2025-11-25T18:59:20+00:00",
+  "updated_at": "2026-01-25T02:43:47+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -40,13 +41,13 @@
       "name": "Romance"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 24,
   "start_season": {
     "year": 2026,
     "season": "winter"
   },
   "source": "web_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1380,
   "rating": "pg_13",
   "studios": [
     {

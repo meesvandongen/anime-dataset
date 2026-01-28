@@ -1,0 +1,54 @@
+{
+  "id": 63376,
+  "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1871/155152.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1871/155152l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "女神「異世界転生何になりたいですか」俺「勇者の肋骨で」"
+  },
+  "start_date": "2026-04",
+  "synopsis": "The story is about a protagonist known only as \"I,\" who undergoes a perpetual cycle of reincarnation. The story is set in an alternate world where each individual is given the freedom to choose their next form. However, due to a recent surge in applicants, the waiting list for popular roles—such as \"Demon King\" or \"Hero with Cheat Skills and a Harem\"—has reached to 50,000 years.\n\nRefusing to wait, the protagonist chooses to reincarnate repeatedly into increasingly bizarre forms. These roles range from the rib of a hero leading a harem to a hermit crab, a vegetable, and even a number of explosives designed to bring happiness to people.\n\n(Source: MAL News)",
+  "popularity": 22302,
+  "num_list_users": 232,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-01-27T13:57:49+00:00",
+  "updated_at": "2026-01-27T22:00:37+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2288,
+      "name": "Qzil.la"
+    },
+    {
+      "id": 3139,
+      "name": "S.o.K"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 55400,
+  "title": "Afuregu!: Aufregendes Leben Animation PV",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1323/136043.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1323/136043l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "『アフレぐ！〜Aufregendes leben〜』アニメーションPV"
+  },
+  "start_date": "2022-10-05",
+  "end_date": "2022-10-05",
+  "synopsis": "Music PV for the song Afuregu!: Aufregendes Leben by Siegfeld Ongaku Gakuin Chuutou-bu (Siegfeld Institute of Music Junior High).",
+  "popularity": 29583,
+  "num_list_users": 18,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2023-05-23T12:47:45+00:00",
+  "updated_at": "2026-01-26T16:29:09+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2022,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 105,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 290,
+      "name": "Kinema Citrus"
+    }
+  ]
+}

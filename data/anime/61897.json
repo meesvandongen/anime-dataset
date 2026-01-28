@@ -12,22 +12,18 @@
   },
   "start_date": "2026-07",
   "synopsis": "Second season of Katainaka no Ossan, Kensei ni Naru.",
-  "popularity": 4973,
-  "num_list_users": 24846,
-  "num_scoring_users": 0,
+  "popularity": 4967,
+  "num_list_users": 25005,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2025-06-21T20:42:41+00:00",
-  "updated_at": "2025-12-18T01:35:20+00:00",
+  "updated_at": "2026-01-26T16:48:52+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
     {
       "id": 1,
       "name": "Action"
-    },
-    {
-      "id": 2,
-      "name": "Adventure"
     },
     {
       "id": 10,

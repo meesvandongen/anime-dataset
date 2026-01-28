@@ -1,0 +1,46 @@
+{
+  "id": 63375,
+  "title": "Nippon Sangoku",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1731/155151.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1731/155151l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "日本三國"
+  },
+  "start_date": "2026-04",
+  "synopsis": "In the near future, Japan has completely collapsed due to a mix of nuclear warfare, natural disasters, and widespread corruption that sparked a revolution.\n\nThe country is now split into three warring superpowers. This new era of the Three Kingdoms Period sees diplomacy vanish, replaced by a harsh, relentless fight for power. Each territory is using its military strength and resources against the others in a desperate attempt for total control over the remnants of Japanese land.\n\nAoteru Misumi is a low-ranking official who has stayed in the background for most of his life. He does not come from a prestigious military background or aristocracy, but Misumi has a strong ambition: to end the pointless bloodshed that afflicts the nation. He seeks to unify the fractured country, armed only with sharp insight and a persuasive voice that can rally the people.\n\nThe legend of the man who will become a brilliant military strategist starts now.\n\n(Source: MAL News)",
+  "popularity": 16298,
+  "num_list_users": 727,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-01-27T13:42:55+00:00",
+  "updated_at": "2026-01-28T01:19:46+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2205,
+      "name": "Studio Kafka"
+    }
+  ]
+}

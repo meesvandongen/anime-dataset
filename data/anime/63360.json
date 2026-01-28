@@ -1,0 +1,63 @@
+{
+  "id": 63360,
+  "title": "Shishang Zui Qiang Lian Ti Lao Zu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1594/155094.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1594/155094l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Grandmaster of Body Cultivation",
+      "The Strongest Body Refiner in History"
+    ],
+    "en": "The Supreme Body Refining Master",
+    "ja": "史上最强炼体老祖"
+  },
+  "start_date": "2026-01-26",
+  "synopsis": "Ye Cangxuan, a supreme cultivator of the Body Refining Realm, was once invincible in the mortal world. He easily passed the Ascension Trial and ascended to the Immortal World. There, he learned that his homeland—the Nine Skies Continent—was on the brink of destruction. Without hesitation, Ye Cangxuan chose to return. At the same time, the Six Sects were collapsing. Demons and devils from the Outer Lands were poised to invade, and their spies had already infiltrated the Nine Skies Continent. Determined to change his homeland's fate, Ye Cangxuan embarked on a grueling quest. He reunited the Six Sects, broke into the Barbaric Wastes, wiped out demons and devils, and challenged the immortals themselves. In the end, he stood against the Sky itself.\n\n(Source: Youku)",
+  "rank": 15348,
+  "popularity": 26681,
+  "num_list_users": 107,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2026-01-24T03:49:48+00:00",
+  "updated_at": "2026-01-26T03:05:06+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 660,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3071,
+      "name": "Shuiniu Dongman"
+    }
+  ]
+}

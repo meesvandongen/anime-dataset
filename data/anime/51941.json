@@ -7,23 +7,25 @@
   },
   "alternative_titles": {
     "synonyms": [
+      "Astral Sutra 2nd Season",
       "Xing Wu Shen Jue",
-      "Star Martial God Technique Second Season"
+      "Star Martial God Technique Second Season",
+      "The Legend of Martial 2"
     ],
-    "en": "",
+    "en": "Astral Sutra Season 2",
     "ja": "星武神诀 第二季"
   },
   "start_date": "2022-06-24",
   "end_date": "2022-10-28",
-  "synopsis": "The second season of Xing Wushen Jue.",
+  "synopsis": "Second season of Xing Wushen Jue.",
   "mean": 6.82,
-  "rank": 5522,
-  "popularity": 14091,
-  "num_list_users": 1274,
-  "num_scoring_users": 419,
+  "rank": 5486,
+  "popularity": 14084,
+  "num_list_users": 1278,
+  "num_scoring_users": 420,
   "nsfw": "white",
   "created_at": "2022-05-26T23:29:31+00:00",
-  "updated_at": "2025-11-15T01:23:17+00:00",
+  "updated_at": "2026-01-27T03:13:42+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -34,6 +36,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,
