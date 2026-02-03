@@ -1,0 +1,39 @@
+{
+  "id": 59212,
+  "title": "Around the World (Tsukino Mito Cover)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1759/144015.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1759/144015l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Around The World / MONKEY MAJIK【月ノ美兎 (cover)】"
+  },
+  "start_date": "2023-04-05",
+  "end_date": "2023-04-05",
+  "synopsis": "",
+  "popularity": 26627,
+  "num_list_users": 109,
+  "num_scoring_users": 47,
+  "nsfw": "white",
+  "created_at": "2024-07-04T11:41:25+00:00",
+  "updated_at": "2026-01-28T15:48:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 230,
+  "rating": "pg_13",
+  "studios": []
+}

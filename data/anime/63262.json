@@ -13,9 +13,9 @@
   "start_date": "2025-07-16",
   "end_date": "2025-07-16",
   "synopsis": "Renowned storyteller Charles Dickens finds it challenging to bond with his imaginative son, Walter, amidst his busy career. After Walter disrupts one of Dickens' readings, Dickens decides to share the story of Jesus Christ with him, hoping to bridge the gap between them. As Dickens narrates the story, Walter becomes captivated, experiencing the events of Jesus' life vividly Through the journey of Jesus, Walter and Dickens' relationship deepens, culminating in a bond of love forged through storytelling.\n\n(Source: Official site)",
-  "rank": 18119,
-  "popularity": 29527,
-  "num_list_users": 48,
+  "rank": 18172,
+  "popularity": 29494,
+  "num_list_users": 56,
   "num_scoring_users": 8,
   "nsfw": "white",
   "created_at": "2026-01-05T16:12:40+00:00",
@@ -36,5 +36,10 @@
   "source": "book",
   "average_episode_duration": 6240,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3277,
+      "name": "Mofac Studio"
+    }
+  ]
 }
