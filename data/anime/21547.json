@@ -16,9 +16,9 @@
   "start_date": "1992-11-21",
   "end_date": "1993-06-20",
   "synopsis": "",
-  "rank": 15353,
-  "popularity": 18289,
-  "num_list_users": 495,
+  "rank": 15377,
+  "popularity": 18309,
+  "num_list_users": 496,
   "num_scoring_users": 111,
   "nsfw": "white",
   "created_at": "2013-12-11T09:54:42+00:00",
@@ -44,12 +44,17 @@
     "year": 1992,
     "season": "fall"
   },
+  "source": "original",
   "average_episode_duration": 1686,
   "rating": "pg_13",
   "studios": [
     {
       "id": 7,
       "name": "J.C.Staff"
+    },
+    {
+      "id": 1383,
+      "name": "Studio Live"
     }
   ]
 }

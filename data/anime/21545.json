@@ -17,9 +17,9 @@
   "end_date": "1991-12-20",
   "synopsis": "",
   "mean": 5.79,
-  "rank": 11598,
-  "popularity": 17098,
-  "num_list_users": 613,
+  "rank": 11609,
+  "popularity": 17106,
+  "num_list_users": 615,
   "num_scoring_users": 138,
   "nsfw": "white",
   "created_at": "2013-12-11T09:49:56+00:00",
@@ -45,6 +45,7 @@
     "year": 1991,
     "season": "fall"
   },
+  "source": "original",
   "average_episode_duration": 2146,
   "rating": "pg_13",
   "studios": [
