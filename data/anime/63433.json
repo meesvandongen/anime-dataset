@@ -1,0 +1,51 @@
+{
+  "id": 63433,
+  "title": "Daikenja Riddle no Jikan Gyakkou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1764/155312.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1764/155312l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Regression of Great Sage Riddle"
+    ],
+    "en": "",
+    "ja": "大賢者リドルの時間逆行"
+  },
+  "start_date": "2026-04-01",
+  "synopsis": "A young man named Riddle had lost all of his friends—and the entire world—at the hands of a mysterious organization known as the \"Box of Malice.\" Having lost all hope to live, he dwelled in a pit of despair until he has one final revelation. What if... he could return to a time before everything ended? And so, after a thousand years, a deformed Riddle finally manages to reverse time. \"I'm going to stop them this time...!\" Equipped with a thousand years of knowledge and experience in his young body, the Great Sage Riddle's journey to the past now unfolds!\n\n(Source: Shogakukan, translated)",
+  "popularity": 19867,
+  "num_list_users": 381,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-02-06T14:09:39+00:00",
+  "updated_at": "2026-02-06T14:09:39+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "21:55"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 300,
+  "studios": []
+}

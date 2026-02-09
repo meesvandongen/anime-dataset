@@ -1,0 +1,39 @@
+{
+  "id": 63436,
+  "title": "EL (Music)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1962/155322.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1962/155322l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "엘"
+  },
+  "start_date": "2025-04-16",
+  "end_date": "2025-04-16",
+  "synopsis": "Music video for the song EL by Tak (Baechigi).",
+  "popularity": 29655,
+  "num_list_users": 25,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2026-02-06T20:59:21+00:00",
+  "updated_at": "2026-02-07T10:00:26+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 155,
+  "rating": "pg_13",
+  "studios": []
+}

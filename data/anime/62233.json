@@ -1,0 +1,52 @@
+{
+  "id": 62233,
+  "title": "One Piece: Heroines",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1993/151415.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1993/151415l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "One Piece Novel: Heroines"
+    ],
+    "en": "",
+    "ja": "ONE PIECE HEROINES"
+  },
+  "start_date": "2026-07-05",
+  "synopsis": "Go behind the runway as style icon Nami stars in a life-changing fashion show, observe wise Robin as she helps to decipher an ancient tablet with Koala and Sabo, watch as solemn Princess Vivi receives a love letter from an unexpected admirer, and check out Ghost Princess Perona's battle over the last bottle of wine with Zoro and Mihawk!\n\n(Source: VIZ Media)",
+  "popularity": 6460,
+  "num_list_users": 12856,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-08-10T09:02:26+00:00",
+  "updated_at": "2026-02-05T16:40:25+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

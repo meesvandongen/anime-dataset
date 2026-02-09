@@ -1,0 +1,60 @@
+{
+  "id": 62435,
+  "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1607/155259.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1607/155259l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker"
+    ],
+    "en": "",
+    "ja": "世界最強の後衛 ～迷宮国の新人探索者～"
+  },
+  "start_date": "2026-07",
+  "synopsis": "Corporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n\n(Source: Yen Press)",
+  "popularity": 11910,
+  "num_list_users": 2421,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-09-08T11:42:26+00:00",
+  "updated_at": "2026-02-03T13:09:19+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1978,
+      "name": "Maho Film"
+    }
+  ]
+}
