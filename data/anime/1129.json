@@ -18,14 +18,14 @@
   "start_date": "2003-08-23",
   "end_date": "2003-08-23",
   "synopsis": "The queen of planet Valhalla arrives on Earth with a virtual-world-program, called \"bride training boot camp\". They built several pairs which have to take a random card with a special situation that might occur if you are married. For instance Kazuto and Valkyrie have to make dinner, Raine and Kazuto's sister have to manage poverty or Akina and Hydra have to prepare a wedding ceremony as bride and groom (so everyone gets the most unlikely and unsuitable situation).\n\n(Source: ANN)",
-  "mean": 6.81,
-  "rank": 5586,
-  "popularity": 9825,
-  "num_list_users": 4413,
-  "num_scoring_users": 1978,
+  "mean": 6.82,
+  "rank": 5521,
+  "popularity": 9828,
+  "num_list_users": 4420,
+  "num_scoring_users": 1982,
   "nsfw": "white",
   "created_at": "2006-06-26T16:58:25+00:00",
-  "updated_at": "2020-04-14T00:23:40+00:00",
+  "updated_at": "2026-02-10T08:29:07+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -40,6 +40,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,

@@ -2,8 +2,8 @@
   "id": 1514,
   "title": "UFO Princess Valkyrie 3: Seiresetsu no Hanayome",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1179/133831.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1179/133831l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1179/133831.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1179/133831l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -19,13 +19,13 @@
   "end_date": "2005-10-25",
   "synopsis": "The third season doesn`t have a particular story behind everything (like \"Valkyrie Ghost\" in the second season). It just tells 6 stories about the life of Kazuto & Co. with some additions: Raine and Chorus get a house on earth, the last three Valhalla princesses each get an episode, and in the last episode Kazuto and Valkyrie, who in the same episode managed to stay adult, >try< to marry again. \n\n(Source: ANN)",
   "mean": 6.92,
-  "rank": 4962,
-  "popularity": 7719,
-  "num_list_users": 8279,
-  "num_scoring_users": 3746,
+  "rank": 4966,
+  "popularity": 7722,
+  "num_list_users": 8286,
+  "num_scoring_users": 3747,
   "nsfw": "white",
   "created_at": "2006-09-24T07:36:07+00:00",
-  "updated_at": "2022-01-27T11:53:16+00:00",
+  "updated_at": "2026-02-10T08:29:27+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -40,6 +40,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 6,

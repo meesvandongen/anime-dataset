@@ -2,8 +2,8 @@
   "id": 1128,
   "title": "UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/8/22374.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/8/22374l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/8/22374.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/8/22374l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -17,13 +17,13 @@
   "end_date": "2003-12-20",
   "synopsis": "Valkyrie, Kazuto, Akina, Hydra, and friends are back for more when the Key of time suddenly appears along with many other mysterious happenings. All seemed to be linked to a person named \"Valkyrie Ghost\" whose only goal is stealing Kazuto for herself. As they team up against this seeming unbeatable foe they dig deeper into the mysterious past of Valkyrie's home planet, Valhalla.\n\n(Source: ANN)",
   "mean": 6.91,
-  "rank": 5031,
-  "popularity": 6878,
-  "num_list_users": 10991,
-  "num_scoring_users": 4932,
+  "rank": 5039,
+  "popularity": 6883,
+  "num_list_users": 10998,
+  "num_scoring_users": 4935,
   "nsfw": "white",
   "created_at": "2006-06-26T16:58:06+00:00",
-  "updated_at": "2021-12-10T21:29:06+00:00",
+  "updated_at": "2026-02-10T08:29:20+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -38,6 +38,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 12,
