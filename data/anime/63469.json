@@ -1,0 +1,63 @@
+{
+  "id": 63469,
+  "title": "Hyakki Yakoushou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1813/155431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1813/155431l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Beyond Twilight",
+      "Selected Pandemonium",
+      "Hyakki Yakou Shou",
+      "Tales of a Hundred Ghosts Traveling by the Night",
+      "Hyakkiyakou Shou"
+    ],
+    "en": "",
+    "ja": "百鬼夜行抄"
+  },
+  "start_date": "2026-04",
+  "synopsis": "Ritsu inherited his sixth sense from his grandfather, along with a demon guardian named Blue Storm. Strange things just seem to happen around these two, and it's left to them to get to the bottom of all these mysterious events. Each story is independent but features recurring characters you'll come to know and appreciate as they, each in their own way, try to deal with things 'not of this world'.\n\n(Source: MU)",
+  "popularity": 20786,
+  "num_list_users": 320,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-02-12T19:31:23+00:00",
+  "updated_at": "2026-02-14T15:05:18+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": []
+}

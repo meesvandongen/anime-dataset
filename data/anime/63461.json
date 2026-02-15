@@ -1,0 +1,43 @@
+{
+  "id": 63461,
+  "title": "Popin no Zundoko-bushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1410/155410.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1410/155410l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ポピンのズンドコ節"
+  },
+  "start_date": "2026-02-02",
+  "end_date": "2026-02-02",
+  "synopsis": "Music video for the song Popin no Zundoko-bushi by Popin (Satomi Sugiyama).",
+  "popularity": 29635,
+  "num_list_users": 38,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2026-02-12T02:18:29+00:00",
+  "updated_at": "2026-02-12T02:18:29+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 121,
+  "rating": "g",
+  "studios": []
+}

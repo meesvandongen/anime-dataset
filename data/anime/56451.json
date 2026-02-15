@@ -2,8 +2,8 @@
   "id": 56451,
   "title": "Nareai Serve",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1098/138078.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1098/138078l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1098/138078.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1098/138078l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,8 @@
   "start_date": "2023-08-20",
   "end_date": "2023-08-20",
   "synopsis": "Music video for the song Nareai Serve by ZUTOMAYO.\n",
-  "popularity": 22894,
+  "mean": 5.99,
+  "popularity": 22890,
   "num_list_users": 207,
   "num_scoring_users": 102,
   "nsfw": "white",

@@ -1,0 +1,81 @@
+{
+  "id": 63489,
+  "title": "Sora wa Akai Kawa no Hotori",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1274/155459.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1274/155459l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Red River",
+      "Anatolia Story",
+      "Heaven by the Red River",
+      "Orontes Renka",
+      "Orontes Love Song",
+      "Where the Sky and the Red River Meet"
+    ],
+    "en": "",
+    "ja": "天は赤い河のほとり"
+  },
+  "start_date": "2026-07",
+  "synopsis": "Yuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n\n(Source: VIZ Media)",
+  "popularity": 29680,
+  "num_list_users": 4,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-02-15T03:07:01+00:00",
+  "updated_at": "2026-02-15T03:11:33+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    },
+    {
+      "id": 78,
+      "name": "Time Travel"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 103,
+      "name": "Tatsunoko Production"
+    }
+  ]
+}

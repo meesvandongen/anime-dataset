@@ -2,8 +2,8 @@
   "id": 42584,
   "title": "Showtime",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1045/108713.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1045/108713l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1045/108713.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1045/108713l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,7 +14,7 @@
   "end_date": "2020-07-29",
   "synopsis": "Music video for the single Showtime by Japanese rock band DATS.",
   "mean": 5.94,
-  "popularity": 19840,
+  "popularity": 19839,
   "num_list_users": 380,
   "num_scoring_users": 206,
   "nsfw": "white",

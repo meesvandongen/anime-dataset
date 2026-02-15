@@ -2,8 +2,8 @@
   "id": 63437,
   "title": "Chuldong! Super Wings 8",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1901/155325.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1901/155325l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1901/155325.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1901/155325l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,10 +15,10 @@
   "start_date": "2024-02-26",
   "end_date": "2024-07-09",
   "synopsis": "Eighth season of Chuldong! Super Wings.",
-  "rank": 20948,
-  "popularity": 29656,
-  "num_list_users": 24,
-  "num_scoring_users": 5,
+  "rank": 20957,
+  "popularity": 29651,
+  "num_list_users": 35,
+  "num_scoring_users": 7,
   "nsfw": "white",
   "created_at": "2026-02-07T02:09:08+00:00",
   "updated_at": "2026-02-07T09:40:13+00:00",
@@ -46,5 +46,10 @@
   "source": "original",
   "average_episode_duration": 660,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 3167,
+      "name": "Funny Flux"
+    }
+  ]
 }

@@ -10,10 +10,10 @@
     "en": "Eren the Southpaw",
     "ja": "左ききのエレン"
   },
-  "start_date": "2026-04",
+  "start_date": "2026-04-08",
   "synopsis": "The story follows Koichi Asakura, a designer for an ad agency who works hard but receives no recognition. After being dropped from a project, he visits a place from his past, where he met Eren Yamagishi. Eren, meanwhile, is recognized as a genius left-handed graffiti artist in New York, while enduring the struggles that come from her own path in life.\n\n(Source: Crunchyroll)",
-  "popularity": 10423,
-  "num_list_users": 3659,
+  "popularity": 10269,
+  "num_list_users": 3872,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2022-12-01T17:05:10+00:00",
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2026,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "00:00"
   },
   "source": "web_manga",
   "average_episode_duration": 0,

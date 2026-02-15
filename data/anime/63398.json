@@ -12,11 +12,11 @@
   },
   "start_date": "2026-01-31",
   "end_date": "2026-01-31",
-  "synopsis": "Music video for the song Ray (Chou Kaguya-hime! Version) of Chou Kaguya-hime! by Kaguya (Yuuko Natsuyoshi) and Runami Yachiyo (Saori Hayami). The song was used as the ending theme of the anime Chou Kaguya-hime!\n\n",
-  "mean": 6.89,
-  "popularity": 22379,
-  "num_list_users": 232,
-  "num_scoring_users": 131,
+  "synopsis": "Music video for the song Ray (Chou Kaguya-hime! Version) of Chou Kaguya-hime! by Kaguya (CV: Yuuko Natsuyoshi) and Runami Yachiyo (CV: Saori Hayami). The song was used as the ending theme of the anime Chou Kaguya-hime!\n",
+  "mean": 7.02,
+  "popularity": 21449,
+  "num_list_users": 283,
+  "num_scoring_users": 156,
   "nsfw": "white",
   "created_at": "2026-01-31T12:19:06+00:00",
   "updated_at": "2026-02-01T14:36:48+00:00",
@@ -40,5 +40,14 @@
   "source": "original",
   "average_episode_duration": 149,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1033,
+      "name": "Studio Colorido"
+    },
+    {
+      "id": 3226,
+      "name": "Studio Chromato"
+    }
+  ]
 }
