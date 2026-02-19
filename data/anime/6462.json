@@ -6,26 +6,32 @@
     "large": "https://cdn.myanimelist.net/images/anime/1883/133007l.webp"
   },
   "alternative_titles": {
-    "synonyms": [
-      "Rain Boy"
-    ],
-    "en": "",
+    "synonyms": [],
+    "en": "Rain Boy",
     "ja": "雨ふり小僧"
   },
   "start_date": "1983-12-24",
   "end_date": "1983-12-24",
   "synopsis": "This is the second story of \"The Tiger Books\" series. A boy meets a lonely little umbrella ghost wearing Geta. He promises the ghost that he will give it a pair of rain boots in exchange for three wishes. The boy, however, grows up completely forgetting the promise. One day, when he happens to remember the ghost, he rushes back to that bridge in his hometown, to the Rain Boy...This is a moving, sweet hometown fantasy about a gentle ghost and a forgotten promise. \n\n(Source: AniDB)",
-  "mean": 6.27,
-  "rank": 8907,
-  "popularity": 11508,
-  "num_list_users": 2703,
-  "num_scoring_users": 1527,
+  "mean": 6.28,
+  "rank": 8834,
+  "popularity": 11505,
+  "num_list_users": 2710,
+  "num_scoring_users": 1533,
   "nsfw": "white",
   "created_at": "2009-05-08T23:07:07+00:00",
-  "updated_at": "2025-11-18T12:27:38+00:00",
+  "updated_at": "2026-02-18T16:06:14+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 6,
+      "name": "Mythology"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
     {
       "id": 37,
       "name": "Supernatural"
