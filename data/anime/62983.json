@@ -1,0 +1,50 @@
+{
+  "id": 62983,
+  "title": "Marika-chan no Koukando wa Bukkowareteiru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1818/155506.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1818/155506l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Marika's Love Meter Malfunction",
+    "ja": "茉莉花ちゃんの好感度はぶっ壊れている"
+  },
+  "start_date": "2026-04-06",
+  "synopsis": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\n\n(Source: Coolmic)",
+  "popularity": 11932,
+  "num_list_users": 2417,
+  "num_scoring_users": 0,
+  "nsfw": "gray",
+  "created_at": "2025-11-20T14:17:39+00:00",
+  "updated_at": "2026-02-18T04:03:32+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "01:00"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 3078,
+      "name": "Studio LEO"
+    }
+  ]
+}

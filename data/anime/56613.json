@@ -1,0 +1,59 @@
+{
+  "id": 56613,
+  "title": "Azur Lane: Bisoku Zenshin! Ni!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1286/155547.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1286/155547l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Azur Lane: Slow Ahead! Season 2",
+    "ja": "アズールレーン びそくぜんしんっ！にっ!!"
+  },
+  "start_date": "2026-07",
+  "synopsis": "Second season of Azur Lane: Bisoku Zenshin!.",
+  "popularity": 10480,
+  "num_list_users": 3615,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2023-09-10T12:28:06+00:00",
+  "updated_at": "2026-02-20T15:09:09+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "4_koma_manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2134,
+      "name": "Studio CANDY BOX"
+    }
+  ]
+}

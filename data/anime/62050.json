@@ -12,14 +12,14 @@
     "en": "",
     "ja": "神の庭付き楠木邸"
   },
-  "start_date": "2026-04",
+  "start_date": "2026-04-05",
   "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n\n(Source: Yen Press)",
-  "popularity": 9370,
-  "num_list_users": 5107,
-  "num_scoring_users": 0,
+  "popularity": 9199,
+  "num_list_users": 5363,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2025-07-14T09:06:18+00:00",
-  "updated_at": "2025-11-12T11:54:08+00:00",
+  "updated_at": "2026-02-20T13:28:50+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -48,6 +48,10 @@
   "start_season": {
     "year": 2026,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "01:30"
   },
   "source": "light_novel",
   "average_episode_duration": 0,
