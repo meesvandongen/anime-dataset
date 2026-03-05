@@ -2,8 +2,8 @@
   "id": 48820,
   "title": "Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1784/151057.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1784/151057l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1784/151057.jpg",
+    "large": "https://myanimelist.net/images/anime/1784/151057l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,15 +13,15 @@
     "en": "Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising",
     "ja": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉"
   },
-  "start_date": "2026-02",
-  "end_date": "2026-02",
+  "start_date": "2026-08-28",
+  "end_date": "2026-08-28",
   "synopsis": "",
-  "popularity": 2721,
-  "num_list_users": 78830,
-  "num_scoring_users": 1,
+  "popularity": 2717,
+  "num_list_users": 79911,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2021-04-25T10:19:52+00:00",
-  "updated_at": "2025-07-15T12:40:39+00:00",
+  "updated_at": "2026-02-27T04:11:10+00:00",
   "media_type": "movie",
   "status": "not_yet_aired",
   "genres": [
@@ -45,7 +45,7 @@
   "num_episodes": 1,
   "start_season": {
     "year": 2026,
-    "season": "winter"
+    "season": "summer"
   },
   "source": "original",
   "average_episode_duration": 0,

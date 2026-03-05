@@ -1,0 +1,39 @@
+{
+  "id": 63577,
+  "title": "Chatter Chatter",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1130/155699.jpg",
+    "large": "https://myanimelist.net/images/anime/1130/155699l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Chatter Chatter"
+  },
+  "start_date": "2026-02-28",
+  "end_date": "2026-02-28",
+  "synopsis": "Music video for the song Chatter Chatter by Houshou Marine and Hoshimachi Suisei.",
+  "popularity": 28949,
+  "num_list_users": 84,
+  "num_scoring_users": 42,
+  "nsfw": "white",
+  "created_at": "2026-02-28T13:46:14+00:00",
+  "updated_at": "2026-03-01T08:32:23+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 177,
+  "rating": "pg_13",
+  "studios": []
+}

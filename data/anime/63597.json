@@ -1,0 +1,47 @@
+{
+  "id": 63597,
+  "title": "Gajug (Ibja & Hearop Remix)",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1759/155753.jpg",
+    "large": "https://myanimelist.net/images/anime/1759/155753l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Skin (Ibja & Hearop Remix)",
+    "ja": "가죽 (Ibja & Hearop Remix)"
+  },
+  "start_date": "2025-08-28",
+  "end_date": "2025-08-28",
+  "synopsis": "Music video for the Ibja & Hearop remix of Gajug by Kim Pureum.",
+  "popularity": 29757,
+  "num_list_users": 16,
+  "num_scoring_users": 10,
+  "nsfw": "white",
+  "created_at": "2026-03-04T03:51:05+00:00",
+  "updated_at": "2026-03-04T11:38:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 202,
+  "rating": "pg_13",
+  "studios": []
+}

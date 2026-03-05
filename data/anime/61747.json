@@ -2,8 +2,8 @@
   "id": 61747,
   "title": "Ling Long Di Yi Ji Jing Bian Ban",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1783/150279.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1783/150279l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1783/150279.jpg",
+    "large": "https://myanimelist.net/images/anime/1783/150279l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,9 @@
   "start_date": "2025-05-16",
   "end_date": "2025-05-16",
   "synopsis": "Recap of the first season of Ling Long: Incarnation.",
-  "rank": 18653,
-  "popularity": 19306,
-  "num_list_users": 423,
+  "rank": 18699,
+  "popularity": 19289,
+  "num_list_users": 426,
   "num_scoring_users": 54,
   "nsfw": "white",
   "created_at": "2025-05-29T12:13:41+00:00",
@@ -52,5 +52,10 @@
   "source": "original",
   "average_episode_duration": 3276,
   "rating": "r",
-  "studios": []
+  "studios": [
+    {
+      "id": 1958,
+      "name": "YHKT Entertainment"
+    }
+  ]
 }

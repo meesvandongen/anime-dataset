@@ -1,0 +1,57 @@
+{
+  "id": 63352,
+  "title": "Onegai AiPri",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1705/155680.webp",
+    "large": "https://myanimelist.net/images/anime/1705/155680l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "+Himitsu no AiPri 3rd Season"
+    ],
+    "en": "",
+    "ja": "おねがいアイプリ"
+  },
+  "start_date": "2026-04-05",
+  "synopsis": "The new anime's story centers on Konomi Inori, a first year middle school student who just moved to the town of Onegai. At the town's plaza, Konomi prayed to the goddess statue to give her a chance to be an AiPri. After she prayed, she accidentally meets the famous AiPri Aoi Yumemiya and a mysterious talking stuffed toy with her named Fortu. It turns out that Fortu is looking for an AiPri who can make their wish come true, and when Konomi opened the special mirror pact that Aoi handed her, she gets the AiPri debut that she prayed for. \n\n(Source: ANN)",
+  "popularity": 21742,
+  "num_list_users": 270,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-01-22T01:29:33+00:00",
+  "updated_at": "2026-02-27T11:19:21+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "09:30"
+  },
+  "source": "game",
+  "average_episode_duration": 0,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    },
+    {
+      "id": 1025,
+      "name": "Dongwoo A&E"
+    }
+  ]
+}

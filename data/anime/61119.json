@@ -2,8 +2,8 @@
   "id": 61119,
   "title": "Duel Masters LOST: Boukyaku no Taiyou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1547/154126.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1547/154126l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1547/154126.jpg",
+    "large": "https://myanimelist.net/images/anime/1547/154126l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,16 +11,17 @@
     "ja": "Duel Masters LOST ～忘却の太陽～"
   },
   "start_date": "2026-02-06",
+  "end_date": "2026-02-27",
   "synopsis": "Sequel to Duel Masters LOST: Gekka no Shinigami.",
-  "rank": 21429,
-  "popularity": 17307,
-  "num_list_users": 600,
-  "num_scoring_users": 19,
+  "rank": 21437,
+  "popularity": 17204,
+  "num_list_users": 611,
+  "num_scoring_users": 24,
   "nsfw": "white",
   "created_at": "2025-03-02T00:30:40+00:00",
   "updated_at": "2025-12-10T04:36:30+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,

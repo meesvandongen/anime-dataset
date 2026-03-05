@@ -2,22 +2,22 @@
   "id": 60310,
   "title": "Mairimashita! Iruma-kun 4th Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1434/154048.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1434/154048l.webp"
+    "medium": "https://myanimelist.net/images/anime/1434/154048.webp",
+    "large": "https://myanimelist.net/images/anime/1434/154048l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "Welcome to Demon School! Iruma-kun Season 4",
     "ja": "魔入りました！入間くん 第4シリーズ"
   },
-  "start_date": "2026-04",
+  "start_date": "2026-04-04",
   "synopsis": "Fourth season of Mairimashita! Iruma-kun.",
-  "popularity": 3862,
-  "num_list_users": 43370,
-  "num_scoring_users": 102,
+  "popularity": 3827,
+  "num_list_users": 43947,
+  "num_scoring_users": 112,
   "nsfw": "white",
   "created_at": "2024-11-17T12:25:41+00:00",
-  "updated_at": "2025-12-06T23:46:35+00:00",
+  "updated_at": "2026-03-03T14:14:21+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2026,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:15"
   },
   "source": "manga",
   "average_episode_duration": 0,

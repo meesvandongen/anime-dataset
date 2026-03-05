@@ -1,0 +1,52 @@
+{
+  "id": 63512,
+  "title": "Crayon Shin-chan Movie 34: Kikikaikai! Ora no Youkai Bake-shon",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1190/155540.jpg",
+    "large": "https://myanimelist.net/images/anime/1190/155540l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション"
+  },
+  "start_date": "2026-07-31",
+  "end_date": "2026-07-31",
+  "synopsis": "The 34th Crayon Shin-chan movie.",
+  "popularity": 22524,
+  "num_list_users": 227,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-02-20T09:45:19+00:00",
+  "updated_at": "2026-03-01T08:56:15+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
+}

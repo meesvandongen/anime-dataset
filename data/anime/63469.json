@@ -2,8 +2,8 @@
   "id": 63469,
   "title": "Hyakki Yakoushou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1813/155431.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1813/155431l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1813/155431.jpg",
+    "large": "https://myanimelist.net/images/anime/1813/155431l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,10 +16,10 @@
     "en": "",
     "ja": "百鬼夜行抄"
   },
-  "start_date": "2026-04",
+  "start_date": "2026-04-07",
   "synopsis": "Ritsu inherited his sixth sense from his grandfather, along with a demon guardian named Blue Storm. Strange things just seem to happen around these two, and it's left to them to get to the bottom of all these mysterious events. Each story is independent but features recurring characters you'll come to know and appreciate as they, each in their own way, try to deal with things 'not of this world'.\n\n(Source: MU)",
-  "popularity": 16715,
-  "num_list_users": 676,
+  "popularity": 15811,
+  "num_list_users": 836,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2026-02-12T19:31:23+00:00",
@@ -57,7 +57,20 @@
     "year": 2026,
     "season": "spring"
   },
+  "broadcast": {
+    "day_of_the_week": "tuesday",
+    "start_time": "21:55"
+  },
   "source": "manga",
   "average_episode_duration": 0,
-  "studios": []
+  "studios": [
+    {
+      "id": 2844,
+      "name": "Imagica Infos"
+    },
+    {
+      "id": 2983,
+      "name": "Imageworks Studio"
+    }
+  ]
 }
