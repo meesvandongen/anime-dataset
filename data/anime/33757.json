@@ -2,11 +2,14 @@
   "id": 33757,
   "title": "Shuang Yue Zhi Cheng",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/6/81272.webp",
-    "large": "https://myanimelist.net/images/anime/6/81272l.webp"
+    "medium": "https://myanimelist.net/images/anime/6/81272.jpg",
+    "large": "https://myanimelist.net/images/anime/6/81272l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "龙吟沧海",
+      "Long Yin Canghai"
+    ],
     "en": "Twin Moons",
     "ja": "双月之城"
   },
@@ -14,9 +17,9 @@
   "end_date": "2016-09-08",
   "synopsis": "In the year 2200, a new Cold War between two forces is set to end with a peace treaty. However, one side is hiding a dark secret, which results in numerous tragedies in the following months. In the wake of a crisis, a paramilitary team is founded to steal information at the center of the conflict.",
   "mean": 5.96,
-  "rank": 10721,
-  "popularity": 15672,
-  "num_list_users": 866,
+  "rank": 10729,
+  "popularity": 15673,
+  "num_list_users": 868,
   "num_scoring_users": 153,
   "nsfw": "white",
   "created_at": "2016-08-01T00:59:41+00:00",
@@ -40,6 +43,6 @@
   },
   "source": "original",
   "average_episode_duration": 900,
-  "rating": "pg_13",
+  "rating": "r",
   "studios": []
 }
