@@ -2,22 +2,22 @@
   "id": 63376,
   "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1871/155152.webp",
-    "large": "https://myanimelist.net/images/anime/1871/155152l.webp"
+    "medium": "https://myanimelist.net/images/anime/1871/156005.webp",
+    "large": "https://myanimelist.net/images/anime/1871/156005l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "女神「異世界転生何になりたいですか」俺「勇者の肋骨で」"
   },
-  "start_date": "2026-04",
+  "start_date": "2026-04-08",
   "synopsis": "The protagonist of the tale, simply referred to as \"I,\" experiences an endless cycle of reincarnation. The narrative takes place in a different universe where people are free to select their next form. However, the waiting list for popular roles, like \"Demon King\" or \"Hero with Cheat Skills and a Harem,\" has reached 50,000 years due to a recent spike in applications.\n\nThe protagonist decides to repeatedly reincarnate into increasingly strange forms because he refuses to wait. These roles include the rib of a hero in charge of a harem, a hermit crab, a vegetable, and even an explosive used to blow up blissfully happy couples.\n\n(Source: MAL News)",
-  "popularity": 12216,
-  "num_list_users": 2250,
-  "num_scoring_users": 0,
+  "popularity": 11667,
+  "num_list_users": 2628,
+  "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2026-01-27T13:57:49+00:00",
-  "updated_at": "2026-01-29T03:35:52+00:00",
+  "updated_at": "2026-03-10T13:35:28+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -38,6 +38,10 @@
   "start_season": {
     "year": 2026,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "01:59"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

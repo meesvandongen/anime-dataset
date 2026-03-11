@@ -1,0 +1,43 @@
+{
+  "id": 63629,
+  "title": "Yomosugara",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1236/155786.jpg",
+    "large": "https://myanimelist.net/images/anime/1236/155786l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "よもすがら"
+  },
+  "start_date": "2026-03-05",
+  "end_date": "2026-03-05",
+  "synopsis": "Music video for the song Yomosugara by ZUTOMAYO.",
+  "popularity": 29679,
+  "num_list_users": 49,
+  "num_scoring_users": 28,
+  "nsfw": "white",
+  "created_at": "2026-03-05T15:07:28+00:00",
+  "updated_at": "2026-03-05T15:07:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 219,
+  "rating": "pg_13",
+  "studios": []
+}

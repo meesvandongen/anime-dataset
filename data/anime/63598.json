@@ -12,10 +12,10 @@
   },
   "start_date": "2025-12-26",
   "synopsis": "Original specials of mini-anime by Nii Marco presented after the premiere of the main movies.",
-  "rank": 21801,
-  "popularity": 21167,
-  "num_list_users": 303,
-  "num_scoring_users": 17,
+  "rank": 16546,
+  "popularity": 17912,
+  "num_list_users": 539,
+  "num_scoring_users": 34,
   "nsfw": "white",
   "created_at": "2026-03-04T06:28:15+00:00",
   "updated_at": "2026-03-04T11:45:28+00:00",
@@ -43,5 +43,14 @@
   "source": "manga",
   "average_episode_duration": 312,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 60,
+      "name": "Actas"
+    },
+    {
+      "id": 132,
+      "name": "P.A. Works"
+    }
+  ]
 }

@@ -2,8 +2,8 @@
   "id": 61639,
   "title": "Da Tang Chengfeng Lu",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1015/149653.jpg",
-    "large": "https://myanimelist.net/images/anime/1015/149653l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1041/155782.webp",
+    "large": "https://myanimelist.net/images/anime/1041/155782l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,16 +14,17 @@
     "ja": "大唐乘风录"
   },
   "start_date": "2025-09-25",
-  "synopsis": "The notorious divinely-skilled Mu Tianhou was suddenly ambushed, causing a stir in the martial arts world. Two upright disciples, Zheng Dongting and Zu Beiqiu (the useless brothers), met each other because of this. In order to help their younger brother Zu Beiqiu find his wife whom he had not seen for ten years, and also to find the real murderer who killed their master, a famous constable and a rich second-generation accidentally teamed up to venture into the world and embarked on an adventurous journey of delivering a divorce letter for thousands of miles. \n\nThe two came to the Luo family in Yangzhou, but encountered the Luo family's massacre and were mistaken for the murderer. They were called \"the two evildoers of Central Plains.\" Between the two of them, Zheng Dongting has martial arts that he cannot use, while Zu Beiqiu has martial arts that he doesn't know how to use. Although the brothers intend to clear their names, the misunderstandings of the various factions in the martial arts world continue to deepen, and the righteous martial arts people rise up to attack them. After experiencing manny dangerous situations, the two discovered that this was a big conspiracy against them...\n\n(Source: iQIYI, Google translated)",
-  "rank": 21102,
-  "popularity": 20712,
-  "num_list_users": 327,
-  "num_scoring_users": 51,
+  "end_date": "2026-03-05",
+  "synopsis": "The notorious divinely-skilled Mu Tianhou was suddenly ambushed, causing a stir in the martial arts world. Two upright disciples, Zheng Dongting and Zu Beiqiu (the useless brothers), met each other because of this. In order to help their younger brother Zu Beiqiu find his wife whom he had not seen for ten years, and also to find the real murderer who killed their master, a famous constable and a rich second-generation accidentally teamed up to venture into the world and embarked on an adventurous journey of delivering a divorce letter for thousands of miles. \n\nThe two came to the Luo family in Yangzhou, but encountered the Luo family's massacre and were mistaken for the murderer. They were called \"the two evildoers of Central Plains.\" Between the two of them, Zheng Dongting has martial arts that he cannot use, while Zu Beiqiu has martial arts that he doesn't know how to use. Although the brothers intend to clear their names, the misunderstandings of the various factions in the martial arts world continue to deepen, and the righteous martial arts people rise up to attack them. After experiencing manny dangerous situations, the two discovered that this was a big conspiracy against them...\n\n(Source: iQIYI, translated)",
+  "rank": 15847,
+  "popularity": 20519,
+  "num_list_users": 339,
+  "num_scoring_users": 62,
   "nsfw": "white",
   "created_at": "2025-05-05T20:56:47+00:00",
-  "updated_at": "2025-12-07T21:01:19+00:00",
+  "updated_at": "2026-03-05T12:30:51+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -36,6 +37,14 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
     }
   ],
   "num_episodes": 26,
@@ -43,8 +52,13 @@
     "year": 2025,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 1200,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3133,
+      "name": "Bu Keneng de Shijie"
+    }
+  ]
 }

@@ -10,14 +10,14 @@
     "en": "Kill Blue",
     "ja": "キルアオ"
   },
-  "start_date": "2026-04",
+  "start_date": "2026-04-11",
   "synopsis": "Juuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!\n\nBefore he can even process what happened, his boss delivers a new order: \"In that body, infiltrate a middle school.\" What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?\n\n(Source: Official site)",
-  "popularity": 9446,
-  "num_list_users": 5005,
-  "num_scoring_users": 0,
+  "popularity": 9096,
+  "num_list_users": 5579,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2025-08-31T15:06:43+00:00",
-  "updated_at": "2025-12-21T04:32:54+00:00",
+  "updated_at": "2026-03-05T15:39:36+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -42,6 +42,10 @@
   "start_season": {
     "year": 2026,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "23:00"
   },
   "source": "manga",
   "average_episode_duration": 0,

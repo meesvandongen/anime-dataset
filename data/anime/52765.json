@@ -6,23 +6,21 @@
     "large": "https://myanimelist.net/images/anime/1937/127040l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [
-      "Ten Thousand Worlds 2nd Season"
-    ],
-    "en": "Ten Thousand Worlds",
-    "ja": "万界独尊"
+    "synonyms": [],
+    "en": "Ten Thousand Worlds 2nd Season",
+    "ja": "万界独尊 第二季"
   },
   "start_date": "2022-08-16",
   "end_date": "2024-10-01",
-  "synopsis": "The second season of Wan Jie Du Zun.",
+  "synopsis": "Second season of Wan Jie Du Zun.",
   "mean": 7.34,
-  "rank": 2808,
-  "popularity": 11450,
-  "num_list_users": 2768,
+  "rank": 2821,
+  "popularity": 11459,
+  "num_list_users": 2772,
   "num_scoring_users": 695,
   "nsfw": "white",
   "created_at": "2022-08-16T11:18:37+00:00",
-  "updated_at": "2024-10-01T15:16:48+00:00",
+  "updated_at": "2026-03-08T16:58:46+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -52,7 +50,7 @@
     "year": 2022,
     "season": "summer"
   },
-  "source": "novel",
+  "source": "web_novel",
   "average_episode_duration": 540,
   "rating": "pg_13",
   "studios": [

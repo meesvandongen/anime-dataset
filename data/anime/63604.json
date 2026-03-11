@@ -1,0 +1,44 @@
+{
+  "id": 63604,
+  "title": "Me-Ai-La-Sun-Chu",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1127/155763.jpg",
+    "large": "https://myanimelist.net/images/anime/1127/155763l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "me・愛・ラ・sun・虫"
+  },
+  "start_date": "2026-01-20",
+  "end_date": "2026-01-20",
+  "synopsis": "Music video for the song Me-Ai-La-Sun-Chu by Technopop Yuuki Synthesizer-chan.",
+  "popularity": 29742,
+  "num_list_users": 36,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2026-03-04T15:42:27+00:00",
+  "updated_at": "2026-03-05T08:24:03+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 172,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2950,
+      "name": "studio ALBLE"
+    }
+  ]
+}
