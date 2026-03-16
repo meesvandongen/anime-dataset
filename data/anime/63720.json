@@ -1,0 +1,54 @@
+{
+  "id": 63720,
+  "title": "Byeolnala: Super Zuri",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1014/156051.jpg",
+    "large": "https://myanimelist.net/images/anime/1014/156051l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baby Zuri: The Galactic Quest",
+      "Super Zzuri"
+    ],
+    "en": "Super Zuri",
+    "ja": "별나라 수퍼쭈리"
+  },
+  "start_date": "2004-10-20",
+  "end_date": "2005-06-01",
+  "synopsis": "",
+  "rank": 15479,
+  "popularity": 29798,
+  "num_list_users": 20,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2026-03-12T10:55:58+00:00",
+  "updated_at": "2026-03-12T16:09:55+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2004,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday"
+  },
+  "source": "original",
+  "average_episode_duration": 1415,
+  "rating": "pg",
+  "studios": []
+}

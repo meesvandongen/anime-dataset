@@ -17,13 +17,13 @@
   "end_date": "2001-08-02",
   "synopsis": "Preparing a party for her anniversary with the King, when he failed to show up Chocola decided to run away from the castle.",
   "mean": 5.46,
-  "rank": 13065,
-  "popularity": 11096,
-  "num_list_users": 3071,
-  "num_scoring_users": 1534,
+  "rank": 13119,
+  "popularity": 11108,
+  "num_list_users": 3072,
+  "num_scoring_users": 1535,
   "nsfw": "white",
   "created_at": "2006-10-27T02:36:22+00:00",
-  "updated_at": "2020-11-30T22:35:01+00:00",
+  "updated_at": "2026-03-15T23:36:14+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -34,6 +34,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
     }
   ],
   "num_episodes": 1,
