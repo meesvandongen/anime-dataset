@@ -2,8 +2,8 @@
   "id": 61831,
   "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1722/154560.webp",
-    "large": "https://myanimelist.net/images/anime/1722/154560l.webp"
+    "medium": "https://myanimelist.net/images/anime/1738/156028.jpg",
+    "large": "https://myanimelist.net/images/anime/1738/156028l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,11 +12,11 @@
     "en": "The Beginning After the End Season 2",
     "ja": "最強の王様、二度目の人生は何をする? Season2"
   },
-  "start_date": "2026-04",
+  "start_date": "2026-04-01",
   "synopsis": "Second season of Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?.",
-  "popularity": 4520,
-  "num_list_users": 31330,
-  "num_scoring_users": 2,
+  "popularity": 4450,
+  "num_list_users": 32396,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-06-11T16:50:21+00:00",
   "updated_at": "2025-10-11T19:17:17+00:00",
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2026,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "wednesday",
+    "start_time": "23:30"
   },
   "source": "other",
   "average_episode_duration": 0,

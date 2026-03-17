@@ -12,14 +12,15 @@
   },
   "start_date": "2026-03-13",
   "synopsis": "When disaster strikes, how can we sincerely awaken the phoenix?\n\n(Source: Douban, translated)",
-  "popularity": 29690,
-  "num_list_users": 46,
-  "num_scoring_users": 0,
+  "rank": 15522,
+  "popularity": 25938,
+  "num_list_users": 124,
+  "num_scoring_users": 15,
   "nsfw": "white",
   "created_at": "2026-03-03T22:35:18+00:00",
   "updated_at": "2026-03-07T02:42:50+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -48,7 +49,7 @@
     "season": "winter"
   },
   "source": "web_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1320,
   "rating": "pg_13",
   "studios": [
     {

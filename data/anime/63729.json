@@ -1,0 +1,43 @@
+{
+  "id": 63729,
+  "title": "Oh!!",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1074/156077.jpg",
+    "large": "https://myanimelist.net/images/anime/1074/156077l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "OH!!"
+  },
+  "start_date": "2026-03-13",
+  "end_date": "2026-03-13",
+  "synopsis": "Music video for the song Oh!! by Haruno.",
+  "popularity": 26081,
+  "num_list_users": 122,
+  "num_scoring_users": 51,
+  "nsfw": "white",
+  "created_at": "2026-03-13T11:20:13+00:00",
+  "updated_at": "2026-03-13T11:58:36+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 165,
+  "rating": "pg_13",
+  "studios": []
+}

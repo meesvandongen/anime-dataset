@@ -2,8 +2,8 @@
   "id": 61830,
   "title": "Yoroi Shin Den Samurai Troopers",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1289/153952.webp",
-    "large": "https://myanimelist.net/images/anime/1289/153952l.webp"
+    "medium": "https://myanimelist.net/images/anime/1289/153952.jpg",
+    "large": "https://myanimelist.net/images/anime/1289/153952l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,28 +13,32 @@
   "start_date": "2026-01-06",
   "end_date": "2026-03-24",
   "synopsis": "Sequel to Yoroiden Samurai Troopers.",
-  "mean": 6.31,
-  "rank": 8716,
-  "popularity": 8580,
-  "num_list_users": 6440,
-  "num_scoring_users": 1026,
+  "mean": 6.3,
+  "rank": 8919,
+  "popularity": 8533,
+  "num_list_users": 6554,
+  "num_scoring_users": 1061,
   "nsfw": "white",
   "created_at": "2025-06-11T16:40:36+00:00",
-  "updated_at": "2026-01-06T20:39:40+00:00",
+  "updated_at": "2026-03-13T00:43:20+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {
-      "id": 2,
-      "name": "Adventure"
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
     },
     {
       "id": 21,
       "name": "Samurai"
     },
     {
-      "id": 24,
-      "name": "Sci-Fi"
+      "id": 82,
+      "name": "Urban Fantasy"
     }
   ],
   "num_episodes": 12,
