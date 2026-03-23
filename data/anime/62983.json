@@ -12,18 +12,22 @@
   },
   "start_date": "2026-04-06",
   "synopsis": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\n\n(Source: Coolmic)",
-  "popularity": 9295,
-  "num_list_users": 5274,
-  "num_scoring_users": 75,
+  "popularity": 8235,
+  "num_list_users": 7152,
+  "num_scoring_users": 115,
   "nsfw": "gray",
   "created_at": "2025-11-20T14:17:39+00:00",
-  "updated_at": "2026-02-18T04:03:32+00:00",
+  "updated_at": "2026-03-17T17:12:33+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 9,
+      "name": "Ecchi"
     },
     {
       "id": 22,
@@ -40,7 +44,8 @@
     "start_time": "01:00"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 358,
+  "rating": "r+",
   "studios": [
     {
       "id": 3078,

@@ -1,0 +1,62 @@
+{
+  "id": 54344,
+  "title": "Mahou Shoujo Ikusei Keikaku: Restart",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1711/152746.jpg",
+    "large": "https://myanimelist.net/images/anime/1711/152746l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "魔法少女育成計画 restart"
+  },
+  "start_date": "2026-10",
+  "synopsis": "The deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)",
+  "popularity": 8916,
+  "num_list_users": 5928,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2023-01-30T00:08:35+00:00",
+  "updated_at": "2026-03-02T12:45:23+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 58,
+      "name": "Gore"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 118,
+      "name": "SynergySP"
+    }
+  ]
+}

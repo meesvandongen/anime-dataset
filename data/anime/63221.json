@@ -1,0 +1,52 @@
+{
+  "id": 63221,
+  "title": "Norman the Snowman: Kodomo-tachi no Hitotsuboshi",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1505/154780.jpg",
+    "large": "https://myanimelist.net/images/anime/1505/154780l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ノーマン・ザ・スノーマン ~こどもたちのひとつ星~"
+  },
+  "start_date": "2026-12",
+  "end_date": "2026-12",
+  "synopsis": "The boy has grown into a young man, living apart from his mother. Although he returned to his hometown, he is unable to be honest with her. After reuniting with Norman, a mysterious child searching for \"snow flowers\" suddenly appears before them. Norman and the young man venture into the snow-covered forest with the child.\n\n(Source: Official site, translated)",
+  "popularity": 29497,
+  "num_list_users": 70,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-01-01T16:55:25+00:00",
+  "updated_at": "2026-01-02T09:13:54+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2178,
+      "name": "Tecarat"
+    }
+  ]
+}
