@@ -17,9 +17,9 @@
   "end_date": "1992-09-22",
   "synopsis": "An adaptation of the first series, with different characters and an alternate setting.",
   "mean": 6.48,
-  "rank": 7826,
-  "popularity": 16484,
-  "num_list_users": 719,
+  "rank": 7886,
+  "popularity": 16524,
+  "num_list_users": 717,
   "num_scoring_users": 155,
   "nsfw": "white",
   "created_at": "2010-08-18T14:31:59+00:00",
@@ -46,6 +46,7 @@
     "season": "fall"
   },
   "average_episode_duration": 1465,
+  "rating": "g",
   "studios": [
     {
       "id": 65,
