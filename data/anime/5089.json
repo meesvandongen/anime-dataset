@@ -10,17 +10,17 @@
     "en": "",
     "ja": "のらみみ2"
   },
-  "start_date": "2008-10-01",
-  "end_date": "2008-12-17",
+  "start_date": "2008-10-02",
+  "end_date": "2008-12-18",
   "synopsis": "Sequel to Noramimi.",
   "mean": 6.08,
-  "rank": 10279,
-  "popularity": 17380,
-  "num_list_users": 599,
+  "rank": 10318,
+  "popularity": 17407,
+  "num_list_users": 598,
   "num_scoring_users": 116,
   "nsfw": "white",
   "created_at": "2008-08-17T11:19:34+00:00",
-  "updated_at": "2008-12-14T21:13:17+00:00",
+  "updated_at": "2026-03-24T03:22:25+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 13,
@@ -38,7 +42,12 @@
     "year": 2008,
     "season": "fall"
   },
+  "broadcast": {
+    "day_of_the_week": "thursday",
+    "start_time": "01:29"
+  },
   "source": "manga",
   "average_episode_duration": 1220,
+  "rating": "g",
   "studios": []
 }
