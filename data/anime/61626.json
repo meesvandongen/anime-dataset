@@ -2,24 +2,25 @@
   "id": 61626,
   "title": "Sou Shen Ji (ONA)",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1810/149956.jpg",
-    "large": "https://myanimelist.net/images/anime/1810/149956l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1433/156264.jpg",
+    "large": "https://myanimelist.net/images/anime/1433/156264l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "In Search of Gods",
     "ja": "搜神记"
   },
   "start_date": "2026-03-25",
   "synopsis": "The story takes place in the barbaric era of Yan Emperor and Huang Emperor. Just when many heroes were vying for supremacy in the Central Plains, the world-recognized leader, Emperor Shennong, passed away, and the heroes of the gold, wood, water, fire, and earth tribes were all ready to make a move. \n\nIn the turbulent times, the young boy Tuoba Ye suddenly appeared and by chance obtained the dying inheritance of Emperor Shennong, thus starting a thrilling legendary journey.\n\n(Source: iQIYI, translated)",
-  "popularity": 23722,
-  "num_list_users": 182,
-  "num_scoring_users": 0,
+  "rank": 20559,
+  "popularity": 21070,
+  "num_list_users": 315,
+  "num_scoring_users": 29,
   "nsfw": "white",
   "created_at": "2025-05-02T08:57:10+00:00",
-  "updated_at": "2026-03-18T01:30:23+00:00",
+  "updated_at": "2026-03-25T03:36:40+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -42,13 +43,14 @@
       "name": "Martial Arts"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 24,
   "start_season": {
     "year": 2026,
     "season": "winter"
   },
   "source": "web_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1808,

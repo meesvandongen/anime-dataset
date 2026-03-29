@@ -1,0 +1,59 @@
+{
+  "id": 63367,
+  "title": "Dragon Ball Super: Beerus",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1015/155108.jpg",
+    "large": "https://myanimelist.net/images/anime/1015/155108l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dragon Ball Super: Beerus",
+    "ja": "ドラゴンボール超 ビルス"
+  },
+  "start_date": "2026-10",
+  "synopsis": "Dragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)",
+  "popularity": 6199,
+  "num_list_users": 14462,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2026-01-25T09:22:20+00:00",
+  "updated_at": "2026-02-07T19:50:23+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

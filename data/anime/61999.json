@@ -1,0 +1,54 @@
+{
+  "id": 61999,
+  "title": "Shuiro no Kamen",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1249/156304.webp",
+    "large": "https://myanimelist.net/images/anime/1249/156304l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Vermilion Mask",
+    "ja": "朱色の仮面"
+  },
+  "start_date": "2026-10",
+  "synopsis": "The mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Pelle, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)",
+  "popularity": 12059,
+  "num_list_users": 2386,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-07-05T18:17:48+00:00",
+  "updated_at": "2026-03-26T23:21:55+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "17:30"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2696,
+      "name": "100studio"
+    }
+  ]
+}
