@@ -1,0 +1,59 @@
+{
+  "id": 63832,
+  "title": "Seihantai na Kimi to Boku 2nd Season",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1053/156367.jpg",
+    "large": "https://myanimelist.net/images/anime/1053/156367l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "You and I Are Polar Opposites Season 2",
+    "ja": "正反対な君と僕 第2期"
+  },
+  "start_date": "2026-07-05",
+  "synopsis": "Second season of Seihantai na Kimi to Boku.",
+  "popularity": 5512,
+  "num_list_users": 19802,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2026-03-29T03:48:48+00:00",
+  "updated_at": "2026-03-29T04:42:54+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "17:00"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1828,
+      "name": "Lapin Track"
+    }
+  ]
+}

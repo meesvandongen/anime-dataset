@@ -7,19 +7,21 @@
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "Kirio Fanclub",
+    "en": "Kirio Fan Club",
     "ja": "霧尾ファンクラブ"
   },
   "start_date": "2026-04-03",
   "synopsis": "Miyoshi Aimi and Nami Sometani are two high school girls who often find themselves talking about a boy in their class, Kirio. This lighthearted romantic comedy follows the daily lives of these two friends and rivals on a journey that, for now, seems to be heading everywhere but love.\n\n(Source: Comic Ruelle, translated)\n",
-  "popularity": 8770,
-  "num_list_users": 6169,
-  "num_scoring_users": 2,
+  "mean": 6.23,
+  "rank": 9277,
+  "popularity": 7707,
+  "num_list_users": 8607,
+  "num_scoring_users": 516,
   "nsfw": "white",
   "created_at": "2024-09-15T13:32:20+00:00",
-  "updated_at": "2026-03-24T21:57:34+00:00",
+  "updated_at": "2026-04-03T23:06:53+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -30,7 +32,7 @@
       "name": "School"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2026,
     "season": "spring"
@@ -40,7 +42,7 @@
     "start_time": "00:26"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
   "studios": [
     {
       "id": 41,

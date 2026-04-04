@@ -1,0 +1,47 @@
+{
+  "id": 56406,
+  "title": "Cho",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1550/137992.jpg",
+    "large": "https://myanimelist.net/images/anime/1550/137992l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "CHO"
+  },
+  "start_date": "2023-05-09",
+  "end_date": "2023-05-09",
+  "synopsis": "Music video for the song Cho by Feverse.",
+  "popularity": 29886,
+  "num_list_users": 24,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2023-08-23T02:14:00+00:00",
+  "updated_at": "2026-03-30T08:06:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 211,
+  "rating": "g",
+  "studios": []
+}

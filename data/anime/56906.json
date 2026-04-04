@@ -2,8 +2,8 @@
   "id": 56906,
   "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special)",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1150/155201.jpg",
-    "large": "https://myanimelist.net/images/anime/1150/155201l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1150/155201.webp",
+    "large": "https://myanimelist.net/images/anime/1150/155201l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,16 @@
   "start_date": "2026-03-31",
   "end_date": "2026-03-31",
   "synopsis": "TV Special for Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta.",
-  "popularity": 4314,
-  "num_list_users": 35118,
-  "num_scoring_users": 8,
+  "mean": 6.69,
+  "rank": 6632,
+  "popularity": 3990,
+  "num_list_users": 41342,
+  "num_scoring_users": 6022,
   "nsfw": "white",
   "created_at": "2023-10-14T08:37:17+00:00",
-  "updated_at": "2026-03-28T07:15:14+00:00",
+  "updated_at": "2026-03-31T01:50:14+00:00",
   "media_type": "tv_special",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -51,7 +53,7 @@
     "season": "winter"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 2844,
   "rating": "pg_13",
   "studios": [
     {

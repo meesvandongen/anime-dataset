@@ -1,0 +1,56 @@
+{
+  "id": 63324,
+  "title": "Iwamoto-senpai no Suisen",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1763/155033.jpg",
+    "large": "https://myanimelist.net/images/anime/1763/155033l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Recommendation from Mr. Iwamoto"
+    ],
+    "en": "",
+    "ja": "岩元先輩ノ推薦"
+  },
+  "start_date": "2026-07",
+  "synopsis": "The 1910s. Iwamoto Kodo, a student at Suho Junior High School under direct command of the army, is investigating paranormal phenomena across the country as per military instruction. In a village rumoured to have \"black snow,\" he meets a boy with special powers who believes them to be an illness; through Iwamoto's support, he realises they might have something in common and receives a recommendation to the school. Mysteries await Iwamoto at each place he visits–a romantic tale of this era begins to unravel!\n\n(Source: MAL News)",
+  "popularity": 14200,
+  "num_list_users": 1297,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-01-17T04:34:38+00:00",
+  "updated_at": "2026-03-29T08:13:24+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
+}

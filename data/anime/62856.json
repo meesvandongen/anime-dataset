@@ -2,8 +2,8 @@
   "id": 62856,
   "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1749/155150.webp",
-    "large": "https://myanimelist.net/images/anime/1749/155150l.webp"
+    "medium": "https://myanimelist.net/images/anime/1248/156374.jpg",
+    "large": "https://myanimelist.net/images/anime/1248/156374l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "Sparks of Tomorrow",
     "ja": "二十世紀電氣目録-ユーレカ・エヴリカ-"
   },
-  "start_date": "2026-07",
+  "start_date": "2026-07-05",
   "synopsis": "In an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.\n\nA boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.\n\nTogether, they must confront their pasts and carve a path toward the future they once believed in.\n\n(Source: Press Release)",
-  "popularity": 5551,
-  "num_list_users": 19393,
-  "num_scoring_users": 1,
+  "popularity": 5317,
+  "num_list_users": 21857,
+  "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2025-10-25T05:31:41+00:00",
-  "updated_at": "2026-01-28T22:51:47+00:00",
+  "updated_at": "2026-03-29T05:43:44+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -36,6 +36,10 @@
   "start_season": {
     "year": 2026,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,
