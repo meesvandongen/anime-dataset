@@ -12,22 +12,20 @@
   },
   "start_date": "2026-04-05",
   "synopsis": "Deep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n\n(Source: Yen Press)",
-  "popularity": 7416,
-  "num_list_users": 9411,
-  "num_scoring_users": 3,
+  "mean": 7.41,
+  "rank": 2562,
+  "popularity": 5960,
+  "num_list_users": 16208,
+  "num_scoring_users": 1553,
   "nsfw": "white",
   "created_at": "2025-07-14T09:06:18+00:00",
-  "updated_at": "2026-04-03T21:33:21+00:00",
+  "updated_at": "2026-04-05T11:35:03+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
       "name": "Adult Cast"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 63,
@@ -40,6 +38,10 @@
     {
       "id": 36,
       "name": "Slice of Life"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 12,
@@ -52,7 +54,8 @@
     "start_time": "01:30"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 3230,

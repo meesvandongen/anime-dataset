@@ -6,21 +6,23 @@
     "large": "https://myanimelist.net/images/anime/1882/149576l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "The Dragon Prince"
+    ],
     "en": "Dragon Prince Yuan",
     "ja": "元尊"
   },
   "start_date": "2024-05-30",
   "end_date": "2024-08-29",
-  "synopsis": "A young man with his brush plunges into a chaotic world and lights up the heavens. In a world where cultivators are paramount, will the vermilion bird swallow the dragon, or will the dragon transcend beyond all else?!\n\n(Source: Wutopia)",
+  "synopsis": "This story is set in the majestic Tianyuan Realm, where elemental energy can move everything in the world including control Yin and Yang. In the Zhou Dynasty, young Zhou Yuan is robbed of his \"Holy Dragon Fortune\" by an enemy nation using the \"Python Sparrow Swallows Dragon\" technique, leaving him plagued by toxic energy for over a decade. \n\nUpon entering his ancestral land, he meets the mysterious Yao Yao, who helps him break free from his power constraints. With newfound strength, Zhou Yuan bravely saves his family and country. Armed with the Primordial Qi that can devour the sun, moon, and stars, Zhou Yuan, once an overlooked boy, embarks on a journey to reverse his fate and achieve a life-changing rebirth.\n\n(Source: WeTV)",
   "mean": 7.51,
-  "rank": 2123,
-  "popularity": 11418,
-  "num_list_users": 2860,
-  "num_scoring_users": 700,
+  "rank": 2148,
+  "popularity": 11417,
+  "num_list_users": 2871,
+  "num_scoring_users": 703,
   "nsfw": "white",
   "created_at": "2021-10-11T10:40:03+00:00",
-  "updated_at": "2025-11-27T02:32:32+00:00",
+  "updated_at": "2026-04-05T22:32:27+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -35,6 +37,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,

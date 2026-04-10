@@ -1,0 +1,56 @@
+{
+  "id": 63903,
+  "title": "Meitantei Precure! Movie",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1312/156598.jpg",
+    "large": "https://myanimelist.net/images/anime/1312/156598l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "映画 名探偵プリキュア！"
+  },
+  "start_date": "2026-09-18",
+  "end_date": "2026-09-18",
+  "synopsis": "",
+  "popularity": 18482,
+  "num_list_users": 503,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-04-05T02:42:09+00:00",
+  "updated_at": "2026-04-05T04:30:04+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 39,
+      "name": "Detective"
+    },
+    {
+      "id": 66,
+      "name": "Mahou Shoujo"
+    },
+    {
+      "id": 7,
+      "name": "Mystery"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}

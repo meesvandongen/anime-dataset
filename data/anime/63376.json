@@ -12,15 +12,21 @@
   },
   "start_date": "2026-04-08",
   "synopsis": "The protagonist of the tale, simply referred to as \"I,\" experiences an endless cycle of reincarnation. The narrative takes place in a different universe where people are free to select their next form. However, the waiting list for popular roles, like \"Demon King\" or \"Hero with Cheat Skills and a Harem,\" has reached 50,000 years due to a recent spike in applications.\n\nThe protagonist decides to repeatedly reincarnate into increasingly strange forms because he refuses to wait. These roles include the rib of a hero in charge of a harem, a hermit crab, a vegetable, and even an explosive used to blow up blissfully happy couples.\n\n(Source: MAL News)",
-  "popularity": 8485,
-  "num_list_users": 6754,
-  "num_scoring_users": 2,
+  "mean": 6.18,
+  "rank": 9859,
+  "popularity": 6763,
+  "num_list_users": 11858,
+  "num_scoring_users": 1169,
   "nsfw": "white",
   "created_at": "2026-01-27T13:57:49+00:00",
-  "updated_at": "2026-04-01T20:20:50+00:00",
+  "updated_at": "2026-04-09T23:11:54+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
     {
       "id": 10,
       "name": "Fantasy"
@@ -28,6 +34,10 @@
     {
       "id": 62,
       "name": "Isekai"
+    },
+    {
+      "id": 20,
+      "name": "Parody"
     },
     {
       "id": 72,
@@ -44,7 +54,8 @@
     "start_time": "01:59"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1370,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 2288,

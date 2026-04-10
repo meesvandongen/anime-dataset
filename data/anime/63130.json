@@ -2,8 +2,8 @@
   "id": 63130,
   "title": "Boku no Hero Academia: More",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1451/154475.jpg",
-    "large": "https://myanimelist.net/images/anime/1451/154475l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1273/156615.webp",
+    "large": "https://myanimelist.net/images/anime/1273/156615l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,13 +11,14 @@
     "ja": "僕のヒーローアカデミア More"
   },
   "start_date": "2026-05-02",
+  "end_date": "2026-05-02",
   "synopsis": "TV Special adapting chapter 431 included in the final volume of the manga.",
-  "popularity": 4572,
-  "num_list_users": 31009,
-  "num_scoring_users": 3,
+  "popularity": 4518,
+  "num_list_users": 31852,
+  "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-12-20T03:07:57+00:00",
-  "updated_at": "2025-12-20T13:07:45+00:00",
+  "updated_at": "2026-04-06T04:30:18+00:00",
   "media_type": "tv_special",
   "status": "not_yet_aired",
   "genres": [
@@ -45,5 +46,6 @@
   },
   "source": "manga",
   "average_episode_duration": 0,
+  "rating": "pg_13",
   "studios": []
 }

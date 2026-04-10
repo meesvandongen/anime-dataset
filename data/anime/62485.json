@@ -14,14 +14,16 @@
   },
   "start_date": "2026-04-08",
   "synopsis": "Fifth season of Kanojo, Okarishimasu.",
-  "popularity": 4729,
-  "num_list_users": 28766,
-  "num_scoring_users": 16,
+  "mean": 6.15,
+  "rank": 10016,
+  "popularity": 4475,
+  "num_list_users": 32616,
+  "num_scoring_users": 1274,
   "nsfw": "white",
   "created_at": "2025-09-13T11:28:30+00:00",
-  "updated_at": "2026-03-28T02:51:42+00:00",
+  "updated_at": "2026-04-08T16:00:05+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
@@ -54,7 +56,7 @@
     "start_time": "01:53"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1467,
   "rating": "pg_13",
   "studios": [
     {
