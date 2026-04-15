@@ -10,17 +10,17 @@
     "en": "",
     "ja": "セイント・ビースト～聖獣降臨編～"
   },
-  "start_date": "2003-05-08",
+  "start_date": "2003-05-09",
   "end_date": "2003-06-13",
   "synopsis": "The seal which was imprisoning the fallen angels, Kirin no Yuda and Houou no Ruka, is broken and the two decide to get revenge on the God who had cast them to Hell by getting rid of the Heavens that had once been their home. Soon the guardian angels on Earth begin disappearing, and no one in Heaven can explain the happenings. But there is a sense of a vengeful animal spirit at work, and so the four Saint Beasts are called upon to investigate.\n\nThe 4 Gods of Beasts attempt to rescue the guardian angels, as well as to find out what this evil animal spirit is...\n\n(Source: Wikipedia)",
-  "mean": 6.07,
-  "rank": 10467,
-  "popularity": 7147,
-  "num_list_users": 10411,
-  "num_scoring_users": 3206,
+  "mean": 6.09,
+  "rank": 10402,
+  "popularity": 7151,
+  "num_list_users": 10415,
+  "num_scoring_users": 3207,
   "nsfw": "white",
   "created_at": "2006-06-01T19:09:46+00:00",
-  "updated_at": "2025-11-18T07:58:52+00:00",
+  "updated_at": "2026-04-13T13:07:54+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
   "start_season": {
     "year": 2003,
     "season": "spring"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:00"
   },
   "source": "mixed_media",
   "average_episode_duration": 1500,
