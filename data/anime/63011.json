@@ -2,23 +2,23 @@
   "id": 63011,
   "title": "Chiikawa Movie: Ningyo no Shima no Himitsu",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1110/153808.webp",
-    "large": "https://myanimelist.net/images/anime/1110/153808l.webp"
+    "medium": "https://myanimelist.net/images/anime/1110/153808.jpg",
+    "large": "https://myanimelist.net/images/anime/1110/153808l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "Chiikawa Movie: The Secret of the Mermaid Island",
     "ja": "映画ちいかわ 人魚の島のひみつ"
   },
   "start_date": "2026-07-24",
   "end_date": "2026-07-24",
   "synopsis": "Anime adaptation of the Siren arc.",
-  "popularity": 13391,
-  "num_list_users": 1619,
+  "popularity": 13335,
+  "num_list_users": 1644,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-11-24T15:44:17+00:00",
-  "updated_at": "2025-11-24T15:44:17+00:00",
+  "updated_at": "2026-04-12T02:22:39+00:00",
   "media_type": "movie",
   "status": "not_yet_aired",
   "genres": [
@@ -37,8 +37,8 @@
   "rating": "g",
   "studios": [
     {
-      "id": 1893,
-      "name": "CygamesPictures"
+      "id": 3286,
+      "name": "Cypic"
     }
   ]
 }

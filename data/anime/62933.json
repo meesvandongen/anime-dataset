@@ -12,14 +12,15 @@
   },
   "start_date": "2026-04-12",
   "synopsis": "",
-  "popularity": 23490,
-  "num_list_users": 193,
-  "num_scoring_users": 0,
+  "rank": 20411,
+  "popularity": 22728,
+  "num_list_users": 227,
+  "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": "2025-11-13T07:08:51+00:00",
   "updated_at": "2026-03-07T23:56:29+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -45,6 +46,7 @@
   },
   "source": "manga",
   "average_episode_duration": 0,
+  "rating": "g",
   "studios": [
     {
       "id": 276,

@@ -2,8 +2,8 @@
   "id": 63130,
   "title": "Boku no Hero Academia: More",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1273/156615.webp",
-    "large": "https://myanimelist.net/images/anime/1273/156615l.webp"
+    "medium": "https://myanimelist.net/images/anime/1273/156615.jpg",
+    "large": "https://myanimelist.net/images/anime/1273/156615l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,9 @@
   "start_date": "2026-05-02",
   "end_date": "2026-05-02",
   "synopsis": "TV Special adapting chapter 431 included in the final volume of the manga.",
-  "popularity": 4518,
-  "num_list_users": 31852,
-  "num_scoring_users": 0,
+  "popularity": 4495,
+  "num_list_users": 32380,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2025-12-20T03:07:57+00:00",
   "updated_at": "2026-04-06T04:30:18+00:00",
@@ -47,5 +47,10 @@
   "source": "manga",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3045,
+      "name": "Bones Film"
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "id": 63939,
+  "title": "The Bloody Mary",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1916/156705.jpg",
+    "large": "https://myanimelist.net/images/anime/1916/156705l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Bloody Mary",
+    "ja": "ブラッディ・メアリー"
+  },
+  "start_date": "2026-04-11",
+  "end_date": "2026-04-11",
+  "synopsis": "Betty, an occult-loving girl, and Seeka, a demon, pick up gigs to make some cash.\n\nThis time, they head into a mansion rumored to be haunted by Bloody Mary... but what’s actually waiting for them inside?\n\n(Source: Official YouTube)",
+  "rank": 20924,
+  "popularity": 22235,
+  "num_list_users": 256,
+  "num_scoring_users": 94,
+  "nsfw": "white",
+  "created_at": "2026-04-11T03:09:44+00:00",
+  "updated_at": "2026-04-11T14:43:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 960,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3314,
+      "name": "Studio Wrong"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "id": 60444,
   "title": "Yowayowa Sensei",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1364/155774.jpg",
-    "large": "https://myanimelist.net/images/anime/1364/155774l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1364/155774.webp",
+    "large": "https://myanimelist.net/images/anime/1364/155774l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,16 @@
   },
   "start_date": "2026-04-11",
   "synopsis": "When the new term starts, second-year student Abikura discovers that his homeroom teacher is none other than Hiyori Hiwamura, infamously known as \"Scary-Scary Sensei,\" a woman rumored to curse anyone who crosses her.\n\nBut one day, Abikura accidentally witnesses a completely unexpected side of his fearsome teacher after school. The striking contrast between her fearsome image and her hidden personality is utterly irresistible!\n\nBrace yourself for Gap Moe overload in this tender romantic comedy that's sure to ignite your protective instincts!\n\n(Source: MAL News)",
-  "popularity": 5437,
-  "num_list_users": 20741,
-  "num_scoring_users": 2,
+  "mean": 6.6,
+  "rank": 7406,
+  "popularity": 4895,
+  "num_list_users": 26852,
+  "num_scoring_users": 1697,
   "nsfw": "gray",
   "created_at": "2024-12-03T15:23:07+00:00",
-  "updated_at": "2026-03-06T02:15:17+00:00",
+  "updated_at": "2026-04-11T15:04:00+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -46,7 +48,7 @@
       "name": "Shounen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2026,
     "season": "spring"
@@ -56,7 +58,8 @@
     "start_time": "21:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "r+",
   "studios": [
     {
       "id": 112,
