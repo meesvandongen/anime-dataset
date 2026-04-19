@@ -15,9 +15,9 @@
   "start_date": "1971-02-15",
   "end_date": "1971-03-22",
   "synopsis": "A goofy comedy series with various stories featuring the same set of characters.\n\n(Source: AniDB)",
-  "rank": 15841,
-  "popularity": 17423,
-  "num_list_users": 605,
+  "rank": 15851,
+  "popularity": 17421,
+  "num_list_users": 607,
   "num_scoring_users": 112,
   "nsfw": "white",
   "created_at": "2013-02-11T15:27:42+00:00",
@@ -39,6 +39,7 @@
     "year": 1971,
     "season": "winter"
   },
+  "source": "manga",
   "average_episode_duration": 859,
   "rating": "g",
   "studios": []
