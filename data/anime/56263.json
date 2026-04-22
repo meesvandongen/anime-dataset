@@ -6,15 +6,17 @@
     "large": "https://myanimelist.net/images/anime/1428/155333l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Super Wings 4",
+    "synonyms": [
+      "Super Wings 4"
+    ],
+    "en": "Super Wings: Supercharge",
     "ja": "출동! 슈퍼윙스4"
   },
   "start_date": "2020-03-30",
   "end_date": "2020-06-24",
   "synopsis": "Fourth season of Chuldong! Super Wings.",
-  "rank": 15906,
-  "popularity": 23697,
+  "rank": 15914,
+  "popularity": 23719,
   "num_list_users": 187,
   "num_scoring_users": 49,
   "nsfw": "white",

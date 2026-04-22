@@ -6,15 +6,17 @@
     "large": "https://myanimelist.net/images/anime/1499/155331l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
-    "en": "Super Wings 5",
+    "synonyms": [
+      "Super Wings 5"
+    ],
+    "en": "Super Wings: Super Pets",
     "ja": "출동! 슈퍼윙스5"
   },
   "start_date": "2021-03-29",
   "end_date": "2021-08-04",
   "synopsis": "Fifth season of Chuldong! Super Wings.",
-  "rank": 15907,
-  "popularity": 23917,
+  "rank": 15915,
+  "popularity": 23932,
   "num_list_users": 180,
   "num_scoring_users": 47,
   "nsfw": "white",

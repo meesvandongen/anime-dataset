@@ -2,23 +2,24 @@
   "id": 60028,
   "title": "Himekishi wa Barbaroi no Yome",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1229/155022.jpg",
-    "large": "https://myanimelist.net/images/anime/1229/155022l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1229/155022.webp",
+    "large": "https://myanimelist.net/images/anime/1229/155022l.webp"
   },
   "alternative_titles": {
     "synonyms": [
+      "Himekishi wa Banzoku no Yome",
       "The Barbarian's Bride"
     ],
     "en": "The Warrior Princess and the Barbaric King",
     "ja": "姫騎士は蛮族の嫁"
   },
   "start_date": "2026-04-09",
-  "synopsis": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!\n\n(Source: Kodansha USA)",
-  "mean": 6.94,
-  "rank": 5239,
-  "popularity": 3428,
-  "num_list_users": 54355,
-  "num_scoring_users": 3413,
+  "synopsis": "\"Just kill me!\" These are the words of Serafina de Lavillant, the strongest female knight in the West. After being defeated in a war with the East, she has become a prisoner of the barbarians! What awaits the captive Serafina is a life of revenge, torture, and humiliation... or so she thought! What she is offered instead is a marriage to the barbarian king?! An intriguing tale of otherworldly marriage is about to begin!\n\n(Source: Kodansha)",
+  "mean": 6.95,
+  "rank": 5219,
+  "popularity": 3250,
+  "num_list_users": 59629,
+  "num_scoring_users": 4601,
   "nsfw": "white",
   "created_at": "2024-10-04T03:06:39+00:00",
   "updated_at": "2026-04-09T14:19:38+00:00",
@@ -53,6 +54,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 755,

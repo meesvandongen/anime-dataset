@@ -2,8 +2,8 @@
   "id": 56885,
   "title": "Sousou no Frieren: ●● no Mahou",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1045/150038.webp",
-    "large": "https://myanimelist.net/images/anime/1045/150038l.webp"
+    "medium": "https://myanimelist.net/images/anime/1045/150038.jpg",
+    "large": "https://myanimelist.net/images/anime/1045/150038l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -13,17 +13,18 @@
     "ja": "葬送のフリーレン ～●●の魔法～"
   },
   "start_date": "2023-10-11",
+  "end_date": "2026-03-16",
   "synopsis": "Frieren loves collecting peculiar spells, and her ever-growing arsenal of magic contains the perfect spells for many occasions. Whether it be by stealthily removing alcohol from Heiter's drinks or by remedying her own sleep issues, Frieren is sure to brighten her companions' days with her magic.\n\n[Written by MAL Rewrite]",
-  "mean": 7.39,
-  "rank": 2699,
-  "popularity": 5069,
-  "num_list_users": 24629,
-  "num_scoring_users": 9862,
+  "mean": 7.37,
+  "rank": 2799,
+  "popularity": 5070,
+  "num_list_users": 24677,
+  "num_scoring_users": 9873,
   "nsfw": "white",
   "created_at": "2023-10-11T09:18:38+00:00",
-  "updated_at": "2026-01-20T08:39:27+00:00",
+  "updated_at": "2026-04-21T07:13:15+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 4,
@@ -34,7 +35,7 @@
       "name": "Fantasy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 23,
   "start_season": {
     "year": 2023,
     "season": "fall"

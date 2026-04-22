@@ -16,16 +16,20 @@
   "end_date": "2020-12-19",
   "synopsis": "The year is 1989. After the nation of Hinomoto was destabilized during the past World War, the rise of new technologies has enabled its revitalization. Modern engineering has given birth to aircraft, gasoline engines, and geomagnetic technology—revolutionizing transportation. Railroads have been rendered nearly obsolete and replaced by more efficient modes of transit.\n\nHowever, a group of lively \"Raillords\" aims to renew the railroads' former glory. The Raillords, personified as energetic and spirited girls, act as humanoid control modules for their assigned railways. They meet in Ohitoyo City for the Raillord Summit, headed by Suzushiro, a Raillord from Manoka Railways. Together, the group capitalizes on its teamwork to get the railroads back on track, ushering in a \"new railroad age.\"\n\n[Written by MAL Rewrite]",
   "mean": 5.22,
-  "rank": 13943,
-  "popularity": 4506,
-  "num_list_users": 32217,
-  "num_scoring_users": 11705,
+  "rank": 13951,
+  "popularity": 4511,
+  "num_list_users": 32225,
+  "num_scoring_users": 11708,
   "nsfw": "white",
   "created_at": "2019-12-28T03:56:11+00:00",
-  "updated_at": "2023-09-15T23:29:31+00:00",
+  "updated_at": "2026-04-19T20:50:00+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
     {
       "id": 36,
       "name": "Slice of Life"

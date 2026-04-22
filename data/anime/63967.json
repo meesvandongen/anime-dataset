@@ -1,0 +1,51 @@
+{
+  "id": 63967,
+  "title": "Panlong",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1578/156842.jpg",
+    "large": "https://myanimelist.net/images/anime/1578/156842l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Coiling Dragon",
+    "ja": "盘龙"
+  },
+  "start_date": "2026-04-30",
+  "synopsis": "The continent of Yulan is a magical world teeming with wondrous creatures and dazzling magic. One day, Linley Baruch, a young nobleman from the impoverished town of Wushan, stepped into his dusty ancestral home and inadvertently obtained a seemingly ordinary ring—the Dragon Ring—thus changing his life forever. With the help of the Ringwraith Delin Corvort, Linley embarks on his legendary journey, and a great magician is born. The boy from the small town, through his relentless struggle and unyielding spirit, constantly strives for higher realms, step by step reaching the pinnacle of power through trials that teem with life and death.\n\n(Source: Tencent, translated)",
+  "popularity": 29134,
+  "num_list_users": 86,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-04-17T02:00:51+00:00",
+  "updated_at": "2026-04-17T02:09:10+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1808,
+      "name": "CG Year"
+    }
+  ]
+}

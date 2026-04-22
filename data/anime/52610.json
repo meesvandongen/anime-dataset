@@ -1,26 +1,27 @@
 {
   "id": 52610,
-  "title": "Asi Yu Xiao Liangdang",
+  "title": "A Si yu Xiao Lingdang",
   "main_picture": {
     "medium": "https://myanimelist.net/images/anime/1386/126571.jpg",
     "large": "https://myanimelist.net/images/anime/1386/126571l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Little Bell and Ami's Love Story"
+      "Little Bell and A Si's Love Story",
+      "Asi Yu Xiao Lingdang"
     ],
     "en": "",
     "ja": "阿巳与小铃铛"
   },
   "start_date": "2020-07-22",
-  "synopsis": "",
-  "rank": 15183,
-  "popularity": 20970,
-  "num_list_users": 322,
+  "synopsis": "The male protagonist, A Si, is a powerful demon whose true form is a snake. The female protagonist, Little Bell, is a human girl. After an argument, A Si and Little Bell go to a temple to seek guidance from their master. There, they meet the young monk Yi Chan and their master, and the three become friends. They spend their days bickering, playing, and having fun, telling a series of adorable and hilarious little stories.\n\n(Source: Tencent, translated)",
+  "rank": 15020,
+  "popularity": 20966,
+  "num_list_users": 323,
   "num_scoring_users": 40,
   "nsfw": "white",
   "created_at": "2022-08-05T06:04:43+00:00",
-  "updated_at": "2022-08-06T14:59:17+00:00",
+  "updated_at": "2026-04-18T23:26:12+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -45,5 +46,10 @@
   "source": "original",
   "average_episode_duration": 90,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3318,
+      "name": "Buzhi Dongman"
+    }
+  ]
 }
