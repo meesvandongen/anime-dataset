@@ -14,13 +14,13 @@
   "end_date": "1987-04-11",
   "synopsis": "Compilation movie of the third year of the Touch timeline. Contain many important plot differences, added scenes and the complete removal of an important character.\n\n(Source: AniDB)",
   "mean": 6.69,
-  "rank": 6863,
-  "popularity": 11696,
-  "num_list_users": 2678,
-  "num_scoring_users": 966,
+  "rank": 6889,
+  "popularity": 11694,
+  "num_list_users": 2683,
+  "num_scoring_users": 967,
   "nsfw": "white",
   "created_at": "2007-05-20T00:58:54+00:00",
-  "updated_at": "2013-05-10T17:40:28+00:00",
+  "updated_at": "2026-04-22T20:21:52+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     },
     {
       "id": 30,
@@ -46,6 +50,7 @@
     "year": 1987,
     "season": "spring"
   },
+  "source": "manga",
   "average_episode_duration": 4980,
   "rating": "pg_13",
   "studios": [

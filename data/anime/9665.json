@@ -2,8 +2,8 @@
   "id": 9665,
   "title": "Bucchigiri",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/10/62251.webp",
-    "large": "https://myanimelist.net/images/anime/10/62251l.webp"
+    "medium": "https://myanimelist.net/images/anime/10/62251.jpg",
+    "large": "https://myanimelist.net/images/anime/10/62251l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,20 +15,24 @@
   "start_date": "1989-10-27",
   "end_date": "1991-03-25",
   "synopsis": "To all his schoolmates, Jin comes across as a hot-headed class clown from typically barging in late and sleeping the whole way through to always responding to any situation with reckless stupidity. The fact that he used to be the charismatic leader of a legendary biker gang has turned into an urban legend; however, after starting a rivalry with the captain of the school baseball team, he and two former members, become their star players. But it's not long before his past catches up to him...\n\n(Source: ANN)",
-  "mean": 6.9,
-  "rank": 5476,
-  "popularity": 12518,
-  "num_list_users": 2130,
+  "mean": 6.92,
+  "rank": 5387,
+  "popularity": 12530,
+  "num_list_users": 2131,
   "num_scoring_users": 530,
   "nsfw": "white",
   "created_at": "2010-10-09T03:27:23+00:00",
-  "updated_at": "2021-06-23T06:37:38+00:00",
+  "updated_at": "2026-04-22T20:19:13+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 55,
       "name": "Delinquents"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     },
     {
       "id": 30,
@@ -44,6 +48,7 @@
     "year": 1989,
     "season": "fall"
   },
+  "source": "manga",
   "average_episode_duration": 3072,
   "rating": "r+",
   "studios": [

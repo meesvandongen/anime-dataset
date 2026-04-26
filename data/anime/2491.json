@@ -13,14 +13,14 @@
   "start_date": "1986-04-12",
   "end_date": "1986-04-12",
   "synopsis": "Compilation movie of the first year of Touch timeline. Contains plot differences, added scenes and an alternate ending.\n\n(Source: Crunchyroll)",
-  "mean": 6.72,
-  "rank": 6662,
+  "mean": 6.71,
+  "rank": 6766,
   "popularity": 11262,
-  "num_list_users": 3015,
-  "num_scoring_users": 1079,
+  "num_list_users": 3021,
+  "num_scoring_users": 1080,
   "nsfw": "white",
   "created_at": "2007-05-20T00:53:03+00:00",
-  "updated_at": "2022-02-06T22:29:05+00:00",
+  "updated_at": "2026-04-22T20:21:25+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 22,
       "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     },
     {
       "id": 30,
@@ -46,6 +50,7 @@
     "year": 1986,
     "season": "spring"
   },
+  "source": "manga",
   "average_episode_duration": 5580,
   "rating": "pg_13",
   "studios": [
