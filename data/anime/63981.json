@@ -1,0 +1,43 @@
+{
+  "id": 63981,
+  "title": "Sanrio Character to Utau: Tanoshii Douyou",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1083/156949.jpg",
+    "large": "https://myanimelist.net/images/anime/1083/156949l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "サンリオキャラクターとうたおう たのしいどうよう"
+  },
+  "start_date": "2008-07-23",
+  "end_date": "2008-07-23",
+  "synopsis": "",
+  "rank": 20055,
+  "popularity": 29942,
+  "num_list_users": 30,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2026-04-19T19:46:36+00:00",
+  "updated_at": "2026-04-21T07:47:07+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2008,
+    "season": "summer"
+  },
+  "average_episode_duration": 2475,
+  "rating": "pg",
+  "studios": []
+}
