@@ -2,31 +2,41 @@
   "id": 51385,
   "title": "Kaiju Yi Zuo Shan",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1285/122197.jpg",
-    "large": "https://myanimelist.net/images/anime/1285/122197l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1648/157004.jpg",
+    "large": "https://myanimelist.net/images/anime/1648/157004l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "It Starts with a Mountain"
+    ],
     "en": "",
     "ja": "开局一座山"
   },
   "start_date": "2022-04-15",
   "end_date": "2022-06-17",
-  "synopsis": "",
+  "synopsis": "He starts with a mountain stronghold and two members (a strategist and a groom), determined to build the strongest stronghold. He transmigrates to a chaotic world, owning a stronghold on the verge of collapse. Faced with this bloody and chaotic world, will he rob money, food, and women to become a carefree mountain king, or will he spill his blood, clash with the heroes of the world, and fight for a name that will resonate throughout history, asking: Are kings and generals born with a special destiny?\n\n(Source: Tencent, translated)",
   "mean": 6.77,
-  "rank": 6320,
-  "popularity": 16678,
-  "num_list_users": 706,
+  "rank": 6358,
+  "popularity": 16683,
+  "num_list_users": 708,
   "num_scoring_users": 190,
   "nsfw": "white",
   "created_at": "2022-03-25T03:03:55+00:00",
-  "updated_at": "2025-11-27T03:06:29+00:00",
+  "updated_at": "2026-04-23T15:33:57+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
     }
   ],
   "num_episodes": 12,
@@ -37,5 +47,14 @@
   "source": "web_novel",
   "average_episode_duration": 824,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2521,
+      "name": "Qiyuan Yinghua"
+    },
+    {
+      "id": 2756,
+      "name": "Equator"
+    }
+  ]
 }

@@ -2,8 +2,8 @@
   "id": 42141,
   "title": "Kanojo ga Yatsu ni Idakareta Hi",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1954/109495.jpg",
-    "large": "https://myanimelist.net/images/anime/1954/109495l.jpg"
+    "medium": "https://myanimelist.net/images/anime/1954/109495.webp",
+    "large": "https://myanimelist.net/images/anime/1954/109495l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,29 +11,30 @@
     "ja": "彼女がヤツに抱かれたヒ"
   },
   "start_date": "2020-08-28",
+  "end_date": "2024-12-27",
   "synopsis": "",
-  "mean": 6.26,
-  "popularity": 9047,
-  "num_list_users": 5800,
-  "num_scoring_users": 2105,
+  "mean": 6.25,
+  "popularity": 9048,
+  "num_list_users": 5807,
+  "num_scoring_users": 2114,
   "nsfw": "gray",
   "created_at": "2020-06-03T04:00:41+00:00",
-  "updated_at": "2024-09-30T15:33:54+00:00",
+  "updated_at": "2026-04-24T06:08:34+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 4,
   "start_season": {
     "year": 2020,
     "season": "summer"
   },
   "source": "original",
-  "average_episode_duration": 1543,
+  "average_episode_duration": 1583,
   "rating": "rx",
   "studios": [
     {
