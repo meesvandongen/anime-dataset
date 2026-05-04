@@ -12,8 +12,8 @@
   },
   "start_date": "2026-07",
   "synopsis": "",
-  "popularity": 27633,
-  "num_list_users": 103,
+  "popularity": 27198,
+  "num_list_users": 110,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2026-03-06T11:48:26+00:00",
@@ -41,5 +41,10 @@
   },
   "source": "original",
   "average_episode_duration": 300,
-  "studios": []
+  "studios": [
+    {
+      "id": 474,
+      "name": "Shogakukan Music & Digital Entertainment"
+    }
+  ]
 }

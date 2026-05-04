@@ -1,0 +1,39 @@
+{
+  "id": 64073,
+  "title": "Rave In My Ears",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1138/157137.jpg",
+    "large": "https://myanimelist.net/images/anime/1138/157137l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Rave In My Ears"
+  },
+  "start_date": "2024-08-13",
+  "end_date": "2024-08-13",
+  "synopsis": "Music video for the song Rave In My Ears by TPA.",
+  "popularity": 29964,
+  "num_list_users": 35,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2026-04-29T15:30:19+00:00",
+  "updated_at": "2026-04-29T15:30:19+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 132,
+  "rating": "pg_13",
+  "studios": []
+}

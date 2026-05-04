@@ -15,14 +15,16 @@
   },
   "start_date": "2026-04-30",
   "synopsis": "New anime for Iya na Kao sare nagara Opantsu Misete Moraitai.",
-  "popularity": 8645,
-  "num_list_users": 6483,
-  "num_scoring_users": 0,
+  "mean": 6.35,
+  "rank": 9126,
+  "popularity": 8212,
+  "num_list_users": 7392,
+  "num_scoring_users": 211,
   "nsfw": "gray",
   "created_at": "2025-08-02T06:24:18+00:00",
   "updated_at": "2026-04-17T12:10:29+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 9,
@@ -35,7 +37,7 @@
     "season": "spring"
   },
   "source": "other",
-  "average_episode_duration": 0,
+  "average_episode_duration": 270,
   "rating": "pg_13",
   "studios": [
     {
