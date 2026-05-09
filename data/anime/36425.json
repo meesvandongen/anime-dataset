@@ -1,40 +1,47 @@
 {
   "id": 36425,
-  "title": "Zhandou Wang Zhi Jufeng Zhan Hun 2",
+  "title": "Zhandou Wang: Jufeng Zhan Hun II",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/2/87893.webp",
-    "large": "https://myanimelist.net/images/anime/2/87893l.webp"
+    "medium": "https://myanimelist.net/images/anime/1338/157388.jpg",
+    "large": "https://myanimelist.net/images/anime/1338/157388l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "King of Warrior 2"
+      "King of Warrior 2",
+      "Zhandou Wang: Jufeng Zhan Hun 2nd Season",
+      "战斗王之飓风战魂 第二季",
+      "Infinity Nado 2nd Season"
     ],
     "en": "Infinity Nado 2",
-    "ja": "战斗王之飓风战魂2"
+    "ja": "战斗王之飓风战魂II"
   },
-  "start_date": "2013-10",
-  "end_date": "2014-02-24",
-  "synopsis": "",
+  "start_date": "2014-02-24",
+  "end_date": "2014-04-05",
+  "synopsis": "It tells the story of Ren Yan, who explores a ruin and encounters a boy named Pandora who is asleep within. Pandora and Ye Feng form a precious friendship. However, a group of people living in the ruins of seven Chinese civilizations want to use the immense power within Pandora to create a new, ideal world. Ye Feng and his friends decide to rise up in the forces of justice and fight the enemy to the end. At this moment, Pandora regains his memories and remembers that his mission was also to create a new world. He joins forces with the people of the seven civilizations to defeat Ye Feng and fulfill his mission. However, he deeply regrets his actions and ultimately uses the power of friendship to rebirth the Earth, filling it with hope once more.\n\n(Source: Douban, translated)",
   "mean": 6.18,
-  "rank": 10005,
-  "popularity": 15793,
+  "rank": 10042,
+  "popularity": 15802,
   "num_list_users": 876,
   "num_scoring_users": 342,
   "nsfw": "white",
   "created_at": "2017-09-24T12:49:55+00:00",
-  "updated_at": "2022-11-06T09:18:30+00:00",
+  "updated_at": "2026-05-08T20:23:57+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
     }
   ],
   "num_episodes": 40,
   "start_season": {
-    "year": 2013,
-    "season": "fall"
+    "year": 2014,
+    "season": "winter"
   },
   "source": "original",
   "average_episode_duration": 1440,
@@ -43,6 +50,10 @@
     {
       "id": 1939,
       "name": "Alpha Animation"
+    },
+    {
+      "id": 2216,
+      "name": "CMAY Animation"
     }
   ]
 }
