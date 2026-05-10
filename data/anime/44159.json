@@ -15,8 +15,8 @@
   "start_date": "2019-08-02",
   "end_date": "2019-08-02",
   "synopsis": "",
-  "rank": 19967,
-  "popularity": 24815,
+  "rank": 19977,
+  "popularity": 24835,
   "num_list_users": 155,
   "num_scoring_users": 29,
   "nsfw": "white",
@@ -42,5 +42,10 @@
   "source": "game",
   "average_episode_duration": 5880,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2075,
+      "name": "TaoMee Inc."
+    }
+  ]
 }
