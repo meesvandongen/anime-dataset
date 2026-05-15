@@ -14,13 +14,13 @@
   "end_date": "2014-05-28",
   "synopsis": "Short specials included on the BD/DVD volumes of Freezing Vibration.",
   "mean": 6.44,
-  "rank": 8503,
-  "popularity": 4738,
-  "num_list_users": 29131,
-  "num_scoring_users": 12646,
+  "rank": 8531,
+  "popularity": 4742,
+  "num_list_users": 29184,
+  "num_scoring_users": 12650,
   "nsfw": "white",
   "created_at": "2013-11-25T02:54:44+00:00",
-  "updated_at": "2023-09-01T00:24:27+00:00",
+  "updated_at": "2026-05-09T08:13:29+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -47,6 +47,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 6,

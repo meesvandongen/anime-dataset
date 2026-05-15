@@ -1,0 +1,47 @@
+{
+  "id": 64133,
+  "title": "Koi no Tamashii",
+  "main_picture": {
+    "medium": "https://myanimelist.net/images/anime/1298/157342.jpg",
+    "large": "https://myanimelist.net/images/anime/1298/157342l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Roll of Love",
+    "ja": "恋のタマシイ"
+  },
+  "start_date": "2012-04-15",
+  "end_date": "2012-04-15",
+  "synopsis": "Music video for the song Koi no Tamashii by mishmash*Julie Watai.",
+  "popularity": 29971,
+  "num_list_users": 41,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2026-05-07T02:02:35+00:00",
+  "updated_at": "2026-05-07T02:02:35+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 210,
+  "rating": "pg_13",
+  "studios": []
+}
