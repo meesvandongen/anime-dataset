@@ -12,9 +12,9 @@
   },
   "start_date": "2026-04-29",
   "synopsis": "",
-  "popularity": 22803,
-  "num_list_users": 227,
-  "num_scoring_users": 66,
+  "popularity": 19777,
+  "num_list_users": 410,
+  "num_scoring_users": 110,
   "nsfw": "gray",
   "created_at": "2026-05-05T14:55:06+00:00",
   "updated_at": "2026-05-06T07:42:31+00:00",
@@ -32,7 +32,7 @@
     "season": "spring"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1440,
   "rating": "rx",
   "studios": []
 }

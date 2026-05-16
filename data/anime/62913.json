@@ -15,17 +15,21 @@
   },
   "start_date": "2026-04-05",
   "synopsis": "In a world where likes are currency and every viewer is a judge, OMGkawaiiAngel (also known as KAngel) is determined to become the ultimate \"Internet Angel.\" Yet beneath her pastel smile and lively streams, there's more than meets the eye.\n\n(Source: Crunchyroll)",
-  "mean": 6.96,
-  "rank": 5356,
-  "popularity": 3592,
-  "num_list_users": 50304,
-  "num_scoring_users": 6186,
+  "mean": 6.91,
+  "rank": 5676,
+  "popularity": 3527,
+  "num_list_users": 52201,
+  "num_scoring_users": 6564,
   "nsfw": "white",
   "created_at": "2025-11-10T12:19:07+00:00",
-  "updated_at": "2026-04-20T07:55:18+00:00",
+  "updated_at": "2026-05-13T04:45:16+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
+    {
+      "id": 5,
+      "name": "Avant Garde"
+    },
     {
       "id": 69,
       "name": "Otaku Culture"
