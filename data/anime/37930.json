@@ -2,8 +2,8 @@
   "id": 37930,
   "title": "Sketch",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1201/93056.jpg",
-    "large": "https://myanimelist.net/images/anime/1201/93056l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1201/93056.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1201/93056l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,7 +14,7 @@
   "end_date": "2012-06-21",
   "synopsis": "A web commercial Tekken created for DOCOMO's Galaxy Note phone.",
   "mean": 5.71,
-  "popularity": 18165,
+  "popularity": 18178,
   "num_list_users": 540,
   "num_scoring_users": 249,
   "nsfw": "white",

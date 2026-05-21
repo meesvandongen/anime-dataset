@@ -2,8 +2,8 @@
   "id": 29123,
   "title": "World Calling",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/13/70489.webp",
-    "large": "https://myanimelist.net/images/anime/13/70489l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/13/70489.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/13/70489l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,7 +14,7 @@
   "end_date": "2012-11-02",
   "synopsis": "Music video from the IA x JIN project.",
   "mean": 6.09,
-  "popularity": 12542,
+  "popularity": 12548,
   "num_list_users": 2141,
   "num_scoring_users": 1192,
   "nsfw": "white",

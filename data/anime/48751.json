@@ -2,16 +2,12 @@
   "id": 48751,
   "title": "Chao Shen Xueyuan",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1185/114406.jpg",
-    "large": "https://myanimelist.net/images/anime/1185/114406l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1185/114406.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1185/114406l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Super Seminary 1st Season",
-      "超神学院 第一季",
-      "Super Seminary 2nd Season",
-      "Chao Shen Xueyuan 2nd Season: Ju Xia Hao",
-      "超神学院 第二季 巨峡号",
+      "Super Seminary",
       "Lalala Demacia 4th Season",
       "啦啦啦德玛西亚 第四季"
     ],
@@ -19,15 +15,15 @@
     "ja": "超神学院"
   },
   "start_date": "2013-12-06",
-  "end_date": "2014-10-24",
+  "end_date": "2014-04-25",
   "synopsis": "A massive spacetime wormhole appeared on Earth one day, connecting various unknown worlds. The known evil force is the Death Singer from the Shadow World. Thus, the Time God Zilean, the Wandering Mage, and the Great Inventor Dinghei established a Super God Academy on Earth, recruiting powerful gods from various timelines, as well as super soldiers who had already planted seeds on Earth, such as Garen. But before everything unfolded, Garen and the other Earth warriors were unaware of all this information; they had to start as students and slowly embark on the path to becoming super gods to protect their world.\n\n(Source: Bangumi, translated)",
-  "rank": 15774,
-  "popularity": 19502,
-  "num_list_users": 428,
-  "num_scoring_users": 84,
+  "rank": 15781,
+  "popularity": 19483,
+  "num_list_users": 431,
+  "num_scoring_users": 86,
   "nsfw": "white",
   "created_at": "2021-04-16T09:34:09+00:00",
-  "updated_at": "2026-01-03T17:41:44+00:00",
+  "updated_at": "2026-05-19T14:47:24+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -40,7 +36,7 @@
       "name": "Sci-Fi"
     }
   ],
-  "num_episodes": 20,
+  "num_episodes": 10,
   "start_season": {
     "year": 2013,
     "season": "fall"
