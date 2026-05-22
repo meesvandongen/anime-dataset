@@ -2,8 +2,8 @@
   "id": 50291,
   "title": "Slow Starter",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1320/119170.jpg",
-    "large": "https://myanimelist.net/images/anime/1320/119170l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1320/119170.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1320/119170l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,7 +14,7 @@
   "end_date": "2021-10-21",
   "synopsis": "",
   "mean": 6.2,
-  "popularity": 23333,
+  "popularity": 23350,
   "num_list_users": 205,
   "num_scoring_users": 107,
   "nsfw": "white",

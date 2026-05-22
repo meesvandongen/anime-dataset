@@ -2,8 +2,8 @@
   "id": 55374,
   "title": "Zero Step",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1705/142528.webp",
-    "large": "https://myanimelist.net/images/anime/1705/142528l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1705/142528.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1705/142528l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,7 +16,7 @@
   "end_date": "2023-01-20",
   "synopsis": "Music video commemorating the 10th anniversary of Kuroko no Basket.",
   "mean": 6.31,
-  "popularity": 14665,
+  "popularity": 14672,
   "num_list_users": 1182,
   "num_scoring_users": 489,
   "nsfw": "gray",

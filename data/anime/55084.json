@@ -2,8 +2,8 @@
   "id": 55084,
   "title": "Super Duper",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1704/135561.webp",
-    "large": "https://myanimelist.net/images/anime/1704/135561l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1704/135561.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1704/135561l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,7 +13,7 @@
   "start_date": "2018-03-23",
   "end_date": "2018-03-23",
   "synopsis": "A music video for the song Super Duper by SUPER JUNIOR.",
-  "popularity": 24928,
+  "popularity": 24945,
   "num_list_users": 154,
   "num_scoring_users": 82,
   "nsfw": "white",

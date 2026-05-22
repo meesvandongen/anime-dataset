@@ -2,8 +2,8 @@
   "id": 52413,
   "title": "Gekkou",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1169/125440.jpg",
-    "large": "https://myanimelist.net/images/anime/1169/125440l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1169/125440.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1169/125440l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,7 +14,7 @@
   "end_date": "2022-05-30",
   "synopsis": "",
   "mean": 6.15,
-  "popularity": 17850,
+  "popularity": 17862,
   "num_list_users": 570,
   "num_scoring_users": 221,
   "nsfw": "white",

@@ -2,8 +2,8 @@
   "id": 62485,
   "title": "Kanojo, Okarishimasu 5th Season",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1393/156075.jpg",
-    "large": "https://myanimelist.net/images/anime/1393/156075l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1393/156075.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1393/156075l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,14 +14,14 @@
   },
   "start_date": "2026-04-11",
   "synopsis": "Fifth season of Kanojo, Okarishimasu.",
-  "mean": 5.87,
-  "rank": 11659,
-  "popularity": 4029,
-  "num_list_users": 41527,
-  "num_scoring_users": 4492,
+  "mean": 5.84,
+  "rank": 11821,
+  "popularity": 3988,
+  "num_list_users": 42353,
+  "num_scoring_users": 4825,
   "nsfw": "white",
   "created_at": "2025-09-13T11:28:30+00:00",
-  "updated_at": "2026-04-21T19:08:43+00:00",
+  "updated_at": "2026-05-18T23:14:07+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -57,7 +57,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1467,
-  "rating": "r+",
+  "rating": "pg_13",
   "studios": [
     {
       "id": 73,

@@ -2,8 +2,8 @@
   "id": 61202,
   "title": "Mononoke Movie 3: Hebigami",
   "main_picture": {
-    "medium": "https://myanimelist.net/images/anime/1521/156670.jpg",
-    "large": "https://myanimelist.net/images/anime/1521/156670l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1521/156670.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1521/156670l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,8 +15,8 @@
   "start_date": "2026-05-29",
   "end_date": "2026-05-29",
   "synopsis": "Third installment of the Mononoke movie.",
-  "popularity": 7280,
-  "num_list_users": 10108,
+  "popularity": 7255,
+  "num_list_users": 10197,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-03-14T03:06:13+00:00",
@@ -63,7 +63,7 @@
     "season": "spring"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 5220,
   "rating": "r",
   "studios": [
     {
