@@ -1,0 +1,44 @@
+{
+  "id": 64236,
+  "title": "Okashi na Tsuitachi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1836/158112.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1836/158112l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Once Upon a Time",
+    "ja": "おかしな一日"
+  },
+  "start_date": "1970-03-15",
+  "end_date": "1970-03-15",
+  "synopsis": "This short animated piece was shown at the Seiko Pavilion during the Osaka International Exposition in 1970. Through a chaotic day of time disturbance, which is caused by a mischievous alien, the story conveys to us the importance of time. The rapid change of seasons reflects Tezuka Osamu's favorite theme of \"metamorphosis.\"\n\n(Source: Official website)",
+  "rank": 19320,
+  "popularity": 30032,
+  "num_list_users": 16,
+  "num_scoring_users": 1,
+  "nsfw": "gray",
+  "created_at": "2026-05-20T15:19:21+00:00",
+  "updated_at": "2026-05-22T09:24:46+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1970,
+    "season": "winter"
+  },
+  "average_episode_duration": 342,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
+}
