@@ -1,13 +1,13 @@
 {
   "id": 4511,
-  "title": "Hoero! Bun Bun",
+  "title": "Hoero Bunbun",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/3/28908.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/3/28908l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/3/28908.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/3/28908l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Hoero BunBun",
+      "Hoero! Bun Bun",
       "Bark! Bun Bun",
       "Tchaou et Grodo"
     ],
@@ -17,20 +17,24 @@
   "start_date": "1980-10-09",
   "end_date": "1981-07-09",
   "synopsis": "Bunbun, an abandoned puppy meets the old Big, also a stray dog. Bunbun will learn to survive in an hostile and strange world. \n\n(Source: manga-distribution.fr)",
-  "mean": 7.33,
-  "rank": 3148,
-  "popularity": 13479,
-  "num_list_users": 1606,
-  "num_scoring_users": 639,
+  "mean": 7.35,
+  "rank": 3049,
+  "popularity": 13484,
+  "num_list_users": 1609,
+  "num_scoring_users": 640,
   "nsfw": "white",
   "created_at": "2008-05-17T01:01:35+00:00",
-  "updated_at": "2020-02-13T16:34:49+00:00",
+  "updated_at": "2026-05-22T07:35:22+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
       "id": 2,
       "name": "Adventure"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
     },
     {
       "id": 36,
@@ -42,6 +46,7 @@
     "year": 1980,
     "season": "fall"
   },
+  "source": "manga",
   "average_episode_duration": 1400,
   "rating": "g",
   "studios": [
