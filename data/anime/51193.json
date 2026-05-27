@@ -16,13 +16,13 @@
   "end_date": "2015-09-26",
   "synopsis": "Momo introduces the members of Rito's harem while recapping ecchi scenes. Included in the Blu-ray/DVD Vol.01. ",
   "mean": 5.81,
-  "rank": 11989,
+  "rank": 11998,
   "popularity": 14027,
-  "num_list_users": 1386,
+  "num_list_users": 1388,
   "num_scoring_users": 495,
   "nsfw": "gray",
   "created_at": "2022-03-08T18:11:23+00:00",
-  "updated_at": "2022-03-08T19:46:37+00:00",
+  "updated_at": "2026-05-23T01:28:29+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 35,
       "name": "Harem"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,
