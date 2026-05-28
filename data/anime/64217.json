@@ -1,0 +1,46 @@
+{
+  "id": 64217,
+  "title": "Nikenichi! Non Non Zenshou Kichi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1152/158059.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1152/158059l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nikke Nichi! Non Non Zenshou Kichi",
+      "Nikke Nikki! Nonnon Forward Base"
+    ],
+    "en": "Outpost: Off-Duty Tales",
+    "ja": "にけにち！のんのん前哨基地"
+  },
+  "start_date": "2026-05-22",
+  "synopsis": "Commander, there's no need to sortie today.\nNo emergency missions. No roaring gunfire.\nAt this moment in the Outpost, all that remains are the Nikkes' everyday moments, laughter, and little unexpected happenings.\n\n(Source: Official GODDESS OF VICTORY: NIKKE's English X Account)",
+  "rank": 19183,
+  "popularity": 23432,
+  "num_list_users": 201,
+  "num_scoring_users": 48,
+  "nsfw": "white",
+  "created_at": "2026-05-18T03:10:32+00:00",
+  "updated_at": "2026-05-25T09:37:27+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 375,
+  "rating": "pg_13",
+  "studios": []
+}

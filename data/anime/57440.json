@@ -13,9 +13,9 @@
   "start_date": "2023-11-30",
   "end_date": "2023-11-30",
   "synopsis": "",
-  "rank": 22482,
-  "popularity": 19814,
-  "num_list_users": 406,
+  "rank": 22493,
+  "popularity": 19808,
+  "num_list_users": 407,
   "num_scoring_users": 39,
   "nsfw": "white",
   "created_at": "2023-12-04T19:14:00+00:00",
@@ -44,5 +44,10 @@
   "source": "web_manga",
   "average_episode_duration": 4140,
   "rating": "r",
-  "studios": []
+  "studios": [
+    {
+      "id": 1593,
+      "name": "Success Corp."
+    }
+  ]
 }
