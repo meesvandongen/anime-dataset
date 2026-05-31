@@ -13,13 +13,13 @@
   "start_date": "1970-03-15",
   "end_date": "1970-03-15",
   "synopsis": "This short animated piece was shown at the Seiko Pavilion during the Osaka International Exposition in 1970. Through a chaotic day of time disturbance, which is caused by a mischievous alien, the story conveys to us the importance of time. The rapid change of seasons reflects Tezuka Osamu's favorite theme of \"metamorphosis.\"\n\n(Source: Official website)",
-  "rank": 19320,
-  "popularity": 30032,
-  "num_list_users": 16,
+  "rank": 19319,
+  "popularity": 30037,
+  "num_list_users": 23,
   "num_scoring_users": 1,
   "nsfw": "gray",
   "created_at": "2026-05-20T15:19:21+00:00",
-  "updated_at": "2026-05-22T09:24:46+00:00",
+  "updated_at": "2026-05-25T09:48:04+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,7 @@
     "year": 1970,
     "season": "winter"
   },
+  "source": "original",
   "average_episode_duration": 342,
   "rating": "g",
   "studios": [
