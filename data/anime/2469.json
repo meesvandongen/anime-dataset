@@ -18,9 +18,9 @@
   "end_date": "1992-03-21",
   "synopsis": "Whatever problem a patient may have with sex, the wacky Dr. Okeguri and his sexy nurse, Ruko, are here to help! Using a variety of unconventional methods and an extremely affectionate bedside manner, this team is devoted to bringing pleasure to those in pain and joy to those in despair. \n\n(Source: AniDB)",
   "mean": 5.81,
-  "popularity": 11263,
-  "num_list_users": 3061,
-  "num_scoring_users": 1045,
+  "popularity": 11192,
+  "num_list_users": 3064,
+  "num_scoring_users": 1047,
   "nsfw": "gray",
   "created_at": "2007-05-10T08:39:32+00:00",
   "updated_at": "2022-07-02T20:46:00+00:00",
@@ -41,6 +41,7 @@
     "year": 1992,
     "season": "winter"
   },
+  "source": "manga",
   "average_episode_duration": 2690,
   "rating": "rx",
   "studios": []
