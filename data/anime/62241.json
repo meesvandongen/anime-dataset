@@ -1,0 +1,50 @@
+{
+  "id": 62241,
+  "title": "Biao Ren Er",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1859/151421.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1859/151421l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "镖人 第二季",
+      "Biao Ren 2nd Season"
+    ],
+    "en": "Blades of the Guardians 2nd Season",
+    "ja": "镖人 贰"
+  },
+  "start_date": "2026-06-11",
+  "synopsis": "In the third year of the Daye era, unrest stirred on the frontier. Emperor Yang of Sui made a northern tour to intimidate the western borders. Entrusted by an old friend, the escort Dao Ma escorted the rebel leader Zhi Shilang to Chang'an to fulfill his ideal of saving the world from chaos. However, a single, hateful eye followed him closely. Past events and present crises surfaced; in this chaotic world, see how Dao Ma stirs up a bloody storm in the martial world!\n\n(Source: Tencent, translated)",
+  "popularity": 14930,
+  "num_list_users": 1099,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-08-11T07:00:35+00:00",
+  "updated_at": "2026-05-29T02:20:23+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "r",
+  "studios": [
+    {
+      "id": 2509,
+      "name": "Colored Pencil Animation"
+    }
+  ]
+}

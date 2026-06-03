@@ -1,0 +1,41 @@
+{
+  "id": 64325,
+  "title": "Pie no Mi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1525/158307.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1525/158307l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "パイの実"
+  },
+  "start_date": "2026-06-04",
+  "synopsis": "Lotte's snack brand Pie no Mi animated series which will be released on Lotte's official YouTube channel, with one episode released each month.",
+  "popularity": 30054,
+  "num_list_users": 15,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-06-01T05:26:38+00:00",
+  "updated_at": "2026-06-02T07:26:42+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    }
+  ],
+  "num_episodes": 8,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 0,
+  "studios": []
+}

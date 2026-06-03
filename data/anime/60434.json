@@ -2,8 +2,8 @@
   "id": 60434,
   "title": "Juedai Shuang Jiao: Tian Wai You Tian",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1038/146785.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1038/146785l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1571/158314.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1571/158314l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,20 +14,28 @@
   },
   "start_date": "2024-12-01",
   "end_date": "2024-12-01",
-  "synopsis": "",
-  "rank": 17693,
-  "popularity": 21685,
+  "synopsis": "Watch Xiaoyu and Su Ying embark on an adventure together!\n\n(Source: Tencent, translated)",
+  "rank": 17686,
+  "popularity": 21703,
   "num_list_users": 289,
   "num_scoring_users": 44,
   "nsfw": "white",
   "created_at": "2024-12-02T09:30:46+00:00",
-  "updated_at": "2024-12-02T09:33:34+00:00",
+  "updated_at": "2026-06-01T17:25:40+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
     },
     {
       "id": 17,
@@ -42,5 +50,10 @@
   "source": "novel",
   "average_episode_duration": 5040,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2055,
+      "name": "BYMENT"
+    }
+  ]
 }
