@@ -1,26 +1,29 @@
 {
   "id": 5926,
-  "title": "Antique Heart",
+  "title": "Gakuen Benriya Antique Heart",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/7/56121.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/7/56121l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Antique Heart",
+      "School Handyman Antique Heart"
+    ],
     "en": "",
-    "ja": "アンティーク ハート"
+    "ja": "学園便利屋 アンティークハート"
   },
   "start_date": "1988-06-05",
   "end_date": "1988-06-05",
   "synopsis": "There's an old decrepit building at the edge of the school grounds that hasn't been used for years, and it falls apart a little bit more each day. But the little house holds a secret, as Takahiro and his friends are soon to find out...they wind up making contact with a mysterious entity known as Saki. Can Takahiro save Saki's world from destruction.\n\n(Source: ANN)",
   "mean": 5.55,
-  "rank": 12952,
-  "popularity": 12468,
-  "num_list_users": 2141,
+  "rank": 12964,
+  "popularity": 12465,
+  "num_list_users": 2147,
   "num_scoring_users": 845,
   "nsfw": "white",
   "created_at": "2009-01-18T03:22:22+00:00",
-  "updated_at": "2017-05-06T08:40:53+00:00",
+  "updated_at": "2026-06-04T06:06:40+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
@@ -45,6 +48,10 @@
     {
       "id": 7,
       "name": "J.C.Staff"
+    },
+    {
+      "id": 155,
+      "name": "animate Film"
     }
   ]
 }

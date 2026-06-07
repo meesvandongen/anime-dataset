@@ -2,8 +2,8 @@
   "id": 10481,
   "title": "Otohime Connection",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1579/112673.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1579/112673l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1579/112673.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1579/112673l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,9 +14,9 @@
   "end_date": "1991-12-01",
   "synopsis": "Special based on the manga by Ooya Kazumi, published in Betsukomi Flower Comics.\n\nAn all-male pop group doubles as a detective agency. The cute girl member of the agency is kidnapped when one of the men's past returns to trouble them all in the present.\n\n(Source: sandg-anime)",
   "mean": 5.88,
-  "rank": 11408,
-  "popularity": 13693,
-  "num_list_users": 1480,
+  "rank": 11415,
+  "popularity": 13696,
+  "num_list_users": 1483,
   "num_scoring_users": 348,
   "nsfw": "white",
   "created_at": "2011-03-23T03:32:00+00:00",
@@ -50,10 +50,6 @@
   "average_episode_duration": 2997,
   "rating": "pg_13",
   "studios": [
-    {
-      "id": 10,
-      "name": "Production I.G"
-    },
     {
       "id": 155,
       "name": "animate Film"
