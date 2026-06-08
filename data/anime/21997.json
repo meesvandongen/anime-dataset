@@ -14,13 +14,13 @@
   "end_date": "2013-03-30",
   "synopsis": "This series continues the adventures of Katta Kirifuda, Bucyake and Yohdel throughout the school season. They meet new classmates such as Leo to duel against. \n\n(Source: Duel Masters Wikia)",
   "mean": 5.83,
-  "rank": 11651,
-  "popularity": 13774,
-  "num_list_users": 1453,
-  "num_scoring_users": 369,
+  "rank": 11662,
+  "popularity": 13782,
+  "num_list_users": 1456,
+  "num_scoring_users": 370,
   "nsfw": "white",
   "created_at": "2014-01-06T17:03:45+00:00",
-  "updated_at": "2021-05-16T22:34:04+00:00",
+  "updated_at": "2026-06-05T23:36:35+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 15,
       "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
     }
   ],
   "num_episodes": 51,

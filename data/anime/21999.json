@@ -14,13 +14,13 @@
   "end_date": "2014-03-29",
   "synopsis": "In this series the story continues after Katta Kirifuda defeats the YA.RA.SI band and also gains back his popularity by defeating Leo and his sidekick Nai Minamimo.\n\nIn this series Katta will use a new race of Outrage creatures against the opposing new race of Oracle deck users. Also in the creature world a new time era will start off.\n\n(Source: Duel Masters Wikia)",
   "mean": 5.69,
-  "rank": 12350,
-  "popularity": 13648,
-  "num_list_users": 1502,
-  "num_scoring_users": 370,
+  "rank": 12358,
+  "popularity": 13650,
+  "num_list_users": 1505,
+  "num_scoring_users": 371,
   "nsfw": "white",
   "created_at": "2014-01-06T17:07:35+00:00",
-  "updated_at": "2021-05-16T22:34:16+00:00",
+  "updated_at": "2026-06-05T23:36:49+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 15,
       "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
     }
   ],
   "num_episodes": 51,
