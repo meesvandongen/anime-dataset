@@ -14,13 +14,13 @@
   "end_date": "2022-03-27",
   "synopsis": "",
   "mean": 5.65,
-  "rank": 12568,
-  "popularity": 14882,
-  "num_list_users": 1111,
-  "num_scoring_users": 154,
+  "rank": 12578,
+  "popularity": 14888,
+  "num_list_users": 1116,
+  "num_scoring_users": 155,
   "nsfw": "white",
   "created_at": "2021-01-24T10:09:00+00:00",
-  "updated_at": "2023-01-13T10:18:16+00:00",
+  "updated_at": "2026-06-05T23:38:40+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 15,
       "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
     }
   ],
   "num_episodes": 43,

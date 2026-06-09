@@ -10,14 +10,14 @@
     "en": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
     "ja": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
   },
-  "start_date": "2026-07",
+  "start_date": "2026-07-04",
   "synopsis": "Second season of Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru.",
-  "popularity": 5666,
-  "num_list_users": 18738,
-  "num_scoring_users": 0,
+  "popularity": 5564,
+  "num_list_users": 19599,
+  "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2026-03-27T16:40:58+00:00",
-  "updated_at": "2026-03-27T16:40:58+00:00",
+  "updated_at": "2026-06-07T23:10:09+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -47,8 +47,17 @@
     "year": 2026,
     "season": "summer"
   },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:00"
+  },
   "source": "light_novel",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1687,
+      "name": "Yokohama Animation Lab"
+    }
+  ]
 }

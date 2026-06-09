@@ -2,8 +2,8 @@
   "id": 63468,
   "title": "Ushiro no Shoumen Kamui-san",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1272/157102.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1272/157102l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1071/158366.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1071/158366l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,11 +12,11 @@
     "en": "",
     "ja": "うしろの正面カムイさん"
   },
-  "start_date": "2026-07",
+  "start_date": "2026-07-04",
   "synopsis": "Shizuka is a normal high school girl with the ability to see ghosts. Due to her peculiar tendency to attract ghosts, she works as an assistant to Kamui, a famous psychic. Kamui takes pride in his top-notch psychic abilities, but the way he exorcises ghosts is rather unusual!\n\n(Source: Shogakukan, translated)",
-  "popularity": 12986,
-  "num_list_users": 1818,
-  "num_scoring_users": 0,
+  "popularity": 12430,
+  "num_list_users": 2173,
+  "num_scoring_users": 1,
   "nsfw": "gray",
   "created_at": "2026-02-12T19:24:27+00:00",
   "updated_at": "2026-04-28T05:39:03+00:00",
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2026,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "01:30"
   },
   "source": "web_manga",
   "average_episode_duration": 0,

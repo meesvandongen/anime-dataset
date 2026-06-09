@@ -14,13 +14,13 @@
   "end_date": "2022-08-28",
   "synopsis": "The story of Duel Masters King entered the \"next stage\" with the new series. The theme of the new series is \"time travel.\"\n\n(Source: ANN)",
   "mean": 5.87,
-  "rank": 11436,
-  "popularity": 15548,
-  "num_list_users": 935,
+  "rank": 11442,
+  "popularity": 15549,
+  "num_list_users": 939,
   "num_scoring_users": 139,
   "nsfw": "white",
   "created_at": "2022-02-15T05:29:51+00:00",
-  "updated_at": "2022-09-02T06:51:56+00:00",
+  "updated_at": "2026-06-05T23:39:02+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -43,6 +43,10 @@
     {
       "id": 15,
       "name": "Kids"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
     },
     {
       "id": 78,

@@ -1,0 +1,50 @@
+{
+  "id": 64340,
+  "title": "Tempal: Item no Chikara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1382/158336.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Overgeared",
+    "ja": "テムパル ～アイテムの力～"
+  },
+  "start_date": "2026-10",
+  "synopsis": "Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)",
+  "popularity": 13405,
+  "num_list_users": 1610,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-06-03T04:54:23+00:00",
+  "updated_at": "2026-06-07T23:11:11+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 79,
+      "name": "Video Game"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 7,
+      "name": "J.C.Staff"
+    }
+  ]
+}
