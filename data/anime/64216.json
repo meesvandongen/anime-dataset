@@ -17,9 +17,9 @@
   "start_date": "2010-11-09",
   "end_date": "2011-07-12",
   "synopsis": "Second season of Yume Miru, Anime: On-chan.",
-  "rank": 22364,
-  "popularity": 30040,
-  "num_list_users": 31,
+  "rank": 22373,
+  "popularity": 30056,
+  "num_list_users": 32,
   "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2026-05-18T01:23:19+00:00",
@@ -48,5 +48,10 @@
   "source": "other",
   "average_episode_duration": 360,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 593,
+      "name": "Egg"
+    }
+  ]
 }

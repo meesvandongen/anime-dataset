@@ -2,8 +2,8 @@
   "id": 53712,
   "title": "Saiki Kusuo no Ψ-nan Manner Movie",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1308/131536.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1308/131536l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1308/131536.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1308/131536l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,14 @@
   "start_date": "2016-11-27",
   "end_date": "2016-11-27",
   "synopsis": "Short animation for Jump Festa 2016 regarding theater etiquette.\n",
-  "mean": 6.72,
-  "rank": 6319,
-  "popularity": 11444,
-  "num_list_users": 2870,
-  "num_scoring_users": 984,
+  "mean": 6.73,
+  "rank": 6266,
+  "popularity": 11436,
+  "num_list_users": 2885,
+  "num_scoring_users": 989,
   "nsfw": "white",
   "created_at": "2022-11-29T10:30:25+00:00",
-  "updated_at": "2022-11-29T16:01:52+00:00",
+  "updated_at": "2026-06-12T22:30:00+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 56,
       "name": "Educational"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,

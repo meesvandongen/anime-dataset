@@ -17,9 +17,9 @@
   "start_date": "2008-01-18",
   "end_date": "2008-08-22",
   "synopsis": "A children's series featuring on-chan, the television station HTB's mascot character. On-chan has appeared in parades and various promotions for the station since 1997. ",
-  "rank": 22363,
-  "popularity": 18231,
-  "num_list_users": 537,
+  "rank": 22372,
+  "popularity": 18233,
+  "num_list_users": 540,
   "num_scoring_users": 105,
   "nsfw": "white",
   "created_at": "2007-11-30T05:53:35+00:00",
@@ -44,5 +44,10 @@
   "source": "other",
   "average_episode_duration": 360,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 593,
+      "name": "Egg"
+    }
+  ]
 }
