@@ -1,0 +1,66 @@
+{
+  "id": 64384,
+  "title": "Zhangmen Didiao Dian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1863/158444.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1863/158444l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Master, Keep a Low Profile"
+    ],
+    "en": "Stay Low Profile, Sect Chief",
+    "ja": "掌门低调点"
+  },
+  "start_date": "2026-06-02",
+  "synopsis": "As heavy snow blanketed the gates, demonic cultivators launched a surprise attack, slaughtering the entire Mo Sect. The young Lu Chaoge lost his closest relatives in the tragedy. Facing certain death, he awakened to a system that defied the heavens, narrowly escaping death through water-elemental spiritual awakening, and vowed to purge the world of demons and evil. \n\nAfter a decade of seclusion and arduous cultivation, he remained stuck at the Initial Realm, unable to make any progress. One day, a chance opportunity reactivated the system. He set out from the mountain with his younger sister, Lu Dongli, in search of spiritual herbs to break through his cultivation barrier. Along the way, he ingeniously solved a challenge posed by a strange beast, defied the heavens to summon nine Celestial Decrees to awaken his spiritual power, and broke through five cultivation realms in succession. He even faced down a challenge from a prodigy of the Sword Sect. The once-useless sect master thus began a powerful comeback.\n\n(Source: Yuewen, translated)",
+  "rank": 22452,
+  "popularity": 30032,
+  "num_list_users": 44,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2026-06-12T05:01:57+00:00",
+  "updated_at": "2026-06-12T20:02:09+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    }
+  ],
+  "num_episodes": 40,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 600,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3092,
+      "name": "Zhonghui Donghua"
+    }
+  ]
+}

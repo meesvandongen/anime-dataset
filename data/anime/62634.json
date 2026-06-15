@@ -6,21 +6,23 @@
     "large": "https://cdn.myanimelist.net/images/anime/1780/152389l.webp"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Given OVA"
+    ],
     "en": "Given: 10th Mix",
     "ja": "ギヴン 10th mix"
   },
   "start_date": "2025-10-01",
   "end_date": "2025-10-01",
   "synopsis": "A brilliant epilogue depicting the dazzling \"present\" of those who have grown since \"those days\" and the important people surrounding them!\n\n(Source: Official X Account)",
-  "mean": 7.19,
-  "rank": 3721,
-  "popularity": 11504,
-  "num_list_users": 2830,
-  "num_scoring_users": 669,
+  "mean": 7.2,
+  "rank": 3660,
+  "popularity": 11439,
+  "num_list_users": 2883,
+  "num_scoring_users": 682,
   "nsfw": "gray",
   "created_at": "2025-10-03T09:46:28+00:00",
-  "updated_at": "2025-12-11T22:31:36+00:00",
+  "updated_at": "2026-06-11T16:06:13+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [

@@ -1,0 +1,54 @@
+{
+  "id": 64383,
+  "title": "Da Tang Yao Tan",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1084/158442.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1084/158442l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "长安探案录",
+      "Chang'an Tanan Lu"
+    ],
+    "en": "Demon Agent",
+    "ja": "大唐妖探"
+  },
+  "start_date": "2026-08-08",
+  "end_date": "2026-08-08",
+  "synopsis": "At the dawn of a prosperous era, the capital city of Chang'an appears to be a place where humans and demons coexist harmoniously, but beneath the surface, turbulent undercurrents surge. The wolf demon Asa sees Chang'an as his ideal, but on his very first day in the city, he is falsely accused of murder. To clear his name, he embarks on an adventure with the cunning human conman, Di Shao, on a quest for personal growth and the protection of Chang'an…\n\n(Source: Bangumi, translated)",
+  "popularity": 30045,
+  "num_list_users": 39,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-06-11T21:52:10+00:00",
+  "updated_at": "2026-06-11T21:56:17+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": []
+}

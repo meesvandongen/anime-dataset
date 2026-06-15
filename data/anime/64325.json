@@ -1,6 +1,6 @@
 {
   "id": 64325,
-  "title": "Pie no Mi",
+  "title": "Pie no Mi: Oshi no Mori e Youkoso!",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1525/158307.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1525/158307l.jpg"
@@ -8,17 +8,17 @@
   "alternative_titles": {
     "synonyms": [],
     "en": "",
-    "ja": "パイの実"
+    "ja": "パイの実 おしの森へようこそ！"
   },
   "start_date": "2026-06-04",
   "synopsis": "Lotte's snack brand Pie no Mi animated series which will be released on Lotte's official YouTube channel, with one episode released each month.",
-  "rank": 19557,
-  "popularity": 30008,
-  "num_list_users": 45,
+  "rank": 19569,
+  "popularity": 29924,
+  "num_list_users": 61,
   "num_scoring_users": 5,
   "nsfw": "white",
   "created_at": "2026-06-01T05:26:38+00:00",
-  "updated_at": "2026-06-02T07:26:42+00:00",
+  "updated_at": "2026-06-13T07:38:55+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
@@ -37,7 +37,8 @@
     "season": "spring"
   },
   "source": "other",
-  "average_episode_duration": 0,
+  "average_episode_duration": 120,
+  "rating": "g",
   "studios": [
     {
       "id": 247,

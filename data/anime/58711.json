@@ -7,23 +7,25 @@
   },
   "alternative_titles": {
     "synonyms": [
+      "Super Heroic",
       "Peerless Battle Spirit"
     ],
-    "en": "Super Heroic",
+    "en": "Super Heroic Spirit",
     "ja": "绝世战魂"
   },
   "start_date": "2024-04-27",
+  "end_date": "2026-06-02",
   "synopsis": "The Xuanling Sect, the head of the four major sects, came to Shuicheng to select disciples for the first time in many years. The Fang and Qin families started fighting openly and secretly around this opportunity that would determine their fate. In the end, Qin Nan relied on his dedicated training, excellent talent, and the God of War Soul obtained by chance, and under the fair judgment of the messenger Xiao Qingxue, he successfully reversed the decline and defeated the Fang family. \n\nAfter entering the sect, Qin Nan aroused the hatred of Ouyang Jun, the son of the sect leader, because of his involvement in Xiao Qingxue's forced marriage. In order to continue to become stronger and repay Xiao Qingxue's kindness, Qin Nan repeatedly defeated powerful enemies, won the first place in the Wanxiang Competition and the Outer Sect Competition, entered the Wuyuan Pavilion with the four major sect geniuses, and obtained the power to stir up the continent. \n\nA shocking secret, an appointment with Leng Feng to fight in the Palace of Life and Death, overcoming the siege of Linshui City by the Beihai family, exploring the Nine-Character Mantra Tower, and vowing to fight the evil forces of the sect to the end. \n\n(Source: iQIYI, translated) ",
-  "mean": 7.22,
-  "rank": 3550,
-  "popularity": 13623,
-  "num_list_users": 1519,
-  "num_scoring_users": 322,
+  "mean": 7.13,
+  "rank": 4073,
+  "popularity": 13612,
+  "num_list_users": 1527,
+  "num_scoring_users": 325,
   "nsfw": "white",
   "created_at": "2024-04-20T13:47:54+00:00",
-  "updated_at": "2025-11-15T00:40:16+00:00",
+  "updated_at": "2026-06-12T20:46:45+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 1,
@@ -46,12 +48,21 @@
       "name": "Martial Arts"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 180,
   "start_season": {
     "year": 2024,
     "season": "spring"
   },
   "average_episode_duration": 600,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3092,
+      "name": "Zhonghui Donghua"
+    },
+    {
+      "id": 3093,
+      "name": "Sanjie Donghua"
+    }
+  ]
 }

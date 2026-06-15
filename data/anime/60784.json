@@ -11,23 +11,24 @@
     "ja": "夕顔"
   },
   "start_date": "2025-03-28",
+  "end_date": "2025-03-28",
   "synopsis": "Tomoe, a strict and disciplined teacher, starts every working day with a genuine desire to teach students to be smart. Soon, she was respected and appreciated in the educational institution. It would seem that everything will continue like this, but lately, in the moonlight, the woman has been troubled by strange dreams. It started to make it difficult to focus on work, especially if there were male students nearby.",
-  "mean": 7.06,
-  "popularity": 10940,
-  "num_list_users": 3294,
-  "num_scoring_users": 940,
+  "mean": 6.99,
+  "popularity": 10901,
+  "num_list_users": 3329,
+  "num_scoring_users": 975,
   "nsfw": "gray",
   "created_at": "2025-01-17T22:48:38+00:00",
-  "updated_at": "2025-01-18T10:41:40+00:00",
+  "updated_at": "2026-06-09T15:25:15+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 1,
   "start_season": {
     "year": 2025,
     "season": "winter"
