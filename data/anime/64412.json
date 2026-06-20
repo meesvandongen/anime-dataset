@@ -1,0 +1,44 @@
+{
+  "id": 64412,
+  "title": "Play",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1800/158515.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1800/158515l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Play"
+  },
+  "start_date": "2012-02-22",
+  "end_date": "2012-02-22",
+  "synopsis": "Music video for the song Play by Cassette Schwarzenegger.",
+  "popularity": 30083,
+  "num_list_users": 30,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2026-06-17T02:09:03+00:00",
+  "updated_at": "2026-06-17T08:48:26+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2012,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 223,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2130,
+      "name": "Studio Shelter"
+    }
+  ]
+}

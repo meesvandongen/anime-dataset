@@ -1,0 +1,44 @@
+{
+  "id": 60241,
+  "title": "Tarepanda (ONA)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1862/158507.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1862/158507l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "たれぱんだ"
+  },
+  "start_date": "2015-03-02",
+  "end_date": "2015-11-16",
+  "synopsis": "Tare Panda, which is relaxing, brings a lot of happiness.\n\n(Source: San-X Official YouTube Channel)",
+  "rank": 20963,
+  "popularity": 30049,
+  "num_list_users": 43,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2024-11-02T21:04:05+00:00",
+  "updated_at": "2026-06-16T20:20:13+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 5,
+  "start_season": {
+    "year": 2015,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 41,
+  "rating": "g",
+  "studios": []
+}
