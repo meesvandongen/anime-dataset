@@ -1,0 +1,60 @@
+{
+  "id": 62605,
+  "title": "Matsurika Kanriden",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1327/155810.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1327/155810l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Legend of Bureaucrat Matsurika"
+    ],
+    "en": "",
+    "ja": "茉莉花官吏伝"
+  },
+  "start_date": "2027-01",
+  "synopsis": "Matsurika, a lady-in-waiting in the imperial palace, has a special talent—an excellent memory. One day, she is asked to act as a practice partner for a nobleman's arranged meeting, only to discover that her partner is none other than Emperor Hakuyou himself, who wished to try a matchmaking meeting. Impressed by her skill, the emperor unexpectedly tells her to \"go pass the imperial examination first.\" Thus begins the tale of a girl singled out by the emperor in this Chinese-style Cinderella story.\n\n(Source: MAL News)",
+  "popularity": 11821,
+  "num_list_users": 2604,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-10-01T03:06:59+00:00",
+  "updated_at": "2026-05-03T22:08:22+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1978,
+      "name": "Maho Film"
+    }
+  ]
+}

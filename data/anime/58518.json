@@ -1,0 +1,57 @@
+{
+  "id": 58518,
+  "title": "Sasaki to Pii-chan Season 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1402/158487.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1402/158487l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Sasaki to P-chan"
+    ],
+    "en": "Sasaki and Peeps Season 2",
+    "ja": "佐々木とピーちゃん シーズン２"
+  },
+  "start_date": "2026-10",
+  "synopsis": "Second season of Sasaki to Pii-chan.",
+  "popularity": 5569,
+  "num_list_users": 19669,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-03-24T07:00:03+00:00",
+  "updated_at": "2026-06-15T10:25:52+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 300,
+      "name": "SILVER LINK."
+    }
+  ]
+}

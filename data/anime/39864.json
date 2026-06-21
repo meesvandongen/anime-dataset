@@ -16,20 +16,24 @@
   "start_date": "2018-02-23",
   "end_date": "2021-06-25",
   "synopsis": "Petit Clover Specials included in the Black Clover Blu-Ray Volumes.",
-  "mean": 6.49,
-  "rank": 7870,
-  "popularity": 7964,
-  "num_list_users": 7969,
-  "num_scoring_users": 2426,
+  "mean": 6.5,
+  "rank": 7816,
+  "popularity": 7975,
+  "num_list_users": 7978,
+  "num_scoring_users": 2427,
   "nsfw": "white",
   "created_at": "2019-05-27T15:04:54+00:00",
-  "updated_at": "2022-04-01T18:28:26+00:00",
+  "updated_at": "2026-06-15T23:46:39+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 15,

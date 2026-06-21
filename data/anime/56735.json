@@ -2,25 +2,25 @@
   "id": 56735,
   "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1285/156644.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1285/156644l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1352/158564.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1352/158564l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "Tenbin",
-      "A Neat and Pretty Girl at the Transfer Destination Was a Childhood Friend Who Used to Think That She Was a Boy and Played With Her."
+      "Tenkosaki: The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy",
+      "Tenbin"
     ],
-    "en": "",
+    "en": "Oh Boy, Was I Wrong About Her",
     "ja": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
   },
-  "start_date": "2026-07",
+  "start_date": "2026-07-06",
   "synopsis": "I met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)",
-  "popularity": 6454,
-  "num_list_users": 13462,
-  "num_scoring_users": 1,
+  "popularity": 6135,
+  "num_list_users": 15310,
+  "num_scoring_users": 2,
   "nsfw": "white",
   "created_at": "2023-09-24T08:55:24+00:00",
-  "updated_at": "2026-03-21T12:03:59+00:00",
+  "updated_at": "2026-06-19T22:07:59+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -41,6 +41,10 @@
   "start_season": {
     "year": 2026,
     "season": "summer"
+  },
+  "broadcast": {
+    "day_of_the_week": "monday",
+    "start_time": "23:30"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

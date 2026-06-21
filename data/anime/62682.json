@@ -16,9 +16,9 @@
   "end_date": "2025-12-25",
   "synopsis": "A weekly mini anime shown with each episode of Sawaranaide Kotesashi-kun exclusively on the AT-X broadcast of the TV anime and online on OceanVeil.",
   "mean": 5.7,
-  "rank": 12342,
-  "popularity": 16191,
-  "num_list_users": 802,
+  "rank": 12358,
+  "popularity": 16174,
+  "num_list_users": 808,
   "num_scoring_users": 160,
   "nsfw": "white",
   "created_at": "2025-10-11T09:03:18+00:00",
@@ -43,5 +43,10 @@
   "source": "web_manga",
   "average_episode_duration": 720,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2071,
+      "name": "AQUA ARIS"
+    }
+  ]
 }

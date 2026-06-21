@@ -1,0 +1,45 @@
+{
+  "id": 63851,
+  "title": "Love Live! Hasunosora Jogakuin School Idol Club",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1368/156418.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+  },
+  "start_date": "2027-01",
+  "synopsis": "A TV anime for Love Live! Hasunosora Jogakuin School Idol Club.",
+  "popularity": 10558,
+  "num_list_users": 3695,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-03-31T09:26:09+00:00",
+  "updated_at": "2026-03-31T09:36:40+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 0,
+  "studios": []
+}

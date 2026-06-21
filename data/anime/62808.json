@@ -1,0 +1,57 @@
+{
+  "id": 62808,
+  "title": "Isshiki-san wa Koi wo Shiritai.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1511/155454.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1511/155454l.webp"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Koutetsu no Rinna wa XX Saretai",
+      "Fullmetal Rinna Wants to XX"
+    ],
+    "en": "",
+    "ja": "一式さんは恋を知りたい。"
+  },
+  "start_date": "2027-01",
+  "synopsis": "A maiden who doesn't know what love is tries her hand at dating as a pseudo-couple!\n\nInspector Rinna, who is respected by everyone as a hard-working and serious policewoman, seems to be having trouble with her work lately. The reason for this is because she loses focus. It only happens when Meishi, the detective she works with, is around... So, she makes a choice...?\n\n(Source: Kadokawa, translated)",
+  "popularity": 9286,
+  "num_list_users": 5452,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-10-17T11:45:18+00:00",
+  "updated_at": "2025-10-17T12:15:24+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 765,
+      "name": "Sakura Create"
+    }
+  ]
+}

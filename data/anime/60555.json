@@ -1,0 +1,57 @@
+{
+  "id": 60555,
+  "title": "Ramen Akaneko 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1533/147025.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1533/147025l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Red Cat Ramen"
+    ],
+    "en": "Ramen Akaneko Season 2",
+    "ja": "ラーメン赤猫 第2期"
+  },
+  "start_date": "2027-01",
+  "synopsis": "Second season of Ramen Akaneko.",
+  "popularity": 12052,
+  "num_list_users": 2443,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-12-21T03:02:25+00:00",
+  "updated_at": "2026-06-20T03:49:49+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 48,
+      "name": "Workplace"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2642,
+      "name": "E&H Production"
+    }
+  ]
+}

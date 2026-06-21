@@ -16,10 +16,10 @@
   "start_date": "2017-10",
   "end_date": "2017-10",
   "synopsis": "A homage to Vox Balaenae (Voice of the Whale) by American composer George Crumb, depicting the evolution of life in the ocean from its birth to whales through music and images. There are four parts: Proterozoic, Paleozoic, Mesozoic, and Cenozoic.\n\n(Source: Yamamura Animation, translated)",
-  "rank": 18873,
-  "popularity": 21045,
-  "num_list_users": 329,
-  "num_scoring_users": 52,
+  "rank": 18885,
+  "popularity": 21040,
+  "num_list_users": 330,
+  "num_scoring_users": 54,
   "nsfw": "white",
   "created_at": "2018-03-10T12:54:59+00:00",
   "updated_at": "2019-01-28T19:10:53+00:00",
@@ -39,5 +39,10 @@
   "source": "music",
   "average_episode_duration": 653,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1055,
+      "name": "Yamamura Animation"
+    }
+  ]
 }

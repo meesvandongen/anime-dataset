@@ -1,0 +1,54 @@
+{
+  "id": 62483,
+  "title": "Kaze wo Tsugumono",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1157/156595.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1157/156595l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Inherit the Winds",
+    "ja": "風を継ぐもの"
+  },
+  "start_date": "2027-01",
+  "synopsis": "Set in June of 1863, the story follows a man with no memory who is brought to the Mibu Roushigumi headquarters in Kyoto. Taken in by vice-commander Souji Okita, he is given the name Jinsuke Tachikawa and begins life as a member of the group. As the Mibu Roushigumi—later known as the Shinsengumi—gain prominence amid the turmoil of the late Edo period, Jinsuke and his comrades are swept up in the era's upheaval. When Jinsuke finally regains all his memories, the world around him is forever changed.\n\n(Source: MAL News)",
+  "popularity": 12040,
+  "num_list_users": 2455,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-09-13T08:30:15+00:00",
+  "updated_at": "2026-04-07T12:43:16+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "23:30"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1967,
+      "name": "Drive"
+    },
+    {
+      "id": 1995,
+      "name": "Live2D Creative Studio"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "id": 56646,
   "title": "Hokuto no Ken: Fist of the North Star",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1581/156641.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1581/156641l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1581/156641.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1581/156641l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,15 +11,16 @@
     "ja": "北斗の拳 -FIST OF THE NORTH STAR-"
   },
   "start_date": "2026-04-11",
+  "end_date": "2026-06-27",
   "synopsis": "In 199x, the world was engulfed in the blaze of nuclear war.\n\nWith the Ocean drying up and Earth torn asunder, all life seems to be lost but humans survived stubbornly. However, what dominated the post-apocalyptic world was sheer violence. The remaining humanity was split into two groups: those who kill and take whatever they can and those who are exploited.\n\nWhen all hope seems lost for the weak, a man in ragged cloth appears. He is Kenshiro, the rightful successor of the Hokuto Shinken martial arts with seven studs-like scars in the shape of the Big Dipper. His journey to becoming a legendary savior begins! \n\n(Source: Warner Bros. Japan, edited)",
-  "mean": 6.4,
-  "rank": 8440,
-  "popularity": 6412,
-  "num_list_users": 13629,
-  "num_scoring_users": 1318,
+  "mean": 6.41,
+  "rank": 8452,
+  "popularity": 6402,
+  "num_list_users": 13736,
+  "num_scoring_users": 1370,
   "nsfw": "white",
   "created_at": "2023-09-12T23:31:09+00:00",
-  "updated_at": "2026-06-11T23:31:44+00:00",
+  "updated_at": "2026-06-19T19:16:17+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -48,7 +49,7 @@
       "name": "Shounen"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 14,
   "start_season": {
     "year": 2026,
     "season": "spring"
