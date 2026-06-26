@@ -15,14 +15,14 @@
   "start_date": "2003-09-30",
   "end_date": "2004-03-30",
   "synopsis": "In this sequel series, events continue four years after they left off in the first series. Papuwa-kun is a mysterious boy who lives on a new tropical island full of the same crazy creatures. Along with his maid, Liquid, and his new amnestic friend, \"Rotarou\", they lead nonsensical adventures as they try to evade and confuse the Ganma Army, Special Corps, and even the Shinsengumi from discovering Rotarou's real secret and taking him away. \n\n(Source: ANN)",
-  "mean": 6.92,
-  "rank": 5151,
-  "popularity": 12424,
-  "num_list_users": 2190,
+  "mean": 6.94,
+  "rank": 5077,
+  "popularity": 12434,
+  "num_list_users": 2191,
   "num_scoring_users": 716,
   "nsfw": "white",
   "created_at": "2007-05-20T20:05:47+00:00",
-  "updated_at": "2021-07-20T21:25:45+00:00",
+  "updated_at": "2026-06-24T21:06:16+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 26,
