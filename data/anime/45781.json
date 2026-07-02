@@ -1,27 +1,27 @@
 {
   "id": 45781,
-  "title": "Cike Nieyinniang Qianchuan",
+  "title": "Cike Nie Yinniang: Qianzhuan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1869/115336.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1869/115336l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1495/158809.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1495/158809l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
-      "The Assassin: The Pre-Sequel"
+      "Cike Nieyinniang Qianchuan"
     ],
-    "en": "",
+    "en": "The Assassin: The Pre-Sequel",
     "ja": "刺客聂隐娘前传"
   },
   "start_date": "2015-08-20",
   "end_date": "2015-08-20",
-  "synopsis": "",
-  "rank": 16012,
-  "popularity": 23394,
+  "synopsis": "The roaring winds stirs up the high clouds and the weeds flourish in the wild. Zhen Guan's Reign of Tang Dynasty. 10-year-old general's daughter Nie Yinniang, who has been promised to his cousin Tian Ji’an, is abducted by a nun who initiates her into the martial arts in isolated mountains. Three years pass by, Nie Yinniang has been transformed into a master. However, her long-repressed humanity now get in her way of becoming an exceptional assassin. Another two years slips away, Nie Yinniang and her nun master have a sword fight in the moonlit bamboo forest with the eyes of both blindfolded. This is a test that could bring an end to the apprenticeship of Nie Yinniang, while it may also mark the threshold of another long and bitter journey of hers…\n\n(Source: Vimeo)",
+  "rank": 16024,
+  "popularity": 23428,
   "num_list_users": 209,
   "num_scoring_users": 70,
   "nsfw": "white",
   "created_at": "2021-01-10T12:30:21+00:00",
-  "updated_at": "2021-05-31T11:56:08+00:00",
+  "updated_at": "2026-06-30T23:50:00+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -38,5 +38,10 @@
   "source": "original",
   "average_episode_duration": 257,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 3339,
+      "name": "Realwood Studios"
+    }
+  ]
 }
