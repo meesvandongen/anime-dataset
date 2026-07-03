@@ -6,22 +6,22 @@
     "large": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [
-      "Chainsmoker Cat"
-    ],
-    "en": "",
+    "synonyms": [],
+    "en": "Chainsmoker Cat",
     "ja": "ヤニねこ"
   },
   "start_date": "2026-07-03",
   "synopsis": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 4950,
-  "num_list_users": 26408,
-  "num_scoring_users": 0,
+  "mean": 7.02,
+  "rank": 4775,
+  "popularity": 4451,
+  "num_list_users": 34090,
+  "num_scoring_users": 1033,
   "nsfw": "white",
   "created_at": "2026-02-01T15:18:12+00:00",
-  "updated_at": "2026-05-31T02:38:39+00:00",
+  "updated_at": "2026-06-30T19:15:54+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
@@ -50,7 +50,8 @@
     "start_time": "00:30"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 1722,

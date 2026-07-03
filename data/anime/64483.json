@@ -1,0 +1,62 @@
+{
+  "id": 64483,
+  "title": "Zombie Stage",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1562/158735.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1562/158735l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "ZOMST",
+      "Alien Stage AU: Zombie Stage"
+    ],
+    "en": "",
+    "ja": "Zombie Stage"
+  },
+  "start_date": "2026-06-26",
+  "synopsis": "Zombie Stage is a reimagining of Alien Stage in an alternate setting.",
+  "mean": 7.75,
+  "popularity": 12880,
+  "num_list_users": 1931,
+  "num_scoring_users": 363,
+  "nsfw": "white",
+  "created_at": "2026-06-26T18:18:15+00:00",
+  "updated_at": "2026-06-28T08:04:03+00:00",
+  "media_type": "music",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 59,
+      "name": "High Stakes Game"
+    },
+    {
+      "id": 14,
+      "name": "Horror"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 40,
+      "name": "Psychological"
+    },
+    {
+      "id": 41,
+      "name": "Suspense"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "music",
+  "average_episode_duration": 300,
+  "rating": "r",
+  "studios": []
+}

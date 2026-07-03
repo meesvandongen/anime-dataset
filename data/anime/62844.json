@@ -1,24 +1,24 @@
 {
   "id": 62844,
-  "title": "Kusuriya no Hitorigoto Movie",
+  "title": "Kusuriya no Hitorigoto Movie: Bouhi no Hihou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1059/152815.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1059/152815l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1656/158840.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1656/158840l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "The Apothecary Diaries Movie",
-    "ja": "劇場版 薬屋のひとりごと"
+    "ja": "劇場版 薬屋のひとりごと 亡妃の秘宝"
   },
-  "start_date": "2026-12",
-  "end_date": "2026-12",
+  "start_date": "2026-12-11",
+  "end_date": "2026-12-11",
   "synopsis": "Original Kusuriya no Hitorigoto movie.",
-  "popularity": 3481,
-  "num_list_users": 54012,
-  "num_scoring_users": 1,
+  "popularity": 3459,
+  "num_list_users": 54642,
+  "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": "2025-10-22T15:22:43+00:00",
-  "updated_at": "2025-12-23T10:50:32+00:00",
+  "updated_at": "2026-07-02T23:50:14+00:00",
   "media_type": "movie",
   "status": "not_yet_aired",
   "genres": [
@@ -47,5 +47,10 @@
   "source": "light_novel",
   "average_episode_duration": 0,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2705,
+      "name": "TOHO animation STUDIO"
+    }
+  ]
 }

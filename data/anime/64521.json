@@ -1,0 +1,50 @@
+{
+  "id": 64521,
+  "title": "Supertrons 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1393/158801.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1393/158801l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Syupeoteulon 2"
+    ],
+    "en": "",
+    "ja": "슈퍼트론2"
+  },
+  "start_date": "2025-03-27",
+  "end_date": "2025-12-03",
+  "synopsis": "",
+  "rank": 20860,
+  "popularity": 30177,
+  "num_list_users": 20,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-06-30T12:06:25+00:00",
+  "updated_at": "2026-07-01T06:47:28+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 13,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 726,
+  "rating": "pg",
+  "studios": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 64519,
+  "title": "Bananya: At-Home Party",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1015/158799.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1015/158799l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ばなにゃ あっとほーむぱーてぃー"
+  },
+  "start_date": "2026-07-04",
+  "synopsis": "Fourth season of Bananya.\n\nThe new anime's story centers on a kitten that woke up in an unfamiliar world full of Bananya creatures, and realizes that the kitten itself has also turned into a Bananya. Together with other Bananyas, the kitten sets off on a journey across forests and mountains to find a little one's lost shiny treasure.\n\n(Source: ANN)",
+  "popularity": 17846,
+  "num_list_users": 584,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-06-30T03:41:56+00:00",
+  "updated_at": "2026-07-02T06:36:50+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 62,
+      "name": "Isekai"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    },
+    {
+      "id": 1829,
+      "name": "Lesprit"
+    }
+  ]
+}

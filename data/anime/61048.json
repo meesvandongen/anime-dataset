@@ -10,16 +10,18 @@
     "en": "The Cat and the Dragon",
     "ja": "猫と竜"
   },
-  "start_date": "2026-07-04",
-  "synopsis": "Deep in the forest where ferocious beasts and magical creatures dwell, a cat takes in an orphaned baby dragon as one of her own.\n\n(Source: MU)",
-  "popularity": 7036,
-  "num_list_users": 10977,
-  "num_scoring_users": 0,
+  "start_date": "2026-06-27",
+  "synopsis": "An orphan since hatched, a lone dragon named \"Uncle Wings\" is taken in by a family of magic-wielding cats and raised as one of their own. As Uncle Wings grows, he becomes the cats' protector, determined to keep them safe from humans. But as he watches the cats connect with humans using their magic, Uncle Wings slowly starts to warm up to humans in this heartfelt, bittersweet tale.\n\n(Source: Crunchyroll)",
+  "mean": 7.55,
+  "rank": 1960,
+  "popularity": 5728,
+  "num_list_users": 18515,
+  "num_scoring_users": 1388,
   "nsfw": "white",
   "created_at": "2025-02-21T16:10:21+00:00",
-  "updated_at": "2026-06-22T23:03:39+00:00",
+  "updated_at": "2026-06-28T13:20:52+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 10,
@@ -36,7 +38,8 @@
     "start_time": "21:00"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1422,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 28,

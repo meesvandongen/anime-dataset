@@ -1,0 +1,39 @@
+{
+  "id": 64490,
+  "title": "Sakujitsu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1517/158744.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1517/158744l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "朔日"
+  },
+  "start_date": "2026-06-27",
+  "end_date": "2026-06-27",
+  "synopsis": "Music video for the song Sakujitsu by Tsukuyomi featuring Yoshino. The song was used as the ending theme of the anime Duel Masters LOST: Boukyaku no Taiyou.",
+  "popularity": 28414,
+  "num_list_users": 98,
+  "num_scoring_users": 36,
+  "nsfw": "white",
+  "created_at": "2026-06-27T12:13:12+00:00",
+  "updated_at": "2026-06-28T08:22:58+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 200,
+  "rating": "pg_13",
+  "studios": []
+}
