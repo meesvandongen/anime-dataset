@@ -12,15 +12,20 @@
   },
   "start_date": "2026-07-08",
   "synopsis": "Akihito is a college student obsessed with good looks and carnal pleasure, but he can’t stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who’s set her romantic sights on Sae. Furious, he follows Sae to the hotel district where he learns Sae’s secret: he’s gay, and he’s having trouble enjoying himself in the bedroom. Breaking through Sae’s mental barriers is exactly the sexy challenge Akihito needed. It awakens something in them both. Will they ever be able to control themselves again?\n\n(Source: Seven Seas Entertainment)",
-  "popularity": 10070,
-  "num_list_users": 4338,
-  "num_scoring_users": 0,
+  "rank": 19636,
+  "popularity": 9506,
+  "num_list_users": 5212,
+  "num_scoring_users": 73,
   "nsfw": "gray",
   "created_at": "2026-02-20T11:58:41+00:00",
-  "updated_at": "2026-06-30T23:33:40+00:00",
+  "updated_at": "2026-07-08T14:40:21+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
     {
       "id": 28,
       "name": "Boys Love"
@@ -36,7 +41,8 @@
     "start_time": "23:25"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 328,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 2844,

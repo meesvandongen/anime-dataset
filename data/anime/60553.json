@@ -2,8 +2,8 @@
   "id": 60553,
   "title": "Nonohara Yuzuka no Himitsu no Haishin",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1606/150008.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1606/150008l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1606/150008.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1606/150008l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,23 +11,24 @@
     "ja": "野々原柚花のヒミツのハイシン"
   },
   "start_date": "2025-02-28",
+  "end_date": "2025-02-28",
   "synopsis": "",
-  "mean": 7.18,
-  "popularity": 10810,
-  "num_list_users": 3467,
-  "num_scoring_users": 1055,
+  "mean": 7.11,
+  "popularity": 10802,
+  "num_list_users": 3489,
+  "num_scoring_users": 1069,
   "nsfw": "gray",
   "created_at": "2024-12-20T16:44:20+00:00",
-  "updated_at": "2024-12-21T14:22:11+00:00",
+  "updated_at": "2026-07-07T15:32:29+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 2,
   "start_season": {
     "year": 2025,
     "season": "winter"

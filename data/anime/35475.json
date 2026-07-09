@@ -14,13 +14,13 @@
   "end_date": "2017-04-23",
   "synopsis": "DJ and music producer Yasutaka Nakata known for his work with Perfume and Kyary Pamyu Pamyu Nakata recruited the characters from Isobe Isobee Monogatari to star in a promotional video for his new single \"Seiseseiseiseiseseisei.\"",
   "mean": 5,
-  "rank": 14393,
-  "popularity": 18383,
-  "num_list_users": 533,
+  "rank": 14453,
+  "popularity": 18400,
+  "num_list_users": 535,
   "num_scoring_users": 194,
   "nsfw": "white",
   "created_at": "2017-04-25T07:36:11+00:00",
-  "updated_at": "2025-12-09T13:24:29+00:00",
+  "updated_at": "2026-07-04T19:15:38+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -39,6 +39,10 @@
     {
       "id": 20,
       "name": "Parody"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,

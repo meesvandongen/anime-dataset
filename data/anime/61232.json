@@ -11,16 +11,17 @@
     "ja": "風紀委員とフーゾク活動"
   },
   "start_date": "2025-04-25",
+  "end_date": "2025-04-25",
   "synopsis": "Responsible boy Shinji Izumi studies hard and enters a popular university. Until recently, the educational institution was considered to be only for women, and he turned out to be the only guy there. Everything would be fine, but there is one committee there that maintains order in an unusual way. The boy is forced to obey their rules. Over time, these rules develop into a hurricane of feelings and emotions. There is no escape from such a storm, and Shinji will have to make a choice.",
-  "mean": 7.67,
-  "popularity": 10160,
-  "num_list_users": 4225,
-  "num_scoring_users": 1308,
+  "mean": 7.61,
+  "popularity": 10142,
+  "num_list_users": 4263,
+  "num_scoring_users": 1326,
   "nsfw": "gray",
   "created_at": "2025-03-16T20:56:39+00:00",
-  "updated_at": "2025-03-17T13:31:11+00:00",
+  "updated_at": "2026-07-07T15:34:16+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 35,
@@ -35,7 +36,7 @@
       "name": "School"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 2,
   "start_season": {
     "year": 2025,
     "season": "spring"

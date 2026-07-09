@@ -1,0 +1,50 @@
+{
+  "id": 50668,
+  "title": "Mahoutsukai no Yoru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1054/158927.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1054/158927l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "A Magician's Night",
+      "MahoYo"
+    ],
+    "en": "Witch on the Holy Night",
+    "ja": "魔法使いの夜"
+  },
+  "start_date": "2026-11-20",
+  "end_date": "2026-11-20",
+  "synopsis": "Set near the end of the Showa period in the late 1980s, an old mansion in Misaki Town is rumored to be the home of a witch.\n\nAoko abruptly enters the world of magi after her grandfather suddenly decides to have Aoko become the Aozaki family's successor. Since then, Aoko moves into the Kuonji Mansion and begins to learn magecraft from the young magus Alice Kuonji, the rumored witch of the mansion. After witnessing the two using magecraft, Soujuurou Shizuki is also forced to live with them until a rune to remove his memories is discovered. \n\n(Source: Type-Moon Fandom Wiki)",
+  "popularity": 4275,
+  "num_list_users": 37170,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2021-12-26T15:25:45+00:00",
+  "updated_at": "2026-07-07T14:09:29+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 7,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "visual_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 43,
+      "name": "ufotable"
+    }
+  ]
+}

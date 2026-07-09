@@ -14,19 +14,23 @@
   "end_date": "2025-03-31",
   "synopsis": "",
   "mean": 5.82,
-  "rank": 11774,
-  "popularity": 12792,
-  "num_list_users": 1976,
-  "num_scoring_users": 423,
+  "rank": 11832,
+  "popularity": 12803,
+  "num_list_users": 1983,
+  "num_scoring_users": 425,
   "nsfw": "white",
   "created_at": "2025-02-21T16:26:43+00:00",
-  "updated_at": "2025-07-18T07:07:41+00:00",
+  "updated_at": "2026-07-04T18:32:20+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 13,

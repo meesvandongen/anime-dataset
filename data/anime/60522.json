@@ -2,8 +2,8 @@
   "id": 60522,
   "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1544/157046.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1544/157046l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1544/157046.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1544/157046l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -14,14 +14,16 @@
   },
   "start_date": "2026-07-06",
   "synopsis": "Second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
-  "popularity": 3291,
-  "num_list_users": 59392,
-  "num_scoring_users": 103,
+  "mean": 7.11,
+  "rank": 4250,
+  "popularity": 2997,
+  "num_list_users": 70682,
+  "num_scoring_users": 3304,
   "nsfw": "white",
   "created_at": "2024-12-15T11:28:23+00:00",
-  "updated_at": "2026-06-07T23:00:42+00:00",
+  "updated_at": "2026-07-06T17:12:19+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -40,7 +42,7 @@
       "name": "Isekai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2026,
     "season": "summer"
@@ -50,7 +52,7 @@
     "start_time": "22:00"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1430,
   "rating": "pg_13",
   "studios": [
     {

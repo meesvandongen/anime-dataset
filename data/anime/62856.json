@@ -14,14 +14,16 @@
   },
   "start_date": "2026-07-05",
   "synopsis": "In an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.\n\nA boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.\n\nTogether, they must confront their pasts and carve a path toward the future they once believed in.\n\n(Source: Press Release)",
-  "popularity": 4195,
-  "num_list_users": 38579,
-  "num_scoring_users": 36,
+  "mean": 7.73,
+  "rank": 1390,
+  "popularity": 3622,
+  "num_list_users": 50509,
+  "num_scoring_users": 2528,
   "nsfw": "white",
   "created_at": "2025-10-25T05:31:41+00:00",
-  "updated_at": "2026-06-07T23:21:48+00:00",
+  "updated_at": "2026-07-06T16:39:27+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -32,7 +34,7 @@
       "name": "Historical"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 13,
   "start_season": {
     "year": 2026,
     "season": "summer"
@@ -42,7 +44,8 @@
     "start_time": "23:00"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1531,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 2,

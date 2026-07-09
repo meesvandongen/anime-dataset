@@ -15,9 +15,9 @@
   "start_date": "2021-04",
   "end_date": "2021-10",
   "synopsis": "",
-  "rank": 18402,
-  "popularity": 20945,
-  "num_list_users": 339,
+  "rank": 18460,
+  "popularity": 20972,
+  "num_list_users": 340,
   "num_scoring_users": 60,
   "nsfw": "white",
   "created_at": "2024-11-24T11:56:42+00:00",
@@ -42,5 +42,10 @@
   "source": "web_manga",
   "average_episode_duration": 50,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2310,
+      "name": "Paper Plane Animation Studio"
+    }
+  ]
 }

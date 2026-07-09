@@ -12,14 +12,16 @@
   },
   "start_date": "2026-07-05",
   "synopsis": "Hinako Konohana is the perfect young lady—graceful, elegant, and flawless... or so everyone thinks. Behind closed doors, she's a total disaster who can't handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he's thrown into 24/7 damage control, maintaining her \"perfect\" image. It's awkward, nonstop chaos—but it starts softening into something that feels like love...\n\n(Source: Crunchyroll)",
-  "popularity": 5513,
-  "num_list_users": 20414,
-  "num_scoring_users": 3,
+  "mean": 7.29,
+  "rank": 3205,
+  "popularity": 4556,
+  "num_list_users": 32395,
+  "num_scoring_users": 2835,
   "nsfw": "white",
   "created_at": "2025-10-30T14:08:28+00:00",
-  "updated_at": "2026-07-01T14:29:07+00:00",
+  "updated_at": "2026-07-06T16:49:49+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 4,
@@ -44,7 +46,8 @@
     "start_time": "02:38"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 112,
