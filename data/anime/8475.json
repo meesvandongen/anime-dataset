@@ -16,13 +16,13 @@
   "end_date": "2012-09-29",
   "synopsis": "Asura is an unrelentingly dark drama that follows the struggles of a young boy who did whatever it took to survive during a time of war and famine in medieval Japan.",
   "mean": 6.97,
-  "rank": 4961,
-  "popularity": 4368,
-  "num_list_users": 35516,
-  "num_scoring_users": 15452,
+  "rank": 4973,
+  "popularity": 4380,
+  "num_list_users": 35523,
+  "num_scoring_users": 15455,
   "nsfw": "white",
   "created_at": "2010-03-25T19:00:59+00:00",
-  "updated_at": "2023-07-16T16:20:41+00:00",
+  "updated_at": "2026-07-13T21:15:02+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -37,6 +37,10 @@
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,
