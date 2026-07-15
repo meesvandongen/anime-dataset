@@ -1,0 +1,44 @@
+{
+  "id": 64579,
+  "title": "Sealook 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1632/158941.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1632/158941l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "씰룩2"
+  },
+  "start_date": "2025-08-01",
+  "synopsis": "Second season of Sealook.",
+  "rank": 20278,
+  "popularity": 30203,
+  "num_list_users": 30,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2026-07-09T01:57:59+00:00",
+  "updated_at": "2026-07-09T15:17:12+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2025,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 180,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 2997,
+      "name": "Million Volt"
+    }
+  ]
+}

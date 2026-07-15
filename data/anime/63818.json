@@ -12,22 +12,18 @@
   },
   "start_date": "2026-10",
   "synopsis": "",
-  "popularity": 16138,
-  "num_list_users": 829,
+  "popularity": 15900,
+  "num_list_users": 886,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2026-03-27T23:55:05+00:00",
-  "updated_at": "2026-03-31T06:40:48+00:00",
+  "updated_at": "2026-07-14T19:26:56+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 11,
-      "name": "Strategy Game"
     }
   ],
   "num_episodes": 0,

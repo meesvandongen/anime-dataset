@@ -1,0 +1,40 @@
+{
+  "id": 64595,
+  "title": "Chiikawa Eiga Manner Kouza",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1836/158963.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1836/158963l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ちいかわ映画マナー講座"
+  },
+  "start_date": "2026-05-08",
+  "end_date": "2026-05-08",
+  "synopsis": "A manner movie featuring the Chiikawa characters Chiikawa, Hachiware, and Usagi.",
+  "rank": 16009,
+  "popularity": 30214,
+  "num_list_users": 22,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2026-07-12T15:44:35+00:00",
+  "updated_at": "2026-07-13T08:37:43+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 30,
+  "rating": "g",
+  "studios": []
+}
