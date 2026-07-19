@@ -2,8 +2,8 @@
   "id": 4371,
   "title": "Uchuu Senshi Baldios (Movie)",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/10/61937.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/10/61937l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/10/61937.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/10/61937l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,10 +14,10 @@
   "end_date": "1981-12-29",
   "synopsis": "This film supplied the ending to the cancelled Space Warrior Baldios television series.",
   "mean": 6.52,
-  "rank": 7856,
-  "popularity": 12492,
-  "num_list_users": 2191,
-  "num_scoring_users": 827,
+  "rank": 7861,
+  "popularity": 12502,
+  "num_list_users": 2192,
+  "num_scoring_users": 828,
   "nsfw": "white",
   "created_at": "2008-04-20T12:28:52+00:00",
   "updated_at": "2025-10-17T22:06:03+00:00",
@@ -42,6 +42,7 @@
     "year": 1981,
     "season": "fall"
   },
+  "source": "original",
   "average_episode_duration": 7096,
   "rating": "pg_13",
   "studios": []

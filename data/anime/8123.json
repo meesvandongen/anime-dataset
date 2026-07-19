@@ -14,13 +14,13 @@
   "end_date": "1995-05-25",
   "synopsis": "The story of Mr. Araiwa and his family. He is a model employee in a large enterprise, but becomes a completely different character at home. He is very keen on cooking and lets pass no occasion to cook delicious dishes for his wife, who is frequently occupied by her work as a journalist, or his young son.\n\n(Source: AniDB)",
   "mean": 7.17,
-  "rank": 3882,
-  "popularity": 11457,
-  "num_list_users": 2931,
+  "rank": 3885,
+  "popularity": 11466,
+  "num_list_users": 2930,
   "num_scoring_users": 553,
   "nsfw": "white",
   "created_at": "2010-02-09T15:47:59+00:00",
-  "updated_at": "2022-05-05T05:45:22+00:00",
+  "updated_at": "2026-07-14T08:21:28+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 47,
       "name": "Gourmet"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 151,
