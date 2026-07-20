@@ -2,8 +2,8 @@
   "id": 1905,
   "title": "Harukanaru Toki no Naka de: Hachiyou Shou Specials",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/7/30559.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/7/30559l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/7/30559.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/7/30559l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -18,12 +18,12 @@
   "synopsis": "Short clips about what happens after the TV series.",
   "mean": 6.32,
   "rank": 9066,
-  "popularity": 11151,
+  "popularity": 11162,
   "num_list_users": 3177,
   "num_scoring_users": 1011,
   "nsfw": "white",
   "created_at": "2007-02-04T11:52:51+00:00",
-  "updated_at": "2025-10-19T03:25:16+00:00",
+  "updated_at": "2026-07-17T00:56:19+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -32,20 +32,12 @@
       "name": "Fantasy"
     },
     {
-      "id": 13,
-      "name": "Historical"
-    },
-    {
       "id": 62,
       "name": "Isekai"
     },
     {
       "id": 22,
       "name": "Romance"
-    },
-    {
-      "id": 78,
-      "name": "Time Travel"
     }
   ],
   "num_episodes": 8,
