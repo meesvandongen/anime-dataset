@@ -1,0 +1,45 @@
+{
+  "id": 63660,
+  "title": "Yuanshen: Rui Shou Xiang Wen",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1535/155951.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1535/155951l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Genshin Impact: Tidings of an Auspicious Beast",
+    "ja": "《原神》定格动画-「瑞兽祥闻」"
+  },
+  "start_date": "2024-01-20",
+  "end_date": "2024-01-20",
+  "synopsis": "Stop motion animation promoting the release of the 2024 Lantern Rite update for Genshin Impact.",
+  "rank": 22474,
+  "popularity": 28054,
+  "num_list_users": 105,
+  "num_scoring_users": 45,
+  "nsfw": "white",
+  "created_at": "2026-03-09T11:24:57+00:00",
+  "updated_at": "2026-07-20T17:41:17+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "game",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2682,
+      "name": "Steamworks"
+    }
+  ]
+}

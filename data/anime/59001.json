@@ -16,21 +16,17 @@
   "mean": 7.99,
   "rank": 760,
   "popularity": 5870,
-  "num_list_users": 17564,
-  "num_scoring_users": 13050,
+  "num_list_users": 17587,
+  "num_scoring_users": 13059,
   "nsfw": "white",
   "created_at": "2024-06-06T15:45:30+00:00",
-  "updated_at": "2026-07-13T22:44:04+00:00",
+  "updated_at": "2026-07-17T00:27:27+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 13,
-      "name": "Historical"
     },
     {
       "id": 62,

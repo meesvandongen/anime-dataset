@@ -1,0 +1,58 @@
+{
+  "id": 64614,
+  "title": "PUBG Mobile x Naruto: Shippuuden Collab",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1237/159001.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1237/159001l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "『PUBG MOBILE』×『NARUTO-ナルト- 疾風伝』コラボ"
+    ],
+    "en": "",
+    "ja": "《火影忍者》與《絕地求生M》官方合作動畫大公開！"
+  },
+  "start_date": "2026-07-08",
+  "end_date": "2026-07-08",
+  "synopsis": "Promotional video for an in-game collaboration between PUBG Mobile and Naruto: Shippuuden.",
+  "popularity": 26015,
+  "num_list_users": 137,
+  "num_scoring_users": 56,
+  "nsfw": "white",
+  "created_at": "2026-07-15T02:21:08+00:00",
+  "updated_at": "2026-07-15T02:21:08+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    },
+    {
+      "id": 76,
+      "name": "Survival"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "other",
+  "average_episode_duration": 120,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1,
+      "name": "Studio Pierrot"
+    }
+  ]
+}

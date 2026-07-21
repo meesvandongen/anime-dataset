@@ -13,14 +13,15 @@
   "start_date": "2026-07-19",
   "end_date": "2026-07-19",
   "synopsis": "New animation project for Cyborg 009.",
-  "popularity": 13620,
-  "num_list_users": 1565,
-  "num_scoring_users": 0,
+  "rank": 16182,
+  "popularity": 13541,
+  "num_list_users": 1604,
+  "num_scoring_users": 27,
   "nsfw": "white",
   "created_at": "2025-07-19T02:07:01+00:00",
   "updated_at": "2026-06-18T06:31:02+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 2,
@@ -46,6 +47,7 @@
   },
   "source": "manga",
   "average_episode_duration": 1800,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 2265,

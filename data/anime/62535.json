@@ -14,24 +14,20 @@
   },
   "start_date": "2026-07-12",
   "synopsis": "Narukami Ryusei is your typical NEET. He spends his days shut in his room playing video games without a care in the world, living a lazy life. But the truth is, Ryusei used to be a powerful demon king in another world! So why not spend this new life doing whatever he wants? Except, he wasn't the only one reincarnated into this world. The hero who struck him down is here too—and she's a really cute high school girl?! Can Ryusei survive reuniting with his foe in a new world, or will he find himself fighting even in this life?\n\n(Source: Seven Seas Entertainment)",
-  "mean": 7.09,
-  "rank": 4388,
-  "popularity": 5416,
-  "num_list_users": 21730,
-  "num_scoring_users": 1727,
+  "mean": 7.04,
+  "rank": 4646,
+  "popularity": 5081,
+  "num_list_users": 25385,
+  "num_scoring_users": 2453,
   "nsfw": "white",
   "created_at": "2025-09-21T10:00:46+00:00",
-  "updated_at": "2026-07-11T19:09:48+00:00",
+  "updated_at": "2026-07-18T20:44:20+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
-    },
-    {
-      "id": 10,
-      "name": "Fantasy"
     },
     {
       "id": 72,
@@ -44,6 +40,10 @@
     {
       "id": 42,
       "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 0,
