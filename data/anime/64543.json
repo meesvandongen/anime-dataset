@@ -10,12 +10,12 @@
     "en": "",
     "ja": "うしろの正面カムイさん ミニアニメ"
   },
-  "start_date": "2026-07-04",
+  "start_date": "2026-07-12",
   "synopsis": "A weekly mini anime shown with each episode of Ushiro no Shoumen Kamui-san exclusively on the AT-X broadcast of the TV anime and online on OceanVeil.",
-  "rank": 21478,
-  "popularity": 20387,
-  "num_list_users": 383,
-  "num_scoring_users": 52,
+  "rank": 21501,
+  "popularity": 17276,
+  "num_list_users": 659,
+  "num_scoring_users": 87,
   "nsfw": "white",
   "created_at": "2026-07-03T21:16:14+00:00",
   "updated_at": "2026-07-16T06:26:20+00:00",
@@ -40,7 +40,7 @@
     "day_of_the_week": "sunday",
     "start_time": "00:00"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 720,
   "rating": "pg_13",
   "studios": []

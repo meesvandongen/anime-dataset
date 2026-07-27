@@ -17,13 +17,13 @@
   "end_date": "2017-12-31",
   "synopsis": "Just as in this life, the afterlife needs a calm troubleshooter to deal with the bureaucratic headaches that come from keeping things in order. Enter Hozuki: a cool and collected demon who’s badly in need of a vacation.\n\n(Source: HIDIVE)",
   "mean": 7.89,
-  "rank": 946,
-  "popularity": 3587,
-  "num_list_users": 51597,
-  "num_scoring_users": 20529,
+  "rank": 948,
+  "popularity": 3588,
+  "num_list_users": 51616,
+  "num_scoring_users": 20534,
   "nsfw": "white",
   "created_at": "2017-03-11T09:41:15+00:00",
-  "updated_at": "2025-11-14T14:16:35+00:00",
+  "updated_at": "2026-07-23T14:53:31+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -34,6 +34,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 6,
+      "name": "Mythology"
     },
     {
       "id": 42,

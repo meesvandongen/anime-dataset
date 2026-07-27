@@ -1,0 +1,49 @@
+{
+  "id": 64652,
+  "title": "Tsunaide",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1911/159131.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1911/159131l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "つないで"
+  },
+  "start_date": "2025-06-04",
+  "end_date": "2025-06-04",
+  "synopsis": "A support video by Chugai Pharmaceutical for patients and healthcare workers facing illness, featuring the song Tsunaide by Yanai Yumena.",
+  "rank": 21367,
+  "popularity": 30232,
+  "num_list_users": 39,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2026-07-20T20:23:37+00:00",
+  "updated_at": "2026-07-23T09:34:14+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 250,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 1133,
+      "name": "dwarf"
+    },
+    {
+      "id": 2907,
+      "name": "Studio Placebo"
+    }
+  ]
+}

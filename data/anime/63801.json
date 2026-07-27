@@ -2,8 +2,8 @@
   "id": 63801,
   "title": "Ranma ½ (2024) 3rd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1450/156287.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1450/156287l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1939/159199.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1939/159199l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "Ranma ½ (2024) Season 3",
     "ja": "らんま1/2 第3期"
   },
-  "start_date": "2026-10",
+  "start_date": "2026-10-04",
   "synopsis": "Third season of Ranma ½ (2024).",
-  "popularity": 5683,
-  "num_list_users": 19146,
+  "popularity": 5637,
+  "num_list_users": 19526,
   "num_scoring_users": 0,
   "nsfw": "gray",
   "created_at": "2026-03-26T09:45:08+00:00",
-  "updated_at": "2026-03-26T11:19:05+00:00",
+  "updated_at": "2026-07-26T01:40:51+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -60,6 +60,10 @@
   "start_season": {
     "year": 2026,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "00:55"
   },
   "source": "manga",
   "average_episode_duration": 0,

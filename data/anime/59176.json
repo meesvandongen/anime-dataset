@@ -14,16 +14,20 @@
   "end_date": "2026-06-21",
   "synopsis": "Fuu Nonoyama and Rui Nonoyama are sisters from a \"land of magic,\" who were once on terms with one another, but have drifted apart. Suddenly, they are given magical powers by two cat-like spirits, Uguisu and Azuki, allowing them to transform into magical girl idols. However, there is a catch: these powers only last for a year and they cannot tell anyone that that magic exists. While neither Fuu nor Rui knows one another are magical girls, they soon begin their careers as idols.\n\n(Source: Wikipedia)",
   "mean": 6.79,
-  "rank": 6034,
-  "popularity": 8191,
-  "num_list_users": 7619,
-  "num_scoring_users": 1510,
+  "rank": 6055,
+  "popularity": 8171,
+  "num_list_users": 7684,
+  "num_scoring_users": 1537,
   "nsfw": "white",
   "created_at": "2024-06-29T12:41:40+00:00",
   "updated_at": "2026-07-21T05:37:19+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
     {
       "id": 66,
       "name": "Mahou Shoujo"

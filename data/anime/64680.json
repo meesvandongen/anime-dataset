@@ -1,0 +1,52 @@
+{
+  "id": 64680,
+  "title": "Gigabuilder",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1511/159168.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1511/159168l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "GigaBuilder",
+    "ja": "기가빌더"
+  },
+  "start_date": "2026-03-13",
+  "end_date": "2026-05-22",
+  "synopsis": "",
+  "rank": 16925,
+  "popularity": 30269,
+  "num_list_users": 1,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-07-25T10:44:36+00:00",
+  "updated_at": "2026-07-27T04:46:06+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 20,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 680,
+  "rating": "pg",
+  "studios": []
+}

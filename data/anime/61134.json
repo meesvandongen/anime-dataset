@@ -17,9 +17,9 @@
   "end_date": "2025-03-02",
   "synopsis": "Pilot video for Kimi ga Shinu made Koi wo Shitai.",
   "mean": 7.62,
-  "popularity": 10904,
-  "num_list_users": 3400,
-  "num_scoring_users": 883,
+  "popularity": 10862,
+  "num_list_users": 3459,
+  "num_scoring_users": 899,
   "nsfw": "gray",
   "created_at": "2025-03-03T00:41:51+00:00",
   "updated_at": "2025-03-03T01:36:53+00:00",
@@ -50,7 +50,7 @@
   },
   "source": "manga",
   "average_episode_duration": 118,
-  "rating": "pg_13",
+  "rating": "r",
   "studios": [
     {
       "id": 2835,

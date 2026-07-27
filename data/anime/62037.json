@@ -13,9 +13,9 @@
   "start_date": "2025-07-11",
   "end_date": "2025-09-26",
   "synopsis": "",
-  "mean": 5.74,
-  "rank": 12290,
-  "popularity": 17692,
+  "mean": 5.75,
+  "rank": 12291,
+  "popularity": 17713,
   "num_list_users": 607,
   "num_scoring_users": 185,
   "nsfw": "white",
@@ -38,7 +38,7 @@
     "year": 2025,
     "season": "summer"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 60,
   "rating": "pg_13",
   "studios": [
