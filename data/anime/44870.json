@@ -2,8 +2,8 @@
   "id": 44870,
   "title": "Sui Cheng Li Xin: Guiyu Zhou Yuan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1726/127261.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1726/127261l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1670/159224.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1670/159224l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,14 @@
   },
   "start_date": "2014-12-08",
   "end_date": "2014-12-08",
-  "synopsis": "",
-  "rank": 20936,
-  "popularity": 22720,
-  "num_list_users": 247,
-  "num_scoring_users": 68,
+  "synopsis": "A solitary city, hidden deep in the mountains, harbored a secret medicine known as the \"Ghostly Curse Plain.\" At that time, the land was in ruins, chaos reigned, natural disasters and man-made calamities ravaged the land, and the people suffered immensely. All who sought the \"Ghostly Curse Plain\" longed for its miraculous power, but could not obtain it. One day, a powerful army appeared outside the city, and the city gates were under siege. The city lord, left with no other choice, unleashed the most powerful weapon in the world, named the \"Black Qilin.\" Then, the city gates swung open, and a red-haired man, wielding a ten meters long black gold sword, stepped out and faced the thousands of troops…\n\n(Source: Douban, translated)",
+  "rank": 20948,
+  "popularity": 22695,
+  "num_list_users": 249,
+  "num_scoring_users": 69,
   "nsfw": "white",
   "created_at": "2020-12-18T05:39:40+00:00",
-  "updated_at": "2022-08-22T07:46:34+00:00",
+  "updated_at": "2026-07-28T17:35:18+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -36,5 +36,10 @@
   "source": "original",
   "average_episode_duration": 270,
   "rating": "r",
-  "studios": []
+  "studios": [
+    {
+      "id": 2241,
+      "name": "Dawn Animation"
+    }
+  ]
 }
