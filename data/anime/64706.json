@@ -1,0 +1,45 @@
+{
+  "id": 64706,
+  "title": "The Dappies",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1810/159232.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1810/159232l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "en": "",
+    "ja": "ザ・だっぴーず"
+  },
+  "start_date": "2026-06-01",
+  "end_date": "2026-06-01",
+  "synopsis": "Music video for the song The Dappies by Fudanjuku, that was featured on NHK's Minna no Uta program.",
+  "popularity": 30282,
+  "num_list_users": 16,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2026-07-30T01:32:43+00:00",
+  "updated_at": "2026-07-30T01:32:43+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 145,
+  "rating": "g",
+  "studios": []
+}

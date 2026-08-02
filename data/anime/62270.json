@@ -1,0 +1,48 @@
+{
+  "id": 62270,
+  "title": "BanG Dream! Ave Mujica: Prima Aurora",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1237/159287.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1237/159287l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "BanG Dream! Ave Mujica prima aurora"
+  },
+  "start_date": "2026-10-16",
+  "end_date": "2026-10-16",
+  "synopsis": "More than half a year has passed since Ave Mujica's comeback, and spring has arrived. The band's popularity continues to grow, while each member's individual activities are also gaining momentum. The next venue Sakiko proposes is a members-only masquerade ball.\n\nWhat lies behind the intentions of the girl who swore to become a god...?\n\n(Source: Official site, translated)",
+  "popularity": 11281,
+  "num_list_users": 3093,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-08-14T23:13:06+00:00",
+  "updated_at": "2026-08-02T02:16:49+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "mixed_media",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3194,
+      "name": "Nichicaline"
+    }
+  ]
+}

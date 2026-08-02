@@ -1,0 +1,39 @@
+{
+  "id": 64688,
+  "title": "I-Bull",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1564/159184.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1564/159184l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "I-Bull",
+    "ja": "I-BULL (いぶる)"
+  },
+  "start_date": "2026-07-25",
+  "end_date": "2026-07-25",
+  "synopsis": "Music video for the song I-Bull by jo0ji. The song was used as the opening theme of the anime Bleach: Sennen Kessen-hen - Kashin-tan.",
+  "popularity": 29270,
+  "num_list_users": 92,
+  "num_scoring_users": 46,
+  "nsfw": "white",
+  "created_at": "2026-07-25T16:15:13+00:00",
+  "updated_at": "2026-07-30T06:51:25+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 247,
+  "rating": "pg_13",
+  "studios": []
+}

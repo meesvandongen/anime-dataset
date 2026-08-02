@@ -13,8 +13,8 @@
   "start_date": "2026-07-03",
   "end_date": "2026-07-03",
   "synopsis": "Music video for the song Sayonara Penguin by Ichiko Aoba.",
-  "popularity": 30033,
-  "num_list_users": 69,
+  "popularity": 30011,
+  "num_list_users": 72,
   "num_scoring_users": 39,
   "nsfw": "white",
   "created_at": "2026-07-13T01:41:26+00:00",
@@ -39,5 +39,10 @@
   "source": "original",
   "average_episode_duration": 115,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3036,
+      "name": "MARK"
+    }
+  ]
 }

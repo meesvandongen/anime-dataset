@@ -2,27 +2,31 @@
   "id": 62907,
   "title": "Ojisan wa Kawaii Mono ga Osuki.",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1842/153411.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1842/153411l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1322/159256.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1322/159256l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
       "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things"
     ],
-    "en": "",
+    "en": "Uncle's Obsession with Cute Things",
     "ja": "おじさんはカワイイものがお好き。"
   },
-  "start_date": "2026-10",
+  "start_date": "2026-10-04",
   "synopsis": "Mitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)",
-  "popularity": 13423,
-  "num_list_users": 1674,
-  "num_scoring_users": 0,
+  "popularity": 13120,
+  "num_list_users": 1822,
+  "num_scoring_users": 1,
   "nsfw": "white",
   "created_at": "2025-11-08T10:10:30+00:00",
-  "updated_at": "2026-06-18T06:45:25+00:00",
+  "updated_at": "2026-08-01T20:59:59+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
     {
       "id": 4,
       "name": "Comedy"
@@ -32,6 +36,10 @@
   "start_season": {
     "year": 2026,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "22:00"
   },
   "source": "web_manga",
   "average_episode_duration": 0,
