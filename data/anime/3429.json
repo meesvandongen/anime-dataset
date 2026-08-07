@@ -14,13 +14,13 @@
   "end_date": "2003-10-24",
   "synopsis": "Based on the Blame! manga series by Tsutomu Nihei.",
   "mean": 5.29,
-  "rank": 13961,
-  "popularity": 7289,
-  "num_list_users": 10279,
-  "num_scoring_users": 4240,
+  "rank": 13971,
+  "popularity": 7296,
+  "num_list_users": 10290,
+  "num_scoring_users": 4242,
   "nsfw": "white",
   "created_at": "2007-11-17T05:01:13+00:00",
-  "updated_at": "2025-10-17T23:39:20+00:00",
+  "updated_at": "2026-08-04T14:31:36+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 24,
       "name": "Sci-Fi"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 1,

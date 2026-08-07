@@ -1,0 +1,53 @@
+{
+  "id": 45464,
+  "title": "Baba Qu Nar",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1223/129499.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1223/129499l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Baba Qu Na Er",
+      "Baba Qu Na Er Donghua Pian",
+      "爸爸去哪儿 动画片"
+    ],
+    "en": "",
+    "ja": "爸爸去哪儿"
+  },
+  "start_date": "2014-05-10",
+  "end_date": "2014-11-01",
+  "synopsis": "The story follows fathers and sons from an animated planet who, influenced by the show's immense popularity on Earth, join the program. Unexpectedly, they face numerous obstacles from other production teams on the animated planet, including their filming location being taken over by fan groups. The animated planet is completely different from the real world, with unimaginable adventures awaiting them, including an underwater village, a fairytale forest, and a snowman kingdom. Ultimately, the fathers and children overcome these difficulties and gain everyone's approval.\n\n(Source: Tencent, translated)",
+  "rank": 15462,
+  "popularity": 27823,
+  "num_list_users": 110,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2020-12-24T02:37:10+00:00",
+  "updated_at": "2026-08-02T19:08:13+00:00",
+  "media_type": "tv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2014,
+    "season": "spring"
+  },
+  "source": "other",
+  "average_episode_duration": 900,
+  "rating": "pg",
+  "studios": [
+    {
+      "id": 3121,
+      "name": "Happy Toon"
+    }
+  ]
+}
