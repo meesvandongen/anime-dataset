@@ -6,20 +6,22 @@
     "large": "https://cdn.myanimelist.net/images/anime/1876/159057l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "Pokemon Fun Video"
+    ],
     "en": "Purrfect Box",
     "ja": "ボックスパーティー"
   },
   "start_date": "2026-06-05",
   "end_date": "2026-06-05",
   "synopsis": "Litten found a nice box to rest in. However, they're not the only one with eyes set on it.",
-  "rank": 15770,
-  "popularity": 29892,
-  "num_list_users": 79,
-  "num_scoring_users": 27,
+  "rank": 15777,
+  "popularity": 29712,
+  "num_list_users": 88,
+  "num_scoring_users": 29,
   "nsfw": "white",
   "created_at": "2026-07-20T01:43:09+00:00",
-  "updated_at": "2026-07-20T01:43:09+00:00",
+  "updated_at": "2026-08-06T18:03:25+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [

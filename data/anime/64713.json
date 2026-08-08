@@ -14,14 +14,15 @@
   },
   "start_date": "2026-08-07",
   "synopsis": "At the crossroads of time and space lies a tavern—the back alley of Guyu Street. Whether in a corner of the city or a desert where stars have fallen, welcome to \"the back alley of Guyu Street\" as you traverse the labyrinth of reality. In this tavern where time seems endless, order a dream and encounter all sorts of guests. Watch as the capybara-like boy, Xiao Mo, peels away the shell of his obsession and finds the faint, unseen \"us\" amidst layers of nightmares.\n\n(Source: Tencent, translated)",
-  "popularity": 30260,
-  "num_list_users": 35,
-  "num_scoring_users": 0,
+  "rank": 17093,
+  "popularity": 29654,
+  "num_list_users": 89,
+  "num_scoring_users": 3,
   "nsfw": "white",
   "created_at": "2026-07-30T23:29:26+00:00",
-  "updated_at": "2026-07-30T23:29:26+00:00",
+  "updated_at": "2026-08-07T03:14:40+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -44,13 +45,13 @@
       "name": "Urban Fantasy"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 5,
   "start_season": {
     "year": 2026,
     "season": "summer"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1560,
   "rating": "pg_13",
   "studios": [
     {

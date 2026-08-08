@@ -1,0 +1,54 @@
+{
+  "id": 59787,
+  "title": "Romelia Senki",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1112/156366.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1112/156366l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
+      "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
+      "A History of the Romelia"
+    ],
+    "en": "Romelia War Chronicle",
+    "ja": "ロメリア戦記"
+  },
+  "start_date": "2026-10",
+  "synopsis": "Rising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)",
+  "popularity": 11471,
+  "num_list_users": 2947,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-09-09T23:16:25+00:00",
+  "updated_at": "2026-08-07T11:10:11+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 38,
+      "name": "Military"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 3290,
+      "name": "Atra"
+    }
+  ]
+}

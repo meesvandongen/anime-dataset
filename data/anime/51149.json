@@ -14,19 +14,23 @@
   "end_date": "2023-09-27",
   "synopsis": "Extra episodes included on volumes 1 and 7-12 of the BD/DVD.",
   "mean": 6.03,
-  "rank": 10809,
-  "popularity": 13311,
-  "num_list_users": 1725,
-  "num_scoring_users": 511,
+  "rank": 10812,
+  "popularity": 13313,
+  "num_list_users": 1729,
+  "num_scoring_users": 514,
   "nsfw": "white",
   "created_at": "2022-03-02T00:29:08+00:00",
-  "updated_at": "2023-07-29T07:19:14+00:00",
+  "updated_at": "2026-08-04T14:31:29+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 7,

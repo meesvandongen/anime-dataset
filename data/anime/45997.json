@@ -2,8 +2,8 @@
   "id": 45997,
   "title": "Dushi Miao Qitan",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1752/111572.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1752/111572l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1535/159324.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1535/159324l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,20 +12,24 @@
   },
   "start_date": "2021-01-30",
   "end_date": "2021-06-05",
-  "synopsis": "A story about the cat demons Nighteye and William who, through trading with humans, absorb the soul of the trader to increase their life span via cultivation and become immortal. In these transaction, interesting stories happen with Hong Yu, Lan Ling and others.\n\n(Source: ManhuaTai)",
-  "rank": 16599,
-  "popularity": 20584,
-  "num_list_users": 371,
+  "synopsis": "The cat demons Nightingale and William engage in \"soul\" transactions with humans, absorbing the souls of those they trade with to enhance their cultivation and ultimately achieve immortality. Through these transactions, they encounter interesting events with characters like Red Feather and Blue Ling.\n\n(Source: Mango TV, translated)",
+  "rank": 16609,
+  "popularity": 20596,
+  "num_list_users": 372,
   "num_scoring_users": 35,
   "nsfw": "white",
   "created_at": "2021-01-12T16:48:33+00:00",
-  "updated_at": "2021-10-07T01:20:38+00:00",
+  "updated_at": "2026-08-04T15:42:59+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 37,
-      "name": "Supernatural"
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     }
   ],
   "num_episodes": 20,
@@ -33,8 +37,13 @@
     "year": 2021,
     "season": "winter"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 1040,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3356,
+      "name": "Jiang Toon Animation"
+    }
+  ]
 }
