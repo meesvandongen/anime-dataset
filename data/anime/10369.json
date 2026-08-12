@@ -13,10 +13,10 @@
   "start_date": "1989-05-21",
   "end_date": "1989-05-21",
   "synopsis": "A slapstick OVA featuring super deformed members of the Shinsengumi members",
-  "rank": 20663,
-  "popularity": 20240,
-  "num_list_users": 396,
-  "num_scoring_users": 97,
+  "rank": 20672,
+  "popularity": 20271,
+  "num_list_users": 394,
+  "num_scoring_users": 96,
   "nsfw": "white",
   "created_at": "2011-02-19T11:24:16+00:00",
   "updated_at": "2011-02-19T11:24:16+00:00",
@@ -39,5 +39,14 @@
   },
   "average_episode_duration": 1576,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 420,
+      "name": "ACC Production"
+    },
+    {
+      "id": 3361,
+      "name": "Random"
+    }
+  ]
 }
