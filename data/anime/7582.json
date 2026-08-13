@@ -14,9 +14,9 @@
   "end_date": "2010-04-09",
   "synopsis": "Based on a game by CLOCKUP.",
   "mean": 6.01,
-  "popularity": 9974,
-  "num_list_users": 4546,
-  "num_scoring_users": 1340,
+  "popularity": 9978,
+  "num_list_users": 4547,
+  "num_scoring_users": 1342,
   "nsfw": "gray",
   "created_at": "2009-11-25T17:38:16+00:00",
   "updated_at": "2022-01-17T05:59:44+00:00",
@@ -39,7 +39,7 @@
   "studios": [
     {
       "id": 239,
-      "name": "Y.O.U.C"
+      "name": "Y.O.U.C."
     }
   ]
 }

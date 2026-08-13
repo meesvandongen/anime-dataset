@@ -2,8 +2,8 @@
   "id": 4905,
   "title": "Mach Girl",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1177/97974.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1177/97974l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1177/97974.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1177/97974l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,8 +14,8 @@
   "end_date": "2009-09-14",
   "synopsis": "A spin-off of Mach Go Go Go (aka: Speed Racer). The titular Mach Girl is, according to Anime News Network, \"a girl named Lip who wanders the land to compete in high-stakes races with her Mach Pink three-wheeler.\"",
   "mean": 5.32,
-  "rank": 13915,
-  "popularity": 14455,
+  "rank": 13921,
+  "popularity": 14461,
   "num_list_users": 1278,
   "num_scoring_users": 243,
   "nsfw": "white",
@@ -41,10 +41,5 @@
   "source": "original",
   "average_episode_duration": 180,
   "rating": "g",
-  "studios": [
-    {
-      "id": 103,
-      "name": "Tatsunoko Production"
-    }
-  ]
+  "studios": []
 }
