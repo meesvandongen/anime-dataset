@@ -1,0 +1,39 @@
+{
+  "id": 64769,
+  "title": "We Will Rise Again",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1282/159411.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1282/159411l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "We Will Rise Again",
+    "ja": ""
+  },
+  "start_date": "2026-08-09",
+  "end_date": "2026-08-09",
+  "synopsis": "Music video for the song We Will Rise Again by PelleK.\n\nA lighthouse beckons through the fog, shining across the azure sea—our guiding star. \"Know that we will rise again.\"\n\n(Source: Official YouTube Channel)\n",
+  "popularity": 25268,
+  "num_list_users": 157,
+  "num_scoring_users": 54,
+  "nsfw": "white",
+  "created_at": "2026-08-09T07:08:48+00:00",
+  "updated_at": "2026-08-09T16:37:28+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 98,
+  "rating": "pg_13",
+  "studios": []
+}

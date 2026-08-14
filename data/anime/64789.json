@@ -1,0 +1,55 @@
+{
+  "id": 64789,
+  "title": "Nezumi-kun no Chokki (TV) 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1837/159470.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1837/159470l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Little Mouse's Red Vest Season 2",
+    "ja": "ねずみくんのチョッキ 第２期"
+  },
+  "start_date": "2026-10-03",
+  "synopsis": "Second season of Nezumi-kun no Chokki",
+  "popularity": 30310,
+  "num_list_users": 29,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-08-12T02:23:57+00:00",
+  "updated_at": "2026-08-12T03:18:40+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "09:30"
+  },
+  "source": "picture_book",
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 3362,
+      "name": "Creadom8"
+    }
+  ]
+}

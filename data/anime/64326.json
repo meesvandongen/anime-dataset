@@ -2,22 +2,22 @@
   "id": 64326,
   "title": "Marronnier Oukoku no Shichinin no Kishi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1606/158311.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1606/158311l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1798/159431.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1798/159431l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "The Seven Knights of the Marronnier Kingdom",
     "ja": "マロニエ王国の七人の騎士"
   },
-  "start_date": "2026-10",
+  "start_date": "2026-10-03",
   "synopsis": "At the center of a continent made up of eight kingdoms lies the Kingdom of Marronnier. Leading the nation is the female general Baribara, who has seven sons, each with a personality all his own.\n\nSleepy, benevolent, sensitive to heat, sensitive to cold, gifted with animals, proud of his swordsmanship, and always hungry—the brothers possess very different qualities, but they are united by a single goal: \"Someday, we'll rescue a princess in a cool way!\"\n\nBefore long, the brothers set out for the seven neighboring kingdoms as ambassadors. What encounters, trials, and destinies await them in these unfamiliar lands?\n\nSet in a medieval-inspired fantasy world, this tale of romance and adventure begins.\n\n(Source: MAL News)",
-  "popularity": 13743,
-  "num_list_users": 1530,
+  "popularity": 13323,
+  "num_list_users": 1730,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2026-06-01T09:12:34+00:00",
-  "updated_at": "2026-06-20T05:02:33+00:00",
+  "updated_at": "2026-08-10T08:52:32+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -38,6 +38,10 @@
   "start_season": {
     "year": 2026,
     "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "saturday",
+    "start_time": "18:25"
   },
   "source": "manga",
   "average_episode_duration": 0,

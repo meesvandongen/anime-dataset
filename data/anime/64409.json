@@ -1,0 +1,44 @@
+{
+  "id": 64409,
+  "title": "Umya Unya Happy Life",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1952/158504.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1952/158504l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "うみゃうにゃはっぴーらいふ"
+  },
+  "start_date": "2026-06-16",
+  "end_date": "2026-06-16",
+  "synopsis": "Music video for the song Umya Unya Happy Life by Mizumiya Su.",
+  "popularity": 30327,
+  "num_list_users": 21,
+  "num_scoring_users": 12,
+  "nsfw": "white",
+  "created_at": "2026-06-16T13:27:00+00:00",
+  "updated_at": "2026-08-12T15:48:05+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 185,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3190,
+      "name": "Studio Maybe"
+    }
+  ]
+}
