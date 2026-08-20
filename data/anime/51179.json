@@ -2,8 +2,8 @@
   "id": 51179,
   "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1898/138005.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1898/138005l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1898/138005.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1898/138005l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -19,11 +19,11 @@
   "mean": 8.19,
   "rank": 469,
   "popularity": 299,
-  "num_list_users": 786121,
-  "num_scoring_users": 463352,
+  "num_list_users": 787612,
+  "num_scoring_users": 464388,
   "nsfw": "gray",
   "created_at": "2022-03-06T10:57:36+00:00",
-  "updated_at": "2023-09-06T21:06:20+00:00",
+  "updated_at": "2026-08-17T14:15:57+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -36,10 +36,6 @@
       "name": "Drama"
     },
     {
-      "id": 9,
-      "name": "Ecchi"
-    },
-    {
       "id": 10,
       "name": "Fantasy"
     },
@@ -50,6 +46,10 @@
     {
       "id": 72,
       "name": "Reincarnation"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 12,

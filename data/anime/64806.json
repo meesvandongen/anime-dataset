@@ -1,0 +1,43 @@
+{
+  "id": 64806,
+  "title": "Sanzen Nenshou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1263/159564.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1263/159564l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "燦然燃焼"
+  },
+  "start_date": "2026-08-16",
+  "end_date": "2026-08-16",
+  "synopsis": "Music video for the song Sanzen Nenshou by Omaru Polka.",
+  "popularity": 30244,
+  "num_list_users": 51,
+  "num_scoring_users": 25,
+  "nsfw": "white",
+  "created_at": "2026-08-16T14:44:45+00:00",
+  "updated_at": "2026-08-17T06:18:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 216,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -13,14 +13,14 @@
   "start_date": "2026-07-08",
   "end_date": "2026-09-30",
   "synopsis": "Second season of Clevatess.",
-  "mean": 7.73,
-  "rank": 1387,
-  "popularity": 2833,
-  "num_list_users": 78617,
-  "num_scoring_users": 7687,
+  "mean": 7.71,
+  "rank": 1415,
+  "popularity": 2799,
+  "num_list_users": 80067,
+  "num_scoring_users": 8241,
   "nsfw": "white",
   "created_at": "2025-09-17T14:38:27+00:00",
-  "updated_at": "2026-08-07T09:57:48+00:00",
+  "updated_at": "2026-08-17T00:24:16+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 13,

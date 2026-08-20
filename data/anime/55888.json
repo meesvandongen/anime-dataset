@@ -16,14 +16,14 @@
   "start_date": "2024-04-08",
   "end_date": "2024-07-01",
   "synopsis": "Following the faceless god Hitogami's advice seems to have worked wonders for Rudeus Greyrat. After enrolling into the University of Magic as he was told, Rudeus reunites with his childhood friend Sylphiette, who put a valiant effort into curing his condition. The two grow ever closer together and decide to host a wedding party, inviting the friends they have made over the years to announce and formalize their relationship.\n\nFor all his recent blessings, however, Rudeus' troubles are far from over. The research he is helping Shizuka Nanahoshi conduct hits a bottleneck, sending her into a deep slump much like he experienced in his previous life. Furthermore, a letter from his father, Paul, brings complications to Rudeus' relationships, and Sylphiette still knows next to nothing about his real background. In the face of these issues, Rudeus will have to apply the lessons he has learned in this new world to navigate through the challenges that come with living a life to its fullest.\n\n[Written by MAL Rewrite]",
-  "mean": 8.38,
-  "rank": 253,
+  "mean": 8.37,
+  "rank": 262,
   "popularity": 421,
-  "num_list_users": 603645,
-  "num_scoring_users": 351613,
+  "num_list_users": 605200,
+  "num_scoring_users": 352715,
   "nsfw": "gray",
   "created_at": "2023-07-07T09:16:40+00:00",
-  "updated_at": "2026-08-10T05:29:48+00:00",
+  "updated_at": "2026-08-17T14:16:07+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
@@ -36,10 +36,6 @@
       "name": "Drama"
     },
     {
-      "id": 9,
-      "name": "Ecchi"
-    },
-    {
       "id": 10,
       "name": "Fantasy"
     },
@@ -50,6 +46,10 @@
     {
       "id": 72,
       "name": "Reincarnation"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 12,

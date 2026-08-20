@@ -6,24 +6,31 @@
     "large": "https://cdn.myanimelist.net/images/anime/1454/156919l.jpg"
   },
   "alternative_titles": {
-    "synonyms": [],
+    "synonyms": [
+      "God of Wealth Dou Zhanlong"
+    ],
     "en": "Golden Curse",
     "ja": "财神窦占龙"
   },
   "start_date": "2026-08-16",
-  "synopsis": "Taoist Cui accidentally released the treasure-gathering golden toad in order to read the heavenly book. The golden toad coveted the prosperity of the human world and reincarnated as a human, Dou Zhanlong. In order to avoid the heavenly calamity, the golden toad tore the three souls and seven spirits in Dou Zhanlong's spiritual cavity, creating nine clones, which fell into nine places respectively. The nine Dou Zhanlongs were in different parallel time and space, and each death gave rise to a new clone. They experienced \"nine deaths and thirteen disasters\" in total. Our story starts with the first Dou Zhanlong.\n\n(Source: iQIYI, translated)",
-  "popularity": 22305,
-  "num_list_users": 273,
-  "num_scoring_users": 1,
+  "synopsis": "While searching for a celestial book, Master Cui mistakenly released a treasure-gathering toad. The toad, captivated by human pleasures, reincarnated as Dou Zhanlong. To escape a heavenly tribulation, the toad split its three souls and seven spirits within Dou Zhanlong's spiritual aperture, creating nine incarnations that landed in nine different locations. These nine Dou Zhanlongs, existing in different parallel universes, died once and were replaced by another incarnation. They collectively endured \"nine deaths and thirteen calamities.\" Our story begins with the first Dou Zhanlong.\n\n(Source: Official YouTube Channel)",
+  "rank": 15905,
+  "popularity": 20484,
+  "num_list_users": 381,
+  "num_scoring_users": 23,
   "nsfw": "white",
   "created_at": "2025-05-06T11:36:47+00:00",
-  "updated_at": "2026-08-09T02:10:06+00:00",
+  "updated_at": "2026-08-17T13:54:00+00:00",
   "media_type": "ona",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
       "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
     },
     {
       "id": 10,
@@ -46,13 +53,13 @@
       "name": "Suspense"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 16,
   "start_season": {
     "year": 2026,
     "season": "summer"
   },
   "source": "novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1410,
   "rating": "r",
   "studios": [
     {
