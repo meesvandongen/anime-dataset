@@ -14,8 +14,8 @@
   "end_date": "2019-06-06",
   "synopsis": "Animated trailer for Chronicle's song Cosmos.",
   "mean": 6.23,
-  "rank": 9649,
-  "popularity": 14170,
+  "rank": 9638,
+  "popularity": 14182,
   "num_list_users": 1377,
   "num_scoring_users": 649,
   "nsfw": "white",
@@ -40,6 +40,7 @@
   },
   "source": "original",
   "average_episode_duration": 120,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 56,

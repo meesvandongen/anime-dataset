@@ -2,18 +2,18 @@
   "id": 64028,
   "title": "Tanuki to Kitsune (TV)",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1683/157043.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1683/157043l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1504/159679.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1504/159679l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "",
     "ja": "タヌキとキツネ"
   },
-  "start_date": "2026-10",
+  "start_date": "2026-10-04",
   "synopsis": "",
-  "popularity": 26195,
-  "num_list_users": 137,
+  "popularity": 26021,
+  "num_list_users": 141,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2026-04-25T07:28:19+00:00",
@@ -35,8 +35,17 @@
     "year": 2026,
     "season": "fall"
   },
+  "broadcast": {
+    "day_of_the_week": "sunday",
+    "start_time": "07:00"
+  },
   "source": "web_manga",
   "average_episode_duration": 0,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3281,
+      "name": "Akatsuki Media Studio"
+    }
+  ]
 }

@@ -16,13 +16,13 @@
   "end_date": "2018-02-09",
   "synopsis": "Picture drama episodes included on the DVD/Blu-ray Volumes of Kakegurui.",
   "mean": 6.66,
-  "rank": 6946,
-  "popularity": 4182,
-  "num_list_users": 39574,
-  "num_scoring_users": 15172,
+  "rank": 6939,
+  "popularity": 4183,
+  "num_list_users": 39592,
+  "num_scoring_users": 15179,
   "nsfw": "white",
   "created_at": "2018-12-29T21:15:26+00:00",
-  "updated_at": "2024-03-06T11:47:14+00:00",
+  "updated_at": "2026-08-22T10:28:10+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 59,
       "name": "High Stakes Game"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     },
     {
       "id": 11,

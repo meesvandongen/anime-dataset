@@ -12,14 +12,14 @@
   },
   "start_date": "2021-01-06",
   "end_date": "2021-05-12",
-  "synopsis": "",
-  "rank": 20730,
-  "popularity": 25702,
+  "synopsis": "A passionate Aries woman, a capybara, opened a bathhouse, providing a relaxing place for the surrounding animals. With her warm and attentive service, she quickly became friends with the animals, helping them solve their problems and overcome difficulties. The twelve zodiac animals bonded over their bath, and every day, hilarious and heartwarming stories unfolded at the capybara bathhouse.\n\n(Source: Tencent, translated)",
+  "rank": 20745,
+  "popularity": 25724,
   "num_list_users": 148,
-  "num_scoring_users": 26,
+  "num_scoring_users": 27,
   "nsfw": "white",
   "created_at": "2021-02-20T08:34:39+00:00",
-  "updated_at": "2022-11-02T12:43:51+00:00",
+  "updated_at": "2026-08-21T00:27:06+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -28,12 +28,16 @@
       "name": "Anthropomorphic"
     },
     {
-      "id": 10,
-      "name": "Fantasy"
+      "id": 63,
+      "name": "Iyashikei"
     },
     {
       "id": 15,
       "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 20,

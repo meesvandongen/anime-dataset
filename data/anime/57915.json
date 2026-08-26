@@ -14,13 +14,13 @@
   "end_date": "2024-06-14",
   "synopsis": "Kanata Asaya, a high school boy who is immersed in making music videos, is deeply moved by a street performance one day. He strongly wishes to create a music video for the song. However, the person singing was Yuu Orie, a female teacher who had given up on pursuing a career in music.\n\n(Source: MAL News)",
   "mean": 7.23,
-  "rank": 3585,
-  "popularity": 8116,
-  "num_list_users": 7840,
-  "num_scoring_users": 1313,
+  "rank": 3592,
+  "popularity": 8120,
+  "num_list_users": 7854,
+  "num_scoring_users": 1319,
   "nsfw": "white",
   "created_at": "2024-01-24T03:33:56+00:00",
-  "updated_at": "2026-06-26T15:07:25+00:00",
+  "updated_at": "2026-08-23T12:20:29+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 19,
       "name": "Music"
+    },
+    {
+      "id": 23,
+      "name": "School"
     }
   ],
   "num_episodes": 1,

@@ -1,0 +1,39 @@
+{
+  "id": 64854,
+  "title": "Nalsum",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1269/159690.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1269/159690l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "날숨"
+  },
+  "start_date": "2025-06-04",
+  "end_date": "2025-06-04",
+  "synopsis": "In a world obsessed with anxiety, society tells us that wearing a 'Meoguri' is the only way to keep the fear at bay. But what happens when someone is forced to go a whole day without it? This is the story of one person's accidental journey through raw, unfiltered reality—and the unexpected truth they discover along the way.\n\n(Source: Official Website)",
+  "rank": 19294,
+  "popularity": 30359,
+  "num_list_users": 25,
+  "num_scoring_users": 12,
+  "nsfw": "gray",
+  "created_at": "2026-08-22T18:48:24+00:00",
+  "updated_at": "2026-08-23T15:03:13+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 305,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2398,
+      "name": "VCRWORKS"
+    }
+  ]
+}

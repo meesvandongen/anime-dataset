@@ -1,0 +1,47 @@
+{
+  "id": 63855,
+  "title": "Sushi★Sushi★Daisushi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1545/156422.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1545/156422l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "SUSHI★SUSHI★DAISUSHI"
+  },
+  "start_date": "2026-03-31",
+  "end_date": "2026-03-31",
+  "synopsis": "Music video for the song Sushi★Sushi★Daisushi by SHARI★GETTERZ.",
+  "popularity": 30361,
+  "num_list_users": 25,
+  "num_scoring_users": 13,
+  "nsfw": "white",
+  "created_at": "2026-03-31T15:50:15+00:00",
+  "updated_at": "2026-08-21T14:33:05+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 173,
+  "rating": "pg_13",
+  "studios": []
+}

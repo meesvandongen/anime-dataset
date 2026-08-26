@@ -1,29 +1,30 @@
 {
   "id": 55530,
-  "title": "Tou Tiao Dou Shi Ta",
+  "title": "Toutiao Dou Shi Ta",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1088/136216.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1088/136216l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1087/159675.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1087/159675l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
       "He Is Always The Hot Topic",
       "He Owns The Headlines",
-      "The Headlines Are All About Him"
+      "The Headlines Are All About Him",
+      "Tou Tiao Dou Shi Ta"
     ],
     "en": "Top News King",
     "ja": "头条都是他"
   },
   "start_date": "2019-12-06",
   "end_date": "2020-02-19",
-  "synopsis": "Tou Tiao Dou Shi Ta is a story about Yin Shen, a member of the (in)famous idol boygroup FLY. What makes him the center of attention? Why do they call him the \"retarded\" idol? Is it true that he is a jerk to everyone?\n\n(Source: MU)",
-  "rank": 21383,
-  "popularity": 24039,
-  "num_list_users": 196,
-  "num_scoring_users": 34,
+  "synopsis": "The story follows the hilarious daily lives of idol members such as the talented and good-looking FLY group, the handsome boy group BLACK HEART who makes a comeback, and the hardworking rookie group 4 SEASONS.\n\n(Source: Youku, translated)",
+  "rank": 21403,
+  "popularity": 24030,
+  "num_list_users": 197,
+  "num_scoring_users": 35,
   "nsfw": "white",
   "created_at": "2023-05-30T04:40:00+00:00",
-  "updated_at": "2025-11-17T23:44:00+00:00",
+  "updated_at": "2026-08-21T18:32:14+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -41,13 +42,13 @@
     "year": 2019,
     "season": "fall"
   },
-  "source": "manga",
+  "source": "web_manga",
   "average_episode_duration": 110,
   "rating": "pg_13",
   "studios": [
     {
-      "id": 2447,
-      "name": "Youku"
+      "id": 2058,
+      "name": "Shengying Animation"
     }
   ]
 }

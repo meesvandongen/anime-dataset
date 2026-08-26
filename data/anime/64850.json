@@ -1,0 +1,39 @@
+{
+  "id": 64850,
+  "title": "Continue",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1275/159686.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1275/159686l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Continue",
+    "ja": "コンティニュー"
+  },
+  "start_date": "2026-08-22",
+  "end_date": "2026-08-22",
+  "synopsis": "Music video for the song Continue by NEE.",
+  "popularity": 30311,
+  "num_list_users": 41,
+  "num_scoring_users": 20,
+  "nsfw": "white",
+  "created_at": "2026-08-22T14:49:03+00:00",
+  "updated_at": "2026-08-24T07:57:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 229,
+  "rating": "pg_13",
+  "studios": []
+}
