@@ -15,8 +15,8 @@
   "start_date": "1986-03-01",
   "end_date": "1990-02-01",
   "synopsis": "An animated telling of famous Buddhist scriptures, the OVA series focuses on the early days of Buddhism surrounding Gautama Buddha/Siddhartha.",
-  "rank": 15872,
-  "popularity": 19954,
+  "rank": 15880,
+  "popularity": 19965,
   "num_list_users": 418,
   "num_scoring_users": 83,
   "nsfw": "white",
@@ -38,5 +38,10 @@
   "source": "other",
   "average_episode_duration": 1800,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 246,
+      "name": "Visual 80"
+    }
+  ]
 }
