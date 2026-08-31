@@ -13,8 +13,8 @@
   "start_date": "2000-11-29",
   "end_date": "2000-11-29",
   "synopsis": "Music video for the song Furui Hanashi by Kazuyoshi Saitou.",
-  "popularity": 28297,
-  "num_list_users": 104,
+  "popularity": 28402,
+  "num_list_users": 102,
   "num_scoring_users": 38,
   "nsfw": "white",
   "created_at": "2025-02-23T07:00:59+00:00",
@@ -43,5 +43,10 @@
   "source": "original",
   "average_episode_duration": 165,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 375,
+      "name": "I.Toon"
+    }
+  ]
 }

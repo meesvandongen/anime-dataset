@@ -2,8 +2,8 @@
   "id": 7103,
   "title": "Miracle☆Train: Oedo-sen e Youkoso",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/9/75568.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/9/75568l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/9/75568.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/9/75568l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,19 +16,23 @@
   "end_date": "2009-12-28",
   "synopsis": "Another version of Miracle Train: Chuo-sen e Youkoso.\n\nThe first version of the Miracle Train project focused on the stations of the central Chuo line, while the new anime and related stories deal with the Oedo subway line. As a result, the anime will feature a newer cast of characters—specifically, Fumi Roppongi, Rintarou Shinjuku, Izayoi Tsukishima, Iku Shiodome, Saki Tochou, and Itsumi Ryougoku.",
   "mean": 6.47,
-  "rank": 8185,
-  "popularity": 5574,
-  "num_list_users": 20239,
-  "num_scoring_users": 7770,
+  "rank": 8190,
+  "popularity": 5580,
+  "num_list_users": 20238,
+  "num_scoring_users": 7772,
   "nsfw": "white",
   "created_at": "2009-08-29T02:59:03+00:00",
-  "updated_at": "2022-10-31T10:32:12+00:00",
+  "updated_at": "2026-08-28T22:35:19+00:00",
   "media_type": "tv",
   "status": "finished_airing",
   "genres": [
     {
-      "id": 10,
-      "name": "Fantasy"
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 13,
