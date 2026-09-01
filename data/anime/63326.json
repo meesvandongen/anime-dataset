@@ -1,0 +1,58 @@
+{
+  "id": 63326,
+  "title": "Medalist Movie",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1992/159780.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Medalist"
+    ],
+    "en": "",
+    "ja": "メダリスト 劇場版"
+  },
+  "start_date": "2027-02-19",
+  "end_date": "2027-02-19",
+  "synopsis": "Sequel to Medalist 2nd Season.",
+  "popularity": 6931,
+  "num_list_users": 11649,
+  "num_scoring_users": 1,
+  "nsfw": "white",
+  "created_at": "2026-01-17T05:57:56+00:00",
+  "updated_at": "2026-08-30T10:15:15+00:00",
+  "media_type": "movie",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 70,
+      "name": "Performing Arts"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 30,
+      "name": "Sports"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1974,
+      "name": "ENGI"
+    }
+  ]
+}

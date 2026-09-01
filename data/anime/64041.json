@@ -1,0 +1,39 @@
+{
+  "id": 64041,
+  "title": "Byeol",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1522/159801.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1522/159801l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Star",
+    "ja": "별"
+  },
+  "start_date": "2024-11-13",
+  "end_date": "2024-11-13",
+  "synopsis": "Music video for the song The Star by Hoody and Jason Lee.",
+  "popularity": 30433,
+  "num_list_users": 15,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2026-04-25T22:24:28+00:00",
+  "updated_at": "2026-08-31T11:15:57+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 162,
+  "rating": "pg_13",
+  "studios": []
+}

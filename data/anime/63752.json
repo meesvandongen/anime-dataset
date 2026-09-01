@@ -13,17 +13,21 @@
   "start_date": "2026-07-06",
   "end_date": "2026-09-21",
   "synopsis": "Rin Takanashi, a caregiver in her thirties, was unceremoniously discarded as \"trash\" despite being summoned as a saint.\n\nHowever, as a lover of the great outdoors and all things camping, she was blessed with a special skill, [Survival], as well as another unique skill! Thus, a riveting tale begins: one of sweat, tears, and insatiable hunger as Rin, together with companions she picked up along the way, leisurely explores this parallel world and savors gourmet cuisine to her heart's content...\n\nOr so the story should have gone, but it looks like their road is going in an unexpected direction...?\n\n(Source: MU)",
-  "mean": 6.47,
-  "rank": 8205,
-  "popularity": 5698,
-  "num_list_users": 19176,
-  "num_scoring_users": 2429,
+  "mean": 6.46,
+  "rank": 8274,
+  "popularity": 5645,
+  "num_list_users": 19632,
+  "num_scoring_users": 2545,
   "nsfw": "white",
   "created_at": "2026-03-18T10:08:56+00:00",
-  "updated_at": "2026-08-11T18:39:38+00:00",
+  "updated_at": "2026-08-27T22:20:17+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
     {
       "id": 10,
       "name": "Fantasy"
@@ -35,10 +39,6 @@
     {
       "id": 62,
       "name": "Isekai"
-    },
-    {
-      "id": 22,
-      "name": "Romance"
     }
   ],
   "num_episodes": 12,

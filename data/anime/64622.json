@@ -1,0 +1,47 @@
+{
+  "id": 64622,
+  "title": "Nekohi",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1536/159024.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1536/159024l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Catdays",
+    "ja": "猫日"
+  },
+  "start_date": "2026-07-17",
+  "end_date": "2026-07-17",
+  "synopsis": "Music video for the song Nekohi by suis from Yorushika. The song was used as the opening theme of the anime Neko to Ryuu.",
+  "popularity": 30373,
+  "num_list_users": 31,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2026-07-17T10:11:23+00:00",
+  "updated_at": "2026-08-30T12:51:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 71,
+      "name": "Pets"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 235,
+  "rating": "g",
+  "studios": []
+}

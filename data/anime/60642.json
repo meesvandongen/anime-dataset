@@ -2,8 +2,8 @@
   "id": 60642,
   "title": "Yuusha-chan no Bouken wa Owatteshimatta!",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1171/147233.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1171/147233l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1171/147233.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1171/147233l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -11,23 +11,24 @@
     "ja": "勇者ちゃんの冒険は終わってしまった!"
   },
   "start_date": "2025-02-28",
+  "end_date": "2025-05-30",
   "synopsis": "The heroine who defeated the demon king and brought peace to the world has become arrogant. She now easily defeats the remnants of the demon king's army but can't level up anymore. However, she has disturbing dreams where she is defeated and violated by demons, feeling such real pleasure that it wears down her mind. She discovers the source of these nightmares, but it's too late to resist. Each night, these dreams corrupt her further.",
-  "mean": 5.89,
-  "popularity": 13401,
-  "num_list_users": 1700,
-  "num_scoring_users": 410,
+  "mean": 5.78,
+  "popularity": 13393,
+  "num_list_users": 1705,
+  "num_scoring_users": 428,
   "nsfw": "gray",
   "created_at": "2024-12-29T15:49:00+00:00",
-  "updated_at": "2024-12-29T19:39:47+00:00",
+  "updated_at": "2026-08-26T07:26:52+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 2,
   "start_season": {
     "year": 2025,
     "season": "winter"

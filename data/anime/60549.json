@@ -1,0 +1,36 @@
+{
+  "id": 60549,
+  "title": "Arcanadea",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1036/156074.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1036/156074l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "アルカナディア"
+  },
+  "start_date": "2027-01",
+  "synopsis": "The \"sci-fi x fantasy\" franchise takes place in the near future, where the world experienced rapid technological development thanks to a new energy called \"Arcana Particles\" that was discovered by Eden Industries. The new technology includes the largest virtual space server called Eden. The VRMMO \"ARCANADEA\" is a game people can play within the Eden server, and features a fantasy world. After an explosion occurred at Eden Industries one night during the maintenance of Eden, the world changed, including abnormal weather, communication issues, strange disappearances, and people gaining increased physical abilities.\n\n(Source: ANN)",
+  "popularity": 12607,
+  "num_list_users": 2166,
+  "num_scoring_users": 1,
+  "nsfw": "gray",
+  "created_at": "2024-12-20T12:23:40+00:00",
+  "updated_at": "2026-08-29T05:17:30+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "other",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 1687,
+      "name": "Yokohama Animation Lab"
+    }
+  ]
+}

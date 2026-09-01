@@ -1,0 +1,48 @@
+{
+  "id": 63829,
+  "title": "Mamiko no Unko",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1224/159804.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1224/159804l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Mamiko's Poop",
+    "ja": "マミ子のウン子"
+  },
+  "start_date": "2025-06",
+  "end_date": "2025-06",
+  "synopsis": "The story follows a young schoolgirl named Mamiko, who experiences a bitter heartbreak after her boyfriend cheats on her. She initially drowns her sorrows by bingeing on comfort food, but soon a physical reaction forces her to the restroom...",
+  "rank": 18766,
+  "popularity": 30444,
+  "num_list_users": 13,
+  "num_scoring_users": 5,
+  "nsfw": "white",
+  "created_at": "2026-03-28T23:56:48+00:00",
+  "updated_at": "2026-08-31T15:35:58+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 46,
+      "name": "Award Winning"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 141,
+  "rating": "pg_13",
+  "studios": []
+}

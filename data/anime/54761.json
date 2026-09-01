@@ -14,19 +14,23 @@
   "end_date": "2023-03-19",
   "synopsis": "Announcement for 3-nen Z-gumi Ginpachi-sensei.",
   "mean": 7.23,
-  "rank": 3548,
-  "popularity": 11441,
-  "num_list_users": 2991,
-  "num_scoring_users": 1447,
+  "rank": 3544,
+  "popularity": 11447,
+  "num_list_users": 2993,
+  "num_scoring_users": 1448,
   "nsfw": "white",
   "created_at": "2023-03-19T16:16:20+00:00",
-  "updated_at": "2026-08-16T15:26:47+00:00",
+  "updated_at": "2026-08-26T07:28:59+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,

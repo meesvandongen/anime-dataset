@@ -1,0 +1,39 @@
+{
+  "id": 64194,
+  "title": "Brain Rot",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1832/157771.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1832/157771l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ブレインロット"
+  },
+  "start_date": "2026-02-25",
+  "end_date": "2026-02-25",
+  "synopsis": "Music video for the song Brain Rot by Tokyo Manaka featuring vocals by Kasane Teto.",
+  "popularity": 30401,
+  "num_list_users": 21,
+  "num_scoring_users": 9,
+  "nsfw": "white",
+  "created_at": "2026-05-13T03:09:03+00:00",
+  "updated_at": "2026-08-30T16:03:27+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 125,
+  "rating": "pg_13",
+  "studios": []
+}

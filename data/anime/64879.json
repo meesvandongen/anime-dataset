@@ -1,0 +1,47 @@
+{
+  "id": 64879,
+  "title": "Uoo! Me! Amigo!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1656/159765.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1656/159765l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ウー！ミー！アミーゴ！"
+  },
+  "start_date": "2026-06-01",
+  "end_date": "2026-06-01",
+  "synopsis": "Music video for the song Uoo! Me! Amigo! by Wakeys.",
+  "popularity": 30379,
+  "num_list_users": 30,
+  "num_scoring_users": 15,
+  "nsfw": "white",
+  "created_at": "2026-08-28T01:51:00+00:00",
+  "updated_at": "2026-08-28T01:51:00+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "original",
+  "average_episode_duration": 167,
+  "rating": "g",
+  "studios": []
+}

@@ -2,8 +2,8 @@
   "id": 64769,
   "title": "We Will Rise Again",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1282/159411.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1282/159411l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1282/159411.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1282/159411l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,9 +13,9 @@
   "start_date": "2026-08-09",
   "end_date": "2026-08-09",
   "synopsis": "Music video for the song We Will Rise Again by PelleK.\n\nA lighthouse beckons through the fog, shining across the azure sea—our guiding star. \"Know that we will rise again.\"\n\n(Source: Official YouTube Channel)\n",
-  "popularity": 24088,
-  "num_list_users": 195,
-  "num_scoring_users": 72,
+  "popularity": 23762,
+  "num_list_users": 206,
+  "num_scoring_users": 78,
   "nsfw": "white",
   "created_at": "2026-08-09T07:08:48+00:00",
   "updated_at": "2026-08-09T16:37:28+00:00",
@@ -35,5 +35,10 @@
   "source": "game",
   "average_episode_duration": 98,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2761,
+      "name": "ARCUS"
+    }
+  ]
 }

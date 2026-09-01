@@ -1,0 +1,51 @@
+{
+  "id": 64875,
+  "title": "Niu Lai",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1728/159755.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1728/159755l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Cow is Coming",
+      "Here Comes the Cow"
+    ],
+    "en": "",
+    "ja": "牛来"
+  },
+  "start_date": "2026-08-05",
+  "end_date": "2026-08-05",
+  "synopsis": "A newborn calf guides a skylark, who has just flown in from the desert, into a dreamscape. Within the dream, the skylark witnesses the young calf, Niu Lai, inspired by various forces as he gradually grows into a brave warrior who learns to take responsibility and face life and death head-on.\n\n(Source: Douban, translated)",
+  "rank": 19446,
+  "popularity": 28429,
+  "num_list_users": 102,
+  "num_scoring_users": 21,
+  "nsfw": "white",
+  "created_at": "2026-08-27T13:04:36+00:00",
+  "updated_at": "2026-08-27T14:51:52+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 5160,
+  "rating": "pg_13",
+  "studios": []
+}

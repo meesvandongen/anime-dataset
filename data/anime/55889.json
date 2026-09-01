@@ -2,8 +2,8 @@
   "id": 55889,
   "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1435/150176.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1435/150176l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1435/150176.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1435/150176l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -21,17 +21,21 @@
   "mean": 7.5,
   "rank": 2214,
   "popularity": 3285,
-  "num_list_users": 60958,
-  "num_scoring_users": 28226,
+  "num_list_users": 61082,
+  "num_scoring_users": 28291,
   "nsfw": "white",
   "created_at": "2023-07-07T09:31:08+00:00",
-  "updated_at": "2025-04-12T10:40:49+00:00",
+  "updated_at": "2026-08-28T03:59:08+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 50,
       "name": "Adult Cast"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
     },
     {
       "id": 10,
