@@ -15,14 +15,14 @@
   "start_date": "2016-12-30",
   "end_date": "2016-12-30",
   "synopsis": "Short parody special released with Blu-ray BOX.",
-  "mean": 5.6,
-  "rank": 12994,
+  "mean": 5.61,
+  "rank": 12965,
   "popularity": 9040,
-  "num_list_users": 6037,
-  "num_scoring_users": 1502,
+  "num_list_users": 6040,
+  "num_scoring_users": 1503,
   "nsfw": "white",
   "created_at": "2017-12-31T19:39:41+00:00",
-  "updated_at": "2022-01-10T05:59:45+00:00",
+  "updated_at": "2026-08-31T09:58:15+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 20,
       "name": "Parody"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
     }
   ],
   "num_episodes": 1,
