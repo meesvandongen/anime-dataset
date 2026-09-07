@@ -14,8 +14,8 @@
   "end_date": "2020-02-26",
   "synopsis": "Fourth season of Neko Neko Nihonshi.",
   "mean": 6.05,
-  "rank": 10719,
-  "popularity": 17597,
+  "rank": 10727,
+  "popularity": 17613,
   "num_list_users": 629,
   "num_scoring_users": 115,
   "nsfw": "white",
@@ -61,5 +61,14 @@
   "source": "web_manga",
   "average_episode_duration": 540,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1387,
+      "name": "Neft Film"
+    },
+    {
+      "id": 3381,
+      "name": "Cresco Motion Design"
+    }
+  ]
 }

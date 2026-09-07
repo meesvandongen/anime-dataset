@@ -2,8 +2,8 @@
   "id": 48409,
   "title": "Chocomatsu-san: White Day-hen",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1994/113273.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1994/113273l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1994/113273.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1994/113273l.webp"
   },
   "alternative_titles": {
     "synonyms": [
@@ -15,14 +15,14 @@
   "start_date": "2021-03-13",
   "end_date": "2021-03-15",
   "synopsis": "Original specials aired exclusively on pay-per-view dTV channel.",
-  "mean": 6.01,
-  "rank": 10918,
-  "popularity": 13173,
-  "num_list_users": 1809,
-  "num_scoring_users": 295,
+  "mean": 6,
+  "rank": 10966,
+  "popularity": 13183,
+  "num_list_users": 1811,
+  "num_scoring_users": 296,
   "nsfw": "white",
   "created_at": "2021-03-05T12:27:58+00:00",
-  "updated_at": "2025-07-26T23:59:50+00:00",
+  "updated_at": "2026-09-06T13:27:26+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -33,6 +33,10 @@
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 57,
+      "name": "Gag Humor"
     },
     {
       "id": 20,

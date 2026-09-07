@@ -14,8 +14,8 @@
   "end_date": "2019-02-27",
   "synopsis": "Third season of Neko Neko Nihonshi.",
   "mean": 6.27,
-  "rank": 9440,
-  "popularity": 15963,
+  "rank": 9446,
+  "popularity": 15975,
   "num_list_users": 891,
   "num_scoring_users": 234,
   "nsfw": "white",
@@ -59,8 +59,12 @@
   "rating": "g",
   "studios": [
     {
-      "id": 1320,
-      "name": "Joker Films"
+      "id": 1387,
+      "name": "Neft Film"
+    },
+    {
+      "id": 3381,
+      "name": "Cresco Motion Design"
     }
   ]
 }

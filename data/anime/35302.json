@@ -14,8 +14,8 @@
   "end_date": "2018-02-28",
   "synopsis": "Second season of Neko Neko Nihonshi.",
   "mean": 6.15,
-  "rank": 10131,
-  "popularity": 15461,
+  "rank": 10137,
+  "popularity": 15479,
   "num_list_users": 1019,
   "num_scoring_users": 296,
   "nsfw": "white",
@@ -63,8 +63,12 @@
   "rating": "g",
   "studios": [
     {
-      "id": 1320,
-      "name": "Joker Films"
+      "id": 1387,
+      "name": "Neft Film"
+    },
+    {
+      "id": 3381,
+      "name": "Cresco Motion Design"
     }
   ]
 }

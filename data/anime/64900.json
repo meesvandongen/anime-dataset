@@ -1,0 +1,57 @@
+{
+  "id": 64900,
+  "title": "Piipo-kun Animation",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1914/159815.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1914/159815l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Piipo-kun Animation",
+    "ja": "ピーポくんアニメーション"
+  },
+  "start_date": "2017-03-24",
+  "end_date": "2017-03-24",
+  "synopsis": "A children's educational animation featuring Piipo-kun that teaches safety, traffic rules, crime prevention, and appropriate behaviour.",
+  "rank": 19788,
+  "popularity": 30435,
+  "num_list_users": 24,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2026-09-01T19:32:08+00:00",
+  "updated_at": "2026-09-03T07:38:58+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 51,
+      "name": "Anthropomorphic"
+    },
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 6,
+  "start_season": {
+    "year": 2017,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 317,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 3382,
+      "name": "Pockets"
+    }
+  ]
+}
