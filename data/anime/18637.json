@@ -18,9 +18,9 @@
   "end_date": "2003-09-13",
   "synopsis": "Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.\n\n(Source: AniDB)",
   "mean": 6.13,
-  "rank": 10277,
-  "popularity": 14211,
-  "num_list_users": 1372,
+  "rank": 10282,
+  "popularity": 14222,
+  "num_list_users": 1373,
   "num_scoring_users": 339,
   "nsfw": "white",
   "created_at": "2013-05-04T14:38:09+00:00",
@@ -52,5 +52,10 @@
   },
   "average_episode_duration": 1200,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
 }

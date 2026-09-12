@@ -18,7 +18,7 @@
   "synopsis": "Pochacco stars in a recreation of the story of Jack and the Beanstalk. ",
   "mean": 5.63,
   "rank": 12912,
-  "popularity": 17740,
+  "popularity": 17754,
   "num_list_users": 613,
   "num_scoring_users": 187,
   "nsfw": "white",
@@ -43,5 +43,10 @@
   },
   "average_episode_duration": 900,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
 }

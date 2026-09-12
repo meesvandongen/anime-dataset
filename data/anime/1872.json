@@ -2,8 +2,8 @@
   "id": 1872,
   "title": "Saru Getchu: On Air",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1060/143402.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1060/143402l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1060/143402.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1060/143402l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,9 +16,9 @@
   "end_date": "2006-09-30",
   "synopsis": "An evil monkey, Specter, has escaped a circus, using a mind-controlling device which allows him to become smarter and have access to controlling the monkeys. Kakeru is called over by a professor in order to capture all the monkeys, including the one's who's controlling them: Specter.\n\n(Source: ANN)",
   "mean": 5.98,
-  "rank": 11096,
-  "popularity": 13678,
-  "num_list_users": 1576,
+  "rank": 11100,
+  "popularity": 13684,
+  "num_list_users": 1577,
   "num_scoring_users": 433,
   "nsfw": "white",
   "created_at": "2007-01-26T12:30:16+00:00",
@@ -59,6 +59,10 @@
     {
       "id": 27,
       "name": "Xebec"
+    },
+    {
+      "id": 474,
+      "name": "Shogakukan Music & Digital Entertainment"
     }
   ]
 }

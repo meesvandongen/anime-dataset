@@ -16,8 +16,8 @@
   "end_date": "2004-08-18",
   "synopsis": "An OVA released with the boxset of Diamond Daydreams. Continues Kitano Suomi's story from the 7th episode. It also contains bloopers of the previous episodes.",
   "mean": 6.27,
-  "rank": 9434,
-  "popularity": 13372,
+  "rank": 9440,
+  "popularity": 13385,
   "num_list_users": 1718,
   "num_scoring_users": 571,
   "nsfw": "white",
@@ -43,5 +43,10 @@
   "source": "visual_novel",
   "average_episode_duration": 1475,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 37,
+      "name": "Studio Deen"
+    }
+  ]
 }

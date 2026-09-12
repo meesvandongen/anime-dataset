@@ -16,9 +16,9 @@
   "end_date": "2001-07-20",
   "synopsis": "Kitty and friends recreate the story of King Midas.",
   "mean": 5.82,
-  "rank": 11936,
-  "popularity": 16901,
-  "num_list_users": 723,
+  "rank": 11944,
+  "popularity": 16908,
+  "num_list_users": 725,
   "num_scoring_users": 216,
   "nsfw": "white",
   "created_at": "2014-02-04T07:42:19+00:00",
@@ -42,5 +42,10 @@
   },
   "average_episode_duration": 600,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 86,
+      "name": "Group TAC"
+    }
+  ]
 }

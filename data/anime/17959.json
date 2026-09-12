@@ -16,8 +16,8 @@
   "end_date": "2003-04-06",
   "synopsis": "Doctor Tenma, chief of the Ministry of Science, brought a digital brain genome from an aircraft. Doctor Tenma begins a trip to Mars, then combines the genome with a robot. Doctor Tenma's son, Tobio, who had died in a traffic accident, has been revived.\n\n(Source: AstroBoy Online)",
   "mean": 6.19,
-  "rank": 9923,
-  "popularity": 13759,
+  "rank": 9925,
+  "popularity": 13769,
   "num_list_users": 1540,
   "num_scoring_users": 414,
   "nsfw": "white",
@@ -42,5 +42,10 @@
   },
   "average_episode_duration": 1200,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 200,
+      "name": "Tezuka Productions"
+    }
+  ]
 }
