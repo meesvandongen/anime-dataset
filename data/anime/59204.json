@@ -14,12 +14,12 @@
   },
   "start_date": "2026-10-07",
   "synopsis": "New anime project for Magic Knight Rayearth to celebrate the anime's 30th anniversary.",
-  "popularity": 6925,
-  "num_list_users": 11714,
-  "num_scoring_users": 12,
+  "popularity": 6853,
+  "num_list_users": 12042,
+  "num_scoring_users": 13,
   "nsfw": "white",
   "created_at": "2024-07-02T03:07:17+00:00",
-  "updated_at": "2026-07-20T05:12:32+00:00",
+  "updated_at": "2026-09-12T10:06:17+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -51,6 +51,7 @@
   },
   "source": "manga",
   "average_episode_duration": 0,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 2642,

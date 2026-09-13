@@ -1,0 +1,43 @@
+{
+  "id": 64256,
+  "title": "Top Secret",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1081/158144.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1081/158144l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Top Secret",
+    "ja": "Top Secret"
+  },
+  "start_date": "2026-05-22",
+  "end_date": "2026-05-22",
+  "synopsis": "Music video for the song Top Secret by Mao Arimura (CV: Tsumugi Nanase).",
+  "popularity": 30437,
+  "num_list_users": 32,
+  "num_scoring_users": 14,
+  "nsfw": "white",
+  "created_at": "2026-05-22T13:11:30+00:00",
+  "updated_at": "2026-09-08T06:40:44+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 170,
+  "rating": "pg_13",
+  "studios": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": 58485,
+  "title": "Invader",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1292/142155.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1292/142155l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "インベーダー"
+  },
+  "start_date": "2024-02-25",
+  "end_date": "2024-02-25",
+  "synopsis": "Music video for the song Invader by POP-OVER, featuring Hatsune Miku and v flower.",
+  "popularity": 30536,
+  "num_list_users": 11,
+  "num_scoring_users": 6,
+  "nsfw": "white",
+  "created_at": "2024-03-20T17:09:59+00:00",
+  "updated_at": "2026-09-11T19:09:14+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 230,
+  "rating": "g",
+  "studios": []
+}

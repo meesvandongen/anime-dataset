@@ -1,0 +1,47 @@
+{
+  "id": 63674,
+  "title": "Xiaoting Zaichufa",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1193/155979.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1193/155979l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Rest Awhile",
+    "ja": "小停再出發"
+  },
+  "start_date": "2024-11-07",
+  "end_date": "2024-11-07",
+  "synopsis": "I'm blessed to be on this journey by your side.\n\n(Source: Official YouTube Channel)",
+  "popularity": 30527,
+  "num_list_users": 16,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2026-03-09T19:06:50+00:00",
+  "updated_at": "2026-09-07T13:53:17+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2024,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 200,
+  "rating": "pg_13",
+  "studios": []
+}

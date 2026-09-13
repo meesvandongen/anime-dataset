@@ -13,8 +13,8 @@
   "start_date": "2022-10-30",
   "end_date": "2023-01-08",
   "synopsis": "",
-  "rank": 20192,
-  "popularity": 23501,
+  "rank": 20211,
+  "popularity": 23526,
   "num_list_users": 217,
   "num_scoring_users": 45,
   "nsfw": "white",
@@ -48,5 +48,10 @@
   "source": "web_manga",
   "average_episode_duration": 510,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3389,
+      "name": "Moxie Studio"
+    }
+  ]
 }

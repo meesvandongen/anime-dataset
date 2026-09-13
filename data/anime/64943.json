@@ -1,0 +1,39 @@
+{
+  "id": 64943,
+  "title": "Buriki no Dance (2026)",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1800/159948.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1800/159948l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Tinplate's Dance",
+    "ja": "ブリキノダンス"
+  },
+  "start_date": "2026-09-04",
+  "end_date": "2026-09-04",
+  "synopsis": "Buriki no Dance is a song by Hinata Electric Works covered by Tenma Tsukasa (CV: Hirose Daisuke).",
+  "popularity": 30335,
+  "num_list_users": 48,
+  "num_scoring_users": 24,
+  "nsfw": "white",
+  "created_at": "2026-09-09T12:55:13+00:00",
+  "updated_at": "2026-09-09T17:00:24+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 198,
+  "rating": "pg_13",
+  "studios": []
+}

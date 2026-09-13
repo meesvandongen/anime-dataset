@@ -12,14 +12,14 @@
   },
   "start_date": "2024-12-06",
   "end_date": "2024-12-06",
-  "synopsis": "",
-  "rank": 22130,
-  "popularity": 22890,
+  "synopsis": "The story begins when Ning Sheng, a young scholar, accidentally saves the female ghost Xiaoqian at Lanruo Temple; it then recounts how the two come to know and fall in love with each other while fleeing for their lives.\n\n(Source: Bangumi, translated)",
+  "rank": 22149,
+  "popularity": 22913,
   "num_list_users": 245,
   "num_scoring_users": 21,
   "nsfw": "white",
   "created_at": "2024-12-04T18:23:14+00:00",
-  "updated_at": "2024-12-05T11:41:09+00:00",
+  "updated_at": "2026-09-12T18:41:07+00:00",
   "media_type": "movie",
   "status": "finished_airing",
   "genres": [
@@ -30,6 +30,10 @@
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
     }
   ],
   "num_episodes": 1,

@@ -1,0 +1,42 @@
+{
+  "id": 64218,
+  "title": "Bouken wa Tsuzuiteiru.",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1829/158060.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1829/158060l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Final Fantasy XI 24th Anniversary Movie"
+    ],
+    "en": "Our Adventure Never Ends.",
+    "ja": "冒険は続いている。FINAL FANTASY XI 24th Anniversary Movie"
+  },
+  "start_date": "2026-05-15",
+  "end_date": "2026-05-15",
+  "synopsis": "Special animation celebrating the 24th Anniversary of Final Fantasy XI.",
+  "rank": 15844,
+  "popularity": 30478,
+  "num_list_users": 26,
+  "num_scoring_users": 8,
+  "nsfw": "white",
+  "created_at": "2026-05-18T03:17:06+00:00",
+  "updated_at": "2026-09-07T12:21:44+00:00",
+  "media_type": "special",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 71,
+  "rating": "pg_13",
+  "studios": []
+}

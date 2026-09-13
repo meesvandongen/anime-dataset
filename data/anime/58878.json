@@ -13,20 +13,20 @@
   "start_date": "2026-07-06",
   "end_date": "2026-09-21",
   "synopsis": "Long, long ago, there lived a mermaid princess named Lara. She was raised with love by her father, the king of sea and her sisters. One day, Lara fell in love with a human prince who lived on land. It was a forbidden love—one that was not allowed in the world of mermaids. Still, Lara journeyed to the surface. With a potion, given to her from the witch Grace, she became human. But the potion came at a cost—fail to find true love, and she would turn into foam and vanish into the ocean. Though she was a princess of the sea, Lara chose love. Yet, her wish went unfulfilled and she vanished into the sea. Two hundred years later, Lara awakens once more, in Lake Biwa to finally search for her true love.\n\n(Source: Crunchyroll)",
-  "mean": 7.95,
-  "rank": 846,
-  "popularity": 3589,
-  "num_list_users": 52157,
-  "num_scoring_users": 6260,
+  "mean": 7.96,
+  "rank": 829,
+  "popularity": 3535,
+  "num_list_users": 53725,
+  "num_scoring_users": 6616,
   "nsfw": "gray",
   "created_at": "2024-05-19T00:03:45+00:00",
-  "updated_at": "2026-08-07T09:56:16+00:00",
+  "updated_at": "2026-09-10T01:46:48+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
     {
-      "id": 10,
-      "name": "Fantasy"
+      "id": 8,
+      "name": "Drama"
     },
     {
       "id": 72,
@@ -35,6 +35,10 @@
     {
       "id": 22,
       "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
     }
   ],
   "num_episodes": 12,
