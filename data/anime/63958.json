@@ -1,0 +1,48 @@
+{
+  "id": 63958,
+  "title": "Majo to Youhei",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1572/160082.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1572/160082l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Witch and the Mercenary"
+    ],
+    "en": "Witch and Mercenary",
+    "ja": "魔女と傭兵"
+  },
+  "start_date": "2027-04",
+  "synopsis": "Zig—a tall, broad-shouldered mercenary—participates in a witch hunt. Following a fierce duel with the deadly witch, he becomes privy to her desire. \"I want you to protect me,\" she requests, tired of having her life trivialized. Seeking a place to survive, the witch and the mercenary set their sights on an unknown continent!\n\n(Source: Kodansha)",
+  "popularity": 9061,
+  "num_list_users": 6038,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-04-15T03:06:03+00:00",
+  "updated_at": "2026-09-16T03:58:29+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "spring"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 441,
+      "name": "8bit"
+    }
+  ]
+}

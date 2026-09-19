@@ -14,22 +14,18 @@
   },
   "start_date": "2026-07-05",
   "end_date": "2026-07-05",
-  "synopsis": "Go behind the runway as style icon Nami stars in a life-changing fashion show, observe wise Robin as she helps to decipher an ancient tablet with Koala and Sabo, watch as solemn Princess Vivi receives a love letter from an unexpected admirer, and check out Ghost Princess Perona's battle over the last bottle of wine with Zoro and Mihawk!\n\n(Source: VIZ Media)",
+  "synopsis": "After failing to stop the thieves due to ill-fitting shoes, Nami storms into the shop where she bought them for a refund. However, the head designer offers to make her a new pair from scratch on one condition: she must walk in their upcoming fashion show.\n\n(Source: Crunchyroll)",
   "mean": 7.58,
-  "rank": 1866,
-  "popularity": 4651,
-  "num_list_users": 31627,
-  "num_scoring_users": 12994,
+  "rank": 1867,
+  "popularity": 4642,
+  "num_list_users": 31857,
+  "num_scoring_users": 13157,
   "nsfw": "white",
   "created_at": "2025-08-10T09:02:26+00:00",
-  "updated_at": "2026-06-30T19:56:55+00:00",
+  "updated_at": "2026-09-18T22:31:41+00:00",
   "media_type": "tv_special",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 2,
-      "name": "Adventure"
-    },
     {
       "id": 10,
       "name": "Fantasy"
@@ -37,10 +33,6 @@
     {
       "id": 27,
       "name": "Shounen"
-    },
-    {
-      "id": 36,
-      "name": "Slice of Life"
     }
   ],
   "num_episodes": 1,

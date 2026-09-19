@@ -13,9 +13,9 @@
   "start_date": "2026-07-21",
   "end_date": "2026-07-21",
   "synopsis": "Music video for the song Fade into Blue by Aiobahn featuring Kana Hanazawa.",
-  "popularity": 29916,
-  "num_list_users": 85,
-  "num_scoring_users": 42,
+  "popularity": 29859,
+  "num_list_users": 89,
+  "num_scoring_users": 44,
   "nsfw": "white",
   "created_at": "2026-07-21T17:20:18+00:00",
   "updated_at": "2026-07-21T23:16:19+00:00",
@@ -35,5 +35,10 @@
   "source": "original",
   "average_episode_duration": 206,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3013,
+      "name": "Rhythmos"
+    }
+  ]
 }

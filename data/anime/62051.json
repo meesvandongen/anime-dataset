@@ -13,14 +13,14 @@
   "start_date": "2026-07-05",
   "end_date": "2026-09-27",
   "synopsis": "In Japan during the height of its economic boom in the mid-1950s, the circus was a form of entertainment that became a central part of many people's lives. The best troupes are permitted to participate in the world-renowned \"Circus Collection\" festival, and many come from all over Japan to compete daily.\n\nThe story centers on the struggling \"Sunflower Circus\" troupe, led by ringmaster Maria, and a new prodigy that joins their ranks for unknown reasons: Mizuka Tsurumaki.\n\nIs her encounter with the highly individual members of the Sunflower Circus troupe a coincidence or destiny? This one-of-a-kind circus show depicting young girls chasing their dreams begins!\n\n(Source: Official site, translated)",
-  "mean": 7.2,
-  "rank": 3739,
-  "popularity": 6238,
-  "num_list_users": 15148,
-  "num_scoring_users": 2295,
+  "mean": 7.18,
+  "rank": 3852,
+  "popularity": 6206,
+  "num_list_users": 15395,
+  "num_scoring_users": 2367,
   "nsfw": "gray",
   "created_at": "2025-07-14T09:16:08+00:00",
-  "updated_at": "2026-09-11T14:43:02+00:00",
+  "updated_at": "2026-09-18T03:46:09+00:00",
   "media_type": "tv",
   "status": "currently_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 70,
       "name": "Performing Arts"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 13,

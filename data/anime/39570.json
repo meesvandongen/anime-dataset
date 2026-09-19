@@ -2,8 +2,8 @@
   "id": 39570,
   "title": "High Score Girl II",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1560/99904.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1560/99904l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1560/99904.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1560/99904l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -16,10 +16,10 @@
   "end_date": "2019-12-21",
   "synopsis": "The year is 1996, and second-year high school students Haruo Yaguchi, Akira Oono, and Koharu Hidaka live their lives as passionately about video games as they were five years ago. Brought together by arcade games, what began as a healthy rivalry and friendship has turned into something more. As they endeavour towards understanding their unfamiliar feelings, they work with allies, navigate high school, and find that, although life has its many challenges, there's always a game or two they can rely on.\n\n[Written by MAL Rewrite]",
   "mean": 7.94,
-  "rank": 852,
-  "popularity": 1778,
-  "num_list_users": 153161,
-  "num_scoring_users": 89739,
+  "rank": 853,
+  "popularity": 1779,
+  "num_list_users": 153225,
+  "num_scoring_users": 89784,
   "nsfw": "white",
   "created_at": "2019-03-21T04:44:48+00:00",
   "updated_at": "2025-01-07T23:19:48+00:00",
@@ -67,6 +67,10 @@
     {
       "id": 7,
       "name": "J.C.Staff"
+    },
+    {
+      "id": 3320,
+      "name": "ZG-R"
     }
   ]
 }

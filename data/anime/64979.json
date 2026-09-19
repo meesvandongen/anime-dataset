@@ -1,0 +1,65 @@
+{
+  "id": 64979,
+  "title": "Benghuai: Xing Qiong Tiedao - Donghua Duanpian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1817/160043.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1817/160043l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Honkai: Star Rail - Animated Shorts",
+    "ja": "《崩坏：星穹铁道》动画短片"
+  },
+  "start_date": "2023-05-10",
+  "synopsis": "Animated shorts for the game Honkai: Star Rail.",
+  "mean": 7.85,
+  "rank": 1042,
+  "popularity": 9551,
+  "num_list_users": 5247,
+  "num_scoring_users": 2273,
+  "nsfw": "white",
+  "created_at": "2026-09-14T23:52:25+00:00",
+  "updated_at": "2026-09-14T23:52:25+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2023,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 240,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1839,
+      "name": "Studio Ppuri"
+    },
+    {
+      "id": 2126,
+      "name": "Red Dog Culture House"
+    },
+    {
+      "id": 2372,
+      "name": "Flint Sugar"
+    },
+    {
+      "id": 2563,
+      "name": "Studio Tumble"
+    }
+  ]
+}

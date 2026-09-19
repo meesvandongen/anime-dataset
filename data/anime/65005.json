@@ -1,0 +1,58 @@
+{
+  "id": 65005,
+  "title": "Jue Qu Ling: Juese Donghua Duanpian",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1035/160080.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1035/160080l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Zenless Zone Zero: Character Short Animation"
+    ],
+    "en": "Zenless Zone Zero: Character Animated Short Films",
+    "ja": "《絕區零》角色動畫短片"
+  },
+  "start_date": "2024-09-09",
+  "synopsis": "Animated short films for the game Zenless Zone Zero.",
+  "rank": 17940,
+  "popularity": 29710,
+  "num_list_users": 92,
+  "num_scoring_users": 17,
+  "nsfw": "white",
+  "created_at": "2026-09-16T01:25:12+00:00",
+  "updated_at": "2026-09-17T07:51:14+00:00",
+  "media_type": "ona",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 82,
+      "name": "Urban Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2024,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 420,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 2372,
+      "name": "Flint Sugar"
+    },
+    {
+      "id": 2563,
+      "name": "Studio Tumble"
+    }
+  ]
+}

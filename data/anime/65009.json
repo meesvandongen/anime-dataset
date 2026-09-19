@@ -1,0 +1,48 @@
+{
+  "id": 65009,
+  "title": "Aoki Denshou Welsh & Shedar",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1360/160091.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1360/160091l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Welsh & Shedar"
+    ],
+    "en": "",
+    "ja": "蒼き伝承 ウェルシュ＆シェダー"
+  },
+  "start_date": "2026-10-02",
+  "synopsis": "The story of Aoki Denshou Welsh & Shedar follows Welsh, a teenage boy from the country who loves to cook, and Shedar, a young prince who is destined to become king one day. When the two young men with very different lives are thrown together by a chance encounter, the wheels of fate begin to turn, and soon they must work together to bring about a peaceful future by stopping a cruel despot from conquering the world.\n\n(Source: Crunchyroll)",
+  "popularity": 21901,
+  "num_list_users": 303,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-09-16T11:57:30+00:00",
+  "updated_at": "2026-09-17T04:16:41+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "21:25"
+  },
+  "source": "original",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2411,
+      "name": "Studio Massket"
+    }
+  ]
+}

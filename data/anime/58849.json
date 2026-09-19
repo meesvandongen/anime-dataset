@@ -1,0 +1,44 @@
+{
+  "id": 58849,
+  "title": "Free Fire Daybreak",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1300/159272.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1300/159272l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Garena Free Fire"
+    ],
+    "en": "",
+    "ja": ""
+  },
+  "start_date": "2027-04",
+  "synopsis": "In the near-future city of New Dawn, ruled by the powerful Horizon Corporation, 16-year-old Kelly becomes entangled in the experimental \"Project Bloom\" and awakens \"Limit Break\", an extraordinary ability capable of unlocking anything that has been sealed away.\n\nAs fragments of her past begin to resurface, Kelly joins newfound allies to uncover the conspiracy surrounding Horizon Corporation and confront the forces threatening the future of New Dawn.\n\nWhat fate lies ahead?\n\n(Source: Garena)",
+  "popularity": 13649,
+  "num_list_users": 1597,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-05-13T03:29:20+00:00",
+  "updated_at": "2026-08-01T02:10:17+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "spring"
+  },
+  "source": "game",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2134,
+      "name": "Studio CANDY BOX"
+    }
+  ]
+}

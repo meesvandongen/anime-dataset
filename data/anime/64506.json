@@ -13,9 +13,9 @@
   "start_date": "2026-06-28",
   "end_date": "2026-06-28",
   "synopsis": "Music video for Ikka Dumb Rock!'s debut song, Homie's Tie!!",
-  "popularity": 26888,
-  "num_list_users": 126,
-  "num_scoring_users": 68,
+  "popularity": 26821,
+  "num_list_users": 129,
+  "num_scoring_users": 69,
   "nsfw": "white",
   "created_at": "2026-06-28T12:19:37+00:00",
   "updated_at": "2026-06-29T07:52:28+00:00",
@@ -35,5 +35,10 @@
   "source": "mixed_media",
   "average_episode_duration": 114,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3194,
+      "name": "Nichicaline"
+    }
+  ]
 }
