@@ -1,0 +1,51 @@
+{
+  "id": 65044,
+  "title": "Doron",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1422/160200.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1422/160200l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "ドロン"
+  },
+  "start_date": "2026-09-12",
+  "end_date": "2026-09-12",
+  "synopsis": "Music video for the song Doron by you-to.",
+  "popularity": 30531,
+  "num_list_users": 31,
+  "num_scoring_users": 16,
+  "nsfw": "white",
+  "created_at": "2026-09-23T01:57:34+00:00",
+  "updated_at": "2026-09-23T01:57:34+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 214,
+  "rating": "pg_13",
+  "studios": []
+}

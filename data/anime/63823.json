@@ -12,7 +12,7 @@
   },
   "start_date": "2026-10-04",
   "synopsis": "Fourth season of Punirunes.",
-  "popularity": 29652,
+  "popularity": 29687,
   "num_list_users": 93,
   "num_scoring_users": 0,
   "nsfw": "white",
@@ -46,5 +46,10 @@
   "source": "original",
   "average_episode_duration": 720,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 1231,
+      "name": "OLM Digital"
+    }
+  ]
 }

@@ -1,0 +1,48 @@
+{
+  "id": 65003,
+  "title": "Jingling Meng Yeluoli x Bing Lianhua",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1731/160169.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1731/160169l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "The Fairy Dream of Yeloli: Ice Lotus",
+    "ja": "精灵梦叶罗丽X冰莲花"
+  },
+  "start_date": "2021-08-11",
+  "end_date": "2022-03-09",
+  "synopsis": "This is China's first animated series centered on figure skating. Set in a fictional magical parallel world, the story follows the Ice Princess—now an adult—and the Yeloli fairies as they bravely forge ahead in pursuit of self-realization. While overcoming challenges, they also advocate for environmental protection, encouraging audiences to pay attention to issues such as the melting of the Earth's glaciers.\n\n(Source: Official YouTube Channel, translated)",
+  "rank": 17864,
+  "popularity": 30576,
+  "num_list_users": 23,
+  "num_scoring_users": 4,
+  "nsfw": "white",
+  "created_at": "2026-09-15T14:30:05+00:00",
+  "updated_at": "2026-09-21T00:03:07+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 25,
+      "name": "Shoujo"
+    }
+  ],
+  "num_episodes": 23,
+  "start_season": {
+    "year": 2021,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 840,
+  "rating": "pg_13",
+  "studios": []
+}

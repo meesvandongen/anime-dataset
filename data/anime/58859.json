@@ -2,8 +2,8 @@
   "id": 58859,
   "title": "Benghuai: Xing Qiong Tiedao - Yanchanghui Donghua CM: Yanchu Kaishi Qian",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1817/143109.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1817/143109l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1817/143109.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1817/143109l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,11 +12,11 @@
   },
   "start_date": "2024-04-30",
   "end_date": "2024-04-30",
-  "synopsis": "Animated commercial promoting the 2024 concert for Honkai: Star Rail.\n\n",
+  "synopsis": "Animated commercial promoting the 2024 concert for Honkai: Star Rail.",
   "mean": 7.04,
-  "popularity": 14406,
-  "num_list_users": 1316,
-  "num_scoring_users": 652,
+  "popularity": 14405,
+  "num_list_users": 1320,
+  "num_scoring_users": 654,
   "nsfw": "white",
   "created_at": "2024-05-14T20:47:55+00:00",
   "updated_at": "2026-09-18T23:30:56+00:00",
@@ -48,5 +48,10 @@
   "source": "game",
   "average_episode_duration": 103,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 2864,
+      "name": "Windy Studio"
+    }
+  ]
 }

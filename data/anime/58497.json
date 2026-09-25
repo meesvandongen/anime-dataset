@@ -12,12 +12,12 @@
   },
   "start_date": "2023-11-14",
   "synopsis": "Animated trailers that are part of the A Moment Among the Stars trailers for the game Honkai: Star Rail, the animation is unique and is not present in the game.\n",
-  "popularity": 22073,
-  "num_list_users": 292,
-  "num_scoring_users": 67,
+  "popularity": 22015,
+  "num_list_users": 297,
+  "num_scoring_users": 68,
   "nsfw": "white",
   "created_at": "2024-03-22T04:42:53+00:00",
-  "updated_at": "2025-09-30T15:09:50+00:00",
+  "updated_at": "2026-09-21T16:53:55+00:00",
   "media_type": "pv",
   "status": "currently_airing",
   "genres": [
@@ -38,5 +38,14 @@
   "source": "game",
   "average_episode_duration": 46,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 1774,
+      "name": "LAN Studio"
+    },
+    {
+      "id": 2864,
+      "name": "Windy Studio"
+    }
+  ]
 }

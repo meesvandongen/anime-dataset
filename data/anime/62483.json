@@ -12,22 +12,26 @@
   },
   "start_date": "2027-01",
   "synopsis": "Set in June of 1863, the story follows a man with no memory who is brought to the Mibu Roushigumi headquarters in Kyoto. Taken in by vice-commander Souji Okita, he is given the name Jinsuke Tachikawa and begins life as a member of the group. As the Mibu Roushigumi—later known as the Shinsengumi—gain prominence amid the turmoil of the late Edo period, Jinsuke and his comrades are swept up in the era's upheaval. When Jinsuke finally regains all his memories, the world around him is forever changed.\n\n(Source: MAL News)",
-  "popularity": 10327,
-  "num_list_users": 4157,
+  "popularity": 10012,
+  "num_list_users": 4582,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2025-09-13T08:30:15+00:00",
-  "updated_at": "2026-04-07T12:43:16+00:00",
+  "updated_at": "2026-09-21T17:41:01+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
     {
-      "id": 1,
-      "name": "Action"
+      "id": 8,
+      "name": "Drama"
     },
     {
       "id": 13,
       "name": "Historical"
+    },
+    {
+      "id": 21,
+      "name": "Samurai"
     }
   ],
   "num_episodes": 0,

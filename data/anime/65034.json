@@ -1,0 +1,43 @@
+{
+  "id": 65034,
+  "title": "Kome Rice Onigiri feat. Karubi Akami & Kyouitirou",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1261/160175.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1261/160175l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "米ライスおにぎり (feat. 赤見かるび & 恭一郎)"
+  },
+  "start_date": "2026-08-18",
+  "end_date": "2026-08-18",
+  "synopsis": "Music video for the song Kome Rice Onigiri by Yukopi, featuring Karubi Akami and Kyouitirou.",
+  "popularity": 30377,
+  "num_list_users": 54,
+  "num_scoring_users": 27,
+  "nsfw": "white",
+  "created_at": "2026-09-21T02:37:11+00:00",
+  "updated_at": "2026-09-21T02:37:11+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 47,
+      "name": "Gourmet"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 140,
+  "rating": "g",
+  "studios": []
+}
