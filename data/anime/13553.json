@@ -14,10 +14,10 @@
   "end_date": "1989-01-24",
   "synopsis": "No synopsis has been added for this series yet.",
   "mean": 5.89,
-  "rank": 11557,
-  "popularity": 16903,
-  "num_list_users": 731,
-  "num_scoring_users": 138,
+  "rank": 11568,
+  "popularity": 16933,
+  "num_list_users": 728,
+  "num_scoring_users": 139,
   "nsfw": "white",
   "created_at": "2012-03-28T03:39:42+00:00",
   "updated_at": "2022-01-16T01:54:57+00:00",
@@ -37,5 +37,10 @@
   "source": "manga",
   "average_episode_duration": 5280,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 312,
+      "name": "Life Work"
+    }
+  ]
 }
