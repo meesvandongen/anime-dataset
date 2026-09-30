@@ -18,23 +18,19 @@
   },
   "start_date": "2013-06-06",
   "synopsis": "The series tells the story of Wang Mo, an ordinary child, and her friends who enter the magical realm of Yeloli Fairyland after acquiring enchanted Yeloli dolls. The parallel world is ruled by the evil Queen Mandora, who plots to conquer the human world and enslave humanity, driving a rich and compelling narrative. The characters feature the aesthetics of classical Chinese beauties blended with a modern, fashionable flair; by embracing the popular \"China-chic\" trend, the series brilliantly showcases unique traditional Chinese culture.\n\n(Source: Bilibili, translated)",
-  "rank": 17859,
-  "popularity": 25589,
+  "rank": 17868,
+  "popularity": 25590,
   "num_list_users": 154,
   "num_scoring_users": 33,
   "nsfw": "white",
   "created_at": "2020-12-21T02:59:56+00:00",
-  "updated_at": "2026-09-21T00:07:56+00:00",
+  "updated_at": "2026-09-27T17:01:11+00:00",
   "media_type": "ona",
   "status": "currently_airing",
   "genres": [
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 25,
-      "name": "Shoujo"
     }
   ],
   "num_episodes": 312,
@@ -45,5 +41,10 @@
   "source": "original",
   "average_episode_duration": 900,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 3400,
+      "name": "Elite Animation"
+    }
+  ]
 }
