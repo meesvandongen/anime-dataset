@@ -2,8 +2,8 @@
   "id": 60311,
   "title": "Qia Tongxue Shaonian",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1248/146535.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1248/146535l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1668/160333.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1668/160333l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -12,14 +12,14 @@
   },
   "start_date": "2024-11-17",
   "end_date": "2024-11-17",
-  "synopsis": "",
-  "rank": 19983,
-  "popularity": 23227,
-  "num_list_users": 234,
+  "synopsis": "In 1913, the renowned educator Kong Zhaoshou assumed the presidency of the Hunan First Normal School in Changsha. He vigorously implemented modern educational reforms and recruited outstanding faculty members—both Chinese and foreign, such as Yang Changji—breathing new life into the institution. This revitalized school attracted numerous applicants, and a 19-year-old Mao Zedong gained admission, ranking first among the candidates entering this historic academy. Through their shared academic life, Mao Zedong, Cai Hesen, Xiao Zisheng, and other ambitious young men forged deep friendships. They were also joined by like-minded female students from the private Zhounan Girls' Normal School—including Tao Siyong, Xiang Jingyu, and Yang Kaihui—bonded by their common interests and aspirations; a study group formed by these progressive youths became a hub for learning, communication, and the exchange of ideas. However, the turbulent political climate disrupted their campus life. Amidst the struggle against \"Sino-Japanese rapprochement,\" the warlord Tang Xiangming used force to oust President Kong, and Mao Zedong narrowly escaped arrest; this harsh reality caused Mao to waver in his belief that the nation could be saved through education and reformism.\n\n(Source: Bilibili, translated)",
+  "rank": 19990,
+  "popularity": 23255,
+  "num_list_users": 233,
   "num_scoring_users": 52,
   "nsfw": "white",
   "created_at": "2024-11-17T16:25:43+00:00",
-  "updated_at": "2024-11-17T20:17:47+00:00",
+  "updated_at": "2026-09-30T17:33:20+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -36,5 +36,10 @@
   "source": "novel",
   "average_episode_duration": 1324,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 2645,
+      "name": "Liyu Culture"
+    }
+  ]
 }

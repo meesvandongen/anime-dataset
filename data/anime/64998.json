@@ -13,13 +13,13 @@
   "start_date": "2023-08-18",
   "end_date": "2023-09-22",
   "synopsis": "The Water Prince and Wang Mo first met by the shores of Stillwater Lake—a meeting between a water spirit facing death due to human pollution and a kind-hearted human girl. The prince reigned over the Water Linglong Palace beneath the waves, while the human girl lived worlds apart. What kind of story would unfold between them as they grew up?\n\n(Source: Bangumi, translated)",
-  "rank": 22449,
-  "popularity": 30569,
-  "num_list_users": 25,
-  "num_scoring_users": 4,
+  "rank": 22455,
+  "popularity": 30574,
+  "num_list_users": 28,
+  "num_scoring_users": 5,
   "nsfw": "white",
   "created_at": "2026-09-15T14:19:28+00:00",
-  "updated_at": "2026-09-20T22:31:56+00:00",
+  "updated_at": "2026-09-27T17:02:45+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -30,10 +30,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 25,
-      "name": "Shoujo"
     }
   ],
   "num_episodes": 20,
@@ -44,5 +40,10 @@
   "source": "original",
   "average_episode_duration": 780,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3400,
+      "name": "Elite Animation"
+    }
+  ]
 }

@@ -11,16 +11,17 @@
     "ja": "プラノサウルス ガチコセイブツ部"
   },
   "start_date": "2026-07-12",
-  "synopsis": "",
-  "rank": 19846,
-  "popularity": 19976,
-  "num_list_users": 425,
-  "num_scoring_users": 24,
+  "end_date": "2026-09-27",
+  "synopsis": "Tetori is seriously interested in paleontology. He's joined by aspiring idol Kanna and the mysterious Dino. Together, they learn about ancient creatures.\n\n(Source: AniDB)",
+  "rank": 19853,
+  "popularity": 19857,
+  "num_list_users": 434,
+  "num_scoring_users": 35,
   "nsfw": "white",
   "created_at": "2026-03-06T11:48:26+00:00",
-  "updated_at": "2026-07-14T10:29:22+00:00",
+  "updated_at": "2026-09-27T07:27:17+00:00",
   "media_type": "tv",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 56,
@@ -31,7 +32,7 @@
       "name": "Kids"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 12,
   "start_season": {
     "year": 2026,
     "season": "summer"

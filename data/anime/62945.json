@@ -1,0 +1,62 @@
+{
+  "id": 62945,
+  "title": "Di Yi Xulie 2",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1205/153676.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1205/153676l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Di Yi Xulie 2nd Season",
+      "第一序列 第二季"
+    ],
+    "en": "The First Order 2",
+    "ja": "第一序列2"
+  },
+  "start_date": "2026-12-17",
+  "synopsis": "Nuclear winter has arrived, civilization has collapsed, and humanity is no longer the master of the world. Species mutations and scarce resources create an unpredictable future and environment, leading to a series of crises. To protect themselves, humanity has built walls, but outside these walls, survival depends on blood and fire. \n\nThe protagonist, Ren Xiaosu, and his younger brother, Yan Liuyuan, are among them. They were just ordinary teenagers in the wilderness, without shelter or a way out; their only support was each other. But fate granted them the power to awaken in their dire circumstances. The Jingshan earthquake caused the collapse of Wall 113, fully shattering the post-apocalyptic chaos. During their escape, Ren Xiaosu and his family rescue Luo Lan, the military leader, and enter Wall 109. A new life is about to begin, but the real test has only just begun…\n\n(Source: Bilibili, translated)",
+  "popularity": 18741,
+  "num_list_users": 522,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2025-11-15T12:35:21+00:00",
+  "updated_at": "2026-09-27T12:35:54+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 3132,
+      "name": "Flying Fish Studio"
+    },
+    {
+      "id": 3133,
+      "name": "Bu Keneng de Shijie"
+    }
+  ]
+}

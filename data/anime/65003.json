@@ -13,13 +13,13 @@
   "start_date": "2021-08-11",
   "end_date": "2022-03-09",
   "synopsis": "This is China's first animated series centered on figure skating. Set in a fictional magical parallel world, the story follows the Ice Princess—now an adult—and the Yeloli fairies as they bravely forge ahead in pursuit of self-realization. While overcoming challenges, they also advocate for environmental protection, encouraging audiences to pay attention to issues such as the melting of the Earth's glaciers.\n\n(Source: Official YouTube Channel, translated)",
-  "rank": 17864,
-  "popularity": 30576,
-  "num_list_users": 23,
-  "num_scoring_users": 4,
+  "rank": 17871,
+  "popularity": 30579,
+  "num_list_users": 27,
+  "num_scoring_users": 5,
   "nsfw": "white",
   "created_at": "2026-09-15T14:30:05+00:00",
-  "updated_at": "2026-09-21T00:03:07+00:00",
+  "updated_at": "2026-09-27T17:02:29+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -30,10 +30,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 25,
-      "name": "Shoujo"
     }
   ],
   "num_episodes": 23,
@@ -44,5 +40,10 @@
   "source": "original",
   "average_episode_duration": 840,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3400,
+      "name": "Elite Animation"
+    }
+  ]
 }

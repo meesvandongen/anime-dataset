@@ -12,13 +12,13 @@
   },
   "start_date": "2023-12-29",
   "synopsis": "The beautiful Wonderland of Yeloli is like a fairytale dreamscape, vibrant with magnificent, magical colors, where elements of the natural world exist in the form of fairies. The Golden Prince—Wonderland’s God of War—encountered Luoli, the gentle mistress of the Flower Bud Castle; she used her magic of love to mend his heart, which was slowly melting away in the Golden Furnace. Ultimately, however, the two were separated during the great war in Wonderland and transformed into dolls in the human world.\n\n(Source: Mango TV, translated)",
-  "rank": 17866,
-  "popularity": 30562,
-  "num_list_users": 25,
-  "num_scoring_users": 4,
+  "rank": 17873,
+  "popularity": 30573,
+  "num_list_users": 28,
+  "num_scoring_users": 5,
   "nsfw": "white",
   "created_at": "2026-09-15T14:18:34+00:00",
-  "updated_at": "2026-09-20T22:44:16+00:00",
+  "updated_at": "2026-09-27T17:02:53+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -29,10 +29,6 @@
     {
       "id": 10,
       "name": "Fantasy"
-    },
-    {
-      "id": 25,
-      "name": "Shoujo"
     }
   ],
   "num_episodes": 34,
@@ -43,5 +39,10 @@
   "source": "original",
   "average_episode_duration": 840,
   "rating": "pg_13",
-  "studios": []
+  "studios": [
+    {
+      "id": 3400,
+      "name": "Elite Animation"
+    }
+  ]
 }
