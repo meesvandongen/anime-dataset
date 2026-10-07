@@ -7,21 +7,25 @@
   },
   "alternative_titles": {
     "synonyms": [
-      "Pops Loves Kawaii Stuff, This Uncle Likes Cute Things"
+      "Pops Loves Kawaii Stuff",
+      "This Uncle Likes Cute Things",
+      "Ojikawa"
     ],
     "en": "Uncle's Obsession with Cute Things",
     "ja": "おじさんはカワイイものがお好き。"
   },
   "start_date": "2026-10-04",
   "synopsis": "Mitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)",
-  "popularity": 9330,
-  "num_list_users": 5631,
-  "num_scoring_users": 0,
+  "mean": 6.57,
+  "rank": 7668,
+  "popularity": 8046,
+  "num_list_users": 8206,
+  "num_scoring_users": 573,
   "nsfw": "white",
   "created_at": "2025-11-08T10:10:30+00:00",
-  "updated_at": "2026-08-01T20:59:59+00:00",
+  "updated_at": "2026-10-04T16:40:25+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 50,
@@ -42,7 +46,8 @@
     "start_time": "22:00"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1420,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 839,

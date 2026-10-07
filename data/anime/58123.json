@@ -11,23 +11,24 @@
     "ja": "ディアレストブルー"
   },
   "start_date": "2024-04-26",
+  "end_date": "2025-10-31",
   "synopsis": "Rio and Mamoru are childhood friends and love each other, but have not yet managed to confess their feelings to each other. Rio won a beauty contest where she became an idol and now works under a big agency. There's just one problem: With her increasing popularity, Rio is falling into the eyes of some powerful malevolent men who are playing a more macabre game. This game is about watching Rio suffer and making her sacrifice everything. When Mamoru finds out about this, he sets his sights on protecting Rio, but will he really be able to protect her?",
-  "mean": 5.73,
-  "popularity": 11565,
-  "num_list_users": 2955,
-  "num_scoring_users": 696,
+  "mean": 5.72,
+  "popularity": 11562,
+  "num_list_users": 2968,
+  "num_scoring_users": 711,
   "nsfw": "gray",
   "created_at": "2024-02-13T12:08:51+00:00",
-  "updated_at": "2024-07-08T08:22:46+00:00",
+  "updated_at": "2026-10-03T08:47:51+00:00",
   "media_type": "ova",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 12,
       "name": "Hentai"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 4,
   "start_season": {
     "year": 2024,
     "season": "spring"

@@ -1,29 +1,39 @@
 {
   "id": 63818,
-  "title": "Battle Spirits [Re]: Zekkai no Kuu",
+  "title": "Battle Spirits [Re] Zekkai no Kuu",
   "main_picture": {
     "medium": "https://cdn.myanimelist.net/images/anime/1135/159762.jpg",
     "large": "https://cdn.myanimelist.net/images/anime/1135/159762l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
-    "en": "",
+    "en": "Battle Spirits [Re] Zekkai no Ku",
     "ja": "Battle Spirits [Re] 絶界の空"
   },
   "start_date": "2026-10-06",
-  "synopsis": "",
-  "popularity": 13472,
-  "num_list_users": 1693,
-  "num_scoring_users": 0,
+  "synopsis": "Keio 3, Hinomoto, Eito. As the Bakumatsu throws Japan into turmoil, young Kuu Bashin dreams of becoming stronger through Standard Battle Spirits. His world changes when he encounters Ajara Zetsu, a wandering samurai and formidable Eternal Battler pursued by anti-shogunate forces. As the worlds of Standard and Eternal Battle collide, Kuu is pulled into Zetsu's journey-and sets history in motion.\n\n(Source: Crunchyroll)",
+  "mean": 5.74,
+  "rank": 12418,
+  "popularity": 12452,
+  "num_list_users": 2314,
+  "num_scoring_users": 144,
   "nsfw": "white",
   "created_at": "2026-03-27T23:55:05+00:00",
-  "updated_at": "2026-09-27T22:29:39+00:00",
+  "updated_at": "2026-10-07T06:43:42+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 10,
       "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 11,
+      "name": "Strategy Game"
     }
   ],
   "num_episodes": 0,
@@ -36,7 +46,7 @@
     "start_time": "23:00"
   },
   "source": "card_game",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1440,
   "rating": "pg_13",
   "studios": [
     {

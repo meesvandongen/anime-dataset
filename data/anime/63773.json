@@ -11,16 +11,17 @@
     "ja": "ぷちきゅあ～Precure Fairies～ シーズン3"
   },
   "start_date": "2026-03-26",
+  "end_date": "2026-09-24",
   "synopsis": "Third season of PetitCure: Precure Fairies.",
-  "rank": 19792,
-  "popularity": 19301,
-  "num_list_users": 477,
-  "num_scoring_users": 54,
+  "rank": 19844,
+  "popularity": 19133,
+  "num_list_users": 492,
+  "num_scoring_users": 95,
   "nsfw": "white",
   "created_at": "2026-03-21T11:35:37+00:00",
-  "updated_at": "2026-03-22T12:12:31+00:00",
+  "updated_at": "2026-10-02T09:34:38+00:00",
   "media_type": "ona",
-  "status": "currently_airing",
+  "status": "finished_airing",
   "genres": [
     {
       "id": 66,
@@ -35,14 +36,14 @@
       "name": "Slice of Life"
     }
   ],
-  "num_episodes": 0,
+  "num_episodes": 27,
   "start_season": {
     "year": 2026,
     "season": "winter"
   },
   "source": "original",
   "average_episode_duration": 60,
-  "rating": "g",
+  "rating": "pg",
   "studios": [
     {
       "id": 3209,

@@ -14,14 +14,16 @@
   },
   "start_date": "2026-10-06",
   "synopsis": "The deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)",
-  "popularity": 7040,
-  "num_list_users": 11379,
-  "num_scoring_users": 0,
+  "mean": 6.52,
+  "rank": 7983,
+  "popularity": 6769,
+  "num_list_users": 12596,
+  "num_scoring_users": 324,
   "nsfw": "white",
   "created_at": "2023-01-30T00:08:35+00:00",
   "updated_at": "2026-03-02T12:45:23+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -58,7 +60,8 @@
     "start_time": "02:00"
   },
   "source": "light_novel",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1440,
+  "rating": "r",
   "studios": [
     {
       "id": 118,

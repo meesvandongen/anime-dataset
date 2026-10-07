@@ -2,24 +2,26 @@
   "id": 64534,
   "title": "Koori no Jouheki 2nd Season",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1963/159754.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1963/159754l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1963/159754.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1963/159754l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
     "en": "The Ramparts of Ice Season 2",
     "ja": "氷の城壁 第2期"
   },
-  "start_date": "2026-10-01",
+  "start_date": "2026-10-02",
   "synopsis": "Second season of Koori no Jouheki.",
-  "popularity": 4043,
-  "num_list_users": 43000,
-  "num_scoring_users": 4,
+  "mean": 8.42,
+  "rank": 215,
+  "popularity": 3484,
+  "num_list_users": 55603,
+  "num_scoring_users": 4208,
   "nsfw": "white",
   "created_at": "2026-07-02T15:38:50+00:00",
-  "updated_at": "2026-08-17T20:41:45+00:00",
+  "updated_at": "2026-10-03T02:30:55+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 8,
@@ -44,7 +46,7 @@
     "start_time": "23:56"
   },
   "source": "web_manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1435,
   "rating": "pg_13",
   "studios": [
     {

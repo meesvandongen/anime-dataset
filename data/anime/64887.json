@@ -1,0 +1,44 @@
+{
+  "id": 64887,
+  "title": "Minikke: Chokotto Douwashuu",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1537/159777.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1537/159777l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Minikke: Tiny Tales",
+    "ja": "MINIKKE ちょこっと童話集"
+  },
+  "start_date": "2026-09-06",
+  "end_date": "2026-10-04",
+  "synopsis": "The stories of our familiar Nikkes begin anew on a fresh page.\nFive fairy tales that are a little different from what we know.\n\nTold by the Goddess Squad and the Old Tales Squad,\nMinikke: Tiny Tales is about to begin.\n\n(Source: Official GODDESS OF VICTORY: NIKKE's English X Account)",
+  "rank": 19143,
+  "popularity": 24121,
+  "num_list_users": 199,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2026-08-29T16:09:07+00:00",
+  "updated_at": "2026-10-04T13:00:32+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 10,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "game",
+  "average_episode_duration": 322,
+  "rating": "pg_13",
+  "studios": []
+}

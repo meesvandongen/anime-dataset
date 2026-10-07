@@ -12,14 +12,15 @@
   },
   "start_date": "2026-10-04",
   "synopsis": "Gakken's hugely popular illustrated encyclopedia series, which everyone can enjoy with its laid-back four-panel comics, is finally being adapted into a TV anime!\n\nDiscover surprising aspects and fun facts about living creatures—full of secrets that will make you say, \"Wow!\"\n\nEnjoy this new kind of anime that makes even scary things fun and easy to watch, with its cute art style.\n\n(Source: Official Site, translated)",
-  "popularity": 24609,
-  "num_list_users": 182,
-  "num_scoring_users": 1,
+  "rank": 22698,
+  "popularity": 23401,
+  "num_list_users": 227,
+  "num_scoring_users": 9,
   "nsfw": "white",
   "created_at": "2026-06-19T14:33:34+00:00",
   "updated_at": "2026-06-20T07:05:14+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 15,
@@ -36,7 +37,8 @@
     "start_time": "07:00"
   },
   "source": "picture_book",
-  "average_episode_duration": 0,
+  "average_episode_duration": 120,
+  "rating": "g",
   "studios": [
     {
       "id": 2844,

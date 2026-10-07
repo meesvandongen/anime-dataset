@@ -14,14 +14,16 @@
   },
   "start_date": "2026-10-04",
   "synopsis": "Third season of Ranma ½ (2024).",
-  "popularity": 4902,
-  "num_list_users": 28045,
-  "num_scoring_users": 0,
+  "mean": 7.86,
+  "rank": 1042,
+  "popularity": 4528,
+  "num_list_users": 33765,
+  "num_scoring_users": 1785,
   "nsfw": "gray",
   "created_at": "2026-03-26T09:45:08+00:00",
   "updated_at": "2026-07-26T01:40:51+00:00",
   "media_type": "tv",
-  "status": "not_yet_aired",
+  "status": "currently_airing",
   "genres": [
     {
       "id": 1,
@@ -66,7 +68,7 @@
     "start_time": "00:55"
   },
   "source": "manga",
-  "average_episode_duration": 0,
+  "average_episode_duration": 1375,
   "rating": "pg_13",
   "studios": [
     {
