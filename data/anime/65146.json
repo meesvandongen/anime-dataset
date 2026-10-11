@@ -1,0 +1,52 @@
+{
+  "id": 65146,
+  "title": "Hikari no Tabibito Mellow",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1880/160466.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1880/160466l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "光の旅人メロウ"
+  },
+  "start_date": "1995-06-18",
+  "end_date": "1995-06-18",
+  "synopsis": "This educational sci-fi movie follows a space-themed adventure centered around a meteorite striking the city of Kurume, created specifically for exhibition in a planetarium.",
+  "rank": 17475,
+  "popularity": 30639,
+  "num_list_users": 14,
+  "num_scoring_users": 1,
+  "nsfw": "gray",
+  "created_at": "2026-10-08T23:34:44+00:00",
+  "updated_at": "2026-10-09T12:01:41+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    },
+    {
+      "id": 29,
+      "name": "Space"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1995,
+    "season": "spring"
+  },
+  "average_episode_duration": 0,
+  "rating": "g",
+  "studios": [
+    {
+      "id": 18,
+      "name": "Toei Animation"
+    }
+  ]
+}
