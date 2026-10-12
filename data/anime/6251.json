@@ -14,13 +14,13 @@
   "end_date": "2008-06-25",
   "synopsis": "Short specials from the DVDs.",
   "mean": 6.42,
-  "rank": 8592,
-  "popularity": 11366,
-  "num_list_users": 3126,
+  "rank": 8617,
+  "popularity": 11376,
+  "num_list_users": 3127,
   "num_scoring_users": 994,
   "nsfw": "white",
   "created_at": "2009-03-23T11:17:19+00:00",
-  "updated_at": "2023-11-03T21:23:15+00:00",
+  "updated_at": "2026-10-09T08:04:55+00:00",
   "media_type": "special",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 63,
       "name": "Iyashikei"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     },
     {
       "id": 36,

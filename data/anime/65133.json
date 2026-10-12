@@ -1,0 +1,54 @@
+{
+  "id": 65133,
+  "title": "Amaizo! Dango Pilot Film",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1845/160433.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1845/160433l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "You're Easy! Dango"
+    ],
+    "en": "",
+    "ja": "あまいぞ!男吾 パイロットフィルム"
+  },
+  "start_date": "2016-09-10",
+  "end_date": "2016-09-10",
+  "synopsis": "Pilot film from late 1980s to Early 1990s for anime adaptation of Amaizo! Dango manga by Moo.Nenpei.\n\nAnime was never produced and the pilot version has only been screened at events and has not been released online, or on physical media such as DVD. The date reflects the time it was screened for the first time.\n\n(Source: @wiki)",
+  "rank": 15457,
+  "popularity": 30641,
+  "num_list_users": 18,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2026-10-06T18:19:51+00:00",
+  "updated_at": "2026-10-07T15:35:15+00:00",
+  "media_type": "movie",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2016,
+    "season": "summer"
+  },
+  "source": "manga",
+  "average_episode_duration": 300,
+  "rating": "pg_13",
+  "studios": []
+}
