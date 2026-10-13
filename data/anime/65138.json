@@ -1,0 +1,39 @@
+{
+  "id": 65138,
+  "title": "Respawn!!",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1174/160439.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1174/160439l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Respawn!!",
+    "ja": "リスポーン!!"
+  },
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-07",
+  "synopsis": "Music video for the song Respawn!! by Tsunomaki Watame. The song was used as the opening theme of the anime Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku.",
+  "popularity": 26970,
+  "num_list_users": 128,
+  "num_scoring_users": 63,
+  "nsfw": "white",
+  "created_at": "2026-10-07T10:06:34+00:00",
+  "updated_at": "2026-10-09T02:06:12+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 209,
+  "rating": "pg_13",
+  "studios": []
+}
