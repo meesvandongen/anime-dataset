@@ -1,0 +1,39 @@
+{
+  "id": 65158,
+  "title": "Puripuri Princess",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1887/160485.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1887/160485l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "プリプリプリンセス"
+  },
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "synopsis": "Music video for the song Puripuri Princess by Himemori Luna.\n",
+  "popularity": 30653,
+  "num_list_users": 27,
+  "num_scoring_users": 18,
+  "nsfw": "white",
+  "created_at": "2026-10-10T15:27:31+00:00",
+  "updated_at": "2026-10-18T12:57:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 199,
+  "rating": "pg_13",
+  "studios": []
+}

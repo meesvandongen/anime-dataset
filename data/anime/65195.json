@@ -1,0 +1,43 @@
+{
+  "id": 65195,
+  "title": "Arknights Special PV: Harukanaru Kiro",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1205/160547.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1205/160547l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Arknights Special: The Long Return",
+    "ja": "アークナイツスペシャルPV「遥かなる帰路」"
+  },
+  "start_date": "2026-10-15",
+  "end_date": "2026-10-15",
+  "synopsis": "She saw the rise and fall of civilizations until the cycle halted and drew her into nothingness. \nBut her story was not ended. Though her endless life was taken and her body left frail, Kal'tsit returned with a greater hope.\n\n(Source: Official YouTube Channel)",
+  "popularity": 30354,
+  "num_list_users": 68,
+  "num_scoring_users": 34,
+  "nsfw": "white",
+  "created_at": "2026-10-15T07:24:37+00:00",
+  "updated_at": "2026-10-15T13:34:44+00:00",
+  "media_type": "pv",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 116,
+  "rating": "pg_13",
+  "studios": []
+}
