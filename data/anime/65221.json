@@ -1,0 +1,46 @@
+{
+  "id": 65221,
+  "title": "Doraemon: Doraemon no Nandemo Quiz Pocket",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1013/160635.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1013/160635l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Doraemon: Doraemon's Anything Quiz Pocket"
+    ],
+    "en": "",
+    "ja": "ドラえもん のなんでもクイズポケット"
+  },
+  "start_date": "1992-12-31",
+  "end_date": "1992-12-31",
+  "synopsis": "Quiz animation made for the Terebikko system.",
+  "rank": 16667,
+  "popularity": 30681,
+  "num_list_users": 15,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2026-10-21T07:23:22+00:00",
+  "updated_at": "2026-10-21T11:02:06+00:00",
+  "media_type": "ova",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 56,
+      "name": "Educational"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 1992,
+    "season": "fall"
+  },
+  "source": "manga",
+  "average_episode_duration": 1712,
+  "rating": "pg",
+  "studios": []
+}
