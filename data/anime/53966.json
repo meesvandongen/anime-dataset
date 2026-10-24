@@ -13,8 +13,8 @@
   "start_date": "2016-06-01",
   "end_date": "2016-06-01",
   "synopsis": "",
-  "rank": 22678,
-  "popularity": 21753,
+  "rank": 22680,
+  "popularity": 21755,
   "num_list_users": 318,
   "num_scoring_users": 46,
   "nsfw": "white",
@@ -52,5 +52,10 @@
   "source": "game",
   "average_episode_duration": 1680,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 28,
+      "name": "OLM"
+    }
+  ]
 }
