@@ -1,0 +1,52 @@
+{
+  "id": 65216,
+  "title": "Dinoster: Gonglyongsuhodae 4th Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1567/160610.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1567/160610l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Dinoster 4th Season",
+    "ja": "다이노스터: 공룡수호대"
+  },
+  "start_date": "2026-08-31",
+  "end_date": "2026-11-24",
+  "synopsis": "Fourth season of Dinoster: Gonglyongsuhodae.",
+  "rank": 16595,
+  "popularity": 30619,
+  "num_list_users": 39,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2026-10-19T11:03:01+00:00",
+  "updated_at": "2026-10-21T10:49:53+00:00",
+  "media_type": "tv",
+  "status": "currently_airing",
+  "genres": [
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Mecha"
+    },
+    {
+      "id": 24,
+      "name": "Sci-Fi"
+    }
+  ],
+  "num_episodes": 26,
+  "start_season": {
+    "year": 2026,
+    "season": "summer"
+  },
+  "source": "original",
+  "average_episode_duration": 720,
+  "rating": "pg",
+  "studios": []
+}
