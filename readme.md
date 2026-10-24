@@ -35,7 +35,7 @@ Slightly more data is available on the endpoints for individual anime. These end
 
 <details>
 <summary>Example</summary>
-  
+
 https://raw.githubusercontent.com/meesvandongen/anime-dataset/main/data/anime/1.json
 
 ```json

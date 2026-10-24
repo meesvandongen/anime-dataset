@@ -1,3 +1,4 @@
+import { readFile, writeFile } from "node:fs/promises";
 import { AnimeService, ApiError, OpenAPI } from "./api/index";
 import { delay } from "./utils";
 
@@ -21,7 +22,7 @@ interface Metadata {
   current_year: number;
 }
 
-let metadata: Metadata = await Bun.file("state.json").json();
+let metadata: Metadata = JSON.parse(await readFile("state.json", "utf8"));
 
 let hasReachedEnd = false;
 let lastYearToScrape = metadata.current_year + yearsToScrape;
@@ -68,7 +69,7 @@ yearLoop: while (year < lastYearToScrape) {
       Promise.all(
         (res.data ?? []).map(async (anime) => {
           if (!anime.node) return;
-          await Bun.write(
+          await writeFile(
             `data/anime/${anime.node.id}.json`,
             JSON.stringify(anime.node, null, 2),
           );
@@ -96,4 +97,4 @@ if (hasReachedEnd) {
   metadata.current_year = 1917;
 }
 
-await Bun.write("state.json", JSON.stringify(metadata, null, 2));
+await writeFile("state.json", JSON.stringify(metadata, null, 2));

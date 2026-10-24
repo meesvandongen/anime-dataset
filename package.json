@@ -1,16 +1,21 @@
 {
-  "devDependencies": {
-    "@hey-api/openapi-ts": "^0.38.1",
-    "@types/bun": "latest",
-    "typescript": "^5.0.0",
-    "prettier": "^3.2.5"
-  },
   "scripts": {
-    "generate": "bunx @hey-api/openapi-ts",
-    "scrape": "bun ./src/scrape.ts",
-    "csv": "bun run ./src/csv.ts"
+    "generate": "openapi-ts && vp fmt src/api",
+    "scrape": "vpx ./src/scrape.ts",
+    "csv": "vpx ./src/csv.ts",
+    "lint": "vp lint",
+    "typecheck": "tsc --noEmit",
+    "format": "vp fmt",
+    "format:check": "vp fmt --check"
   },
   "dependencies": {
     "csv-stringify": "^6.4.6"
-  }
+  },
+  "devDependencies": {
+    "@hey-api/openapi-ts": "^0.38.1",
+    "@types/node": "^24.19.2",
+    "typescript": "^5.0.0",
+    "vite-plus": "catalog:"
+  },
+  "packageManager": "pnpm@12.15.0+sha512.b3951d6d6ff4a9f13dc7cf56cd28d2b8eb37dbcc9c68e52e1e1191873ea9f82a017287ab50baadc5ccc494f036c67c0e47eb13608c2fa36f47711b61ea128e61"
 }

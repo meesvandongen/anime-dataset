@@ -21,15 +21,28 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: oven-sh/setup-bun@v1
+      # pnpm comes from the packageManager field in package.json. pnpm 12 needs a
+      # newer corepack than the one bundled with Node.
+      - run: npm install -g corepack@latest && corepack enable
+      - uses: actions/setup-node@v4
         with:
-          bun-version: latest
-      - run: bun install
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+
+      # Code checks; skipped on the nightly scrape so data updates are never blocked.
+      - if: github.event_name != 'schedule'
+        run: pnpm run lint
+      - if: github.event_name != 'schedule'
+        run: pnpm run typecheck
+      - if: github.event_name != 'schedule'
+        run: pnpm run format:check
+
       - name: Scrape step
-        run: "bun run scrape"
+        run: "pnpm run scrape"
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
 
-      - run: "bun run csv"
+      - run: "pnpm run csv"
 
       - uses: stefanzweifel/git-auto-commit-action@v5
