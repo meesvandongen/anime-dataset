@@ -2,7 +2,7 @@
   "devDependencies": {
     "@hey-api/openapi-ts": "^0.38.1",
     "@types/bun": "latest",
-    "typescript": "^5.0.0",
+    "typescript": "^7.0.0",
     "prettier": "^3.2.5"
   },
   "scripts": {
