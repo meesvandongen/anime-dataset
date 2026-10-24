@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@hey-api/openapi-ts": "^0.38.1",
+    "@hey-api/openapi-ts": "^0.99.0",
     "@types/bun": "latest",
     "typescript": "^5.0.0",
     "prettier": "^3.2.5"
