@@ -12,12 +12,12 @@
   },
   "start_date": "2027-01-10",
   "synopsis": "A TV anime for Love Live! Hasunosora Jogakuin School Idol Club.",
-  "popularity": 10115,
-  "num_list_users": 4487,
+  "popularity": 10102,
+  "num_list_users": 4526,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2026-03-31T09:26:09+00:00",
-  "updated_at": "2026-10-18T15:19:42+00:00",
+  "updated_at": "2026-10-22T18:29:08+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -32,6 +32,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 36,
+      "name": "Slice of Life"
     }
   ],
   "num_episodes": 7,
@@ -43,7 +47,7 @@
     "day_of_the_week": "sunday",
     "start_time": "22:30"
   },
-  "source": "mixed_media",
+  "source": "other",
   "average_episode_duration": 0,
   "studios": [
     {

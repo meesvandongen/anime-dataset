@@ -2,8 +2,8 @@
   "id": 63765,
   "title": "Nuki Nuki Zupposism",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1651/156189.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/1651/156189l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/1651/156189.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1651/156189l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -13,10 +13,10 @@
   "start_date": "2026-06-12",
   "end_date": "2026-07-10",
   "synopsis": "",
-  "mean": 6.35,
-  "popularity": 13487,
-  "num_list_users": 1703,
-  "num_scoring_users": 425,
+  "mean": 6.37,
+  "popularity": 13445,
+  "num_list_users": 1728,
+  "num_scoring_users": 440,
   "nsfw": "gray",
   "created_at": "2026-03-20T16:57:04+00:00",
   "updated_at": "2026-10-15T09:29:26+00:00",
@@ -36,10 +36,5 @@
   "source": "manga",
   "average_episode_duration": 1181,
   "rating": "rx",
-  "studios": [
-    {
-      "id": 977,
-      "name": "Queen Bee"
-    }
-  ]
+  "studios": []
 }
