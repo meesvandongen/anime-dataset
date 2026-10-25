@@ -13,8 +13,8 @@
   "start_date": "2025-07-19",
   "end_date": "2025-07-19",
   "synopsis": "",
-  "rank": 20808,
-  "popularity": 30675,
+  "rank": 20809,
+  "popularity": 30676,
   "num_list_users": 24,
   "num_scoring_users": 2,
   "nsfw": "white",
@@ -60,5 +60,10 @@
   "source": "other",
   "average_episode_duration": 1500,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 229,
+      "name": "The Answer Studio"
+    }
+  ]
 }

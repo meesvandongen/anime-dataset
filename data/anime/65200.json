@@ -13,9 +13,9 @@
   "start_date": "2026-07-03",
   "end_date": "2026-07-03",
   "synopsis": "",
-  "rank": 19963,
-  "popularity": 30625,
-  "num_list_users": 39,
+  "rank": 19964,
+  "popularity": 30618,
+  "num_list_users": 40,
   "num_scoring_users": 4,
   "nsfw": "white",
   "created_at": "2026-10-16T03:42:31+00:00",
@@ -48,5 +48,10 @@
   "source": "manga",
   "average_episode_duration": 1620,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 247,
+      "name": "Shin-Ei Animation"
+    }
+  ]
 }
