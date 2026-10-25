@@ -18,7 +18,7 @@
   "end_date": "2015-06-12",
   "synopsis": "A collaboration video between Animegatari and the Ghost in the Shell film made to promote the film.",
   "mean": 5.26,
-  "popularity": 11388,
+  "popularity": 11390,
   "num_list_users": 3132,
   "num_scoring_users": 879,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 112,
   "rating": "g",
-  "studios": []
+  "studios": [
+    {
+      "id": 1396,
+      "name": "W-Toon Studio"
+    }
+  ]
 }
