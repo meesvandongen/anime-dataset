@@ -1,0 +1,45 @@
+{
+  "id": 65278,
+  "title": "Nyan Nyan Kyururun! Neko Noudo",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1935/160726.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1935/160726l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Nyan Nyan Kyururun! Cat Concentration"
+    ],
+    "en": "",
+    "ja": "にゃんにゃんきゅるるん猫濃度"
+  },
+  "start_date": "2026-10-27",
+  "end_date": "2026-10-27",
+  "synopsis": "Music video for the song Nyan Nyan Kyururun! Neko Noudo by Yuuki Sakuna.",
+  "popularity": 30666,
+  "num_list_users": 37,
+  "num_scoring_users": 19,
+  "nsfw": "white",
+  "created_at": "2026-10-27T16:03:38+00:00",
+  "updated_at": "2026-10-27T16:03:38+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 60,
+      "name": "Idols (Female)"
+    },
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "original",
+  "average_episode_duration": 251,
+  "rating": "pg_13",
+  "studios": []
+}
