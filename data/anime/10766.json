@@ -14,10 +14,10 @@
   "end_date": "2011-06-23",
   "synopsis": "A web series \"Detective Conan vs. Wooo.\" This web short is an advertisement for the Wooo line of televisions in Japan.",
   "mean": 6.12,
-  "rank": 10423,
-  "popularity": 8774,
-  "num_list_users": 6656,
-  "num_scoring_users": 2701,
+  "rank": 10427,
+  "popularity": 8781,
+  "num_list_users": 6661,
+  "num_scoring_users": 2705,
   "nsfw": "white",
   "created_at": "2011-05-26T19:38:47+00:00",
   "updated_at": "2023-11-25T13:24:59+00:00",
@@ -52,7 +52,7 @@
   },
   "source": "manga",
   "average_episode_duration": 437,
-  "rating": "g",
+  "rating": "pg_13",
   "studios": [
     {
       "id": 73,

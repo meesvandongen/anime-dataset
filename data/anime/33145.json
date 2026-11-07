@@ -14,19 +14,23 @@
   "end_date": "2001-11-09",
   "synopsis": "A short story about Conan and the Detective Boys.",
   "mean": 6.38,
-  "rank": 8861,
-  "popularity": 10831,
-  "num_list_users": 3628,
-  "num_scoring_users": 959,
+  "rank": 8874,
+  "popularity": 10838,
+  "num_list_users": 3629,
+  "num_scoring_users": 960,
   "nsfw": "white",
   "created_at": "2016-04-07T21:48:06+00:00",
-  "updated_at": "2023-11-25T13:25:23+00:00",
+  "updated_at": "2026-11-06T13:02:09+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
     {
       "id": 7,
       "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,
@@ -36,6 +40,11 @@
   },
   "source": "manga",
   "average_episode_duration": 870,
-  "rating": "g",
-  "studios": []
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
 }

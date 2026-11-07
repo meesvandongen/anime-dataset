@@ -2,8 +2,8 @@
   "id": 33149,
   "title": "Meitantei Conan: Internet Nazo no Mail Jiken",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/11/85629.webp",
-    "large": "https://cdn.myanimelist.net/images/anime/11/85629l.webp"
+    "medium": "https://cdn.myanimelist.net/images/anime/11/85629.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/11/85629l.jpg"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,20 +14,16 @@
   "end_date": "2000-06-23",
   "synopsis": "An educational Meitantei Conan OVA where the Shounen Tantei-dan (Detective Boys/The Junior Detective League) have to do a school research project in the library when they receive a mysterious email that leads them on an educational scavenger hunt. This OVA was released as a bundle with Shogakukan's Nijuuisseiki Kodomo Hyakka Kagaku-kan Dai 2-ban (WOW!) (21st Century Children's Encyclopedia Science Museum 2nd Edition (WOW!)). It uses animated characters on top of live-action backgrounds.",
   "mean": 6.39,
-  "rank": 8802,
-  "popularity": 11380,
-  "num_list_users": 3146,
-  "num_scoring_users": 712,
+  "rank": 8814,
+  "popularity": 11388,
+  "num_list_users": 3147,
+  "num_scoring_users": 714,
   "nsfw": "white",
   "created_at": "2016-04-07T22:16:55+00:00",
-  "updated_at": "2023-11-25T13:26:13+00:00",
+  "updated_at": "2026-11-06T13:01:56+00:00",
   "media_type": "ova",
   "status": "finished_airing",
   "genres": [
-    {
-      "id": 15,
-      "name": "Kids"
-    },
     {
       "id": 7,
       "name": "Mystery"
@@ -35,6 +31,10 @@
     {
       "id": 23,
       "name": "School"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,
@@ -44,6 +44,11 @@
   },
   "source": "manga",
   "average_episode_duration": 842,
-  "rating": "g",
-  "studios": []
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 73,
+      "name": "TMS Entertainment"
+    }
+  ]
 }

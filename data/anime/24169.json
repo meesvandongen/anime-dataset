@@ -2,8 +2,8 @@
   "id": 24169,
   "title": "Meitantei Conan: Toubousha Mouri Kogorou",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1183/152900.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1183/152900l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1183/152900.webp",
+    "large": "https://cdn.myanimelist.net/images/anime/1183/152900l.webp"
   },
   "alternative_titles": {
     "synonyms": [],
@@ -14,13 +14,13 @@
   "end_date": "2014-04-30",
   "synopsis": "File 594 that was never animated. To celebrate Detective Conan Movie 18 premiere, it was animated and streamed on NOTTV.  This is where Kogorou Mouri is the fugitive.",
   "mean": 6.95,
-  "rank": 5184,
-  "popularity": 8087,
-  "num_list_users": 8128,
-  "num_scoring_users": 3388,
+  "rank": 5188,
+  "popularity": 8090,
+  "num_list_users": 8131,
+  "num_scoring_users": 3390,
   "nsfw": "white",
   "created_at": "2014-05-10T07:34:22+00:00",
-  "updated_at": "2023-11-25T14:37:00+00:00",
+  "updated_at": "2026-11-06T13:00:41+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
@@ -31,6 +31,10 @@
     {
       "id": 7,
       "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 1,
