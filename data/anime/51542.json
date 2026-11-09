@@ -14,19 +14,23 @@
   "end_date": "2022-09-30",
   "synopsis": "Short episodes with super-deformed characters posted on the official Twitter account.",
   "mean": 6.08,
-  "rank": 10657,
-  "popularity": 11511,
-  "num_list_users": 3043,
-  "num_scoring_users": 679,
+  "rank": 10667,
+  "popularity": 11523,
+  "num_list_users": 3044,
+  "num_scoring_users": 681,
   "nsfw": "white",
   "created_at": "2022-04-04T23:00:07+00:00",
-  "updated_at": "2023-01-16T02:48:53+00:00",
+  "updated_at": "2026-11-06T13:02:57+00:00",
   "media_type": "ona",
   "status": "finished_airing",
   "genres": [
     {
       "id": 4,
       "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Shounen"
     }
   ],
   "num_episodes": 16,

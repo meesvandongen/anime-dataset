@@ -1,0 +1,44 @@
+{
+  "id": 65301,
+  "title": "Pikmin Close to You",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1237/160829.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1237/160829l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "Pikmin Close to you"
+  },
+  "start_date": "2025-10-09",
+  "end_date": "2025-10-09",
+  "synopsis": "Short animation based on the Pikmin Series by Nintendo.",
+  "rank": 19955,
+  "popularity": 24325,
+  "num_list_users": 197,
+  "num_scoring_users": 85,
+  "nsfw": "white",
+  "created_at": "2026-11-01T09:32:05+00:00",
+  "updated_at": "2026-11-02T08:29:09+00:00",
+  "media_type": "ona",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 15,
+      "name": "Kids"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2025,
+    "season": "fall"
+  },
+  "source": "game",
+  "average_episode_duration": 480,
+  "rating": "g",
+  "studios": []
+}

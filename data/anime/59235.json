@@ -1,0 +1,57 @@
+{
+  "id": 59235,
+  "title": "Minami-ke Korekara",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1897/160939.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1897/160939l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Minami-ke Season 5"
+    ],
+    "en": "",
+    "ja": "みなみけ これから"
+  },
+  "start_date": "2027-04",
+  "synopsis": "Fifth season of Minami-ke.",
+  "popularity": 10497,
+  "num_list_users": 4056,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2024-07-07T14:17:28+00:00",
+  "updated_at": "2026-11-08T06:45:36+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 52,
+      "name": "CGDCT"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "spring"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 839,
+      "name": "LIDENFILMS"
+    }
+  ]
+}

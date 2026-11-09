@@ -1,0 +1,74 @@
+{
+  "id": 65323,
+  "title": "Spirit Circle",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1042/160880.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1042/160880l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "スピリットサークル"
+  },
+  "start_date": "2026-12",
+  "synopsis": "Fuuta Okeya, a 14-year-old student, can see ghosts and wears a bandage on his left cheek to hide his striking birthmark. One day, a girl with a scar on her forehead named Kouko Ishigami, accompanied by a ghost of a tall and friendly man, transfers into his class.\n\nFuuta quickly takes a liking to Kouko, wondering if it might be love at first sight. After waking up crying from a strange dream involving her, he feels a nostalgic connection to Kouko and becomes determined to befriend her. However, a chain of events forces Fuuta to reveal his birthmark to Kouko, to which she declares him to be the enemy of her life. A furious Kouko explains that the two are bound by reincarnation, and that Fuuta's birthmark is a curse she engraved on him in one of their past lives to recognize and eventually defeat him.\n\nKouko brings out a circular object made of flames known as the \"spirit circle\" and attacks Fuuta, pushing him off a flight of stairs. As he falls, Fuuta is thrown back into the insight of one of his previous lives.\n\n[Written by MAL Rewrite]",
+  "popularity": 10043,
+  "num_list_users": 4624,
+  "num_scoring_users": 2,
+  "nsfw": "white",
+  "created_at": "2026-11-05T09:18:54+00:00",
+  "updated_at": "2026-11-05T11:01:01+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 4,
+      "name": "Comedy"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 72,
+      "name": "Reincarnation"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 42,
+      "name": "Seinen"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 18,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 2829,
+      "name": "EOTA"
+    },
+    {
+      "id": 3083,
+      "name": "Nagomi"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 63344,
+  "title": "The Edge",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1318/155069.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1318/155069l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "",
+    "ja": "The Edge"
+  },
+  "start_date": "2023-02-24",
+  "end_date": "2023-02-24",
+  "synopsis": "Music video for the song The Edge by Atarashii Gakkou no Leaders.",
+  "popularity": 30758,
+  "num_list_users": 18,
+  "num_scoring_users": 7,
+  "nsfw": "white",
+  "created_at": "2026-01-20T13:35:12+00:00",
+  "updated_at": "2026-11-04T11:51:43+00:00",
+  "media_type": "music",
+  "status": "finished_airing",
+  "genres": [
+    {
+      "id": 19,
+      "name": "Music"
+    }
+  ],
+  "num_episodes": 1,
+  "start_season": {
+    "year": 2023,
+    "season": "winter"
+  },
+  "source": "original",
+  "average_episode_duration": 172,
+  "rating": "pg_13",
+  "studios": []
+}
