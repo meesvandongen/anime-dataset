@@ -2,8 +2,8 @@
   "id": 63256,
   "title": "Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru",
   "main_picture": {
-    "medium": "https://cdn.myanimelist.net/images/anime/1755/160544.jpg",
-    "large": "https://cdn.myanimelist.net/images/anime/1755/160544l.jpg"
+    "medium": "https://cdn.myanimelist.net/images/anime/1405/161252.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1405/161252l.jpg"
   },
   "alternative_titles": {
     "synonyms": [
@@ -12,14 +12,14 @@
     "en": "Enjoy New Life with My Daughter",
     "ja": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する"
   },
-  "start_date": "2027-01",
+  "start_date": "2027-01-08",
   "synopsis": "Douglas, once known as a legendary enhancement spellcaster, is now little more than your average, weak old man. On top of that, he was kicked out of the hero party, and eventually had his adventurer's license revoked... And that's how he ended up a vagabond, wandering aimlessly. After an encounter with Rabi, a cursed little girl, a new adventure begins...\n\n(Source: Square Enix)",
-  "popularity": 10624,
-  "num_list_users": 3889,
+  "popularity": 10403,
+  "num_list_users": 4190,
   "num_scoring_users": 0,
   "nsfw": "white",
   "created_at": "2026-01-04T13:34:01+00:00",
-  "updated_at": "2026-10-15T03:49:11+00:00",
+  "updated_at": "2026-11-19T09:57:52+00:00",
   "media_type": "tv",
   "status": "not_yet_aired",
   "genres": [
@@ -40,6 +40,10 @@
   "start_season": {
     "year": 2027,
     "season": "winter"
+  },
+  "broadcast": {
+    "day_of_the_week": "friday",
+    "start_time": "00:00"
   },
   "source": "light_novel",
   "average_episode_duration": 0,

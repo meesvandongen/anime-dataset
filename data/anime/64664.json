@@ -1,0 +1,53 @@
+{
+  "id": 64664,
+  "title": "Kusunoki-san wa Koukou Debut ni Shippai shiteiru",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1220/159134.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1220/159134l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "Kusunoki-san Failed to Debut in High School",
+      "She Is (Not) a Cool Girl (in High School)"
+    ],
+    "en": "Kusunoki's Flunking Her High School Glow-Up",
+    "ja": "楠木さんは高校デビューに失敗している"
+  },
+  "start_date": "2027-04",
+  "synopsis": "Keisuke Shizuki and Shizuka Kusunoki are taking high school by storm with their good looks, but they share a dark secret: they were both total outcasts in middle school! While Shizuki has succeeded in making himself over inside and out, clearing the slate of his past life, Kusunoki is still struggling to develop social skills to match her new appearance. She's eager for Shizuki's help, if only he could get over his phobia of pretty girls...\n\n(Source: Kodansha USA)",
+  "popularity": 8739,
+  "num_list_users": 6761,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-07-23T13:23:15+00:00",
+  "updated_at": "2026-11-17T09:59:49+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 23,
+      "name": "School"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "spring"
+  },
+  "source": "web_manga",
+  "average_episode_duration": 0,
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    },
+    {
+      "id": 2370,
+      "name": "Hayabusa Film"
+    }
+  ]
+}

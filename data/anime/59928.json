@@ -1,0 +1,59 @@
+{
+  "id": 59928,
+  "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf 2nd Season",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1953/161238.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1953/161238l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [],
+    "en": "Spice and Wolf: Merchant Meets the Wise Wolf Season 2",
+    "ja": "狼と香辛料 MERCHANT MEETS THE WISE WOLF 第2期"
+  },
+  "start_date": "2027-01",
+  "synopsis": "Second season of Ookami to Koushinryou: Merchant Meets the Wise Wolf.",
+  "popularity": 3723,
+  "num_list_users": 49992,
+  "num_scoring_users": 3,
+  "nsfw": "white",
+  "created_at": "2024-09-23T17:39:38+00:00",
+  "updated_at": "2026-11-18T10:17:16+00:00",
+  "media_type": "tv",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 50,
+      "name": "Adult Cast"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 8,
+      "name": "Drama"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Supernatural"
+    }
+  ],
+  "num_episodes": 0,
+  "start_season": {
+    "year": 2027,
+    "season": "winter"
+  },
+  "source": "light_novel",
+  "average_episode_duration": 0,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 911,
+      "name": "Passione"
+    }
+  ]
+}
