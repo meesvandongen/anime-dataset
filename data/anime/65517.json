@@ -1,0 +1,66 @@
+{
+  "id": 65517,
+  "title": "Da Zhuzai: Nian Fan 3",
+  "main_picture": {
+    "medium": "https://cdn.myanimelist.net/images/anime/1783/161319.jpg",
+    "large": "https://cdn.myanimelist.net/images/anime/1783/161319l.jpg"
+  },
+  "alternative_titles": {
+    "synonyms": [
+      "The Great Ruler 3rd Season",
+      "Da Zhuzai (2023) 3rd Season, 大主宰 第三季, Da Zhuzai 3D 3rd Season, TGR"
+    ],
+    "en": "The Great Ruler 3",
+    "ja": "大主宰 年番3"
+  },
+  "start_date": "2026-12-25",
+  "synopsis": "Third season of Da Zhuzai: Nian Fan.",
+  "popularity": 22898,
+  "num_list_users": 258,
+  "num_scoring_users": 0,
+  "nsfw": "white",
+  "created_at": "2026-11-22T14:48:31+00:00",
+  "updated_at": "2026-11-22T14:53:34+00:00",
+  "media_type": "ona",
+  "status": "not_yet_aired",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure"
+    },
+    {
+      "id": 10,
+      "name": "Fantasy"
+    },
+    {
+      "id": 13,
+      "name": "Historical"
+    },
+    {
+      "id": 17,
+      "name": "Martial Arts"
+    },
+    {
+      "id": 22,
+      "name": "Romance"
+    }
+  ],
+  "num_episodes": 52,
+  "start_season": {
+    "year": 2026,
+    "season": "fall"
+  },
+  "source": "web_novel",
+  "average_episode_duration": 1320,
+  "rating": "pg_13",
+  "studios": [
+    {
+      "id": 1827,
+      "name": "Motion Magic"
+    }
+  ]
+}

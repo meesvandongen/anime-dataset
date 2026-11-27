@@ -15,10 +15,10 @@
   "start_date": "2026-11-20",
   "end_date": "2027",
   "synopsis": "New Soukou Kihei Votoms anime, part of the Sunrise 50th Anniversary project.",
-  "rank": 21156,
-  "popularity": 9903,
-  "num_list_users": 4837,
-  "num_scoring_users": 11,
+  "rank": 21170,
+  "popularity": 9666,
+  "num_list_users": 5241,
+  "num_scoring_users": 26,
   "nsfw": "white",
   "created_at": "2026-01-17T04:24:18+00:00",
   "updated_at": "2026-05-12T03:12:30+00:00",
@@ -52,7 +52,8 @@
     "season": "fall"
   },
   "source": "original",
-  "average_episode_duration": 0,
+  "average_episode_duration": 6000,
+  "rating": "pg_13",
   "studios": [
     {
       "id": 14,

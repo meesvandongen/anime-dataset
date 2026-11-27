@@ -13,8 +13,8 @@
   "start_date": "2023-08-30",
   "end_date": "2023-11-30",
   "synopsis": "",
-  "rank": 20251,
-  "popularity": 20984,
+  "rank": 20264,
+  "popularity": 20998,
   "num_list_users": 365,
   "num_scoring_users": 73,
   "nsfw": "white",
@@ -44,5 +44,10 @@
   "source": "original",
   "average_episode_duration": 660,
   "rating": "pg",
-  "studios": []
+  "studios": [
+    {
+      "id": 2905,
+      "name": "Campfire Aniworks"
+    }
+  ]
 }
